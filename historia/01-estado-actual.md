@@ -15,20 +15,21 @@ Los acontecimientos narrativos detallados van en `RESUMEN.txt` y los resúmenes 
 ## Estado actual
 
 - **Proyecto:** UMBRAL.
-- **Fase de trabajo actual:** consolidar la documentación y avanzar con la escritura del Piso 1.
-- **Siguiente objetivo narrativo:** revisar/consolidar el estado general del Piso 1 y luego trabajar el escenario 1A capítulo por capítulo.
-- **No iniciar todavía:** diseño estructural de pisos posteriores. El usuario avisará cuándo corresponde.
+- **Fase de trabajo actual:** mantener la continuidad del Piso 1 y avanzar escenario por escenario.
+- **Último escenario cerrado:** Piso 1A — «Aprender las reglas»; resumen de continuidad aprobado por el usuario.
+- **Siguiente objetivo narrativo:** continuar con 1B cuando el usuario indique avanzar.
+- **No modificar:** diseños estructurales ni capítulos completos como parte de esta actualización.
 - **Piso 2:** existen decisiones e ideas previas; no rediseñarlo desde cero. Consultar los documentos y conversaciones de referencia disponibles antes de retomarlo.
 
 ## Estado de escritura y publicación
 
 > Actualizar esta sección cada vez que se apruebe o publique contenido. No marcar nada como guardado en GitHub sin comprobar que la operación tuvo éxito.
 
-- **Último capítulo aprobado y guardado:** Pendiente de verificar en los archivos narrativos actuales.
-- **Escenario en escritura:** Pendiente de confirmar al comenzar la siguiente sesión de escritura.
-- **Último escenario cerrado con resumen definitivo:** Pendiente de verificar.
-- **Último piso cerrado:** Pendiente de verificar.
-- **Última actualización de este estado:** Archivo inicial creado; el contenido detallado aún debe consolidarse desde los archivos existentes.
+- **Último capítulo aprobado y guardado verificado:** Capítulo 5, «Al otro lado», en `piso-1/a/capitulo-5.html`.
+- **Escenario cerrado:** Piso 1A. El usuario aprobó el resumen de continuidad; se está registrando en `RESUMEN.txt`.
+- **Publicación pendiente de verificar:** `piso-1/a/capitulo-3.html` no se encontró en la revisión anterior; no asumir que está publicado.
+- **Último piso cerrado:** Ninguno confirmado; el Piso 1 sigue en desarrollo.
+- **Última actualización:** registro del resumen aprobado de 1A y ajuste del estado operativo.
 
 ## Flujo de trabajo acordado
 
@@ -36,8 +37,8 @@ Los acontecimientos narrativos detallados van en `RESUMEN.txt` y los resúmenes 
 2. El chat escritor redacta capítulo por capítulo y respeta la continuidad.
 3. El usuario revisa y aprueba el contenido.
 4. El chat de publicación guarda únicamente las versiones aprobadas en las rutas narrativas correspondientes y actualiza los registros pertinentes.
-5. Al cerrar un escenario, el chat escritor prepara un resumen independiente, detallado lo suficiente para continuar la historia, pero sin reproducir toda la narración. El usuario lo revisa y aprueba.
-6. Tras la aprobación, el chat de publicación incorpora ese resumen a `RESUMEN.txt` o al documento de continuidad que corresponda, y registra cambios relevantes en personajes, capacidades, equipo, recursos y progreso.
+5. Al cerrar un escenario, el chat escritor prepara un resumen breve e independiente: diseño de la sala, aprendizajes del protagonista, resolución y estado necesario para mantener continuidad. No debe reproducir la narración completa. El usuario lo revisa y aprueba antes de publicarlo.
+6. Tras la aprobación, el chat de publicación incorpora el resumen a `RESUMEN.txt` y actualiza solo los registros generales afectados. No modifica diseños estructurales ni capítulos completos sin una petición expresa.
 7. Al cerrar un piso, se consolida su estado final y se actualiza `historia/00-panorama-general.md`.
 8. El estado de este archivo se actualiza cuando cambia el punto de trabajo o se completa una publicación importante.
 
@@ -66,13 +67,12 @@ Si un archivo mencionado no existe o no se encuentra, el chat debe decirlo clara
 
 ## Pendientes inmediatos
 
-- Verificar el contenido y la ubicación actuales de la novela, los resúmenes y el registro de progreso en GitHub.
-- Consolidar el estado del Piso 1 a partir de los archivos existentes, sin sustituirlos por una reconstrucción basada solo en memoria.
-- Trabajar el escenario 1A capítulo por capítulo cuando el usuario indique continuar.
-- Tras aprobar el cierre de 1A, guardar su resumen de continuidad y actualizar los registros afectados.
+- Continuar con el escenario 1B cuando el usuario indique avanzar.
+- Verificar si existe y debe publicarse `piso-1/a/capitulo-3.html`; no reconstruirlo sin revisar el texto aprobado.
 - Resolver [Espacio adicional] de Kevin solo cuando se revise y acuerde su funcionamiento; no inventar ni sustituir sus efectos.
 - Mantener diferenciados el canon confirmado, lo provisional, las propuestas y los asuntos pendientes.
 
 ## Registro breve de cambios
 
-- **Inicialización:** creado el archivo de estado operativo para facilitar la continuidad entre chats. Aún falta comprobar el punto exacto de escritura/publicación y actualizarlo con datos verificados del repositorio.
+- **Inicialización:** creado el archivo de estado operativo para facilitar la continuidad entre chats.
+- **Piso 1A:** incorporado el resumen breve aprobado por el usuario a `RESUMEN.txt`; actualizado el índice general de 1A y el punto de guardado operativo.
