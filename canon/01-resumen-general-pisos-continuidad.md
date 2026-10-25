@@ -6,7 +6,7 @@ UMBRAL es una historia de supervivencia, exploración, combate y progresión. Lo
 
 La supervivencia depende de observar, experimentar, colaborar cuando conviene, administrar recursos y adaptarse. Las victorias tienen un coste. Los personajes no deben actuar como si conocieran reglas que todavía no han descubierto.
 
-Kevin es un hombre corriente de treinta años, no un elegido ni un héroe con una historia trágica. Su prioridad es sobrevivir. Es observador y prudente, a veces sobrepiensa y prefiere oportunidades claras antes que ataques frontales innecesarios.
+Kevin es un hombre corriente de treinta años, no un elegido ni un héroe con una historia trágica. Su prioridad es sobrevivir. Es observador y prudente, a veces sobrepiensa y prefiere oportunidades claras antes que ataques frontales innecesarios. Ante un peligro, su primer impulso es buscar una salida; si comprueba que no existe, evalúa qué opción le ofrece mayores probabilidades de sobrevivir. Intenta ser útil cuando puede y evitar estorbar, sin asumir riesgos absurdos solo para parecer valiente.
 
 ## 2. Estructura del Piso 1 — El precio de existir
 
@@ -20,16 +20,15 @@ Kevin despierta en una plataforma frente a una puerta cerrada, al otro lado de u
 ### 1B — Los demás jugadores
 **Eslogan:** «La respuesta que buscas puede estar en boca de tu enemigo».
 
-Los participantes llegan a una zona común. Kevin conoce a Darien, Mara, Bruno e Iván. Exploran, intercambian información y resuelven mecanismos, mientras aprenden que la cooperación puede ser útil, pero no todo el mundo está dispuesto a colaborar.
+Los participantes llegan a una zona común. Kevin conoce a Darien, Mara, Bruno e Iván. Exploran, intercambian información y resuelven mecanismos, mientras aprenden que la cooperación puede ser útil, pero todavía no existe confianza ni coordinación sólida.
 
-Durante esta etapa, cada personaje obtiene su primera pasiva individual:
-- Kevin obtiene [Espacio adicional].
-- Bruno obtiene [Base firme].
-- Mara obtiene [Movimiento preciso].
-- Darien obtiene [Impulso de impacto].
-- Iván obtiene [Punto débil].
+Al manipular una muesca, los pasillos se abren y el grupo queda separado. Cada uno afronta obstáculos y mecanismos distintos; las acciones dejan indicios de sus formas de actuar, sin que comprendan todavía que están desarrollando capacidades. Tras reunirse, colocan las piezas en el mecanismo principal y abren un arsenal auxiliar. Darien activa además una placa secundaria de tres piezas, y el sistema advierte que las condiciones de la etapa pueden verse alteradas. El grupo no conoce el alcance de esa advertencia.
 
-[Espacio adicional] está concebida como una pasiva, aunque su funcionamiento concreto todavía está pendiente de definición. No debe clasificarse como habilidad activa ni atribuirle efectos específicos hasta que se establezca su mecánica definitiva.
+La criatura guardiana es resistente y peligrosa, pero no posee una mecánica compleja. El grupo sobrevive mediante errores, observación y oportunidades desesperadas, no gracias a una coordinación experta. Kevin busca primero una salida y, al comprobar que no existe, intenta elegir acciones que aumenten sus probabilidades de sobrevivir. Durante el combate utiliza [Espacio adicional] por desesperación, sin dominarlo.
+
+Al finalizar la etapa, el sistema registra las primeras pasivas individuales de los cuatro compañeros: Bruno [Base firme], Mara [Movimiento preciso], Darien [Impulso de impacto] e Iván [Punto débil]. Kevin ya había encontrado por casualidad la pasiva oculta [Espacio adicional] y no obtiene una segunda pasiva por completar 1B.
+
+[Espacio adicional] permite provisionalmente almacenar y recuperar ciertos objetos, pero sus límites, clasificación exacta y condiciones siguen pendientes. No permite introducir objetos dentro de enemigos, duplicarlos ni sustraer directamente objetos del inventario de otra persona.
 
 **Función narrativa:** introducir relaciones, negociación, cautela, preparación y la primera progresión de capacidades.
 
