@@ -16,7 +16,7 @@ Los acontecimientos narrativos detallados van en `RESUMEN.txt` y los resúmenes 
 
 - **Proyecto:** UMBRAL.
 - **Fase de trabajo actual:** mantener la continuidad del Piso 1 y avanzar escenario por escenario.
-- **Último escenario trabajado:** Piso 1D — «El entorno también combate», capítulo 14. La narración se ha preparado para guardar en `piso-1/d/capitulo-14.html`; actualizar este punto tras verificar la publicación.
+- **Último escenario trabajado:** Piso 1D — «El entorno también combate», capítulo 14. El capítulo 14 está guardado y verificado en `piso-1/d/capitulo-14.html`.
 - **Último escenario resumido para continuidad:** Piso 1C — «Primer combate». El resumen de cierre se incorporó a `RESUMEN.txt` y el resumen general del canon se actualizó.
 - **Siguiente objetivo narrativo:** revisar el capítulo 14 y cerrar el resumen de continuidad de 1D con el usuario; después continuar solo con su señal.
 - **No modificar:** diseños estructurales ni capítulos completos como parte de esta actualización.
@@ -26,11 +26,11 @@ Los acontecimientos narrativos detallados van en `RESUMEN.txt` y los resúmenes 
 
 > Actualizar esta sección cada vez que se apruebe o publique contenido. No marcar nada como guardado en GitHub sin comprobar que la operación tuvo éxito.
 
-- **Último capítulo guardado verificado:** pendiente de verificación después de escribir el capítulo 14 de Piso 1D.
+- **Último capítulo guardado verificado:** Capítulo 14, «Lo que se mueve bajo tus pies», en `piso-1/d/capitulo-14.html`.
 - **Último escenario cerrado previamente:** Piso 1C — «Primer combate»; capítulos 10–13 están presentes en `piso-1/c/`. Piso 1D está en revisión de escritura y requiere aprobación de su resumen de cierre.
 - **Publicación pendiente de verificar:** `piso-1/a/capitulo-3.html` no se encontró en la revisión anterior; no asumir que está publicado.
 - **Último piso cerrado:** Ninguno confirmado; el Piso 1 sigue en desarrollo.
-- **Última actualización:** cierre de Piso 1C y sincronización del resumen de continuidad, el resumen general del canon, el panorama global y este punto de guardado. 1C no añade genes, pasivas ni habilidades confirmadas.
+- **Última actualización:** capítulo 14 de Piso 1D guardado y verificado; aclarada la diferencia de dificultad entre la criatura peligrosa de 1D y el desafío del Astado; corregidos el origen de [Coraza de impacto] y los resúmenes de continuidad. El resumen de cierre de 1D queda incorporado a `RESUMEN.txt` como borrador de continuidad, pendiente de revisión del usuario.
 
 ## Flujo de trabajo acordado
 
@@ -76,7 +76,7 @@ Si un archivo mencionado no existe o no se encuentra, el chat debe decirlo clara
 
 ## Registro breve de cambios
 
-- **Piso 1D (en curso):** ajustada la escala de dificultad de la criatura peligrosa: combate muy duro pero manejable, sin llegar al extremo del Astado. Capítulo 14 preparado para guardar y verificar.
+- **Piso 1D (en curso):** capítulo 14 escrito, guardado y verificado. La criatura peligrosa supone dificultad alta y una batalla muy dura pero manejable, menos severa que el Astado. Resumen de continuidad añadido para revisión.
 - **Inicialización:** creado el archivo de estado operativo para facilitar la continuidad entre chats.
 - **Piso 1A:** incorporado el resumen breve aprobado por el usuario a `RESUMEN.txt`; actualizado el índice general de 1A y el punto de guardado operativo.
 - **Piso 1B (continuidad de trabajo):** añadido resumen de la prueba a `RESUMEN.txt`; actualizados los registros relacionados con el encuentro de los cinco y sus capacidades iniciales.
