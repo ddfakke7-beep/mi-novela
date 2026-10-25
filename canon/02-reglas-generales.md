@@ -59,8 +59,13 @@
 - Las pasivas proporcionan mejoras concretas, normalmente pequeñas o condicionales.
 - Pueden afectar estabilidad, precisión, coordinación, transferencia de fuerza o lectura de movimientos.
 - No sustituyen la técnica ni garantizan el éxito de una acción.
-- Se desarrollan mediante uso significativo, práctica y comprensión.
-- Repetir una acción trivial no permite subirlas indefinidamente.
+- La formación de una pasiva puede estar relacionada con las acciones, decisiones, esfuerzos y peligros que afronta una persona. Estas experiencias pueden contribuir a que una capacidad emerja, pero ninguna acción aislada garantiza una pasiva ni permite escogerla a voluntad.
+- La relación entre una experiencia y una pasiva no siempre es evidente para quien la obtiene. Las primeras manifestaciones pueden confundirse con una reacción normal, un acierto casual o una consecuencia del entorno.
+- Repetir una acción trivial no permite obtener ni subir pasivas indefinidamente.
+- Además de la formación asociada a las experiencias, UMBRAL puede ocultar pasivas concretas en determinadas salas o pruebas. Encontrarlas es excepcional y extremadamente improbable; no todas las salas contienen una, ni existe una señal universal que permita reconocerlas. Una pasiva oculta puede obtenerse sin superar un desafío especial ni realizar una acción peligrosa concreta.
+- Encontrar una pasiva oculta es distinto de formar una capacidad a través de las experiencias de una prueba. Los participantes no conocen automáticamente esta diferencia, y obtener una pasiva por cualquiera de las dos vías no garantiza comprenderla o dominarla.
+- Una etapa peligrosa también puede conceder pasivas como recompensa al completarse. Esta posibilidad es distinta de las pasivas ocultas dentro de una sala y de la formación gradual durante la prueba; no se debe asumir que todas las pasivas obtenidas en un escenario proceden de la misma vía.
+- Las pasivas se desarrollan mediante uso significativo, práctica y comprensión.
 - Para pasar de un nivel de dominio al siguiente, el personaje debe descubrir una aplicación o comprensión nueva, o demostrar un dominio extraordinario del funcionamiento que ya conoce. El tiempo y la práctica ayudan, pero no producen una subida automática.
 - No existe un sistema independiente de puntos de habilidad que se reparten libremente.
 - La progresión debe demostrarse mediante acciones y resultados observables.
@@ -73,7 +78,7 @@
 - Las pasivas activables no son necesariamente más poderosas que las constantes. La rareza, la potencia y la utilidad son características distintas.
 - Cada pasiva debe tener su efecto y sus límites concretos definidos en su ficha individual desde el momento en que se crea. Las reglas generales establecen el principio, pero los límites específicos deben anotarse en el registro de esa pasiva o en la ficha del personaje. No se debe asumir que todas funcionan igual ni atribuirles capacidades no establecidas.
 - La clasificación de una capacidad como activa o pasiva debe respetar su diseño establecido; no se debe cambiar sin motivo narrativo o mecánico.
-- **[Espacio adicional] de Kevin está concebida como una pasiva.** Su funcionamiento definitivo, su clasificación como constante o activable y sus límites están pendientes de definición. No se deben inventar efectos ni modificar su balance antes de establecer cómo funciona.
+- **[Espacio adicional] de Kevin está concebida como una pasiva.** Su funcionamiento acordado provisionalmente permite almacenar y recuperar objetos mediante el inventario, con límites iniciales relacionados con tamaño o peso que pueden ampliarse con el desarrollo. La clasificación exacta como constante o activable y los límites concretos siguen pendientes. No permite introducir objetos dentro de enemigos, duplicarlos ni sustraer directamente objetos del inventario de otra persona.
 
 ## 7. Genes
 - Los genes proceden de criaturas peligrosas, enemigos excepcionales, minibosses o jefes.
