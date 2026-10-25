@@ -35,11 +35,13 @@ Al finalizar la etapa, el sistema registra las primeras pasivas individuales de 
 ### 1C — Primer combate
 **Eslogan:** «Cuanto más repitas, menos tiempo tendrás».
 
-El grupo se enfrenta a sus primeras amenazas reales y debe resolver un problema relacionado con una válvula y la presión ambiental mientras combate y administra el tiempo disponible.
+El grupo se enfrenta a una criatura resistente mientras un mecanismo con válvula e indicador acumula presión. El entorno añade urgencia al combate, sin convertirse en un acertijo independiente. Al principio, los cinco actúan de forma desordenada; mediante errores y observación identifican señales previas a las embestidas, una abertura entre las placas y la utilidad de concentrar ataques en una zona dañada. Bruno contribuye a dirigir una embestida hacia una columna, Mara aprovecha aperturas, Darien aprende a no desperdiciar golpes contra las defensas más resistentes, Iván comunica patrones observados y Kevin coordina oportunidades sin dominar por completo la situación.
 
-Consiguen sus primeras armas y recompensas, pero sufren heridas. Kevin se lesiona el hombro al golpearse contra una pared mientras manipula la válvula bajo presión.
+Kevin asesta el golpe decisivo con su lanza. El sistema confirma **[AMENAZA ELIMINADA]**, pero la etapa sigue en proceso mientras la presión del mecanismo aumenta y las tuberías expulsan vapor. Como los personajes no conocen su funcionamiento, evitan manipularlo a ciegas. Después, el indicador se estabiliza, la presión desciende y la puerta se abre. El sistema confirma **[ETAPA SUPERADA: PISO 1C]**.
 
-**Función narrativa:** introducir el combate, las aperturas, la coordinación y las consecuencias físicas.
+La recompensa se asigna automáticamente al inventario e incluye créditos y materiales desconocidos. No se confirma equipo nuevo, genes ni pasivas. Los personajes no saben aún cómo usar esos recursos ni si encontrarán curación o comerciantes. Kevin sale con dolor en el hombro/espalda; Bruno tiene dolor en el costado y el grupo está agotado. Superar la etapa no cura sus heridas.
+
+**Función narrativa:** presentar el primer combate del grupo, mostrar que la observación y la coordinación reducen errores sin garantizar una victoria limpia, y establecer que sobrevivir deja consecuencias físicas. Los patrones aprendidos son específicos de esta criatura y no deben tratarse como reglas universales.
 
 ### 1D — El entorno también combate
 **Eslogan:** «Aunque te detengas, nada a tu alrededor se detendrá».
