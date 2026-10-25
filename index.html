@@ -1,15 +1,94 @@
-<!doctype html>
+
+<!DOCTYPE html>
 <html lang="es">
 <head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Biblioteca de la novela</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>UMBRAL — La Novela</title>
+  <style>
+    body {
+      margin: 0;
+      background: #10121a;
+      color: #eeeeF5;
+      font-family: Arial, sans-serif;
+    }
+    header {
+      text-align: center;
+      padding: 55px 20px;
+      background: linear-gradient(135deg, #171b2b, #302047);
+      border-bottom: 1px solid #44405a;
+    }
+    h1 {
+      font-size: 48px;
+      letter-spacing: 10px;
+      margin: 0;
+    }
+    header p { color: #c3bdd8; }
+    main {
+      max-width: 850px;
+      margin: 35px auto;
+      padding: 0 20px;
+    }
+    .pisos {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(130px, 1fr));
+      gap: 14px;
+    }
+    .piso {
+      display: block;
+      padding: 22px 10px;
+      text-align: center;
+      color: #e8dfff;
+      text-decoration: none;
+      background: #1b2030;
+      border: 1px solid #45415b;
+      border-radius: 10px;
+      font-weight: bold;
+    }
+    .piso:hover {
+      background: #342849;
+      border-color: #b69cff;
+    }
+    .intro {
+      margin-bottom: 25px;
+      color: #c4c7d5;
+      line-height: 1.7;
+    }
+    footer {
+      text-align: center;
+      color: #888da3;
+      padding: 30px;
+    }
+  </style>
 </head>
 <body>
-  <h1>Biblioteca de la novela</h1>
-  <p>Índice principal</p>
-  <ul>
-    <li><a href="piso-1/index.html">Piso 1</a></li>
-  </ul>
+  <header>
+    <h1>UMBRAL</h1>
+    <p>Una novela. Diez pisos. Un mundo por descubrir.</p>
+  </header>
+
+  <main>
+    <h2>Explorar los pisos</h2>
+    <p class="intro">
+      Bienvenido a UMBRAL. Selecciona un piso para explorar
+      sus secciones y capítulos.
+    </p>
+
+    <div class="pisos">
+      <a class="piso" href="piso-1/index.html">PISO 1</a>
+      <a class="piso" href="piso-2/index.html">PISO 2</a>
+      <a class="piso" href="piso-3/index.html">PISO 3</a>
+      <a class="piso" href="piso-4/index.html">PISO 4</a>
+      <a class="piso" href="piso-5/index.html">PISO 5</a>
+      <a class="piso" href="piso-6/index.html">PISO 6</a>
+      <a class="piso" href="piso-7/index.html">PISO 7</a>
+      <a class="piso" href="piso-8/index.html">PISO 8</a>
+      <a class="piso" href="piso-9/index.html">PISO 9</a>
+      <a class="piso" href="piso-10/index.html">PISO 10</a>
+    </div>
+  </main>
+
+  <footer>UMBRAL · Biblioteca de la novela</footer>
 </body>
 </html>
+
