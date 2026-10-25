@@ -52,7 +52,11 @@ El grupo cruza un vacío utilizando bloques de piedra móviles mientras unos ras
 
 ### Zona intermedia — «Lo que puedes comprar no siempre es lo que necesitas»
 
-Entre 1D y 1E puede aparecer una zona comercial poco común. No es un escenario obligatorio ni un piso independiente; es un tramo complementario asociado a la transición y no se garantiza que vuelva a estar disponible.
+Entre 1D y 1E puede surgir una zona comercial extraordinariamente rara, una anomalía que va y viene durante las transiciones entre pisos. No es un escenario obligatorio, un piso independiente ni una parada comercial habitual. Encontrarla —y encontrarse con su comerciante— es algo excepcional; el grupo no puede contar con volver a verla ni regresar después de marcharse.
+
+La regla estratégica para quien conoce la rareza de esta zona es aprovechar al máximo todo lo útil que ofrece mientras esté disponible: información, suministros, tratamiento, reparaciones y las pocas piezas de equipo que tenga. No significa comprar sin pensar, sino examinar las opciones y valorar la oportunidad completa antes de abandonarla.
+
+El grupo todavía desconoce esa regla. Interpreta «Lo que puedes comprar no siempre es lo que necesitas» como un consejo comercial corriente, cree que basta con adquirir alguna cosa útil y no entiende que quizá está desperdiciando una oportunidad irrepetible. Su error debe resultar comprensible desde su conocimiento limitado, no parecer una estupidez evidente ni una decisión que el narrador les haya explicado de antemano.
 
 El comerciante es misterioso y responde de forma limitada. En estos pisos tempranos no vende genes ni pasivas: puede explicar principios generales y dar criterios para reconocer qué tipos de capacidades, genes o decisiones de desarrollo podrían encajar con distintos estilos de combate y supervivencia. Su orientación ayuda a pensar una configuración propia, pero no asegura compatibilidad, resultados ni recompensas futuras.
 
@@ -66,7 +70,7 @@ Tras abandonar la zona, no pueden dar por hecho que podrán regresar por el mism
 
 **Eslogan:** «Lo que puedes comprar no siempre es lo que necesitas».
 
-**Función narrativa:** introducir la economía, la recuperación pagada, la orientación limitada sobre genes y pasivas y los primeros criterios para pensar una configuración propia. La zona debe preparar al grupo para su prueba de fuego sin anticiparle la respuesta ni evitar los errores que cometerá después.
+**Función narrativa:** introducir la economía, la recuperación pagada y la orientación limitada sobre genes y pasivas. La zona ofrece una oportunidad excepcional, pero el grupo no reconoce su rareza y malinterpreta el eslogan como un consejo comercial normal; por eso no aprovecha todo lo que podría. Esa omisión prepara el error de confianza posterior: llegarán a creer que pueden exprimir cada mecanismo y recompensa, sin entender que algunas oportunidades exigen criterio y que activar todo puede tener consecuencias.
 ### 1E — Primera elección de build
 **Eslogan:** «El camino que despierta lo que duerme».
 
