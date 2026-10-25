@@ -95,7 +95,9 @@
 ### Genes
 
 **1. [Coraza de impacto]**
-- Obtención: Combate peligroso anterior al enfrentamiento final de 1E.
+- Obtención: 1D, tras derrotar a una criatura peligrosa que observa y acecha al grupo mientras se desplaza por el mecanismo.
+- Asignación: El grupo mantiene una breve discusión sobre quién debería recibir el gen. El sistema ofrece una salida basada en compatibilidad e indica que Bruno es el más compatible; el grupo decide aceptar esa opción. El sistema no lo asigna automáticamente.
+- Nota de continuidad: Esta intervención del sistema corresponde a esta primera asignación. En obtenciones posteriores, el grupo decide entre sus miembros sin utilizar esa opción.
 - Significado provisional: Genera placas reactivas que amortiguan o distribuyen parte del impacto sobre las zonas cubiertas.
 - Límite provisional: No cura heridas ni protege necesariamente todo el cuerpo.
 
