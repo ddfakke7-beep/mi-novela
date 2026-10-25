@@ -46,9 +46,13 @@ La recompensa se asigna automáticamente al inventario e incluye créditos y mat
 ### 1D — El entorno también combate
 **Eslogan:** «Aunque te detengas, nada a tu alrededor se detendrá».
 
-El grupo cruza un vacío utilizando bloques de piedra móviles mientras unos rastreadores los persiguen. Sobreviven escapando en lugar de intentar matar a todas las criaturas.
+El grupo cruza un vacío utilizando bloques de piedra móviles y un mecanismo que se desplaza por la estructura. Una criatura peligrosa sube y baja por el mecanismo y parece observarlos, esperando que alguien quede aislado antes de atacar. Cerca de ella hay criaturas pequeñas que al principio representan una amenaza relativamente baja. El grupo estudia la ruta y el patrón de la criatura, prestando atención a las ondas o vibraciones relacionadas con el mecanismo. Cuando la criatura ataca, no se precipitan: observan su comportamiento, identifican una oportunidad razonable y deciden combatir. La derrotan mediante análisis y elección del momento, no por una pelea imposible ni por una victoria sin riesgo.
 
-**Función narrativa:** enseñar ritmo, posicionamiento, adaptación y retirada táctica.
+Tras la victoria, el grupo discute brevemente quién debería recibir el gen [Coraza de impacto]. El sistema ofrece una opción basada en compatibilidad e indica que Bruno es el más compatible. La propuesta no es obligatoria ni asigna el gen automáticamente; el grupo decide aceptarla y Bruno lo obtiene. Esta intervención del sistema es específica de esta primera asignación: los genes posteriores se repartirán mediante decisiones entre los propios personajes.
+
+Después, tocan o activan el mecanismo y despiertan o liberan a las criaturas pequeñas que estaban junto a la criatura peligrosa. La amenaza aumenta bruscamente y el grupo huye aterrorizado porque quedarse podría costarles la vida. La experiencia les enseña a estudiar a los enemigos y elegir cuándo luchar, pero también despierta una mezcla de precaución y codicia: tras obtener una victoria y un gen valioso, empiezan a ver los mecanismos como oportunidades para conseguir más. Esa confianza contribuye al error que cometerán en 1E, cuando manipulen mecanismos sin comprender todas sus consecuencias.
+
+**Función narrativa:** enseñar observación de patrones, lectura del entorno, elección del momento para combatir y retirada ante una amenaza creciente. También establece la primera discusión sobre la asignación de un gen y prepara el conflicto entre prudencia y codicia que influirá en las decisiones de 1E.
 
 ### Zona intermedia — «Lo que puedes comprar no siempre es lo que necesitas»
 
