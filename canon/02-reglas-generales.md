@@ -26,25 +26,27 @@
 
 ## 4. Comerciante y economía
 - Existen comerciantes del sistema en determinadas zonas o momentos. Su naturaleza es extraña; los participantes aceptan sus servicios porque pueden resultar útiles, aunque no sepan con certeza de dónde proceden sus mercancías.
-- La zona intermedia es una oportunidad poco común que puede aparecer y desaparecer. Su comerciante especial es todavía más misterioso y puede ofrecer servicios u objetos excepcionales, sin garantizar cualquier artículo solicitado.
-- No se conocen por completo las condiciones de aparición, permanencia o acceso a la zona intermedia. No se debe asumir que aparece siempre, que existe una sola en todo el sistema o que es posible regresar después de salir.
-- La moneda del sistema son los créditos.
-- Los créditos pueden obtenerse al superar escenarios, cumplir desafíos, derrotar amenazas y vender equipo o materiales.
+- La zona intermedia entre 1D y 1E es una oportunidad poco común que puede aparecer y desaparecer. No es un escenario obligatorio ni un piso independiente; se considera un tramo complementario asociado a la transición. No se debe asumir que aparece siempre, que existe una sola en todo el sistema o que es posible regresar después de salir.
+- El comerciante de esta zona es especialmente misterioso. Su oferta está limitada por el piso y por el estado de la progresión: no puede tratarse como una tienda con acceso libre al catálogo completo de UMBRAL. La limitación de oferta forma parte de la lógica del sistema, no es solo falta de dinero del comprador.
+- En pisos tempranos, este comerciante no vende genes ni pasivas. Sí puede proporcionar información general sobre cómo funcionan, qué criterios observar y qué tipos de decisiones o capacidades podrían encajar con distintos estilos de combate y supervivencia. Esa información ofrece criterios para construir una configuración o camino de desarrollo, no una receta infalible, una garantía de compatibilidad ni una predicción de la recompensa que recibirá cada participante.
+- La información del comerciante es limitada y no equivale a conocer todas las reglas. Puede explicar principios generales, pero no tiene por qué revelar las pruebas futuras, sus mecanismos, los jefes ni todas las consecuencias de una decisión.
+- El equipo que ofrece en pisos tempranos es común o poco común, de categoría baja y utilidad práctica. Puede cubrir carencias o permitir una mejora modesta, pero no debe convertirse de pronto en equipo excepcional ni incluir poderes extraordinarios por defecto.
+- La cantidad de equipo disponible en esa configuración temprana es muy reducida: es raro que haya más de dos o tres piezas de equipo a la venta al mismo tiempo. La disponibilidad puede aumentar en pisos posteriores, como si el propio piso limitara qué puede ofrecer el comerciante. No se debe trasladar automáticamente la oferta de un piso superior a uno inferior.
+- Además del equipo limitado, puede ofrecer suministros, herramientas, materiales, reparaciones y servicios de recuperación. La tienda no permite escoger libremente cualquier pieza o conjunto, ni garantiza que tenga justo lo que una persona busca.
+- La zona puede brindar tratamiento y recursos suficientes para que el grupo llegue recuperado y sin heridas abiertas a la prueba del Astado, si decide gastar lo necesario y la oferta disponible lo permite. Esa recuperación tiene un coste: no es una curación automática por entrar en la zona, ni debe confundirse con la restauración corporal que ocurre al entrar en un piso nuevo. Si los personajes no pagan, no reciben el servicio o la oferta no lo permite, las heridas deben continuar según las reglas de salud.
+- La moneda del sistema son los créditos. Los créditos pueden obtenerse al superar escenarios, cumplir desafíos, derrotar amenazas y vender equipo o materiales.
 - Los comerciantes pueden aceptar créditos y, según el servicio, materiales o recursos como pago.
 - El inventario de un comerciante se renueva al llegar a un nuevo piso. Sigue siendo limitado: tener dinero no garantiza que una pieza concreta esté disponible.
-- Los comerciantes ofrecen principalmente reparaciones y servicios útiles, además de algunas piezas generales que pueden cubrir carencias. No permiten escoger libremente cualquier pieza o conjunto.
 - Las reparaciones cuestan según la rareza, el estado, el daño y la complejidad de la pieza. Reparar equipo de categoría alta suele ser considerablemente más caro.
-- Los comerciantes pueden vender recetas y materiales, fabricar piezas o facilitar el acceso a servicios de fabricación cuando corresponda.
+- Los comerciantes pueden vender recetas y materiales, fabricar piezas o facilitar el acceso a servicios de fabricación cuando corresponda y cuando el piso lo permita.
 - Pueden comprar equipo y materiales. El valor depende de la rareza, el estado, la utilidad comercial y el criterio del comerciante; las piezas dañadas pueden valer menos y algunos objetos pueden rechazarse.
 - La valoración de los comerciantes puede resultar extraña o impredecible. No están obligados a explicar por qué compran, pagan poco o rechazan un objeto.
 - Vender y recomprar objetos no debe permitir generar créditos de forma indefinida ni explotar el sistema.
 - Los artículos y precios mostrados son los aplicables a cada comprador; no se debe asumir que todos reciben necesariamente la misma oferta.
-- El comerciante puede responder de forma limitada y no tiene por qué revelar información sobre las pruebas, las etapas futuras o las consecuencias de una compra.
 - Los artículos adquiridos pertenecen al comprador, quien es responsable de su uso.
-- Los suministros médicos y las pociones tienen propiedades y límites concretos.
+- Los suministros médicos y las pociones tienen propiedades y límites concretos; no curan todo instantáneamente salvo que su efecto específico lo establezca.
 - Los materiales comunes valen relativamente poco; los raros y excepcionales pueden utilizarse para fabricar o mejorar equipo de mayor categoría.
 - El comercio no elimina la necesidad de practicar, aprender, fabricar, explorar y asumir riesgos.
-
 ## 5. Inventario y recompensas
 - Cada participante dispone de un inventario del sistema.
 - Las recompensas se asignan directamente al inventario; no necesitan recogerse físicamente del cadáver.
