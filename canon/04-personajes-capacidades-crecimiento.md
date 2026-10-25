@@ -102,7 +102,7 @@ Termina gravemente herida tras recibir un golpe que la arroja contra el suelo du
 - [Base firme].
 
 **1D — Gen**
-- [Coraza de impacto], obtenida tras derrotar a una criatura peligrosa que acecha al grupo desde el mecanismo.
+- [Coraza de impacto], obtenida en 1D tras derrotar a una criatura peligrosa de dificultad alta que acecha al grupo desde el mecanismo. La batalla es muy dura pero manejable y no se acerca a la severidad del desafío del Astado.
 - Durante una breve discusión, el sistema ofrece una opción basada en compatibilidad e indica que Bruno es el más compatible. El grupo acepta la propuesta; no es una asignación automática.
 - Forma placas reactivas que mitigan parte de los impactos.
 - No cura heridas ni proporciona invulnerabilidad.
@@ -153,7 +153,8 @@ Sufre una lesión en la mano durante el enfrentamiento final, además de heridas
 | Etapa | Kevin | Darien | Mara | Bruno | Iván |
 |---|---|---|---|---|---|
 | **1B: primera adquisición** | [Espacio adicional], clasificación por confirmar | [Impulso de impacto] | [Movimiento preciso] | [Base firme] | [Punto débil] |
-| **1E: genes** | [Núcleo de Articulación Fortificada] | [Impulso de Ruptura], del Astado | — | [Coraza de impacto], obtenida antes del enfrentamiento final de 1E | [Vértice de Caza], del Astado |
+| **1D: gen** | — | — | — | [Coraza de impacto], criatura peligrosa del mecanismo | — |
+| **1E: genes** | [Núcleo de Articulación Fortificada] | [Impulso de Ruptura], del Astado | — | — | [Vértice de Caza], del Astado |
 | **1F: segunda pasiva** | [Respuesta bajo presión] | [Continuidad ofensiva] | [Reajuste de apoyo] | [Esfuerzo sostenido] | [Lectura de patrones] |
 | **1F: gen del jefe** | — | — | [Paso de Desfase] | — | — |
 | **2B: nueva skill** | Registrar según el material original | Registrar según el material original | Registrar según el material original | Registrar según el material original | Registrar según el material original |
