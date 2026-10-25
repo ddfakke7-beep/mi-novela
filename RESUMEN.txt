@@ -66,3 +66,21 @@
 **Genes, pasivas y habilidades nuevas:** Ninguna confirmada en 1C. Las capacidades previamente registradas no cambian ni evolucionan de forma confirmada durante esta etapa.
 
 **Pendientes:** Los personajes no han averiguado cómo se usan los créditos ni los materiales, ni han confirmado que haya curación o comerciantes. El funcionamiento del mecanismo de presión no se comprende por completo; solo queda registrado que se estabiliza tras la eliminación de la criatura. Mantener la clasificación y los límites de [Espacio adicional] de Kevin como pendientes, sin relacionarlos con esta etapa.
+
+
+### Piso 1D — El entorno también combate
+*«Aunque te detengas, nada a tu alrededor se detendrá».*
+
+**Diseño de la sala:** El grupo debe cruzar un vacío mediante bloques de piedra móviles y una estructura mecánica que se desplaza. Una criatura peligrosa se mueve arriba y abajo por el mecanismo, observando y esperando que alguien quede aislado. Junto a ella hay pequeñas criaturas que al principio parecen una amenaza limitada. Kevin y los demás estudian los movimientos, la ruta y las ondas o vibraciones relacionadas con el mecanismo, sin comprender todavía todos sus principios.
+
+**Desarrollo y resolución:** Cuando la criatura peligrosa ataca, el grupo no entra en pánico. Usa lo que ha observado, se coordina y aprovecha una apertura real para combatir. Es una batalla de dificultad alta: muy dura, exige concentración y coordinación, y deja cansancio y molestias, pero es manejable. No los lleva al borde de la muerte ni les causa heridas graves; no debe confundirse con la severidad posterior del desafío opcional del Astado. Tras derrotarla, discuten brevemente quién recibirá el gen [Coraza de impacto]. El sistema señala a Bruno como el más compatible, pero solo propone la opción; el grupo decide aceptarla y Bruno recibe el gen.
+
+**Consecuencia inesperada:** Después de la victoria, tocan o activan el mecanismo y despiertan o liberan a las pequeñas criaturas. La amenaza aumenta de golpe y el grupo huye aterrorizado porque quedarse podría costarles la vida. El peligro extremo procede de la escalada posterior, no de la batalla contra la criatura peligrosa.
+
+**Aprendizaje y función narrativa:** El grupo confirma que observar patrones, escoger el momento y coordinarse puede convertir una pelea difícil en una victoria viable. Sin embargo, conseguir una victoria y un gen valioso también alimenta su codicia: empiezan a ver los mecanismos como oportunidades de obtener más, y esa confianza contribuye al error de 1E, cuando manipulan un mecanismo sin comprender las consecuencias.
+
+**Genes, pasivas y habilidades nuevas:** Bruno obtiene el gen [Coraza de impacto] de la criatura peligrosa de 1D. Su efecto conocido es formar placas reactivas que mitigan parte de los impactos; no cura heridas ni concede invulnerabilidad. El sistema propone a Bruno por compatibilidad, pero no decide automáticamente.
+
+**Estado físico y recursos:** El grupo queda cansado por una batalla muy exigente, pero no al borde de la muerte ni con lesiones graves atribuibles a este combate. Mantienen sus armas y equipo; registrar cualquier gasto o daño concreto solo si queda establecido en la narración.
+
+**Pendientes:** No se conoce el nombre específico de la criatura peligrosa ni el funcionamiento exacto de las ondas o vibraciones del mecanismo. No inventar un nombre ni presentar la hipótesis del grupo como una regla confirmada.
