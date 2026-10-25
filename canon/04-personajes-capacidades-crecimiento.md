@@ -101,8 +101,9 @@ Termina gravemente herida tras recibir un golpe que la arroja contra el suelo du
 **1B — Primera pasiva**
 - [Base firme].
 
-**Antes del enfrentamiento final de 1E — Gen**
-- [Coraza de impacto].
+**1D — Gen**
+- [Coraza de impacto], obtenida tras derrotar a una criatura peligrosa que acecha al grupo desde el mecanismo.
+- Durante una breve discusión, el sistema ofrece una opción basada en compatibilidad e indica que Bruno es el más compatible. El grupo acepta la propuesta; no es una asignación automática.
 - Forma placas reactivas que mitigan parte de los impactos.
 - No cura heridas ni proporciona invulnerabilidad.
 
