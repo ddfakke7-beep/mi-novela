@@ -1,0 +1,64 @@
+UMBRAL — REGLAS GENERALES DE CONTINUIDAD ENTRE CHATS
+Repositorio: ddfakke7-beep/mi-novela
+
+PROPÓSITO
+Estos documentos permiten que otro chat retome su función si una conversación falla. Antes de trabajar, el chat debe leer este archivo y el archivo específico de su rol, revisar los documentos pertinentes de GitHub y comprobar el estado real del proyecto.
+
+REGLA PRINCIPAL: GITHUB ES LA FUENTE DE VERIFICACIÓN
+Repositorio: https://github.com/ddfakke7-beep/mi-novela
+Web publicada: https://ddfakke7-beep.github.io/mi-novela/
+
+No afirmes que leíste, actualizaste o publicaste algo sin comprobarlo. Si un archivo no aparece, búscalo en el repositorio y comunica el resultado. No inventes nombres, rutas, commits ni contenido. Antes de reemplazar archivos, lee la versión actual y conserva la información válida.
+
+SEPARACIÓN DE ESTADOS
+Marca la información como:
+- CANON CONFIRMADO: aprobado expresamente por el usuario o ya establecido en una versión aprobada.
+- PROPUESTA: idea que aún debe aprobar el usuario.
+- PROVISIONAL: interpretación o efecto que no se ha confirmado.
+- PENDIENTE: dato que falta resolver.
+Nunca conviertas una propuesta, inferencia o dato provisional en canon por tu cuenta.
+
+REGLAS DE CONTINUIDAD
+- Los personajes solo pueden actuar con los conocimientos que han adquirido en la historia.
+- No inventes efectos, límites, genes, pasivas, habilidades, objetos, heridas, recursos, relaciones ni sucesos que contradigan los archivos.
+- UMBRAL trata de supervivencia, exploración, combate, aprendizaje y progresión. Las capacidades dan opciones, no eliminan automáticamente el peligro; las victorias pueden tener un coste.
+- Las pruebas no tienen que terminar siempre en combate o muerte.
+- La muerte y el reinicio no son un mecanismo seguro para experimentar. Los personajes no conocen esa regla hasta descubrirla por experiencia u otra fuente narrativa válida.
+- Al entrar a un piso nuevo, el cuerpo se restaura según las reglas actuales. Pasar de un escenario a otro dentro del mismo piso no restaura automáticamente el cuerpo ni repara equipo.
+- La evolución de pasivas requiere una nueva aplicación, comprensión o dominio extraordinario; la repetición o el paso del tiempo por sí solos no bastan. No asignes una evolución sin base narrativa y aprobación.
+- Si una capacidad está marcada como provisional o pendiente, conserva ese estado. En particular, no inventes ni sustituyas el funcionamiento de [Espacio adicional] de Kevin sin resolver la discrepancia en los documentos originales.
+
+ESTRUCTURA Y APROBACIONES
+- El chat de diseño estructural propone la idea general del piso y la función de A–F; no escribe capítulos completos ni publica la web.
+- El chat de escritura redacta la novela desde la estructura aprobada y mantiene los registros/documentos del proyecto actualizados después de que el usuario apruebe el contenido correspondiente.
+- El chat de publicación solo actualiza la web novel cuando el piso completo ha sido escrito y aprobado. No es responsable de mantener el canon, los resúmenes ni las fichas internas de UMBRAL.
+- El usuario decide qué se aprueba. No publiques ni declares canon una propuesta no aprobada.
+- No empieces a diseñar el siguiente piso hasta que el usuario lo autorice expresamente.
+- El usuario puede usar “G” o “g” para pedir que se continúe el trabajo activo, pero eso no anula la aprobación necesaria ni autoriza una tarea distinta.
+
+CIERRE DE CADA ESCENARIO
+Cuando se termine de escribir un escenario, el chat de escritura prepara un resumen independiente para incorporar a RESUMEN.txt:
+1. Nombre exacto y lema.
+2. Desarrollo detallado pero no narración completa: entorno, acciones, obstáculos, descubrimientos, resolución, supervivencia/derrota y función narrativa.
+3. Cambios de grupo, relaciones y conocimientos.
+4. Genes, pasivas y habilidades nuevas: nombre, portador, origen y significado conocido, indicando si es provisional.
+5. Estado relevante de heridas, equipo, recursos y consumibles.
+6. Pendientes o detalles que falten.
+Si falta información, dilo; no rellenes huecos inventando.
+
+RECUPERAR EL PROYECTO TRAS UN FALLO
+Al iniciar una conversación de reemplazo:
+1. Lee este archivo y el archivo de instrucciones del rol correspondiente.
+2. Revisa en GitHub el estado actual, los documentos de canon, los registros, las estructuras, los resúmenes y los capítulos pertinentes.
+3. Lee historia/01-estado-actual.md y historia/00-panorama-general.md.
+4. Busca RESUMEN.txt y los resúmenes narrativos en su ubicación real; no asumas una ruta sin comprobarla.
+5. Informa brevemente qué está confirmado, qué es provisional, qué falta y cuál es el siguiente paso seguro.
+6. No repitas trabajo ya hecho y no empieces una tarea nueva sin autorización.
+
+ARCHIVOS DE REFERENCIA CONOCIDOS
+- historia/00-panorama-general.md
+- historia/01-estado-actual.md
+- historia/plantilla-estructura-y-cierre-de-piso.md
+También consulta canon/, sistemas/, personajes/, estructuras de pisos, capítulos y resúmenes existentes según lo que realmente haya en el repositorio. Si una ruta citada no existe, busca antes de concluir que falta documentación.
+
+FIN DEL DOCUMENTO
