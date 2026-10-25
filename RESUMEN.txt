@@ -43,3 +43,26 @@
 **Función narrativa:** presentar al primer grupo de personajes, establecer una cooperación frágil, introducir el uso inicial de armas, mostrar una pasiva oculta y registrar las primeras capacidades individuales sin que los personajes comprendan todavía cómo se forman ni cómo dominarlas.
 
 **Estado y pendientes:** la prueba se supera y el grupo queda físicamente golpeado y agotado; no se fijan lesiones específicas que el borrador no haya establecido con claridad. La placa secundaria ha alterado las condiciones de la etapa, pero el grupo no conoce todavía el alcance de sus consecuencias. [Espacio adicional] sigue en desarrollo: faltan límites concretos, clasificación exacta como constante/activable y costes o condiciones, si los hubiera. Los capítulos narrativos de 1B siguen siendo borradores internos y no se publican como capítulos definitivos sin aprobación expresa.
+
+### Piso 1C — Primer combate
+*«Cuanto más repitas, menos tiempo tendrás».*
+
+**Diseño de la sala y presión ambiental:** El grupo atraviesa una prueba en la que debe enfrentarse a una criatura resistente mientras un mecanismo con válvula e indicador acumula presión. El entorno y el tiempo disponible añaden peligro al combate; no son un segundo acertijo independiente. Kevin se golpea el hombro contra una pared mientras manipula la válvula bajo presión. La criatura mantiene al grupo ocupado y sus acciones contribuyen a las sacudidas del mecanismo.
+
+**Desarrollo del combate y descubrimientos:**
+- Al principio, los cinco reaccionan de forma desordenada y cometen errores. Darien se expone al atacar sin esperar una oportunidad; Bruno intenta aguantar demasiado; los demás deben aprender a leer los movimientos de la criatura mientras evitan sus ataques.
+- El grupo observa que la criatura baja la cabeza antes de embestir y carga más peso en la parte delantera. Estas señales les dan una oportunidad para apartarse, pero no permiten predecir perfectamente cada movimiento.
+- Mara encuentra una abertura entre las placas y aprende a atacar cuando la criatura está ocupada. Darien consigue resultados más útiles al concentrarse en una zona ya dañada y contribuir a desequilibrarla. Bruno ayuda a dirigir la embestida hacia una columna y debe mantener espacio para apartarse. Iván detecta y comunica señales de movimiento. Kevin observa, da indicaciones y aprovecha las aperturas, aunque no domina la situación ni evita todas las lesiones.
+- La victoria surge de la observación y la cooperación incipiente, no de una táctica perfecta. El grupo empieza a comprender que la posición, el momento del ataque y la coordinación importan tanto como golpear con fuerza.
+
+**Resolución:** Kevin consigue asestar el golpe decisivo con la lanza en una zona vulnerable bajo el cuello/parte superior del pecho. El sistema confirma **[AMENAZA ELIMINADA]**, pero las condiciones de la etapa siguen en proceso mientras el indicador continúa subiendo y las tuberías expulsan vapor. Los personajes no conocen el mecanismo y deciden no manipularlo a ciegas. Después de que la criatura queda eliminada, la aguja deja de subir y desciende, la presión se estabiliza y la puerta se abre. El sistema confirma **[ETAPA SUPERADA: PISO 1C]**. No es necesario convertir este cierre en un segundo rompecabezas.
+
+**Recompensas y capacidades:** El sistema asigna automáticamente créditos y materiales al inventario. No reciben armas nuevas, genes ni pasivas por esta etapa. Los personajes desconocen para qué sirven los créditos y los materiales, dónde podrían utilizarse o si existe alguna forma de curación; solo pueden especular que quizá tengan utilidad. No presentar tiendas, curas, reparaciones ni sistemas de intercambio como conocimiento confirmado en este punto.
+
+**Estado al terminar:** El grupo sale herido y agotado. Kevin conserva su lanza corta reforzada y siente dolor en el hombro/espalda. Bruno tiene dolor en el costado. Mara está agotada y se revisa el brazo; Iván está agotado; Darien tiene molestias físicas y conserva la maza que usa en el capítulo. Las heridas no se curan al superar la etapa ni al pasar de un escenario a otro del mismo piso. No se fijan lesiones más específicas de las que la narración confirma.
+
+**Aprendizajes y función narrativa:** Primer combate en el que los cinco empiezan a convertir observaciones individuales en cooperación útil. Aprenden a no insistir en ataques que no funcionan, aprovechar aperturas, coordinarse sin amontonarse, vigilar las señales previas a una embestida y retroceder cuando no hay una oportunidad segura. Son aprendizajes provisionales basados en esta criatura, no reglas universales para todos los enemigos. La etapa establece que sobrevivir tiene un coste físico y que una recompensa no necesariamente resuelve las necesidades inmediatas.
+
+**Genes, pasivas y habilidades nuevas:** Ninguna confirmada en 1C. Las capacidades previamente registradas no cambian ni evolucionan de forma confirmada durante esta etapa.
+
+**Pendientes:** Los personajes no han averiguado cómo se usan los créditos ni los materiales, ni han confirmado que haya curación o comerciantes. El funcionamiento del mecanismo de presión no se comprende por completo; solo queda registrado que se estabiliza tras la eliminación de la criatura. Mantener la clasificación y los límites de [Espacio adicional] de Kevin como pendientes, sin relacionarlos con esta etapa.
