@@ -78,17 +78,19 @@ Tras abandonar la zona, no pueden dar por hecho que podrán regresar por el mism
 ### 1E — Primera elección de build
 **Eslogan:** «El camino que despierta lo que duerme».
 
-El grupo explora una cámara de mecanismos conectados que despiertan criaturas blindadas. Tras retirarse ante una amenaza de alta categoría, estudian sus movimientos, se preparan y regresan para derrotarla. Kevin obtiene el gen [Núcleo de Articulación Fortificada]. Bruno ya posee [Coraza de impacto], conseguida en un encuentro peligroso anterior.
+El grupo se enfrenta a un miniboss mucho más fuerte de lo esperado. La primera confrontación no termina en victoria: el grupo debe retirarse y escapar. Después se plantea la decisión de avanzar o regresar. Al juzgar que la oportunidad de conseguir una recompensa valiosa es demasiado buena para perderla, deciden volver, estudiar mejor la amenaza y adaptarse. Finalmente superan el desafío y Kevin obtiene el gen [Núcleo de Articulación Fortificada]. La victoria debe ser difícil y costosa, sin convertir la retirada inicial en una derrota definitiva ni el regreso en una victoria gratuita.
 
-#### Cámara de los Deseos — ruta oculta
+**Función narrativa:** poner a prueba la capacidad del grupo para reconocer cuándo retirarse, valorar una oportunidad y decidir si merece la pena volver a asumir el riesgo. La recompensa refuerza su confianza y puede alimentar la codicia que los empuja a buscar más en la zona oculta posterior.
 
-Antes de llegar a la Cámara de los Deseos, el grupo mueve por curiosidad un artefacto desconocido y descubre una ruta oculta con numerosas recompensas. Mientras las obtiene, aparecen mensajes del sistema sobre la actualización de la sala y sus parámetros. No comprenden su significado y continúan sin saber que han alterado la configuración de un encuentro posterior. La cámara no entrega genes.
+### Zona oculta opcional — desafío del Astado
 
-#### Desafío del Astado — ruta opcional
+Después de superar 1E, el grupo entra en la zona oculta asociada al desafío del Astado. Es una oportunidad opcional y mucho más severa que el combate de la criatura peligrosa de 1D. La codicia y la posibilidad de conseguir recompensas influyen en la decisión de entrar, pero la zona no debe presentarse como un error obvio desde el principio.
 
-El grupo entra en una sala cuya salida se bloquea y debe superar un combate de dos fases. Consigue vencer al Astado, pero consume gran parte de sus suministros y termina mentalmente agotado. Darien obtiene el gen [Impulso de Ruptura] e Iván [Vértice de Caza]. Tras descansar y reorganizar sus recursos, continúan hacia la prueba final.
+Al entrar en la sala del Astado, la salida se bloquea y el grupo debe superar un combate de dos fases. Consigue vencer, pero consume gran parte de sus suministros y termina mentalmente agotado. Darien obtiene el gen [Impulso de Ruptura] e Iván [Vértice de Caza].
 
-**Función narrativa:** introducir nuevas capacidades, recompensas ocultas y las consecuencias de alterar mecanismos sin comprenderlos.
+La Cámara de los Deseos y sus recompensas ocultas deben conservarse como parte de la secuencia de hallazgo y tentación vinculada a esta ruta; no entrega genes. Si su ubicación exacta dentro de la zona oculta necesita concretarse en el diseño de escenas, no inventarla ni cambiar el orden sin revisarlo con el usuario.
+
+**Función narrativa:** mostrar que una oportunidad puede ofrecer recompensas reales y, al mismo tiempo, conducir a un riesgo que excede lo que el grupo puede manejar cómodamente. La experiencia previa de conseguir una recompensa tras volver a intentarlo contribuye a que subestimen el coste de seguir buscando.
 
 ### 1F — Primer jefe
 **Eslogan:** «El camino que eliges también te espera al final».
