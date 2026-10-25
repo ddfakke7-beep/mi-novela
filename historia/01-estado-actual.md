@@ -16,9 +16,9 @@ Los acontecimientos narrativos detallados van en `RESUMEN.txt` y los resúmenes 
 
 - **Proyecto:** UMBRAL.
 - **Fase de trabajo actual:** mantener la continuidad del Piso 1 y avanzar escenario por escenario.
-- **Último escenario trabajado:** Piso 1B — «Los demás jugadores»; borradores de los capítulos 6–9 y resumen de continuidad preparados. El usuario pidió registrar los hechos nuevos y relevantes; la prosa narrativa no se ha publicado como capítulos definitivos.
-- **Último escenario cerrado con resumen aprobado:** Piso 1A — «Aprender las reglas».
-- **Siguiente objetivo narrativo:** revisar el borrador completo de 1B y confirmar si queda aprobado antes de tratarlo como versión definitiva.
+- **Último escenario trabajado:** Piso 1C — «Primer combate», capítulos 10–13. El capítulo 13 cierra la etapa y figura guardado en `piso-1/c/capitulo-13.html`.
+- **Último escenario resumido para continuidad:** Piso 1C — «Primer combate». El resumen de cierre se incorporó a `RESUMEN.txt` y el resumen general del canon se actualizó.
+- **Siguiente objetivo narrativo:** continuar desde el estado posterior a 1C solo cuando el usuario indique el siguiente paso; no iniciar diseño estructural del siguiente piso sin autorización.
 - **No modificar:** diseños estructurales ni capítulos completos como parte de esta actualización.
 - **Piso 2:** existen decisiones e ideas previas; no rediseñarlo desde cero. Consultar los documentos y conversaciones de referencia disponibles antes de retomarlo.
 
@@ -26,11 +26,11 @@ Los acontecimientos narrativos detallados van en `RESUMEN.txt` y los resúmenes 
 
 > Actualizar esta sección cada vez que se apruebe o publique contenido. No marcar nada como guardado en GitHub sin comprobar que la operación tuvo éxito.
 
-- **Último capítulo aprobado y guardado verificado:** Capítulo 5, «Al otro lado», en `piso-1/a/capitulo-5.html`.
-- **Escenario cerrado:** Piso 1A. El usuario aprobó el resumen de continuidad; se está registrando en `RESUMEN.txt`.
+- **Último capítulo guardado verificado:** Capítulo 13, «Lo que queda después», en `piso-1/c/capitulo-13.html`.
+- **Escenario cerrado en escritura:** Piso 1C — «Primer combate»; capítulos 10–13 están presentes en `piso-1/c/` y el resumen de continuidad ya está incorporado en `RESUMEN.txt`.
 - **Publicación pendiente de verificar:** `piso-1/a/capitulo-3.html` no se encontró en la revisión anterior; no asumir que está publicado.
 - **Último piso cerrado:** Ninguno confirmado; el Piso 1 sigue en desarrollo.
-- **Última actualización:** incorporación del resumen de continuidad de trabajo de 1B y registro de ajustes de personaje/capacidades. Los capítulos 6–9 siguen siendo borradores; no se han subido como narrativa definitiva.
+- **Última actualización:** cierre de Piso 1C y sincronización del resumen de continuidad, el resumen general del canon, el panorama global y este punto de guardado. 1C no añade genes, pasivas ni habilidades confirmadas.
 
 ## Flujo de trabajo acordado
 
@@ -68,7 +68,7 @@ Si un archivo mencionado no existe o no se encuentra, el chat debe decirlo clara
 
 ## Pendientes inmediatos
 
-- Revisar y cerrar el borrador de 1B (capítulos 6–9) con el usuario antes de considerarlo definitivo.
+- Mantener [Espacio adicional] de Kevin como capacidad en desarrollo; no resolver su clasificación ni límites sin cotejar el texto original.
 - Verificar si existe y debe publicarse `piso-1/a/capitulo-3.html`; no reconstruirlo sin revisar el texto aprobado.
 - Resolver [Espacio adicional] de Kevin solo cuando se revise y acuerde su funcionamiento; no inventar ni sustituir sus efectos.
 - Mantener la continuidad de Darien: eligió una lanza en 1B, pero tras revisar su ventana de estado intentará buscar una maza o martillo; el cambio de arma aún no ha ocurrido en la escena de 1B.
@@ -78,4 +78,5 @@ Si un archivo mencionado no existe o no se encuentra, el chat debe decirlo clara
 
 - **Inicialización:** creado el archivo de estado operativo para facilitar la continuidad entre chats.
 - **Piso 1A:** incorporado el resumen breve aprobado por el usuario a `RESUMEN.txt`; actualizado el índice general de 1A y el punto de guardado operativo.
-- **Piso 1B (continuidad de trabajo):** añadido resumen de la prueba a `RESUMEN.txt`; actualizados el resumen general, el registro de pasivas y la ficha de personajes para reflejar el encuentro de los cinco, la pasiva oculta de Kevin, las cuatro pasivas registradas al completar la prueba, la advertencia por activar la placa secundaria, el instinto de supervivencia de Kevin y la futura reconsideración del arma de Darien. Los capítulos narrativos no se han publicado.
+- **Piso 1B (continuidad de trabajo):** añadido resumen de la prueba a `RESUMEN.txt`; actualizados los registros relacionados con el encuentro de los cinco y sus capacidades iniciales.
+- **Piso 1C (cierre de etapa):** incorporado a `RESUMEN.txt`; actualizado `canon/01-resumen-general-pisos-continuidad.md`, `historia/00-panorama-general.md` y este archivo. No se registran nuevas capacidades ni reglas generales, porque la etapa no confirma ninguna.
