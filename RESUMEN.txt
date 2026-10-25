@@ -84,3 +84,15 @@
 **Estado físico y recursos:** El grupo queda cansado por una batalla muy exigente, pero no al borde de la muerte ni con lesiones graves atribuibles a este combate. Mantienen sus armas y equipo; registrar cualquier gasto o daño concreto solo si queda establecido en la narración.
 
 **Pendientes:** No se conoce el nombre específico de la criatura peligrosa ni el funcionamiento exacto de las ondas o vibraciones del mecanismo. No inventar un nombre ni presentar la hipótesis del grupo como una regla confirmada.
+
+
+## Estructura prevista para el resto del Piso 1 — orden de continuidad
+**Nota de diseño:** esta secuencia registra la organización aclarada por el usuario; no sustituye los resúmenes narrativos de escenas que todavía no se hayan escrito o aprobado.
+
+1. **1D — El entorno también combate.** El grupo derrota a la criatura peligrosa en un combate muy difícil, exigente y costoso, pero manejable. No debe confundirse con el peligro extremo del Astado ni dejar al grupo al borde de la muerte. La activación posterior del mecanismo provoca una escalada de amenaza y obliga al grupo a huir.
+2. **Zona intermedia entre 1D y 1E.** Anomalía rara y móvil con comerciante. El grupo puede reparar equipo, comprar curas y suministros y tratar heridas, pero sus recursos son limitados: recuperarse lo suficiente implica gastar créditos y quedar relativamente escasos. La zona no es un escenario fijo ni una sala obligatoria.
+3. **1E — Primera elección de build.** El grupo se enfrenta a un miniboss mucho más fuerte de lo esperado y debe escapar. Después decide si avanzar o volver. Al considerar que la oportunidad de conseguir una recompensa valiosa es demasiado buena para perderla, regresa, se adapta y finalmente supera el desafío, obteniendo un gen adicional. La victoria debe ser difícil y costosa, no gratuita.
+4. **Zona oculta opcional — desafío del Astado.** Después de 1E, el grupo entra en la zona oculta asociada al Astado. La codicia y la oportunidad de obtener recompensas influyen en la decisión de asumir este riesgo. El desafío del Astado es más severo que la criatura de 1D, tiene dos fases y consume gran parte de los suministros. Darien obtiene [Impulso de Ruptura] e Iván [Vértice de Caza] si se mantiene la resolución ya registrada.
+5. **1F — Primer jefe.** Tras el desafío opcional, el grupo avanza a la prueba final del piso. Las consecuencias de las configuraciones alteradas y de sus decisiones anteriores contribuyen a que el jefe sea más peligroso.
+
+**Causalidad que debe conservarse:** la zona intermedia permite una recuperación parcial pagada; el miniboss de 1E obliga a retirarse antes de que el grupo decida volver por la recompensa; superar ese reto refuerza su confianza y su codicia, lo que ayuda a explicar por qué aceptan después el riesgo opcional del Astado. La oportunidad de explorar o buscar recompensas no es en sí un error: el riesgo está en cómo valoran sus límites y qué deciden hacer.
