@@ -4,7 +4,7 @@
 
 **Edad:** 30 años.  
 **Arma:** lanza corta reforzada.  
-**Personalidad:** observador, prudente y orientado a sobrevivir. A veces sobrepiensa las situaciones. No es un elegido ni un héroe con una historia trágica. Prefiere oportunidades claras antes que ataques frontales innecesarios, pero puede actuar con decisión cuando identifica una apertura.
+**Personalidad:** observador, prudente y orientado a sobrevivir. A veces sobrepiensa las situaciones. No es un elegido ni un héroe con una historia trágica. Ante un peligro, primero busca una salida; si comprueba que no existe, evalúa qué opción le da mayores probabilidades de sobrevivir. Intenta ser útil cuando puede y no estorbar, sin asumir riesgos absurdos para parecer valiente. Prefiere oportunidades claras antes que ataques frontales innecesarios, pero puede actuar con decisión cuando identifica una apertura.
 
 ### Capacidades y cronología
 
@@ -36,8 +36,9 @@ La lanza queda rota. Kevin sufre una lesión de hombro agravada, dolor en el cos
 
 ## 2. Darien
 
-**Arma:** maza metálica corta.  
-**Estilo:** combativo y seguro. Puede repetir tácticas que le han funcionado, incluso cuando las condiciones cambian.
+**Arma durante 1B:** lanza del arsenal auxiliar, elegida antes de entender bien su estilo ni su pasiva.  
+**Arma que intentará buscar después:** maza corta o martillo sencillo, una opción contundente que podría ajustarse mejor a su tendencia a actuar de frente y a [Impulso de impacto]. El cambio todavía no ocurre durante 1B; falta definir cuándo podrá conseguirla.  
+**Estilo:** combativo y seguro. Puede repetir tácticas que le han funcionado, incluso cuando las condiciones cambian. Tras revisar su ventana de estado, empieza a considerar cómo elegir equipo que complemente sus capacidades.
 
 ### Capacidades y cronología
 
