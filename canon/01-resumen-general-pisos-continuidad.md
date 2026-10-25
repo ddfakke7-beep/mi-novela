@@ -52,22 +52,21 @@ El grupo cruza un vacío utilizando bloques de piedra móviles mientras unos ras
 
 ### Zona intermedia — «Lo que puedes comprar no siempre es lo que necesitas»
 
-Los personajes encuentran una tienda instalada dentro de UMBRAL. La zona tiene un mostrador, estanterías ordenadas, mesas con armas y herramientas, suministros y materiales. También hay varias puertas cerradas cuyo funcionamiento no comprenden.
+Entre 1D y 1E puede aparecer una zona comercial poco común. No es un escenario obligatorio ni un piso independiente; es un tramo complementario asociado a la transición y no se garantiza que vuelva a estar disponible.
 
-El comerciante ofrece artículos con descripciones, precios y cantidades disponibles. Entre las categorías están las armas, la protección, los suministros, las herramientas y los materiales.
+El comerciante es misterioso y responde de forma limitada. En estos pisos tempranos no vende genes ni pasivas: puede explicar principios generales y dar criterios para reconocer qué tipos de capacidades, genes o decisiones de desarrollo podrían encajar con distintos estilos de combate y supervivencia. Su orientación ayuda a pensar una configuración propia, pero no asegura compatibilidad, resultados ni recompensas futuras.
 
-Los personajes pueden comprar lo que consideren útil, pero sus recursos son limitados y no conocen las necesidades de las pruebas posteriores. La tienda no ofrece recomendaciones personalizadas ni información sobre las siguientes etapas.
+La oferta de equipo está limitada por el piso. En esta primera configuración solo puede haber equipo común o poco común, de categoría baja y utilidad práctica, sin poderes extraordinarios obligatorios. La cantidad también es reducida: es raro que haya más de dos o tres piezas de equipo a la venta al mismo tiempo. La oferta podrá ampliarse en pisos superiores, como si el propio piso restringiera lo que el comerciante puede poner a disposición.
 
-El comerciante responde de forma limitada y evita explicar el funcionamiento general de UMBRAL. Cuando le preguntan si la sala es segura, contesta que no hay amenazas activas en ella, sin garantizar que esté protegida frente a cualquier peligro.
+También puede ofrecer suministros, materiales, herramientas, reparaciones y servicios de recuperación. Si el grupo decide pagar por el tratamiento adecuado y hay recursos disponibles, puede salir de la zona recuperado y sin heridas abiertas para afrontar la prueba del Astado. La recuperación no es gratuita ni automática: deben elegir qué servicios pueden costear y qué recursos están dispuestos a gastar.
 
-Los artículos comprados pasan al inventario del comprador. Cada personaje debe decidir qué necesita, cuánto puede gastar y qué recursos conviene conservar.
+Los créditos son limitados, y los personajes todavía no conocen las necesidades reales de las pruebas siguientes. El comerciante no les revela la naturaleza del Astado ni las consecuencias que tendrán los mecanismos que encuentren más adelante. La decisión de comprar, reparar, tratar heridas o reservar recursos queda en manos del grupo.
 
-La tienda constituye una oportunidad poco común y valiosa para quienes saben aprovecharla. No debe asumirse que aparecerá siempre que los participantes la necesiten ni que podrán regresar a ella cuando quieran. Tras salir, el grupo descubre que la puerta ha desaparecido y que no puede volver por el mismo camino.
+Tras abandonar la zona, no pueden dar por hecho que podrán regresar por el mismo camino. La oportunidad les permite prepararse, pero no elimina el peligro ni les garantiza que estén tomando las decisiones correctas.
 
 **Eslogan:** «Lo que puedes comprar no siempre es lo que necesitas».
 
-**Función narrativa:** introducir decisiones económicas, administración de recursos, preparación del equipo y una oportunidad cuya utilidad depende del criterio del jugador.
-
+**Función narrativa:** introducir la economía, la recuperación pagada, la orientación limitada sobre genes y pasivas y los primeros criterios para pensar una configuración propia. La zona debe preparar al grupo para su prueba de fuego sin anticiparle la respuesta ni evitar los errores que cometerá después.
 ### 1E — Primera elección de build
 **Eslogan:** «El camino que despierta lo que duerme».
 
