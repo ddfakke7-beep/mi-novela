@@ -1,7 +1,7 @@
 # UMBRAL — REGLAS GENERALES
 
 ## 1. Estructura del mundo
-- Existen seis pisos, cada uno dividido en seis escenarios: A–F.
+- La estructura documentada se organiza en pisos, cada uno dividido en seis escenarios: A–F. La progresión global puede extenderse hasta el piso 100; no se debe asumir que el mundo termina necesariamente en el piso 6.
 - Los escenarios pueden ser individuales o compartidos. Los personajes solo se encuentran si coinciden en una prueba.
 - Las pruebas incluyen exploración, mecanismos, combate, decisiones y supervivencia. No todas requieren matar enemigos.
 - La dificultad aumenta progresivamente. Superar F permite pasar al siguiente piso.
@@ -24,20 +24,26 @@
 - Los consumibles médicos aceleran la recuperación según su calidad y propiedades, pero no curan todo instantáneamente.
 - Las heridas deben mantener continuidad entre escenarios hasta que realmente mejoren o sean tratadas.
 
-## 4. Comerciante y créditos
-- Existe un comerciante del sistema en determinadas zonas o momentos.
-- La zona intermedia es una oportunidad poco común que puede aparecer y desaparecer. Puede ofrecer recursos útiles a quienes sepan aprovecharla.
+## 4. Comerciante y economía
+- Existen comerciantes del sistema en determinadas zonas o momentos. Su naturaleza es extraña; los participantes aceptan sus servicios porque pueden resultar útiles, aunque no sepan con certeza de dónde proceden sus mercancías.
+- La zona intermedia es una oportunidad poco común que puede aparecer y desaparecer. Su comerciante especial es todavía más misterioso y puede ofrecer servicios u objetos excepcionales, sin garantizar cualquier artículo solicitado.
 - No se conocen por completo las condiciones de aparición, permanencia o acceso a la zona intermedia. No se debe asumir que aparece siempre, que existe una sola en todo el sistema o que es posible regresar después de salir.
-- La única moneda es el crédito.
-- Los créditos se obtienen al superar escenarios, cumplir desafíos y vender materiales.
-- El comerciante vende y compra armas, equipo, consumibles médicos, materiales y mejoras limitadas.
+- La moneda del sistema son los créditos.
+- Los créditos pueden obtenerse al superar escenarios, cumplir desafíos, derrotar amenazas y vender equipo o materiales.
+- Los comerciantes pueden aceptar créditos y, según el servicio, materiales o recursos como pago.
+- El inventario de un comerciante se renueva al llegar a un nuevo piso. Sigue siendo limitado: tener dinero no garantiza que una pieza concreta esté disponible.
+- Los comerciantes ofrecen principalmente reparaciones y servicios útiles, además de algunas piezas generales que pueden cubrir carencias. No permiten escoger libremente cualquier pieza o conjunto.
+- Las reparaciones cuestan según la rareza, el estado, el daño y la complejidad de la pieza. Reparar equipo de categoría alta suele ser considerablemente más caro.
+- Los comerciantes pueden vender recetas y materiales, fabricar piezas o facilitar el acceso a servicios de fabricación cuando corresponda.
+- Pueden comprar equipo y materiales. El valor depende de la rareza, el estado, la utilidad comercial y el criterio del comerciante; las piezas dañadas pueden valer menos y algunos objetos pueden rechazarse.
+- La valoración de los comerciantes puede resultar extraña o impredecible. No están obligados a explicar por qué compran, pagan poco o rechazan un objeto.
+- Vender y recomprar objetos no debe permitir generar créditos de forma indefinida ni explotar el sistema.
 - Los artículos y precios mostrados son los aplicables a cada comprador; no se debe asumir que todos reciben necesariamente la misma oferta.
 - El comerciante puede responder de forma limitada y no tiene por qué revelar información sobre las pruebas, las etapas futuras o las consecuencias de una compra.
 - Los artículos adquiridos pertenecen al comprador, quien es responsable de su uso.
-- Puede ofrecer mejoras de equipo, pero acumular dinero no vuelve invencible a un participante.
 - Los suministros médicos y las pociones tienen propiedades y límites concretos.
 - Los materiales comunes valen relativamente poco; los raros y excepcionales pueden utilizarse para fabricar o mejorar equipo de mayor categoría.
-- El comercio no elimina la necesidad de practicar, aprender y asumir riesgos.
+- El comercio no elimina la necesidad de practicar, aprender, fabricar, explorar y asumir riesgos.
 
 ## 5. Inventario y recompensas
 - Cada participante dispone de un inventario del sistema.
@@ -55,14 +61,17 @@
 - No sustituyen la técnica ni garantizan el éxito de una acción.
 - Se desarrollan mediante uso significativo, práctica y comprensión.
 - Repetir una acción trivial no permite subirlas indefinidamente.
+- Para pasar de un nivel de dominio al siguiente, el personaje debe descubrir una aplicación o comprensión nueva, o demostrar un dominio extraordinario del funcionamiento que ya conoce. El tiempo y la práctica ayudan, pero no producen una subida automática.
 - No existe un sistema independiente de puntos de habilidad que se reparten libremente.
 - La progresión debe demostrarse mediante acciones y resultados observables.
 - Las pasivas pueden clasificarse en **constantes** y **activables**.
 - Las pasivas constantes mantienen su efecto sin requerir una activación consciente por parte del usuario.
 - Las pasivas activables son capacidades permanentes cuyo efecto debe manifestarse mediante una acción voluntaria. Que sean activables no las convierte automáticamente en habilidades activas.
+- Una pasiva puede evolucionar, si su naturaleza lo permite, hasta admitir una activación voluntaria. No todas las pasivas pueden hacerlo y la activación no elimina sus condiciones, costes ni limitaciones originales.
+- Una pasiva que adquiere una forma activable puede conservar su efecto pasivo original si eso es coherente con su diseño; la evolución no concede automáticamente más potencia.
 - Las pasivas activables son raras y pueden ofrecer aplicaciones versátiles. Su utilidad depende de su efecto, sus restricciones, las circunstancias y la forma en que el usuario las aprovecha.
 - Las pasivas activables no son necesariamente más poderosas que las constantes. La rareza, la potencia y la utilidad son características distintas.
-- Cada pasiva debe tener un efecto definido y límites coherentes con su naturaleza. No se debe asumir que todas funcionan igual ni atribuirles capacidades no establecidas.
+- Cada pasiva debe tener su efecto y sus límites concretos definidos en su ficha individual desde el momento en que se crea. Las reglas generales establecen el principio, pero los límites específicos deben anotarse en el registro de esa pasiva o en la ficha del personaje. No se debe asumir que todas funcionan igual ni atribuirles capacidades no establecidas.
 - La clasificación de una capacidad como activa o pasiva debe respetar su diseño establecido; no se debe cambiar sin motivo narrativo o mecánico.
 - **[Espacio adicional] de Kevin está concebida como una pasiva.** Su funcionamiento definitivo, su clasificación como constante o activable y sus límites están pendientes de definición. No se deben inventar efectos ni modificar su balance antes de establecer cómo funciona.
 
