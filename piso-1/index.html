@@ -1,4 +1,3 @@
-```html
 <!DOCTYPE html>
 <html lang="es">
 <head>
@@ -6,36 +5,12 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>UMBRAL — PISO 1</title>
   <style>
-    body {
-      margin: 0;
-      background: #10121a;
-      color: #eeeeF5;
-      font-family: Arial, sans-serif;
-    }
-    header {
-      text-align: center;
-      padding: 40px 20px;
-      background: linear-gradient(135deg, #171b2b, #302047);
-    }
+    body { margin: 0; background: #10121a; color: #eeeeF5; font-family: Arial, sans-serif; }
+    header { text-align: center; padding: 40px 20px; background: linear-gradient(135deg, #171b2b, #302047); }
     h1 { letter-spacing: 5px; }
-    main {
-      max-width: 800px;
-      margin: 30px auto;
-      padding: 0 20px;
-    }
-    .piso {
-      display: block;
-      padding: 18px;
-      margin: 12px 0;
-      background: #1b2030;
-      border: 1px solid #45415b;
-      border-radius: 10px;
-      color: #e8dfff;
-      text-decoration: none;
-    }
-    .piso:hover {
-      background: #29243d;
-    }
+    main { max-width: 800px; margin: 30px auto; padding: 0 20px; }
+    .piso, .capitulo { display: block; padding: 18px; margin: 12px 0; background: #1b2030; border: 1px solid #45415b; border-radius: 10px; color: #e8dfff; text-decoration: none; }
+    .piso:hover, .capitulo:hover { background: #29243d; }
     .volver { color: #b69cff; }
     .muted { color: #aeb4c7; line-height: 1.7; }
   </style>
@@ -43,18 +18,17 @@
 <body>
   <header>
     <h1>PISO 1</h1>
-    <p>UMBRAL — Biblioteca de la novela</p>
+    <p>UMBRAL — El precio de existir</p>
   </header>
-
   <main>
     <p><a class="volver" href="../index.html">← Volver a la Biblioteca</a></p>
-
+    <h2>Capítulos de apertura</h2>
+    <p class="muted">La historia está en desarrollo. Por ahora, puedes leer los dos capítulos disponibles.</p>
+    <a class="capitulo" href="capitulo-1.html"><strong>Capítulo 1 — El precio de existir</strong><br>Propuesta de apertura</a>
+    <a class="capitulo" href="capitulo-2.html"><strong>Capítulo 2 — La primera puerta</strong><br>Kevin atraviesa la primera puerta y llega al inicio de la prueba.</a>
     <h2>Secciones del piso</h2>
-    <p class="muted">
-      Selecciona una sección para explorar sus capítulos.
-    </p>
-
-    <a class="piso" href="a/index.html">PISO 1A</a>
+    <p class="muted">Piso 1A es el escenario que comienza al final del capítulo 2. Los demás escenarios se incorporarán cuando su contenido esté listo.</p>
+    <a class="piso" href="a/index.html">PISO 1A — Aprender las reglas</a>
     <a class="piso" href="b/index.html">PISO 1B</a>
     <a class="piso" href="c/index.html">PISO 1C</a>
     <a class="piso" href="d/index.html">PISO 1D</a>
@@ -63,4 +37,3 @@
   </main>
 </body>
 </html>
-```
