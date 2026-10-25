@@ -36,6 +36,7 @@
 - Manifestación narrativa prevista: se observan uno o más resultados físicos inesperadamente eficaces, pero Darien no sabe si se deben a su técnica, a la situación o a la suerte. No debe parecer una recompensa automática por una única acción.
 - Significado provisional: Mejora la transmisión del impulso al conectar golpes o realizar acciones físicas de impacto.
 - Límites específicos: pendientes de revisar; no implica fuerza extraordinaria ni garantiza que todo golpe conecte con eficacia.
+- Continuidad del arma en 1B: Darien escoge una lanza del arsenal, pero esa elección no termina de ajustarse a su estilo ni a la pasiva. Después de revisar su ventana de estado, intentará escoger un arma contundente (por ejemplo, una maza o un martillo sencillo). El momento exacto del cambio queda pendiente; no atribuirle esa arma durante el combate de 1B.
 
 **2. [Continuidad ofensiva]**
 - Obtención: Etapa 1F.
