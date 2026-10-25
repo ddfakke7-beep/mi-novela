@@ -126,6 +126,11 @@
 
 ## 7. CRITERIOS DEL REGISTRO
 
+- Toda pasiva o gen nuevo debe registrarse desde su creación con efecto definido y límites específicos definitivos: condiciones de activación, alcance, duración, costes o recuperación cuando correspondan, restricciones, y qué cosas no puede hacer.
+- No basta con anotar límites genéricos como «no es invencible» o «no funciona siempre»: los límites deben describir concretamente el funcionamiento de esa capacidad.
+- Si un detalle no aplica a la naturaleza de la capacidad, no es necesario inventarlo; se debe anotar lo que sí la limita de forma relevante.
+- Las capacidades ya existentes que figuren como provisionales siguen pendientes de revisión. No se deben inventar sus límites definitivos retroactivamente sin contrastar el canon y acordar su funcionamiento.
+
 - Las pasivas y los genes son categorías diferentes y deben registrarse por separado.
 - Los nombres registrados no deben cambiarse sin una decisión explícita.
 - Los efectos que aún no estén confirmados se consideran provisionales, no canon definitivo.
