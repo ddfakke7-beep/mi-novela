@@ -1,0 +1,18 @@
+# UMBRAL — Resumen de continuidad
+
+## Piso 1 — El precio de existir
+
+### Piso 1A — Aprender las reglas
+*«No todos los pasos te llevan hacia delante».*
+
+**Diseño de la sala:** Kevin aparece en una plataforma frente a un camino de losas suspendidas sobre un vacío. Las losas reaccionan de distintas maneras: algunas soportan las pruebas, otras se inclinan y alguna puede romperse. Para llegar a la puerta del otro extremo, debe observar, probar con precaución y elegir sus apoyos sin conocer un patrón seguro.
+
+**Lo que Kevin aprendió:**
+- Las losas no reaccionan todas igual; una que resiste una prueba ligera todavía puede comportarse de otra manera bajo su peso.
+- Las grietas y las inclinaciones pueden advertir de un peligro, pero aún no conoce una regla que permita predecir con seguridad cada reacción.
+- No basta con elegir el siguiente apoyo: también debe considerar cómo afectará esa elección a sus movimientos posteriores.
+- Interpreta el lema como una advertencia sobre las decisiones que pueden dejarlo en una posición peor. Todavía desconoce si tiene otros significados.
+
+**Resolución y estado:** Kevin cruza el recorrido y alcanza la puerta. Durante el trayecto casi pierde el equilibrio y recibe un golpe doloroso en el hombro o brazo, pero consigue seguir moviéndose; no se confirma una lesión grave. Utiliza pequeños fragmentos de piedra para hacer pruebas y pierde los que arroja. No obtiene genes, pasivas ni habilidades nuevas. Al abrirse la puerta, la narración termina cuando la cruza: lo que hay al otro lado corresponde a 1B.
+
+**Continuidad:** Kevin sigue siendo cauteloso y observador. Lo aprendido procede de esta prueba; todavía no conoce las reglas generales de UMBRAL ni puede asumir que otros escenarios funcionarán igual.
