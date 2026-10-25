@@ -89,6 +89,7 @@
 - Son distintos de las pasivas y suelen tener una sola copia disponible.
 - Si varios participantes pueden reclamar un gen único, deben decidir quién lo recibe.
 - En la primera asignación de gen de 1D, el sistema ofrece una opción basada en compatibilidad. El sistema señala a Bruno como el más compatible con [Coraza de impacto], pero no se lo asigna automáticamente: el grupo discute brevemente, puede aceptar o rechazar la propuesta y decide aceptarla.
+- La criatura peligrosa de 1D representa una dificultad alta: la batalla es muy dura y exige observación y coordinación, pero no debe escribirse como una lucha al borde de la muerte ni con heridas graves. No alcanza la severidad del desafío opcional del Astado en 1E.
 - Esta intervención es específica de esa situación. En las asignaciones posteriores, los personajes deciden entre ellos quién recibe cada gen, sin recurrir a esa opción del sistema.
 - Algunas criaturas excepcionales pueden ofrecer dos genes, pero esto no ocurre con todos los enemigos importantes.
 - Todo gen debe tener utilidad inmediata, aunque sea limitado o incompleto.
