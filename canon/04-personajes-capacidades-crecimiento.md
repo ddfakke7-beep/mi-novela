@@ -156,6 +156,18 @@ Sufre una lesión en la mano durante el enfrentamiento final, además de heridas
 | **1F: gen del jefe** | — | — | [Paso de Desfase] | — | — |
 | **2B: nueva skill** | Registrar según el material original | Registrar según el material original | Registrar según el material original | Registrar según el material original | Registrar según el material original |
 
+## 8. Criterios de evolución de capacidades
+
+- El tiempo y la práctica contribuyen al crecimiento, pero no garantizan por sí solos pasar de nivel.
+- Para avanzar, el personaje debe descubrir una aplicación o comprensión nueva de la capacidad, o demostrar un dominio extraordinario de su funcionamiento conocido.
+- La evolución puede mejorar el control, la precisión o la aplicación de una capacidad; no implica necesariamente aumentar su potencia.
+- Una pasiva puede adquirir una forma activable únicamente si su naturaleza lo permite. La activación debe tener un propósito y unos límites definidos, y no elimina las restricciones previas.
+- No todas las pasivas pueden convertirse en activables. Cuando sea coherente, la capacidad puede conservar su efecto pasivo y añadir una activación voluntaria limitada.
+- Cada capacidad debe tener sus efectos y límites definitivos anotados en su registro individual desde su creación. No basta con escribir una regla general: deben constar las limitaciones específicas de esa pasiva o gen.
+- No atribuir a una capacidad un alcance, duración, coste, recarga, condición o efecto nuevo sin registrarlo y justificarlo en el canon.
+
+---
+
 ## 7. Reglas para mantener las fichas actualizadas
 
 1. Registrar cuándo y cómo se obtiene cada capacidad.
