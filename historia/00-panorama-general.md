@@ -28,7 +28,7 @@ Este archivo es el mapa breve de continuidad global de UMBRAL. Permite entender 
 **Función general:** Introducir a Kevin y al lector en las reglas peligrosas de UMBRAL mediante supervivencia, observación, experimentación prudente y aprendizaje. Las capacidades amplían las opciones, pero no eliminan el riesgo; los recursos y las decisiones tienen consecuencias.
 
 **Escenarios (índice breve):**
-- **1A — Aprender las reglas.** Lema: «No todos los pasos te llevan hacia delante». Kevin despierta ante una ruta de losas que no todas soportan el peso; debe observar y avanzar sin conocer las reglas del lugar.
+- **1A — Aprender las reglas.** Lema: «No todos los pasos te llevan hacia delante». Kevin cruza un recorrido de losas suspendidas sobre el vacío. Descubre que sus reacciones varían, que las señales de peligro no garantizan un patrón seguro y que cada apoyo condiciona sus opciones posteriores. Llega a la puerta tras casi perder el equilibrio y sufrir un golpe doloroso, sin lesión grave confirmada. No obtiene nuevas capacidades.
 - **1B — Pendiente de consolidar.** Incorporar el título, lema y función de la versión definitiva del escenario. Registrar aquí la obtención de [Espacio adicional] sin inventar su funcionamiento aún no resuelto.
 - **1C — Pendiente de consolidar.** Completar desde el resumen aprobado y el texto narrativo definitivo.
 - **1D — Pendiente de consolidar.** Completar desde el resumen aprobado y el texto narrativo definitivo.
