@@ -1,15 +1,66 @@
-<!doctype html>
+```html
+<!DOCTYPE html>
 <html lang="es">
 <head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Piso 1 — Mi novela</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>UMBRAL — PISO 1</title>
+  <style>
+    body {
+      margin: 0;
+      background: #10121a;
+      color: #eeeeF5;
+      font-family: Arial, sans-serif;
+    }
+    header {
+      text-align: center;
+      padding: 40px 20px;
+      background: linear-gradient(135deg, #171b2b, #302047);
+    }
+    h1 { letter-spacing: 5px; }
+    main {
+      max-width: 800px;
+      margin: 30px auto;
+      padding: 0 20px;
+    }
+    .piso {
+      display: block;
+      padding: 18px;
+      margin: 12px 0;
+      background: #1b2030;
+      border: 1px solid #45415b;
+      border-radius: 10px;
+      color: #e8dfff;
+      text-decoration: none;
+    }
+    .piso:hover {
+      background: #29243d;
+    }
+    .volver { color: #b69cff; }
+    .muted { color: #aeb4c7; line-height: 1.7; }
+  </style>
 </head>
 <body>
-  <p><a href="../index.html">← Biblioteca</a></p>
-  <h1>Piso 1</h1>
-  <ul>
-    <li><a href="capitulo-1.html">Capítulo 1</a></li>
-  </ul>
+  <header>
+    <h1>PISO 1</h1>
+    <p>UMBRAL — Biblioteca de la novela</p>
+  </header>
+
+  <main>
+    <p><a class="volver" href="../index.html">← Volver a la Biblioteca</a></p>
+
+    <h2>Secciones del piso</h2>
+    <p class="muted">
+      Selecciona una sección para explorar sus capítulos.
+    </p>
+
+    <a class="piso" href="a/index.html">PISO 1A</a>
+    <a class="piso" href="b/index.html">PISO 1B</a>
+    <a class="piso" href="c/index.html">PISO 1C</a>
+    <a class="piso" href="d/index.html">PISO 1D</a>
+    <a class="piso" href="e/index.html">PISO 1E</a>
+    <a class="piso" href="f/index.html">PISO 1F</a>
+  </main>
 </body>
 </html>
+```
