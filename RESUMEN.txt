@@ -16,3 +16,30 @@
 **Resolución y estado:** Kevin cruza el recorrido y alcanza la puerta. Durante el trayecto casi pierde el equilibrio y recibe un golpe doloroso en el hombro o brazo, pero consigue seguir moviéndose; no se confirma una lesión grave. Utiliza pequeños fragmentos de piedra para hacer pruebas y pierde los que arroja. No obtiene genes, pasivas ni habilidades nuevas. Al abrirse la puerta, la narración termina cuando la cruza: lo que hay al otro lado corresponde a 1B.
 
 **Continuidad:** Kevin sigue siendo cauteloso y observador. Lo aprendido procede de esta prueba; todavía no conoce las reglas generales de UMBRAL ni puede asumir que otros escenarios funcionarán igual.
+
+### Piso 1B — Los demás jugadores
+*«La respuesta que buscas puede estar en boca de tu enemigo».*
+
+**Diseño de la sala:** Kevin llega a una cámara compartida y conoce a Darien, Mara, Bruno e Iván. En la sala central hay un mecanismo principal y una placa secundaria cuyo propósito no conocen. Al manipular una muesca, los pasillos se abren y separan al grupo en distintas zonas con piezas, obstáculos y mecanismos que deben resolver para regresar.
+
+**Desarrollo y descubrimientos:**
+- Los cinco comparan información de manera cautelosa. La cooperación les resulta útil, pero todavía no existe confianza ni coordinación sólida.
+- Cada uno afronta una dificultad distinta que deja indicios de su forma de actuar: Bruno lucha por mantener el equilibrio sobre terreno inestable; Mara debe controlar un movimiento preciso en un espacio estrecho; Darien libera una pieza atascada al encontrar un ángulo; Iván sigue símbolos y detalles del entorno.
+- Kevin queda aislado y encuentra por casualidad una pasiva oculta, **[Espacio adicional]**. Prueba la capacidad con objetos pequeños: puede hacerlos desaparecer y recuperarlos, pero un objeto más grande no funciona. No entiende aún sus límites ni revela el hallazgo al grupo.
+- Tras reunirse, colocan las piezas y activan el mecanismo principal, que abre un arsenal auxiliar con armas sencillas y piezas de protección. Kevin elige una lanza corta reforzada; Bruno, un garrote pesado; Mara, un cuchillo y protección para el antebrazo; Darien e Iván eligen armas sencillas.
+- En el arsenal, Darien manipula una placa secundaria de tres piezas. El sistema advierte: **«Se han activado componentes adicionales. Las condiciones de la etapa pueden verse alteradas»**. El grupo no comprende todavía las consecuencias de esa decisión.
+
+**Combate y resolución:** Una criatura grande, resistente y de movimientos relativamente simples irrumpe en la sala. El grupo no la derrota gracias a una estrategia perfecta, sino mediante errores, resistencia, observación y oportunidades desesperadas. Darien se lanza demasiado pronto y es rechazado; Bruno intenta aguantar un impacto y queda dolorido; Mara descubre una abertura entre placas; Iván observa que la criatura carga una pierna antes de embestir; Kevin busca primero una salida y, al comprobar que no existe, intenta mantenerse vivo y actuar cuando aparece una oportunidad. Cuando su lanza queda atascada y un golpe amenaza con alcanzarlo, utiliza **[Espacio adicional]** por desesperación para recuperar el arma y esquivar, sin dominar todavía la capacidad. El grupo aprovecha la pierna comprometida y la abertura de la armadura hasta derribar a la criatura y sobrevivir.
+
+**Capacidades registradas al terminar la prueba:**
+- **Kevin — [Espacio adicional]:** pasiva oculta hallada por casualidad; permite almacenar y recuperar ciertos objetos, con límites de tamaño/peso todavía indefinidos. No recibe una segunda pasiva al finalizar 1B.
+- **Bruno — [Base firme]:** mejora provisionalmente su capacidad de mantener o recuperar una postura estable frente a fuerzas que amenazan con desplazarlo; no elimina el daño, el dolor ni la posibilidad de caer.
+- **Mara — [Movimiento preciso]:** mejora provisionalmente el control y la precisión de sus movimientos bajo presión; no aumenta automáticamente su velocidad ni la vuelve infalible.
+- **Darien — [Impulso de impacto]:** mejora provisionalmente la transmisión del impulso al golpear o realizar acciones físicas de impacto; no concede fuerza extraordinaria ni garantiza que un golpe conecte.
+- **Iván — [Punto débil]:** facilita detectar posibles zonas vulnerables mediante la observación; no revela todas las debilidades ni garantiza que una interpretación sea correcta.
+
+**Armas y continuidad de Darien:** Durante el arsenal, Darien escoge una lanza, una elección que no termina de ajustarse a su tendencia combativa ni a [Impulso de impacto]. Tras recibir y revisar su ventana de estado, reconsiderará la elección e intentará orientarse hacia un arma contundente, como una maza o un martillo sencillo. El momento exacto en que podrá cambiarla queda pendiente; no se debe fingir que ya la lleva durante el combate de 1B.
+
+**Función narrativa:** presentar al primer grupo de personajes, establecer una cooperación frágil, introducir el uso inicial de armas, mostrar una pasiva oculta y registrar las primeras capacidades individuales sin que los personajes comprendan todavía cómo se forman ni cómo dominarlas.
+
+**Estado y pendientes:** la prueba se supera y el grupo queda físicamente golpeado y agotado; no se fijan lesiones específicas que el borrador no haya establecido con claridad. La placa secundaria ha alterado las condiciones de la etapa, pero el grupo no conoce todavía el alcance de sus consecuencias. [Espacio adicional] sigue en desarrollo: faltan límites concretos, clasificación exacta como constante/activable y costes o condiciones, si los hubiera. Los capítulos narrativos de 1B siguen siendo borradores internos y no se publican como capítulos definitivos sin aprobación expresa.
