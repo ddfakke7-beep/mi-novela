@@ -1,7 +1,7 @@
 # UMBRAL — CONTINUIDAD ACTUAL
 
 **Estado:** nueva versión en curso. Están aprobados los escenarios Piso 1 — «El precio de existir», Piso 1A — «Aprender las reglas», Piso 1B — «Los demás jugadores», Piso 1C — «La primera amenaza», Piso 1D — «El corredor de las compuertas», Piso 1E — «La cámara de los supervivientes» y Piso 1F — «La cámara del eco».
-**Regla:** no importar ni reconstruir la continuidad de versiones anteriores. Añadir información solo después de que el escenario correspondiente haya sido escrito y aprobado.
+**Regla de canon:** este archivo es el registro operativo de los acontecimientos aprobados en la versión actual. La continuidad de versiones descartadas, los capítulos antiguos y la web antigua no son fuentes de canon y no deben reconstruirse ni importarse. Mantener todos los escenarios ya aprobados en esta versión y añadir nuevos acontecimientos solo después de que el escenario correspondiente haya sido escrito y aprobado.
 
 ## 1. Panorama general confirmado
 
@@ -143,7 +143,7 @@
 
 ## 4. Reglas de mantenimiento
 
-- Registrar solo acontecimientos de la nueva versión que hayan sido aprobados.
+- Registrar únicamente acontecimientos de la versión actual que el usuario haya aprobado. No borrar ni ignorar los escenarios aprobados que ya constan en este documento.
 - No rellenar apartados con suposiciones ni convertir hipótesis de personajes en hechos del mundo.
 - Incluir secundarios solo si son relevantes para la continuidad o pueden reaparecer.
 - Conservar decisiones, consecuencias, recursos y conocimientos que afecten escenas futuras; omitir detalles menores que no cambien nada.
