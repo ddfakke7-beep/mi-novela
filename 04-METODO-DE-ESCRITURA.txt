@@ -5,8 +5,33 @@ JERARQUÍA
 1. 01-REGLAS-MAESTRAS.txt determina qué es posible en el mundo.
 2. 02-KEVIN.txt conserva la continuidad importante del protagonista.
 3. 03-CONTINUIDAD-ACTUAL.txt indica qué acaba de suceder y qué debe respetarse al continuar.
-4. Los capítulos existentes conservan los hechos que realmente fueron narrados.
+4. Los capítulos existentes sirven como referencia narrativa, pero durante una reescritura completa del Piso 1 sus sucesos no son canon obligatorio. La nueva versión puede cambiar sus acontecimientos, orden, personajes y resultados, sin contradecir las reglas maestras ni el canon que el usuario confirme como vigente.
 5. Todo lo demás puede inventarse libremente si no contradice lo anterior.
+
+PRIORIDAD NARRATIVA: PELIGRO, RIESGO Y SUPERVIVENCIA
+- La historia debe transmitir que los personajes pueden equivocarse, sufrir pérdidas, quedar heridos o morir. El peligro debe sentirse real y depender de la situación, no de amenazas vacías.
+- Priorizar decisiones difíciles, observación, adaptación, tensión, conflictos interesantes y consecuencias. No convertir la historia en una explicación constante de sistemas.
+- Los mecanismos y reglas se explican de forma breve y clara cuando el lector necesita entenderlos. Evitar exposiciones largas, tecnicismos innecesarios y repetir información ya clara.
+- Sorprender sin hacer trampa: los giros deben ser inesperados, pero comprensibles al mirar atrás y compatibles con las reglas y los hechos establecidos.
+
+COMBATES CLAROS Y COHERENTES
+- Los combates deben ser entretenidos, tensos y fáciles de seguir. No hace falta describir cada golpe; sí mostrar lo necesario para entender cómo cambia la pelea.
+- Antes de narrar un combate, definir internamente la cantidad real de enemigos, su nivel de amenaza, función, comportamiento, capacidades, límites y condiciones relevantes del entorno. No improvisar enemigos, poderes o refuerzos a mitad del combate solo para aumentar la dificultad.
+- Dejar claro el número de enemigos presentes o detectados cuando los personajes puedan saberlo razonablemente. No presentar como conocido aquello que los personajes todavía ignoran.
+- Un enemigo oculto o una amenaza inesperada solo puede aparecer si la lógica del escenario lo permite y su presencia no contradice lo ya establecido. No usar sorpresas arbitrarias.
+- El nivel de amenaza debe considerar capacidades, número de enemigos, terreno, recursos y estado de los participantes.
+- El lector debe entender qué intenta hacer Kevin, qué hace el enemigo, qué acciones funcionan o fallan y por qué cambia la situación. Mostrar decisiones tácticas relevantes, oportunidades, errores y el motivo plausible de la victoria, derrota o retirada.
+- Describir daños importantes, sus riesgos y cómo afectan las acciones posteriores. Las heridas y el agotamiento persisten de acuerdo con las reglas maestras.
+- No hacer que los enemigos olviden sus capacidades o se vuelvan torpes para facilitar la victoria. Kevin tampoco gana automáticamente por ser protagonista.
+- Las victorias pueden depender de observar patrones, aprovechar el entorno, colaborar, administrar recursos, adaptarse o asumir riesgos. Ganar no significa salir ileso.
+
+RITMO Y EXTENSIÓN
+- Evitar tanto alargar artificialmente una prueba como resolverla de forma apresurada. La extensión depende de la complejidad y de lo que necesite la historia.
+- Como referencia flexible, un escenario suele ocupar entre 2 y 4 capítulos. Una prueba sencilla puede necesitar 1 o 2; una más compleja puede requerir más si cada capítulo aporta algo real. No forzar un número fijo.
+- Cada capítulo debe avanzar la situación, desarrollar un conflicto, revelar información útil, mostrar una decisión importante o producir una consecuencia.
+- Eliminar repeticiones, explicaciones redundantes, monólogos que no aporten y escenas que no cambien nada. No resumir tanto que se pierda la lógica de una decisión, un combate o una consecuencia.
+- Mantener equilibrio entre acción, diálogo, exploración, tensión y pausas. El descanso puede servir para recuperarse, evaluar riesgos, aprender o cambiar relaciones, pero no debe ser relleno.
+- La planificación interna puede ser detallada para asegurar coherencia; la narración final solo debe mostrar lo necesario para vivir y comprender la historia.
 
 LIBERTAD CREATIVA
 - La IA puede inventar escenarios, criaturas, pruebas, conflictos, objetos, recompensas, personajes y giros argumentales según las necesidades de la historia.
@@ -42,7 +67,7 @@ Al terminar cada escenario, entregar un resumen breve y no narrativo con:
 1. Acontecimientos y consecuencias relevantes.
 2. Estado de Kevin y cambios duraderos.
 3. Cabos sueltos que realmente puedan afectar la continuación.
-Actualizar 03-CONTINUIDAD-ACTUAL.txt con el nuevo punto de partida. No mantener un historial exhaustivo de personajes secundarios ni duplicar los capítulos narrativos.
+Actualizar 03-CONTINUIDAD-ACTUAL.txt con el nuevo punto de partida y 02-KEVIN.txt solo cuando cambie información duradera sobre Kevin. No mantener un historial exhaustivo de personajes secundarios ni duplicar los capítulos narrativos.
 Al cerrar un piso, basta con que el resumen operativo refleje el estado resultante y las consecuencias que siguen vigentes. Los capítulos anteriores ya conservan el historial narrativo.
 
 FORMA DE TRABAJO
@@ -58,5 +83,7 @@ FORMA DE TRABAJO
 GITHUB Y DOCUMENTOS
 - No modificar 01-REGLAS-MAESTRAS.txt salvo orden explícita del usuario.
 - No modificar, renombrar ni borrar la carpeta piso-1 ni sus capítulos salvo orden explícita del usuario.
+- Al reescribir el Piso 1, conservar intactos los archivos narrativos antiguos en GitHub; la nueva versión se escribe en la conversación. Sus hechos no son obligatorios para la nueva versión, salvo los que el usuario confirme como canon.
+- Después de que el usuario dé por terminado un escenario, actualizar únicamente 03-CONTINUIDAD-ACTUAL.txt y 02-KEVIN.txt cuando corresponda. No modificar otros documentos sin autorización.
 - Mantener solo la documentación de control que resulte útil. No crear registros separados para cada personaje secundario, criatura o capacidad.
 - Verificar los archivos antes de actualizarlos. No afirmar que un cambio se guardó si no hay confirmación.
