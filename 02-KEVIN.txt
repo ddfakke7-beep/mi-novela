@@ -1,7 +1,7 @@
 # UMBRAL — FICHA DE KEVIN
 
 **Estado:** ficha en construcción para la nueva versión. Están aprobados los escenarios Piso 1 — «El precio de existir», Piso 1A — «Aprender las reglas», Piso 1B — «Los demás jugadores», Piso 1C — «La primera amenaza», Piso 1D — «El corredor de las compuertas», Piso 1E — «La cámara de los supervivientes» y Piso 1F — «La cámara del eco». Kevin y Darío entraron al Piso 2 con sus lesiones corporales restauradas. No se han establecido capacidades, equipo ni estadísticas extraordinarias.
-**Regla:** no heredar datos de versiones anteriores. Completar cada apartado solo cuando se establezca en la nueva historia. No inventar información para llenar espacios.
+**Regla de canon:** esta ficha debe reflejar únicamente el canon vigente de UMBRAL: los cuatro documentos centrales actuales y los escenarios aprobados de esta versión. No heredar poderes, objetos, estadísticas, lesiones, relaciones ni acontecimientos de versiones descartadas. Completar cada apartado solo con información establecida en el canon actual; no inventar datos para llenar espacios.
 
 ## 1. Identidad
 - Nombre: Kevin.
@@ -89,7 +89,7 @@ Registrar únicamente capacidades realmente adquiridas en la nueva versión.
 - **Consecuencia para la continuidad:** Kevin tiene dolor en la rodilla y el hombro; Darío tiene un corte superficial en el muslo. Kevin dejó caer en la cámara la pieza metálica que había recogido. No hubo muerte, recompensa, botín, poderes, estadísticas ni capacidades nuevas. Los cuatro permanecen juntos, pero no han formado una party confirmada.
 
 ## Reglas de mantenimiento
-- Esta ficha empieza vacía: no se conserva automáticamente ningún poder, gen, estadística desarrollada, objeto, recurso, lesión, relación ni acontecimiento de versiones anteriores.
+- Esta ficha no hereda datos de versiones descartadas. Conserva y refleja todos los hechos vigentes establecidos en los escenarios aprobados de esta versión. No se conserva automáticamente ningún poder, gen, estadística desarrollada, objeto, recurso, lesión, relación ni acontecimiento procedente de una versión descartada.
 - No convertir una sospecha de Kevin en un hecho confirmado.
 - No registrar cada acción menor; guardar lo que afecte de forma duradera su conducta, sus capacidades, su estado, sus recursos o las decisiones futuras.
 - Aunque el archivo se llame ficha de Kevin, también puede contener un registro compacto de los miembros de su party y de otros personajes recurrentes necesarios para mantener la continuidad. No convertirlo en una enciclopedia de cada persona que aparezca.
