@@ -1,0 +1,62 @@
+UMBRAL — MÉTODO DE ESCRITURA
+Objetivo: escribir una historia entretenida, sorprendente y coherente sin convertir la continuidad en una tarea administrativa.
+
+JERARQUÍA
+1. 01-REGLAS-MAESTRAS.txt determina qué es posible en el mundo.
+2. 02-KEVIN.txt conserva la continuidad importante del protagonista.
+3. 03-CONTINUIDAD-ACTUAL.txt indica qué acaba de suceder y qué debe respetarse al continuar.
+4. Los capítulos existentes conservan los hechos que realmente fueron narrados.
+5. Todo lo demás puede inventarse libremente si no contradice lo anterior.
+
+LIBERTAD CREATIVA
+- La IA puede inventar escenarios, criaturas, pruebas, conflictos, objetos, recompensas, personajes y giros argumentales según las necesidades de la historia.
+- Los personajes secundarios no requieren fichas permanentes ni nombres completos. Pueden tener nombres provisionales, aparecer durante una escena o varios pisos, separarse, traicionar, morir, reaparecer mucho después o no volver nunca.
+- No hace falta conservar a un personaje solo porque ya apareció. Si deja de ser relevante, la historia puede continuar con otros.
+- La IA puede asignar habilidades a personajes y criaturas cuando tenga sentido por el piso, la situación, su experiencia y las reglas maestras. Debe definir límites suficientes para que esas habilidades no se conviertan en soluciones arbitrarias.
+- No planificar todo el elenco ni el argumento completo con antelación. Descubrir la historia durante la escritura, manteniendo continuidad.
+- La colaboración entre participantes puede durar una prueba o un piso, pero no implica amistad, lealtad ni que deban avanzar juntos permanentemente.
+
+COHERENCIA OBLIGATORIA
+- Las reglas maestras prevalecen. No inventar excepciones para salvar una escena.
+- Los personajes solo saben lo que han visto, aprendido, deducido con fundamento o recibido de una fuente.
+- No conocen automáticamente las reglas del mundo ni el funcionamiento de una habilidad recién adquirida.
+- Las capacidades tienen límites; no pueden resolver cualquier problema sin coste ni condición.
+- Mantener consecuencias de heridas, agotamiento, decisiones, pérdidas, recursos y equipo según las reglas vigentes.
+- Las victorias deben surgir de acciones comprensibles, observación, preparación, cooperación, adaptación o una ventaja plausible; pueden tener un coste.
+- No usar casualidades arbitrarias para resolver el conflicto ni hacer que los enemigos olviden capacidades o comportamientos solo para facilitar la victoria.
+- Los personajes secundarios deben tener motivos propios comprensibles. Pueden ser egoístas, generosos, calculadores, contradictorios o poco fiables; no existen únicamente para ayudar a Kevin.
+- La historia no debe convertirse en una sucesión repetitiva de pruebas, monstruos y recompensas. Alternar exploración, tensión social, descubrimientos, decisiones, negociaciones, conflictos, descansos y combate cuando la trama lo pida.
+- Cada escenario debe tener un conflicto o propósito reconocible y aportar algo al avance de la historia: información, presión, una decisión, una consecuencia, una relación cambiante o una sorpresa coherente.
+- No todas las escenas necesitan un giro enorme o un cliffhanger. Una conversación puede ser importante si modifica intereses, confianza o lo que Kevin cree saber.
+- Kevin puede equivocarse, interpretar mal a alguien, perder recursos o fracasar. No debe ganar solo por ser protagonista.
+
+PROGRESIÓN DE KEVIN
+- La mejora natural procede de la experiencia, la práctica, la observación, la exigencia y la adaptación.
+- No usar niveles, barras de experiencia ni llevar un registro de cada técnica.
+- Mostrar la mejora cuando afecte la acción: detecta un patrón antes, administra mejor su esfuerzo, decide con más criterio o deja de repetir un error.
+- No convertir cada experiencia en una mejora automática.
+- Registrar en la ficha de Kevin solo cambios duraderos que puedan importar después.
+
+USO DE LOS RESÚMENES
+Al terminar cada escenario, entregar un resumen breve y no narrativo con:
+1. Acontecimientos y consecuencias relevantes.
+2. Estado de Kevin y cambios duraderos.
+3. Cabos sueltos que realmente puedan afectar la continuación.
+Actualizar 03-CONTINUIDAD-ACTUAL.txt con el nuevo punto de partida. No mantener un historial exhaustivo de personajes secundarios ni duplicar los capítulos narrativos.
+Al cerrar un piso, basta con que el resumen operativo refleje el estado resultante y las consecuencias que siguen vigentes. Los capítulos anteriores ya conservan el historial narrativo.
+
+FORMA DE TRABAJO
+- Escribir por escenario, no diseñar automáticamente un piso entero.
+- No iniciar el diseño estructural de un nuevo piso hasta que el usuario lo solicite expresamente.
+- Si el usuario pide escritura, priorizar una escena completa, atractiva y lista para leer; no interrumpirla con comentarios sobre el proceso.
+- Preguntar solo cuando falte una decisión indispensable o exista una ambigüedad que pueda romper la coherencia. Resolver los detalles menores mediante reglas generales y criterio narrativo.
+- Antes de entregar una escena, revisar causalidad, reglas, conocimiento de los personajes, recursos importantes y consecuencias.
+- No convertir cada decisión creativa en una lista de opciones para el usuario. La IA debe tomar iniciativa dentro de los límites establecidos.
+- Si algo no está confirmado, no presentarlo como canon previo. Puede introducirse como un hecho nuevo dentro de la narración si respeta las reglas y no contradice el pasado.
+- Si una regla maestra no cubre un caso importante, no modificarla unilateralmente: señalar el problema y consultar al autor cuando sea necesario.
+
+GITHUB Y DOCUMENTOS
+- No modificar 01-REGLAS-MAESTRAS.txt salvo orden explícita del usuario.
+- No modificar, renombrar ni borrar la carpeta piso-1 ni sus capítulos salvo orden explícita del usuario.
+- Mantener solo la documentación de control que resulte útil. No crear registros separados para cada personaje secundario, criatura o capacidad.
+- Verificar los archivos antes de actualizarlos. No afirmar que un cambio se guardó si no hay confirmación.
