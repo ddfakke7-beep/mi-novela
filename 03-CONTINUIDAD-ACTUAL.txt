@@ -1,16 +1,16 @@
 # UMBRAL — CONTINUIDAD ACTUAL
 
-**Estado:** nueva versión en curso. Los escenarios Piso 1 — «El precio de existir» y Piso 1A — «Aprender las reglas» están aprobados por el usuario.
+**Estado:** nueva versión en curso. Los escenarios Piso 1 — «El precio de existir», Piso 1A — «Aprender las reglas» y Piso 1B — «Los demás jugadores» están aprobados por el usuario.
 **Regla:** no importar ni reconstruir la continuidad de versiones anteriores. Añadir información solo después de que el escenario correspondiente haya sido escrito y aprobado.
 
 ## 1. Panorama general confirmado
 
-- **Punto actual de la historia:** Kevin ha cruzado las losas suspendidas y abierto la puerta del otro extremo; permanece ante la abertura, observando antes de cruzar.
-- **Piso o entorno actual:** Piso 1; escenario introductorio aprobado, antes de resolver la prueba de las losas.
-- **Personajes presentes y estado general:** Kevin está ante la puerta abierta al final del trayecto. Otros desconocidos estaban en el espacio inicial; no se ha confirmado que alguno haya cruzado junto a Kevin ni que forme parte de su grupo.
-- **Objetivo o situación inmediata:** decidir si cruza la puerta abierta y averiguar qué hay al otro lado.
-- **Consecuencias vigentes de escenarios anteriores:** ninguna; este es el primer escenario aprobado de la nueva versión.
-- **Asuntos pendientes importantes:** averiguar qué hay tras la puerta abierta y qué implica avanzar más allá del trayecto de losas.
+- **Punto actual de la historia:** Kevin está en la cámara de las cuatro placas, junto a Vera, Darío y Saúl. La puerta opuesta está abierta y deja ver un corredor de piedra iluminado tenuemente. Kevin todavía no ha entrado en ese corredor.
+- **Piso o entorno actual:** Piso 1, tras completar los escenarios aprobados Piso 1, Piso 1A y Piso 1B.
+- **Personajes presentes y estado general:** Kevin, Vera, Darío y Saúl se encuentran juntos en la cámara. Cooperaron para activar el mecanismo, pero no se ha confirmado que hayan formado una party ni que vayan a viajar juntos.
+- **Objetivo o situación inmediata:** decidir cómo avanzar por la puerta abierta y averiguar qué hay más allá.
+- **Consecuencias vigentes de escenarios anteriores:** Kevin cruzó las losas suspendidas sin caer ni sufrir lesiones narradas. No ha adquirido poderes, estadísticas ni capacidades extraordinarias.
+- **Asuntos pendientes importantes:** descubrir qué hay en el corredor; determinar si Vera, Darío y Saúl continuarán junto a Kevin; conocer el funcionamiento completo de UMBRAL.
 
 ## 2. Registro de continuidad por escenario
 
@@ -44,6 +44,26 @@
 - **Equipo y recursos:** utilizó pequeños fragmentos de piedra para hacer pruebas; no se ha confirmado si conserva alguno.
 - **Grupo y relaciones:** sigue sin haber una party confirmada.
 - **Punto exacto de continuación:** Kevin está ante la puerta abierta al otro extremo del trayecto, observando la abertura antes de cruzar.
+
+### Piso 1B — Los demás jugadores
+
+- **Piso / escenario:** Piso 1B, cámara de las cuatro placas.
+- **Nombre o título:** Los demás jugadores.
+- **Eslogan exacto:** «Nadie te debe la verdad. Pero todos pueden necesitarla.»
+- **Desarrollo confirmado:** Kevin cruza la puerta que abrió al final del trayecto de losas y llega a una cámara rectangular de piedra oscura. El lugar tiene un techo alto, cuatro columnas estrechas, una estructura circular baja de piedra rodeada por piezas metálicas, una puerta sin pomo en la pared opuesta y una franja de suelo elevada frente a ella. Allí encuentra a Vera, Darío y Saúl, quienes cuentan haber llegado por rutas diferentes. Vera examinaba las marcas de una columna; Darío estaba junto a la estructura central y Saúl estudiaba la puerta final. Kevin identifica cuatro placas cuadradas incrustadas en el suelo, una cerca de cada esquina, con los símbolos de círculo atravesado por una línea, dos líneas paralelas, triángulo abierto y espiral. Cada columna tiene uno de esos símbolos. Una inscripción dice: «CUATRO MARCAS. UN MISMO INSTANTE.» Vera informa que la placa de la espiral se iluminó unos segundos cuando la pisó. Kevin comprueba que la placa de las dos líneas paralelas desciende unos milímetros y permanece iluminada mientras mantiene el peso; al retirarlo, la luz desaparece. Kevin propone probar el mecanismo de manera ordenada, sin activar varias cosas distintas a la vez salvo cuando se pruebe la condición de simultaneidad. Los cuatro se colocan en placas distintas y las presionan al mismo tiempo. Las placas descienden y se iluminan; la estructura central vibra y sus piezas metálicas se deslizan hacia dentro y encajan. Los símbolos de las columnas se iluminan en secuencia, y la franja elevada del suelo desciende al nivel del resto. La puerta opuesta se separa del marco. Los cuatro retiran el peso; las luces se apagan, pero las piezas permanecen encajadas y la puerta sigue abierta. Kevin comprueba que puede empujarla más y observa un corredor de piedra tenuemente iluminado. Los cuatro cooperan durante la prueba, aunque hay desacuerdos sobre el liderazgo y la interpretación de las pistas.
+- **Descubrimientos y reglas:**
+  - **Hechos confirmados para Kevin:** cuatro placas corresponden a cuatro símbolos grabados en las columnas; la inscripción pide cuatro marcas en un mismo instante; las placas se iluminan al presionarlas; la activación simultánea de las cuatro provoca el movimiento de las piezas metálicas de la estructura central, el descenso de la franja elevada y la apertura de la puerta opuesta; al retirar el peso, las luces se apagan, pero la puerta permanece abierta; la puerta puede abrirse más y da a un corredor de piedra iluminado tenuemente.
+  - **Declaraciones no verificadas por Kevin:** Vera, Darío y Saúl describieron rutas diferentes por las que dicen haber llegado a la cámara. Sus relatos no han sido comprobados de forma independiente.
+  - **Hipótesis o cuestiones aún abiertas:** el mecanismo podría tener más funciones, pero no se ha comprobado ninguna adicional; no se sabe qué hay más allá del corredor.
+- **Kevin:** no adquiere poderes, estadísticas ni capacidades extraordinarias. Practica observación, formulación de hipótesis y coordinación básica con desconocidos. No se narran heridas ni lesiones en este escenario.
+- **Personajes conocidos:**
+  - **Vera:** mujer de cabello oscuro recogido; estaba examinando las marcas de una columna. Probó la placa de la espiral. Cooperó en la prueba. No hay ficha completa ni relación duradera establecida.
+  - **Darío:** hombre de hombros anchos; propuso que cuatro personas ocuparan las placas. Cuestionó que Kevin dirigiera el procedimiento, pero participó. No hay ficha completa ni relación duradera establecida.
+  - **Saúl:** hombre delgado; estudiaba la puerta opuesta y mostró dudas sobre el plan. Participó en la prueba. No hay ficha completa ni relación duradera establecida.
+- **Grupo y relaciones:** Kevin, Vera, Darío y Saúl cooperaron para resolver el mecanismo. No se ha confirmado una party ni un compromiso de viajar juntos.
+- **Equipo y recursos:** no se han establecido nuevos objetos, equipo ni recursos. No se ha confirmado si Kevin conserva fragmentos de piedra usados en Piso 1A.
+- **Consecuencias y asuntos pendientes:** la cámara quedó abierta y el corredor está accesible. El destino del corredor, la permanencia del grupo y la confianza entre los cuatro siguen sin resolverse.
+- **Punto exacto de continuación:** Kevin está en la cámara de las cuatro placas, junto a Vera, Darío y Saúl, observando el corredor abierto antes de decidir cómo avanzar.
 
 ## 3. Grupo y personajes con seguimiento
 
