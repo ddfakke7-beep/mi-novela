@@ -111,9 +111,13 @@ Las reglas locales pueden concretar las reglas maestras, pero no contradecirlas.
 
 Si se descubre una contradicción o un vacío importante, detenerse, identificar el problema y resolverlo antes de continuar. No inventar una solución silenciosa y tratarla como si siempre hubiera sido canon.
 
-## 10. Libertad narrativa
+## 10. Libertad narrativa y creación de personajes
 
-Las reglas maestras fijan el funcionamiento del mundo, no el argumento completo. Los escenarios, criaturas, personajes secundarios, conflictos y giros pueden crearse durante la escritura siempre que respeten lo establecido.
+Las reglas maestras fijan el funcionamiento del mundo, no el argumento completo. El asistente tiene libertad para crear y desarrollar escenarios, criaturas, personajes secundarios, grupos, conflictos y giros, siempre que respeten las reglas y la continuidad. No debe pedir al usuario que decida cada detalle creativo: le corresponde al asistente proponer soluciones narrativas coherentes y resolver los detalles ordinarios por su cuenta.
+
+La torre puede presentar escenarios que funcionen como mundos distintos, con entornos, sociedades, amenazas y participantes propios. Los personajes pueden formar grupos o parties y decidir avanzar juntos entre escenarios o pisos cuando la situación y sus intereses lo justifiquen. Las alianzas, separaciones y cambios de grupo deben tener motivos comprensibles; nadie acompaña a Kevin automáticamente ni permanece en el grupo solo porque la trama lo necesite.
+
+La mayoría de los personajes secundarios pueden ser pasajeros. No es obligatorio crear nuevos personajes en cada escenario ni mantener a todos los que aparezcan. Solo requieren seguimiento continuado quienes tengan posibilidades razonables de reaparecer, viajen con Kevin, formen parte de una party o conserven relaciones, objetivos o consecuencias relevantes. Para evitar que la continuidad se vuelva inmanejable, se recomienda un máximo orientativo de diez personajes con seguimiento activo en total, incluyendo a Kevin. No es una cuota de creación: se pueden usar menos, y los personajes pasajeros no cuentan como seguimiento activo salvo que adquieran importancia.
 
 No es necesario explicar todas las reglas al lector de antemano. Deben mostrarse cuando sean relevantes para comprender una decisión, un riesgo o una consecuencia.
 
@@ -122,9 +126,9 @@ La historia debe equilibrar supervivencia, exploración, combate, aprendizaje, i
 **Principio central:** sobrevivir depende de observar, aprender, prepararse, adaptarse y decidir bajo presión. Ninguna estadística ni ventaja elimina el riesgo; los errores pueden tener consecuencias permanentes.
 ## 11. Aprobación, continuidad y actualización obligatoria por escenario
 
-Al terminar de escribir todo el contenido acordado para un escenario —incluidas la Parte A y la Parte B cuando ambas formen parte de ese escenario—, detenerse y preguntar explícitamente al usuario si lo aprueba o si desea cambios. No dar el escenario por aprobado, no tratarlo como canon definitivo ni avanzar al siguiente escenario hasta recibir su aprobación. Si el usuario pide cambios, corregirlos y volver a solicitar aprobación.
+El asistente decide y resuelve los detalles creativos ordinarios durante la escritura, respetando las reglas maestras y la continuidad. Al terminar todo el contenido del escenario acordado —incluidas Parte A y Parte B cuando ambas pertenezcan al mismo escenario—, preguntar una sola cosa de fondo: si el usuario acepta ese escenario para incorporarlo al canon. El usuario no tiene que aprobar por separado cada personaje, diálogo, giro o decisión menor. Si pide un cambio antes de aceptarlo, corregirlo y volver a presentar el escenario para decisión. Hasta que el usuario lo acepte expresamente, el escenario sigue siendo provisional y no se registra como canon definitivo.
 
-**Solo después de la aprobación** se debe entregar un **resumen de continuidad breve, no narrativo y listo para copiar**. Debe recoger los hechos aprobados, descubrimientos, hechos que conocen los personajes y sospechas que mantienen separadas, cambios relevantes de Kevin y del grupo, equipo y recursos, consecuencias pendientes y el punto exacto desde el que debe continuar la historia. No mezclar propuestas descartadas con acontecimientos confirmados ni rellenar apartados con datos inventados.
+**Solo después de que el usuario acepte el escenario para el canon** se debe entregar un **resumen de continuidad breve, no narrativo y listo para copiar**. Debe recoger los hechos aprobados, descubrimientos, hechos que conocen los personajes y sospechas que mantienen separadas, cambios relevantes de Kevin y del grupo, equipo y recursos, consecuencias pendientes y el punto exacto desde el que debe continuar la historia. No mezclar propuestas descartadas con acontecimientos confirmados ni rellenar apartados con datos inventados.
 
 Después de la aprobación, revisar y actualizar en GitHub, de forma obligatoria, estos documentos:
 
