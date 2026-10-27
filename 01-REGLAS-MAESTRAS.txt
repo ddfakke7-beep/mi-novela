@@ -1,0 +1,108 @@
+UMBRAL — ARCHIVO 1: REGLAS MAESTRAS
+Versión de trabajo: documento central de reglas generales
+
+PROPÓSITO
+Este documento define qué está permitido y cómo funciona UMBRAL. Es la primera referencia obligatoria antes de diseñar un piso, escenario, criatura, capacidad, objeto o sistema. Las reglas aquí aprobadas son generales: no deben copiarse enteras en cada resumen de piso.
+
+PRINCIPIOS DE APLICACIÓN
+1. Coherencia antes que conveniencia: una regla no cambia solo para resolver una escena difícil.
+2. Libertad con límites: no es necesario anticipar cada caso imaginable, pero ninguna capacidad, objeto, criatura o personaje puede abusar de una laguna evidente del sistema.
+3. Causalidad: las ventajas importantes deben tener origen, condiciones y consecuencias comprensibles.
+4. Descubrimiento gradual: los personajes no conocen automáticamente las reglas. Aprenden por observación, pruebas, errores, información fiable o experiencia.
+5. Costes reales: las victorias pueden consumir recursos, causar lesiones, revelar información, deteriorar equipo o generar consecuencias sociales.
+6. Separación de estados: lo que ocurrió en un piso queda en el historial; la condición actual de los personajes se registra por separado.
+7. Canon y propuestas no se mezclan. Una idea solo se vuelve regla oficial cuando el autor la aprueba.
+
+1. ESTRUCTURA DE UMBRAL
+- La estructura general prevista comprende seis pisos, cada uno con seis escenarios identificados de A a F.
+- Completar el escenario F permite avanzar al siguiente piso, salvo que una excepción se establezca y apruebe expresamente.
+- Los escenarios pueden ser individuales, compartidos o reunir participantes solo cuando coinciden dentro de una prueba.
+- Las pruebas pueden centrarse en exploración, mecanismos, combate, decisiones, supervivencia o combinaciones de estos elementos. No todas requieren matar.
+- La dificultad debe aumentar de manera coherente, sin que cada escenario tenga que ser simplemente más fuerte que el anterior.
+- Las zonas intermedias o excepcionales no se consideran pisos completos por defecto. Su naturaleza, acceso y duración deben explicarse en la historia y registrarse si afectan a la continuidad.
+
+2. REGLAS DE ESCENARIOS Y PRUEBAS
+- Cada prueba debe tener un objetivo, una condición de avance o salida y riesgos que puedan comprenderse mediante pistas razonables.
+- No todas las reglas tienen que revelarse al principio; sí deben existir de forma consistente antes de que sus consecuencias sean relevantes.
+- Los acertijos, mecanismos y condiciones ocultas deben dejar señales suficientes para que una solución no dependa únicamente de suerte arbitraria.
+- Una prueba puede admitir distintas soluciones si estas respetan sus límites y el contexto.
+- Los escenarios compartidos no implican que todos los participantes se conozcan, confíen o reciban la misma información.
+
+3. CRIATURAS, CATEGORÍAS Y CONDUCTA
+- Las categorías describen tendencias de peligro, rareza o función, no sustituyen el análisis de la situación concreta.
+- Una criatura común puede ser mortal por terreno, sorpresa, número, lesión previa o mala preparación.
+- Las criaturas deben actuar según sus sentidos, capacidades, experiencia, objetivos y contexto; no deben conocer información que no tengan forma de obtener.
+- Algunas criaturas pueden poseer habilidades innatas y aprender a utilizarlas mejor mediante experiencia de combate.
+- Los roles de élite, miniboss o boss describen la función dentro de un encuentro y pueden coexistir con una categoría de criatura. No son necesariamente categorías biológicas excluyentes.
+- Las criaturas anómalas son irregularidades peligrosas; sus capacidades y relación con los pisos deben establecerse caso por caso.
+- No asignar una categoría definitiva a una criatura si sigue pendiente en el registro.
+
+4. RECOMPENSAS Y BOTÍN
+- Las recompensas deben ser compatibles con el peligro, el escenario y las reglas conocidas del mundo.
+- Las criaturas comunes suelen ofrecer botín o materiales con mayor frecuencia que las amenazas excepcionales, pero no se garantiza una recompensa valiosa en cada muerte.
+- Una capacidad obtenida de una criatura no debe tratarse como automática: deben definirse la condición de adquisición, la compatibilidad y la relación del participante con el encuentro.
+- La tabla exacta de botín, probabilidades y cantidades permanece pendiente hasta que el autor la apruebe.
+- No inventar porcentajes o garantías durante una escena si no están definidos en este documento o en una regla aprobada.
+
+5. GENES, PASIVAS Y HABILIDADES
+- Toda capacidad oficial debe tener ficha en el Archivo 2: nombre, tipo, efecto, límites, condiciones de activación o adquisición, origen, portador y evolución conocida.
+- Los términos gen, pasiva y habilidad deben usarse de forma consistente. Si una pasiva tiene activación voluntaria además de un efecto permanente, la ficha debe explicar ambas partes.
+- Ninguna capacidad concede efectos que no estén descritos o que contradigan sus límites.
+- La fuerza de una capacidad no elimina automáticamente la necesidad de técnica, información, oportunidad, energía, tiempo o condiciones adecuadas.
+- La evolución debe ampliar una función definida, no introducir poderes sin relación ni borrar límites sin una causa aprobada.
+- La adquisición puede depender de experiencia significativa, riesgo, aprendizaje, compatibilidad u otras condiciones previamente establecidas. No asumir que basta con dar el golpe final.
+- Las capacidades propuestas se etiquetan como PROPUESTA y no pueden tratarse como canon en la narración hasta su aprobación.
+
+6. EQUIPAMIENTO, RAREZAS Y CONJUNTOS
+- El equipo debe tener una función comprensible, límites físicos y una relación razonable entre calidad, rareza y disponibilidad.
+- Las cinco rarezas previstas son común, poco común, rara, épica y legendaria. Sus probabilidades exactas y su progresión por pisos deben quedar definidas antes de usarse como cifras firmes.
+- El equipo común es principalmente práctico y reemplazable; puede mejorar resistencia o durabilidad sin ofrecer poderes extraordinarios.
+- Los conjuntos solo conceden bonificaciones si las piezas son compatibles y se cumplen los requisitos expresamente establecidos en la ficha del sistema.
+- La fabricación requiere materiales, recetas, herramientas, conocimientos o servicios que existan en la escena.
+- La reparación no restaura automáticamente equipo destruido ni elimina todo coste: deben respetarse materiales, tiempo, daño y capacidad del reparador.
+- Los porcentajes de mejora asociados a rarezas y las condiciones de selección de mejoras deben considerarse provisionales hasta su aprobación definitiva.
+
+7. COMERCIANTES, RECURSOS Y ECONOMÍA
+- Los comerciantes ofrecen servicios y bienes dentro de límites coherentes con su función, inventario, acceso y contexto.
+- Un comerciante no debe convertirse en una solución ilimitada para curar, fabricar, comprar o reparar cualquier cosa.
+- Créditos, materiales, consumibles y objetos deben registrarse cuando sean relevantes para decisiones futuras.
+- Los consumibles se gastan al usarse, salvo que su ficha indique otra cosa.
+- Las existencias, precios, recetas y servicios no se inventan retroactivamente para resolver un problema. Si no están definidos, se presentan como propuesta para aprobación.
+- Los recursos escasos deben conservar importancia narrativa y no desaparecer de la continuidad sin explicación.
+
+8. MUERTE, HERIDAS Y RECUPERACIÓN
+- Regla vigente: si un participante muere, muere definitivamente. No existe un reinicio automático del participante en el escenario 1A.
+- No escribir resurrecciones, reinicios personales ni retornos tras la muerte salvo que el autor cambie esta regla de manera explícita y revise todas sus consecuencias.
+- Las heridas, el agotamiento, el dolor y la pérdida de recursos deben afectar las decisiones y acciones de acuerdo con su gravedad.
+- La recuperación no es idéntica a la restauración. Curar una herida, recuperar energía, reparar equipo y restaurar el cuerpo son procesos distintos.
+- No se debe asumir una restauración completa al cambiar de piso mientras esta regla no se defina y apruebe de forma expresa.
+- La muerte y la pérdida de equipo, genes u objetos deben resolverse según reglas explícitas y continuidad confirmada; no improvisar automáticamente que los objetos pasan al asesino o que reaparecen.
+- Las reglas específicas sobre cadáveres, recuperación de genes, duración de ventanas de recuperación y tratamiento del equipo muerto quedan PENDIENTES de confirmación en esta nueva versión del documento.
+
+9. LÍMITES Y PREVENCIÓN DE ABUSOS
+- Una habilidad no puede usarse para producir un efecto más preciso, potente, distante, duradero o amplio que el descrito en su ficha.
+- Una habilidad no concede información perfecta ni permite localizar, atravesar, afectar o manipular objetivos sin que su ficha lo permita.
+- No se puede duplicar un recurso, evitar un coste o encadenar efectos indefinidamente por una interpretación literal que contradiga la función evidente del sistema.
+- La combinación de dos capacidades solo produce los efectos que ambas permitan razonablemente; las sinergias extraordinarias deben revisarse.
+- La ausencia de una prohibición escrita no equivale a permiso ilimitado. Ante una explotación, se identifica la intención y el alcance de la regla, se propone una aclaración y se consulta al autor.
+- Las excepciones narrativas deben ser raras, tener una causa identificable y no invalidar retroactivamente las reglas generales.
+
+10. CANON, EXCEPCIONES Y PENDIENTES
+- CANÓNICO: regla aprobada y aplicable hasta que el autor autorice una modificación.
+- PROPUESTA: idea pendiente de aprobación; no usar como hecho confirmado.
+- PENDIENTE: pregunta sin resolver que puede afectar a la coherencia.
+- EXCEPCIÓN: caso especial aprobado que debe indicar qué regla modifica, por qué y hasta dónde.
+- Al cambiar una regla, identificar los documentos, capacidades, personajes y sucesos históricos afectados. No reescribir los hechos ya ocurridos para ocultar una contradicción: registrar el problema y decidir con el autor cómo resolverlo.
+
+11. PREGUNTAS ABIERTAS
+- Reglas exactas de salida, fracaso y abandono de cada tipo de prueba.
+- Tabla de botín, cantidades y probabilidades por criatura y piso.
+- Condiciones de compatibilidad, adquisición y evolución de genes.
+- Definición completa de las cinco rarezas, conjuntos y mejoras.
+- Sistema definitivo de créditos, comerciantes, recetas, consumibles y reparaciones.
+- Tratamiento de cadáveres, equipo y genes tras una muerte definitiva.
+- Alcance de la recuperación entre escenarios y entre pisos.
+- Excepciones autorizadas y sus límites.
+
+REGLA DE PRECEDENCIA
+Las decisiones expresamente confirmadas más recientes por el autor prevalecen sobre borradores antiguos. Si dos reglas aprobadas chocan y no puede saberse cuál prevalece, detener la decisión afectada y preguntar; no elegir en silencio.
