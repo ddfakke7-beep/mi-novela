@@ -2,18 +2,28 @@
 
 **Objetivo:** escribir una historia entretenida y coherente, con libertad creativa para diseñar mundos distintos en cada piso, sin romper las reglas del mundo ni alargar la historia artificialmente.
 
-## 1. Documentos de referencia
+## 1. Documentos obligatorios antes de crear o continuar un escenario
 
-Antes de continuar una sesión de escritura, revisar los documentos vigentes del proyecto:
+**Antes de diseñar, planificar o escribir cualquier escenario, leer obligatoriamente los cuatro documentos vigentes**, en este orden funcional:
 
-1. `01-REGLAS-MAESTRAS.txt`: reglas fundamentales del mundo, el sistema, la progresión, la muerte, las heridas y los recursos.
-2. `02-KEVIN.txt`: estado actual y cambios duraderos del protagonista.
-3. `03-CONTINUIDAD-ACTUAL.txt`: hechos confirmados, resumen de pisos y partes, consecuencias vigentes y punto exacto desde donde continuar.
-4. Este archivo: método de diseño, escritura, aprobación y actualización documental.
+1. `01-REGLAS-MAESTRAS.txt`: establece los límites y reglas generales que la trama debe respetar.
+2. `03-CONTINUIDAD-ACTUAL.txt`: permite saber qué ocurrió, cuál fue el último escenario aprobado, qué sigue pendiente y desde dónde continúa la historia.
+3. `02-KEVIN.txt`: establece cómo está Kevin al comenzar el siguiente escenario, qué sabe, qué capacidades tiene, qué recursos conserva y qué consecuencias arrastra.
+4. `04-METODO-DE-ESCRITURA.txt`: establece el procedimiento de planificación, escritura, aprobación y actualización de documentos.
 
-Los capítulos narrativos existentes sirven como referencia de lo que realmente se escribió, pero durante la reescritura sus acontecimientos antiguos no son canon obligatorio salvo que el usuario los confirme.
+Los cuatro archivos son complementarios: las Reglas Maestras limitan lo posible; la Continuidad establece lo sucedido; Kevin define el estado vigente del protagonista; y este método indica cómo trabajar. No sustituir uno por otro.
 
-Si dos documentos se contradicen, no elegir en silencio cuál obedecer. Señalar la contradicción y resolverla antes de escribir. No afirmar que se consultó un archivo si no se pudo acceder a él.
+Los capítulos narrativos existentes pueden ayudar a consultar detalles, pero durante la reescritura sus acontecimientos antiguos no son canon obligatorio salvo que el usuario los confirme.
+
+### Si falta un archivo o no se puede determinar la continuidad
+
+No fingir que se leyó un documento ni inventar el progreso. Buscar primero en el repositorio y comprobar las rutas y nombres disponibles. Si el archivo no existe, no se puede abrir o no permite identificar con seguridad el último escenario aprobado, detenerse y preguntar al usuario de forma concreta. Por ejemplo:
+
+- «No encuentro el archivo de continuidad. ¿Quieres que lo creemos desde cero usando únicamente los documentos y datos confirmados que sí tenemos?»
+- «No puedo identificar con seguridad dónde nos quedamos. ¿Confirmamos que el último escenario aprobado fue [identificación], o me indicas cuál fue?»
+- «No encuentro este documento en el repositorio. ¿Quieres que lo reconstruyamos desde cero a partir del material confirmado disponible?»
+
+No crear una continuidad nueva ni declarar un escenario como aprobado sin autorización o evidencia clara. Si los documentos se contradicen, señalar la contradicción y resolverla antes de escribir.
 
 ## 2. Estructura flexible de cada piso
 
@@ -61,17 +71,19 @@ Esperar la aprobación del usuario antes de comenzar a redactar el piso. Si el u
 
 Una vez aprobado, respetar su dirección general. Si durante la escritura aparece una razón narrativa importante para cambiar un elemento central, explicar brevemente el motivo y consultar antes de alterar el plan aprobado. Los ajustes menores que no cambien el canon ni el rumbo pueden resolverse durante la escritura.
 
-## 4. Forma de trabajar y señal «G» o «g»
+## 4. Forma de trabajar, aprobación y señal «G» o «g»
 
-La escritura se entrega en las partes que realmente necesite el piso: puede ser una sola parte o dos partes principales. No se usa una cadena obligatoria de capítulos numerados.
+La escritura se organiza según lo que necesite la historia. Un escenario puede contener Parte A y Parte B si ese es el plan acordado, pero no se debe añadir una parte solo para alargarlo. Los pisos 1 y 2 pueden ser especialmente breves o resolverse en una sola parte.
 
-- Al terminar de redactar la Parte 1, esperar la revisión del usuario.
-- Cuando el usuario responda **G** o **g**, significa: **«Me gustó; puedes avanzar al siguiente paso previsto»**. Si el piso necesita Parte 2, normalmente autoriza pasar de Parte 1 a Parte 2. Si el piso está planteado como una sola parte, preparar su resumen de continuidad y revisar las actualizaciones documentales correspondientes.
-- No interpretar «g» como aprobación automática de acontecimientos futuros, del piso completo ni de cambios de canon que aún no se han presentado.
-- Si el usuario pide cambios, corregir la parte señalada antes de avanzar.
-- Al aprobar la Parte 2, se considera aprobada la narración de esa parte; después se prepara el resumen de cierre del piso y se actualizan los documentos que correspondan.
+- Antes de crear o continuar un escenario, leer los cuatro documentos obligatorios de la sección 1 y comprobar el último punto aprobado.
+- Entregar únicamente la parte o el contenido previsto y acordado. Al terminar una entrega intermedia, esperar la indicación del usuario antes de seguir.
+- La señal **G/g** significa «apruebo esta entrega y puedes avanzar al siguiente paso previsto», no «apruebo automáticamente todo el escenario». Si todavía falta la Parte B acordada para completar el escenario, avanzar a ella según el plan; no registrar el escenario entero como aprobado hasta terminar el contenido acordado y preguntarlo explícitamente.
+- **Cuando se haya entregado todo lo acordado para el escenario**, preguntar de forma clara si el usuario lo aprueba o quiere cambios. No avanzar al siguiente escenario ni actualizar el canon definitivo hasta recibir aprobación.
+- Si el usuario pide cambios, corregir el contenido afectado y volver a preguntar si el escenario queda aprobado.
+- Después de la aprobación, entregar el resumen de continuidad y realizar las actualizaciones obligatorias indicadas en la sección 8. Si el escenario se compone de una sola parte, se aplica exactamente el mismo procedimiento.
+- La aprobación de un escenario no equivale a aprobar automáticamente el diseño de un piso nuevo ni autoriza cambios de canon que no se hayan consultado.
 
-Cada parte puede ser extensa y contener varios momentos narrativos. Si por razones prácticas conviene dividir la entrega de una parte en varios mensajes, esos mensajes siguen perteneciendo a la misma parte: no se convierten automáticamente en capítulos ni cambian la estructura del piso. Mantener claro qué parte se está escribiendo y dónde continúa.
+Cada parte puede contener varios momentos narrativos. Si por razones prácticas conviene dividir una entrega en varios mensajes, esos mensajes siguen perteneciendo a la misma parte y no crean automáticamente nuevos escenarios. Mantener claro qué parte se está escribiendo y cuál es el punto de continuación.
 
 ## 5. Ritmo y calidad narrativa
 
@@ -106,7 +118,7 @@ Los cortes entre la Parte 1 y la Parte 2 deben sentirse naturales. No es obligat
 
 La continuidad de la nueva versión se registra y se cierra **por escenario**, no solo mediante un resumen global del piso. Cada resumen aprobado de escenario se convierte en el punto operativo de partida para continuar la escritura.
 
-Al terminar y aprobar un escenario, preparar un resumen breve, no narrativo y listo para copiar y guardar. Debe incluir, cuando corresponda:
+Primero se termina el contenido acordado del escenario y se pregunta al usuario si lo aprueba. Si pide cambios, se corrige y se vuelve a solicitar aprobación. **Solo después de la aprobación** se prepara el resumen breve, no narrativo y listo para copiar y guardar. Debe incluir, cuando corresponda:
 
 1. **Identificación:** piso y escenario, nombre o título de trabajo y eslogan exacto si existe.
 2. **Desarrollo confirmado:** qué ocurrió y cómo se resolvió o quedó el desafío.
@@ -121,14 +133,18 @@ Incluir personajes secundarios solo cuando sean relevantes para la continuidad o
 
 El resumen se entrega aparte de la narración; no se inserta dentro de la historia. No mezclar propuestas descartadas con acontecimientos aprobados ni inventar datos para completar la plantilla.
 
-## 8. Actualización de los documentos
+## 8. Actualización obligatoria de documentos después de aprobar cada escenario
 
-- **`03-CONTINUIDAD-ACTUAL.txt`:** mantener una plantilla de continuidad sin rellenar hasta que exista material aprobado de la nueva versión. Después, añadir el panorama general confirmado y un registro por cada escenario terminado y aprobado. Cada resumen de escenario debe conservar el punto exacto de continuación y las consecuencias vigentes. No crear resúmenes de acontecimientos que todavía no han ocurrido ni reconstruir la continuidad descartada.
-- **`02-KEVIN.txt`:** mantener una ficha inicial vacía hasta que se establezcan datos de Kevin en la nueva versión. Actualizarla cuando cambie de forma duradera su estado, capacidades, conocimientos, equipo, recursos, relaciones relevantes u objetivos. No heredar detalles de versiones anteriores.
-- **`01-REGLAS-MAESTRAS.txt`:** modificarlo solo cuando el usuario autorice o confirme un cambio de reglas. No cambiar reglas para justificar retroactivamente una escena.
-- **Este método:** modificarlo cuando el usuario solicite o confirme una nueva norma de trabajo.
+No se actualiza el canon definitivo antes de que el usuario apruebe el escenario completo. Después de aprobarlo, revisar y actuar sobre los archivos siguientes:
 
-Los cambios provisionales pueden señalarse durante el desarrollo, pero no deben registrarse como canon definitivo hasta que corresponda. Mantener clara la diferencia entre propuesta, plan aprobado, narración aprobada y continuidad confirmada.
+- **`03-CONTINUIDAD-ACTUAL.txt` — obligatorio en cada escenario:** añadir el registro del escenario aprobado y actualizar el panorama general si cambió. Conservar hechos, sospechas y desconocidos por separado, consecuencias vigentes, recursos y el punto exacto desde el que continúa la historia. Respetar la plantilla que ya existe.
+- **`02-KEVIN.txt` — revisar obligatoriamente en cada escenario:** comprobar y dejar correcta la ficha de Kevin para el inicio del siguiente escenario. Registrar los cambios duraderos confirmados en estado físico o mental, conocimientos, capacidades, equipo, recursos, relaciones y objetivos. No inventar cambios para rellenar la ficha; si no cambió algo, conservar el dato correcto.
+- **`01-REGLAS-MAESTRAS.txt` — revisar si corresponde:** si el escenario aprobado introduce o confirma una regla general, límite o mecánica del mundo, comprobar que encaje con las reglas existentes. Solo incorporar cambios generales aprobados. Si existe contradicción, detenerse y consultar al usuario; no adaptar las reglas en silencio para salvar la trama.
+- **`04-METODO-DE-ESCRITURA.txt` — solo si corresponde:** actualizarlo cuando el usuario apruebe cambios al procedimiento de trabajo.
+
+Verificar el contenido actual de cada archivo antes de editarlo y comprobar el resultado de cada actualización. Informar al usuario qué archivos se modificaron y cuáles no necesitaron cambios. Si falta un archivo, no se puede acceder a GitHub o falla una operación, decirlo claramente y preguntar cómo proceder cuando sea necesario. Nunca afirmar que se guardó un cambio sin confirmación.
+
+Los cambios provisionales pueden discutirse durante el desarrollo, pero no deben registrarse como canon definitivo antes de la aprobación del escenario y de cualquier cambio de reglas que requiera confirmación. Mantener clara la diferencia entre propuesta, plan aprobado, narración pendiente de aprobación y continuidad confirmada.
 
 ## 9. Cómo retomar el proyecto en otro chat
 
@@ -148,8 +164,9 @@ No empezar de cero ni asumir que el chat anterior es la única fuente de continu
 - No afirmar que un archivo se actualizó hasta recibir confirmación de la operación.
 - No modificar ni borrar capítulos narrativos existentes sin autorización expresa.
 - La continuidad antigua que pertenece a una versión descartada no debe reconstruirse a partir de esa historia.
-- Tras completar y aprobar el primer escenario de la nueva versión, registrar su resumen de continuidad. Añadir cada escenario posterior cuando quede aprobado.
-- Después de cerrar cada piso, actualizar solo los documentos que correspondan según la sección 8.
+- Tras terminar todo el contenido acordado de un escenario, preguntar si queda aprobado. Solo después de la aprobación registrar su resumen de continuidad.
+- En cada escenario aprobado, actualizar obligatoriamente `03-CONTINUIDAD-ACTUAL.txt` y revisar/poner al día `02-KEVIN.txt`; actualizar `01-REGLAS-MAESTRAS.txt` y este método únicamente cuando corresponda y el cambio esté aprobado.
+- Si no se encuentra un archivo o no está claro cuál fue el último escenario aprobado, no inventar ni asumir. Buscar en el repositorio y, si sigue sin resolverse, preguntar si el usuario quiere reconstruir el archivo desde cero con los datos confirmados disponibles o confirmar el último escenario aprobado.
 - No crear registros adicionales que dupliquen información útil ya guardada en los cuatro documentos principales.
 
-**Regla práctica:** diseñar y aprobar el plan general del piso; escribir solo la extensión que necesite; usar «g» para aprobar la entrega recibida y avanzar al siguiente paso previsto; y, al cerrar cada escenario, entregar su resumen de continuidad y actualizar los documentos correspondientes.
+**Regla práctica:** antes de crear un escenario, leer los cuatro documentos obligatorios; escribir solo la extensión que necesite la historia; terminar el contenido acordado y pedir aprobación; y solo después entregar el resumen, actualizar la continuidad, revisar la ficha de Kevin y modificar las reglas o el método únicamente cuando corresponda.
