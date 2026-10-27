@@ -1,33 +1,34 @@
 # UMBRAL — CONTINUIDAD ACTUAL
 
-**Estado:** plantilla inicial de la nueva versión. Todavía no contiene acontecimientos narrativos confirmados.  
+**Estado:** nueva versión en curso. El escenario introductorio del Piso 1 está aprobado y registrado; el escenario 1A todavía no está escrito ni aprobado.
 **Regla:** no importar ni reconstruir la continuidad de versiones anteriores. Añadir información solo después de que el escenario correspondiente haya sido escrito y aprobado.
 
 ## 1. Panorama general confirmado
 
-- **Punto actual de la historia:**
-- **Piso o entorno actual:** pendiente de establecer.
-- **Personajes presentes y estado general:** pendiente de establecer.
-- **Objetivo o situación inmediata:** pendiente de establecer.
-- **Consecuencias vigentes de escenarios anteriores:** todavía no hay registros.
-- **Asuntos pendientes importantes:** pendiente de establecer.
+- **Punto actual de la historia:** Kevin acaba de cruzar la puerta del espacio inicial y se encuentra en una plataforma de piedra frente a una serie de losas suspendidas sobre un vacío y una segunda puerta al otro extremo.
+- **Piso o entorno actual:** Piso 1; escenario introductorio aprobado, antes de resolver la prueba de las losas.
+- **Personajes presentes y estado general:** Kevin está en la plataforma. Otros desconocidos estaban en el espacio inicial; no se ha confirmado que alguno haya cruzado junto a Kevin ni que forme parte de su grupo.
+- **Objetivo o situación inmediata:** observar y comprender cómo avanzar por las losas sin conocer todavía sus reglas.
+- **Consecuencias vigentes de escenarios anteriores:** ninguna; este es el primer escenario aprobado de la nueva versión.
+- **Asuntos pendientes importantes:** descubrir el funcionamiento y los riesgos de las losas; averiguar qué hay al otro extremo y qué implica superar la prueba.
 
 ## 2. Registro de continuidad por escenario
 
-Crear una entrada nueva por cada escenario terminado y aprobado. Mantener los registros en orden cronológico. El resumen más reciente es el punto operativo de partida para continuar la escritura.
+### Piso 1 — El precio de existir
 
-### Escenario [identificación pendiente]
-
-- **Piso / escenario:**
-- **Nombre o título de trabajo:**
-- **Eslogan exacto (si existe):**
-- **Desarrollo confirmado:**
-- **Descubrimientos y reglas:** separar hechos confirmados, sospechas de los personajes y aspectos desconocidos.
-- **Kevin:** estado físico y mental, decisiones, aprendizajes duraderos y cambios relevantes.
-- **Grupo y relaciones:** cambios que importen para la historia.
-- **Equipo y recursos:** objetos obtenidos, gastados, perdidos, dañados, conservados o de ubicación incierta.
-- **Consecuencias y asuntos pendientes:**
-- **Punto exacto de continuación:**
+- **Piso / escenario:** Piso 1, escenario introductorio.
+- **Nombre o título de trabajo:** El precio de existir.
+- **Eslogan exacto (si existe):** «No todos los comienzos te dan la oportunidad de elegir».
+- **Desarrollo confirmado:** Kevin despierta en un lugar desconocido junto a varias personas. Aparece un mensaje de UMBRAL que informa que la progresión ha comenzado, que hay etapas pendientes y que deben superarse pruebas para continuar. Kevin examina el entorno y descubre una puerta grande sin pomo, con marcas hundidas. Al presionar una marca, activa un mecanismo y la puerta se abre. Un hombre cruza y desaparece; no se confirma qué le ocurrió ni si llegó a algún destino. Tras valorar la incertidumbre de cruzar frente a la de quedarse, Kevin decide atravesar la puerta. Aparece en una plataforma de piedra sin puerta visible detrás. Delante hay losas de piedra suspendidas sobre un vacío sin fondo visible y otra puerta al final. Kevin decide observar antes de avanzar.
+- **Descubrimientos y reglas:**
+  - **Hechos confirmados para Kevin:** recibió el mensaje de UMBRAL sobre progresión y pruebas; una de las marcas de la puerta activó un mecanismo; al cruzar la puerta fue trasladado a una plataforma distinta; no ve una puerta de regreso; hay losas separadas sobre un vacío y una puerta al otro extremo.
+  - **Sospechas:** el lugar parece diseñado para obligar a avanzar mediante pruebas, pero Kevin aún no conoce su funcionamiento completo ni sus condiciones.
+  - **Desconocido:** qué le ocurrió al hombre que cruzó primero; cómo funcionan las losas; qué ocurre al llegar a la otra puerta; si hay rutas o mecanismos alternativos.
+- **Kevin:** 30 años; personalidad analítica, pragmática y muy desconfiada, según su ficha. Evalúa la incertidumbre y decide cruzar porque quedarse tampoco le ofrece seguridad. No se ha establecido que haya adquirido capacidades nuevas ni sufrido heridas.
+- **Grupo y relaciones:** no hay una party confirmada. Las personas del espacio inicial siguen siendo desconocidos; no se ha confirmado el destino de ninguna salvo que el primer hombre desapareció al cruzar.
+- **Equipo y recursos:** no se han establecido objetos, equipo ni recursos concretos.
+- **Consecuencias y asuntos pendientes:** Kevin está separado del grupo inicial, sin un regreso visible; necesita averiguar cómo cruzar las losas y alcanzar la puerta del otro extremo.
+- **Punto exacto de continuación:** Kevin permanece en la plataforma de piedra, frente a las primeras losas, observando el trayecto antes de dar el siguiente paso.
 
 ## 3. Grupo y personajes con seguimiento
 
