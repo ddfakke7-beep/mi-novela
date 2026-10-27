@@ -113,6 +113,8 @@ Las reglas locales pueden concretar las reglas maestras, pero no contradecirlas.
 
 Si se descubre una contradicción o un vacío importante, detenerse, identificar el problema y resolverlo antes de continuar. No inventar una solución silenciosa y tratarla como si siempre hubiera sido canon.
 
+**Comprobación de continuidad entre escenarios:** antes de diseñar o escribir un escenario nuevo, revisar el canon aprobado del escenario inmediatamente anterior y comprobar de forma explícita el punto exacto de salida, la ubicación y el estado de los personajes, las acciones ya realizadas, los cambios físicos, los objetos y recursos, la información que conocen y los asuntos pendientes. Si se inicia un nuevo piso, revisar especialmente cómo terminó el piso anterior y qué transición ya ocurrió. El comienzo del nuevo escenario debe continuar desde ese estado confirmado, sin repetir, deshacer, adelantar ni contradecir acontecimientos ya narrados. Si los documentos centrales no bastan para verificar un hecho importante, buscar el registro aprobado correspondiente; si sigue sin poder determinarse, mantenerlo como desconocido o consultar al usuario antes de escribir.
+
 ## 10. Libertad narrativa y creación de personajes
 
 Las reglas maestras fijan el funcionamiento del mundo, no el argumento completo. El asistente tiene libertad para crear y desarrollar escenarios, criaturas, personajes secundarios, grupos, conflictos y giros, siempre que respeten las reglas y la continuidad. No debe pedir al usuario que decida cada detalle creativo: le corresponde al asistente proponer soluciones narrativas coherentes y resolver los detalles ordinarios por su cuenta.
