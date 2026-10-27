@@ -1,16 +1,16 @@
 # UMBRAL — CONTINUIDAD ACTUAL
 
-**Estado:** nueva versión en curso. Los escenarios Piso 1 — «El precio de existir», Piso 1A — «Aprender las reglas», Piso 1B — «Los demás jugadores» y Piso 1C — «La primera amenaza» están aprobados por el usuario.
+**Estado:** nueva versión en curso. Están aprobados los escenarios Piso 1 — «El precio de existir», Piso 1A — «Aprender las reglas», Piso 1B — «Los demás jugadores», Piso 1C — «La primera amenaza» y Piso 1D — «El corredor de las compuertas».
 **Regla:** no importar ni reconstruir la continuidad de versiones anteriores. Añadir información solo después de que el escenario correspondiente haya sido escrito y aprobado.
 
 ## 1. Panorama general confirmado
 
-- **Punto actual de la historia:** Kevin, Vera, Darío y Saúl han retrocedido desde la cámara alargada donde encontraron una criatura cuadrúpeda. Están en el corredor, más allá de la curva que oculta la cámara. Kevin tiene dolor en la rodilla y el hombro tras caer y chocar contra la pared; Darío tiene una herida superficial en la parte exterior del muslo.
-- **Piso o entorno actual:** Piso 1, tras completar los escenarios aprobados Piso 1, Piso 1A, Piso 1B y Piso 1C.
-- **Personajes presentes y estado general:** Kevin, Vera, Darío y Saúl siguen juntos después de escapar del primer enfrentamiento. Cooperaron bajo presión, pero no han acordado formar una party ni viajar juntos.
-- **Objetivo o situación inmediata:** revisar las heridas y continuar con cautela por el corredor sin regresar a la cámara mientras no exista una razón para hacerlo.
-- **Consecuencias vigentes:** Kevin sufrió dolor en la rodilla y el hombro durante la huida; la gravedad y duración de esas molestias no se han determinado. Darío sufrió un corte superficial en la parte exterior del muslo que sangró y le duele al mover la pierna. No hay restauración física entre escenarios del mismo piso.
-- **Asuntos pendientes importantes:** averiguar por qué la criatura se detuvo en la entrada de la cámara, si puede perseguirlos o hay más criaturas, qué hay más adelante y si los cuatro continuarán juntos. La barra metálica que Kevin recogió quedó caída en la cámara.
+- **Punto actual de la historia:** Kevin, Vera, Darío y Saúl han atravesado el corredor de las compuertas y están en una pequeña cámara de piedra ante una puerta abierta. Han examinado la abertura desde el umbral, pero todavía no han cruzado.
+- **Piso o entorno actual:** Piso 1, tras completar los escenarios aprobados Piso 1, Piso 1A, Piso 1B, Piso 1C y Piso 1D.
+- **Personajes presentes y estado general:** Kevin, Vera, Darío y Saúl siguen cooperando, pero no han acordado formar una party ni viajar juntos formalmente.
+- **Objetivo o situación inmediata:** descansar brevemente y examinar el espacio al otro lado de la puerta antes de entrar.
+- **Consecuencias vigentes:** Kevin conserva dolor en la rodilla y el hombro; al agacharse para pasar bajo una compuerta, el dolor aumentó momentáneamente, sin lesión nueva confirmada. Darío conserva el corte superficial en la parte exterior del muslo y dolor al mover la pierna. No hay restauración física entre escenarios del mismo piso.
+- **Asuntos pendientes importantes:** averiguar por qué la criatura del escenario anterior se detuvo en el umbral, si puede perseguirlos o hay más criaturas, qué hay tras la puerta abierta y si los cuatro continuarán juntos. La barra metálica que Kevin recogió sigue en la cámara de la criatura.
 
 ## 2. Registro de continuidad por escenario
 
@@ -82,6 +82,23 @@
 - **Equipo y recursos:** Kevin recogió una pieza metálica alargada para defenderse y la dejó caer durante la retirada. Permanece en la cámara. No se confirmó ningún otro objeto obtenido ni recompensa.
 - **Consecuencias y asuntos pendientes:** las heridas y molestias persisten dentro del Piso 1. La criatura sigue viva y no fue derrotada. No se confirmó recompensa, botín ni mejora. Los cuatro deben revisar las heridas y decidir cómo avanzar.
 - **Punto exacto de continuación:** Kevin, Vera, Darío y Saúl están en el corredor, más allá de una curva que oculta la cámara de la criatura. Kevin tiene dolor en la rodilla y el hombro; Darío tiene una herida superficial en el muslo. Kevin propone revisar las heridas y avanzar con cuidado.
+
+
+### Piso 1D — El corredor de las compuertas
+
+- **Piso / escenario:** Piso 1D.
+- **Nombre o título:** El corredor de las compuertas.
+- **Eslogan exacto:** «Una salida no sirve de nada si no puedes llegar hasta ella.»
+- **Desarrollo confirmado:** Kevin, Vera, Darío y Saúl avanzaron por el corredor tras retirarse de la criatura. Hicieron una pausa para revisar sus heridas y encontraron varias compuertas con controles rectangulares, lengüetas, guías con muescas y marcas en el suelo. Al presionar el control de la primera compuerta, esta descendió hasta cerrar el paso detrás de ellos; no descubrieron cómo reabrirla. La segunda compuerta tenía una lengüeta oculta cerca de su control. Al desplazarla, el control rectangular sobresalió parcialmente; al presionarlo, la compuerta se elevó y una barra encajó en una muesca de la guía, reteniéndola durante la observación. Los cuatro pasaron agachados, uno por uno. En el último tramo encontraron placas de suelo separadas por juntas y dos ranuras con piezas metálicas. Al mover una pieza de una ranura, una losa vertical oculta descendió parcialmente y dejó ver una guía con muescas. Al mover la otra pieza, la compuerta oculta subió unos centímetros y una barra encajó en una muesca. El grupo esperó y comprobó que la estructura permanecía en esa posición durante la observación. Pasaron por debajo con cautela. Más allá encontraron una pequeña cámara de piedra y una puerta con una placa metálica lisa. Al presionarla, se oyó un clic y la puerta se separó del marco. Kevin la abrió y examinó el espacio iluminado desde el umbral. Los cuatro aún no han cruzado.
+- **Descubrimientos y reglas:**
+  - **Hechos confirmados para Kevin:** varios controles y piezas metálicas alteran la posición de las compuertas; una guía con muescas puede retener una compuerta en una posición durante el tiempo observado; la posición de algunas piezas no es evidente a primera vista; las placas del último tramo cedieron bajo el peso y regresaron al retirar la presión durante las pruebas realizadas; el corredor desemboca en una pequeña cámara con una puerta que se abrió al presionar su placa central.
+  - **Hipótesis:** las piezas, guías y marcas del suelo parecen formar parte de un sistema conectado, pero el mecanismo completo no se conoce. No está confirmado cuánto peso soportan las barras, cuánto tiempo retienen las compuertas ni si los mecanismos pueden reabrirse desde el otro lado.
+  - **Desconocido:** funcionamiento completo del sistema, si las compuertas pueden volver a abrirse desde el lado opuesto, qué hay tras la puerta final y si existen más mecanismos en la siguiente estancia.
+- **Kevin:** mantuvo un enfoque cauteloso, pidió probar una sola cosa a la vez y evitó que el grupo pasara bajo una compuerta sin observar primero su retención. Conserva dolor en la rodilla y el hombro; al agacharse para pasar, el dolor aumentó momentáneamente, sin lesión nueva confirmada. No adquirió poderes, estadísticas, técnicas ni capacidades extraordinarias.
+- **Grupo y relaciones:** Vera, Darío, Saúl y Kevin cooperaron durante el recorrido. No han acordado formar una party ni viajar juntos formalmente.
+- **Equipo y recursos:** no obtuvieron objetos ni recompensas. La pieza metálica alargada recogida por Kevin en el escenario anterior permanece en la cámara de la criatura. Los fragmentos de piedra usados en el primer trayecto siguen con estado incierto.
+- **Consecuencias y asuntos pendientes:** Kevin sigue con dolor en rodilla y hombro; Darío conserva el corte superficial en el muslo y dolor al mover la pierna. Vera y Saúl no tienen heridas confirmadas. La criatura del escenario anterior sigue viva; se desconoce por qué no persiguió al grupo más allá del umbral. No se confirmó botín, mejora ni recompensa.
+- **Punto exacto de continuación:** Kevin, Vera, Darío y Saúl están en una pequeña cámara de piedra al final del corredor de las compuertas. La puerta al siguiente espacio está abierta; los cuatro permanecen en el umbral y planean descansar un momento y examinar lo que hay al otro lado antes de entrar.
 
 ## 3. Grupo y personajes con seguimiento
 
