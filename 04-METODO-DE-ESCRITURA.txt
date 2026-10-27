@@ -1,99 +1,117 @@
-UMBRAL — MÉTODO DE ESCRITURA
-Objetivo: escribir una historia entretenida, sorprendente y coherente sin convertir la continuidad en una tarea administrativa.
+# UMBRAL — MÉTODO DE ESCRITURA Y CONTINUIDAD
 
-JERARQUÍA
-1. 01-REGLAS-MAESTRAS.txt determina qué es posible en el mundo.
-2. 02-KEVIN.txt conserva la continuidad importante del protagonista.
-3. 03-CONTINUIDAD-ACTUAL.txt indica qué acaba de suceder y qué debe respetarse al continuar.
-4. Los capítulos existentes sirven como referencia narrativa, pero durante una reescritura completa del Piso 1 sus sucesos no son canon obligatorio. La nueva versión puede cambiar sus acontecimientos, orden, personajes y resultados, sin contradecir las reglas maestras ni el canon que el usuario confirme como vigente.
-5. Todo lo demás puede inventarse libremente si no contradice lo anterior.
+**Objetivo:** escribir una historia entretenida y coherente, con capítulos que aporten algo real, sin alargar escenas por inercia ni depender de la memoria del chat.
 
-PRIORIDAD NARRATIVA: PELIGRO, RIESGO Y SUPERVIVENCIA
-- La historia debe transmitir que los personajes pueden equivocarse, sufrir pérdidas, quedar heridos o morir. El peligro debe sentirse real y depender de la situación, no de amenazas vacías.
-- Priorizar decisiones difíciles, observación, adaptación, tensión, conflictos interesantes y consecuencias. No convertir la historia en una explicación constante de sistemas.
-- Los mecanismos y reglas se explican de forma breve y clara cuando el lector necesita entenderlos. Evitar exposiciones largas, tecnicismos innecesarios y repetir información ya clara.
-- Sorprender sin hacer trampa: los giros deben ser inesperados, pero comprensibles al mirar atrás y compatibles con las reglas y los hechos establecidos.
+## 1. Documentos de referencia
 
-COMBATES CLAROS Y COHERENTES
-- Los combates deben ser entretenidos, tensos y fáciles de seguir. No hace falta describir cada golpe; sí mostrar lo necesario para entender cómo cambia la pelea.
-- Antes de narrar un combate, definir internamente la cantidad real de enemigos, su nivel de amenaza, función, comportamiento, capacidades, límites y condiciones relevantes del entorno. No improvisar enemigos, poderes o refuerzos a mitad del combate solo para aumentar la dificultad.
-- Dejar claro el número de enemigos presentes o detectados cuando los personajes puedan saberlo razonablemente. No presentar como conocido aquello que los personajes todavía ignoran.
-- Un enemigo oculto o una amenaza inesperada solo puede aparecer si la lógica del escenario lo permite y su presencia no contradice lo ya establecido. No usar sorpresas arbitrarias.
-- El nivel de amenaza debe considerar capacidades, número de enemigos, terreno, recursos y estado de los participantes.
-- El lector debe entender qué intenta hacer Kevin, qué hace el enemigo, qué acciones funcionan o fallan y por qué cambia la situación. Mostrar decisiones tácticas relevantes, oportunidades, errores y el motivo plausible de la victoria, derrota o retirada.
-- Describir daños importantes, sus riesgos y cómo afectan las acciones posteriores. Las heridas y el agotamiento persisten de acuerdo con las reglas maestras.
-- No hacer que los enemigos olviden sus capacidades o se vuelvan torpes para facilitar la victoria. Kevin tampoco gana automáticamente por ser protagonista.
-- Las victorias pueden depender de observar patrones, aprovechar el entorno, colaborar, administrar recursos, adaptarse o asumir riesgos. Ganar no significa salir ileso.
+Antes de continuar una sesión de escritura, revisar los documentos vigentes del proyecto:
 
-RITMO Y EXTENSIÓN
-- Evitar tanto alargar artificialmente una prueba como resolverla de forma apresurada. La extensión depende de la complejidad y de lo que necesite la historia.
-- Como referencia flexible, un escenario suele ocupar entre 2 y 4 capítulos. Una prueba sencilla puede necesitar 1 o 2; una más compleja puede requerir más si cada capítulo aporta algo real. No forzar un número fijo.
-- Cada capítulo debe avanzar la situación, desarrollar un conflicto, revelar información útil, mostrar una decisión importante o producir una consecuencia.
-- Eliminar repeticiones, explicaciones redundantes, monólogos que no aporten y escenas que no cambien nada. No resumir tanto que se pierda la lógica de una decisión, un combate o una consecuencia.
-- Mantener equilibrio entre acción, diálogo, exploración, tensión y pausas. El descanso puede servir para recuperarse, evaluar riesgos, aprender o cambiar relaciones, pero no debe ser relleno.
-- La planificación interna puede ser detallada para asegurar coherencia; la narración final solo debe mostrar lo necesario para vivir y comprender la historia.
+1. `01-REGLAS-MAESTRAS.txt`: reglas fundamentales del mundo, el sistema, la progresión, la muerte, las heridas y los recursos.
+2. `02-KEVIN.txt`: estado actual y cambios duraderos del protagonista.
+3. `03-CONTINUIDAD-ACTUAL.txt`: hechos confirmados, resumen de pisos y escenarios, consecuencias vigentes y punto exacto desde donde continuar.
+4. Este archivo: método de trabajo, aprobación, ritmo y actualización documental.
 
-LIBERTAD CREATIVA
-- La IA puede inventar escenarios, criaturas, pruebas, conflictos, objetos, recompensas, personajes y giros argumentales según las necesidades de la historia.
-- Los personajes secundarios no requieren fichas permanentes ni nombres completos. Pueden tener nombres provisionales, aparecer durante una escena o varios pisos, separarse, traicionar, morir, reaparecer mucho después o no volver nunca.
-- No hace falta conservar a un personaje solo porque ya apareció. Si deja de ser relevante, la historia puede continuar con otros.
-- La IA puede asignar habilidades a personajes y criaturas cuando tenga sentido por el piso, la situación, su experiencia y las reglas maestras. Debe definir límites suficientes para que esas habilidades no se conviertan en soluciones arbitrarias.
-- No planificar todo el elenco ni el argumento completo con antelación. Descubrir la historia durante la escritura, manteniendo continuidad.
-- La colaboración entre participantes puede durar una prueba o un piso, pero no implica amistad, lealtad ni que deban avanzar juntos permanentemente.
+Los capítulos narrativos existentes sirven como referencia de lo que realmente se escribió, pero durante la reescritura del Piso 1 sus acontecimientos antiguos no son canon obligatorio salvo que el usuario los confirme.
 
-COHERENCIA OBLIGATORIA
-- Las reglas maestras prevalecen. No inventar excepciones para salvar una escena.
-- Los personajes solo saben lo que han visto, aprendido, deducido con fundamento o recibido de una fuente.
-- No conocen automáticamente las reglas del mundo ni el funcionamiento de una habilidad recién adquirida.
-- Las capacidades tienen límites; no pueden resolver cualquier problema sin coste ni condición.
-- Mantener consecuencias de heridas, agotamiento, decisiones, pérdidas, recursos y equipo según las reglas vigentes.
-- Las victorias deben surgir de acciones comprensibles, observación, preparación, cooperación, adaptación o una ventaja plausible; pueden tener un coste.
-- No usar casualidades arbitrarias para resolver el conflicto ni hacer que los enemigos olviden capacidades o comportamientos solo para facilitar la victoria.
-- Los personajes secundarios deben tener motivos propios comprensibles. Pueden ser egoístas, generosos, calculadores, contradictorios o poco fiables; no existen únicamente para ayudar a Kevin.
-- La historia no debe convertirse en una sucesión repetitiva de pruebas, monstruos y recompensas. Alternar exploración, tensión social, descubrimientos, decisiones, negociaciones, conflictos, descansos y combate cuando la trama lo pida.
-- Cada escenario debe tener un conflicto o propósito reconocible y aportar algo al avance de la historia: información, presión, una decisión, una consecuencia, una relación cambiante o una sorpresa coherente.
-- No todas las escenas necesitan un giro enorme o un cliffhanger. Una conversación puede ser importante si modifica intereses, confianza o lo que Kevin cree saber.
-- Kevin puede equivocarse, interpretar mal a alguien, perder recursos o fracasar. No debe ganar solo por ser protagonista.
+Si dos documentos se contradicen, no elegir en silencio cuál obedecer. Señalar la contradicción y resolverla antes de escribir. No afirmar que se consultó un archivo si no se pudo acceder a él.
 
-PROGRESIÓN DE KEVIN
-- La mejora natural procede de la experiencia, la práctica, la observación, la exigencia y la adaptación.
-- No usar niveles, barras de experiencia ni llevar un registro de cada técnica.
-- Mostrar la mejora cuando afecte la acción: detecta un patrón antes, administra mejor su esfuerzo, decide con más criterio o deja de repetir un error.
-- No convertir cada experiencia en una mejora automática.
-- Registrar en la ficha de Kevin solo cambios duraderos que puedan importar después.
+## 2. Diseñar cada escenario antes de escribirlo
 
-USO DE LOS RESÚMENES
-Al terminar cada escenario, entregar un resumen breve y no narrativo con:
-1. Acontecimientos y consecuencias relevantes.
-2. Estado de Kevin y cambios duraderos.
-3. Cabos sueltos que realmente puedan afectar la continuación.
-Como la continuidad anterior pertenece a la versión descartada, no usarla como referencia. Al terminar el primer escenario de la nueva versión, crear un 03-CONTINUIDAD-ACTUAL.txt nuevo que registre únicamente los hechos confirmados de la reescritura y actualizarlo al cerrar cada escenario. Actualizar 02-KEVIN.txt solo cuando cambie información duradera sobre Kevin. No mantener un historial exhaustivo de personajes secundarios ni duplicar los capítulos narrativos.
-Al cerrar un piso, basta con que el resumen operativo refleje el estado resultante y las consecuencias que siguen vigentes. Los capítulos anteriores ya conservan el historial narrativo.
+Antes de redactar el primer capítulo de un escenario, presentar un plan breve que incluya:
 
-FORMA DE TRABAJO
-- Escribir por escenario, no diseñar automáticamente un piso entero.
-- No iniciar el diseño estructural de un nuevo piso hasta que el usuario lo solicite expresamente.
-- Si el usuario pide escritura, priorizar una escena completa, atractiva y lista para leer; no interrumpirla con comentarios sobre el proceso.
-- Preguntar solo cuando falte una decisión indispensable o exista una ambigüedad que pueda romper la coherencia. Resolver los detalles menores mediante reglas generales y criterio narrativo.
-- Antes de entregar una escena, revisar causalidad, reglas, conocimiento de los personajes, recursos importantes y consecuencias.
-- No convertir cada decisión creativa en una lista de opciones para el usuario. La IA debe tomar iniciativa dentro de los límites establecidos.
-- Si algo no está confirmado, no presentarlo como canon previo. Puede introducirse como un hecho nuevo dentro de la narración si respeta las reglas y no contradice el pasado.
-- Si una regla maestra no cubre un caso importante, no modificarla unilateralmente: señalar el problema y consultar al autor cuando sea necesario.
+- **Propósito:** qué aporta el escenario a la historia.
+- **Conflicto o desafío central:** qué situación debe afrontar Kevin y por qué importa.
+- **Riesgos y condiciones relevantes:** amenazas, restricciones, información importante y condición de finalización.
+- **Cantidad prevista de capítulos:** decir explícitamente cuántos capítulos tendrá el escenario.
+- **Función de cada capítulo:** una línea por capítulo que indique qué avance, decisión, descubrimiento, conflicto o consecuencia lo justifica.
 
-GITHUB Y DOCUMENTOS
-- No modificar 01-REGLAS-MAESTRAS.txt salvo orden explícita del usuario.
-- No modificar, renombrar ni borrar la carpeta piso-1 ni sus capítulos salvo orden explícita del usuario.
-- Al reescribir el Piso 1, conservar intactos los archivos narrativos antiguos en GitHub; la nueva versión se escribe en la conversación. Sus hechos no son obligatorios para la nueva versión, salvo los que el usuario confirme como canon.
-- La antigua 03-CONTINUIDAD-ACTUAL.txt fue eliminada porque reflejaba la versión descartada. No reconstruirla a partir de esa historia. Tras finalizar el primer escenario de la nueva versión, crear una continuidad nueva basada solo en lo ocurrido en la reescritura.
-- Después de que el usuario dé por terminado un escenario, actualizar únicamente la nueva 03-CONTINUIDAD-ACTUAL.txt y 02-KEVIN.txt cuando corresponda. No modificar otros documentos sin autorización.
-- Mantener solo la documentación de control que resulte útil. No crear registros separados para cada personaje secundario, criatura o capacidad.
-- Verificar los archivos antes de actualizarlos. No afirmar que un cambio se guardó si no hay confirmación.
+El número de capítulos debe responder a las necesidades reales de la historia. No extender un escenario solo para cumplir una cifra ni dejarlo demasiado corto si falta desarrollar una decisión o consecuencia necesaria.
 
+Una vez aprobado el plan, respetar el número establecido. Si durante la escritura aparece una razón narrativa genuina para añadir, quitar o reorganizar capítulos, explicar brevemente por qué y pedir aprobación antes de cambiar el plan. No prolongar un escenario aburrido con relleno: simplificarlo o cerrar el conflicto de manera coherente.
 
-ACLARACIÓN OBLIGATORIA: ENFOQUE EN KEVIN Y ACTUALIZACIÓN DE SU FICHA
-- Kevin es el protagonista central. La ficha 02-KEVIN.txt es la referencia principal para seguir su estado y evolución. La narración debe centrarse especialmente en lo que Kevin percibe, decide, aprende, arriesga, consigue y pierde. Los secundarios conservan sus propios motivos y agencia; Kevin no tiene que resolverlo todo ni ganar siempre.
-- Cada mejora relevante de Kevin debe tener una causa comprensible en la historia. Explicar mediante la narración qué la produjo: práctica, observación, experiencia, sufrimiento, comprensión de un patrón, corrección de un error o adaptación. No darle mejoras gratuitas ni automáticas. Respetar siempre las reglas maestras y los límites de sus capacidades.
-- Al cerrar cada escenario o tramo (por ejemplo, Piso 1A, Piso 1B, Piso 1C), entregar un resumen final, breve y no narrativo, listo para actualizar 02-KEVIN.txt. No esperar a terminar todo el Piso 1.
-- Ese resumen debe especificar: estado físico y heridas pendientes; capacidades, genes o habilidades adquiridos o modificados y límites conocidos; equipo y recursos que conserva o perdió; aprendizajes y mejoras duraderas, indicando por qué ocurrieron; y consecuencias que continúan vigentes.
-- Separar hechos confirmados de sospechas o cosas que Kevin todavía desconoce. Si no hubo cambios duraderos, decirlo y no inventarlos.
-- Después de que el usuario dé por terminado ese escenario, integrar los cambios duraderos en 02-KEVIN.txt sin acumular duplicados y actualizar 03-CONTINUIDAD-ACTUAL.txt con los hechos recientes necesarios para continuar. La continuidad antigua sigue descartada y no debe reconstruirse.
+## 3. Regla de avance con «G» o «g»
+
+Cuando el usuario responda **G** o **g** a un capítulo, significa: **«Me gustó; puedes avanzar al siguiente capítulo»**.
+
+- Avanzar únicamente al capítulo siguiente del plan aprobado, no al escenario siguiente.
+- Por ejemplo, si se está escribiendo el capítulo 1 de 1A y el usuario responde «g», entregar el capítulo 2 de 1A, si ese es el siguiente previsto.
+- No saltarse capítulos, resumir varios capítulos en uno ni interpretar «g» como aprobación automática de todo el escenario.
+- Si el capítulo aprobado es el último del escenario, no inventar un capítulo adicional. Entregar por separado el resumen final del escenario y aplicar el procedimiento de cierre de la sección 6.
+- Si el usuario pide cambios en lugar de aprobar, corregir el capítulo señalado antes de avanzar.
+
+La señal «g» aprueba el capítulo que acaba de leer y autoriza continuar con el siguiente. No significa que el usuario haya aprobado decisiones futuras que aún no se le han presentado.
+
+## 4. Ritmo y calidad de los capítulos
+
+Cada capítulo debe cumplir una función: hacer avanzar la situación, desarrollar un conflicto, mostrar una decisión, revelar información útil, cambiar una relación o producir una consecuencia.
+
+Evitar:
+- Alargar una exploración, conversación o combate que ya cumplió su propósito.
+- Repetir información que el lector ya entiende.
+- Añadir enemigos, problemas o desvíos solo para aumentar el número de capítulos.
+- Resolver demasiado rápido una situación cuya lógica necesita desarrollo.
+- Usar monólogos o explicaciones de sistema que no cambian lo que el personaje comprende o decide.
+
+Los capítulos deben terminar en un punto narrativo natural. No todos necesitan un giro enorme o un cliffhanger.
+
+## 5. Enfoque narrativo, combate y progresión
+
+- Mantener el peligro real. Kevin puede equivocarse, perder recursos, sufrir lesiones o morir.
+- Los personajes solo conocen lo que han observado, aprendido, deducido razonablemente o recibido de una fuente.
+- Las estadísticas muestran capacidades; no sustituyen técnica, experiencia, percepción ni táctica.
+- Las mejoras de Kevin deben tener una causa comprensible y no aparecer automáticamente después de cada experiencia.
+- Antes de narrar un combate, definir internamente los enemigos, sus capacidades y límites, el terreno, el estado de los participantes y las condiciones relevantes.
+- Mostrar por qué una acción funciona o falla, sin describir cada golpe innecesariamente.
+- No hacer que un enemigo olvide sus capacidades ni introducir una amenaza arbitraria para cambiar el resultado.
+- Mantener las consecuencias de heridas, agotamiento, recursos gastados, equipo dañado y decisiones.
+- Al entrar a un nuevo piso principal, restaurar la integridad física de los participantes vivos. Cambiar de escenario dentro del mismo piso no cura. Esta restauración no revive muertos ni repone recursos, y no elimina automáticamente agotamiento, hambre, sed, sueño perdido ni otras condiciones no corporales.
+
+## 6. Cierre de un escenario y resumen final
+
+Un escenario puede contener varios capítulos. **No se cierra ni se registra como terminado hasta que se haya escrito el último capítulo previsto y el usuario lo haya aprobado.**
+
+Cuando se apruebe el último capítulo del escenario, entregar aparte un resumen final, breve y no narrativo, listo para copiar y guardar. Debe incluir:
+
+1. **Acontecimientos confirmados:** qué pasó realmente y cómo terminó el escenario.
+2. **Aprendizajes y descubrimientos:** qué entendió Kevin, qué sigue siendo una sospecha y qué desconoce.
+3. **Estado del grupo y de Kevin:** lesiones, agotamiento y otras condiciones vigentes.
+4. **Recursos y equipo:** qué se consiguió, gastó, perdió, dañó o conserva cuando sea relevante.
+5. **Consecuencias y cabos sueltos:** solo los que puedan afectar la continuación.
+6. **Punto de continuación:** dónde empieza el siguiente capítulo o escenario y qué situación inmediata debe respetarse.
+
+No mezclar propuestas descartadas con hechos confirmados. No inventar cambios de estado para llenar el resumen. Si algo no cambió, omitirlo o indicar brevemente que sigue igual.
+
+El resumen final se entrega aparte de la narración; no reemplaza ni se inserta dentro del capítulo.
+
+## 7. Actualización de los documentos
+
+- **`03-CONTINUIDAD-ACTUAL.txt`:** actualizarlo cuando un escenario completo haya sido aprobado. Debe conservar el panorama general de cada piso y un apartado por escenario con acontecimientos, aprendizajes, decisiones, recursos, amenazas, consecuencias, estado relevante y punto de continuación. Si un escenario tiene tres capítulos, el registro definitivo del escenario se actualiza al cerrar y aprobar el tercero, no después de cada capítulo.
+- **`02-KEVIN.txt`:** actualizarlo solo cuando cambie de forma duradera el estado real de Kevin: capacidades físicas, técnicas aprendidas, dominio, conocimientos confirmados, heridas, condiciones, equipo, recursos y consecuencias persistentes. Separar hechos de sospechas. Si Kevin no cambió, no inventar cambios.
+- **`01-REGLAS-MAESTRAS.txt`:** modificarlo solo cuando el usuario lo autorice o confirme un cambio de reglas. No cambiar reglas para justificar retroactivamente una escena.
+- **Este método:** modificarlo solo cuando el usuario lo solicite o confirme una nueva norma de trabajo.
+
+Los cambios provisionales pueden señalarse durante el desarrollo, pero no deben registrarse como canon definitivo hasta que el escenario esté completo y aprobado. Mantener la diferencia entre propuesta, borrador, capítulo aprobado y escenario cerrado.
+
+## 8. Cómo retomar el proyecto en otro chat
+
+Al retomar UMBRAL, leer los cuatro documentos de referencia y comprobar el último punto de continuidad. Identificar:
+
+- El último escenario cerrado y aprobado.
+- El capítulo siguiente que corresponde según el plan vigente.
+- El estado actual de Kevin y las condiciones del grupo.
+- Los hechos confirmados, las sospechas y los asuntos pendientes.
+- Las reglas que afectan directamente a la próxima escena.
+
+No empezar de cero ni asumir que el chat anterior es la única fuente de continuidad. Si falta un dato imprescindible o los archivos no permiten determinar con seguridad el siguiente paso, preguntar antes de inventarlo.
+
+## 9. Uso de GitHub
+
+- Verificar el contenido actual de un archivo antes de modificarlo.
+- No afirmar que un archivo se actualizó hasta recibir confirmación de la operación.
+- No modificar ni borrar capítulos narrativos existentes sin autorización expresa.
+- La continuidad antigua que pertenece a una versión descartada no debe reconstruirse a partir de esa historia.
+- Tras el primer escenario nuevo, crear o actualizar la continuidad únicamente con los hechos de la reescritura que hayan sido aprobados.
+- Después del cierre de un escenario, actualizar solo los documentos que correspondan según la sección 7.
+- No crear registros adicionales que dupliquen información útil ya guardada en los cuatro documentos principales.
+
+**Regla práctica:** primero planificar el escenario y declarar su cantidad de capítulos; después escribir un capítulo a la vez; interpretar «g» como aprobación del capítulo actual y permiso para entregar el siguiente; y solo al aprobar el último capítulo, entregar el resumen y actualizar la continuidad.
