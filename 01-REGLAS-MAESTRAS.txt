@@ -120,3 +120,21 @@ No es necesario explicar todas las reglas al lector de antemano. Deben mostrarse
 La historia debe equilibrar supervivencia, exploración, combate, aprendizaje, interacción, descanso y decisiones. Evitar tanto la exposición interminable como la acción sin lógica.
 
 **Principio central:** sobrevivir depende de observar, aprender, prepararse, adaptarse y decidir bajo presión. Ninguna estadística ni ventaja elimina el riesgo; los errores pueden tener consecuencias permanentes.
+## 11. Continuidad y registro obligatorio por escenario
+
+Al terminar cada escenario, antes de continuar con el siguiente, se debe entregar al usuario un **resumen de continuidad breve, no narrativo y listo para copiar**. El resumen debe recoger los hechos aprobados, descubrimientos, conocimientos y sospechas de los personajes, cambios relevantes de Kevin y del grupo, equipo y recursos, consecuencias pendientes y el punto exacto desde el que continúa la historia. No mezclar propuestas descartadas con acontecimientos confirmados ni rellenar apartados con datos inventados.
+
+Después de entregar el resumen, se deben revisar y actualizar en GitHub estos dos documentos:
+
+- **02-KEVIN.txt:** comprobar si el escenario produjo cambios duraderos en Kevin. Actualizar la ficha cuando haya cambios confirmados; si no hubo ninguno, no inventarlos ni forzar una modificación de contenido.
+- **03-CONTINUIDAD-ACTUAL.txt:** registrar el escenario recién terminado y aprobado, sus consecuencias vigentes y el punto de continuación. Mantener el panorama general actualizado cuando corresponda.
+
+La actualización debe reflejar únicamente lo ocurrido y aprobado. Si el escenario aún no ha sido aprobado, no registrar su contenido como continuidad definitiva. Si no se puede acceder a GitHub o falla una actualización, informar claramente al usuario; nunca afirmar que se guardó un cambio sin confirmación.
+
+La continuidad de la nueva versión empieza vacía. No se debe reconstruir ni importar automáticamente información de versiones anteriores.
+
+## 12. Extensión flexible de los pisos
+
+La extensión de un piso depende de lo que necesite su historia, no de una cuota fija. **El Piso 1 y el Piso 2 pueden ser más cortos y no necesitan dividirse obligatoriamente en Parte 1 y Parte 2** si su contenido no justifica esa extensión. Pueden resolverse en una sola parte o en un desarrollo más breve, siempre que se entiendan los acontecimientos, las decisiones, los desafíos y sus consecuencias.
+
+Tampoco se debe alargar ningún otro piso solo para cumplir una estructura. Si un piso requiere dos partes largas, se escriben; si funciona mejor con una sola parte o una estructura más compacta, se adapta el método. La prioridad es la coherencia, el ritmo y el contenido real, no llenar una cantidad predeterminada de páginas o escenas.
