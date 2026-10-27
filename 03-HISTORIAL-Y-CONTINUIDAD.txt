@@ -1,0 +1,103 @@
+UMBRAL — ARCHIVO 3: HISTORIAL Y CONTINUIDAD
+
+PROPÓSITO
+Registrar qué sucedió, qué consecuencias dejó y cuál es la situación vigente. El archivo tiene dos partes separadas: historial permanente y estado actual. Nunca deben sustituirse entre sí.
+
+REGLA FUNDAMENTAL
+El historial de un piso conserva los hechos aprobados de ese momento. Al completar nuevos pisos, se añaden nuevos registros; no se reescriben los anteriores para que parezcan describir el presente. El estado actual sí se actualiza al cerrar un piso o cuando un acontecimiento importante cambia la situación del grupo.
+
+PARTE A — HISTORIAL PERMANENTE
+
+ESTRUCTURA DE CADA REGISTRO DE PISO
+Piso:
+Estado: en desarrollo / pendiente de aprobación / aprobado.
+Resumen de los escenarios:
+- Escenario A:
+- Escenario B:
+- Escenario C:
+- Escenario D:
+- Escenario E:
+- Escenario F:
+Personajes presentes y encuentros importantes:
+Hechos confirmados:
+Decisiones relevantes:
+Descubrimientos y reglas aprendidas:
+Capacidades adquiridas o modificadas:
+Equipo y recursos importantes obtenidos, consumidos o perdidos:
+Heridas, muertes y consecuencias:
+Cambios en relaciones:
+Consecuencias que continúan en pisos posteriores:
+Cabos sueltos:
+Aprobación del autor:
+
+REGLAS DEL HISTORIAL
+1. Registrar solo hechos que realmente hayan ocurrido y hayan sido aprobados.
+2. Distinguir los hechos de las interpretaciones y de las preguntas pendientes.
+3. Conservar las consecuencias que puedan afectar decisiones futuras.
+4. No atribuir a un personaje un descubrimiento que no presenció ni recibió por una fuente identificable.
+5. No actualizar retrospectivamente el conocimiento de un personaje.
+6. Si se detecta una contradicción con un hecho antiguo, dejar constancia y resolverla con el autor. No borrar silenciosamente el hecho.
+7. Los registros de pisos anteriores se mantienen estables. Solo se corrigen errores factuales o cambios aprobados, dejando clara la modificación cuando sea relevante.
+
+REGISTRO HISTÓRICO — PISO 1
+Estado: requiere consolidación a partir de la novela y de las decisiones aprobadas.
+Fuente narrativa que debe preservarse: la carpeta piso-1 del repositorio.
+No inventar un resumen que sustituya a los capítulos. Al consolidar este registro, revisar los escenarios A–F y extraer los acontecimientos confirmados, las adquisiciones, las pérdidas, los conocimientos y las consecuencias.
+Notas de continuidad conocidas que deben verificarse contra los capítulos antes de declararse definitivas:
+- El grupo protagonista tuvo una progresión y acceso a capacidades inusuales respecto a una ruta normal.
+- Se han mencionado una zona intermedia asociada a una situación del escenario D y un enfrentamiento con el Astado.
+- La razón completa de la progresión inusual debe quedar explicada o marcada como pendiente.
+- No introducir en el historial una mecánica de resurrección o reinicio tras la muerte: la regla vigente es muerte definitiva.
+Este bloque es una guía de consolidación, no reemplaza la lectura de los capítulos ni convierte las notas provisionales en hechos narrativos.
+
+REGISTROS DE PISOS 2 EN ADELANTE
+Crear una entrada nueva por cada piso cuando su historia se complete y el autor apruebe el resumen. No crear como hechos escenas todavía no escritas. Si un piso está diseñado pero no narrado, mantenerlo claramente como diseño o propuesta, no como historial de acontecimientos.
+
+PARTE B — ESTADO ACTUAL
+Se actualiza al cerrar cada piso y después de sucesos que cambien de forma significativa la situación. No reescribe el historial.
+
+ESTADO ACTUAL — PLANTILLA
+Último piso/escenario completado:
+Ubicación actual:
+Personajes vivos y presentes:
+Estado físico de cada personaje:
+Estado emocional relevante:
+Capacidades confirmadas por personaje:
+Equipo actual por personaje:
+Recursos, créditos y consumibles:
+Heridas y necesidades médicas:
+Qué sabe cada personaje:
+Qué creen saber pero no está confirmado:
+Qué desconocen:
+Relaciones y confianza:
+Objetivos inmediatos:
+Amenazas conocidas:
+Promesas, deudas y conflictos:
+Cabos sueltos:
+Próximo paso narrativo aprobado:
+Fecha o versión de actualización:
+
+REGLAS DEL ESTADO ACTUAL
+- Separar inventario individual de recursos compartidos.
+- Registrar cantidades cuando sean relevantes para decisiones.
+- No mantener objetos consumidos o perdidos como si siguieran disponibles.
+- No confundir lo que el lector sabe con lo que sabe cada personaje.
+- Las heridas solo cambian por una causa narrativa o regla de recuperación válida.
+- Las capacidades se nombran aquí; sus fichas completas están en el Archivo 2.
+- Si una muerte definitiva ocurre, retirar al personaje de los vivos y actualizar todas sus pertenencias y relaciones según lo sucedido, sin asumir transferencias automáticas.
+- Al terminar un piso, actualizar primero el historial de ese piso y después la ficha de estado actual.
+
+CONTROL DE CAMBIOS Y CONTINUIDAD
+Cuando una decisión nueva afecte un hecho previo:
+1. Identificar la regla o el hecho en conflicto.
+2. Identificar escenas, personajes, capacidades e inventarios afectados.
+3. Presentar el problema y las soluciones posibles al autor.
+4. Esperar aprobación si la solución modifica el canon.
+5. Actualizar la ficha afectada y anotar la decisión para evitar que reaparezca la contradicción.
+
+EJEMPLO DE SEPARACIÓN
+Si el grupo acaba de completar el piso 20:
+- Se añade el registro histórico aprobado del piso 20.
+- Se actualiza el estado actual con su ubicación, condiciones, equipo, recursos, conocimientos y relaciones al finalizar el piso.
+- Los registros de los pisos 1–19 permanecen como historia de lo ocurrido entonces.
+- El estado actual no se convierte en una reescritura de los pisos anteriores ni cambia lo que sus personajes sabían en ese momento.
