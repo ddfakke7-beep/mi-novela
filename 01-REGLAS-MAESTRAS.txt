@@ -1,108 +1,296 @@
-UMBRAL — ARCHIVO 1: REGLAS MAESTRAS
-Versión de trabajo: documento central de reglas generales
+# UMBRAL — REGLAS MAESTRAS DEL MUNDO
 
-PROPÓSITO
-Este documento define qué está permitido y cómo funciona UMBRAL. Es la primera referencia obligatoria antes de diseñar un piso, escenario, criatura, capacidad, objeto o sistema. Las reglas aquí aprobadas son generales: no deben copiarse enteras en cada resumen de piso.
+**Documento central de funcionamiento del mundo, supervivencia, progresión, criaturas, genes, capacidades, equipo, botín y economía.**
 
-PRINCIPIOS DE APLICACIÓN
-1. Coherencia antes que conveniencia: una regla no cambia solo para resolver una escena difícil.
-2. Libertad con límites: no es necesario anticipar cada caso imaginable, pero ninguna capacidad, objeto, criatura o personaje puede abusar de una laguna evidente del sistema.
-3. Causalidad: las ventajas importantes deben tener origen, condiciones y consecuencias comprensibles.
-4. Descubrimiento gradual: los personajes no conocen automáticamente las reglas. Aprenden por observación, pruebas, errores, información fiable o experiencia.
-5. Costes reales: las victorias pueden consumir recursos, causar lesiones, revelar información, deteriorar equipo o generar consecuencias sociales.
-6. Separación de estados: lo que ocurrió en un piso queda en el historial; la condición actual de los personajes se registra por separado.
-7. Canon y propuestas no se mezclan. Una idea solo se vuelve regla oficial cuando el autor la aprueba.
+**Estado:** versión consolidada propuesta para servir como referencia general.  
+**Objetivo:** establecer reglas consistentes que permitan desarrollar la historia con libertad sin improvisar excepciones ni permitir abusos del sistema.
 
-1. ESTRUCTURA DE UMBRAL
-- La estructura general prevista comprende seis pisos, cada uno con seis escenarios identificados de A a F.
-- Completar el escenario F permite avanzar al siguiente piso, salvo que una excepción se establezca y apruebe expresamente.
-- Los escenarios pueden ser individuales, compartidos o reunir participantes solo cuando coinciden dentro de una prueba.
-- Las pruebas pueden centrarse en exploración, mecanismos, combate, decisiones, supervivencia o combinaciones de estos elementos. No todas requieren matar.
-- La dificultad debe aumentar de manera coherente, sin que cada escenario tenga que ser simplemente más fuerte que el anterior.
-- Las zonas intermedias o excepcionales no se consideran pisos completos por defecto. Su naturaleza, acceso y duración deben explicarse en la historia y registrarse si afectan a la continuidad.
+## Cómo interpretar este documento
 
-2. REGLAS DE ESCENARIOS Y PRUEBAS
-- Cada prueba debe tener un objetivo, una condición de avance o salida y riesgos que puedan comprenderse mediante pistas razonables.
-- No todas las reglas tienen que revelarse al principio; sí deben existir de forma consistente antes de que sus consecuencias sean relevantes.
-- Los acertijos, mecanismos y condiciones ocultas deben dejar señales suficientes para que una solución no dependa únicamente de suerte arbitraria.
-- Una prueba puede admitir distintas soluciones si estas respetan sus límites y el contexto.
-- Los escenarios compartidos no implican que todos los participantes se conozcan, confíen o reciban la misma información.
+- **Regla general:** se aplica en todo UMBRAL salvo que este mismo documento permita una variación.
+- **Regla local:** concreta una prueba, criatura, capacidad, objeto o servicio. Puede restringir una regla general flexible, pero no anular las reglas fundamentales.
+- **Dato variable:** número, precio, probabilidad, inventario o característica que debe aparecer en la ficha o tabla correspondiente.
+- **Excepción:** solo existe si se define expresamente antes de que produzca sus consecuencias. No puede inventarse retroactivamente para resolver una escena.
 
-3. CRIATURAS, CATEGORÍAS Y CONDUCTA
-- Las categorías describen tendencias de peligro, rareza o función, no sustituyen el análisis de la situación concreta.
-- Una criatura común puede ser mortal por terreno, sorpresa, número, lesión previa o mala preparación.
-- Las criaturas deben actuar según sus sentidos, capacidades, experiencia, objetivos y contexto; no deben conocer información que no tengan forma de obtener.
-- Algunas criaturas pueden poseer habilidades innatas y aprender a utilizarlas mejor mediante experiencia de combate.
-- Los roles de élite, miniboss o boss describen la función dentro de un encuentro y pueden coexistir con una categoría de criatura. No son necesariamente categorías biológicas excluyentes.
-- Las criaturas anómalas son irregularidades peligrosas; sus capacidades y relación con los pisos deben establecerse caso por caso.
-- No asignar una categoría definitiva a una criatura si sigue pendiente en el registro.
+Principios fundamentales cerrados: la muerte es definitiva; no hay duplicación de objetos, genes ni recompensas; ninguna capacidad carece de límites; las recompensas no se multiplican por acumular etiquetas; y ninguna regla local puede devolver la vida a una persona muerta.
 
-4. RECOMPENSAS Y BOTÍN
-- Las recompensas deben ser compatibles con el peligro, el escenario y las reglas conocidas del mundo.
-- Las criaturas comunes suelen ofrecer botín o materiales con mayor frecuencia que las amenazas excepcionales, pero no se garantiza una recompensa valiosa en cada muerte.
-- Una capacidad obtenida de una criatura no debe tratarse como automática: deben definirse la condición de adquisición, la compatibilidad y la relación del participante con el encuentro.
-- La tabla exacta de botín, probabilidades y cantidades permanece pendiente hasta que el autor la apruebe.
-- No inventar porcentajes o garantías durante una escena si no están definidos en este documento o en una regla aprobada.
+La cantidad total de pisos, las pruebas concretas, las criaturas particulares y los valores de las tablas pueden mantenerse abiertos. Esa libertad no permite cambiar las reglas fundamentales.
 
-5. GENES, PASIVAS Y HABILIDADES
-- Toda capacidad oficial debe tener ficha en el Archivo 2: nombre, tipo, efecto, límites, condiciones de activación o adquisición, origen, portador y evolución conocida.
-- Los términos gen, pasiva y habilidad deben usarse de forma consistente. Si una pasiva tiene activación voluntaria además de un efecto permanente, la ficha debe explicar ambas partes.
-- Ninguna capacidad concede efectos que no estén descritos o que contradigan sus límites.
-- La fuerza de una capacidad no elimina automáticamente la necesidad de técnica, información, oportunidad, energía, tiempo o condiciones adecuadas.
-- La evolución debe ampliar una función definida, no introducir poderes sin relación ni borrar límites sin una causa aprobada.
-- La adquisición puede depender de experiencia significativa, riesgo, aprendizaje, compatibilidad u otras condiciones previamente establecidas. No asumir que basta con dar el golpe final.
-- Las capacidades propuestas se etiquetan como PROPUESTA y no pueden tratarse como canon en la narración hasta su aprobación.
+---
 
-6. EQUIPAMIENTO, RAREZAS Y CONJUNTOS
-- El equipo debe tener una función comprensible, límites físicos y una relación razonable entre calidad, rareza y disponibilidad.
-- Las cinco rarezas previstas son común, poco común, rara, épica y legendaria. Sus probabilidades exactas y su progresión por pisos deben quedar definidas antes de usarse como cifras firmes.
-- El equipo común es principalmente práctico y reemplazable; puede mejorar resistencia o durabilidad sin ofrecer poderes extraordinarios.
-- Los conjuntos solo conceden bonificaciones si las piezas son compatibles y se cumplen los requisitos expresamente establecidos en la ficha del sistema.
-- La fabricación requiere materiales, recetas, herramientas, conocimientos o servicios que existan en la escena.
-- La reparación no restaura automáticamente equipo destruido ni elimina todo coste: deben respetarse materiales, tiempo, daño y capacidad del reparador.
-- Los porcentajes de mejora asociados a rarezas y las condiciones de selección de mejoras deben considerarse provisionales hasta su aprobación definitiva.
+# 1. ESTRUCTURA GENERAL DEL MUNDO
 
-7. COMERCIANTES, RECURSOS Y ECONOMÍA
-- Los comerciantes ofrecen servicios y bienes dentro de límites coherentes con su función, inventario, acceso y contexto.
-- Un comerciante no debe convertirse en una solución ilimitada para curar, fabricar, comprar o reparar cualquier cosa.
-- Créditos, materiales, consumibles y objetos deben registrarse cuando sean relevantes para decisiones futuras.
-- Los consumibles se gastan al usarse, salvo que su ficha indique otra cosa.
-- Las existencias, precios, recetas y servicios no se inventan retroactivamente para resolver un problema. Si no están definidos, se presentan como propuesta para aprobación.
-- Los recursos escasos deben conservar importancia narrativa y no desaparecer de la continuidad sin explicación.
+## 1.1. La Torre de UMBRAL
 
-8. MUERTE, HERIDAS Y RECUPERACIÓN
-- Regla vigente: si un participante muere, muere definitivamente. No existe un reinicio automático del participante en el escenario 1A.
-- No escribir resurrecciones, reinicios personales ni retornos tras la muerte salvo que el autor cambie esta regla de manera explícita y revise todas sus consecuencias.
-- Las heridas, el agotamiento, el dolor y la pérdida de recursos deben afectar las decisiones y acciones de acuerdo con su gravedad.
-- La recuperación no es idéntica a la restauración. Curar una herida, recuperar energía, reparar equipo y restaurar el cuerpo son procesos distintos.
-- No se debe asumir una restauración completa al cambiar de piso mientras esta regla no se defina y apruebe de forma expresa.
-- La muerte y la pérdida de equipo, genes u objetos deben resolverse según reglas explícitas y continuidad confirmada; no improvisar automáticamente que los objetos pasan al asesino o que reaparecen.
-- Las reglas específicas sobre cadáveres, recuperación de genes, duración de ventanas de recuperación y tratamiento del equipo muerto quedan PENDIENTES de confirmación en esta nueva versión del documento.
+UMBRAL es un entorno de supervivencia, exploración, combate y progresión organizado en pisos. Cada piso contiene escenarios o pruebas que los participantes deben superar para avanzar.
 
-9. LÍMITES Y PREVENCIÓN DE ABUSOS
-- Una habilidad no puede usarse para producir un efecto más preciso, potente, distante, duradero o amplio que el descrito en su ficha.
-- Una habilidad no concede información perfecta ni permite localizar, atravesar, afectar o manipular objetivos sin que su ficha lo permita.
-- No se puede duplicar un recurso, evitar un coste o encadenar efectos indefinidamente por una interpretación literal que contradiga la función evidente del sistema.
-- La combinación de dos capacidades solo produce los efectos que ambas permitan razonablemente; las sinergias extraordinarias deben revisarse.
-- La ausencia de una prohibición escrita no equivale a permiso ilimitado. Ante una explotación, se identifica la intención y el alcance de la regla, se propone una aclaración y se consulta al autor.
-- Las excepciones narrativas deben ser raras, tener una causa identificable y no invalidar retroactivamente las reglas generales.
+Las pruebas pueden exigir combate, pero también exploración, mecanismos, decisiones, cooperación, administración de recursos, engaños o comprensión del entorno. No todas requieren matar enemigos ni todas se resuelven derrotando a una amenaza.
 
-10. CANON, EXCEPCIONES Y PENDIENTES
-- CANÓNICO: regla aprobada y aplicable hasta que el autor autorice una modificación.
-- PROPUESTA: idea pendiente de aprobación; no usar como hecho confirmado.
-- PENDIENTE: pregunta sin resolver que puede afectar a la coherencia.
-- EXCEPCIÓN: caso especial aprobado que debe indicar qué regla modifica, por qué y hasta dónde.
-- Al cambiar una regla, identificar los documentos, capacidades, personajes y sucesos históricos afectados. No reescribir los hechos ya ocurridos para ocultar una contradicción: registrar el problema y decidir con el autor cómo resolverlo.
+La dificultad puede aumentar mediante enemigos más capaces, información incompleta, recursos escasos, restricciones, condiciones ambientales o consecuencias más exigentes. No es obligatorio aumentar únicamente la fuerza de los enemigos.
 
-11. PREGUNTAS ABIERTAS
-- Reglas exactas de salida, fracaso y abandono de cada tipo de prueba.
-- Tabla de botín, cantidades y probabilidades por criatura y piso.
-- Condiciones de compatibilidad, adquisición y evolución de genes.
-- Definición completa de las cinco rarezas, conjuntos y mejoras.
-- Sistema definitivo de créditos, comerciantes, recetas, consumibles y reparaciones.
-- Tratamiento de cadáveres, equipo y genes tras una muerte definitiva.
-- Alcance de la recuperación entre escenarios y entre pisos.
-- Excepciones autorizadas y sus límites.
+## 1.2. Pisos y escenarios
 
-REGLA DE PRECEDENCIA
-Las decisiones expresamente confirmadas más recientes por el autor prevalecen sobre borradores antiguos. Si dos reglas aprobadas chocan y no puede saberse cuál prevalece, detener la decisión afectada y preguntar; no elegir en silencio.
+El Piso 1 sigue la estructura 1A, 1B, 1C, 1D, 1E y 1F. Como modelo general, los pisos posteriores utilizan escenarios A–E, aunque un piso particular puede tener una estructura distinta si se establece de antemano.
+
+El número total de pisos no necesita revelarse ni fijarse en las reglas maestras. No conocer ese número no afecta al funcionamiento de los pisos ya definidos.
+
+Cada escenario es una prueba dentro de la progresión general. Sus consecuencias pueden mantenerse en escenarios posteriores: heridas, consumo de recursos, equipo dañado, información obtenida, acuerdos, pérdidas y cambios en las relaciones.
+
+## 1.3. Tipos de pruebas
+
+Las pruebas pueden ser de exploración, mecanismos, combate, supervivencia, decisiones, cooperación o una combinación de varias categorías. La categoría no determina por sí sola la condición de victoria.
+
+Una prueba de combate puede requerir resistir, escapar, proteger un objetivo o activar un mecanismo en lugar de eliminar a todos los enemigos. Una prueba de exploración puede incluir combate sin convertirse por ello en una prueba cuyo único objetivo sea matar.
+
+## 1.4. Condiciones de una prueba
+
+Cada prueba debe tener, como mínimo, una condición real de finalización y unas consecuencias definidas para el éxito y el fracaso. También deben determinarse las restricciones importantes, los límites temporales si existen y las acciones que la prueba prohíbe o exige.
+
+Los participantes no tienen por qué conocer esas condiciones desde el principio. Sin embargo, las condiciones deben existir antes de que ocurran los hechos y deben poder descubrirse, inferirse o conocerse mediante información que la prueba permita obtener.
+
+Una regla secreta puede sorprender a los personajes; no puede ser una condición inventada después para negarles una solución válida.
+
+## 1.5. Tiempo y presión
+
+No existe un límite de tiempo universal para todas las pruebas. Cada escenario puede fijar su propio plazo, amenaza temporal o cambio ambiental.
+
+Si existe un límite, la prueba debe definir qué ocurre al agotarse. No todas las pruebas tienen que castigar el fracaso del mismo modo, pero las consecuencias no pueden improvisarse una vez vencido el plazo.
+
+## 1.6. Jerarquía de reglas
+
+Las reglas maestras se aplican por defecto. La ficha de una prueba puede precisar sus condiciones y añadir restricciones, pero no anular las reglas fundamentales de UMBRAL.
+
+Una capacidad puede producir una excepción limitada a una regla general solo si su ficha define claramente esa excepción y sus límites. Las capacidades, los objetos y las pruebas nunca pueden crear resurrección, duplicación de recursos ni efectos ilimitados.
+
+Cuando una ficha no especifica un detalle, se aplica la regla general más conservadora: el efecto no obtiene una ventaja adicional por simple interpretación.
+
+---
+
+# 2. MUERTE, HERIDAS Y RECUPERACIÓN
+
+## 2.1. La muerte es definitiva
+
+La muerte de un participante es permanente. Una persona muerta deja de participar en la progresión de UMBRAL y no regresa a ningún escenario.
+
+No existe un reinicio automático, una resurrección ordinaria ni una excepción que permita devolver la vida a un participante mediante genes, pasivas, habilidades, objetos, criaturas, comerciantes o reglas locales. Una capacidad puede proteger de la muerte si evita el daño antes de que esta ocurra, pero no puede revertir una muerte consumada.
+
+La muerte no es una forma de viajar, recuperar recursos, probar una estrategia ni evitar las consecuencias de una decisión. Cualquier personaje que muera queda fuera de la historia como participante activo. Sus compañeros pueden conservar sus recuerdos, información y consecuencias, pero no recuperar a la persona.
+
+## 2.2. Qué ocurre con el cuerpo y las pertenencias
+
+Al morir un participante, el cuerpo permanece en el lugar hasta que sea destruido, consumido, desplazado o eliminado por las condiciones del entorno. No desaparece inmediatamente por defecto.
+
+Los objetos que llevaba puestos o sostenía quedan en el lugar, salvo que hayan sido destruidos o que su propia ficha indique otra cosa. El contenido de su inventario queda asociado a un depósito de pertenencias en el lugar de la muerte; no se transfiere automáticamente a otro participante.
+
+El depósito de pertenencias y los genes integrados pueden recuperarse durante las doce horas posteriores a la muerte, siempre que no hayan sido destruidos, consumidos o recogidos antes por otra persona. Pasadas doce horas, lo que siga sin recuperarse es retirado por el sistema y deja de estar disponible como botín. Nada vuelve al fallecido.
+
+Cada objeto solo puede recuperarse una vez. Si se recoge, destruye, consume o transforma de forma irreversible, deja de estar disponible en su estado anterior. El sistema no duplica objetos para compensar una recuperación, pérdida o disputa.
+
+## 2.3. Genes en el cuerpo de un participante muerto
+
+Cada gen integrado pasa a estar disponible como un núcleo genético recuperable asociado al cuerpo cuando muere su portador. Extraerlo requiere una acción o procedimiento válido; no se integra automáticamente en quien lo encuentre.
+
+Los núcleos genéticos pueden recuperarse durante las doce horas siguientes a la muerte. Si no se extraen antes de que venza el plazo, son reclamados por el sistema y dejan de ser recuperables. El fallecido no vuelve ni recibe el gen.
+
+Si una criatura con una capacidad de absorción genética válida consume el cuerpo antes de que los genes sean recuperados, se aplican las reglas de absorción del apartado 7.6. La absorción consume el gen correspondiente y elimina la posibilidad de recuperarlo por otra vía.
+
+## 2.4. Restauración física al entrar en un nuevo piso
+
+Al entrar en un nuevo piso principal, el sistema restaura la integridad física de los participantes vivos que llegan a él. La restauración puede reparar heridas, fracturas, daños en órganos y pérdida de extremidades producidos antes de la transición.
+
+Esta restauración no afecta a personas muertas, no las revive y no puede activarse mediante el simple cambio de escenario dentro de un mismo piso.
+
+La restauración cura el daño corporal, no repone todo lo que el participante ha gastado o perdido. Tampoco neutraliza automáticamente la causa de un problema que siga activa.
+
+## 2.5. Lo que la restauración no recupera
+
+La restauración de piso no devuelve objetos, materiales, créditos, consumibles, durabilidad de equipo ni recursos gastados.
+
+Por sí sola, tampoco repone energía de una capacidad, resistencia consumida, sueño perdido, hambre, sed ni preparación física. No elimina automáticamente venenos, enfermedades, infecciones, efectos de capacidades, alteraciones mentales ni condiciones persistentes impuestas por una criatura o un escenario.
+
+Si un veneno causó una herida, la lesión puede repararse mientras el veneno siga activo. En ese caso, el daño puede volver a aparecer. Para eliminar la causa se requiere un tratamiento o una regla que especifique expresamente que la neutraliza.
+
+## 2.6. Heridas, curas y agotamiento
+
+Las lesiones pueden limitar el movimiento, la precisión, la concentración, el uso de capacidades o la ejecución de acciones. Las curas tienen efectos delimitados: un objeto que cierra una herida no repara necesariamente una fractura, neutraliza un veneno o recupera energía.
+
+El agotamiento también tiene consecuencias. Una persona no puede ejecutar acciones de máxima exigencia indefinidamente sin coste, aunque no exista una barra numérica visible. La ficha de una capacidad puede precisar su consumo y recuperación; si no lo hace, el esfuerzo físico y mental debe conservar límites humanos razonables para esa persona.
+
+---
+
+# 3. INVENTARIO Y ALMACENAMIENTO
+
+## 3.1. Inventario del sistema
+
+El inventario permite guardar y recuperar objetos sin transportarlos físicamente en las manos. Su capacidad es finita, aunque pueda ser amplia. Cuando el sistema muestra una capacidad, ese valor es el límite vigente; si no muestra cifras, el almacenamiento sigue teniendo un límite real y no debe tratarse como infinito.
+
+Cada objeto ocupa el espacio que corresponda a su tamaño y naturaleza. No se puede evitar el límite guardando objetos dentro de otros contenedores: el contenido también cuenta para el espacio o peso que la regla del inventario utilice.
+
+La capacidad no aumenta por interpretación, repetición o necesidad narrativa. Solo puede ampliarse mediante una mejora o capacidad cuya ficha lo permita.
+
+## 3.2. Qué puede almacenarse
+
+El inventario ordinario puede guardar objetos inanimados, separados del entorno y reconocidos como objetos por el sistema.
+
+No puede almacenar participantes vivos, criaturas vivas, cuerpos completos, ataques en curso, explosiones, campos activos, porciones del escenario que sigan ancladas al entorno ni objetos que no puedan separarse legítimamente. Los restos de una criatura, materiales o partes de un cuerpo solo pueden almacenarse si se han separado y son reconocidos como objetos válidos.
+
+Un objeto no puede guardarse si hacerlo exige atravesar una barrera que el sistema no permite, quitarlo por la fuerza a un propietario protegido o ignorar una condición expresa de la prueba.
+
+## 3.3. Guardar, recuperar y utilizar
+
+Guardar un objeto, sacarlo del inventario y utilizarlo son acciones diferentes. Recuperar un arma no garantiza acertar un golpe; recuperar una cura no la administra por sí sola.
+
+Sin una capacidad que indique lo contrario, recuperar un objeto requiere intención consciente y una acción breve pero real. No se considera una acción gratuita que pueda repetirse ilimitadamente dentro del mismo instante, ni permite interrumpir de forma automática un ataque que ya alcanzó al personaje.
+
+Un objeto aparece en la mano del usuario o en un espacio libre y adecuado a su lado, según el funcionamiento del inventario. Nunca puede materializarse dentro del cuerpo de un enemigo, dentro de otro objeto sólido ocupado ni en un lugar donde su aparición sea físicamente incompatible. Si no hay espacio válido, la recuperación falla hasta que lo haya.
+
+## 3.4. [Espacio adicional]
+
+[Espacio adicional] es una capacidad particular, no una regla que puedan explotar todos los participantes. Su ficha debe definir la ampliación que concede, sus límites de tamaño, peso o volumen, y si permite recuperar objetos directamente en la mano o sobre una superficie libre.
+
+Si la capacidad combina almacenamiento persistente con una activación de extracción rápida, ambos efectos se registran por separado. La parte permanente no vuelve gratuita la activación y la activación no elimina los límites de almacenamiento.
+
+La capacidad no crea materia, no duplica objetos, no permite materializarlos dentro de un enemigo y no concede fuerza, velocidad ni habilidad de combate adicionales por sí sola. La práctica puede mejorar el control dentro de los límites establecidos, pero no eliminarlos.
+
+---
+
+# 4. GENES Y CAPACIDADES GENÉTICAS
+
+## 4.1. Qué es un gen
+
+Un gen es una capacidad integrada en un participante que ocupa un espacio genético y ofrece un efecto definido. Puede alterar una característica corporal, una respuesta o una facultad funcional.
+
+Un gen no concede automáticamente todas las ventajas que parezcan relacionadas con su nombre. Cada gen debe tener un efecto principal, condiciones de funcionamiento, límites, costes si corresponden y posibles vías de desarrollo.
+
+## 4.2. Espacios genéticos
+
+Cada participante dispone de tres espacios genéticos: uno principal y dos secundarios. Los tres pueden alojar un gen compatible. La denominación «principal» es organizativa: no aumenta por sí misma la fuerza del gen ni hace que un gen colocado allí sea superior.
+
+Un gen puede ocupar cualquier espacio libre compatible. Un participante no puede mantener más de tres espacios ocupados. Ninguna capacidad, objeto o conjunto de equipo añade espacios genéticos por defecto; cualquier futura excepción exigiría modificar expresamente esta regla maestra antes de utilizarla.
+
+## 4.3. Obtener un gen no equivale a integrarlo
+
+Debe distinguirse entre encontrar o recibir un núcleo genético, poseerlo, iniciar su integración, completar la integración y aprender a utilizarlo. Obtener un núcleo no concede inmediatamente sus efectos.
+
+La derrota de una criatura tampoco permite absorber cualquiera de sus habilidades. El gen debe existir como recompensa válida o núcleo recuperable y cumplir las condiciones del sistema.
+
+## 4.4. Integración genética
+
+La integración completa de un gen requiere doce horas de proceso. Durante la integración el gen no concede sus efectos de manera funcional y el participante no puede utilizarlo como si ya estuviera integrado.
+
+El proceso debe realizarse en condiciones suficientemente estables. El combate, los daños graves, una interrupción forzada o una situación que impida mantener el procedimiento pausan la integración. El tiempo ya completado se conserva, pero el proceso no avanza mientras la integración esté interrumpida.
+
+Una cancelación voluntaria devuelve el gen a su estado de núcleo no integrado y reinicia el progreso cuando se vuelva a iniciar. Un participante solo puede integrar un gen a la vez. No se puede acelerar el procedimiento repitiéndolo, ocultando el tiempo transcurrido ni combinando varios procesos simultáneos.
+
+Si el participante muere durante la integración, la muerte es definitiva y el gen parcialmente integrado queda sujeto a las reglas de recuperación de genes del apartado 2.3. No existe un resultado de integración que pueda devolverle la vida.
+
+## 4.5. Compatibilidad genética
+
+Cada gen debe indicar su compatibilidad con otros genes relevantes. La compatibilidad se determina por sus efectos, las estructuras que modifica, las exigencias que impone y los conflictos que pueda producir.
+
+Si dos genes son incompatibles, no pueden permanecer integrados simultáneamente, salvo que una regla explícita de uno de ellos defina una forma limitada de coexistencia. El sistema no permite integrar un gen incompatible solo porque resulte útil para la estrategia de un personaje.
+
+Que dos genes puedan coexistir no significa que produzcan una sinergia ni que puedan fusionarse. La compatibilidad de coexistencia y la compatibilidad de fusión son condiciones distintas.
+
+## 4.6. Desarrollo de los genes
+
+Un gen puede mejorar con la práctica, la comprensión de sus límites y el uso adecuado. El desarrollo puede mejorar el control, la precisión, la consistencia o la eficiencia.
+
+Los términos integración, familiarización, sincronización, dominio o manifestación pueden utilizarse para describir el avance, pero no son niveles automáticos universales. Ningún gen desbloquea una facultad nueva solo por acumular tiempo o repetir una acción.
+
+Toda mejora importante debe guardar relación con el efecto original del gen y estar respaldada por su ficha, por una evolución documentada o por una regla explícita descubierta en la historia. El dominio no concede inmunidad al daño ni elimina restricciones que no estén relacionadas con el progreso alcanzado.
+
+## 4.7. Sinergias genéticas
+
+Una sinergia es una interacción concreta entre dos o más genes. Puede facilitar una maniobra, reducir una limitación o crear una combinación táctica; no tiene que aumentar el daño.
+
+Las sinergias relevantes deben estar registradas. No se presume que los efectos se suman, que una combinación elimina debilidades o que dos capacidades parecidas se acumulan sin límite.
+
+## 4.8. Fusión genética
+
+La fusión requiere tres genes integrados que sean compatibles específicamente para fusionarse y un procedimiento reconocido por el sistema. Tener tres genes o poseer tres genes compatibles para coexistir no activa una fusión automáticamente.
+
+La fusión consume los tres genes originales como capacidades independientes y los sustituye por un único gen fusionado que ocupa los tres espacios. Los efectos de los genes originales solo se conservan si aparecen expresamente en la ficha de la capacidad fusionada. No se crean copias de los genes utilizados.
+
+La fusión no consiste en sumar todos los efectos originales a plena potencia. La capacidad resultante debe tener un efecto principal, límites y costes propios. El procedimiento, los requisitos y los riesgos deben estar definidos antes de ejecutarlo; no puede realizarse espontáneamente en mitad de un combate.
+
+Una fusión no puede deshacerse por medios ordinarios. Si se extrae el gen fusionado mediante un procedimiento válido, se extrae la capacidad fusionada completa y se liberan los tres espacios tras finalizar el proceso; los genes originales no reaparecen.
+
+## 4.9. Extracción genética
+
+Un gen integrado solo puede extraerse mediante un procedimiento o servicio capaz de hacerlo. No puede ser robado del cuerpo como si fuese un objeto suelto mientras el participante siga vivo, salvo que una capacidad registrada permita expresamente ese efecto y defina sus consecuencias.
+
+Tras finalizar una extracción, el antiguo portador sufre durante 72 horas una debilidad física y genética importante: disminuye su rendimiento, su estabilidad y su control de capacidades. No significa que quede automáticamente inmóvil ni que todas sus capacidades desaparezcan, pero sí que no puede actuar como si nada hubiera ocurrido. La ficha del procedimiento puede precisar efectos adicionales, no eliminar la debilidad general.
+
+Durante esas 72 horas no puede iniciarse otra extracción. El plazo no se reinicia mediante descanso, cambios de escenario o entrada a un nuevo piso; se cumple en tiempo real. El gen extraído pasa a ser un núcleo independiente y solo puede integrarse de nuevo si cumple las condiciones normales. Extraer un gen no permite duplicarlo.
+
+## 4.10. Muerte y propiedad de los genes
+
+Los genes integrados de una persona muerta quedan sujetos al apartado 2.3. Recuperarlos proporciona núcleos genéticos, no concede su integración automática ni elimina las exigencias de compatibilidad e integración.
+
+Un núcleo puede estar en un solo lugar y tener un solo estado a la vez: disponible, en integración, integrado, absorbido, destruido o reclamado por el sistema. No puede mantenerse integrado en dos personas, copiarse ni recuperarse dos veces.
+
+---
+
+# 5. PASIVAS Y OTRAS CAPACIDADES
+
+## 5.1. Diferencia entre genes y pasivas
+
+Los genes ocupan espacios genéticos, requieren integración y pueden convertirse en núcleos recuperables al morir su portador.
+
+Las pasivas son capacidades reconocidas o concedidas por el sistema a raíz de una experiencia significativa, una adaptación o una contribución destacada. No ocupan espacios genéticos, no se extraen como genes y no pueden transferirse o saquearse como objetos.
+
+Una pasiva no es necesariamente débil ni un gen es necesariamente superior. La diferencia está en su naturaleza y en las reglas de adquisición, almacenamiento y recuperación, no en una escala automática de poder.
+
+## 5.2. Adquisición de pasivas
+
+Una pasiva puede concederse cuando un participante afronta una experiencia relevante, aprende un patrón significativo, supera una dificultad real o demuestra una adaptación relacionada con su efecto.
+
+Estar presente, dar el último golpe o repetir una acción sencilla no basta por sí solo. El sistema considera la contribución real, la dificultad afrontada, el aprendizaje demostrado y la relación entre la experiencia y la capacidad.
+
+No es posible cultivar pasivas ilimitadamente repitiendo una acción segura, derrotando enemigos inofensivos o simulando una situación de peligro. Repetir una experiencia puede mejorar el dominio de una capacidad existente, pero no produce automáticamente una pasiva nueva.
+
+## 5.3. Modo de funcionamiento
+
+Las capacidades pueden ser permanentes, condicionales, activables o mixtas. Estas etiquetas describen cómo funcionan, no su origen ni su potencia.
+
+Una pasiva puede contener una activación consciente si su ficha lo indica. En ese caso, el nombre «pasiva» identifica el tipo de capacidad concedida, no significa que todos sus efectos deban operar sin intervención. Para evitar confusiones, la ficha siempre debe señalar qué parte es automática y qué parte requiere activación.
+
+## 5.4. Límites y acumulación
+
+Cada pasiva debe establecer su efecto, condiciones, límites, costes si los tiene, restricciones y posibles mejoras. Una capacidad que mejora la respuesta ante el peligro no elimina necesariamente el dolor, el miedo, las heridas o el daño del impacto.
+
+Dos pasivas similares no se acumulan automáticamente. Por defecto, si dos efectos aumentan la misma propiedad, se aplica el efecto más alto o más específico; no se suman ni se multiplican salvo que sus fichas permitan expresamente la acumulación y establezcan un límite combinado.
+
+Los efectos redundantes pueden complementarse si sus fichas lo permiten, pero no crean una ventaja nueva solo por tener nombres distintos.
+
+## 5.5. Desarrollo
+
+El dominio mejora el uso de la capacidad dentro de sus límites. Puede aumentar la precisión, la consistencia, la eficiencia o la comprensión de las condiciones de activación.
+
+Una capacidad no adquiere inmunidades, nuevos objetivos, alcance ilimitado, efectos secundarios arbitrarios ni nuevas facultades sin una evolución o modificación documentada. Cualquier mejora relevante debe aparecer en el registro de la capacidad y aplicarse de forma consistente.
+
+---
+
+# 6. FICHAS Y LÍMITES OBLIGATORIOS DE CAPACIDADES
+
+Toda capacidad importante debe contar con una ficha que permita resolver su funcionamiento sin improvisar. La ficha debe incluir, según corresponda:
+
+1. Nombre y tipo: gen, pasiva u otra capacidad.
+2. Origen y condición de adquisición.
+3. Efecto principal.
+4. Modo de funcionamiento y activación.
+5. Alcance, duración, objetivos y condiciones.
+6. Coste, esfuerzo, tiempo de recuperación o límite de uso, si corresponde.
+7. Restricciones y efectos que expresamente no concede.
+8. Compatibilidades, conflictos y sinergias.
+9. Funcionamiento inicial y mejoras posibles.
+10. Condiciones para cualquier evolución.
+11. Historial de cambios confirmados.
+
+No todas las capacidades necesitan una cifra para cada parámetro. Si la capacidad no tiene una magnitud medible útil, sus límites pueden describirse mediante condiciones concretas. Lo obligatorio es que exista una forma consistente de decidir si una acción está dentro de sus posibilidades.
+
+Ninguna capacidad concede efectos colaterales solo porque parezcan lógicos por su nombre. Ninguna capacidad evita sus propios costes, requisitos o límites salvo que otra regla explícita lo permita. Un uso nuevo debe ser una aplicación razonable de la función descrita, no una facultad nueva inventada para resolver una situación.
+
+No se exige que todo efecto tenga una barra de energía universal. Cada capacidad puede utilizar energía, resistencia, concentración, tiempo, calor, precisión u otra limitación apropiada. Si no tiene un coste de activación, debe tener límites de alcance, condición, frecuencia, exposición u otro tipo que impida un uso universal e ilimitado.
+
