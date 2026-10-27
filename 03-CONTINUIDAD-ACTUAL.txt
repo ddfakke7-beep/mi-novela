@@ -1,16 +1,16 @@
 # UMBRAL — CONTINUIDAD ACTUAL
 
-**Estado:** nueva versión en curso. Los escenarios Piso 1 — «El precio de existir», Piso 1A — «Aprender las reglas» y Piso 1B — «Los demás jugadores» están aprobados por el usuario.
+**Estado:** nueva versión en curso. Los escenarios Piso 1 — «El precio de existir», Piso 1A — «Aprender las reglas», Piso 1B — «Los demás jugadores» y Piso 1C — «La primera amenaza» están aprobados por el usuario.
 **Regla:** no importar ni reconstruir la continuidad de versiones anteriores. Añadir información solo después de que el escenario correspondiente haya sido escrito y aprobado.
 
 ## 1. Panorama general confirmado
 
-- **Punto actual de la historia:** Kevin está en la cámara de las cuatro placas, junto a Vera, Darío y Saúl. La puerta opuesta está abierta y deja ver un corredor de piedra iluminado tenuemente. Kevin todavía no ha entrado en ese corredor.
-- **Piso o entorno actual:** Piso 1, tras completar los escenarios aprobados Piso 1, Piso 1A y Piso 1B.
-- **Personajes presentes y estado general:** Kevin, Vera, Darío y Saúl se encuentran juntos en la cámara. Cooperaron para activar el mecanismo, pero no se ha confirmado que hayan formado una party ni que vayan a viajar juntos.
-- **Objetivo o situación inmediata:** decidir cómo avanzar por la puerta abierta y averiguar qué hay más allá.
-- **Consecuencias vigentes de escenarios anteriores:** Kevin cruzó las losas suspendidas sin caer ni sufrir lesiones narradas. No ha adquirido poderes, estadísticas ni capacidades extraordinarias.
-- **Asuntos pendientes importantes:** descubrir qué hay en el corredor; determinar si Vera, Darío y Saúl continuarán junto a Kevin; conocer el funcionamiento completo de UMBRAL.
+- **Punto actual de la historia:** Kevin, Vera, Darío y Saúl han retrocedido desde la cámara alargada donde encontraron una criatura cuadrúpeda. Están en el corredor, más allá de la curva que oculta la cámara. Kevin tiene dolor en la rodilla y el hombro tras caer y chocar contra la pared; Darío tiene una herida superficial en la parte exterior del muslo.
+- **Piso o entorno actual:** Piso 1, tras completar los escenarios aprobados Piso 1, Piso 1A, Piso 1B y Piso 1C.
+- **Personajes presentes y estado general:** Kevin, Vera, Darío y Saúl siguen juntos después de escapar del primer enfrentamiento. Cooperaron bajo presión, pero no han acordado formar una party ni viajar juntos.
+- **Objetivo o situación inmediata:** revisar las heridas y continuar con cautela por el corredor sin regresar a la cámara mientras no exista una razón para hacerlo.
+- **Consecuencias vigentes:** Kevin sufrió dolor en la rodilla y el hombro durante la huida; la gravedad y duración de esas molestias no se han determinado. Darío sufrió un corte superficial en la parte exterior del muslo que sangró y le duele al mover la pierna. No hay restauración física entre escenarios del mismo piso.
+- **Asuntos pendientes importantes:** averiguar por qué la criatura se detuvo en la entrada de la cámara, si puede perseguirlos o hay más criaturas, qué hay más adelante y si los cuatro continuarán juntos. La barra metálica que Kevin recogió quedó caída en la cámara.
 
 ## 2. Registro de continuidad por escenario
 
@@ -64,6 +64,24 @@
 - **Equipo y recursos:** no se han establecido nuevos objetos, equipo ni recursos. No se ha confirmado si Kevin conserva fragmentos de piedra usados en Piso 1A.
 - **Consecuencias y asuntos pendientes:** la cámara quedó abierta y el corredor está accesible. El destino del corredor, la permanencia del grupo y la confianza entre los cuatro siguen sin resolverse.
 - **Punto exacto de continuación:** Kevin está en la cámara de las cuatro placas, junto a Vera, Darío y Saúl, observando el corredor abierto antes de decidir cómo avanzar.
+
+
+### Piso 1C — La primera amenaza
+
+- **Piso / escenario:** Piso 1C, primer enfrentamiento con una amenaza física.
+- **Nombre o título:** La primera amenaza.
+- **Eslogan exacto:** «Entender el peligro no significa saber cómo sobrevivir a él.»
+- **Desarrollo confirmado:** Kevin, Vera, Darío y Saúl avanzan por el corredor desde la cámara de las cuatro placas y llegan a una cámara alargada con dos columnas visibles, una puerta metálica al fondo y piezas metálicas en el suelo. Encuentran una pieza metálica alargada y doblada y manchas oscuras de origen desconocido. Una columna tiene hendiduras profundas e irregulares. Tras varios golpes, la puerta metálica se abre y sale una criatura cuadrúpeda, compacta y robusta, de piel gris con zonas endurecidas, espalda arqueada, mandíbula prominente y tres dedos con uñas curvas en cada extremidad descrita. La criatura embiste a Saúl después de que él retrocede y hace ruido; Saúl esquiva y cae, sin lesión confirmada. Darío intenta golpearla y debe apartarse de sus mandíbulas. Vera evita una embestida desplazándose lateralmente junto a una columna. Kevin observa que la criatura baja el cuerpo y desplaza el peso antes de embestir; también comprueba que pierde tiempo al corregir la dirección y que puede chocar contra las columnas. Darío recibe un corte en la parte exterior del muslo al ser alcanzado por una uña. Kevin recoge una barra o pieza metálica alargada, golpea a la criatura cerca de la cabeza y luego la usa para desviar una embestida; el objeto se le cae y queda en la cámara. Vera produce ruido para atraer la atención de la criatura hacia una columna; la criatura choca contra ella y pierde el equilibrio. Los cuatro aprovechan el momento para retirarse al corredor. La criatura llega al umbral, pero se detiene y retrocede un paso en vez de perseguirlos. Los cuatro se alejan hasta una curva que oculta la cámara.
+- **Descubrimientos y reglas:**
+  - **Hechos confirmados para Kevin:** la criatura puede acelerar y embestir con fuerza; antes de embestir suele bajar el cuerpo y desplazar el peso hacia delante; cambia de dirección con menos agilidad que su aceleración en línea recta y puede perder el equilibrio o chocar con una columna; reacciona a ruidos; sus uñas pueden cortar; golpes y obstáculos pueden interrumpir o desviar su movimiento, pero no se ha confirmado que la criatura sufriera una lesión importante. La criatura no persiguió a los cuatro más allá del umbral en esta ocasión.
+  - **Hipótesis:** las columnas y los cambios de dirección pueden dificultar las embestidas; el espacio del corredor, una posible defensa de la cámara u otra causa podrían explicar que la criatura se detuviera, pero ninguna explicación está confirmada.
+  - **Desconocido:** especie, capacidades completas, resistencia, alcance de persecución, motivo por el que se detuvo, si hay más criaturas y origen de las manchas y marcas.
+- **Kevin:** se mantuvo cauteloso, observó señales previas a las embestidas y propuso usar las columnas y el ruido para ganar una oportunidad de retirada. No tiene entrenamiento de combate confirmado ni adquirió poderes, estadísticas o capacidades extraordinarias. Sufrió dolor en la rodilla al caer y en el hombro al chocar contra la pared; no se ha establecido la gravedad ni la duración de esas molestias.
+- **Personajes y estado:** Darío tiene un corte superficial en la parte exterior del muslo, con sangrado y dolor al mover la pierna. Vera y Saúl no tienen heridas confirmadas en la narración. Saúl cayó al esquivar la primera embestida, pero no se estableció una lesión.
+- **Grupo y relaciones:** los cuatro cooperaron para sobrevivir y retirarse, pero no han acordado formar una party ni viajar juntos. La cooperación no implica confianza establecida.
+- **Equipo y recursos:** Kevin recogió una pieza metálica alargada para defenderse y la dejó caer durante la retirada. Permanece en la cámara. No se confirmó ningún otro objeto obtenido ni recompensa.
+- **Consecuencias y asuntos pendientes:** las heridas y molestias persisten dentro del Piso 1. La criatura sigue viva y no fue derrotada. No se confirmó recompensa, botín ni mejora. Los cuatro deben revisar las heridas y decidir cómo avanzar.
+- **Punto exacto de continuación:** Kevin, Vera, Darío y Saúl están en el corredor, más allá de una curva que oculta la cámara de la criatura. Kevin tiene dolor en la rodilla y el hombro; Darío tiene una herida superficial en el muslo. Kevin propone revisar las heridas y avanzar con cuidado.
 
 ## 3. Grupo y personajes con seguimiento
 
