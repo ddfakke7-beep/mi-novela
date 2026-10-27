@@ -294,3 +294,258 @@ Ninguna capacidad concede efectos colaterales solo porque parezcan lógicos por 
 
 No se exige que todo efecto tenga una barra de energía universal. Cada capacidad puede utilizar energía, resistencia, concentración, tiempo, calor, precisión u otra limitación apropiada. Si no tiene un coste de activación, debe tener límites de alcance, condición, frecuencia, exposición u otro tipo que impida un uso universal e ilimitado.
 
+# 7. CRIATURAS Y AMENAZAS
+
+## 7.1. Principio general
+
+La peligrosidad de una criatura depende de sus capacidades, del entorno, de la información disponible y de la preparación de los participantes. La etiqueta de una criatura no garantiza que sea fácil o imposible de derrotar.
+
+Una criatura común puede ser letal en una situación desfavorable. Una criatura de mayor categoría puede ser derrotada mediante preparación, conocimiento de sus patrones y cooperación. Eso no elimina las diferencias reales de poder.
+
+## 7.2. Clasificación por atributos separados
+
+Las denominaciones de criaturas no son una única escala. Cada ficha debe separar estos aspectos:
+
+- **Frecuencia:** común o rara. Describe lo habitual que es encontrarla, no su poder.
+- **Tipo de amenaza:** ordinaria, élite o de amenaza elevada. Describe las capacidades y el riesgo base de la criatura.
+- **Condición anómala:** indica si presenta una irregularidad real respecto de los patrones conocidos. «Anómala» es una condición adicional, no una medida automática de fuerza.
+- **Función de encuentro:** criatura ordinaria, minijefe o jefe. Describe su papel dentro de una prueba, no su especie ni su rareza.
+
+La denominación «peligrosa» se utiliza para una criatura cuya ficha la clasifica con amenaza elevada; no constituye una especie aparte ni una etiqueta adicional que se acumule sobre el mismo nivel de amenaza. Esa clasificación debe estar indicada en la ficha, no deducirse solo porque una escena resulte difícil.
+
+Una criatura puede ser rara, élite, anómala y jefe a la vez si cada etiqueta está justificada. Las etiquetas no se suman como niveles de poder ni multiplican automáticamente las recompensas.
+
+## 7.3. Comunes y raras
+
+Las criaturas comunes son frecuentes y forman parte de los encuentros ordinarios. Pueden ser peligrosas si su habilidad, el entorno o la situación lo permiten.
+
+Las criaturas raras aparecen con menor frecuencia o poseen características menos habituales. La rareza no implica automáticamente más fuerza ni una recompensa superior. Su ficha determina sus capacidades y el botín que les corresponde.
+
+## 7.4. Élites, amenazas elevadas, minijefes y jefes
+
+Las élites son criaturas destacadas por capacidades, resistencia, comportamiento o competencia superiores a lo ordinario. Pueden usar sus habilidades innatas con mayor eficacia.
+
+Una amenaza elevada es una criatura o situación cuyo riesgo supera claramente el encuentro ordinario. Ese riesgo debe poder justificarse mediante capacidades, condiciones o desventajas concretas; la etiqueta no autoriza a conceder cualquier poder.
+
+Los minijefes y jefes son funciones de encuentro. Pueden contar con patrones, fases, mecánicas propias o condiciones de derrota. Un jefe puede dirigir o coordinar élites si su ficha o la prueba lo establece. Las fases de un mismo jefe no cuentan como criaturas diferentes ni generan recompensas adicionales automáticamente.
+
+## 7.5. Habilidades y evolución de criaturas
+
+Las criaturas pueden poseer habilidades innatas. Una habilidad debe estar descrita con suficiente claridad para conocer su efecto, sus condiciones y sus límites.
+
+La experiencia puede mejorar la forma en que una criatura utiliza una capacidad que ya posee. La evolución también puede alterar su cuerpo, comportamiento o capacidades, pero solo dentro de las condiciones de evolución que le correspondan.
+
+La ficha de una criatura debe indicar qué puede activar su evolución, qué aspectos pueden cambiar y si la transformación puede ocurrir durante un combate. Una evolución no concede cualquier capacidad en cualquier momento. Si el lector o los participantes todavía no conocen las condiciones, estas deben existir y resultar compatibles con las señales y acontecimientos de la historia.
+
+## 7.6. Absorción genética por criaturas
+
+Solo una criatura cuya ficha incluya expresamente absorción genética puede obtener un gen de un participante muerto. La mera capacidad de comer carne o consumir un cuerpo no concede esta facultad.
+
+Como regla general, la criatura debe matar al participante y consumir su cuerpo antes de que el gen sea recuperado por otra persona. Puede absorber como máximo un gen compatible de ese cuerpo, salvo que su ficha establezca previamente una excepción limitada.
+
+La criatura no absorbe automáticamente todos los genes, todas las pasivas ni el equipo de la víctima. Si no existe un gen compatible o la capacidad no puede procesarlo, no obtiene ninguno. El gen absorbido se consume y deja de estar disponible para otros; nunca puede existir simultáneamente en el cuerpo de la criatura y como núcleo recuperable.
+
+La absorción no concede resurrección ni transfiere recuerdos o identidad del fallecido. Si la criatura obtiene una capacidad, esta debe adaptarse a su ficha y a las reglas propias de su especie.
+
+## 7.7. Recompensas de criaturas
+
+Las etiquetas de frecuencia, amenaza, anomalía y función describen aspectos diferentes y no generan una recompensa por cada etiqueta.
+
+Por defecto, las criaturas comunes o raras no garantizan genes. Las élites pueden provocar que el sistema conceda una pasiva individual a un participante cuando este haya tenido una participación realmente significativa; la posibilidad no equivale a una garantía ni a un objeto que todos puedan reclamar.
+
+Una criatura cuya ficha la clasifique con amenaza elevada/peligrosa, o que esté marcada como anómala, minijefe o jefe, garantiza un núcleo genético recuperable. La garantía se aplica una vez por criatura, aunque cumpla varias de esas condiciones.
+
+Las fases de una misma criatura no multiplican esa recompensa.
+
+El núcleo genético es una recompensa disponible para recuperar, no un gen integrado automáticamente en cada participante. Por defecto, es una recompensa física compartida del encuentro: la posesión depende de las reglas de la prueba y de quién lo recupere. Solo existe un núcleo por recompensa garantizada. Una prueba puede establecer de antemano un reparto individual o una cantidad especial, pero no se presume.
+
+Las recompensas físicas adicionales se resuelven mediante la tabla de botín correspondiente. Una criatura no obtiene equipo, genes, créditos o materiales ilimitados simplemente por pertenecer a varias categorías.
+
+---
+
+# 8. BOTÍN Y RECOMPENSAS
+
+## 8.1. Tipos de recompensa
+
+Las recompensas pueden incluir materiales, equipo, consumibles, créditos del sistema, recetas, información, servicios, acceso a zonas o núcleos genéticos. No todas las pruebas ni todas las criaturas deben entregar los mismos tipos de recompensa.
+
+Deben distinguirse las recompensas garantizadas, las tiradas aleatorias, las recompensas especiales de la prueba y las capacidades personales concedidas por una experiencia. Una pasiva reconocida por el sistema no es un objeto físico del botín.
+
+## 8.2. Regla general de botín
+
+Cada criatura o prueba utiliza una tabla de recompensas o una instrucción de recompensa definida antes de resolver el resultado. Si no existe una recompensa garantizada, no se presupone que el encuentro deba entregar un objeto valioso.
+
+Las criaturas ordinarias pueden proporcionar materiales habituales, pero la cantidad y la probabilidad dependen de su ficha o de la tabla general aplicable. Un encuentro puede no producir equipo aunque haya sido superado.
+
+Una recompensa especial debe justificarse por la prueba o por la ficha de la criatura. No se añade un objeto porque un personaje lo necesite para el siguiente capítulo.
+
+## 8.3. Tiradas y probabilidades
+
+Cada tirada debe identificar su tabla, la cantidad de intentos y si es independiente de las demás. Los resultados mutuamente excluyentes de una única tirada deben sumar el 100 %.
+
+Si una recompensa utiliza primero una tirada de equipo y luego una tirada de rareza, son dos decisiones diferentes. No debe describirse la probabilidad de la segunda como si fuera la probabilidad de obtener cualquier equipo.
+
+Las tiradas adicionales solo existen si la tabla las autoriza. La misma criatura no genera tiradas extra por acumular etiquetas de élite, anómala, minijefe o jefe, salvo que su tabla lo establezca expresamente.
+
+## 8.4. Reparto entre participantes
+
+El último golpe no concede automáticamente toda la recompensa. Si el sistema evalúa contribuciones, puede considerar daño, protección, curación, control, exploración, descubrimiento de patrones y acciones necesarias para completar el objetivo.
+
+La contribución debe haber influido de forma real; estar presente o realizar una acción irrelevante no basta. No se pueden multiplicar recompensas con daño de prueba, acciones repetidas sin riesgo ni participación simulada.
+
+La recompensa puede ser individual o colectiva según la prueba. Si es colectiva, el sistema no implica que todos reciban una copia. El reparto posterior depende de las reglas de la prueba, de la recuperación física del objeto y de los acuerdos entre participantes.
+
+## 8.5. Genes como recompensa
+
+Un núcleo genético disponible, la propiedad de ese núcleo, su integración y el dominio de la capacidad son etapas diferentes. Obtener una recompensa genética no garantiza compatibilidad ni uso inmediato.
+
+No puede existir más de una copia de un mismo núcleo por el simple hecho de que varias personas hayan contribuido al encuentro. Si la prueba quiere conceder núcleos individuales, debe establecer esa cantidad en la regla de recompensa antes de resolver el encuentro.
+
+---
+
+# 9. EQUIPO Y RAREZAS
+
+## 9.1. Rarezas
+
+El equipo se clasifica en cinco rarezas: común, poco común, raro, épico y legendario. La rareza representa disponibilidad, calidad, propiedades y posibilidades de especialización; no garantiza que un objeto sea siempre superior a otro en toda situación.
+
+Un objeto común adecuado puede ser más útil que uno raro incompatible con el usuario o con el entorno.
+
+## 9.2. Equipo común
+
+El equipo común ofrece propiedades prácticas como resistencia, durabilidad o funcionalidad básica. Es relativamente reemplazable y puede obtenerse en recompensas ordinarias. No necesita tener una habilidad especial para ser útil.
+
+## 9.3. Equipo poco común
+
+El equipo poco común puede mejorar materiales, resistencia o especialización. Se plantea como útil durante buena parte de la progresión inicial, aproximadamente hasta el Piso 5, sin dejar de ser utilizable después.
+
+Un conjunto compatible de tres piezas activa una bonificación sencilla. Un conjunto completo de cinco piezas concede un total de dos o tres bonificaciones sencillas, no dos o tres adicionales a la bonificación de tres piezas. La ficha del conjunto determina cuáles están activas en cada umbral.
+
+## 9.4. Equipo raro, épico y legendario
+
+El equipo raro es escaso. Como regla general para los pisos 1–5, la probabilidad de rareza rara es aproximadamente del 1 % por cada tirada de rareza de equipo que la tabla autorice. No significa un 1 % por enemigo, por participante o por escenario: solo se aplica cuando existe una tirada elegible de rareza.
+
+En los pisos 1–5, el equipo épico y legendario no aparece en tiradas ordinarias de botín. Solo puede aparecer como recompensa extraordinaria establecida previamente por la prueba o por un acontecimiento especial. Cualquier tabla de piso posterior puede establecer probabilidades distintas, siempre que las categorías sigan siendo coherentes.
+
+El equipo épico es más raro y especializado que el raro. El legendario es excepcional y no se elige libremente: sus propiedades especiales deben estar predefinidas por el objeto o por la recompensa.
+
+## 9.5. Bonificaciones de conjuntos
+
+Las bonificaciones de conjuntos solo se activan con las piezas exigidas y mientras se cumplan sus condiciones de equipamiento. Si una pieza se pierde, se rompe o deja de estar equipada, se pierde el umbral correspondiente.
+
+Un conjunto de tres piezas activa una bonificación sencilla. Al completar cinco piezas, el conjunto concede dos o tres bonificaciones en total. La ficha debe indicar qué bonificación corresponde a cada umbral y si alguna depende de una condición particular.
+
+No se mezclan piezas de conjuntos distintos para activar un conjunto completo, salvo que las fichas indiquen expresamente que son compatibles. Tampoco se obtienen varias copias de la misma bonificación por llevar piezas repetidas.
+
+## 9.6. Mejora porcentual de conjuntos raros, épicos y legendarios
+
+Un conjunto completo de cinco piezas raro o épico puede incluir una bonificación de especialización que mejore una propiedad cuantificable de un gen o una pasiva elegible: hasta un 10 % en equipo raro y hasta un 15 % en equipo épico. La propiedad concreta debe estar identificada en la ficha del conjunto.
+
+La bonificación legendaria puede alcanzar hasta un 30 %, pero la propiedad mejorada viene predeterminada por el objeto; el portador no elige libremente cualquier capacidad.
+
+Estas cifras se aplican a una propiedad concreta y medible, calculada sobre su valor base. No significan un aumento universal del 10 %, 15 % o 30 % de todo el poder del usuario. No pueden conceder una facultad nueva, crear inmunidad, eliminar costes, suprimir un límite fundamental ni afectar varias propiedades a la vez si la ficha no lo establece.
+
+Si una capacidad carece de una propiedad numérica adecuada, el conjunto debe describir una mejora concreta y limitada en vez de fingir un porcentaje. La bonificación de especialización forma parte del total de bonificaciones del conjunto: no es una bonificación extra ilimitada por encima de las ya concedidas.
+
+## 9.7. Acumulación de bonificaciones
+
+Por defecto, dos bonificaciones que modifican el mismo atributo no se suman ni se multiplican entre sí. Se aplica la de mayor efecto o la más específica, salvo que una regla indique expresamente una acumulación y establezca un límite total.
+
+Las bonificaciones no pueden elevar una propiedad por encima de un límite duro de su capacidad. Ningún conjunto puede borrar una restricción escrita en la ficha del gen o la pasiva.
+
+## 9.8. Integridad y deterioro
+
+El equipo puede pasar por cuatro estados funcionales: intacto, desgastado, dañado y crítico/roto. La ficha del objeto o la interfaz del sistema determina cuándo cambia de estado, según calidad, uso, materiales y tipo de daño.
+
+El desgaste puede ser principalmente estético; el daño reduce rendimiento o bonificaciones; el estado crítico hace que el objeto pueda fallar o pierda funciones especiales; un objeto roto no puede rendir normalmente hasta ser reparado. Si un objeto es destruido de forma irreversible, la reparación ordinaria no lo reconstruye salvo que exista un procedimiento específico.
+
+## 9.9. Equipo y capacidades
+
+El equipo puede facilitar o mejorar una capacidad solo dentro de su descripción. Una pieza que mejora estabilidad no concede por sí misma control corporal genético; una herramienta no otorga automáticamente el conocimiento para usarla.
+
+El equipo no aumenta de rareza mediante reparación. Mejorar un objeto requiere un proceso específico, materiales, receta o servicio que defina el resultado y los límites.
+
+---
+
+# 10. FABRICACIÓN, MATERIALES Y REPARACIÓN
+
+## 10.1. Fabricación
+
+La fabricación permite crear un objeto a partir de una receta válida, los materiales exigidos y los medios necesarios. Poseer materiales no basta si falta una receta, herramienta, instalación o habilidad que la ficha requiera.
+
+La rareza máxima fabricable queda limitada por la receta y los materiales disponibles. No se puede fabricar equipo raro, épico o legendario con materiales ordinarios si la receta no lo permite.
+
+## 10.2. Recetas y materiales
+
+Cada receta especifica el objeto resultante, los materiales y cantidades, las herramientas o instalaciones, el tiempo de fabricación y los requisitos relevantes. Los detalles que no afecten a la coherencia pueden definirse en la receta sin repetirse en las reglas maestras.
+
+Los materiales deben tener un uso y una fuente razonables. Fabricar, mejorar o reparar consume los materiales indicados; los mismos materiales no pueden reutilizarse después del proceso.
+
+Desmontar o reciclar un objeto puede recuperar solo la cantidad y tipo de materiales definidos por el sistema. No puede producir un ciclo infinito en el que fabricar, desmontar y repetir genere recursos netos sin coste.
+
+## 10.3. Reparación
+
+Reparar recupera la integridad de un objeto existente, dentro de lo que permitan sus materiales y su estado. Puede exigir créditos del sistema, materiales, herramientas o un servicio especializado.
+
+La reparación no aumenta la rareza ni concede propiedades nuevas. Un objeto destruido irreversiblemente no puede repararse como si solo estuviera desgastado, salvo que exista una receta o procedimiento específico que lo reconstruya y cobre sus costes.
+
+## 10.4. Mejoras
+
+Mejorar un objeto es distinto de repararlo. Una mejora requiere un procedimiento, recursos y un resultado previsto. No puede utilizarse una sucesión de reparaciones para obtener mejoras gratuitas, multiplicar propiedades o cambiar la rareza de manera indirecta.
+
+---
+
+# 11. ECONOMÍA Y CRÉDITOS
+
+## 11.1. Créditos
+
+Los créditos son una unidad de intercambio del sistema, utilizable en servicios y comercios que la acepten. Su valor y disponibilidad deben guardar relación con las recompensas y los costes de la progresión.
+
+## 11.2. Transferencias de créditos
+
+No existe una transferencia libre de créditos entre participantes: no se pueden regalar, enviar, prestar ni mover entre cuentas mediante una función directa del sistema.
+
+Una venta, un servicio o un acuerdo entre participantes tampoco permite disfrazar una transferencia gratuita de créditos mediante un objeto ficticio o una transacción sin entrega real. Cuando el sistema no ofrece un mecanismo explícito de pago entre participantes, los intercambios entre ellos se hacen mediante trueque de bienes, materiales, información o servicios.
+
+Si una prueba ofrece una función comercial específica, esa función debe indicar qué operaciones permite, qué registra y cuáles son sus límites. Su existencia en una prueba no convierte la transferencia libre de créditos en una regla general de la Torre.
+
+## 11.3. Comercio entre participantes
+
+Los participantes pueden intercambiar equipo, materiales, consumibles, información, reparaciones, protección, escolta u otros servicios permitidos. Los acuerdos pueden ser desiguales o fallidos; el sistema no garantiza que las partes sean honestas ni que una negociación sea justa.
+
+No se pueden duplicar objetos ni ignorar restricciones del inventario para facilitar un intercambio. La posesión cambia cuando el objeto se entrega realmente o cuando una operación autorizada por el sistema se completa.
+
+## 11.4. Escasez y valor
+
+El valor de un objeto depende de su utilidad, rareza, disponibilidad, demanda y situación. Un objeto común puede ser decisivo en una prueba concreta; un objeto raro puede tener poco valor para alguien que no pueda utilizarlo.
+
+Los recursos deben ser suficientemente escasos para que ahorrar, negociar y prepararse importen, pero no tan escasos que el progreso dependa constantemente de recompensas excepcionales improvisadas.
+
+---
+
+# 12. COMERCIANTES Y SERVICIOS
+
+## 12.1. Comerciantes ordinarios
+
+Los comerciantes ordinarios tienen inventarios y capacidades de servicio limitados. Pueden ofrecer consumibles, materiales, piezas generales de equipo, reparaciones u otros bienes autorizados por su ficha.
+
+No tienen recursos infinitos ni pueden proporcionar cualquier objeto solo porque un participante lo necesite. Los bienes especiales requieren disponibilidad y condiciones expresas.
+
+## 12.2. Mercader Errante
+
+El Mercader Errante es un comerciante especial cuya aparición y oferta no están garantizadas. Su inventario, los precios y las condiciones de acceso se fijan para cada aparición.
+
+No aparece automáticamente para resolver una crisis, no vende cualquier objeto sin límite y no anula las reglas de rareza, recursos, genes o progresión. Una aparición debe justificarse por las reglas del mundo o de la prueba, aunque los participantes no necesariamente conozcan esas condiciones.
+
+## 12.3. Información comercial
+
+Los comerciantes pueden desconocer parte de la información o proporcionar datos aproximados. La ficha debe distinguir, cuando sea relevante, entre información confirmada, incompleta, especulativa o deliberadamente falsa.
+
+La información incorrecta no tiene que ser una mentira intencional. Si un comerciante engaña deliberadamente, debe existir una razón para hacerlo y la mentira no debe convertirse en una excusa para cambiar las reglas reales del mundo.
+
+## 12.4. Venta de genes y límites
+
+Los genes no son mercancía común. Un comerciante ordinario no vende ni crea núcleos genéticos por defecto. Cualquier servicio excepcional relacionado con genes debe estar definido de antemano y respetar compatibilidad, integración, extracción y ausencia de duplicación.
+
+Un comerciante no puede resucitar personas, crear recursos ilimitados ni eliminar los riesgos de una prueba.
+
