@@ -1,6 +1,6 @@
 # UMBRAL — FICHA DE KEVIN
 
-**Estado:** ficha inicial en construcción para la nueva versión. Los escenarios Piso 1 — «El precio de existir», Piso 1A — «Aprender las reglas» y Piso 1B — «Los demás jugadores» están aprobados. Kevin cruzó las losas, abrió la puerta final, entró en una cámara con tres desconocidos y colaboró con ellos para abrir la salida. No se han establecido capacidades, equipo ni estadísticas.
+**Estado:** ficha en construcción para la nueva versión. Están aprobados los escenarios Piso 1 — «El precio de existir», Piso 1A — «Aprender las reglas», Piso 1B — «Los demás jugadores» y Piso 1C — «La primera amenaza». Kevin sobrevivió junto a Vera, Darío y Saúl al primer enfrentamiento con una criatura cuadrúpeda y se retiraron al corredor. Kevin tiene dolor en la rodilla y el hombro; Darío sufrió un corte superficial en el muslo. No se han establecido capacidades, equipo ni estadísticas extraordinarias.
 **Regla:** no heredar datos de versiones anteriores. Completar cada apartado solo cuando se establezca en la nueva historia. No inventar información para llenar espacios.
 
 ## 1. Identidad
@@ -40,37 +40,37 @@ Registrar únicamente capacidades realmente adquiridas en la nueva versión.
 - No se han establecido poderes, técnicas, estadísticas ni capacidades extraordinarias adquiridas.
 
 ## 6. Conocimientos sobre UMBRAL
-- **Hechos confirmados que conoce:** vio un mensaje de UMBRAL que anuncia el inicio de la progresión, etapas pendientes y pruebas que deben superarse para avanzar; comprobó que una marca hundida en una puerta activa un mecanismo; al cruzar esa puerta apareció en una plataforma de piedra distinta, sin puerta de regreso visible; cruzó las losas suspendidas mediante observación, pruebas pequeñas y transferencia gradual del peso; una marca hundida abrió la puerta al otro lado; en una cámara posterior observó cuatro placas con símbolos coincidentes con las marcas de las columnas y una inscripción que dice «CUATRO MARCAS. UN MISMO INSTANTE.»; las placas se iluminaron al ser presionadas y la activación simultánea de las cuatro hizo que las piezas metálicas de una estructura central encajaran, que una franja elevada descendiera y que la puerta opuesta se abriera; la puerta quedó abierta después de retirar el peso de las placas y conduce a un corredor de piedra tenuemente iluminado.
-- **Hipótesis o sospechas:** el entorno parece conducir a los participantes mediante pruebas, pero aún no conoce el sistema ni sus reglas completas; las pruebas pueden requerir observación, hipótesis y cooperación, aunque no sabe si esto se aplica a otros escenarios.
+- **Hechos confirmados que conoce:** vio un mensaje de UMBRAL que anuncia el inicio de la progresión, etapas pendientes y pruebas que deben superarse para avanzar; comprobó que una marca hundida en una puerta activa un mecanismo; al cruzar esa puerta apareció en una plataforma de piedra distinta, sin puerta de regreso visible; cruzó las losas suspendidas mediante observación, pruebas pequeñas y transferencia gradual del peso; una marca hundida abrió la puerta al otro lado; en una cámara posterior observó cuatro placas con símbolos coincidentes con las marcas de las columnas y una inscripción que dice «CUATRO MARCAS. UN MISMO INSTANTE.»; las placas se iluminaron al ser presionadas y la activación simultánea de las cuatro hizo que las piezas metálicas de una estructura central encajaran, que una franja elevada descendiera y que la puerta opuesta se abriera; la puerta quedó abierta después de retirar el peso de las placas y conduce a un corredor de piedra tenuemente iluminado; en una cámara alargada, Kevin encontró una criatura cuadrúpeda robusta, de piel gris con zonas endurecidas, mandíbula prominente y uñas curvas.
+- **Hipótesis o sospechas:** el entorno parece conducir a los participantes mediante pruebas, pero aún no conoce el sistema ni sus reglas completas; las pruebas pueden requerir observación, hipótesis y cooperación, aunque no sabe si esto se aplica a otros escenarios. En la cámara de la criatura, las columnas y los cambios de dirección parecieron dificultar las embestidas; Kevin no sabe por qué la criatura se detuvo en el umbral ni si puede perseguirlos más lejos.
 - **Declaraciones de terceros no verificadas:** Vera, Darío y Saúl afirmaron haber llegado a la cámara por rutas diferentes. Kevin no ha comprobado independientemente sus relatos.
-- **Reglas que todavía desconoce:** qué hay más allá del corredor; si los tres desconocidos continuarán con él; las consecuencias de seguir avanzando; el funcionamiento general y completo de UMBRAL.
+- **Reglas que todavía desconoce:** qué hay más adelante en el corredor; si los tres desconocidos continuarán con él; las consecuencias de seguir avanzando; el funcionamiento general y completo de UMBRAL; la especie y capacidades completas de la criatura, su alcance de persecución, si hay más criaturas y por qué se detuvo.
 - **Cómo obtuvo la información relevante:** mensaje visible, observación directa, pruebas controladas y declaraciones de los otros participantes.
 
 ## 7. Equipo, objetos y recursos
 - Equipo actual: no establecido.
-- Objetos importantes: ninguno establecido.
+- Objetos importantes: ninguno confirmado en posesión.
 - Recursos y consumibles: no establecidos.
-- Objetos gastados, perdidos o dañados: no establecidos.
+- Objetos gastados, perdidos o dañados: Kevin recogió una pieza metálica alargada para defenderse de la criatura y la dejó caer durante la retirada; permanece en la cámara alargada.
 - Ubicación o estado incierto de objetos: usó pequeños fragmentos de piedra para probar las losas en Piso 1A; no se ha confirmado si conserva alguno.
 
 ## 8. Grupo, personajes recurrentes, relaciones y objetivos
-- **Party o grupo actual de Kevin (miembros confirmados y motivo para viajar juntos):** ninguna confirmada. Kevin cooperó con Vera, Darío y Saúl para activar las cuatro placas en Piso 1B, pero todavía no han acordado viajar juntos.
+- **Party o grupo actual de Kevin (miembros confirmados y motivo para viajar juntos):** ninguna confirmada. Kevin cooperó con Vera, Darío y Saúl para activar las cuatro placas en Piso 1B y sobrevivir al primer enfrentamiento en Piso 1C, pero todavía no han acordado viajar juntos.
 - **Personajes conocidos en Piso 1B:**
-  - **Vera:** mujer de cabello oscuro recogido; examinaba las marcas de una columna y probó la placa de la espiral. Cooperó en la activación simultánea. Su historia personal, capacidades y objetivos siguen sin definirse.
-  - **Darío:** hombre de hombros anchos; propuso que cuatro personas ocuparan las placas y cuestionó que Kevin dirigiera el procedimiento. Finalmente participó en la prueba. Su historia personal, capacidades y objetivos siguen sin definirse.
-  - **Saúl:** hombre delgado; estudiaba la puerta opuesta y expresó dudas sobre el plan. Finalmente participó en la prueba. Su historia personal, capacidades y objetivos siguen sin definirse.
+  - **Vera:** mujer de cabello oscuro recogido; examinaba las marcas de una columna y probó la placa de la espiral. Cooperó en la activación simultánea. Su historia personal, capacidades y objetivos siguen sin definirse. En Piso 1C atrajo la atención de la criatura con ruido y se apartó de su trayectoria; no se narraron heridas.
+  - **Darío:** hombre de hombros anchos; propuso que cuatro personas ocuparan las placas y cuestionó que Kevin dirigiera el procedimiento. Finalmente participó en la prueba. Su historia personal, capacidades y objetivos siguen sin definirse. En Piso 1C recibió un corte superficial en la parte exterior del muslo al ser alcanzado por una uña; la herida sangró y le duele al mover la pierna.
+  - **Saúl:** hombre delgado; estudiaba la puerta opuesta y expresó dudas sobre el plan. Finalmente participó en la prueba. Su historia personal, capacidades y objetivos siguen sin definirse. En Piso 1C esquivó una embestida y cayó, sin lesión confirmada.
 - **Personajes recurrentes bajo seguimiento activo:** Vera, Darío y Saúl quedan registrados como personajes conocidos que podrían reaparecer; todavía no son miembros confirmados de una party ni se ha determinado si requerirán seguimiento prolongado.
 - **Personajes pasajeros que no requieren seguimiento continuado:** varias personas desconocidas estaban en el espacio inicial; no se ha confirmado que hayan cruzado ni cuál es su estado actual. Un hombre cruzó primero y desapareció de la vista; su destino es desconocido.
 - **Relaciones y cambios relevantes:** Kevin colaboró con tres desconocidos en una prueba. La cooperación fue práctica y limitada; no implica confianza establecida.
-- **Objetivo actual de Kevin:** averiguar qué hay en el corredor abierto y decidir cómo avanzar sin asumir reglas que aún no conoce.
-- **Compromisos, conflictos o consecuencias pendientes:** Kevin está en una cámara sin salida de regreso confirmada, junto a tres desconocidos, frente a un corredor que todavía no ha explorado.
+- **Objetivo actual de Kevin:** revisar las heridas y continuar con cautela por el corredor, sin regresar a la cámara de la criatura mientras no exista una razón para hacerlo.
+- **Compromisos, conflictos o consecuencias pendientes:** Kevin tiene dolor en la rodilla y el hombro; Darío tiene una herida superficial en el muslo. La criatura sigue viva en la cámara y la barra metálica quedó allí. No se ha confirmado una party.
 
 ## 9. Estado al punto de continuidad vigente
-- **Ubicación y situación:** cámara rectangular de piedra oscura con cuatro placas en el suelo, una estructura central cuyas piezas metálicas han encajado, y una puerta abierta hacia un corredor tenuemente iluminado. Kevin está junto a Vera, Darío y Saúl.
-- **Estado físico:** Kevin cruzó las losas suspendidas y participó en la prueba de las cuatro placas. No se han narrado heridas ni lesiones, pero su condición física completa no está establecida.
-- **Estado mental y emocional:** está alerta, evalúa riesgos y mantiene la cautela hacia los otros tres; no se ha establecido una reacción emocional más específica.
-- **Cambios recientes relevantes:** Kevin ha conocido a Vera, Darío y Saúl; cooperó con ellos para activar simultáneamente cuatro placas y abrir la puerta opuesta. No ha adquirido poderes, estadísticas ni equipo confirmado.
-- **Decisión o acción inmediata pendiente:** decidir cómo avanzar por la puerta abierta y qué hacer respecto a los tres desconocidos.
+- **Ubicación y situación:** corredor de piedra tenuemente iluminado, más allá de una curva que oculta la cámara alargada donde apareció la criatura. Kevin está junto a Vera, Darío y Saúl.
+- **Estado físico:** Kevin tiene dolor en la rodilla tras caer y en el hombro tras chocar contra la pared; gravedad y duración no establecidas. Darío tiene un corte superficial en la parte exterior del muslo que sangró y le duele al mover la pierna. Vera y Saúl no tienen heridas confirmadas. Las lesiones no se curan al pasar de un escenario a otro del mismo piso.
+- **Estado mental y emocional:** Kevin sigue alerta y cauteloso; ha observado señales previas a las embestidas y reconoce que la criatura no ha sido derrotada. No se ha establecido una reacción emocional más específica.
+- **Cambios recientes relevantes:** los cuatro sobrevivieron al primer enfrentamiento y se retiraron. La criatura sigue viva y no se confirmó recompensa, botín ni mejora. Kevin no ha adquirido poderes, estadísticas ni equipo; dejó caer la pieza metálica que había recogido.
+- **Decisión o acción inmediata pendiente:** revisar las heridas y decidir cómo continuar por el corredor sin asumir que la criatura no volverá a perseguirlos.
 
 ## 10. Historial de cambios duraderos
 - **Escenario / momento:** Piso 1 — «El precio de existir».
@@ -82,6 +82,9 @@ Registrar únicamente capacidades realmente adquiridas en la nueva versión.
 - **Escenario / momento:** Piso 1B — «Los demás jugadores».
 - **Cambio confirmado:** Kevin conoció a Vera, Darío y Saúl y cooperó con ellos para activar simultáneamente las cuatro placas de una cámara, lo que abrió la puerta hacia un corredor.
 - **Consecuencia para la continuidad:** Kevin comprobó una segunda prueba basada en una condición observable y una activación simultánea. Tiene tres conocidos con quienes cooperó, pero no una party confirmada. El corredor permanece sin explorar.
+- **Escenario / momento:** Piso 1C — «La primera amenaza».
+- **Cambio confirmado:** Kevin y los otros tres se enfrentaron a una criatura cuadrúpeda robusta que embestía y reaccionaba al ruido. Kevin observó que bajaba el cuerpo antes de embestir y que las columnas dificultaban algunos cambios de dirección. Los cuatro usaron el entorno para ganar una oportunidad de retirada y escaparon al corredor; la criatura sigue viva.
+- **Consecuencia para la continuidad:** Kevin tiene dolor en la rodilla y el hombro; Darío tiene un corte superficial en el muslo. Kevin dejó caer en la cámara la pieza metálica que había recogido. No hubo muerte, recompensa, botín, poderes, estadísticas ni capacidades nuevas. Los cuatro permanecen juntos, pero no han formado una party confirmada.
 
 ## Reglas de mantenimiento
 - Esta ficha empieza vacía: no se conserva automáticamente ningún poder, gen, estadística desarrollada, objeto, recurso, lesión, relación ni acontecimiento de versiones anteriores.
