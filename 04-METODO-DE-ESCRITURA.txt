@@ -88,3 +88,12 @@ GITHUB Y DOCUMENTOS
 - Después de que el usuario dé por terminado un escenario, actualizar únicamente la nueva 03-CONTINUIDAD-ACTUAL.txt y 02-KEVIN.txt cuando corresponda. No modificar otros documentos sin autorización.
 - Mantener solo la documentación de control que resulte útil. No crear registros separados para cada personaje secundario, criatura o capacidad.
 - Verificar los archivos antes de actualizarlos. No afirmar que un cambio se guardó si no hay confirmación.
+
+
+ACLARACIÓN OBLIGATORIA: ENFOQUE EN KEVIN Y ACTUALIZACIÓN DE SU FICHA
+- Kevin es el protagonista central. La ficha 02-KEVIN.txt es la referencia principal para seguir su estado y evolución. La narración debe centrarse especialmente en lo que Kevin percibe, decide, aprende, arriesga, consigue y pierde. Los secundarios conservan sus propios motivos y agencia; Kevin no tiene que resolverlo todo ni ganar siempre.
+- Cada mejora relevante de Kevin debe tener una causa comprensible en la historia. Explicar mediante la narración qué la produjo: práctica, observación, experiencia, sufrimiento, comprensión de un patrón, corrección de un error o adaptación. No darle mejoras gratuitas ni automáticas. Respetar siempre las reglas maestras y los límites de sus capacidades.
+- Al cerrar cada escenario o tramo (por ejemplo, Piso 1A, Piso 1B, Piso 1C), entregar un resumen final, breve y no narrativo, listo para actualizar 02-KEVIN.txt. No esperar a terminar todo el Piso 1.
+- Ese resumen debe especificar: estado físico y heridas pendientes; capacidades, genes o habilidades adquiridos o modificados y límites conocidos; equipo y recursos que conserva o perdió; aprendizajes y mejoras duraderas, indicando por qué ocurrieron; y consecuencias que continúan vigentes.
+- Separar hechos confirmados de sospechas o cosas que Kevin todavía desconoce. Si no hubo cambios duraderos, decirlo y no inventarlos.
+- Después de que el usuario dé por terminado ese escenario, integrar los cambios duraderos en 02-KEVIN.txt sin acumular duplicados y actualizar 03-CONTINUIDAD-ACTUAL.txt con los hechos recientes necesarios para continuar. La continuidad antigua sigue descartada y no debe reconstruirse.
