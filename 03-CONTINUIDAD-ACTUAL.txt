@@ -1,16 +1,16 @@
 # UMBRAL — CONTINUIDAD ACTUAL
 
-**Estado:** nueva versión en curso. Están aprobados los escenarios Piso 1 — «El precio de existir», Piso 1A — «Aprender las reglas», Piso 1B — «Los demás jugadores», Piso 1C — «La primera amenaza» y Piso 1D — «El corredor de las compuertas».
+**Estado:** nueva versión en curso. Están aprobados los escenarios Piso 1 — «El precio de existir», Piso 1A — «Aprender las reglas», Piso 1B — «Los demás jugadores», Piso 1C — «La primera amenaza», Piso 1D — «El corredor de las compuertas» y Piso 1E — «La cámara de los supervivientes».
 **Regla:** no importar ni reconstruir la continuidad de versiones anteriores. Añadir información solo después de que el escenario correspondiente haya sido escrito y aprobado.
 
 ## 1. Panorama general confirmado
 
-- **Punto actual de la historia:** Kevin, Vera, Darío y Saúl han atravesado el corredor de las compuertas y están en una pequeña cámara de piedra ante una puerta abierta. Han examinado la abertura desde el umbral, pero todavía no han cruzado.
-- **Piso o entorno actual:** Piso 1, tras completar los escenarios aprobados Piso 1, Piso 1A, Piso 1B, Piso 1C y Piso 1D.
-- **Personajes presentes y estado general:** Kevin, Vera, Darío y Saúl siguen cooperando, pero no han acordado formar una party ni viajar juntos formalmente.
-- **Objetivo o situación inmediata:** descansar brevemente y examinar el espacio al otro lado de la puerta antes de entrar.
-- **Consecuencias vigentes:** Kevin conserva dolor en la rodilla y el hombro; al agacharse para pasar bajo una compuerta, el dolor aumentó momentáneamente, sin lesión nueva confirmada. Darío conserva el corte superficial en la parte exterior del muslo y dolor al mover la pierna. No hay restauración física entre escenarios del mismo piso.
-- **Asuntos pendientes importantes:** averiguar por qué la criatura del escenario anterior se detuvo en el umbral, si puede perseguirlos o hay más criaturas, qué hay tras la puerta abierta y si los cuatro continuarán juntos. La barra metálica que Kevin recogió sigue en la cámara de la criatura.
+- **Punto actual de la historia:** Kevin, Vera, Darío y Saúl están en una cámara amplia de piedra junto a Mara y Esteban; Ivo permanece con Nora, que está herida. La puerta metálica de otra estancia quedó cerrada mediante una palanca y una barra encajada en una muesca. Kevin, Mara y Saúl exploraron una abertura al fondo y encontraron una estancia pequeña con una puerta de piedra y una placa hundida. Regresaron sin activar esa placa.
+- **Piso o entorno actual:** Piso 1, tras completar los escenarios aprobados Piso 1, Piso 1A, Piso 1B, Piso 1C, Piso 1D y Piso 1E. La puerta de piedra hallada al final de la exploración está prevista como acceso al escenario Piso 1F, pero aún no ha sido activada ni cruzada.
+- **Personajes presentes y estado general:** Kevin, Vera, Darío, Saúl, Mara y Esteban permanecen en la cámara. Ivo está junto a Nora. Ha habido cooperación puntual e intercambio de información, pero no existe una party formal ni un compromiso de viajar juntos.
+- **Objetivo o situación inmediata:** vigilar a Nora y permitir que los heridos descansen; después decidir si exploran la puerta de piedra que podría conducir al Piso 1F.
+- **Consecuencias vigentes:** Kevin conserva dolor en la rodilla y el hombro; no se ha confirmado una lesión nueva en 1E. Darío conserva el corte superficial en la parte exterior del muslo y dolor al mover la pierna. Nora tiene una herida en el costado con sangrado significativo y su estado futuro no está determinado; Vera aplicó presión y preparó un vendaje provisional. No hay restauración física entre escenarios del mismo piso.
+- **Asuntos pendientes importantes:** qué produce los golpes y sonidos detrás de la puerta metálica, si el mecanismo de retención resistirá más presión, qué hay tras la puerta de piedra y si conduce efectivamente al Piso 1F; evolución de la herida de Nora; si los supervivientes continuarán juntos. La criatura del escenario 1C sigue viva y la barra metálica que Kevin dejó caer continúa en aquella cámara.
 
 ## 2. Registro de continuidad por escenario
 
@@ -99,6 +99,29 @@
 - **Equipo y recursos:** no obtuvieron objetos ni recompensas. La pieza metálica alargada recogida por Kevin en el escenario anterior permanece en la cámara de la criatura. Los fragmentos de piedra usados en el primer trayecto siguen con estado incierto.
 - **Consecuencias y asuntos pendientes:** Kevin sigue con dolor en rodilla y hombro; Darío conserva el corte superficial en el muslo y dolor al mover la pierna. Vera y Saúl no tienen heridas confirmadas. La criatura del escenario anterior sigue viva; se desconoce por qué no persiguió al grupo más allá del umbral. No se confirmó botín, mejora ni recompensa.
 - **Punto exacto de continuación:** Kevin, Vera, Darío y Saúl están en una pequeña cámara de piedra al final del corredor de las compuertas. La puerta al siguiente espacio está abierta; los cuatro permanecen en el umbral y planean descansar un momento y examinar lo que hay al otro lado antes de entrar.
+
+
+### Piso 1E — La cámara de los supervivientes
+
+- **Piso / escenario:** Piso 1E.
+- **Nombre o título:** La cámara de los supervivientes.
+- **Eslogan exacto:** «Sobrevivir juntos no significa querer lo mismo.»
+- **Desarrollo confirmado:** Kevin, Vera, Darío y Saúl cruzan la puerta al final del corredor de las compuertas y llegan a una cámara amplia de piedra. Allí encuentran a dos supervivientes: Mara y Esteban, este último desconfiado y armado con una barra metálica. Más tarde aparece Ivo, que intenta mantener cerrada una puerta metálica al fondo, y Nora, herida en el costado, sale de la estancia. Los golpes y ruidos proceden del otro lado de esa puerta, pero nadie identifica su origen. Nora explica que algo tiró de la puerta y la atrapó contra el marco; Ivo y Esteban también refieren sonidos, incluida una posible voz, sin poder identificar qué hay dentro. Kevin mueve una palanca junto al marco y descubre que hace cerrar la puerta parcialmente; observa una pieza que encaja en una muesca de la guía y, tras varios intentos cautelosos, logra retenerla cerrada durante el tiempo observado. La causa de los golpes permanece desconocida. El grupo atiende a Nora con tela y presión sobre la herida; Vera prepara un vendaje provisional y Nora puede beber pequeños sorbos de agua, pero sigue herida y su evolución es incierta. Kevin propone un intercambio limitado de información. Él comparte lo observado sobre la criatura del escenario anterior y el corredor de compuertas; Mara, Esteban e Ivo cuentan parte de lo que saben de la cámara y de la puerta metálica. No se confirma que todos hayan contado todo ni que exista plena confianza. Kevin, Mara y Saúl exploran la abertura al fondo de la cámara y encuentran una pequeña estancia vacía con una puerta de piedra y una placa hundida. No la activan. Regresan y acuerdan posponer la decisión de avanzar hasta que los heridos descansen y puedan evaluar la situación.
+- **Descubrimientos y reglas:**
+  - **Hechos confirmados para Kevin:** la cámara contiene varios supervivientes con información y objetivos propios; una palanca mueve la puerta metálica y una barra encajada en una muesca puede retenerla en posición durante el tiempo observado; la puerta recibió golpes desde el otro lado, pero el origen no se identificó; la cámara tiene una segunda abertura que conduce a una estancia pequeña con una puerta de piedra y una placa hundida.
+  - **Declaraciones de terceros no verificadas:** Esteban, Mara, Ivo y Nora describen los sonidos, el uso anterior de la puerta metálica y las circunstancias de la herida; Kevin no puede verificar de forma independiente todo lo relatado.
+  - **Hipótesis:** la puerta de piedra con placa hundida podría conducir al escenario final del Piso 1, Piso 1F, conforme a la transición aprobada, pero aún no se ha accionado ni cruzado. No se sabe qué hay tras ella.
+  - **Desconocido:** origen de los golpes y posibles sonidos de voz tras la puerta metálica; cuánto tiempo soportará la retención; qué hay tras la puerta de piedra; gravedad y evolución de la herida de Nora; si los supervivientes permanecerán juntos o formarán un grupo estable.
+- **Kevin:** actuó con cautela, diferenció lo observado de lo que no sabía, evitó forzar a los desconocidos a cooperar y propuso compartir información relevante sin exigir confianza total. Aprendió de forma práctica que una palanca y una barra encajada en una muesca pueden retener una puerta durante el tiempo observado. Conserva dolor en rodilla y hombro; no se confirmó una lesión nueva. No adquirió poderes, estadísticas ni capacidades extraordinarias.
+- **Personajes relevantes:**
+  - **Mara:** superviviente que discrepa de la actitud controladora de Esteban y está dispuesta a explorar otra ruta. Acompañó a Kevin y Saúl durante la exploración breve. Estado físico no especificado.
+  - **Esteban:** superviviente desconfiado, lleva una barra metálica. Conoce parte de la historia de la puerta metálica, pero no identificó qué hay al otro lado. Permanece en la cámara.
+  - **Ivo:** joven que intentó cerrar la puerta metálica y permanece junto a Nora. No se han establecido otras capacidades ni objetivos.
+  - **Nora:** mujer herida en el costado al quedar atrapada contra el marco de la puerta metálica. Recibió presión y un vendaje provisional; está consciente, pero su evolución no está determinada.
+- **Grupo y relaciones:** Kevin, Vera, Darío y Saúl siguen cooperando, pero no forman una party confirmada. Mara, Esteban, Ivo y Nora son supervivientes conocidos; tampoco se ha acordado que viajen juntos.
+- **Equipo y recursos:** no se confirma que Kevin obtenga o conserve objetos nuevos. La barra metálica que Kevin recogió durante el enfrentamiento de 1C sigue en la cámara de la criatura. Las telas y el recipiente con agua pertenecen al grupo de supervivientes y se usaron parcialmente para atender a Nora; las cantidades restantes no están establecidas.
+- **Consecuencias y asuntos pendientes:** Kevin conserva dolor en rodilla y hombro; Darío conserva el corte superficial en el muslo. Nora permanece herida. La puerta metálica queda retenida por su mecanismo, pero no se conoce su resistencia ni el origen de los golpes. La criatura del escenario 1C sigue viva. No se confirmó botín, recompensa, mejora ni capacidad nueva.
+- **Punto exacto de continuación:** Kevin, Vera, Darío y Saúl están en la cámara amplia; Mara y Esteban permanecen con ellos, mientras Ivo está junto a Nora. Han acordado descansar y atender a los heridos antes de decidir si avanzan hacia la pequeña estancia con la puerta de piedra y la placa hundida, prevista como acceso al Piso 1F.
 
 ## 3. Grupo y personajes con seguimiento
 
