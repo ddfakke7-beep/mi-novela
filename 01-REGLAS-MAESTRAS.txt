@@ -10,7 +10,7 @@ UMBRAL es una torre de supervivencia, exploración, combate y progresión. Sus p
 
 La torre acelera y potencia el desarrollo natural del cuerpo y de las capacidades humanas. Con entrenamiento, experiencia, exposición y adaptación, una persona puede alcanzar progresivamente capacidades sobrehumanas. La progresión debe ganarse y respetar las condiciones establecidas.
 
-La estructura, cantidad de pisos, número de escenarios por piso y contenido de cada prueba se determinan durante el diseño. No se presupone una estructura universal si aún no ha sido establecida.
+La estructura general distingue los pisos principales numerados (Piso 1, Piso 2, Piso 3, etc.) de los escenarios identificados con una letra (1A–1F, 2A–2F, etc.). Los pisos principales son zonas de recuperación y descanso entre etapas; los escenarios con letra son las pruebas que deben superarse para avanzar. La cantidad de escenarios de cada piso se determina durante el diseño.
 
 ## 2. Sistema de estadísticas
 
@@ -71,11 +71,13 @@ Cambiar de escenario dentro de un mismo piso no cura las heridas. Las lesiones, 
 
 ### 6.3. Restauración al entrar a un nuevo piso
 
-Al entrar en cada nuevo piso principal, los participantes vivos recuperan por completo la integridad física: se reparan las heridas, fracturas, daños en órganos y pérdida de extremidades que tengan en ese momento.
+Los pisos principales numerados (Piso 1, Piso 2, Piso 3, etc.) son zonas de recuperación y descanso. Al entrar en uno de ellos, los participantes vivos recuperan por completo la integridad física: se reparan las heridas, fracturas, daños en órganos y pérdida de extremidades que tengan en ese momento.
 
-La restauración se aplica en cada transición entre pisos principales, no entre escenarios del mismo piso. Por ejemplo, pasar de 1A a 1B no cura; terminar el Piso 1 y entrar al Piso 2 sí cura; entrar al Piso 3 vuelve a restaurar la integridad física.
+Después de permanecer 12 horas en el piso principal de descanso, los participantes son trasladados al primer escenario con letra de ese piso (por ejemplo, del Piso 2 al escenario 2A). La transición desde el piso principal hacia su escenario A marca el comienzo de la siguiente etapa de pruebas. El número de horas se cuenta desde la llegada al piso principal; no debe adelantarse ni omitirse esa transición.
 
-Esta restauración no revive a los muertos ni repone equipo, objetos, materiales, consumibles u otros recursos perdidos o gastados. Tampoco elimina automáticamente agotamiento, sueño perdido, hambre, sed, venenos, enfermedades, efectos persistentes o condiciones que no sean lesiones corporales, salvo que una regla establecida indique expresamente lo contrario.
+Los escenarios con letra (1A, 1B… 1F; 2A, 2B…; etc.) son pruebas dentro de la etapa correspondiente y no restauran heridas al pasar de uno a otro. En ellos, los participantes deben depender de tratamientos, pociones u otros medios válidos disponibles, además de administrar sus recursos. Completar el último escenario de una etapa permite pasar al siguiente piso principal, donde vuelve a aplicarse la restauración física y comienza un nuevo periodo de descanso de 12 horas.
+
+La restauración no revive a los muertos ni repone equipo, objetos, materiales, consumibles u otros recursos perdidos o gastados. Tampoco elimina automáticamente agotamiento, sueño perdido, hambre, sed, venenos, enfermedades, efectos persistentes o condiciones que no sean lesiones corporales, salvo que una regla establecida indique expresamente lo contrario.
 
 ### 6.4. Costes físicos
 
