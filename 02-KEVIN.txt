@@ -1,6 +1,6 @@
 # UMBRAL — FICHA DE KEVIN
 
-**Estado:** ficha inicial en construcción para la nueva versión.  
+**Estado:** ficha inicial en construcción para la nueva versión. El escenario introductorio del Piso 1 está aprobado; no se han establecido todavía capacidades, equipo ni estadísticas.
 **Regla:** no heredar datos de versiones anteriores. Completar cada apartado solo cuando se establezca en la nueva historia. No inventar información para llenar espacios.
 
 ## 1. Identidad
@@ -44,45 +44,37 @@ Registrar únicamente capacidades realmente adquiridas en la nueva versión.
   - Qué todavía no sabe hacer:
 
 ## 6. Conocimientos sobre UMBRAL
-- Hechos confirmados que conoce:
-- Hipótesis o sospechas:
-- Reglas que todavía desconoce:
-- Cómo obtuvo la información relevante:
+- Hechos confirmados que conoce: vio un mensaje de UMBRAL que anuncia el inicio de la progresión, etapas pendientes y pruebas que deben superarse para avanzar; comprobó que una marca hundida en una puerta activa un mecanismo; al cruzar esa puerta apareció en una plataforma de piedra distinta, sin puerta de regreso visible.
+- Hipótesis o sospechas: el entorno parece conducir a los participantes mediante pruebas, pero aún no conoce el sistema ni sus reglas completas.
+- Reglas que todavía desconoce: funcionamiento de las losas suspendidas, condiciones para llegar a la puerta del otro extremo y consecuencias de superar o fallar la prueba.
+- Cómo obtuvo la información relevante: mensaje visible y observación directa del espacio inicial, la puerta y la plataforma.
 
 ## 7. Equipo, objetos y recursos
-- Equipo actual:
-- Objetos importantes:
-- Recursos y consumibles:
-- Objetos gastados, perdidos o dañados:
-- Ubicación o estado incierto de objetos:
+- Equipo actual: no establecido.
+- Objetos importantes: ninguno establecido.
+- Recursos y consumibles: no establecidos.
+- Objetos gastados, perdidos o dañados: no establecidos.
+- Ubicación o estado incierto de objetos: no establecido.
 
 ## 8. Grupo, personajes recurrentes, relaciones y objetivos
-- Party o grupo actual de Kevin (miembros confirmados y motivo para viajar juntos):
-- Personajes recurrentes bajo seguimiento activo (solo los que importan para futuras escenas; máximo orientativo de diez personajes con seguimiento activo en total, incluyendo a Kevin):
-  - Nombre / identificación:
-  - Estado actual y ubicación conocida:
-  - Objetivo o motivación conocida:
-  - Relación con Kevin y con el grupo:
-  - Qué sabe / qué desconoce / sospechas relevantes:
-  - Capacidades, equipo o recursos que afecten la continuidad:
-  - Motivo por el que debe seguirse:
-- Personajes pasajeros que no requieren seguimiento continuado (anotar solo si importa para una consecuencia futura):
-- Relaciones y cambios relevantes:
-- Objetivo actual de Kevin:
-- Compromisos, conflictos o consecuencias pendientes:
+- Party o grupo actual de Kevin (miembros confirmados y motivo para viajar juntos): ninguna confirmada.
+- Personajes recurrentes bajo seguimiento activo (solo los que importan para futuras escenas; máximo orientativo de diez personajes con seguimiento activo en total, incluyendo a Kevin): ninguno confirmado.
+- Personajes pasajeros que no requieren seguimiento continuado: varias personas desconocidas estaban en el espacio inicial; no se ha confirmado que hayan cruzado ni cuál es su estado actual. Un hombre cruzó primero y desapareció de la vista; su destino es desconocido.
+- Relaciones y cambios relevantes: ninguno establecido.
+- Objetivo actual de Kevin: descubrir cómo avanzar por las losas y alcanzar la puerta del otro extremo sin asumir reglas que aún no conoce.
+- Compromisos, conflictos o consecuencias pendientes: está en una plataforma sin una puerta de regreso visible y debe averiguar cómo cruzar el trayecto.
 
 ## 9. Estado al punto de continuidad vigente
-- Ubicación y situación:
-- Estado físico:
-- Estado mental y emocional:
-- Cambios recientes relevantes:
-- Decisión o acción inmediata pendiente:
+- Ubicación y situación: plataforma de piedra en el Piso 1, frente a varias losas suspendidas sobre un vacío y una puerta al otro extremo.
+- Estado físico: Kevin se ha despertado, se ha movido por el espacio inicial y ha cruzado la puerta. No se han narrado heridas ni lesiones, pero su condición física completa no está establecida.
+- Estado mental y emocional: está alerta y evalúa el riesgo; no se ha establecido una reacción emocional más específica.
+- Cambios recientes relevantes: ha visto el mensaje inicial de UMBRAL y ha comprobado que cruzar la puerta lo trasladó a otro espacio.
+- Decisión o acción inmediata pendiente: observar y averiguar cómo funcionan las losas antes de avanzar.
 
 ## 10. Historial de cambios duraderos
-Añadir solo cambios que deban recordarse en escenas futuras.
-- Escenario / momento:
-- Cambio confirmado:
-- Consecuencia para la continuidad:
+- Escenario / momento: Piso 1 — «El precio de existir».
+- Cambio confirmado: Kevin ha entrado en UMBRAL y se encuentra en la plataforma de piedra tras cruzar la puerta del espacio inicial.
+- Consecuencia para la continuidad: conoce el mensaje introductorio y la existencia de una prueba inmediata, pero todavía desconoce las reglas del trayecto y no tiene capacidades, estadísticas ni equipo establecidos.
 
 ## Reglas de mantenimiento
 - Esta ficha empieza vacía: no se conserva automáticamente ningún poder, gen, estadística desarrollada, objeto, recurso, lesión, relación ni acontecimiento de versiones anteriores.
