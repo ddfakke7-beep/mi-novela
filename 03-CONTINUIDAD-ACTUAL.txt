@@ -1,16 +1,16 @@
 # UMBRAL — CONTINUIDAD ACTUAL
 
-**Estado:** nueva versión en curso. El escenario introductorio del Piso 1 está aprobado y registrado; el escenario 1A todavía no está escrito ni aprobado.
+**Estado:** nueva versión en curso. Los escenarios Piso 1 — «El precio de existir» y Piso 1A — «Aprender las reglas» están aprobados por el usuario.
 **Regla:** no importar ni reconstruir la continuidad de versiones anteriores. Añadir información solo después de que el escenario correspondiente haya sido escrito y aprobado.
 
 ## 1. Panorama general confirmado
 
-- **Punto actual de la historia:** Kevin acaba de cruzar la puerta del espacio inicial y se encuentra en una plataforma de piedra frente a una serie de losas suspendidas sobre un vacío y una segunda puerta al otro extremo.
+- **Punto actual de la historia:** Kevin ha cruzado las losas suspendidas y abierto la puerta del otro extremo; permanece ante la abertura, observando antes de cruzar.
 - **Piso o entorno actual:** Piso 1; escenario introductorio aprobado, antes de resolver la prueba de las losas.
-- **Personajes presentes y estado general:** Kevin está en la plataforma. Otros desconocidos estaban en el espacio inicial; no se ha confirmado que alguno haya cruzado junto a Kevin ni que forme parte de su grupo.
-- **Objetivo o situación inmediata:** observar y comprender cómo avanzar por las losas sin conocer todavía sus reglas.
+- **Personajes presentes y estado general:** Kevin está ante la puerta abierta al final del trayecto. Otros desconocidos estaban en el espacio inicial; no se ha confirmado que alguno haya cruzado junto a Kevin ni que forme parte de su grupo.
+- **Objetivo o situación inmediata:** decidir si cruza la puerta abierta y averiguar qué hay al otro lado.
 - **Consecuencias vigentes de escenarios anteriores:** ninguna; este es el primer escenario aprobado de la nueva versión.
-- **Asuntos pendientes importantes:** descubrir el funcionamiento y los riesgos de las losas; averiguar qué hay al otro extremo y qué implica superar la prueba.
+- **Asuntos pendientes importantes:** averiguar qué hay tras la puerta abierta y qué implica avanzar más allá del trayecto de losas.
 
 ## 2. Registro de continuidad por escenario
 
@@ -29,6 +29,21 @@
 - **Equipo y recursos:** no se han establecido objetos, equipo ni recursos concretos.
 - **Consecuencias y asuntos pendientes:** Kevin está separado del grupo inicial, sin un regreso visible; necesita averiguar cómo cruzar las losas y alcanzar la puerta del otro extremo.
 - **Punto exacto de continuación:** Kevin permanece en la plataforma de piedra, frente a las primeras losas, observando el trayecto antes de dar el siguiente paso.
+
+### Piso 1A — Aprender las reglas
+
+- **Piso / escenario:** Piso 1A, continuación de la prueba inicial.
+- **Nombre o título de trabajo:** Aprender las reglas.
+- **Eslogan exacto:** «No todas las trampas intentan matarte. Algunas solo esperan a que te equivoques.»
+- **Desarrollo confirmado:** Kevin examina las losas suspendidas y usa pequeños fragmentos de piedra para probar su reacción. Un impacto cerca del extremo hace que una losa se incline; otro en el centro produce menos movimiento y uno cerca del borde opuesto provoca una inclinación mayor. Observa una línea oscura bajo una losa, sin confirmar su función. Prueba con la punta del zapato y después transfiere su peso gradualmente a la primera losa. Avanza con cautela, tanteando las superficies y esperando a que disminuyan las oscilaciones. En varios puntos pierde momentáneamente estabilidad o debe retirar una pierna, pero corrige sus movimientos y no cae ni se lesiona. Finalmente alcanza la plataforma opuesta, examina la puerta y presiona una marca hundida similar a la de la primera puerta. Oye un clic y la puerta se abre. Kevin no cruza todavía; observa la abertura.
+- **Descubrimientos y reglas:**
+  - **Hechos confirmados para Kevin:** las losas reaccionan a impactos y cambios de apoyo o distribución del peso; en pruebas limitadas, el centro aparente produjo menos movimiento que ciertas zonas cercanas a los extremos; transferir el peso gradualmente y esperar a que disminuyeran las oscilaciones le permitió cruzar; una marca hundida abrió la puerta final.
+  - **Hipótesis:** la distribución del peso y el punto de apoyo influyen en la estabilidad.
+  - **Desconocido:** el mecanismo exacto; si todas las losas reaccionan igual; las condiciones completas de la prueba; qué hay tras la puerta abierta.
+- **Kevin:** no adquiere poderes, estadísticas ni capacidades nuevas. Obtiene conocimiento práctico limitado. No se narran heridas ni lesiones.
+- **Equipo y recursos:** utilizó pequeños fragmentos de piedra para hacer pruebas; no se ha confirmado si conserva alguno.
+- **Grupo y relaciones:** sigue sin haber una party confirmada.
+- **Punto exacto de continuación:** Kevin está ante la puerta abierta al otro extremo del trayecto, observando la abertura antes de cruzar.
 
 ## 3. Grupo y personajes con seguimiento
 
