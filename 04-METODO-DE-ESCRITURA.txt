@@ -67,7 +67,7 @@ Al terminar cada escenario, entregar un resumen breve y no narrativo con:
 1. Acontecimientos y consecuencias relevantes.
 2. Estado de Kevin y cambios duraderos.
 3. Cabos sueltos que realmente puedan afectar la continuación.
-Actualizar 03-CONTINUIDAD-ACTUAL.txt con el nuevo punto de partida y 02-KEVIN.txt solo cuando cambie información duradera sobre Kevin. No mantener un historial exhaustivo de personajes secundarios ni duplicar los capítulos narrativos.
+Como la continuidad anterior pertenece a la versión descartada, no usarla como referencia. Al terminar el primer escenario de la nueva versión, crear un 03-CONTINUIDAD-ACTUAL.txt nuevo que registre únicamente los hechos confirmados de la reescritura y actualizarlo al cerrar cada escenario. Actualizar 02-KEVIN.txt solo cuando cambie información duradera sobre Kevin. No mantener un historial exhaustivo de personajes secundarios ni duplicar los capítulos narrativos.
 Al cerrar un piso, basta con que el resumen operativo refleje el estado resultante y las consecuencias que siguen vigentes. Los capítulos anteriores ya conservan el historial narrativo.
 
 FORMA DE TRABAJO
@@ -84,6 +84,7 @@ GITHUB Y DOCUMENTOS
 - No modificar 01-REGLAS-MAESTRAS.txt salvo orden explícita del usuario.
 - No modificar, renombrar ni borrar la carpeta piso-1 ni sus capítulos salvo orden explícita del usuario.
 - Al reescribir el Piso 1, conservar intactos los archivos narrativos antiguos en GitHub; la nueva versión se escribe en la conversación. Sus hechos no son obligatorios para la nueva versión, salvo los que el usuario confirme como canon.
-- Después de que el usuario dé por terminado un escenario, actualizar únicamente 03-CONTINUIDAD-ACTUAL.txt y 02-KEVIN.txt cuando corresponda. No modificar otros documentos sin autorización.
+- La antigua 03-CONTINUIDAD-ACTUAL.txt fue eliminada porque reflejaba la versión descartada. No reconstruirla a partir de esa historia. Tras finalizar el primer escenario de la nueva versión, crear una continuidad nueva basada solo en lo ocurrido en la reescritura.
+- Después de que el usuario dé por terminado un escenario, actualizar únicamente la nueva 03-CONTINUIDAD-ACTUAL.txt y 02-KEVIN.txt cuando corresponda. No modificar otros documentos sin autorización.
 - Mantener solo la documentación de control que resulte útil. No crear registros separados para cada personaje secundario, criatura o capacidad.
 - Verificar los archivos antes de actualizarlos. No afirmar que un cambio se guardó si no hay confirmación.
