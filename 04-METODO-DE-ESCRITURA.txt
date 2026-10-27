@@ -77,8 +77,8 @@ La escritura se organiza según lo que necesite la historia. Un escenario puede 
 
 - Antes de crear o continuar un escenario, leer los cuatro documentos obligatorios de la sección 1 y comprobar el último punto aprobado.
 - Entregar únicamente la parte o el contenido previsto y acordado. Al terminar una entrega intermedia, esperar la indicación del usuario antes de seguir.
-- La señal **G/g** significa «apruebo esta entrega y puedes avanzar al siguiente paso previsto», no «apruebo automáticamente todo el escenario». Si todavía falta la Parte B acordada para completar el escenario, avanzar a ella según el plan; no registrar el escenario entero como aprobado hasta terminar el contenido acordado y preguntarlo explícitamente.
-- **Cuando se haya entregado todo lo acordado para el escenario**, preguntar de forma clara si el usuario lo aprueba o quiere cambios. No avanzar al siguiente escenario ni actualizar el canon definitivo hasta recibir aprobación.
+- La señal **G/g** significa «apruebo esta entrega y puedes avanzar al siguiente paso previsto», no «apruebo automáticamente todo el escenario ni autorizo su incorporación al canon». Si todavía falta la Parte B acordada para completar el escenario, avanzar a ella según el plan; no registrar el escenario entero como aprobado hasta terminar el contenido acordado y preguntarlo explícitamente.
+- **Cuando se haya entregado todo lo acordado para el escenario**, preguntar de forma clara si el usuario acepta incorporarlo al canon o quiere cambios. No actualizar GitHub ni tratar el escenario como canon definitivo antes de esa aceptación. El usuario no necesita aprobar por separado los detalles creativos que el asistente resuelva dentro de las reglas.
 - Si el usuario pide cambios, corregir el contenido afectado y volver a preguntar si el escenario queda aprobado.
 - Después de la aprobación, entregar el resumen de continuidad y realizar las actualizaciones obligatorias indicadas en la sección 8. Si el escenario se compone de una sola parte, se aplica exactamente el mismo procedimiento.
 - La aprobación de un escenario no equivale a aprobar automáticamente el diseño de un piso nuevo ni autoriza cambios de canon que no se hayan consultado.
@@ -124,7 +124,7 @@ Primero se termina el contenido acordado del escenario y se pregunta al usuario 
 2. **Desarrollo confirmado:** qué ocurrió y cómo se resolvió o quedó el desafío.
 3. **Descubrimientos y reglas:** hechos confirmados, hipótesis de los personajes y aspectos todavía desconocidos, claramente diferenciados.
 4. **Kevin:** estado físico y mental relevante, decisiones, aprendizajes duraderos y cambios de conducta.
-5. **Grupo y relaciones:** cambios relevantes en los vínculos, cooperación, conflictos, separaciones o pérdidas.
+5. **Grupo y relaciones:** party actual, personajes que siguen viajando con Kevin, incorporaciones o separaciones y cambios relevantes en vínculos, cooperación, conflictos o pérdidas. Registrar seguimiento continuado solo para personajes recurrentes relevantes; los pasajeros no requieren fichas extensas.
 6. **Equipo y recursos:** objetos obtenidos, gastados, perdidos, dañados, conservados o de ubicación incierta.
 7. **Consecuencias y asuntos pendientes:** riesgos, promesas, heridas, conflictos o cabos sueltos que puedan influir después.
 8. **Punto de continuación:** dónde están los personajes, qué situación afrontan y desde qué hecho debe continuar la siguiente escena.
@@ -138,7 +138,7 @@ El resumen se entrega aparte de la narración; no se inserta dentro de la histor
 No se actualiza el canon definitivo antes de que el usuario apruebe el escenario completo. Después de aprobarlo, revisar y actuar sobre los archivos siguientes:
 
 - **`03-CONTINUIDAD-ACTUAL.txt` — obligatorio en cada escenario:** añadir el registro del escenario aprobado y actualizar el panorama general si cambió. Conservar hechos, sospechas y desconocidos por separado, consecuencias vigentes, recursos y el punto exacto desde el que continúa la historia. Respetar la plantilla que ya existe.
-- **`02-KEVIN.txt` — revisar obligatoriamente en cada escenario:** comprobar y dejar correcta la ficha de Kevin para el inicio del siguiente escenario. Registrar los cambios duraderos confirmados en estado físico o mental, conocimientos, capacidades, equipo, recursos, relaciones y objetivos. No inventar cambios para rellenar la ficha; si no cambió algo, conservar el dato correcto.
+- **`02-KEVIN.txt` — revisar obligatoriamente en cada escenario:** comprobar y dejar correcta la ficha de Kevin para el inicio del siguiente escenario. Registrar los cambios duraderos confirmados en estado físico o mental, conocimientos, capacidades, equipo, recursos, relaciones y objetivos. Mantener también un registro compacto de la party y de los personajes recurrentes que deban seguirse; actualizar incorporaciones, separaciones, estado, objetivos, conocimientos y vínculos cuando afecten la continuidad. El máximo orientativo es diez personajes con seguimiento activo en total, incluyendo a Kevin; los personajes pasajeros no requieren seguimiento extenso. No inventar cambios para rellenar la ficha; si no cambió algo, conservar el dato correcto.
 - **`01-REGLAS-MAESTRAS.txt` — revisar si corresponde:** si el escenario aprobado introduce o confirma una regla general, límite o mecánica del mundo, comprobar que encaje con las reglas existentes. Solo incorporar cambios generales aprobados. Si existe contradicción, detenerse y consultar al usuario; no adaptar las reglas en silencio para salvar la trama.
 - **`04-METODO-DE-ESCRITURA.txt` — solo si corresponde:** actualizarlo cuando el usuario apruebe cambios al procedimiento de trabajo.
 
