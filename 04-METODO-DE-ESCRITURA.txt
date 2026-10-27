@@ -1,6 +1,6 @@
 # UMBRAL — MÉTODO DE ESCRITURA Y CONTINUIDAD
 
-**Objetivo:** escribir una historia entretenida y coherente, con capítulos que aporten algo real, sin alargar escenas por inercia ni depender de la memoria del chat.
+**Objetivo:** escribir una historia entretenida y coherente, con libertad creativa para diseñar mundos distintos en cada piso, sin romper las reglas del mundo ni alargar la historia artificialmente.
 
 ## 1. Documentos de referencia
 
@@ -8,110 +8,145 @@ Antes de continuar una sesión de escritura, revisar los documentos vigentes del
 
 1. `01-REGLAS-MAESTRAS.txt`: reglas fundamentales del mundo, el sistema, la progresión, la muerte, las heridas y los recursos.
 2. `02-KEVIN.txt`: estado actual y cambios duraderos del protagonista.
-3. `03-CONTINUIDAD-ACTUAL.txt`: hechos confirmados, resumen de pisos y escenarios, consecuencias vigentes y punto exacto desde donde continuar.
-4. Este archivo: método de trabajo, aprobación, ritmo y actualización documental.
+3. `03-CONTINUIDAD-ACTUAL.txt`: hechos confirmados, resumen de pisos y partes, consecuencias vigentes y punto exacto desde donde continuar.
+4. Este archivo: método de diseño, escritura, aprobación y actualización documental.
 
-Los capítulos narrativos existentes sirven como referencia de lo que realmente se escribió, pero durante la reescritura del Piso 1 sus acontecimientos antiguos no son canon obligatorio salvo que el usuario los confirme.
+Los capítulos narrativos existentes sirven como referencia de lo que realmente se escribió, pero durante la reescritura sus acontecimientos antiguos no son canon obligatorio salvo que el usuario los confirme.
 
 Si dos documentos se contradicen, no elegir en silencio cuál obedecer. Señalar la contradicción y resolverla antes de escribir. No afirmar que se consultó un archivo si no se pudo acceder a él.
 
-## 2. Diseñar cada escenario antes de escribirlo
+## 2. Estructura predeterminada: dos partes por piso
 
-Antes de redactar el primer capítulo de un escenario, presentar un plan breve que incluya:
+Cada piso se desarrolla en **dos partes largas: Parte 1 y Parte 2**. Esta es la estructura de trabajo predeterminada para reducir la fragmentación y permitir que cada piso se sienta como un mundo completo.
 
-- **Propósito:** qué aporta el escenario a la historia.
-- **Conflicto o desafío central:** qué situación debe afrontar Kevin y por qué importa.
-- **Riesgos y condiciones relevantes:** amenazas, restricciones, información importante y condición de finalización.
-- **Cantidad prevista de capítulos:** decir explícitamente cuántos capítulos tendrá el escenario.
-- **Función de cada capítulo:** una línea por capítulo que indique qué avance, decisión, descubrimiento, conflicto o consecuencia lo justifica.
+No se establece una cantidad fija de capítulos pequeños. Cada parte puede contener las escenas, secuencias, diálogos, exploración, conflictos y enfrentamientos que necesite la historia. La división en dos partes organiza el desarrollo, no limita la extensión ni obliga a terminar cada escena con un corte artificial.
 
-El número de capítulos debe responder a las necesidades reales de la historia. No extender un escenario solo para cumplir una cifra ni dejarlo demasiado corto si falta desarrollar una decisión o consecuencia necesaria.
+Cada piso puede tener un concepto, entorno, sociedad, desafío y estilo muy distintos. Hay libertad para inventar, siempre que el resultado respete las Reglas Maestras, el estado real de Kevin y la continuidad confirmada.
 
-Una vez aprobado el plan, respetar el número establecido. Si durante la escritura aparece una razón narrativa genuina para añadir, quitar o reorganizar capítulos, explicar brevemente por qué y pedir aprobación antes de cambiar el plan. No prolongar un escenario aburrido con relleno: simplificarlo o cerrar el conflicto de manera coherente.
+### Parte 1 — Descubrimiento y desarrollo del conflicto
 
-## 3. Regla de avance con «G» o «g»
+Como guía flexible, puede organizarse en tres movimientos:
 
-Cuando el usuario responda **G** o **g** a un capítulo, significa: **«Me gustó; puedes avanzar al siguiente capítulo»**.
+- **Inicio y exploración:** presentar el mundo y la situación inmediata. Los personajes observan, exploran, identifican necesidades y descubren información gradualmente; no conocen reglas que todavía no han aprendido.
+- **Conflicto y aprendizaje:** desarrollar obstáculos, amenazas, mecanismos, decisiones o interacciones. Los personajes prueban opciones, cometen errores y aprenden mediante sus experiencias.
+- **Resolución parcial y cierre:** resolver o transformar el conflicto que corresponde a esta parte. Puede dejar consecuencias, incógnitas o una nueva complicación que impulse la Parte 2.
 
-- Avanzar únicamente al capítulo siguiente del plan aprobado, no al escenario siguiente.
-- Por ejemplo, si se está escribiendo el capítulo 1 de 1A y el usuario responde «g», entregar el capítulo 2 de 1A, si ese es el siguiente previsto.
-- No saltarse capítulos, resumir varios capítulos en uno ni interpretar «g» como aprobación automática de todo el escenario.
-- Si el capítulo aprobado es el último del escenario, no inventar un capítulo adicional. Entregar por separado el resumen final del escenario y aplicar el procedimiento de cierre de la sección 6.
-- Si el usuario pide cambios en lugar de aprobar, corregir el capítulo señalado antes de avanzar.
+### Parte 2 — Consecuencias, clímax y cierre del piso
 
-La señal «g» aprueba el capítulo que acaba de leer y autoriza continuar con el siguiente. No significa que el usuario haya aprobado decisiones futuras que aún no se le han presentado.
+También puede organizarse en tres movimientos flexibles:
 
-## 4. Ritmo y calidad de los capítulos
+- **Continuación y consecuencias:** retomar lo ocurrido en la Parte 1. Resolver asuntos pendientes cuando sea necesario, mostrar consecuencias y permitir nuevos descubrimientos o complicaciones.
+- **Clímax y resolución:** llevar el conflicto principal del piso a su punto decisivo. Puede ser una batalla, una huida, una negociación, una decisión difícil, una prueba de supervivencia u otra clase de resolución; no todos los pisos necesitan una pelea final.
+- **Cierre y transición:** mostrar las consecuencias relevantes, cerrar los asuntos que corresponda y preparar la salida o transición al siguiente piso.
 
-Cada capítulo debe cumplir una función: hacer avanzar la situación, desarrollar un conflicto, mostrar una decisión, revelar información útil, cambiar una relación o producir una consecuencia.
+Los seis movimientos anteriores son una guía de ritmo, no seis secciones obligatorias ni cuotas de extensión. Los tercios no tienen que medir lo mismo. Se pueden combinar, ampliar, reducir o reordenar según el piso, siempre que la progresión resulte clara y coherente.
+
+**La regla esencial:** dos partes claras por piso, con libertad narrativa dentro de ellas. No inventar capítulos adicionales por cumplir una estructura anterior ni forzar una división que perjudique el ritmo.
+
+## 3. Plan previo de cada piso
+
+Antes de escribir la Parte 1, presentar un plan general del piso que incluya:
+
+- **Concepto y atractivo:** qué clase de mundo es y qué lo hace distinto.
+- **Objetivo o desafío central:** qué tendrán que afrontar los personajes y por qué importa.
+- **Reglas, peligros y descubrimientos:** qué deben averiguar, qué riesgos existen y qué límites son importantes. Diferenciar lo que sabe el autor de lo que saben los personajes.
+- **Parte 1:** función narrativa, progresión prevista, conflictos importantes y punto de cierre.
+- **Parte 2:** continuación, consecuencias, clímax previsto y forma posible de cerrar el piso.
+- **Coherencia con el canon:** cómo encaja el plan con las Reglas Maestras, el estado de Kevin y la continuidad previa.
+- **Incertidumbres relevantes:** decisiones que todavía requieren aprobación o datos que no deben darse por confirmados.
+
+El plan no necesita anticipar cada diálogo, movimiento o detalle. Debe ofrecer suficiente estructura para evitar contradicciones y relleno, pero conservar espacio para que la narración descubra soluciones naturales.
+
+Esperar la aprobación del usuario antes de comenzar a redactar el piso. Si el usuario pide cambios, ajustar el plan antes de escribir.
+
+Una vez aprobado, respetar su dirección general. Si durante la escritura aparece una razón narrativa importante para cambiar un elemento central, explicar brevemente el motivo y consultar antes de alterar el plan aprobado. Los ajustes menores que no cambien el canon ni el rumbo pueden resolverse durante la escritura.
+
+## 4. Forma de trabajar y señal «G» o «g»
+
+La escritura se entrega en **dos entregas principales por piso: Parte 1 y Parte 2**, no mediante una cadena obligatoria de capítulos numerados.
+
+- Al terminar de redactar la Parte 1, esperar la revisión del usuario.
+- Cuando el usuario responda **G** o **g**, significa: **«Me gustó; puedes avanzar a la siguiente parte prevista»**. En el método actual, normalmente autoriza pasar de la Parte 1 a la Parte 2.
+- No interpretar «g» como aprobación automática de acontecimientos futuros, del piso completo ni de cambios de canon que aún no se han presentado.
+- Si el usuario pide cambios, corregir la parte señalada antes de avanzar.
+- Al aprobar la Parte 2, se considera aprobada la narración de esa parte; después se prepara el resumen de cierre del piso y se actualizan los documentos que correspondan.
+
+Cada parte puede ser extensa y contener varios momentos narrativos. Si por razones prácticas conviene dividir la entrega de una parte en varios mensajes, esos mensajes siguen perteneciendo a la misma parte: no se convierten automáticamente en capítulos ni cambian la estructura del piso. Mantener claro qué parte se está escribiendo y dónde continúa.
+
+## 5. Ritmo y calidad narrativa
+
+Cada escena o secuencia debe cumplir una función: avanzar la situación, desarrollar un conflicto, mostrar una decisión, revelar información útil, cambiar una relación o producir una consecuencia.
 
 Evitar:
-- Alargar una exploración, conversación o combate que ya cumplió su propósito.
+
+- Alargar exploraciones, conversaciones o combates que ya cumplieron su propósito.
 - Repetir información que el lector ya entiende.
-- Añadir enemigos, problemas o desvíos solo para aumentar el número de capítulos.
+- Añadir enemigos, problemas o desvíos solo para aumentar la extensión.
 - Resolver demasiado rápido una situación cuya lógica necesita desarrollo.
-- Usar monólogos o explicaciones de sistema que no cambian lo que el personaje comprende o decide.
+- Usar monólogos o explicaciones del sistema que no cambien lo que el personaje comprende o decide.
+- Forzar todos los pisos a tener la misma estructura interna, el mismo tipo de amenaza o una batalla final.
 
-Los capítulos deben terminar en un punto narrativo natural. No todos necesitan un giro enorme o un cliffhanger.
+Los personajes deben aprender las reglas gradualmente. Sus hipótesis pueden ser equivocadas y sus conclusiones deben apoyarse en lo que hayan observado, probado, deducido razonablemente o recibido de una fuente.
 
-## 5. Enfoque narrativo, combate y progresión
+Los cortes entre la Parte 1 y la Parte 2 deben sentirse naturales. No es obligatorio terminar cada parte con un giro enorme o un cliffhanger; sí debe haber una razón narrativa para continuar.
+
+## 6. Enfoque narrativo, combate y progresión
 
 - Mantener el peligro real. Kevin puede equivocarse, perder recursos, sufrir lesiones o morir.
-- Los personajes solo conocen lo que han observado, aprendido, deducido razonablemente o recibido de una fuente.
-- Las estadísticas muestran capacidades; no sustituyen técnica, experiencia, percepción ni táctica.
+- Las estadísticas muestran capacidades; no sustituyen técnica, experiencia, percepción, táctica ni conocimiento del entorno.
 - Las mejoras de Kevin deben tener una causa comprensible y no aparecer automáticamente después de cada experiencia.
-- Antes de narrar un combate, definir internamente los enemigos, sus capacidades y límites, el terreno, el estado de los participantes y las condiciones relevantes.
+- Antes de narrar un combate, considerar las capacidades y límites de los enemigos, el terreno, el estado de los participantes y las condiciones relevantes.
 - Mostrar por qué una acción funciona o falla, sin describir cada golpe innecesariamente.
-- No hacer que un enemigo olvide sus capacidades ni introducir una amenaza arbitraria para cambiar el resultado.
+- No hacer que un enemigo olvide sus capacidades ni introducir una amenaza arbitraria solo para cambiar el resultado.
 - Mantener las consecuencias de heridas, agotamiento, recursos gastados, equipo dañado y decisiones.
 - Al entrar a un nuevo piso principal, restaurar la integridad física de los participantes vivos. Cambiar de escenario dentro del mismo piso no cura. Esta restauración no revive muertos ni repone recursos, y no elimina automáticamente agotamiento, hambre, sed, sueño perdido ni otras condiciones no corporales.
+- No confundir libertad creativa con permiso para ignorar las Reglas Maestras. Si una idea atractiva entra en conflicto con una regla, señalarlo y buscar una solución compatible o solicitar al usuario que confirme un cambio de canon.
 
-## 6. Cierre de un escenario y resumen final
+## 7. Cierre de un piso y resumen final
 
-Un escenario puede contener varios capítulos. **No se cierra ni se registra como terminado hasta que se haya escrito el último capítulo previsto y el usuario lo haya aprobado.**
+Un piso se considera terminado cuando la Parte 1 y la Parte 2 han sido redactadas y aprobadas por el usuario.
 
-Cuando se apruebe el último capítulo del escenario, entregar aparte un resumen final, breve y no narrativo, listo para copiar y guardar. Debe incluir:
+Después de aprobar la Parte 2, entregar aparte un resumen final **breve, no narrativo y listo para copiar y guardar**, que incluya:
 
-1. **Acontecimientos confirmados:** qué pasó realmente y cómo terminó el escenario.
-2. **Aprendizajes y descubrimientos:** qué entendió Kevin, qué sigue siendo una sospecha y qué desconoce.
-3. **Estado del grupo y de Kevin:** lesiones, agotamiento y otras condiciones vigentes.
-4. **Recursos y equipo:** qué se consiguió, gastó, perdió, dañó o conserva cuando sea relevante.
-5. **Consecuencias y cabos sueltos:** solo los que puedan afectar la continuación.
-6. **Punto de continuación:** dónde empieza el siguiente capítulo o escenario y qué situación inmediata debe respetarse.
+1. **Concepto y desarrollo:** qué caracterizó al piso y qué sucedió en sus dos partes.
+2. **Acontecimientos confirmados:** decisiones, descubrimientos y resultados que realmente ocurrieron.
+3. **Aprendizajes:** qué entendió Kevin, qué sigue siendo una sospecha y qué desconoce.
+4. **Estado de Kevin y del grupo:** lesiones, agotamiento y otras condiciones vigentes.
+5. **Recursos y equipo:** lo conseguido, gastado, perdido, dañado o conservado cuando sea relevante.
+6. **Consecuencias y cabos sueltos:** asuntos que puedan afectar pisos posteriores.
+7. **Punto de continuación:** situación al salir del piso y condiciones que deben respetarse al comenzar el siguiente.
 
-No mezclar propuestas descartadas con hechos confirmados. No inventar cambios de estado para llenar el resumen. Si algo no cambió, omitirlo o indicar brevemente que sigue igual.
+No mezclar propuestas descartadas con hechos confirmados. No inventar cambios de estado para llenar el resumen. Si algo no cambió, omitirlo o indicar brevemente que sigue igual. El resumen se entrega aparte de la narración; no se inserta dentro de la historia.
 
-El resumen final se entrega aparte de la narración; no reemplaza ni se inserta dentro del capítulo.
+## 8. Actualización de los documentos
 
-## 7. Actualización de los documentos
-
-- **`03-CONTINUIDAD-ACTUAL.txt`:** actualizarlo cuando un escenario completo haya sido aprobado. Debe conservar el panorama general de cada piso y un apartado por escenario con acontecimientos, aprendizajes, decisiones, recursos, amenazas, consecuencias, estado relevante y punto de continuación. Si un escenario tiene tres capítulos, el registro definitivo del escenario se actualiza al cerrar y aprobar el tercero, no después de cada capítulo.
+- **`03-CONTINUIDAD-ACTUAL.txt`:** actualizarlo al completar y aprobar el piso. Mantener un panorama general y un apartado para cada piso, con resumen de sus dos partes, acontecimientos confirmados, aprendizajes, decisiones, recursos, amenazas, consecuencias, estado relevante y punto de continuación. No crear una continuidad definitiva a partir de una parte aún no aprobada.
 - **`02-KEVIN.txt`:** actualizarlo solo cuando cambie de forma duradera el estado real de Kevin: capacidades físicas, técnicas aprendidas, dominio, conocimientos confirmados, heridas, condiciones, equipo, recursos y consecuencias persistentes. Separar hechos de sospechas. Si Kevin no cambió, no inventar cambios.
-- **`01-REGLAS-MAESTRAS.txt`:** modificarlo solo cuando el usuario lo autorice o confirme un cambio de reglas. No cambiar reglas para justificar retroactivamente una escena.
-- **Este método:** modificarlo solo cuando el usuario lo solicite o confirme una nueva norma de trabajo.
+- **`01-REGLAS-MAESTRAS.txt`:** modificarlo solo cuando el usuario autorice o confirme un cambio de reglas. No cambiar reglas para justificar retroactivamente una escena.
+- **Este método:** modificarlo cuando el usuario solicite o confirme una nueva norma de trabajo.
 
-Los cambios provisionales pueden señalarse durante el desarrollo, pero no deben registrarse como canon definitivo hasta que el escenario esté completo y aprobado. Mantener la diferencia entre propuesta, borrador, capítulo aprobado y escenario cerrado.
+Los cambios provisionales pueden señalarse durante el desarrollo, pero no deben registrarse como canon definitivo hasta que corresponda. Mantener clara la diferencia entre propuesta, plan aprobado, narración aprobada y piso cerrado.
 
-## 8. Cómo retomar el proyecto en otro chat
+## 9. Cómo retomar el proyecto en otro chat
 
 Al retomar UMBRAL, leer los cuatro documentos de referencia y comprobar el último punto de continuidad. Identificar:
 
-- El último escenario cerrado y aprobado.
-- El capítulo siguiente que corresponde según el plan vigente.
+- El último piso cerrado y aprobado.
+- Si la siguiente tarea es planificar un piso nuevo, continuar una parte pendiente o revisar algo ya escrito.
 - El estado actual de Kevin y las condiciones del grupo.
 - Los hechos confirmados, las sospechas y los asuntos pendientes.
 - Las reglas que afectan directamente a la próxima escena.
 
-No empezar de cero ni asumir que el chat anterior es la única fuente de continuidad. Si falta un dato imprescindible o los archivos no permiten determinar con seguridad el siguiente paso, preguntar antes de inventarlo.
+No empezar de cero ni asumir que el chat anterior es la única fuente de continuidad. Si falta un dato imprescindible o los archivos no permiten determinar con seguridad el siguiente paso, preguntar antes de inventarlo. No empezar a diseñar o escribir un piso nuevo hasta que el usuario lo indique.
 
-## 9. Uso de GitHub
+## 10. Uso de GitHub
 
 - Verificar el contenido actual de un archivo antes de modificarlo.
 - No afirmar que un archivo se actualizó hasta recibir confirmación de la operación.
 - No modificar ni borrar capítulos narrativos existentes sin autorización expresa.
 - La continuidad antigua que pertenece a una versión descartada no debe reconstruirse a partir de esa historia.
-- Tras el primer escenario nuevo, crear o actualizar la continuidad únicamente con los hechos de la reescritura que hayan sido aprobados.
-- Después del cierre de un escenario, actualizar solo los documentos que correspondan según la sección 7.
+- Tras completar y aprobar el primer piso de la nueva versión, crear o actualizar la continuidad únicamente con los hechos aprobados de la reescritura.
+- Después de cerrar cada piso, actualizar solo los documentos que correspondan según la sección 8.
 - No crear registros adicionales que dupliquen información útil ya guardada en los cuatro documentos principales.
 
-**Regla práctica:** primero planificar el escenario y declarar su cantidad de capítulos; después escribir un capítulo a la vez; interpretar «g» como aprobación del capítulo actual y permiso para entregar el siguiente; y solo al aprobar el último capítulo, entregar el resumen y actualizar la continuidad.
+**Regla práctica:** diseñar y aprobar el plan general del piso; escribirlo en dos partes largas; usar «g» para aprobar la parte recibida y avanzar a la siguiente; y, una vez aprobada la Parte 2, entregar el resumen final y actualizar los documentos correspondientes.
