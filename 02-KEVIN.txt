@@ -1,0 +1,30 @@
+UMBRAL — KEVIN
+Ficha breve del protagonista. Mantener solo información útil para escribir la siguiente escena.
+
+IDENTIDAD
+- Nombre: Kevin.
+- Edad establecida: 30 años.
+- Perfil: superviviente prudente y observador. Tiende a analizar antes de actuar, pero puede decidir rápido cuando identifica una oportunidad concreta. No es infalible; puede equivocarse, agotarse, lesionarse o interpretar mal una situación.
+- Forma de combatir conocida: prioriza observar patrones, buscar aperturas y aprovechar el entorno antes que intercambiar golpes de frente.
+- Arma habitual conocida: lanza corta reforzada. Al final del escenario 1F quedó dañada y cayó lejos de él. No dar por hecho que la recuperó ni que sigue utilizable.
+
+ESTADO AL ÚLTIMO PUNTO NARRADO
+- Piso 1 completado; Kevin cruzó la transición al siguiente piso inconsciente.
+- Durante el combate final sufrió un impacto grave en el brazo y quedó inconsciente.
+- Según las reglas maestras, al entrar en un nuevo piso principal se restaura la integridad física de los participantes vivos. No asumir que la restauración devuelve automáticamente la conciencia ni elimina agotamiento, pérdidas de equipo u otros problemas no cubiertos por esa regla.
+- El grupo recibió una recompensa de equipo transferida al inventario, pero al final del capítulo 39 todavía no la había revisado.
+- No inventar su inventario exacto ni dar por recuperada la lanza sin una escena o dato que lo confirme.
+
+CAPACIDADES CONOCIDAS
+- [Espacio adicional]: adquirida en 1B. Permite almacenar y recuperar objetos según los límites de las reglas maestras. No tratarla como infinita ni permitir que materialice objetos dentro de enemigos. Su clasificación y límites particulares no deben ampliarse arbitrariamente.
+- [Núcleo de Articulación Fortificada]: obtenido en 1E. Ayuda al control postural y articular tras impactos o desequilibrios. No cura, no concede super fuerza ni inmunidad al daño.
+- [Respuesta bajo presión]: notificada al finalizar 1F. Favorece ejecutar movimientos deliberados bajo peligro inmediato. No elimina dolor, miedo, daño ni sustituye la percepción o el entrenamiento.
+
+APRENDIZAJE Y CONTINUIDAD
+- Su progreso debe mostrarse mediante observación, práctica, experiencia, errores y adaptación; no necesita niveles, puntos de experiencia ni un registro de cada técnica.
+- Registrar un aprendizaje solo cuando cambie de manera significativa sus decisiones o su forma de actuar.
+- Mantener consistencia entre lo que Kevin sabe, lo que ha visto y lo que solo sospecha. No darle conocimiento automático de reglas desconocidas.
+- Actualizar esta ficha únicamente cuando cambie algo relevante para la narración: estado, equipo importante, capacidad, aprendizaje duradero, objetivo o consecuencia pendiente.
+
+REGLA DE USO
+Esta ficha no es una biografía exhaustiva ni una lista de estadísticas. Si un dato no afecta las decisiones o la continuidad próxima, no hace falta registrarlo. Las reglas maestras prevalecen sobre esta ficha.
