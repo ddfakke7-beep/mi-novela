@@ -204,3 +204,47 @@ La progresión de Kevin debe registrarse a partir de hechos narrados y aprobados
 La hipótesis de que UMBRAL acelera el aprendizaje práctico forma parte de las reglas del mundo, pero Kevin todavía debe descubrir y comprobar ese efecto dentro de la narración. No presentarlo como conocimiento suyo hasta que existan experiencias suficientes para justificarlo. Su causa última y su posible relación con el propósito de UMBRAL siguen abiertas.
 
 Las rutas opcionales peligrosas pueden ofrecer oportunidades de progresión, recursos, información o ventajas, pero no tienen que aparecer en todos los escenarios. Antes de escribir, definir sus condiciones, riesgos y posibles resultados; evitar prometer recompensas que no estén justificadas por el diseño.
+
+## 12. Aplicación práctica: aprendizaje, desesperación y consecuencias
+
+### 12.1. Revisar el aprendizaje antes de repetir un conflicto
+
+Antes de escribir una situación que se parezca a un peligro, engaño, mecanismo o enfrentamiento anterior, comprobar qué experimentó Kevin y los demás personajes, qué conclusiones obtuvieron, qué método falló y qué cambiaron después. Las experiencias relevantes deben influir en sus decisiones futuras.
+
+No repetir un error ya comprendido solo para alargar una escena o forzar una complicación. Si un personaje vuelve a cometerlo, la narración debe mostrar una razón concreta: las condiciones cambiaron, el peligro es distinto, la información anterior resultó incompleta, la nueva estrategia también tiene un coste o el personaje no logra aplicar lo aprendido bajo presión. No confundir aprendizaje con infalibilidad: una persona puede actuar con más cuidado y aun así equivocarse o fracasar.
+
+### 12.2. Diseñar decisiones desesperadas sin convertir a Kevin en héroe
+
+Cuando Kevin se arriesgue, definir qué intenta conseguir, qué alternativas reales tiene, qué sabe y qué consecuencia teme. Su decisión puede responder a que quedarse quieto, retirarse o no intervenir ofrece una probabilidad de supervivencia todavía peor. No necesita actuar por nobleza, sacrificio o un deseo de salvar a los demás.
+
+Kevin puede elegir una opción desagradable, aceptar ayuda de alguien en quien no confía, abandonar un objetivo, aprovechar una oportunidad por interés propio o continuar a pesar del miedo. La escena debe permitir que sus motivos se entiendan sin obligarlo a explicarlos mediante discursos. No convertir automáticamente una decisión egoísta en crueldad ni una decisión arriesgada en heroísmo.
+
+### 12.3. Mantener el peligro más allá de lo que Kevin puede controlar
+
+Antes de resolver un enfrentamiento, valorar qué pueden hacer realmente todos los participantes, incluidos los enemigos y los personajes secundarios. Kevin no tiene que ser quien encuentre la solución ni quien aseste el golpe decisivo. Otra persona puede resolver el conflicto, salvarlo, cometer un error decisivo o fracasar por razones independientes de Kevin.
+
+No confundir sorpresa con arbitrariedad. Una criatura puede revelar una capacidad inesperada que no encaje con las observaciones previas de los personajes, sin que eso signifique que Kevin la subestimó. La capacidad debe ser compatible con la lógica del enemigo y, si cambia radicalmente el enfrentamiento, las consecuencias deben derivarse de ella de forma comprensible.
+
+Las oportunidades de huida o ataque deben surgir de acciones, limitaciones o condiciones ya establecidas. El enemigo no debe volverse convenientemente torpe, detenerse sin motivo ni regalar una abertura porque Kevin necesita sobrevivir. La oportunidad puede permitir solo escapar, y puede tener un coste.
+
+### 12.4. Planificar heridas graves según el resto del escenario
+
+Si Kevin u otro personaje sufre una herida importante, decidir cómo afecta al resto de la secuencia antes de continuar escribiendo. Revisar movilidad, fuerza, precisión, concentración, velocidad, necesidad de ayuda, opciones de ruta y capacidad para afrontar amenazas. No describir una lesión como grave y luego permitir que el personaje actúe como si estuviera ileso.
+
+Si la herida ocurre temprano, debe cambiar el plan o convertirse en un factor central del resto del escenario; los objetivos pueden reducirse, algunas rutas dejar de ser viables y el personaje puede tener que evitar combates o depender de otros. Si ocurre cerca del final, la progresión previa debe justificar cómo alcanzó ese punto. No apilar amenazas incompatibles con su estado físico ni mantenerlo artificialmente al borde de la muerte durante todo el piso.
+
+Comprobar siempre la distancia y las condiciones que separan al personaje de un lugar de recuperación. Los escenarios con letra no curan al pasar de uno a otro; la restauración se aplica al entrar en un nuevo piso principal, conforme a las Reglas Maestras.
+
+### 12.5. Comprobación final de coherencia de una escena
+
+Antes de dar por terminada una escena importante, comprobar:
+
+- Qué sabe cada personaje a partir de experiencias anteriores y si sus decisiones reflejan ese conocimiento.
+- Si el error o la sorpresa tienen una causa comprensible y no contradicen hechos ya establecidos.
+- Qué opciones reales tiene Kevin y por qué elige una de ellas.
+- Si el resultado depende de capacidades, decisiones y circunstancias, en lugar de privilegios del protagonista.
+- Si las heridas, el agotamiento, los recursos perdidos y las consecuencias afectan las acciones posteriores.
+- Si el conflicto puede resolverse por otro personaje, terminar en retirada o dejar una pérdida sin que eso invalide la historia.
+- Si la escena cumple una función narrativa sin forzar una victoria, una lesión, un sacrificio ni una revelación.
+
+Estas comprobaciones son una herramienta interna de coherencia, no una lista que deba exponerse al lector ni una obligación de hacer que cada escena sea extrema. La intensidad debe responder a la situación concreta.
