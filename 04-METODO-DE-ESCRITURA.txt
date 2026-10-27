@@ -15,9 +15,9 @@ Los capítulos narrativos existentes sirven como referencia de lo que realmente 
 
 Si dos documentos se contradicen, no elegir en silencio cuál obedecer. Señalar la contradicción y resolverla antes de escribir. No afirmar que se consultó un archivo si no se pudo acceder a él.
 
-## 2. Estructura predeterminada: dos partes por piso
+## 2. Estructura flexible de cada piso
 
-Cada piso se desarrolla en **dos partes largas: Parte 1 y Parte 2**. Esta es la estructura de trabajo predeterminada para reducir la fragmentación y permitir que cada piso se sienta como un mundo completo.
+La estructura se adapta al contenido real. **El Piso 1 y el Piso 2 pueden ser más breves y resolverse en una sola parte si su historia no necesita más.** Ningún piso debe alargarse ni recibir escenas de relleno solo para cumplir una cuota. Cuando el contenido lo justifique, puede organizarse en dos partes largas, Parte 1 y Parte 2; esta división es una herramienta, no una obligación.
 
 No se establece una cantidad fija de capítulos pequeños. Cada parte puede contener las escenas, secuencias, diálogos, exploración, conflictos y enfrentamientos que necesite la historia. La división en dos partes organiza el desarrollo, no limita la extensión ni obliga a terminar cada escena con un corte artificial.
 
@@ -63,10 +63,10 @@ Una vez aprobado, respetar su dirección general. Si durante la escritura aparec
 
 ## 4. Forma de trabajar y señal «G» o «g»
 
-La escritura se entrega en **dos entregas principales por piso: Parte 1 y Parte 2**, no mediante una cadena obligatoria de capítulos numerados.
+La escritura se entrega en las partes que realmente necesite el piso: puede ser una sola parte o dos partes principales. No se usa una cadena obligatoria de capítulos numerados.
 
 - Al terminar de redactar la Parte 1, esperar la revisión del usuario.
-- Cuando el usuario responda **G** o **g**, significa: **«Me gustó; puedes avanzar a la siguiente parte prevista»**. En el método actual, normalmente autoriza pasar de la Parte 1 a la Parte 2.
+- Cuando el usuario responda **G** o **g**, significa: **«Me gustó; puedes avanzar al siguiente paso previsto»**. Si el piso necesita Parte 2, normalmente autoriza pasar de Parte 1 a Parte 2. Si el piso está planteado como una sola parte, preparar su resumen de continuidad y revisar las actualizaciones documentales correspondientes.
 - No interpretar «g» como aprobación automática de acontecimientos futuros, del piso completo ni de cambios de canon que aún no se han presentado.
 - Si el usuario pide cambios, corregir la parte señalada antes de avanzar.
 - Al aprobar la Parte 2, se considera aprobada la narración de esa parte; después se prepara el resumen de cierre del piso y se actualizan los documentos que correspondan.
@@ -152,4 +152,4 @@ No empezar de cero ni asumir que el chat anterior es la única fuente de continu
 - Después de cerrar cada piso, actualizar solo los documentos que correspondan según la sección 8.
 - No crear registros adicionales que dupliquen información útil ya guardada en los cuatro documentos principales.
 
-**Regla práctica:** diseñar y aprobar el plan general del piso; escribirlo en dos partes largas; usar «g» para aprobar la parte recibida y avanzar a la siguiente; y, una vez aprobada la Parte 2, entregar el resumen final y actualizar los documentos correspondientes.
+**Regla práctica:** diseñar y aprobar el plan general del piso; escribir solo la extensión que necesite; usar «g» para aprobar la entrega recibida y avanzar al siguiente paso previsto; y, al cerrar cada escenario, entregar su resumen de continuidad y actualizar los documentos correspondientes.
