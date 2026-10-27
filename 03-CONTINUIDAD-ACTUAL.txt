@@ -29,7 +29,14 @@ Crear una entrada nueva por cada escenario terminado y aprobado. Mantener los re
 - **Consecuencias y asuntos pendientes:**
 - **Punto exacto de continuación:**
 
-## 3. Reglas de mantenimiento
+## 3. Grupo y personajes con seguimiento
+
+- Registrar la party o grupo actual cuando exista: quién viaja con Kevin, qué vínculo o motivo los mantiene juntos y si alguien se ha separado o incorporado.
+- Llevar seguimiento continuado solo de personajes que probablemente reaparezcan, viajen con Kevin o mantengan objetivos, relaciones o consecuencias relevantes. La mayoría de personajes secundarios pueden ser pasajeros y no necesitan una ficha extensa.
+- Mantener un máximo orientativo de diez personajes con seguimiento activo en total, incluyendo a Kevin. No es una obligación de crear diez ni una cuota de personajes; es un límite práctico para evitar que la continuidad se vuelva difícil de mantener.
+- Los datos compactos de los personajes recurrentes se guardan principalmente en `02-KEVIN.txt`, en el apartado de grupo y personajes recurrentes. Este archivo registra qué ocurrió y dónde quedó cada uno cuando sea relevante; no duplicar fichas completas aquí.
+
+## 4. Reglas de mantenimiento
 
 - Registrar solo acontecimientos de la nueva versión que hayan sido aprobados.
 - No rellenar apartados con suposiciones ni convertir hipótesis de personajes en hechos del mundo.
@@ -37,4 +44,5 @@ Crear una entrada nueva por cada escenario terminado y aprobado. Mantener los re
 - Conservar decisiones, consecuencias, recursos y conocimientos que afecten escenas futuras; omitir detalles menores que no cambien nada.
 - Si aparece una contradicción con las Reglas Maestras, detenerse y señalarla en vez de corregirla silenciosamente.
 - Actualizar el panorama general solo cuando un escenario aprobado cambie el estado global de la historia.
-- La ficha de Kevin registra sus características y cambios duraderos; esta continuidad registra lo ocurrido y el punto narrativo desde el que se debe seguir.
+- La ficha de Kevin registra sus características, cambios duraderos y un seguimiento compacto de la party/personajes recurrentes vinculados a la continuidad; esta continuidad registra lo ocurrido y el punto narrativo desde el que se debe seguir.
+- Los escenarios no se convierten en canon definitivo ni se registran como aprobados hasta que el usuario acepte expresamente incorporarlos al canon.
