@@ -1,6 +1,6 @@
 # UMBRAL — FICHA DE KEVIN
 
-**Estado:** ficha inicial en construcción para la nueva versión. El escenario introductorio del Piso 1 está aprobado; no se han establecido todavía capacidades, equipo ni estadísticas.
+**Estado:** ficha inicial en construcción para la nueva versión. Los escenarios Piso 1 — «El precio de existir» y Piso 1A — «Aprender las reglas» están aprobados. Kevin cruzó las losas y abrió la puerta final; no se han establecido capacidades, equipo ni estadísticas.
 **Regla:** no heredar datos de versiones anteriores. Completar cada apartado solo cuando se establezca en la nueva historia. No inventar información para llenar espacios.
 
 ## 1. Identidad
@@ -46,7 +46,7 @@ Registrar únicamente capacidades realmente adquiridas en la nueva versión.
 ## 6. Conocimientos sobre UMBRAL
 - Hechos confirmados que conoce: vio un mensaje de UMBRAL que anuncia el inicio de la progresión, etapas pendientes y pruebas que deben superarse para avanzar; comprobó que una marca hundida en una puerta activa un mecanismo; al cruzar esa puerta apareció en una plataforma de piedra distinta, sin puerta de regreso visible.
 - Hipótesis o sospechas: el entorno parece conducir a los participantes mediante pruebas, pero aún no conoce el sistema ni sus reglas completas.
-- Reglas que todavía desconoce: funcionamiento de las losas suspendidas, condiciones para llegar a la puerta del otro extremo y consecuencias de superar o fallar la prueba.
+- Reglas que todavía desconoce: qué hay tras la puerta abierta y las consecuencias de continuar avanzando.
 - Cómo obtuvo la información relevante: mensaje visible y observación directa del espacio inicial, la puerta y la plataforma.
 
 ## 7. Equipo, objetos y recursos
@@ -65,11 +65,11 @@ Registrar únicamente capacidades realmente adquiridas en la nueva versión.
 - Compromisos, conflictos o consecuencias pendientes: está en una plataforma sin una puerta de regreso visible y debe averiguar cómo cruzar el trayecto.
 
 ## 9. Estado al punto de continuidad vigente
-- Ubicación y situación: plataforma de piedra en el Piso 1, frente a varias losas suspendidas sobre un vacío y una puerta al otro extremo.
+- Ubicación y situación: plataforma al otro extremo del trayecto de losas, ante la puerta abierta.
 - Estado físico: Kevin se ha despertado, se ha movido por el espacio inicial y ha cruzado la puerta. No se han narrado heridas ni lesiones, pero su condición física completa no está establecida.
 - Estado mental y emocional: está alerta y evalúa el riesgo; no se ha establecido una reacción emocional más específica.
-- Cambios recientes relevantes: ha visto el mensaje inicial de UMBRAL y ha comprobado que cruzar la puerta lo trasladó a otro espacio.
-- Decisión o acción inmediata pendiente: observar y averiguar cómo funcionan las losas antes de avanzar.
+- Cambios recientes relevantes: ha visto el mensaje inicial de UMBRAL, cruzado las losas mediante pruebas cautelosas y abierto la puerta del otro extremo.
+- Decisión o acción inmediata pendiente: observar la abertura de la puerta antes de cruzar.
 
 ## 10. Historial de cambios duraderos
 - Escenario / momento: Piso 1 — «El precio de existir».
