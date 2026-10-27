@@ -1,38 +1,38 @@
 # UMBRAL — FICHA DE KEVIN
 
-**Estado:** ficha inicial vacía para la nueva versión.  
+**Estado:** ficha inicial en construcción para la nueva versión.  
 **Regla:** no heredar datos de versiones anteriores. Completar cada apartado solo cuando se establezca en la nueva historia. No inventar información para llenar espacios.
 
 ## 1. Identidad
-- Nombre:
-- Edad:
-- Aspecto físico:
-- Lugar de origen:
-- Ocupación o actividad antes de UMBRAL:
-- Contexto personal relevante:
+- Nombre: Kevin.
+- Edad: 30 años.
+- Aspecto físico: pendiente de definir.
+- Lugar de origen: pendiente de definir.
+- Ocupación o actividad antes de UMBRAL: pendiente de definir.
+- Contexto personal relevante: protagonista inspirado en la forma de pensar y reaccionar del usuario; no asumir que su vida personal se traslada automáticamente al personaje.
 
 ## 2. Personalidad
-- Rasgos principales:
-- Fortalezas:
-- Debilidades:
-- Miedos o límites:
-- Motivaciones:
-- Forma de tomar decisiones:
-- Comportamiento bajo presión:
+- Rasgos principales: analítico, pragmático, muy desconfiado, cauteloso sin ser pasivo y selectivo con aquello que le importa.
+- Fortalezas: evalúa riesgos y oportunidades; compara alternativas; suele planificar antes de actuar cuando hay consecuencias importantes; puede elegir la opción más razonable aunque no sea la que desea.
+- Debilidades: no es especialmente valiente; su desconfianza puede dificultar que confíe en otros; calcular probabilidades no garantiza que tenga toda la información ni que su evaluación sea correcta.
+- Miedos o límites: no establecidos todavía. No asumir cobardía ni ausencia de miedo.
+- Motivaciones: pendientes de definir dentro de la historia.
+- Forma de tomar decisiones: cuando algo le importa de verdad, sopesa los riesgos, compara las probabilidades de éxito y elige la alternativa que considera más razonable, incluso si no es su preferida. No planifica todo al cien por cien y también puede actuar directamente.
+- Comportamiento bajo presión: si la situación lo afecta personalmente, se la toma en serio y piensa con cuidado en las opciones disponibles. Ante asuntos que considera poco importantes, puede bromear o mostrar indiferencia. No es necesariamente tranquilo y puede equivocarse al evaluar una situación.
 
 ## 3. Conocimientos y experiencia iniciales
-- Conocimientos cotidianos relevantes:
-- Experiencia física o práctica:
-- Habilidades previas:
-- Limitaciones iniciales:
-- Cosas que desconoce:
+- Conocimientos cotidianos relevantes: pendientes de definir.
+- Experiencia física o práctica: pendiente de definir.
+- Habilidades previas: no establecidas.
+- Limitaciones iniciales: no establecidas.
+- Cosas que desconoce: las reglas de UMBRAL al inicio, hasta que la historia demuestre qué información obtiene.
 
 ## 4. Estado inicial
-- Condición física:
-- Estado mental y emocional:
-- Lesiones o condiciones previas:
-- Estadísticas iniciales (solo cuando se definan):
-- Otros datos relevantes:
+- Condición física: pendiente de definir.
+- Estado mental y emocional: pendiente de definir.
+- Lesiones o condiciones previas: pendientes de definir.
+- Estadísticas iniciales (solo cuando se definan): pendientes.
+- Otros datos relevantes: ninguno establecido todavía.
 
 ## 5. Capacidades y progresión adquiridas
 Registrar únicamente capacidades realmente adquiridas en la nueva versión.
@@ -90,5 +90,5 @@ Añadir solo cambios que deban recordarse en escenas futuras.
 - No registrar cada acción menor; guardar lo que afecte de forma duradera su conducta, sus capacidades, su estado, sus recursos o las decisiones futuras.
 - Aunque el archivo se llame ficha de Kevin, también puede contener un registro compacto de los miembros de su party y de otros personajes recurrentes necesarios para mantener la continuidad. No convertirlo en una enciclopedia de cada persona que aparezca.
 - Mantener como máximo orientativo diez personajes con seguimiento activo en total, incluyendo a Kevin. Si hay más candidatos, priorizar a quienes viajan con Kevin, pueden reaparecer pronto o tienen consecuencias importantes. Los personajes pasajeros no necesitan ficha detallada; se pueden añadir al seguimiento si la trama hace que se vuelvan recurrentes.
-- Si un dato aún no se ha establecido, dejarlo en blanco.
+- Si un dato aún no se ha establecido, dejarlo en blanco o marcarlo como pendiente.
 - Las Reglas Maestras y la continuidad aprobada prevalecen sobre esta ficha si aparece una discrepancia; señalar la discrepancia antes de resolverla.
