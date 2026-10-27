@@ -549,3 +549,158 @@ Los genes no son mercancía común. Un comerciante ordinario no vende ni crea n�
 
 Un comerciante no puede resucitar personas, crear recursos ilimitados ni eliminar los riesgos de una prueba.
 
+# 13. PARTICIPANTES, COOPERACIÓN Y CONFLICTO
+
+## 13.1. Diferencias entre participantes
+
+Los participantes pueden tener capacidades, conocimientos, objetivos, equipo y recursos distintos. Pueden priorizar la cooperación, la supervivencia individual, la acumulación de bienes o metas personales.
+
+Las decisiones deben tener consecuencias. No todos los participantes tienen que actuar de manera altruista ni todos los conflictos deben resolverse mediante violencia.
+
+## 13.2. Cooperación
+
+La cooperación puede aportar información compartida, división de tareas, protección, control de amenazas y sinergias entre capacidades. No elimina el riesgo de error, las pérdidas ni los desacuerdos por el reparto de recursos.
+
+Cooperar no concede automáticamente una recompensa adicional; esa recompensa debe estar prevista por la prueba, la tabla o la evaluación de contribución.
+
+## 13.3. Conflicto entre participantes
+
+El enfrentamiento entre participantes es posible si la prueba o zona en cuestión no lo prohíbe expresamente. Cada escenario puede establecer zonas protegidas, restricciones de violencia o sanciones específicas.
+
+En ausencia de una prohibición local, el sistema no garantiza que los participantes se comporten de forma pacífica ni impide por defecto todo enfrentamiento. La violencia puede producir heridas, pérdida de objetos o muerte definitiva. Las consecuencias deben respetar las condiciones reales del lugar.
+
+## 13.4. Robo y pertenencias
+
+Un participante no puede tomar un objeto que otro conserva en su inventario mientras el propietario esté vivo, salvo que una capacidad o regla específica permita expresamente esa interacción. Los objetos físicos expuestos pueden ser robados si el entorno lo permite.
+
+Cuando alguien muere, se aplican las reglas del depósito de pertenencias, el cuerpo y los genes del apartado 2. El vencedor no recibe automáticamente todo mediante una transferencia invisible; debe recuperar los objetos físicamente o mediante un mecanismo autorizado.
+
+---
+
+# 14. INFORMACIÓN, DESCUBRIMIENTO Y REGLAS OCULTAS
+
+## 14.1. Regla real, conocimiento y teoría
+
+Deben distinguirse tres niveles: la regla real del mundo, la información que posee el personaje y la interpretación que el personaje hace de ella.
+
+Los participantes no conocen automáticamente todas las reglas de UMBRAL. Pueden observar datos, recibir información, experimentar y formular hipótesis correctas o equivocadas. Una hipótesis no se convierte en verdad por el simple hecho de que un personaje la crea.
+
+## 14.2. Información del sistema
+
+El sistema puede mostrar información parcial sobre pruebas, criaturas, objetos o capacidades. La ficha interna determina qué datos revela y qué mantiene oculto.
+
+Si el sistema comunica un dato preciso, ese dato sigue siendo válido salvo que exista una explicación explícita, como engaño, interferencia, información obsoleta o una anomalía definida. No se puede ignorar información ya revelada solo porque complique una escena.
+
+## 14.3. Descubrimientos
+
+Los descubrimientos pueden surgir de observación, experimentación, comparación de resultados, cooperación o reconocimiento de patrones. La historia no necesita explicar todas las reglas inmediatamente, pero debe ofrecer hechos compatibles con ellas.
+
+Una prueba no tiene que revelar de antemano cada condición; sí debe permitir que sus resultados sean coherentes con las condiciones reales. Un descubrimiento puede cambiar la estrategia de un personaje sin volver inútiles todas las diferencias de poder.
+
+## 14.4. Reglas ocultas y anomalías
+
+Una regla oculta puede producir sorpresa, pero debe existir antes de provocar sus consecuencias. Una anomalía puede romper un patrón ordinario solo en la medida en que sus propias reglas lo permitan.
+
+Una anomalía no es permiso para hacer cualquier cosa. No puede utilizarse para introducir retrospectivamente una habilidad, multiplicar recompensas, eliminar costes o evitar una consecuencia fundamental. Si una anomalía realmente modifica una regla general flexible, su efecto debe estar acotado y registrarse.
+
+---
+
+# 15. REGLAS UNIVERSALES CONTRA ABUSOS
+
+## 15.1. No hay efectos ilimitados por interpretación
+
+Una capacidad solo hace lo que su ficha permite explícitamente o lo que se desprende directamente de su efecto principal sin contradecir sus límites. El nombre de la capacidad no concede ventajas adicionales.
+
+## 15.2. No hay duplicación
+
+Un objeto, núcleo genético, recompensa física o recurso solo puede existir y recuperarse una vez, salvo que una regla de creación lo produzca de forma independiente y cobre sus costes. Saquear, copiar, guardar, fusionar, fabricar, reparar o comerciar no duplica recursos por defecto.
+
+## 15.3. No hay bucles de recursos gratuitos
+
+Ninguna combinación de fabricación, reparación, comercio, inventario, absorción, recompensa o transformación puede generar recursos netos infinitamente sin coste, requisito o límite. Si una interacción parece permitir un bucle, prevalece la interpretación que impide el beneficio infinito hasta que exista una regla específica que lo cierre.
+
+## 15.4. Los costes no desaparecen al combinar sistemas
+
+Una sinergia, pieza de equipo o mejora puede reducir un coste solo si lo indica expresamente. No puede reducirlo por debajo de cero, eliminar todos los costes de una capacidad o permitir activaciones consecutivas ilimitadas, salvo una regla concreta y limitada que siga respetando los límites fundamentales.
+
+## 15.5. Las condiciones importan
+
+Una capacidad condicional solo funciona cuando se cumple la condición. No basta con que el usuario desee activarla o que la escena requiera su efecto. Una capacidad que necesita espacio, contacto, concentración, preparación o un objetivo válido no ignora esos requisitos.
+
+## 15.6. No se multiplican recompensas por etiquetas
+
+Las etiquetas de una criatura o encuentro no generan recompensas acumulativas de manera automática. La cantidad de recompensas queda determinada por la tabla, la ficha o la condición expresa. Un jefe anómalo no concede automáticamente una recompensa por ser jefe y otra por ser anómalo si la regla de botín define una sola recompensa garantizada.
+
+## 15.7. No se reescriben los resultados retroactivamente
+
+Una regla, límite, coste, recompensa o condición no puede alterarse después de que los personajes actúen para forzar el resultado deseado. Si se descubre una regla nueva, debe explicar los hechos anteriores en vez de contradecirlos. Todo cambio genuino del funcionamiento del mundo se registra como un cambio, una evolución o un acontecimiento excepcional.
+
+## 15.8. Las excepciones tienen alcance limitado
+
+Una excepción debe establecer qué regla modifica, bajo qué condiciones, durante cuánto tiempo o con qué alcance, qué coste impone y qué no permite hacer. Una excepción no se extiende automáticamente a casos parecidos.
+
+Ninguna excepción, anomalía, habilidad, objeto, comerciante o prueba puede anular la muerte definitiva ni permitir la duplicación de una recompensa única.
+
+---
+
+# 16. REGISTROS COMPLEMENTARIOS
+
+## 16.1. Registro de capacidades
+
+Reúne las fichas de genes, pasivas y otras habilidades, con sus límites, compatibilidades, costes, mejoras y cambios confirmados. Cada capacidad debe tener una definición única.
+
+## 16.2. Registro de personajes
+
+Incluye capacidades realmente adquiridas, equipo, recursos relevantes, lesiones, condiciones, conocimientos confirmados y cambios narrativos. No se atribuye a un personaje una capacidad que todavía no haya obtenido.
+
+## 16.3. Registro de criaturas
+
+Describe frecuencia, nivel de amenaza, condición anómala, función de encuentro, habilidades, evolución y botín. Las diferentes etiquetas se registran por separado.
+
+## 16.4. Registro de objetos y equipo
+
+Incluye rareza, propiedades, requisitos, integridad, conjunto, bonificaciones, materiales, receta y reparaciones posibles.
+
+## 16.5. Registro de botín y economía
+
+Contiene las tablas de probabilidades, cantidades, fuentes de materiales, recompensas garantizadas, precios del sistema y condiciones de intercambio. Cada tabla debe aclarar cuándo se aplica cada probabilidad.
+
+## 16.6. Registro de pruebas y continuidad
+
+Incluye objetivo, restricciones, tiempo, condición de finalización, consecuencias, recompensas y reglas ocultas de cada prueba. El historial registra qué ocurrió realmente: heridas, pérdidas, objetos, genes, descubrimientos y decisiones.
+
+El historial no modifica por sí mismo las reglas maestras. Si un acontecimiento introduce una regla nueva, se registra por separado y se comprueba su compatibilidad antes de tratarla como válida.
+
+---
+
+# 17. LIBERTAD NARRATIVA Y DATOS QUE PUEDEN VARIAR
+
+Las reglas maestras no necesitan fijar de antemano el contenido de cada piso. Los siguientes datos pueden definirse en las fichas de cada elemento sin que ello constituya una contradicción:
+
+- Número total de pisos y diseño particular de cada uno.
+- Objetivos, mapas, peligros, temporizadores y consecuencias de cada prueba.
+- Especies, habilidades y patrones de criaturas concretas.
+- Valores exactos de precios, cantidades de materiales y probabilidades de tablas.
+- Tiempo y requisitos de recetas, fabricación, reparación y servicios.
+- Alcance, duración, coste y progresión específica de cada capacidad.
+- Forma en que los personajes descubren una regla y cuándo llegan a conocerla.
+
+Estos datos deben quedar definidos antes de que produzcan un resultado importante. No necesitan aparecer todos en la narración ni ser conocidos por los personajes, pero deben ser consistentes en las fichas de continuidad.
+
+Las reglas locales pueden añadir dificultad, restringir acciones o especificar parámetros. No pueden crear resurrección, duplicar una recompensa única, convertir un inventario finito en infinito ni hacer que una capacidad ignore sus propios límites.
+
+Si no existe una tabla o ficha para un caso, se aplica la regla general y se elige la interpretación que no conceda ventajas ilimitadas ni contradiga hechos establecidos. Cuando el detalle vaya a repetirse o afecte a una decisión importante, debe documentarse para futuras escenas.
+
+---
+
+# 18. CRITERIO FINAL DE APLICACIÓN
+
+Las reglas maestras describen cómo funciona UMBRAL. Las fichas de capacidades, criaturas, objetos, pruebas y servicios concretan esos principios sin contradecirlos.
+
+Cuando una situación no esté contemplada, primero se identifica el vacío y después se elige una solución compatible con las reglas existentes. Si la solución va a repetirse o cambiar de forma relevante el mundo, se incorpora al registro correspondiente.
+
+La historia conserva libertad para decidir qué pruebas existen, qué personajes aparecen, qué capacidades obtienen y qué consecuencias sufren. Esa libertad funciona dentro de un marco estable: los datos particulares pueden variar, pero las reglas fundamentales no cambian por conveniencia de una escena.
+
+**Principio fundamental:** UMBRAL permite sobrevivir mediante observación, adaptación, preparación, cooperación y comprensión de las reglas, pero ninguna estrategia garantiza la supervivencia. Los recursos son limitados, las capacidades tienen restricciones y los errores pueden tener consecuencias permanentes.
+
+**LA MUERTE ES DEFINITIVA. NO EXISTE RESURRECCIÓN NI RETORNO AUTOMÁTICO A NINGÚN ESCENARIO.**
