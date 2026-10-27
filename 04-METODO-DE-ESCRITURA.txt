@@ -67,9 +67,7 @@ Antes de escribir la Parte 1, presentar un plan general del piso que incluya:
 
 El plan no necesita anticipar cada diálogo, movimiento o detalle. Debe ofrecer suficiente estructura para evitar contradicciones y relleno, pero conservar espacio para que la narración descubra soluciones naturales.
 
-Esperar la aprobación del usuario antes de comenzar a redactar el piso. Si el usuario pide cambios, ajustar el plan antes de escribir.
-
-Una vez aprobado, respetar su dirección general. Si durante la escritura aparece una razón narrativa importante para cambiar un elemento central, explicar brevemente el motivo y consultar antes de alterar el plan aprobado. Los ajustes menores que no cambien el canon ni el rumbo pueden resolverse durante la escritura.
+El plan es una herramienta de trabajo del asistente, no una votación obligatoria. Después de presentarlo, el asistente puede continuar con la escritura según la petición del usuario y el flujo acordado, sin detenerse a pedir aprobación de cada decisión de diseño. Puede ajustar el plan durante el desarrollo si encuentra una solución más coherente, siempre que no contradiga las Reglas Maestras ni los hechos ya confirmados. Si una decisión exige cambiar una regla general o un hecho de canon anterior, no puede hacerlo en silencio: debe señalar el conflicto y resolverlo de forma explícita antes de continuar.
 
 ## 4. Forma de trabajar, aprobación y señal «G» o «g»
 
