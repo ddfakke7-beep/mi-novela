@@ -1,0 +1,40 @@
+# UMBRAL — CONTINUIDAD ACTUAL
+
+**Estado:** plantilla inicial de la nueva versión. Todavía no contiene acontecimientos narrativos confirmados.  
+**Regla:** no importar ni reconstruir la continuidad de versiones anteriores. Añadir información solo después de que el escenario correspondiente haya sido escrito y aprobado.
+
+## 1. Panorama general confirmado
+
+- **Punto actual de la historia:**
+- **Piso o entorno actual:** pendiente de establecer.
+- **Personajes presentes y estado general:** pendiente de establecer.
+- **Objetivo o situación inmediata:** pendiente de establecer.
+- **Consecuencias vigentes de escenarios anteriores:** todavía no hay registros.
+- **Asuntos pendientes importantes:** pendiente de establecer.
+
+## 2. Registro de continuidad por escenario
+
+Crear una entrada nueva por cada escenario terminado y aprobado. Mantener los registros en orden cronológico. El resumen más reciente es el punto operativo de partida para continuar la escritura.
+
+### Escenario [identificación pendiente]
+
+- **Piso / escenario:**
+- **Nombre o título de trabajo:**
+- **Eslogan exacto (si existe):**
+- **Desarrollo confirmado:**
+- **Descubrimientos y reglas:** separar hechos confirmados, sospechas de los personajes y aspectos desconocidos.
+- **Kevin:** estado físico y mental, decisiones, aprendizajes duraderos y cambios relevantes.
+- **Grupo y relaciones:** cambios que importen para la historia.
+- **Equipo y recursos:** objetos obtenidos, gastados, perdidos, dañados, conservados o de ubicación incierta.
+- **Consecuencias y asuntos pendientes:**
+- **Punto exacto de continuación:**
+
+## 3. Reglas de mantenimiento
+
+- Registrar solo acontecimientos de la nueva versión que hayan sido aprobados.
+- No rellenar apartados con suposiciones ni convertir hipótesis de personajes en hechos del mundo.
+- Incluir secundarios solo si son relevantes para la continuidad o pueden reaparecer.
+- Conservar decisiones, consecuencias, recursos y conocimientos que afecten escenas futuras; omitir detalles menores que no cambien nada.
+- Si aparece una contradicción con las Reglas Maestras, detenerse y señalarla en vez de corregirla silenciosamente.
+- Actualizar el panorama general solo cuando un escenario aprobado cambie el estado global de la historia.
+- La ficha de Kevin registra sus características y cambios duraderos; esta continuidad registra lo ocurrido y el punto narrativo desde el que se debe seguir.
