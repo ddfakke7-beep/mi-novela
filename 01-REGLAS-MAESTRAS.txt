@@ -120,16 +120,20 @@ No es necesario explicar todas las reglas al lector de antemano. Deben mostrarse
 La historia debe equilibrar supervivencia, exploración, combate, aprendizaje, interacción, descanso y decisiones. Evitar tanto la exposición interminable como la acción sin lógica.
 
 **Principio central:** sobrevivir depende de observar, aprender, prepararse, adaptarse y decidir bajo presión. Ninguna estadística ni ventaja elimina el riesgo; los errores pueden tener consecuencias permanentes.
-## 11. Continuidad y registro obligatorio por escenario
+## 11. Aprobación, continuidad y actualización obligatoria por escenario
 
-Al terminar cada escenario, antes de continuar con el siguiente, se debe entregar al usuario un **resumen de continuidad breve, no narrativo y listo para copiar**. El resumen debe recoger los hechos aprobados, descubrimientos, conocimientos y sospechas de los personajes, cambios relevantes de Kevin y del grupo, equipo y recursos, consecuencias pendientes y el punto exacto desde el que continúa la historia. No mezclar propuestas descartadas con acontecimientos confirmados ni rellenar apartados con datos inventados.
+Al terminar de escribir todo el contenido acordado para un escenario —incluidas la Parte A y la Parte B cuando ambas formen parte de ese escenario—, detenerse y preguntar explícitamente al usuario si lo aprueba o si desea cambios. No dar el escenario por aprobado, no tratarlo como canon definitivo ni avanzar al siguiente escenario hasta recibir su aprobación. Si el usuario pide cambios, corregirlos y volver a solicitar aprobación.
 
-Después de entregar el resumen, se deben revisar y actualizar en GitHub estos dos documentos:
+**Solo después de la aprobación** se debe entregar un **resumen de continuidad breve, no narrativo y listo para copiar**. Debe recoger los hechos aprobados, descubrimientos, hechos que conocen los personajes y sospechas que mantienen separadas, cambios relevantes de Kevin y del grupo, equipo y recursos, consecuencias pendientes y el punto exacto desde el que debe continuar la historia. No mezclar propuestas descartadas con acontecimientos confirmados ni rellenar apartados con datos inventados.
 
-- **02-KEVIN.txt:** comprobar si el escenario produjo cambios duraderos en Kevin. Actualizar la ficha cuando haya cambios confirmados; si no hubo ninguno, no inventarlos ni forzar una modificación de contenido.
-- **03-CONTINUIDAD-ACTUAL.txt:** registrar el escenario recién terminado y aprobado, sus consecuencias vigentes y el punto de continuación. Mantener el panorama general actualizado cuando corresponda.
+Después de la aprobación, revisar y actualizar en GitHub, de forma obligatoria, estos documentos:
 
-La actualización debe reflejar únicamente lo ocurrido y aprobado. Si el escenario aún no ha sido aprobado, no registrar su contenido como continuidad definitiva. Si no se puede acceder a GitHub o falla una actualización, informar claramente al usuario; nunca afirmar que se guardó un cambio sin confirmación.
+- **02-KEVIN.txt:** revisar siempre la ficha y registrar el estado confirmado de Kevin al cierre del escenario, de forma que permita saber cómo inicia el siguiente. Incluir los cambios duraderos pertinentes en su condición física y mental, conocimientos, capacidades, equipo, recursos, relaciones u objetivos. Si un dato no cambió, no inventar un cambio ni modificarlo por obligación; comprobar que la ficha siga representando correctamente su estado vigente.
+- **03-CONTINUIDAD-ACTUAL.txt:** registrar siempre el escenario aprobado, sus hechos, descubrimientos, conocimientos y sospechas, consecuencias vigentes y punto exacto de continuación. Actualizar el panorama general cuando corresponda. Respetar la estructura existente del archivo.
+- **01-REGLAS-MAESTRAS.txt:** revisar si el escenario aprobado introdujo o confirmó una regla general, límite o mecánica que deba formar parte del funcionamiento del mundo. Actualizarlo solo si corresponde y el cambio está aprobado. Si una idea contradice una regla vigente, detenerse y consultarlo; no cambiar las reglas silenciosamente para justificar la trama.
+- **04-METODO-DE-ESCRITURA.txt:** modificarlo solo si el usuario aprueba un cambio en el procedimiento de trabajo.
+
+La actualización de los archivos pertinentes no sustituye el resumen que se entrega al usuario. Verificar cada operación y comunicar qué archivos se actualizaron. Si GitHub no está disponible, falta un archivo o falla una operación, informar el problema con claridad y preguntar cómo proceder cuando sea necesario; nunca afirmar que un cambio se guardó sin confirmación.
 
 La continuidad de la nueva versión empieza vacía. No se debe reconstruir ni importar automáticamente información de versiones anteriores.
 
