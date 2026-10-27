@@ -1,17 +1,16 @@
 # UMBRAL — CONTINUIDAD ACTUAL
 
-**Estado:** nueva versión en curso. Están aprobados los escenarios Piso 1 — «El precio de existir», Piso 1A — «Aprender las reglas», Piso 1B — «Los demás jugadores», Piso 1C — «La primera amenaza», Piso 1D — «El corredor de las compuertas» y Piso 1E — «La cámara de los supervivientes».
+**Estado:** nueva versión en curso. Están aprobados los escenarios Piso 1 — «El precio de existir», Piso 1A — «Aprender las reglas», Piso 1B — «Los demás jugadores», Piso 1C — «La primera amenaza», Piso 1D — «El corredor de las compuertas», Piso 1E — «La cámara de los supervivientes» y Piso 1F — «La cámara del eco».
 **Regla:** no importar ni reconstruir la continuidad de versiones anteriores. Añadir información solo después de que el escenario correspondiente haya sido escrito y aprobado.
 
 ## 1. Panorama general confirmado
 
-- **Punto actual de la historia:** Kevin, Vera, Darío y Saúl están en una cámara amplia de piedra junto a Mara y Esteban; Ivo permanece con Nora, que está herida. La puerta metálica de otra estancia quedó cerrada mediante una palanca y una barra encajada en una muesca. Kevin, Mara y Saúl exploraron una abertura al fondo y encontraron una estancia pequeña con una puerta de piedra y una placa hundida. Regresaron sin activar esa placa.
-- **Piso o entorno actual:** Piso 1, tras completar los escenarios aprobados Piso 1, Piso 1A, Piso 1B, Piso 1C, Piso 1D y Piso 1E. La puerta de piedra hallada al final de la exploración está prevista como acceso al escenario Piso 1F, pero aún no ha sido activada ni cruzada.
-- **Personajes presentes y estado general:** Kevin, Vera, Darío, Saúl, Mara y Esteban permanecen en la cámara. Ivo está junto a Nora. Ha habido cooperación puntual e intercambio de información, pero no existe una party formal ni un compromiso de viajar juntos.
-- **Objetivo o situación inmediata:** vigilar a Nora y permitir que los heridos descansen; después decidir si exploran la puerta de piedra que podría conducir al Piso 1F.
-- **Consecuencias vigentes:** Kevin conserva dolor en la rodilla y el hombro; no se ha confirmado una lesión nueva en 1E. Darío conserva el corte superficial en la parte exterior del muslo y dolor al mover la pierna. Nora tiene una herida en el costado con sangrado significativo y su estado futuro no está determinado; Vera aplicó presión y preparó un vendaje provisional. No hay restauración física entre escenarios del mismo piso.
-- **Asuntos pendientes importantes:** qué produce los golpes y sonidos detrás de la puerta metálica, si el mecanismo de retención resistirá más presión, qué hay tras la puerta de piedra y si conduce efectivamente al Piso 1F; evolución de la herida de Nora; si los supervivientes continuarán juntos. La criatura del escenario 1C sigue viva y la barra metálica que Kevin dejó caer continúa en aquella cámara.
-
+- **Punto actual de la historia:** Kevin, Vera, Darío, Saúl y Mara han atravesado la cámara del eco y entrado al Piso 2. Al cruzar la transición, Kevin y Darío recuperaron la integridad física: desaparecieron el dolor de rodilla y hombro de Kevin y el corte y dolor del muslo de Darío. El entorno del Piso 2 aún no se ha explorado en detalle.
+- **Piso o entorno actual:** Piso 2, tras completar Piso 1F — «La cámara del eco», que cerró la etapa inicial de la torre.
+- **Personajes presentes y estado general:** Kevin, Vera, Darío, Saúl y Mara cruzaron al Piso 2. Esteban permaneció en la cámara de supervivientes; Ivo se quedó con Nora, que seguía herida. No existe una party formal confirmada, aunque los cinco que cruzaron cooperaron durante la prueba.
+- **Objetivo o situación inmediata:** observar el nuevo entorno antes de avanzar y determinar qué condiciones y riesgos presenta.
+- **Consecuencias vigentes:** las lesiones corporales de Kevin y Darío fueron restauradas al entrar al nuevo piso. No se ha confirmado que esta transición cure agotamiento u otras condiciones no corporales. Nora quedó atrás con Ivo y su evolución continúa siendo desconocida.
+- **Asuntos pendientes importantes:** origen de los golpes y posible voz tras la puerta metálica de la cámara de supervivientes; estado futuro de Nora y de quienes se quedaron atrás; motivo por el que la criatura de la cámara del eco no cruzó el umbral; identidad y capacidades de esa criatura; naturaleza y reglas del Piso 2. La criatura del escenario 1C también sigue viva y la barra metálica que Kevin dejó caer continúa en aquella cámara.
 ## 2. Registro de continuidad por escenario
 
 ### Piso 1 — El precio de existir
@@ -122,6 +121,18 @@
 - **Equipo y recursos:** no se confirma que Kevin obtenga o conserve objetos nuevos. La barra metálica que Kevin recogió durante el enfrentamiento de 1C sigue en la cámara de la criatura. Las telas y el recipiente con agua pertenecen al grupo de supervivientes y se usaron parcialmente para atender a Nora; las cantidades restantes no están establecidas.
 - **Consecuencias y asuntos pendientes:** Kevin conserva dolor en rodilla y hombro; Darío conserva el corte superficial en el muslo. Nora permanece herida. La puerta metálica queda retenida por su mecanismo, pero no se conoce su resistencia ni el origen de los golpes. La criatura del escenario 1C sigue viva. No se confirmó botín, recompensa, mejora ni capacidad nueva.
 - **Punto exacto de continuación:** Kevin, Vera, Darío y Saúl están en la cámara amplia; Mara y Esteban permanecen con ellos, mientras Ivo está junto a Nora. Han acordado descansar y atender a los heridos antes de decidir si avanzan hacia la pequeña estancia con la puerta de piedra y la placa hundida, prevista como acceso al Piso 1F.
+
+### Piso 1F — La cámara del eco
+
+- **Piso / escenario:** Piso 1F, último escenario de la etapa inicial de la torre.
+- **Eslogan:** «No necesitas derrotar todo lo que te amenaza. Necesitas encontrar la manera de seguir adelante.»
+- **Desarrollo confirmado:** Kevin, Vera, Darío, Saúl y Mara activaron la placa hundida de la puerta de piedra y entraron en una enorme cámara con pilares separados, bloques caídos, zonas de sombra y una salida al otro extremo. Una criatura de cuerpo bajo y varias extremidades se desplazaba entre las estructuras y cambiaba de dirección. Kevin realizó pruebas limitadas con fragmentos de piedra; después de un impacto, la criatura se acercó a esa zona, pero no se confirmó cómo detectaba al grupo. Los cinco utilizaron coberturas discontinuas y modificaron su recorrido para evitar el contacto directo. La criatura se acercó rápidamente en un momento crítico, pero el grupo alcanzó la salida. La criatura se detuvo cerca del pilar final y no cruzó el umbral; el motivo sigue siendo desconocido. UMBRAL anunció que la etapa inicial estaba completada y habilitó el acceso al siguiente piso. Kevin, Vera, Darío, Saúl y Mara cruzaron al Piso 2.
+- **Hechos confirmados:** los obstáculos interrumpen la línea de visión y pueden condicionar el recorrido, pero no garantizan seguridad. La criatura puede cambiar de dirección. La placa hundida abre la puerta de piedra, que se desliza lateralmente. Al entrar al Piso 2, Kevin y Darío recuperaron la integridad física: desaparecieron el dolor de rodilla y hombro de Kevin y el corte y dolor del muslo de Darío.
+- **Hipótesis y desconocidos:** no se confirmó cómo detecta la criatura a los participantes, por qué cambió de dirección ni por qué se detuvo antes de cruzar la salida. Su especie, sentidos, capacidades, velocidad máxima y alcance de persecución siguen sin conocerse. El entorno y los desafíos del Piso 2 aún no se han explorado.
+- **Kevin:** observó y formuló hipótesis, pero tuvo que decidir con información incompleta. No adquirió poderes, estadísticas, técnicas, objetos ni recompensas. Sus lesiones corporales se restauraron al cruzar al Piso 2.
+- **Personajes y grupo:** Vera, Darío, Saúl y Mara cruzaron junto a Kevin. Los cinco cooperaron, pero no confirmaron una party formal. Esteban permaneció en la cámara de supervivientes; Ivo se quedó con Nora, cuya herida de costado y evolución siguen sin resolverse.
+- **Recursos y amenazas pendientes:** la criatura de la cámara del eco sigue viva. La criatura del escenario 1C también sigue viva y la barra metálica que Kevin dejó caer permanece en aquella cámara. No se confirmó que Kevin llevara consigo los fragmentos de piedra utilizados para las pruebas.
+- **Punto exacto de continuación:** Kevin, Vera, Darío, Saúl y Mara acaban de entrar al Piso 2. Deben observar el nuevo entorno antes de avanzar.
 
 ## 3. Grupo y personajes con seguimiento
 
