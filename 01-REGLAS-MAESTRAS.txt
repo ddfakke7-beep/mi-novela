@@ -139,10 +139,12 @@ Después de la aprobación, revisar y actualizar en GitHub, de forma obligatoria
 
 La actualización de los archivos pertinentes no sustituye el resumen que se entrega al usuario. Verificar cada operación y comunicar qué archivos se actualizaron. Si GitHub no está disponible, falta un archivo o falla una operación, informar el problema con claridad y preguntar cómo proceder cuando sea necesario; nunca afirmar que un cambio se guardó sin confirmación.
 
-La continuidad de la nueva versión empieza vacía. No se debe reconstruir ni importar automáticamente información de versiones anteriores.
+El canon vigente es exclusivamente el establecido en los documentos centrales actuales y en los escenarios que el usuario haya aprobado para esta versión. La continuidad anterior, los capítulos de versiones descartadas y la web antigua no son fuentes de canon y no deben reconstruirse, consultarse para completar vacíos ni importarse automáticamente. Esta regla no borra ni invalida los escenarios ya aprobados de la versión actual: deben conservarse y respetarse.
 
-## 12. Extensión flexible de los pisos
+## 12. Extensión flexible de los pisos y escenarios
 
-La extensión de un piso depende de lo que necesite su historia, no de una cuota fija. **El Piso 1 y el Piso 2 pueden ser más cortos y no necesitan dividirse obligatoriamente en Parte 1 y Parte 2** si su contenido no justifica esa extensión. Pueden resolverse en una sola parte o en un desarrollo más breve, siempre que se entiendan los acontecimientos, las decisiones, los desafíos y sus consecuencias.
+La extensión de cada piso y escenario depende de lo que necesite su historia, no de una cuota fija. Un piso puede contener uno o varios escenarios; no deben confundirse el piso completo y cada escenario concreto.
 
-Tampoco se debe alargar ningún otro piso solo para cumplir una estructura. Si un piso requiere dos partes largas, se escriben; si funciona mejor con una sola parte o una estructura más compacta, se adapta el método. La prioridad es la coherencia, el ritmo y el contenido real, no llenar una cantidad predeterminada de páginas o escenas.
+**Cada escenario narrativo debe entregarse exactamente en dos partes: Parte 1 y Parte 2**, según el procedimiento del documento `04-METODO-DE-ESCRITURA.txt`. Esta estructura no obliga a que las partes sean largas: el Piso 1 y el Piso 2, así como cualquier otro contenido que lo permita, pueden desarrollarse de forma compacta, sin relleno y con partes breves. No se puede resolver un escenario en una sola parte ni añadir una Parte 3 para compensar una planificación insuficiente.
+
+La prioridad es la coherencia, el ritmo y el contenido real. Si el desafío requiere más desarrollo, se ajustan la extensión y el punto de corte de las dos partes previstas, no el número de partes. Ningún piso debe alargarse solo para cumplir una cuota artificial de páginas, escenas o palabras.
