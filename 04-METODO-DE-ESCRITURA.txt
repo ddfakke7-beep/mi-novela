@@ -25,7 +25,12 @@ No fingir que se leyó un documento ni inventar el progreso. Buscar primero en e
 
 No crear una continuidad nueva ni declarar un escenario como aprobado sin autorización o evidencia clara. Si los documentos se contradicen, señalar la contradicción y resolverla antes de escribir.
 
-## 2. Estructura flexible de cada piso
+## 2. Estructura flexible de cada piso y exactamente dos partes por escenario
+
+**Cada escenario narrativo debe tener exactamente dos partes: Parte 1 y Parte 2. No añadir una Parte 3 ni una tercera entrega numerada para completar el mismo escenario.** La extensión no está limitada por una cuota fija: si el escenario necesita más desarrollo para resolver su desafío, se amplía la Parte 1 antes de escribirla o se desarrolla más la Parte 2, manteniendo la estructura de dos partes.
+
+Al planificar el escenario, diseñar desde el principio el cierre que ocurrirá en la Parte 2. La Parte 1 debe tener una extensión y un punto de corte adecuados para que la Parte 2 pueda llevar el conflicto hasta su resolución y cierre sin sentirse apresurada ni necesitar una parte adicional. Si durante el desarrollo se descubre que falta contenido para un cierre satisfactorio, ampliar o revisar las partes existentes; no dejar el escenario incompleto ni añadir una tercera parte.
+
 
 La estructura se adapta al contenido real. **El Piso 1 y el Piso 2 pueden ser más breves y resolverse en una sola parte si su historia no necesita más.** Ningún piso debe alargarse ni recibir escenas de relleno solo para cumplir una cuota. Cuando el contenido lo justifique, puede organizarse en dos partes largas, Parte 1 y Parte 2; esta división es una herramienta, no una obligación.
 
@@ -49,7 +54,7 @@ También puede organizarse en tres movimientos flexibles:
 - **Clímax y resolución:** llevar el conflicto principal del piso a su punto decisivo. Puede ser una batalla, una huida, una negociación, una decisión difícil, una prueba de supervivencia u otra clase de resolución; no todos los pisos necesitan una pelea final.
 - **Cierre y transición:** mostrar las consecuencias relevantes, cerrar los asuntos que corresponda y preparar la salida o transición al siguiente piso.
 
-Los seis movimientos anteriores son una guía de ritmo, no seis secciones obligatorias ni cuotas de extensión. Los tercios no tienen que medir lo mismo. Se pueden combinar, ampliar, reducir o reordenar según el piso, siempre que la progresión resulte clara y coherente.
+Los seis movimientos anteriores son una guía de ritmo, no seis secciones obligatorias ni cuotas de extensión. Los tercios no tienen que medir lo mismo. Se pueden combinar, ampliar, reducir o reordenar según el piso, siempre que la progresión resulte clara y coherente. La división externa del escenario, sin embargo, se mantiene siempre en Parte 1 y Parte 2; la Parte 2 debe cerrar el escenario completo.
 
 **La regla esencial:** usar solo las partes que la historia necesite. El Piso 1 y el Piso 2 pueden ser especialmente compactos. No inventar capítulos ni escenas para cumplir una estructura artificial ni forzar una división que perjudique el ritmo.
 
@@ -74,14 +79,14 @@ El plan es una herramienta de trabajo del asistente, no una votación obligatori
 La escritura se organiza según lo que necesite la historia. Un escenario puede contener Parte A y Parte B si ese es el plan acordado, pero no se debe añadir una parte solo para alargarlo. Los pisos 1 y 2 pueden ser especialmente breves o resolverse en una sola parte.
 
 - Antes de crear o continuar un escenario, leer los cuatro documentos obligatorios de la sección 1 y comprobar el último punto aprobado.
-- Entregar únicamente la parte o el contenido previsto y acordado. Al terminar una entrega intermedia, esperar la indicación del usuario antes de seguir.
+- Entregar únicamente la parte o el contenido previsto y acordado. Cada escenario se escribe en exactamente dos partes, Parte 1 y Parte 2. Al terminar la Parte 1, esperar la indicación del usuario antes de seguir; la Parte 2 debe contener el desarrollo restante y el cierre del escenario completo.
 - La señal **G/g** significa «apruebo esta entrega y puedes avanzar al siguiente paso previsto», no «apruebo automáticamente todo el escenario ni autorizo su incorporación al canon». Si todavía falta la Parte B acordada para completar el escenario, avanzar a ella según el plan; no registrar el escenario entero como aprobado hasta terminar el contenido acordado y preguntarlo explícitamente.
 - **Cuando se haya entregado todo lo acordado para el escenario**, preguntar de forma clara si el usuario acepta incorporarlo al canon o quiere cambios. No actualizar GitHub ni tratar el escenario como canon definitivo antes de esa aceptación. El usuario no necesita aprobar por separado los detalles creativos que el asistente resuelva dentro de las reglas.
 - Si el usuario pide cambios, corregir el contenido afectado y volver a preguntar si el escenario queda aprobado.
 - Después de la aprobación, entregar el resumen de continuidad y realizar las actualizaciones obligatorias indicadas en la sección 8. Si el escenario se compone de una sola parte, se aplica exactamente el mismo procedimiento.
 - La aprobación de un escenario no equivale a aprobar automáticamente el diseño de un piso nuevo ni autoriza cambios de canon que no se hayan consultado.
 
-Cada parte puede contener varios momentos narrativos. Si por razones prácticas conviene dividir una entrega en varios mensajes, esos mensajes siguen perteneciendo a la misma parte y no crean automáticamente nuevos escenarios. Mantener claro qué parte se está escribiendo y cuál es el punto de continuación.
+Cada parte puede contener varios momentos narrativos y ser tan extensa como necesite. Si por razones prácticas conviene dividir una entrega en varios mensajes, esos mensajes siguen perteneciendo a la misma parte y no crean automáticamente nuevas partes ni escenarios. Mantener claro qué parte se está escribiendo y cuál es el punto de continuación. Antes de presentar la Parte 1, comprobar que el plan deja espacio suficiente para resolver y cerrar el escenario en la Parte 2.
 
 ## 5. Ritmo y calidad narrativa
 
