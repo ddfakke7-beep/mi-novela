@@ -1,16 +1,16 @@
 # UMBRAL — CONTINUIDAD ACTUAL
 
-**Estado:** nueva versión en curso. Están aprobados los escenarios Piso 1 — «El precio de existir», Piso 1A — «Aprender las reglas», Piso 1B — «Los demás jugadores», Piso 1C — «La primera amenaza», Piso 1D — «El corredor de las compuertas», Piso 1E — «La cámara de los supervivientes» y Piso 1F — «La cámara del eco».
+**Estado:** nueva versión en curso. Están aprobados los escenarios Piso 1 — «El precio de existir», Piso 1A — «Aprender las reglas», Piso 1B — «Los demás jugadores», Piso 1C — «La primera amenaza», Piso 1D — «El corredor de las compuertas», Piso 1E — «La cámara de los supervivientes», Piso 1F — «La cámara del eco» y Piso 2 — «La pausa antes de la siguiente etapa».
 **Regla de canon:** este archivo es el registro operativo de los acontecimientos aprobados en la versión actual. La continuidad de versiones descartadas, los capítulos antiguos y la web antigua no son fuentes de canon y no deben reconstruirse ni importarse. Mantener todos los escenarios ya aprobados en esta versión y añadir nuevos acontecimientos solo después de que el escenario correspondiente haya sido escrito y aprobado.
 
 ## 1. Panorama general confirmado
 
-- **Punto actual de la historia:** Kevin, Vera, Darío, Saúl y Mara han atravesado la cámara del eco y entrado al Piso 2. Al cruzar la transición, Kevin y Darío recuperaron la integridad física: desaparecieron el dolor de rodilla y hombro de Kevin y el corte y dolor del muslo de Darío. El entorno del Piso 2 aún no se ha explorado en detalle.
-- **Piso o entorno actual:** Piso 2, tras completar Piso 1F — «La cámara del eco», que cerró la etapa inicial de la torre.
+- **Punto actual de la historia:** Kevin completó el periodo de doce horas en el Piso 2 y fue trasladado al escenario 2A. El grupo había pasado el periodo de recuperación junto y acordado compartir información y consultar las decisiones importantes, pero no confirmó una party formal. La posición exacta de Vera, Darío, Saúl y Mara al concluir el traslado no quedó descrita con detalle.
+- **Piso o entorno actual:** escenario 2A, tras completar Piso 2 — «La pausa antes de la siguiente etapa». El Piso 2 fue una zona de recuperación con permanencia obligatoria de doce horas.
 - **Personajes presentes y estado general:** Kevin, Vera, Darío, Saúl y Mara cruzaron al Piso 2. Esteban permaneció en la cámara de supervivientes; Ivo se quedó con Nora, que seguía herida. No existe una party formal confirmada, aunque los cinco que cruzaron cooperaron durante la prueba.
-- **Objetivo o situación inmediata:** observar el nuevo entorno antes de avanzar y determinar qué condiciones y riesgos presenta.
-- **Consecuencias vigentes:** las lesiones corporales de Kevin y Darío fueron restauradas al entrar al nuevo piso. No se ha confirmado que esta transición cure agotamiento u otras condiciones no corporales. Nora quedó atrás con Ivo y su evolución continúa siendo desconocida.
-- **Asuntos pendientes importantes:** origen de los golpes y posible voz tras la puerta metálica de la cámara de supervivientes; estado futuro de Nora y de quienes se quedaron atrás; motivo por el que la criatura de la cámara del eco no cruzó el umbral; identidad y capacidades de esa criatura; naturaleza y reglas del Piso 2. La criatura del escenario 1C también sigue viva y la barra metálica que Kevin dejó caer continúa en aquella cámara.
+- **Objetivo o situación inmediata:** observar el escenario 2A y determinar sus condiciones, reglas y riesgos sin dar por hecho que sus mecanismos se parecen a los de las pruebas anteriores.
+- **Consecuencias vigentes:** al entrar al Piso 2, las lesiones corporales de Kevin y Darío se restauraron. UMBRAL indicó una permanencia de doce horas y el traslado automático al escenario 2A al finalizar. Durante la exploración del Piso 2 no encontraron provisiones, equipo ni instalaciones médicas; no se confirmó que el hambre, la sed, la falta de sueño u otras condiciones no corporales se restauraran. Kevin, Vera, Darío, Saúl y Mara acordaron compartir información y decidir juntos los asuntos importantes por el momento, sin formalizar una party. Nora quedó atrás con Ivo y su evolución continúa siendo desconocida.
+- **Asuntos pendientes importantes:** reglas y desafíos del escenario 2A; ubicación y estado exactos de Vera, Darío, Saúl y Mara tras el traslado; origen de los golpes y posible voz tras la puerta metálica de la cámara de supervivientes; estado futuro de Nora y de quienes se quedaron atrás; motivo por el que la criatura de la cámara del eco no cruzó el umbral; identidad y capacidades de esa criatura. La criatura del escenario 1C también sigue viva y la barra metálica que Kevin dejó caer continúa en aquella cámara.
 ## 2. Registro de continuidad por escenario
 
 ### Piso 1 — El precio de existir
@@ -132,7 +132,17 @@
 - **Kevin:** observó y formuló hipótesis, pero tuvo que decidir con información incompleta. No adquirió poderes, estadísticas, técnicas, objetos ni recompensas. Sus lesiones corporales se restauraron al cruzar al Piso 2.
 - **Personajes y grupo:** Vera, Darío, Saúl y Mara cruzaron junto a Kevin. Los cinco cooperaron, pero no confirmaron una party formal. Esteban permaneció en la cámara de supervivientes; Ivo se quedó con Nora, cuya herida de costado y evolución siguen sin resolverse.
 - **Recursos y amenazas pendientes:** la criatura de la cámara del eco sigue viva. La criatura del escenario 1C también sigue viva y la barra metálica que Kevin dejó caer permanece en aquella cámara. No se confirmó que Kevin llevara consigo los fragmentos de piedra utilizados para las pruebas.
-- **Punto exacto de continuación:** Kevin, Vera, Darío, Saúl y Mara acaban de entrar al Piso 2. Deben observar el nuevo entorno antes de avanzar.
+- **Punto exacto de continuación:** Kevin ha sido trasladado al escenario 2A después de finalizar las doce horas de permanencia en el Piso 2. La prueba 2A aún no se ha desarrollado en la narración.
+
+### Piso 2 — La pausa antes de la siguiente etapa
+
+- **Piso / escenario:** Piso 2, zona de recuperación entre etapas.
+- **Título:** «La pausa antes de la siguiente etapa».
+- **Desarrollo confirmado:** Kevin, Vera, Darío, Saúl y Mara entraron al Piso 2 después de completar la cámara del eco. Al entrar, Kevin comprobó que ya no le dolían la rodilla ni el hombro; Darío verificó que su corte y el dolor del muslo habían desaparecido. UMBRAL identificó el lugar como zona de recuperación, fijó una permanencia de doce horas y anunció que al terminar serían trasladados al escenario 2A. Los cinco inspeccionaron las estancias accesibles, pero no encontraron provisiones, equipo ni instalaciones médicas, ni recibieron instrucciones adicionales. Kevin señaló que no debían asumir recursos ilimitados ni una recuperación de condiciones no físicas. Durante el descanso, acordaron compartir la información y consultar entre todos las decisiones importantes mientras cooperaran. Al finalizar el periodo, UMBRAL anunció el traslado; Kevin fue trasladado al escenario 2A.
+- **Hechos confirmados:** la entrada a un piso numerado restauró las lesiones corporales de Kevin y Darío; la zona estableció una permanencia obligatoria de doce horas; al finalizar, UMBRAL inició el traslado al escenario 2A. No se confirmó la restauración de hambre, sed, sueño, agotamiento u otras condiciones no corporales. No se encontraron recursos ni equipo en las zonas inspeccionadas.
+- **Grupo y relaciones:** Kevin, Vera, Darío, Saúl y Mara permanecieron juntos durante el periodo de recuperación y acordaron compartir información y consultar las decisiones importantes mientras cooperaran. No formalizaron una party.
+- **Recursos, capacidades y consecuencias:** Kevin no adquirió poderes, estadísticas, técnicas, objetos ni recompensas. No se confirmó que llevara recursos nuevos. La ubicación exacta de los otros cuatro al concluir el traslado no se detalló.
+- **Punto exacto de continuación:** Kevin acaba de llegar al escenario 2A. El escenario 2A todavía no ha sido desarrollado.
 
 ## 3. Grupo y personajes con seguimiento
 
