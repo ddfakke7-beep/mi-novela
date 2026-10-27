@@ -102,36 +102,39 @@ Los cortes entre la Parte 1 y la Parte 2 deben sentirse naturales. No es obligat
 - Al entrar a un nuevo piso principal, restaurar la integridad física de los participantes vivos. Cambiar de escenario dentro del mismo piso no cura. Esta restauración no revive muertos ni repone recursos, y no elimina automáticamente agotamiento, hambre, sed, sueño perdido ni otras condiciones no corporales.
 - No confundir libertad creativa con permiso para ignorar las Reglas Maestras. Si una idea atractiva entra en conflicto con una regla, señalarlo y buscar una solución compatible o solicitar al usuario que confirme un cambio de canon.
 
-## 7. Cierre de un piso y resumen final
+## 7. Continuidad por escenario
 
-Un piso se considera terminado cuando la Parte 1 y la Parte 2 han sido redactadas y aprobadas por el usuario.
+La continuidad de la nueva versión se registra y se cierra **por escenario**, no solo mediante un resumen global del piso. Cada resumen aprobado de escenario se convierte en el punto operativo de partida para continuar la escritura.
 
-Después de aprobar la Parte 2, entregar aparte un resumen final **breve, no narrativo y listo para copiar y guardar**, que incluya:
+Al terminar y aprobar un escenario, preparar un resumen breve, no narrativo y listo para copiar y guardar. Debe incluir, cuando corresponda:
 
-1. **Concepto y desarrollo:** qué caracterizó al piso y qué sucedió en sus dos partes.
-2. **Acontecimientos confirmados:** decisiones, descubrimientos y resultados que realmente ocurrieron.
-3. **Aprendizajes:** qué entendió Kevin, qué sigue siendo una sospecha y qué desconoce.
-4. **Estado de Kevin y del grupo:** lesiones, agotamiento y otras condiciones vigentes.
-5. **Recursos y equipo:** lo conseguido, gastado, perdido, dañado o conservado cuando sea relevante.
-6. **Consecuencias y cabos sueltos:** asuntos que puedan afectar pisos posteriores.
-7. **Punto de continuación:** situación al salir del piso y condiciones que deben respetarse al comenzar el siguiente.
+1. **Identificación:** piso y escenario, nombre o título de trabajo y eslogan exacto si existe.
+2. **Desarrollo confirmado:** qué ocurrió y cómo se resolvió o quedó el desafío.
+3. **Descubrimientos y reglas:** hechos confirmados, hipótesis de los personajes y aspectos todavía desconocidos, claramente diferenciados.
+4. **Kevin:** estado físico y mental relevante, decisiones, aprendizajes duraderos y cambios de conducta.
+5. **Grupo y relaciones:** cambios relevantes en los vínculos, cooperación, conflictos, separaciones o pérdidas.
+6. **Equipo y recursos:** objetos obtenidos, gastados, perdidos, dañados, conservados o de ubicación incierta.
+7. **Consecuencias y asuntos pendientes:** riesgos, promesas, heridas, conflictos o cabos sueltos que puedan influir después.
+8. **Punto de continuación:** dónde están los personajes, qué situación afrontan y desde qué hecho debe continuar la siguiente escena.
 
-No mezclar propuestas descartadas con hechos confirmados. No inventar cambios de estado para llenar el resumen. Si algo no cambió, omitirlo o indicar brevemente que sigue igual. El resumen se entrega aparte de la narración; no se inserta dentro de la historia.
+Incluir personajes secundarios solo cuando sean relevantes para la continuidad o exista una posibilidad razonable de que reaparezcan. No registrar cada acción menor ni convertir una sospecha en un hecho confirmado. Si un apartado no tiene información pertinente, se puede omitir o indicar que aún no está establecido.
+
+El resumen se entrega aparte de la narración; no se inserta dentro de la historia. No mezclar propuestas descartadas con acontecimientos aprobados ni inventar datos para completar la plantilla.
 
 ## 8. Actualización de los documentos
 
-- **`03-CONTINUIDAD-ACTUAL.txt`:** actualizarlo al completar y aprobar el piso. Mantener un panorama general y un apartado para cada piso, con resumen de sus dos partes, acontecimientos confirmados, aprendizajes, decisiones, recursos, amenazas, consecuencias, estado relevante y punto de continuación. No crear una continuidad definitiva a partir de una parte aún no aprobada.
-- **`02-KEVIN.txt`:** actualizarlo solo cuando cambie de forma duradera el estado real de Kevin: capacidades físicas, técnicas aprendidas, dominio, conocimientos confirmados, heridas, condiciones, equipo, recursos y consecuencias persistentes. Separar hechos de sospechas. Si Kevin no cambió, no inventar cambios.
+- **`03-CONTINUIDAD-ACTUAL.txt`:** mantener una plantilla de continuidad sin rellenar hasta que exista material aprobado de la nueva versión. Después, añadir el panorama general confirmado y un registro por cada escenario terminado y aprobado. Cada resumen de escenario debe conservar el punto exacto de continuación y las consecuencias vigentes. No crear resúmenes de acontecimientos que todavía no han ocurrido ni reconstruir la continuidad descartada.
+- **`02-KEVIN.txt`:** mantener una ficha inicial vacía hasta que se establezcan datos de Kevin en la nueva versión. Actualizarla cuando cambie de forma duradera su estado, capacidades, conocimientos, equipo, recursos, relaciones relevantes u objetivos. No heredar detalles de versiones anteriores.
 - **`01-REGLAS-MAESTRAS.txt`:** modificarlo solo cuando el usuario autorice o confirme un cambio de reglas. No cambiar reglas para justificar retroactivamente una escena.
 - **Este método:** modificarlo cuando el usuario solicite o confirme una nueva norma de trabajo.
 
-Los cambios provisionales pueden señalarse durante el desarrollo, pero no deben registrarse como canon definitivo hasta que corresponda. Mantener clara la diferencia entre propuesta, plan aprobado, narración aprobada y piso cerrado.
+Los cambios provisionales pueden señalarse durante el desarrollo, pero no deben registrarse como canon definitivo hasta que corresponda. Mantener clara la diferencia entre propuesta, plan aprobado, narración aprobada y continuidad confirmada.
 
 ## 9. Cómo retomar el proyecto en otro chat
 
 Al retomar UMBRAL, leer los cuatro documentos de referencia y comprobar el último punto de continuidad. Identificar:
 
-- El último piso cerrado y aprobado.
+- El último escenario aprobado y, cuando corresponda, el estado general del piso en curso.
 - Si la siguiente tarea es planificar un piso nuevo, continuar una parte pendiente o revisar algo ya escrito.
 - El estado actual de Kevin y las condiciones del grupo.
 - Los hechos confirmados, las sospechas y los asuntos pendientes.
@@ -145,7 +148,7 @@ No empezar de cero ni asumir que el chat anterior es la única fuente de continu
 - No afirmar que un archivo se actualizó hasta recibir confirmación de la operación.
 - No modificar ni borrar capítulos narrativos existentes sin autorización expresa.
 - La continuidad antigua que pertenece a una versión descartada no debe reconstruirse a partir de esa historia.
-- Tras completar y aprobar el primer piso de la nueva versión, crear o actualizar la continuidad únicamente con los hechos aprobados de la reescritura.
+- Tras completar y aprobar el primer escenario de la nueva versión, registrar su resumen de continuidad. Añadir cada escenario posterior cuando quede aprobado.
 - Después de cerrar cada piso, actualizar solo los documentos que correspondan según la sección 8.
 - No crear registros adicionales que dupliquen información útil ya guardada en los cuatro documentos principales.
 
