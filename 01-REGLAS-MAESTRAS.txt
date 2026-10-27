@@ -152,3 +152,24 @@ La extensión de cada piso y escenario depende de lo que necesite su historia, n
 **Cada escenario narrativo debe entregarse exactamente en dos partes: Parte 1 y Parte 2**, según el procedimiento del documento `04-METODO-DE-ESCRITURA.txt`. Esta estructura no obliga a que las partes sean largas: el Piso 1 y el Piso 2, así como cualquier otro contenido que lo permita, pueden desarrollarse de forma compacta, sin relleno y con partes breves. No se puede resolver un escenario en una sola parte ni añadir una Parte 3 para compensar una planificación insuficiente.
 
 La prioridad es la coherencia, el ritmo y el contenido real. Si el desafío requiere más desarrollo, se ajustan la extensión y el punto de corte de las dos partes previstas, no el número de partes. Ningún piso debe alargarse solo para cumplir una cuota artificial de páginas, escenas o palabras.
+
+
+## 13. Aclaración sobre el aprendizaje acelerado y la variedad de escenarios
+
+UMBRAL ofrece condiciones que pueden acelerar considerablemente el aprendizaje práctico y la adaptación de sus participantes en comparación con las condiciones habituales del mundo exterior.
+
+Mediante la práctica, la repetición, la observación, la experiencia y la corrección de errores, una persona puede desarrollar capacidades y dominar técnicas en un tiempo considerablemente menor del que normalmente necesitaría fuera de UMBRAL. La magnitud de esta aceleración depende de la capacidad que se intenta desarrollar, la calidad de la práctica, la experiencia previa y las dificultades individuales.
+
+Esta ventaja no concede conocimientos ni dominio automáticos. Comprender una técnica no equivale a ejecutarla correctamente; repetir una acción no garantiza aprenderla; y practicar en condiciones controladas no asegura desenvolverse igual bajo presión real.
+
+La progresión debe mostrarse mediante cambios observables en el desempeño, la consistencia, el criterio y la capacidad de adaptación. Los avances importantes necesitan una causa comprensible y deben respetar las limitaciones físicas, técnicas y cognitivas establecidas.
+
+La aceleración del aprendizaje no elimina el esfuerzo, los errores, el agotamiento ni el riesgo de sufrir lesiones o morir. Tampoco garantiza que todos los participantes progresen al mismo ritmo. Esta regla desarrolla la aceleración del desarrollo natural ya establecida en la sección 1; no introduce poderes, técnicas gratuitas ni una mecánica de adquisición automática de habilidades.
+
+Los escenarios deben variar en su conflicto central, sus desafíos y la manera de superarlos. La exploración y la investigación son recursos narrativos válidos, pero no deben convertirse en la solución predominante de todas las pruebas.
+
+Los escenarios pueden combinar combate, supervivencia, exploración, cooperación, decisiones difíciles y oportunidades de progresión. Cuando resulte apropiado, podrán incluir rutas opcionales más peligrosas que ofrezcan recompensas, recursos, información o ventajas concretas.
+
+Las oportunidades opcionales deben tener riesgos y condiciones definidos durante la planificación. No es obligatorio que toda ruta peligrosa proporcione una recompensa, ni que toda recompensa compense el riesgo asumido.
+
+La restauración física al entrar en un piso principal permite que los participantes consideren riesgos que de otro modo podrían evitar, pero no elimina el peligro durante los escenarios ni garantiza que sobrevivan hasta la siguiente recuperación.
