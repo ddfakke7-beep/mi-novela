@@ -186,3 +186,21 @@ No empezar de cero ni asumir que el chat anterior es la única fuente de continu
 - No crear registros adicionales que dupliquen información útil ya guardada en los cuatro documentos principales.
 
 **Regla práctica:** antes de crear un escenario, leer los cuatro documentos obligatorios; escribir solo la extensión que necesite la historia; terminar el contenido acordado y pedir aprobación; y solo después entregar el resumen, actualizar la continuidad, revisar la ficha de Kevin y modificar las reglas o el método únicamente cuando corresponda.
+
+## 11. Dirección narrativa: variedad, aprendizaje y progresión
+
+La historia debe desarrollar simultáneamente la supervivencia de Kevin, su progresión como persona y el misterio general de UMBRAL. Ninguna de estas líneas debe monopolizar permanentemente la narración.
+
+- **Supervivencia y acción:** incluir enfrentamientos, amenazas y decisiones con consecuencias reales cuando el escenario lo permita. Los combates deben tener una función narrativa y mostrar las capacidades, limitaciones y decisiones de quienes participan.
+- **Progresión práctica:** mostrar cómo Kevin mejora mediante la experiencia, el entrenamiento y la aplicación de lo aprendido. Los cambios deben ser graduales, observables y coherentes con su estado anterior.
+- **Investigación y descubrimiento:** utilizar mecanismos, anomalías y reglas desconocidas para aportar información, abrir posibilidades o cambiar decisiones. Evitar que varios escenarios consecutivos dependan principalmente de investigar el entorno y encontrar una salida.
+- **Oportunidades y riesgos:** considerar rutas opcionales, recursos escasos, enfrentamientos evitables y recompensas que puedan motivar decisiones arriesgadas. Las alternativas deben tener consecuencias comprensibles y no ser simples desvíos de relleno.
+- **Trama general:** procurar que los acontecimientos contribuyan, cuando corresponda, al desarrollo de Kevin, a sus relaciones, a su comprensión de UMBRAL o a los objetivos que vaya formando. No todos los escenarios necesitan resolver un misterio importante, pero el avance no debe limitarse a cambiar de piso.
+
+Estos criterios son orientaciones de diseño, no una cuota de combates, capítulos o recompensas. Cada escenario debe conservar su identidad propia y responder a las necesidades de la historia.
+
+La progresión de Kevin debe registrarse a partir de hechos narrados y aprobados, no adelantarse como si ya hubiera ocurrido. Cuando muestre una mejora, registrar qué podía hacer antes, qué práctica o experiencia produjo el cambio, qué puede hacer ahora con mayor capacidad o consistencia y qué límites conserva. No atribuirle conocimientos, técnicas ni capacidades que todavía no ha adquirido.
+
+La hipótesis de que UMBRAL acelera el aprendizaje práctico forma parte de las reglas del mundo, pero Kevin todavía debe descubrir y comprobar ese efecto dentro de la narración. No presentarlo como conocimiento suyo hasta que existan experiencias suficientes para justificarlo. Su causa última y su posible relación con el propósito de UMBRAL siguen abiertas.
+
+Las rutas opcionales peligrosas pueden ofrecer oportunidades de progresión, recursos, información o ventajas, pero no tienen que aparecer en todos los escenarios. Antes de escribir, definir sus condiciones, riesgos y posibles resultados; evitar prometer recompensas que no estén justificadas por el diseño.
