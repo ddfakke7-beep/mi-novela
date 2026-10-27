@@ -13,6 +13,18 @@
 
 Los cuatro archivos son complementarios: las Reglas Maestras limitan lo posible; la Continuidad establece lo sucedido; Kevin define el estado vigente del protagonista; y este método indica cómo trabajar. No sustituir uno por otro.
 
+### Comprobación obligatoria del escenario anterior
+
+Leer los cuatro documentos centrales no sustituye revisar el cierre narrativo aprobado que conecta con el escenario nuevo. Antes de diseñar o escribir la siguiente entrega:
+
+1. Identificar el escenario aprobado inmediatamente anterior y leer su registro completo en `03-CONTINUIDAD-ACTUAL.txt`.
+2. Comprobar cómo terminó ese escenario y qué ocurrió ya en su última escena: dónde están los personajes, si ya cruzaron una puerta o llegaron al piso siguiente, qué restauraciones o cambios se produjeron, quién está presente o quedó atrás y qué objetos conservan.
+3. Contrastar esos hechos con `02-KEVIN.txt` y las Reglas Maestras. Si hay una transición entre pisos, verificar qué parte de la transición ya se narró; no volver a escenificarla como si todavía no hubiera ocurrido.
+4. Abrir el nuevo escenario desde el estado confirmado al cierre anterior. No repetir escenas, retroceder en el tiempo, asumir que un acontecimiento aún está pendiente cuando ya sucedió ni introducir detalles incompatibles.
+5. Si la continuidad solo resume el resultado pero no permite comprobar un detalle decisivo, consultar el registro aprobado pertinente en los documentos centrales. Si el dato sigue sin estar disponible, conservarlo como desconocido o preguntarle al usuario antes de inventarlo.
+
+Esta comprobación es obligatoria aunque el escenario nuevo sea breve, aunque el usuario dé la señal `G/g` o aunque el asistente recuerde haber escrito el capítulo anterior. La memoria del chat no reemplaza el canon vigente.
+
 **Fuente de verdad del canon:** consultar los cuatro documentos centrales vigentes y los escenarios de esta versión que el usuario haya aprobado. La continuidad actual y la ficha de Kevin registran los hechos ya establecidos; las Reglas Maestras fijan los límites del mundo; este documento fija el procedimiento. No consultar capítulos narrativos de versiones descartadas ni la web antigua para reconstruir, completar o corregir el canon. Solo usar material externo a estos documentos si el usuario lo identifica expresamente como parte del canon vigente. Si falta un dato, mantenerlo como desconocido o preguntar cuando sea imprescindible; nunca rellenarlo con recuerdos de la versión antigua.
 
 ### Si falta un archivo o no se puede determinar la continuidad
