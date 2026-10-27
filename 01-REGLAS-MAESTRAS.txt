@@ -173,3 +173,41 @@ Los escenarios pueden combinar combate, supervivencia, exploración, cooperació
 Las oportunidades opcionales deben tener riesgos y condiciones definidos durante la planificación. No es obligatorio que toda ruta peligrosa proporcione una recompensa, ni que toda recompensa compense el riesgo asumido.
 
 La restauración física al entrar en un piso principal permite que los participantes consideren riesgos que de otro modo podrían evitar, pero no elimina el peligro durante los escenarios ni garantiza que sobrevivan hasta la siguiente recuperación.
+
+## 14. Aprendizaje de errores, supervivencia y protagonismo
+
+### 14.1. Aprender de las experiencias
+
+Los personajes deben poder modificar sus decisiones a partir de errores, engaños, fracasos y peligros que hayan experimentado. Si una estrategia ya ha fallado y el personaje comprende por qué, no debe repetirla sin una razón concreta. Puede equivocarse de nuevo si cambian las circunstancias, si la nueva amenaza funciona de otra manera, si la información anterior era incompleta o si la presión le impide aplicar lo aprendido; la narración debe hacer comprensible esa diferencia.
+
+Aprender no significa anticipar todas las amenazas ni acertar siempre. Significa que las experiencias relevantes influyen en la conducta posterior. Una precaución nueva también puede tener costes, ser insuficiente o resultar inadecuada para una situación distinta.
+
+### 14.2. Comprender el peligro no equivale a poder vencerlo
+
+Un personaje puede evaluar correctamente una amenaza y aun así carecer de fuerza, velocidad, técnica, recursos, información o condiciones físicas para superarla. No convertir cada fracaso en consecuencia de una estupidez del personaje: las amenazas pueden exceder lo que razonablemente podía prever o afrontar con la información disponible.
+
+Las criaturas pueden mostrar capacidades o comportamientos que no se habían observado, siempre que sean coherentes con su naturaleza y con las reglas del mundo. La sorpresa puede revelar un límite desconocido; no puede introducirse arbitrariamente para invalidar una solución razonable ni para forzar un resultado.
+
+### 14.3. Supervivencia, motivos y decisiones difíciles
+
+Los personajes no están obligados a actuar por altruismo, sacrificarse por otros ni asumir un papel heroico. Pueden actuar por miedo, interés propio, desesperación, necesidad, apego, rabia o una mezcla de motivos. Kevin no es un santo ni debe convertirse en una persona cruel por defecto: sus decisiones deben responder a su carácter, a la información que posee y a las alternativas que percibe.
+
+Un personaje puede avanzar o asumir un riesgo porque las consecuencias de no hacerlo le parecen peores que el peligro inmediato. Puede aceptar ayuda, retirarse, abandonar un objetivo, aprovechar una oportunidad desagradable o hacer algo que preferiría evitar. La narración no debe imponerle un sacrificio moral cuando basta una motivación de supervivencia.
+
+### 14.4. El protagonista no tiene prioridad sobre el mundo
+
+Kevin es el punto de vista central de la historia, no el centro obligatorio de todos los acontecimientos. No tiene que dar el golpe final, resolver cada conflicto, ser indispensable para el grupo ni superar personalmente todas las amenazas. Otros personajes pueden aportar la solución, salvarlo, fracasar, tomar decisiones decisivas o afrontar consecuencias que no dependan de él.
+
+La condición de protagonista no concede protección narrativa. Kevin puede interpretar bien una situación y perder, sobrevivir gracias a la intervención de otra persona o no tener una contribución decisiva en un acontecimiento. Los resultados deben surgir de las capacidades, decisiones, información y circunstancias de quienes participan.
+
+### 14.5. Heridas y consecuencias coherentes
+
+Una herida grave debe limitar de forma creíble las acciones posteriores del personaje hasta que exista una recuperación válida. Si la lesión ocurre al principio de un escenario, su estado físico debe afectar el plan, el ritmo, las rutas disponibles, los riesgos que puede asumir y los objetivos que todavía puede perseguir. Si la herida ocurre cerca de la salida, la secuencia previa debe justificar cómo llegó hasta ese punto.
+
+No acumular peligros incompatibles con la lesión solo para mantener al personaje al borde de la muerte. Tampoco ignorar una herida cuando deja de convenir a la trama. La restauración física al entrar en un piso principal sigue las condiciones de la sección 6 y no debe utilizarse para borrar costes distintos de los que esa regla restaura.
+
+### 14.6. Oportunidades y comportamiento de los enemigos
+
+Las oportunidades para escapar, atacar o sobrevivir deben surgir de la conducta establecida de la criatura, del entorno, de la intervención de otros personajes o de decisiones previas. Los enemigos no deben detenerse, equivocarse o perder eficacia solo porque el protagonista necesita una oportunidad.
+
+Una abertura puede ser breve, incompleta o servir únicamente para escapar; no tiene por qué permitir vencer a la amenaza. Si no existe una oportunidad plausible, la huida puede requerir otra ruta, ayuda, una pérdida o un coste grave. La coherencia de la amenaza importa más que garantizar una victoria o una escena espectacular.
