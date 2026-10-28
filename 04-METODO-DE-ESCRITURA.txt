@@ -317,7 +317,7 @@ Cada mejora debe tener una causa comprensible y un efecto observable. El progres
 
 ### 14.6. Arco de progresión orientativo entre los Pisos 3 y 10
 
-Usar este arco como guía para la planificación global, no como una lista obligatoria de recompensas ni como diseño cerrado de los escenarios:
+Tratar el arco de Pisos 3–10 como provisional: sirve para orientar la progresión global, pero no es canon cerrado ni un diseño aprobado de los pisos. Mantener la idea de avance gradual en capacidades, criterio y dominio; ajustar la función concreta de cada piso cuando se diseñe, según las necesidades de la historia y la progresión demostrada. No convertirlo en una lista obligatoria de recompensas ni en un esquema cerrado de escenarios:
 - **Piso 3 — Descubrimiento y calibración:** activación de los sistemas, evaluación inicial, elección y familiarización con el equipo, distinción entre capacidad física y técnica.
 - **Piso 4 — Aplicación:** uso de fundamentos en condiciones variables de terreno, distancia, equipo y movimiento.
 - **Piso 5 — Consolidación:** mayor consistencia; posibles cambios físicos solo si la evidencia los justifica.
