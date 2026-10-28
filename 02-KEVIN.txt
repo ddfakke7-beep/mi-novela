@@ -13,12 +13,21 @@
 
 ## 2. Personalidad
 - Rasgos principales: analítico, pragmático, muy desconfiado, cauteloso sin ser pasivo y selectivo con aquello que le importa.
-- Fortalezas: evalúa riesgos y oportunidades; compara alternativas; suele planificar antes de actuar cuando hay consecuencias importantes; puede elegir la opción más razonable aunque no sea la que desea.
-- Debilidades: no es especialmente valiente; su desconfianza puede dificultar que confíe en otros; calcular probabilidades no garantiza que tenga toda la información ni que su evaluación sea correcta.
+- Fortalezas: intenta evaluar riesgos y oportunidades, compara alternativas y suele pensar antes de actuar cuando hay consecuencias importantes. Puede reconocer que le falta información y dejar una decisión abierta hasta que el contexto la aclare. Estas tendencias no garantizan que interprete bien la situación ni que encuentre la mejor opción.
+- Debilidades: no es especialmente valiente; su desconfianza puede dificultar que confíe en otros. Tiende a cuestionar y evaluar, pero puede sobrevalorar la utilidad del análisis, quedarse sin tiempo para actuar o no lograr ejecutar lo que entiende. No siempre dispone de toda la información y puede equivocarse tanto al interpretar como al decidir.
 - Miedos o límites: no establecidos todavía. No asumir cobardía ni ausencia de miedo.
 - Motivaciones: pendientes de definir dentro de la historia.
-- Forma de tomar decisiones: cuando algo le importa de verdad, sopesa los riesgos, compara las probabilidades de éxito y elige la alternativa que considera más razonable, incluso si no es su preferida. No planifica todo al cien por cien y también puede actuar directamente.
-- Comportamiento bajo presión: si la situación lo afecta personalmente, se la toma en serio y piensa con cuidado en las opciones disponibles. Ante asuntos que considera poco importantes, puede bromear o mostrar indiferencia. No es necesariamente tranquilo y puede equivocarse al evaluar una situación.
+- Forma de tomar decisiones: cuando algo le importa de verdad, tiende a sopesar riesgos y alternativas y busca la opción que considera más razonable. Puede reconocer que no hay respuesta suficiente y posponer la elección hasta que llegue el momento de actuar. No debe escribirse como si completara siempre un cálculo lógico antes de moverse: también pueden influir el miedo, el impulso, el apego, la frustración, el interés propio, la confianza o circunstancias que lo obliguen a decidir sin certeza.
+- Comportamiento bajo presión: si la situación lo afecta personalmente, intenta tomársela en serio y valorar las opciones, pero la urgencia puede reducir su capacidad de análisis o impedirle ejecutar lo que había pensado. Puede vacilar, centrarse en algo secundario, actuar de forma precipitada o tomar una decisión razonable sin haberla calculado por completo; la reacción concreta depende de la situación. Ante asuntos que considera poco importantes, puede bromear o mostrar indiferencia. No es mentalmente infalible ni necesariamente tranquilo.
+
+
+### 2.1. Límites de interpretación y relaciones
+
+Ser analítico no significa ser estratega excepcional, experto en combate, buen lector de personas ni líder natural. Kevin puede proponer tácticas u observaciones, pero otros personajes también tienen ideas y criterio propio, pueden corregirlo o actuar mejor que él. No asumir que el grupo lo seguirá por tener razón ni que debe dirigirlo; no existe una party formal confirmada en el punto actual.
+
+Kevin no es un buen samaritano constante ni una persona fría por defecto. Suele valorar si ayudar merece el riesgo, pero sus decisiones también pueden depender de impulsos, miedo, apego, gratitud, confianza o circunstancias inmediatas. Puede ayudar o negarse sin que eso lo convierta automáticamente en héroe o villano. Que en el futuro arriesgue su seguridad por alguien no está garantizado y deberá surgir de una relación o situación que lo haga creíble.
+
+En combate, su capacidad para observar o formular una idea no implica poder ejecutarla. La condición física, la falta de técnica y de hábitos, la coordinación, la reacción, el miedo y la urgencia pueden interferir. Su progreso debe ganarse con práctica y experiencias concretas; la facilidad de aprendizaje que UMBRAL pueda proporcionar no le concede dominio automático. Los valores físicos iniciales siguen pendientes de la evaluación del Piso 3: cualquier estimación aproximada previa no es un dato confirmado.
 
 ## 3. Conocimientos y experiencia iniciales
 - Conocimientos cotidianos relevantes: pendientes de definir.
