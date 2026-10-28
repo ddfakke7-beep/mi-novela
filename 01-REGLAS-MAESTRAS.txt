@@ -226,6 +226,36 @@ La información del sistema debe aparecer con criterio narrativo. Los cambios im
 
 Al llegar al Piso 3 se habilita el **Sistema de Combate y Desarrollo**. UMBRAL anuncia su activación y explica que, a partir de ese piso, proporcionará a cada participante equipo básico de combate de acuerdo con las opciones disponibles y la elección de cada persona.
 
+
+
+#### Atributos medibles y evaluación inicial desde el Piso 3
+
+Al activarse el Sistema de Combate y Desarrollo en el Piso 3, UMBRAL evalúa automáticamente las capacidades de cada participante y establece una ficha inicial individual. La evaluación ocurre después de la restauración corporal propia de la entrada al piso principal. Debe distinguir la capacidad habitual de una limitación temporal; el estado actual, las lesiones, la fatiga y otras condiciones se registran aparte y pueden afectar el rendimiento sin cambiar automáticamente el atributo de referencia.
+
+La propuesta inicial utiliza seis atributos:
+- **Fuerza:** capacidad para ejercer fuerza y generar potencia física.
+- **Velocidad:** rapidez de desplazamiento y aceleración.
+- **Resistencia:** capacidad para sostener esfuerzos físicos.
+- **Coordinación:** equilibrio, control corporal y precisión motora.
+- **Percepción:** detección e interpretación de señales sensoriales.
+- **Reacción:** rapidez para responder a un estímulo ya detectado.
+
+La escala de referencia propuesta va de 1 a 10, con 5 como referencia humana ordinaria. Los intervalos orientativos son 1–2 (muy bajo), 3–4 (inferior a la referencia), 5 (referencia ordinaria), 6–7 (superior a la referencia), 8–9 (excepcional) y 10 (extraordinario respecto a la referencia). La calibración exacta y el alcance de valores superiores a 10 quedan pendientes de definición. Los valores son estimaciones concretas de capacidades habituales, no mediciones perfectas ni probabilidades de victoria. Cada punto debe representar una diferencia relevante y observable; no equivale a una cantidad fija de meses o años de entrenamiento ni implica un porcentaje universal de mejora.
+
+La evaluación inicial no concede experiencia, técnica ni dominio de armas. No se presupone que todas las personas comiencen con el mismo valor ni que una persona activa sea experta en combate. No se asignarán estadísticas retrospectivas a Kevin por sus experiencias de los pisos 1 y 2; la ficha numérica comienza con la evaluación del Piso 3. Los hechos y aprendizajes de esos pisos siguen siendo parte de la continuidad narrativa, pero no se convertirán retroactivamente en progresión numérica.
+
+#### Dominio técnico y desarrollo
+
+El dominio técnico se registra separado de los atributos. La propuesta inicial contempla cinco rangos demostrables: **Rango 0 — Sin dominio**, **Rango 1 — Principiante**, **Rango 2 — Competente**, **Rango 3 — Avanzado** y **Rango 4 — Experto**. Cada rango debe definirse mediante capacidades observables y consistentes, no por puntos de experiencia, número de enemigos derrotados o misiones completadas. Aprender una técnica con un arma no concede automáticamente dominio de otras armas.
+
+Los atributos pueden mejorar mediante práctica, entrenamiento, experiencia y adaptación sostenida. El dominio técnico mejora cuando la persona demuestra que ejecuta las técnicas con mayor consistencia y adaptación. El criterio y el conocimiento también pueden mejorar sin cambio numérico. UMBRAL actualiza los valores cuando tiene evidencia suficiente de una mejora sostenida o necesita afinar una estimación; una sesión, combate o victoria aislados no bastan por sí solos. No hay puntos automáticos por matar criaturas, recibir daño o completar escenarios.
+
+Las habilidades sobrenaturales quedan fuera del diseño inicial. No deben aparecer antes del Piso 10; a partir de ese piso podrían considerarse, pero no se habilitan automáticamente y requerirán diseño y aprobación explícitos cuando la historia se acerque a esa etapa.
+
+#### Registro selectivo de personajes
+
+La ficha detallada de atributos y dominio se mantiene para Kevin y para los compañeros que formen parte de su grupo activo y viajen con él. No se crearán tablas numéricas completas para todos los participantes de UMBRAL. De otros personajes o grupos solo se registrará, cuando sea útil para una posible reaparición, información breve como identidad, relación, condición conocida, equipo visible, experiencia aparente y una valoración cualitativa del nivel de combate (por ejemplo, débil, promedio, competente, fuerte o excepcional), dejando claro si es una impresión o un hecho confirmado. No inventar cifras exactas para personajes externos al grupo de Kevin.
+
 El equipo inicial puede incluir un arma principal, protección y elementos utilitarios básicos. Cada participante elige lo que considere apropiado para su contextura, capacidades, experiencia y forma de combatir. Las opciones pueden incluir armas como espada, lanza, maza, daga o arco, además de distintos tipos de protección; no se establece una selección cerrada ni se presupone que todos elijan el mismo equipo. El catálogo concreto se decide al preparar la escena correspondiente.
 
 El equipo es útil, pero no garantiza la supervivencia ni la victoria. Las armas y protecciones tienen límites físicos y pueden deteriorarse, dañarse o romperse por impactos, uso inadecuado o exigencias que excedan su resistencia. Una protección puede reducir ciertos daños o evitar consecuencias fatales, pero no vuelve invulnerable a quien la lleva; la fuerza de las criaturas puede causar lesiones incluso a través de ella.
