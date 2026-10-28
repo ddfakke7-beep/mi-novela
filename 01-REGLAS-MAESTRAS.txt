@@ -39,7 +39,7 @@ Las mejoras importantes deben tener una causa comprensible y respetar los límit
 
 ## 4. Escenarios y condiciones
 
-Cada escenario debe tener un propósito reconocible, un conflicto o desafío central y una condición real de finalización. Antes de escribirlo, se debe definir su alcance, sus principales riesgos, las condiciones relevantes y la cantidad prevista de capítulos.
+Cada escenario debe tener un propósito reconocible, un objetivo o desafío central y condiciones de cumplimiento definidas durante el diseño. Antes de escribirlo, se debe definir su alcance, sus principales riesgos, las condiciones relevantes y cómo se verificará su superación. Cumplir el objetivo, recibir la declaración de escenario superado y alcanzar la salida para continuar son hitos distintos: según el diseño, cumplir el objetivo puede no bastar para que UMBRAL declare superado el escenario; y esa declaración no teletransporta a los participantes ni sustituye el recorrido físico hasta la siguiente etapa o la salida del piso.
 
 Las pruebas pueden centrarse en exploración, mecanismos, combate, supervivencia, decisiones, cooperación o una combinación. No todas requieren matar enemigos ni se resuelven derrotando a una amenaza.
 
@@ -242,15 +242,15 @@ El sistema no concede mejoras automáticas por combatir, matar criaturas o sufri
 
 ### 15.3. Sistema de Recompensas
 
-Al habilitarse en el Piso 3, el **Sistema de Recompensas** aparece en la interfaz con el estado **BLOQUEADO**. Su acceso y funcionamiento no están disponibles en ese momento.
+Al llegar al Piso 3 se habilitan los sistemas previstos para esta etapa: el **Sistema de Combate y Desarrollo** y el **Sistema de Recuperación** comienzan a funcionar, mientras que el **Sistema de Recompensas** aparece en la interfaz con el estado **BLOQUEADO**. El equipo básico y la elección de arma corresponden al Sistema de Combate y Desarrollo, no al Sistema de Recompensas. El sistema de recompensas todavía no está disponible.
 
 No se define todavía la finalidad completa del sistema, las condiciones para desbloquearlo ni las recompensas que podrá ofrecer. No anticipar esas funciones ni inventar reglas sobre ellas hasta que se diseñen y aprueben expresamente.
 
-El equipo básico proporcionado por el Sistema de Combate y Desarrollo es independiente del Sistema de Recompensas. La existencia del sistema bloqueado no modifica las reglas ya establecidas sobre recursos finitos, ausencia de botín automático de las criaturas ni recompensas de progresión previstas al completar un piso principal.
+El equipo básico proporcionado por el Sistema de Combate y Desarrollo es independiente del Sistema de Recompensas. La existencia del sistema bloqueado no modifica las reglas sobre recursos finitos ni la ausencia de botín automático de las criaturas. No existe una recompensa material automática por completar cualquier piso. A partir del Piso 3, el diseñador del piso puede considerar una recompensa general cuando el análisis del recorrido lo justifique, por ejemplo, si los participantes carecen de algo necesario o si el peligro y las exigencias aumentan. Su inclusión, forma y alcance dependen del diseño aprobado para ese piso; no debe darse por garantizada ni atribuirse al sistema bloqueado antes de que se defina su funcionamiento.
 
 Los monstruos no dejan botín al morir: no proporcionan armas, equipo, objetos, materiales ni recompensas por sí mismos. Cualquier recurso obtenido debe proceder de una fuente establecida dentro del mundo, como una entrega autorizada, una recompensa definida o un objeto que ya exista en el entorno; no convertir la muerte de una criatura en una fuente automática de botín.
 
-Las recompensas materiales por completar un escenario no son automáticas. Al completar un piso principal se mantiene la regla general de una recompensa principal de progresión, con opciones útiles de equipo y/o recursos para distintos estilos y capacidades. Los objetivos extraordinarios u opcionales podrán ofrecer una recompensa adicional si sus condiciones, riesgos y valor se justifican de antemano. Estas reglas generales no determinan qué función tendrá el Sistema de Recompensas bloqueado ni implican que sea el mecanismo que entrega esas recompensas; esa relación queda sin definir.
+Las recompensas materiales por completar un escenario no son automáticas. Tampoco debe asumirse que cada piso principal entrega necesariamente una recompensa. Desde el Piso 3 en adelante, el diseñador decide durante el análisis general si corresponde incluir una recompensa de progresión, considerando las necesidades de los participantes, los recursos que puedan faltar, el aumento de peligro y la función narrativa de esa etapa. Si se incluye, debe tener una justificación y opciones coherentes con las capacidades y estilos de los participantes. Los objetivos extraordinarios u opcionales también pueden ofrecer una recompensa si sus condiciones, riesgos y valor se justifican de antemano. No se debe atribuir ninguna de estas decisiones al Sistema de Recompensas mientras siga bloqueado; su relación futura con las recompensas generales queda pendiente de definición.
 
 ### 15.4. Enfoque de los escenarios desde el Piso 3
 
@@ -266,7 +266,7 @@ El escenario F funciona como el tramo final y uno de los mayores desafíos del p
 
 ### 15.5. Estructura de pisos y transiciones
 
-Los pisos principales numerados (Piso 1, Piso 2, Piso 3, etc.) son espacios comunes de recuperación, preparación y encuentro entre participantes. Cada uno puede conducir a una serie de escenarios identificados con letras (A–F como estructura de referencia; el número exacto de escenarios se define durante el diseño). Los escenarios de un mismo piso suelen conectarse físicamente mediante pasillos, puertas, túneles, cámaras y otras rutas. Completar un escenario no provoca por sí solo un teletransporte automático.
+Los pisos principales numerados (Piso 1, Piso 2, Piso 3, etc.) son espacios comunes de recuperación, preparación y encuentro entre participantes. Cada uno puede conducir a una serie de escenarios identificados con letras. La estructura A–F es la referencia habitual, no una obligación: el número y la organización de los escenarios se deciden durante el diseño, sin asumir que todos los pisos deban tener exactamente seis. Los escenarios de un mismo piso suelen conectarse físicamente mediante pasillos, puertas, túneles, cámaras y otras rutas. Completar un escenario no provoca por sí solo un teletransporte automático.
 
 La salida del último escenario del piso (F cuando esa estructura se utilice) debe alcanzarse físicamente. Al llegar a una salida habilitada, UMBRAL pregunta si se desea pasar al siguiente piso principal. El traslado solo ocurre tras una confirmación válida. No basta con completar el escenario ni estar en cualquier punto del entorno: se debe llegar a la salida correspondiente.
 
@@ -278,9 +278,9 @@ El piso principal dispone de un periodo de 12 horas contado desde la llegada de 
 
 ### 15.6. Sistema de Recuperación
 
-El **Sistema de Recuperación** ofrece a cada participante una única oportunidad de recuperación fisiológica limitada en cada piso principal, utilizable en uno de los escenarios intermedios B, C, D o E. UMBRAL pregunta individualmente al participante si desea activar la recuperación al comenzar cada uno de esos escenarios. La decisión es voluntaria.
+El **Sistema de Recuperación** se habilita a partir del Piso 3. Desde ese piso en adelante, ofrece a cada participante una única oportunidad de recuperación fisiológica limitada por piso, utilizable en uno de los escenarios B, C, D o E cuando se use la estructura habitual A–F. UMBRAL pregunta individualmente al participante si desea activarla únicamente al comienzo de cada uno de esos escenarios; no puede solicitarse ni activarse libremente en cualquier otro momento. La decisión de aceptar o rechazar la oferta es voluntaria.
 
-No se ofrece esta elección al comienzo del escenario A, porque el participante acaba de llegar desde el piso principal, donde ya recibió la restauración corporal establecida. Tampoco se ofrece en el escenario F, cuyo cierre conduce a la transición hacia el siguiente piso principal. Por tanto, las oportunidades de elección de recuperación de cada piso se presentan únicamente en B, C, D y E.
+El sistema no ofrece recuperación en los pisos anteriores al Piso 3. En la estructura habitual A–F, tampoco se ofrece al comienzo de A, porque el participante acaba de recibir la restauración corporal completa al entrar al piso principal, ni al comienzo de F, cuyo cierre conduce a la salida y la transición al siguiente piso principal. Por tanto, las ofertas ordinarias solo aparecen al inicio de B, C, D y E. Si un piso futuro usa una estructura distinta de A–F, no se deben trasladar automáticamente estas ofertas a otras letras ni inventar equivalencias: la adaptación deberá definirse expresamente durante el diseño de ese piso.
 
 Cada participante decide en cuál de esas oportunidades usarla. Si la rechaza en un escenario, pierde esa oportunidad concreta, pero puede decidir usar la recuperación en un escenario posterior del mismo piso. La oportunidad no utilizada no se guarda, acumula ni traslada a otro piso. Solo se consume cuando el participante acepta activarla.
 
