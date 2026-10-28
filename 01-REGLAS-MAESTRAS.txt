@@ -211,3 +211,41 @@ No acumular peligros incompatibles con la lesión solo para mantener al personaj
 Las oportunidades para escapar, atacar o sobrevivir deben surgir de la conducta establecida de la criatura, del entorno, de la intervención de otros personajes o de decisiones previas. Los enemigos no deben detenerse, equivocarse o perder eficacia solo porque el protagonista necesita una oportunidad.
 
 Una abertura puede ser breve, incompleta o servir únicamente para escapar; no tiene por qué permitir vencer a la amenaza. Si no existe una oportunidad plausible, la huida puede requerir otra ruta, ayuda, una pérdida o un coste grave. La coherencia de la amenaza importa más que garantizar una victoria o una escena espectacular.
+
+## 15. Progresión, desarrollo y recompensas del sistema
+
+### 15.1. Principios generales
+
+UMBRAL puede registrar y mostrar información sobre la condición, las capacidades y el desarrollo de cada participante, pero el sistema no entrega dominio, conocimientos, técnicas ni capacidades como regalos automáticos. El desarrollo debe surgir de la práctica, el entrenamiento, la experiencia, la observación, la corrección de errores y la adaptación, conforme a las secciones 2, 3 y 13.
+
+El desarrollo es individual y adaptativo. El ritmo y el resultado dependen, entre otros factores, de las aptitudes, la condición física, la experiencia previa, la calidad del método de práctica y la capacidad de aprender. Enfrentarse a una criatura, combatir, sufrir una lesión o soportar una situación difícil no garantiza por sí solo una mejora. Una mejora puede reflejarse en el desempeño, la consistencia, el criterio, el control corporal o en información que el sistema registre; no debe presentarse como una habilidad concedida mágicamente.
+
+La información del sistema debe aparecer con criterio narrativo. Los cambios importantes pueden reflejarse mediante estadísticas, descripciones o notificaciones, según lo que se defina para cada función. No es necesario anunciar cada mejora mínima ni convertir cada acción en una notificación. Las estadísticas describen capacidades y no garantizan victorias ni sustituyen técnica, experiencia o decisiones.
+
+### 15.2. Activación prevista desde el Piso 3
+
+Al llegar al Piso 3 se habilitarán dos funciones diferenciadas, cuyos nombres de trabajo son **Sistema de Progreso y Desarrollo** y **Sistema de Recompensas**. El primer nombre es provisional. Su activación pertenece al diseño previsto del Piso 3; Kevin y los demás participantes no deben conocer estas funciones antes de que la narración las presente.
+
+Al activarse el sistema de desarrollo en el Piso 3, cada participante podrá elegir un equipo básico de combate suministrado por UMBRAL. La elección debe proceder de un catálogo de opciones que se definirá antes de escribir ese momento. No se ha fijado todavía el catálogo, las cantidades, las propiedades concretas ni la elección de Kevin. No asumir que todos elegirán lo mismo ni que un arma determinada es la única opción válida.
+
+Las funciones futuras que UMBRAL pueda desbloquear en pisos posteriores quedan sin definir. No anticiparlas ni establecerlas como canon hasta que se diseñen y aprueben.
+
+### 15.3. Sistema de Recompensas y recursos
+
+El Sistema de Recompensas será la fuente de equipo, suministros y otras recompensas entregadas por UMBRAL. Los monstruos no dejan botín al morir: no proporcionan armas, equipo, objetos, materiales ni recompensas por sí mismos. Cualquier recurso que se obtenga debe proceder de una fuente establecida dentro del mundo, como una entrega del sistema o un objeto ya presente en el entorno; no convertir la muerte de una criatura en una fuente automática de botín.
+
+El sistema no amenaza, castiga ni intimida a los participantes para obligarlos a avanzar. Reconoce el progreso y entrega recompensas a quienes cumplen las condiciones correspondientes. Quien no progresa no recibe las recompensas vinculadas a ese progreso. La presión para continuar surge de la propia situación: los participantes necesitan avanzar para intentar escapar y, si permanecen sin obtener suministros, sus recursos terminan agotándose; además, el entorno y las criaturas pueden ser peligrosos. No añadir amenazas, sanciones o cuentas atrás del sistema sin una decisión de diseño posterior.
+
+Como estructura general de trabajo, las recompensas se organizarán en tres niveles:
+- **Al completar un escenario:** suministros de continuidad que permitan seguir avanzando, incluidos los básicos que se determinen, como alimento, agua y material médico.
+- **Al completar un piso:** recompensa principal de progresión, que puede incluir equipo u otros recursos de mayor valor.
+- **Por objetivos extraordinarios u opcionales:** recompensas adicionales solo cuando el objetivo, sus condiciones y su valor estén justificados de antemano.
+
+Esta estructura es el marco general, no una tabla definitiva. Cantidades, frecuencia exacta, categorías, catálogo de equipo, condiciones de entrega, excepciones y diferencias entre escenarios y pisos siguen pendientes de diseño. Las entregas deben sostener la continuación sin convertir la historia en una trama centrada principalmente en el hambre o la sed. Aun así, los suministros son finitos: quedarse sin progresar no debe generar recursos nuevos automáticamente.
+
+### 15.4. Enfoque de los escenarios desde el Piso 3
+
+A partir del Piso 3, la historia dará un giro importante hacia el combate, la caza, la supervivencia en entornos peligrosos y las situaciones difíciles. Las condiciones de determinados escenarios exigirán combatir o cazar criaturas para poder progresar; no se trata de que matar proporcione botín ni de que los personajes busquen combates por conveniencia. No todos los escenarios tienen que exigir matar, y el diseño de cada prueba debe establecer su condición real de finalización.
+
+Los mecanismos y rompecabezas pueden seguir apareciendo, pero no deben dominar la estructura ni repetirse como solución principal. Como orientación de diseño, limitar cada escenario a uno o dos mecanismos o rompecabezas relevantes como máximo, salvo que una excepción esté especialmente justificada. Variar el conflicto central y la manera de superarlo. La prioridad desde el Piso 3 será una experiencia más centrada en combate, caza, supervivencia, decisiones y adaptación, sin eliminar la exploración ni la variedad narrativa.
+
