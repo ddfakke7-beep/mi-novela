@@ -164,7 +164,7 @@ Los cambios provisionales pueden discutirse durante el desarrollo, pero no deben
 Al retomar UMBRAL, leer los cuatro documentos de referencia y comprobar el último punto de continuidad. Identificar:
 
 - El último escenario aprobado y, cuando corresponda, el estado general del piso en curso.
-- Si la siguiente tarea es planificar un piso nuevo, continuar una parte pendiente o revisar algo ya escrito.
+- Si la siguiente tarea es planificar un piso nuevo, continuar desde el punto exacto de continuidad en un escenario o etapa pendiente, o revisar algo ya escrito.
 - El estado actual de Kevin y las condiciones del grupo.
 - Los hechos confirmados, las sospechas y los asuntos pendientes.
 - Las reglas que afectan directamente a la próxima escena.
