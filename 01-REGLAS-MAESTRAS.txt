@@ -244,6 +244,50 @@ La escala de referencia propuesta va de 1 a 10, con 5 como referencia humana ord
 
 La evaluación inicial no concede experiencia, técnica ni dominio de armas. No se presupone que todas las personas comiencen con el mismo valor ni que una persona activa sea experta en combate. No se asignarán estadísticas retrospectivas a Kevin por sus experiencias de los pisos 1 y 2; la ficha numérica comienza con la evaluación del Piso 3. Los hechos y aprendizajes de esos pisos siguen siendo parte de la continuidad narrativa, pero no se convertirán retroactivamente en progresión numérica.
 
+#### Interpretación provisional de la escala
+
+La escala 1–10 utiliza estas bandas orientativas:
+- **1–2 — Muy bajo:** capacidad claramente limitada o muy por debajo de la referencia en el aspecto medido.
+- **3–4 — Inferior a la referencia:** capacidad por debajo de la media humana ordinaria.
+- **5 — Referencia humana ordinaria:** punto de comparación para un adulto sano sin entrenamiento especializado en la capacidad evaluada.
+- **6–7 — Superior a la referencia:** ventaja física perceptible y repetible.
+- **8–9 — Excepcional:** capacidad poco frecuente, comparable con niveles humanos muy altos en el aspecto medido.
+- **10 — Límite superior de la referencia humana:** extremo de la escala humana de referencia definida por UMBRAL; no significa invulnerabilidad ni superioridad en todos los aspectos.
+
+Un punto no representa un porcentaje fijo de mejora y la distancia entre valores no tiene que ser matemáticamente idéntica en todos los tramos ni en todos los atributos. Los números ordenan capacidades y representan diferencias relevantes que deberían poder observarse. El valor 10 no es el límite absoluto de todo lo que pueda existir en UMBRAL: cualquier escala sobrehumana, incluidos valores superiores a 10, queda fuera de la progresión inicial y deberá definirse expresamente si la historia la necesita. La calibración operativa exacta de cada valor permanece pendiente.
+
+#### Capacidad habitual, condición actual y rendimiento efectivo
+
+Distinguir tres conceptos:
+- **Capacidad habitual o atributo base:** capacidad relativamente estable que mide la estadística.
+- **Condición actual:** lesiones, dolor, fatiga, falta de sueño, hambre, sed, enfermedad, intoxicación u otras condiciones temporales.
+- **Rendimiento efectivo:** lo que el personaje puede hacer en una situación concreta al combinar su capacidad habitual con su condición, técnica, equipo, terreno, información y circunstancias.
+
+No aplicar una resta universal de atributos por cada lesión o condición. Describir sus efectos funcionales según la acción: una lesión en una mano puede limitar el agarre y el uso de un arma sin afectar del mismo modo a la carrera; la fatiga puede reducir los esfuerzos sostenidos sin cambiar automáticamente el atributo de Resistencia. La restauración corporal al entrar en un piso principal sigue las reglas generales y no elimina automáticamente condiciones no corporales.
+
+#### Evidencia para registrar una mejora
+
+Usar cuatro niveles internos para valorar cambios, sin necesidad de mostrarlos como rangos de interfaz:
+1. **Indicio:** una hazaña o resultado aislado sugiere mejora, pero puede explicarse por suerte, adrenalina, condiciones favorables, técnica o anticipación. No cambia el atributo por sí solo.
+2. **Evidencia repetida:** la mejora aparece en varias ocasiones comparables; se registra una tendencia, sin que eso obligue a subir el valor.
+3. **Adaptación sostenida:** el personaje mantiene la mejora tras práctica o adaptación a lo largo del tiempo y en condiciones suficientemente variadas. Hay fundamento para reevaluar.
+4. **Cambio confirmado:** la reevaluación indica que la capacidad habitual corresponde a otro valor. Solo entonces se actualiza el atributo.
+
+No es obligatorio realizar una prueba formal después de cada escena. Las evidencias pueden surgir de acontecimientos narrados y aprobados; UMBRAL puede reevaluar en momentos razonables. No cambiar una estadística por una victoria, una muerte, una herida, una escena de esfuerzo o una sesión de entrenamiento aisladas.
+
+#### Dominio técnico: dimensiones de observación
+
+El dominio técnico se valora por disciplina —por ejemplo, espada, lanza, arma improvisada o combate sin armas—, no como una única competencia universal. Para justificar su evolución, observar cinco dimensiones: **ejecución** (realiza correctamente las acciones), **consistencia** (puede repetirlas), **control** (mantiene equilibrio, distancia y posición), **adaptación** (ajusta la técnica ante cambios) y **desempeño bajo presión** (conserva suficiente control en situaciones exigentes).
+
+Como orientación general, Rango 0 implica manejo no fiable; Rango 1, acciones básicas todavía irregulares; Rango 2, fundamentos funcionales y consistentes en situaciones conocidas; Rango 3, adaptación técnica sólida bajo presión y en condiciones variables; Rango 4, dominio profundo y adaptación eficaz ante situaciones poco familiares. Estas descripciones no sustituyen los criterios concretos de ascenso: las pruebas y evidencias específicas para pasar de un rango a otro quedan pendientes de definición. Los rangos no garantizan la victoria ni vuelven infalible a un experto.
+
+#### Ritmos distintos de progreso
+
+El conocimiento práctico puede cambiar tras una experiencia reveladora; el dominio técnico suele requerir práctica y consistencia; las mejoras de atributos físicos necesitan adaptación sostenida y confirmación. Ninguno de estos ritmos tiene una cantidad fija de días, entrenamientos, combates o pisos. Las capacidades ya muy desarrolladas suelen ser más difíciles de mejorar; el progreso puede estancarse y las mejoras no tienen que afectar a todos los atributos a la vez.
+
+Un personaje puede volverse más competente por corregir errores, administrar mejor la energía, reconocer amenazas, utilizar el entorno o tomar decisiones más acertadas sin subir atributos ni rangos. Comprender una lección no garantiza aplicarla siempre, especialmente bajo miedo, dolor, fatiga o presión.
+
+
 #### Dominio técnico y desarrollo
 
 El dominio técnico se registra separado de los atributos. La propuesta inicial contempla cinco rangos demostrables: **Rango 0 — Sin dominio**, **Rango 1 — Principiante**, **Rango 2 — Competente**, **Rango 3 — Avanzado** y **Rango 4 — Experto**. Cada rango debe definirse mediante capacidades observables y consistentes, no por puntos de experiencia, número de enemigos derrotados o misiones completadas. Aprender una técnica con un arma no concede automáticamente dominio de otras armas.
@@ -285,6 +329,27 @@ Las recompensas materiales por completar un escenario no son automáticas. Tampo
 ### 15.4. Enfoque de los escenarios desde el Piso 3
 
 A partir del Piso 3, la historia cambia de enfoque de manera clara: el combate, la caza, la supervivencia en entornos peligrosos, la preparación y el desarrollo de capacidades pasan a tener un papel mucho más importante. Los escenarios deben dar a los participantes objetivos concretos que orienten su avance y les permitan preparar una estrategia, sin revelar necesariamente cada peligro ni la solución. Algunos objetivos exigirán combatir o cazar criaturas; otros podrán requerir neutralizar una amenaza o cumplir una condición distinta que siga siendo coherente con esta nueva etapa. No se trata de que matar proporcione botín ni de que los personajes busquen combates por conveniencia.
+
+#### Arco orientativo de progresión entre los Pisos 3 y 10
+
+La progresión general se diseña como una evolución de las capacidades y decisiones del grupo, no como una tabla de subidas automáticas. La función orientativa de cada etapa es:
+- **Piso 3 — Descubrimiento y calibración:** activación de los sistemas, evaluación inicial, familiarización con equipo y comprensión de la diferencia entre capacidad física y dominio de combate.
+- **Piso 4 — Aplicación:** poner en práctica fundamentos ante terreno, distancias, equipo y condiciones variables.
+- **Piso 5 — Consolidación:** convertir acciones aprendidas en un desempeño más consistente; las mejoras físicas solo se registran si están justificadas.
+- **Piso 6 — Adaptación:** responder a condiciones nuevas sin depender de repetir una única solución.
+- **Piso 7 — Integración:** combinar técnica, movimiento, lectura del entorno, recursos y cooperación sin imponer roles fijos ni garantizar el éxito por trabajar en grupo.
+- **Piso 8 — Especialización:** desarrollar fortalezas y un estilo reconocible, conservando debilidades y límites en otras disciplinas.
+- **Piso 9 — Síntesis y evaluación:** poner a prueba la combinación de aprendizajes, el criterio, la preparación y la gestión de costes.
+- **Piso 10 — Posible punto de inflexión:** abrir, si la historia lo justifica, una nueva etapa del sistema. Las capacidades sobrenaturales pueden considerarse a partir de este piso, pero no aparecen automáticamente ni borran el progreso previo.
+
+Este arco es una guía de planificación, no un diseño aprobado de escenarios concretos ni una obligación de que cada piso desarrolle exclusivamente esa función. Los pisos pueden combinar objetivos distintos y la evolución puede solaparse entre etapas. No todos los pisos deben producir una subida de atributos, un nuevo rango técnico, equipo mejorado o una recompensa.
+
+#### Dificultad, equipo y aprendizaje
+
+No escalar automáticamente las estadísticas de las criaturas para igualar a Kevin ni utilizar un nivel numérico de enemigo como garantía del resultado. La dificultad puede surgir de la amenaza física, el terreno, la visibilidad, la información incompleta, los recursos, la presión temporal justificada, la complejidad de las decisiones y la cooperación. No es necesario elevar todos estos factores en cada piso; cada escenario debe tener una identidad propia.
+
+El equipo amplía las opciones disponibles y tiene funciones, adecuación al contexto, estado y limitaciones concretas. No sustituye el dominio: recibir un arma no concede la capacidad de usarla correctamente, y un objeto útil en un espacio abierto puede ser difícil de utilizar en un corredor estrecho. No es necesario asignar cifras universales de daño a todo el equipo en la progresión inicial; describir sus efectos prácticos y límites relevantes.
+
 
 El Sistema de Combate y Desarrollo se habilita en el Piso 3 y podrá ampliar progresivamente la información, las opciones de equipo y las funciones disponibles conforme se avanza por los pisos. La trama debe reflejar ese cambio gradual: los participantes aprenden a interpretar las indicaciones del sistema, prepararse para objetivos más definidos y afrontar amenazas cada vez más exigentes. No es necesario inventar ahora un catálogo completo ni detallar todas las funciones futuras; se establecen cuando la historia llegue al punto en que sean relevantes.
 
