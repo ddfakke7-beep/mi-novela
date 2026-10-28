@@ -357,14 +357,30 @@ Antes de diseñar un escenario nuevo dentro del mismo piso, revisar explícitame
 
 Tras la aprobación de cada escenario desde el Piso 3, actualizar el archivo 02-KEVIN.txt con los cambios confirmados en la ficha de Kevin y de sus compañeros activos, y 03-CONTINUIDAD-ACTUAL.txt con los hechos, consecuencias y punto de continuación. No modificar los registros de progresión con mejoras que solo se hayan propuesto o que la narración todavía no haya demostrado.
 
-### 14.10. Decisiones de progresión pendientes
+### 14.10. Definiciones aprobadas de progresión
 
-Mantener expresamente pendientes, sin resolverlas por inferencia:
-1. **Calibración de atributos:** pruebas, referencias prácticas y diferencias operativas entre valores consecutivos.
-2. **Evaluación inicial de Kevin:** procedimiento concreto de UMBRAL y valores que establece en el Piso 3.
-3. **Ascenso técnico:** requisitos concretos para pasar de un rango al siguiente en cada disciplina.
-4. **Ritmo global de progresión:** distribución orientativa de mejoras físicas y técnicas entre los Pisos 3 y 10.
+Los cuatro puntos de progresión que antes figuraban como pendientes están aprobados y se consideran definidos:
 
-Resolver estos puntos en una conversación de diseño antes de tratarlos como reglas definitivas. Hasta entonces, aplicar los principios generales establecidos y mantener sin asignar los datos que dependan de esas decisiones.
+1. **Calibración de atributos:** escala 1–10, con 5 como referencia humana ordinaria; bandas 1–2 muy bajo, 3–4 inferior a la referencia, 5 referencia ordinaria, 6–7 superior, 8–9 excepcional y 10 límite superior de la referencia humana. No interpretar cada punto como porcentaje fijo ni como tiempo universal de entrenamiento. No usar valores superiores a 10 hasta definir una escala posterior.
+2. **Evaluación inicial:** UMBRAL evalúa automáticamente a Kevin al entrar en el Piso 3, después de la restauración corporal. La evaluación puede realizarse mediante el sistema sin seis pruebas visibles. Los valores solo se incorporan tras escribir y aprobar la escena; no asignar estadísticas retrospectivas a los Pisos 1–2.
+3. **Ascenso técnico:** evaluar cada disciplina según ejecución, consistencia, control, adaptación y desempeño bajo presión. Rango 0: sin manejo funcional; Rango 1: fundamentos intencionales pero irregulares; Rango 2: fundamentos repetibles en situaciones conocidas y cierta presión; Rango 3: adaptación y combinación táctica fiable bajo presión significativa; Rango 4: dominio profundo, eficiente y consistente, demostrado en situaciones variadas y bajo estrés. Ascender exige práctica y evidencia repetida; una victoria o acción aislada no basta. El dominio no se transfiere automáticamente entre disciplinas.
+4. **Ritmo de Pisos 3–10:** Piso 3, descubrimiento y calibración; Pisos 4–5, aplicación y consolidación; Pisos 6–8, adaptación, integración y especialización; Pisos 9–10, síntesis y evaluación, con Piso 10 como posible punto de inflexión. Es una guía, no una obligación de subir por piso. El criterio y el conocimiento pueden mejorar sin cambios numéricos; los atributos requieren adaptación sostenida y confirmación. No hay reinicio de progreso en Piso 10. Las habilidades sobrenaturales solo podrán considerarse desde ese piso y no son automáticas.
 
-Las habilidades sobrenaturales no forman parte de la progresión inicial y no deben introducirse antes del Piso 10. A partir de ese piso podrán evaluarse si la historia lo requiere; no son una recompensa automática por alcanzar el piso ni deben diseñarse de antemano como un catálogo completo.
+#### 14.11. Interpretación de los seis atributos
+
+- **Fuerza:** capacidad de aplicar fuerza muscular al empujar, levantar, sujetar o arrastrar; no equivale a técnica ni tolerancia al dolor.
+- **Velocidad:** rapidez de desplazamiento y ejecución; no equivale a percepción ni a decisión.
+- **Resistencia:** capacidad de sostener el esfuerzo físico; no implica inmunidad a heridas, venenos o enfermedades.
+- **Coordinación:** control corporal, equilibrio y precisión motora; no equivale al dominio de una disciplina.
+- **Percepción:** detección y distinción de estímulos sensoriales disponibles; no garantiza comprender su significado.
+- **Reacción:** rapidez de respuesta motora ante un estímulo detectado; no permite responder a lo que no se ha percibido.
+
+Las diferencias entre cifras deben reflejar mejoras relevantes y repetibles, sin convertirlas en porcentajes universales. El salto de 5 a 6 debe ser observable; 6 a 7 representa una ventaja más marcada todavía humana; 7 a 8 entra en el rango excepcional y exige evidencia sólida; 8 a 9 es una mejora dentro de ese rango; 9 a 10 se aproxima al límite superior humano y debe ser poco común. Estas bandas guían la interpretación, no sustituyen la evidencia narrativa.
+
+#### 14.12. Procedimiento de evaluación y ascenso
+
+La evaluación inicial de Kevin debe mostrar los seis valores obtenidos y el estado pertinente de los sistemas. No es necesario escenificar una prueba física para cada atributo. No mostrar potencial máximo ni un nivel de combate global sin definirlos. Las disciplinas técnicas solo se registran cuando hay evidencia suficiente.
+
+Para ascensos técnicos, buscar pruebas concretas en cinco dimensiones: ejecución, consistencia, control, adaptación y desempeño bajo presión. El avance sigue normalmente la secuencia práctica → evidencia observable → demostración repetida → evaluación → actualización. No se exige una ceremonia o examen formal, pero la historia debe hacer comprensible el cambio. Una victoria, un golpe afortunado o un combate aislado no bastan.
+
+No fijar un máximo rígido de mejoras por piso. Los cambios grandes deben ser menos frecuentes que el aprendizaje incremental y tener causas claras. El personaje puede conservar los mismos atributos durante varios pisos y, aun así, mejorar en técnica, táctica, conocimiento y criterio. Las mejoras rápidas necesitan condiciones que las expliquen y límites que impidan convertirlas en talento gratuito. El progreso físico y técnico no se reinicia en Piso 10; cualquier capacidad sobrenatural que se introduzca desde ese piso deberá tener función, alcance, límites y costes, sin reemplazar automáticamente la competencia física, técnica o táctica.
