@@ -265,7 +265,7 @@ Estas reglas de seguimiento de progresión se aplican **desde el Piso 3 en adela
 
 Cuando Kevin cruce al Piso 3 y se active el Sistema de Combate y Desarrollo, UMBRAL evaluará automáticamente a cada participante después de la restauración corporal del piso principal. La ficha de Kevin debe registrar los valores cuando la escena los confirme, no antes. No asignar estadísticas definitivas por intuición ni anticipar resultados antes de escribir y aprobar ese momento.
 
-Los seis atributos de trabajo son Fuerza, Velocidad, Resistencia, Coordinación, Percepción y Reacción. La escala de referencia propuesta es 1–10, con 5 como referencia humana ordinaria:
+Los seis atributos de trabajo son Fuerza, Velocidad, Resistencia, Coordinación, Percepción y Reacción. La escala de referencia aprobada es 1–10, con 5 como referencia humana ordinaria:
 - 1–2: muy bajo.
 - 3–4: inferior a la referencia.
 - 5: referencia humana ordinaria.
@@ -296,7 +296,7 @@ No es obligatorio que UMBRAL realice una prueba formal tras cada escena. Las evi
 
 ### 14.4. Dominio técnico y conocimiento práctico
 
-Registrar el dominio por disciplina, no como una competencia universal. Los rangos de trabajo son Rango 0 (Sin dominio), Rango 1 (Principiante), Rango 2 (Competente), Rango 3 (Avanzado) y Rango 4 (Experto). Para valorar una evolución, comprobar ejecución, consistencia, control, adaptación y desempeño bajo presión. Las descripciones generales de cada rango están en las Reglas Maestras; los criterios concretos para ascender entre rangos quedan pendientes y no deben improvisarse como una tabla rígida.
+Registrar el dominio por disciplina, no como una competencia universal. Los rangos aprobados son Rango 0 (Sin dominio), Rango 1 (Principiante), Rango 2 (Competente), Rango 3 (Avanzado) y Rango 4 (Experto). Aplicar las definiciones y criterios operativos centralizados en la sección 15.8 de las Reglas Maestras; no crear criterios alternativos ni una tabla rígida de puntos o experiencia.
 
 El dominio de una disciplina no se transfiere automáticamente a otra. Recibir un arma no concede su dominio. Una victoria tampoco demuestra por sí sola un rango superior.
 
@@ -349,9 +349,9 @@ Antes de diseñar un escenario nuevo dentro del mismo piso, revisar explícitame
 
 Tras la aprobación de cada escenario desde el Piso 3, actualizar el archivo 02-KEVIN.txt con los cambios confirmados en la ficha de Kevin y de sus compañeros activos, y 03-CONTINUIDAD-ACTUAL.txt con los hechos, consecuencias y punto de continuación. No modificar los registros de progresión con mejoras que solo se hayan propuesto o que la narración todavía no haya demostrado.
 
-### 14.10. Definiciones aprobadas de progresión
+### 14.10. Resumen de criterios aprobados de progresión
 
-Los cuatro puntos de progresión que antes figuraban como pendientes están aprobados y se consideran definidos:
+Los siguientes criterios están aprobados. Esta sección resume las reglas centrales para facilitar su aplicación y no crea una segunda definición independiente:
 
 1. **Calibración de atributos:** escala 1–10, con 5 como referencia humana ordinaria; bandas 1–2 muy bajo, 3–4 inferior a la referencia, 5 referencia ordinaria, 6–7 superior, 8–9 excepcional y 10 límite superior de la referencia humana. No interpretar cada punto como porcentaje fijo ni como tiempo universal de entrenamiento. No usar valores superiores a 10 hasta definir una escala posterior.
 2. **Evaluación inicial:** UMBRAL evalúa automáticamente a Kevin al entrar en el Piso 3, después de la restauración corporal. La evaluación puede realizarse mediante el sistema sin seis pruebas visibles. Los valores solo se incorporan tras escribir y aprobar la escena; no asignar estadísticas retrospectivas a los Pisos 1–2.
