@@ -82,6 +82,9 @@ Antes de escribir la Parte 1, presentar un plan general del piso que incluya:
 - **Parte 2:** continuación, consecuencias, clímax previsto y forma posible de cerrar el piso.
 - **Coherencia con el canon:** cómo encaja el plan con las Reglas Maestras, el estado de Kevin y la continuidad previa.
 - **Incertidumbres relevantes:** decisiones que todavía requieren aprobación o datos que no deben darse por confirmados.
+- **Grupos y escala colectiva:** establecer cuántos participantes afrontan el piso, cómo se distribuyen en grupos de hasta cinco y cómo el tamaño del conjunto influye en la escala y las condiciones del escenario sin aplicar una fórmula rígida ni aumentar automáticamente la fuerza de cada criatura.
+- **Recuperación y recompensas:** recordar que no hay recompensa material automática por escenario; UMBRAL ofrece una única oportunidad de recuperación al inicio de cada escenario A–F, con efectividad decreciente por uso dentro del mismo piso. La recompensa material principal corresponde al piso principal y debe permitir elegir equipo o recursos básicos importantes.
+- **Transiciones y tiempo:** definir la salida física del último escenario, la confirmación necesaria para pasar al siguiente piso principal, la continuidad de los grupos y las condiciones de traslado de personas incapacitadas. El periodo de 12 horas del piso principal termina con el traslado automático e ineludible al escenario A; no fijar un plazo universal para completar el piso entero.
 
 El plan no necesita anticipar cada diálogo, movimiento o detalle. Debe ofrecer suficiente estructura para evitar contradicciones y relleno, pero conservar espacio para que la narración descubra soluciones naturales.
 
@@ -127,7 +130,9 @@ Los cortes entre la Parte 1 y la Parte 2 deben sentirse naturales. No es obligat
 - Mostrar por qué una acción funciona o falla, sin describir cada golpe innecesariamente.
 - No hacer que un enemigo olvide sus capacidades ni introducir una amenaza arbitraria solo para cambiar el resultado.
 - Mantener las consecuencias de heridas, agotamiento, recursos gastados, equipo dañado y decisiones.
-- Al entrar a un nuevo piso principal, restaurar la integridad física de los participantes vivos. Cambiar de escenario dentro del mismo piso no cura. Esta restauración no revive muertos ni repone recursos, y no elimina automáticamente agotamiento, hambre, sed, sueño perdido ni otras condiciones no corporales.
+- Al entrar a un nuevo piso principal, restaurar la integridad física de los participantes vivos. Cambiar de escenario dentro del mismo piso no activa esa restauración principal.
+- Al comienzo de cada escenario A–F, UMBRAL ofrece una única oportunidad de recuperación fisiológica limitada; si se rechaza, se pierde. Sus efectos disminuyen con cada uso dentro del piso, el descanso prolongado ofrece rendimientos decrecientes y las oportunidades no se acumulan ni se guardan. La recuperación puede ayudar a continuar, pero no cura instantáneamente lesiones graves ni regenera partes perdidas.
+- El piso principal es un espacio común. Tras alcanzar físicamente la salida del último escenario, los participantes deben confirmar la transición para trasladarse allí; los grupos que continúan juntos conservan su unidad, y el contacto físico directo permite incluir a un incapacitado. Tras 12 horas en el piso principal, UMBRAL traslada automáticamente a todos al escenario A, sin posibilidad de negarse.
 - No confundir libertad creativa con permiso para ignorar las Reglas Maestras. Si una idea atractiva entra en conflicto con una regla, señalarlo y buscar una solución compatible o solicitar al usuario que confirme un cambio de canon.
 
 ## 7. Continuidad por escenario
@@ -256,4 +261,6 @@ Antes de planificar un piso nuevo, además de leer los cuatro documentos central
 Si se detecta un problema que pueda perjudicar la coherencia, el ritmo o la trama, explicar brevemente el problema y proponer una o varias alternativas concretas antes de avanzar. Estas propuestas son recomendaciones, no cambios automáticos de canon: el usuario decide si las acepta. Si no las acepta, continuar con el plan previsto siempre que no contradiga el canon vigente. Si no se encuentra ningún problema relevante, no añadir observaciones por obligación ni resumir toda la novela; continuar normalmente con la tarea solicitada.
 
 La revisión global no autoriza a importar versiones descartadas, inventar hechos desconocidos, cambiar reglas ya establecidas ni editar documentos sin aprobación. Las reglas generales aprobadas se registran en las Reglas Maestras; los hechos narrativos se incorporan a la continuidad solo cuando corresponda y nunca se deben registrar como acontecimientos ocurridos ideas que todavía no han aparecido en la historia.
+
+Al diseñar escenarios nuevos, comprobar además que la recuperación limitada, las recompensas, la escala colectiva y las transiciones respeten las reglas maestras. Evitar abusos de recuperación, recompensas materiales repetidas por escenario, separaciones de grupo arbitrarias, teletransportes automáticos entre escenarios con letra y ajustes mecánicos de fuerza de monstruos por participante. La dificultad debe emerger de la escala del desafío, las condiciones del entorno y las decisiones; los plazos locales solo se aplican cuando el escenario los justifica y define sus consecuencias.
 
