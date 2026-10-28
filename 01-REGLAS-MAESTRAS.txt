@@ -431,3 +431,28 @@ El dominio técnico se evalúa por disciplina mediante cinco criterios: ejecuci�
 La secuencia normal es práctica, evidencia observable, demostración repetida, evaluación y actualización del rango. No se exige un examen formal en cada ascenso, pero la narración debe aportar hechos suficientes para justificarlo. Una victoria, un golpe afortunado o un combate aislado no bastan. El dominio de una disciplina no se transfiere automáticamente a otra, aunque existan movimientos parecidos.
 
 El arco orientativo de Pisos 3–10 queda aprobado como guía, no como tabla de subidas obligatorias: Piso 3, descubrimiento y calibración; Pisos 4–5, aplicación y consolidación de fundamentos; Pisos 6–8, adaptación, integración y especialización; Pisos 9–10, síntesis y evaluación, con Piso 10 como posible punto de inflexión. Los cambios de atributos serán menos frecuentes que las mejoras de criterio y aprendizaje práctico cuando la evidencia así lo indique. Puede haber varios pisos sin cambios numéricos y aun así existir progreso significativo en técnica, táctica o conocimiento. Las mejoras rápidas requieren causas y límites comprensibles. No hay reinicio del progreso en Piso 10; cualquier capacidad sobrenatural posterior requiere diseño de funciones, límites y costes, y no sustituye automáticamente capacidades físicas, técnicas o tácticas.
+
+
+## 16. Criterio humano, confianza y liderazgo
+
+### 16.1. Razonar no equivale a ser mentalmente infalible
+
+La capacidad analítica de un personaje no debe convertirlo en la persona que siempre interpreta mejor cada situación, encuentra la solución correcta o conserva un razonamiento perfecto bajo presión. Observar no garantiza comprender; comprender no garantiza decidir a tiempo; decidir no garantiza ejecutar. La falta de información, el miedo, la urgencia, el dolor, la fatiga, la atención limitada, la técnica insuficiente y los errores de interpretación o ejecución pueden afectar cada etapa de manera distinta.
+
+La presión no produce siempre la misma reacción. Un personaje puede vacilar, actuar impulsivamente, centrarse en un detalle irrelevante, perder una oportunidad, tomar una decisión suficiente pero imperfecta o actuar sensatamente por hábito. No fabricar errores solo para demostrar que es falible, ni concederle aciertos constantes porque su razonamiento parece lógico. Una revisión posterior puede ser más clara que el pensamiento disponible durante el peligro y no demuestra que el personaje hubiera podido resolverlo en el momento.
+
+### 16.2. Los motivos no son exclusivamente lógicos
+
+Las personas pueden actuar por miedo, interés propio, apego, rabia, gratitud, impulso, confianza, deseo, principios personales o motivos mezclados. No necesitan justificar cada decisión mediante una evaluación racional completa, y sus actos pueden contradecir sus preferencias o cálculos previos. Kevin tiende a evaluar el coste y la utilidad de ayudar, pero eso no lo convierte en una calculadora fría ni en un altruista constante: puede ayudar, negarse, arriesgarse o arrepentirse según su carácter y la situación. No interpretar automáticamente el egoísmo como crueldad ni el riesgo asumido como heroísmo.
+
+### 16.3. Conocimiento, ejecución y aprendizaje bajo presión
+
+Entender una táctica no equivale a ejecutarla. Un personaje puede reconocer una oportunidad y no aprovecharla por falta de técnica, coordinación, reacción, condición física, práctica o tiempo. La capacidad de combate debe desarrollarse mediante práctica, hábitos y evidencia repetida; la experiencia y las ayudas de UMBRAL pueden facilitar el aprendizaje según las reglas establecidas, pero no conceden dominio, atributos, valentía ni ejecución perfecta de manera automática. Aprender una lección tampoco garantiza aplicarla siempre en situaciones reales.
+
+### 16.4. Cooperación y liderazgo no predeterminado
+
+Cooperar no exige elegir inmediatamente un líder ni establecer una jerarquía permanente. Los integrantes pueden compartir información, debatir, actuar por iniciativa propia y tomar decisiones puntuales según el contexto. Las ideas, observaciones y errores no pertenecen exclusivamente al protagonista; otros personajes pueden detectar problemas, proponer soluciones, actuar antes, acertar, equivocarse o salvar a Kevin.
+
+Proponer una táctica, observar bien o razonar con claridad no demuestra por sí solo capacidad de liderazgo. Guiar a otras personas requiere que estas acepten seguir al personaje y que exista confianza suficiente, que puede surgir de la experiencia compartida, de acciones fiables, de asumir consecuencias y de la forma en que trata a los demás. La confianza no se obtiene automáticamente por ser inteligente, tener razón una vez, sacrificarse o recibir el título de líder. Un personaje puede ser competente sin dirigir al grupo, y quien dirige en una situación puede no hacerlo en otra.
+
+No atribuir a Kevin liderazgo, autoridad grupal ni capacidad para coordinar a todos mientras combate por defecto. Puede plantear observaciones o propuestas tácticas, pero los demás mantienen criterio y agencia propios. No convertir a Kevin en el estratega universal ni hacer que Darío u otra persona sea líder por simple descarte. Un posible liderazgo futuro deberá justificarse mediante conductas, relaciones y decisiones narradas; no es una meta obligatoria de la historia.
