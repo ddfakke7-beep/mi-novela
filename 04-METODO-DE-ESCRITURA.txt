@@ -39,7 +39,7 @@ No crear una continuidad nueva ni declarar un escenario como aprobado sin autori
 
 ## 2. Estructura flexible de los pisos y exactamente dos partes por escenario
 
-Un piso puede contener uno o varios escenarios. El piso y el escenario no son términos intercambiables: cada escenario tiene su propio desafío, desarrollo y cierre.
+Un piso puede contener uno o varios escenarios. El piso y el escenario no son términos intercambiables: el piso es la etapa principal completa y puede contener varios escenarios; cada escenario es una prueba individual con su propio desafío, desarrollo y cierre. «Escenario narrativo» significa el escenario concreto que se está escribiendo, y cada escenario narrativo debe dividirse exactamente en Parte 1 y Parte 2. El plan general del piso no sustituye ni reúne en dos partes todos sus escenarios.
 
 **Cada escenario narrativo debe tener exactamente dos partes: Parte 1 y Parte 2.** No añadir una Parte 3 ni una tercera entrega numerada para completar el mismo escenario. La extensión no está limitada por una cuota fija: si el escenario necesita más desarrollo para resolver su desafío, ajustar la extensión de las dos partes previstas.
 
@@ -59,7 +59,7 @@ Como guía flexible, puede organizarse en tres movimientos:
 - **Conflicto y aprendizaje:** desarrollar obstáculos, amenazas, mecanismos, decisiones o interacciones. Los personajes prueban opciones, cometen errores y aprenden mediante sus experiencias.
 - **Resolución parcial y cierre:** resolver o transformar el conflicto que corresponde a esta parte. Puede dejar consecuencias, incógnitas o una nueva complicación que impulse la Parte 2.
 
-### Parte 2 — Consecuencias, clímax y cierre del piso
+### Parte 2 — Consecuencias, clímax y cierre del escenario
 
 También puede organizarse en tres movimientos flexibles:
 
@@ -79,14 +79,14 @@ Antes de escribir la Parte 1, presentar un plan general del piso que incluya:
 - **Objetivo o desafío central:** qué tendrán que afrontar los personajes y por qué importa.
 - **Reglas, peligros y descubrimientos:** qué deben averiguar, qué riesgos existen y qué límites son importantes. Diferenciar lo que sabe el autor de lo que saben los personajes.
 - **Parte 1:** función narrativa, progresión prevista, conflictos importantes y punto de cierre.
-- **Parte 2:** continuación, consecuencias, clímax previsto y forma posible de cerrar el piso.
+- **Parte 2:** continuación, consecuencias, clímax previsto y forma posible de cerrar el escenario.
 - **Coherencia con el canon:** cómo encaja el plan con las Reglas Maestras, el estado de Kevin y la continuidad previa.
 - **Incertidumbres relevantes:** decisiones que todavía requieren aprobación o datos que no deben darse por confirmados.
 - **Grupos y escala colectiva:** establecer cuántos participantes afrontan el piso, cómo se distribuyen en grupos de hasta cinco y cómo el tamaño del conjunto influye en la escala y las condiciones del escenario sin aplicar una fórmula rígida ni aumentar automáticamente la fuerza de cada criatura.
-- **Recuperación y recompensas:** recordar que no hay recompensa material automática por escenario; UMBRAL ofrece una única oportunidad de recuperación al inicio de cada escenario A–F, con efectividad decreciente por uso dentro del mismo piso. La recompensa material principal corresponde al piso principal y debe permitir elegir equipo o recursos básicos importantes.
+- **Recuperación y recompensas:** los sistemas de Combate y Desarrollo y de Recuperación comienzan a funcionar desde el Piso 3; el Sistema de Recompensas aparece bloqueado. El equipo básico y la elección de arma proceden del Sistema de Combate y Desarrollo. Desde el Piso 3 en adelante, valorar durante el análisis del piso si una recompensa general está justificada por las necesidades, los recursos y el nivel de peligro; no asumir que todos los pisos la entregan. La recuperación solo se ofrece al inicio de B, C, D o E en la estructura habitual A–F, y solo desde el Piso 3 en adelante; se acepta o rechaza cuando UMBRAL presenta la oferta, no se solicita libremente en otro momento. Su eficacia disminuye por uso efectivo dentro del mismo piso.
 - **Transiciones y tiempo:** definir la salida física del último escenario, la confirmación necesaria para pasar al siguiente piso principal, la continuidad de los grupos y las condiciones de traslado de personas incapacitadas. El periodo de 12 horas del piso principal termina con el traslado automático e ineludible al escenario A; no fijar un plazo universal para completar el piso entero.
 
-El plan no necesita anticipar cada diálogo, movimiento o detalle. Debe ofrecer suficiente estructura para evitar contradicciones y relleno, pero conservar espacio para que la narración descubra soluciones naturales.
+El plan no necesita anticipar cada diálogo, movimiento o detalle. Debe ofrecer suficiente estructura para evitar contradicciones y relleno, pero conservar espacio para que la narración descubra soluciones naturales. Debe tomar en cuenta lo sucedido en los escenarios anteriores del mismo piso: consecuencias físicas, recursos gastados, información adquirida, mecanismos o tipos de conflicto ya utilizados, decisiones y asuntos pendientes. No repetir por comodidad un desafío o una solución reciente; si una repetición es intencional, debe aportar una variación o una consecuencia significativa.
 
 El plan es una herramienta de trabajo del asistente, no una votación obligatoria. Después de presentarlo, el asistente puede continuar con la escritura según la petición del usuario y el flujo acordado, sin detenerse a pedir aprobación de cada decisión de diseño. Puede ajustar el plan durante el desarrollo si encuentra una solución más coherente, siempre que no contradiga las Reglas Maestras ni los hechos ya confirmados. Si una decisión exige cambiar una regla general o un hecho de canon anterior, no puede hacerlo en silencio: debe señalar el conflicto y resolverlo de forma explícita antes de continuar.
 
@@ -131,7 +131,7 @@ Los cortes entre la Parte 1 y la Parte 2 deben sentirse naturales. No es obligat
 - No hacer que un enemigo olvide sus capacidades ni introducir una amenaza arbitraria solo para cambiar el resultado.
 - Mantener las consecuencias de heridas, agotamiento, recursos gastados, equipo dañado y decisiones.
 - Al entrar a un nuevo piso principal, restaurar la integridad física de los participantes vivos. Cambiar de escenario dentro del mismo piso no activa esa restauración principal.
-- Al comienzo de cada escenario A–F, UMBRAL ofrece una única oportunidad de recuperación fisiológica limitada; si se rechaza, se pierde. Sus efectos disminuyen con cada uso dentro del piso, el descanso prolongado ofrece rendimientos decrecientes y las oportunidades no se acumulan ni se guardan. La recuperación puede ayudar a continuar, pero no cura instantáneamente lesiones graves ni regenera partes perdidas.
+- Desde el Piso 3 en adelante, UMBRAL ofrece una oportunidad de recuperación fisiológica limitada únicamente al comienzo de los escenarios B, C, D o E de la estructura habitual A–F. No se ofrece en pisos anteriores, en A ni en F, y no puede solicitarse libremente en otro momento. Si se rechaza una oferta, esa oportunidad concreta se pierde, pero puede aceptarse otra oferta posterior del mismo piso. La eficacia disminuye por uso efectivo; el descanso prolongado ofrece rendimientos decrecientes y las oportunidades no se acumulan ni se guardan. La recuperación puede ayudar a continuar, pero no cura instantáneamente lesiones graves ni regenera partes perdidas.
 - El piso principal es un espacio común. Tras alcanzar físicamente la salida del último escenario, los participantes deben confirmar la transición para trasladarse allí; los grupos que continúan juntos conservan su unidad, y el contacto físico directo permite incluir a un incapacitado. Tras 12 horas en el piso principal, UMBRAL traslada automáticamente a todos al escenario A, sin posibilidad de negarse.
 - No confundir libertad creativa con permiso para ignorar las Reglas Maestras. Si una idea atractiva entra en conflicto con una regla, señalarlo y buscar una solución compatible o solicitar al usuario que confirme un cambio de canon.
 
@@ -159,7 +159,7 @@ El resumen se entrega aparte de la narración; no se inserta dentro de la histor
 No se actualiza el canon definitivo antes de que el usuario apruebe el escenario completo. Después de aprobarlo, revisar y actuar sobre los archivos siguientes:
 
 - **`03-CONTINUIDAD-ACTUAL.txt` — obligatorio en cada escenario:** añadir el registro del escenario aprobado y actualizar el panorama general si cambió. Conservar hechos, sospechas y desconocidos por separado, consecuencias vigentes, recursos y el punto exacto desde el que continúa la historia. Respetar la plantilla que ya existe.
-- **`02-KEVIN.txt` — revisar obligatoriamente en cada escenario:** comprobar y dejar correcta la ficha de Kevin para el inicio del siguiente escenario. Registrar los cambios duraderos confirmados en estado físico o mental, conocimientos, capacidades, equipo, recursos, relaciones y objetivos. Mantener también un registro compacto de la party y de los personajes recurrentes que deban seguirse; actualizar incorporaciones, separaciones, estado, objetivos, conocimientos y vínculos cuando afecten la continuidad. El máximo orientativo es diez personajes con seguimiento activo en total, incluyendo a Kevin; los personajes pasajeros no requieren seguimiento extenso. No inventar cambios para rellenar la ficha; si no cambió algo, conservar el dato correcto.
+- **`02-KEVIN.txt` — revisar obligatoriamente en cada escenario:** comprobar y dejar correcta la ficha de Kevin para el inicio del siguiente escenario. Guiarse por el cierre del último escenario aprobado y por los hechos confirmados, no por recuerdos vagos ni por una versión anterior del plan. Registrar los cambios duraderos confirmados en estado físico o mental, conocimientos, capacidades, equipo, recursos, relaciones y objetivos. Mantener también un registro compacto de la party y de los personajes recurrentes que deban seguirse; actualizar incorporaciones, separaciones, estado, objetivos, conocimientos y vínculos cuando afecten la continuidad. El máximo orientativo es diez personajes con seguimiento activo en total, incluyendo a Kevin; los personajes pasajeros no requieren seguimiento extenso. Revisar además las heridas y limitaciones físicas en la ficha correspondiente y reflejarlas en la continuidad cuando afecten acciones futuras; distinguir lesiones corporales de agotamiento, hambre, sed, falta de sueño, venenos, enfermedades u otras condiciones. No inventar cambios para rellenar la ficha; si no cambió algo, conservar el dato correcto.
 - **`01-REGLAS-MAESTRAS.txt` — revisar si corresponde:** si el escenario aprobado introduce o confirma una regla general, límite o mecánica del mundo, comprobar que encaje con las reglas existentes. Solo incorporar cambios generales aprobados. Si existe contradicción, detenerse y consultar al usuario; no adaptar las reglas en silencio para salvar la trama.
 - **`04-METODO-DE-ESCRITURA.txt` — solo si corresponde:** actualizarlo cuando el usuario apruebe cambios al procedimiento de trabajo.
 
@@ -248,7 +248,8 @@ Antes de dar por terminada una escena importante, comprobar:
 - Si el error o la sorpresa tienen una causa comprensible y no contradicen hechos ya establecidos.
 - Qué opciones reales tiene Kevin y por qué elige una de ellas.
 - Si el resultado depende de capacidades, decisiones y circunstancias, en lugar de privilegios del protagonista.
-- Si las heridas, el agotamiento, los recursos perdidos y las consecuencias afectan las acciones posteriores.
+- Si las heridas, el agotamiento, los recursos perdidos y las consecuencias afectan las acciones posteriores; contrastar las lesiones con la ficha correspondiente y recordar que cambiar de escenario no restaura el cuerpo, mientras que entrar en un nuevo piso principal sí restaura las lesiones corporales de los participantes vivos.
+- Si el objetivo del escenario, la verificación o declaración de superación y la salida/transición están claramente diferenciados, sin teletransportes ni avances automáticos no establecidos.
 - Si el conflicto puede resolverse por otro personaje, terminar en retirada o dejar una pérdida sin que eso invalide la historia.
 - Si la escena cumple una función narrativa sin forzar una victoria, una lesión, un sacrificio ni una revelación.
 
