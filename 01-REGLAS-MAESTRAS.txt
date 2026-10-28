@@ -237,19 +237,12 @@ Al llegar al Piso 3 se habilita el **Sistema de Combate y Desarrollo**. UMBRAL a
 
 Al activarse el Sistema de Combate y Desarrollo en el Piso 3, UMBRAL evalúa automáticamente las capacidades de cada participante y establece una ficha inicial individual. La evaluación ocurre después de la restauración corporal propia de la entrada al piso principal. Debe distinguir la capacidad habitual de una limitación temporal; el estado actual, las lesiones, la fatiga y otras condiciones se registran aparte y pueden afectar el rendimiento sin cambiar automáticamente el atributo de referencia.
 
-La propuesta inicial utiliza seis atributos:
-- **Fuerza:** capacidad para ejercer fuerza y generar potencia física.
-- **Velocidad:** rapidez de desplazamiento y aceleración.
-- **Resistencia:** capacidad para sostener esfuerzos físicos.
-- **Coordinación:** equilibrio, control corporal y precisión motora.
-- **Percepción:** detección e interpretación de señales sensoriales.
-- **Reacción:** rapidez para responder a un estímulo ya detectado.
-
-La escala de referencia propuesta va de 1 a 10, con 5 como referencia humana ordinaria. Los intervalos orientativos son 1–2 (muy bajo), 3–4 (inferior a la referencia), 5 (referencia ordinaria), 6–7 (superior a la referencia), 8–9 (excepcional) y 10 (límite superior de la referencia humana definida por UMBRAL). La calibración exacta y el alcance de valores superiores a 10 quedan pendientes de definición. Los valores son estimaciones concretas de capacidades habituales, no mediciones perfectas ni probabilidades de victoria. Cada punto debe representar una diferencia relevante y observable; no equivale a una cantidad fija de meses o años de entrenamiento ni implica un porcentaje universal de mejora.
+Los seis atributos aprobados son Fuerza, Velocidad, Resistencia, Coordinación, Percepción y Reacción.
+La escala de referencia aprobada va de 1 a 10, con 5 como referencia humana ordinaria. Los intervalos orientativos son 1–2 (muy bajo), 3–4 (inferior a la referencia), 5 (referencia ordinaria), 6–7 (superior a la referencia), 8–9 (excepcional) y 10 (límite superior de la referencia humana definida por UMBRAL). No usar valores superiores a 10 hasta que se diseñe expresamente una escala posterior. Los valores son estimaciones concretas de capacidades habituales, no mediciones perfectas ni probabilidades de victoria. Cada punto debe representar una diferencia relevante y observable; no equivale a una cantidad fija de meses o años de entrenamiento ni implica un porcentaje universal de mejora.
 
 La evaluación inicial no concede experiencia, técnica ni dominio de armas. No se presupone que todas las personas comiencen con el mismo valor ni que una persona activa sea experta en combate. No se asignarán estadísticas retrospectivas a Kevin por sus experiencias de los pisos 1 y 2; la ficha numérica comienza con la evaluación del Piso 3. Los hechos y aprendizajes de esos pisos siguen siendo parte de la continuidad narrativa, pero no se convertirán retroactivamente en progresión numérica. Para Kevin, la referencia de diseño aprobada antes de escribir la evaluación es Fuerza 4, ligeramente inferior a la referencia humana ordinaria. Los otros cinco atributos se elegirán de manera razonada entre 4 y 5, según lo que resulte coherente con su condición habitual y la evidencia disponible; solo se saldrá de ese intervalo si una justificación narrativa clara lo exige. Estos son criterios para preparar la evaluación, no una ficha numérica ya confirmada dentro de la historia: los valores definitivos se mostrarán en la escena del Piso 3 y quedarán fijados al aprobarla.
 
-#### Interpretación provisional de la escala
+#### Interpretación de la escala aprobada
 
 La escala 1–10 utiliza estas bandas orientativas:
 - **1–2 — Muy bajo:** capacidad claramente limitada o muy por debajo de la referencia en el aspecto medido.
@@ -259,7 +252,7 @@ La escala 1–10 utiliza estas bandas orientativas:
 - **8–9 — Excepcional:** capacidad poco frecuente, comparable con niveles humanos muy altos en el aspecto medido.
 - **10 — Límite superior de la referencia humana:** extremo de la escala humana de referencia definida por UMBRAL; no significa invulnerabilidad ni superioridad en todos los aspectos.
 
-Un punto no representa un porcentaje fijo de mejora y la distancia entre valores no tiene que ser matemáticamente idéntica en todos los tramos ni en todos los atributos. Los números ordenan capacidades y representan diferencias relevantes que deberían poder observarse. El valor 10 no es el límite absoluto de todo lo que pueda existir en UMBRAL: cualquier escala sobrehumana, incluidos valores superiores a 10, queda fuera de la progresión inicial y deberá definirse expresamente si la historia la necesita. La calibración operativa exacta de cada valor permanece pendiente.
+Un punto no representa un porcentaje fijo de mejora y la distancia entre valores no tiene que ser matemáticamente idéntica en todos los tramos ni en todos los atributos. Los números ordenan capacidades y representan diferencias relevantes que deberían poder observarse. El valor 10 no es el límite absoluto de todo lo que pueda existir en UMBRAL: cualquier escala sobrehumana, incluidos valores superiores a 10, queda fuera de la progresión inicial y deberá definirse expresamente si la historia la necesita. La escala y sus criterios de interpretación están aprobados; no hace falta inventar una fórmula matemática para aplicarlos.
 
 #### Capacidad habitual, condición actual y rendimiento efectivo
 
@@ -284,7 +277,7 @@ No es obligatorio realizar una prueba formal después de cada escena. Las eviden
 
 El dominio técnico se valora por disciplina —por ejemplo, espada, lanza, arma improvisada o combate sin armas—, no como una única competencia universal. Para justificar su evolución, observar cinco dimensiones: **ejecución** (realiza correctamente las acciones), **consistencia** (puede repetirlas), **control** (mantiene equilibrio, distancia y posición), **adaptación** (ajusta la técnica ante cambios) y **desempeño bajo presión** (conserva suficiente control en situaciones exigentes).
 
-Como orientación general, Rango 0 implica manejo no fiable; Rango 1, acciones básicas todavía irregulares; Rango 2, fundamentos funcionales y consistentes en situaciones conocidas; Rango 3, adaptación técnica sólida bajo presión y en condiciones variables; Rango 4, dominio profundo y adaptación eficaz ante situaciones poco familiares. Estas descripciones no sustituyen los criterios concretos de ascenso: las pruebas y evidencias específicas para pasar de un rango a otro quedan pendientes de definición. Los rangos no garantizan la victoria ni vuelven infalible a un experto.
+Los rangos técnicos y sus criterios operativos aprobados se definen en la sección 15.8. Aplicar esa definición de forma consistente, sin crear interpretaciones alternativas ni exigir una tabla rígida de puntos o experiencia. Los rangos no garantizan la victoria ni vuelven infalible a un experto.
 
 #### Ritmos distintos de progreso
 
@@ -295,7 +288,7 @@ Un personaje puede volverse más competente por corregir errores, administrar me
 
 #### Dominio técnico y desarrollo
 
-El dominio técnico se registra separado de los atributos. La propuesta inicial contempla cinco rangos demostrables: **Rango 0 — Sin dominio**, **Rango 1 — Principiante**, **Rango 2 — Competente**, **Rango 3 — Avanzado** y **Rango 4 — Experto**. Cada rango debe definirse mediante capacidades observables y consistentes, no por puntos de experiencia, número de enemigos derrotados o misiones completadas. Aprender una técnica con un arma no concede automáticamente dominio de otras armas.
+El dominio técnico se registra separado de los atributos y se valora por disciplina. Los cinco rangos aprobados (Rango 0 — Sin dominio; Rango 1 — Principiante; Rango 2 — Competente; Rango 3 — Avanzado; Rango 4 — Experto) y sus criterios observables se definen en la sección 15.8. No se asciende por puntos de experiencia, número de enemigos derrotados o escenarios completados. Aprender una técnica con un arma no concede automáticamente dominio de otras armas.
 
 Los atributos pueden mejorar mediante práctica, entrenamiento, experiencia y adaptación sostenida. El dominio técnico mejora cuando la persona demuestra que ejecuta las técnicas con mayor consistencia y adaptación. El criterio y el conocimiento también pueden mejorar sin cambio numérico. UMBRAL actualiza los valores cuando tiene evidencia suficiente de una mejora sostenida o necesita afinar una estimación; una sesión, combate o victoria aislados no bastan por sí solos. No hay puntos automáticos por matar criaturas, recibir daño o completar escenarios.
 
