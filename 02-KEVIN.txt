@@ -163,7 +163,7 @@ Las definiciones operativas completas se encuentran también en las Reglas Maest
 - Aunque el archivo se llame ficha de Kevin, también puede contener un registro compacto de los miembros de su party y de otros personajes recurrentes necesarios para mantener la continuidad. No convertirlo en una enciclopedia de cada persona que aparezca.
 - Mantener como máximo orientativo diez personajes con seguimiento activo en total, incluyendo a Kevin. Si hay más candidatos, priorizar a quienes viajan con Kevin, pueden reaparecer pronto o tienen consecuencias importantes. Los personajes pasajeros no necesitan ficha detallada; se pueden añadir al seguimiento si la trama hace que se vuelvan recurrentes.
 - Si un dato aún no se ha establecido, dejarlo en blanco o marcarlo como pendiente.
-- Las Reglas Maestras y la continuidad aprobada prevalecen sobre esta ficha si aparece una discrepancia; señalar la discrepancia antes de resolverla.
+- Las Reglas Maestras prevalecen sobre esta ficha y sobre cualquier otro documento si existe una contradicción sobre el funcionamiento del mundo. La continuidad aprobada registra los hechos narrativos y debe respetarse siempre que no contradiga las Reglas Maestras; si parece haber una discrepancia, señalarla y resolverla explícitamente antes de continuar.
 
 - **Escenario / momento:** Piso 1D — «El corredor de las compuertas».
 - **Cambio confirmado:** Kevin, Vera, Darío y Saúl superaron varias compuertas mediante observación y pruebas limitadas. Kevin comprobó que controles y lengüetas metálicas alteran compuertas y que una barra puede retener una estructura en una muesca durante el tiempo observado. Al final del corredor abrió una puerta con una placa metálica lisa; los cuatro permanecen en el umbral sin cruzarla.
