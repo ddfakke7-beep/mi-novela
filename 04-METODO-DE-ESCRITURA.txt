@@ -248,3 +248,12 @@ Antes de dar por terminada una escena importante, comprobar:
 - Si la escena cumple una función narrativa sin forzar una victoria, una lesión, un sacrificio ni una revelación.
 
 Estas comprobaciones son una herramienta interna de coherencia, no una lista que deba exponerse al lector ni una obligación de hacer que cada escena sea extrema. La intensidad debe responder a la situación concreta.
+
+## 13. Auditoría general antes de iniciar un piso nuevo
+
+Antes de planificar un piso nuevo, además de leer los cuatro documentos centrales y comprobar la continuidad inmediata, revisar el estado global de la historia y las reglas que puedan afectar al diseño. La revisión debe identificar contradicciones, vacíos relevantes, progresión estancada, repetición de conflictos, reglas que todavía no están definidas y consecuencias que puedan afectar al argumento general.
+
+Si se detecta un problema que pueda perjudicar la coherencia, el ritmo o la trama, explicar brevemente el problema y proponer una o varias alternativas concretas antes de avanzar. Estas propuestas son recomendaciones, no cambios automáticos de canon: el usuario decide si las acepta. Si no las acepta, continuar con el plan previsto siempre que no contradiga el canon vigente. Si no se encuentra ningún problema relevante, no añadir observaciones por obligación ni resumir toda la novela; continuar normalmente con la tarea solicitada.
+
+La revisión global no autoriza a importar versiones descartadas, inventar hechos desconocidos, cambiar reglas ya establecidas ni editar documentos sin aprobación. Las reglas generales aprobadas se registran en las Reglas Maestras; los hechos narrativos se incorporan a la continuidad solo cuando corresponda y nunca se deben registrar como acontecimientos ocurridos ideas que todavía no han aparecido en la historia.
+
