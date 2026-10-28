@@ -269,41 +269,102 @@ Al diseñar escenarios nuevos, comprobar además que la recuperación limitada, 
 
 Estas reglas de seguimiento de progresión se aplican **desde el Piso 3 en adelante**. Los pisos 1 y 2 establecieron la supervivencia y el aprendizaje inicial de las reglas del entorno, pero no se les hará una auditoría retrospectiva de atributos ni se les asignarán estadísticas por los enfrentamientos o pruebas que ocurrieron allí. Sus hechos, conocimientos y consecuencias confirmados siguen siendo parte de la continuidad y deben respetarse; simplemente no se inventará una progresión numérica retroactiva.
 
-### 14.1. Evaluación inicial del Piso 3
+### 14.1. Evaluación inicial del Piso 3 y escala de atributos
 
-Cuando Kevin cruce al Piso 3 y se active el Sistema de Combate y Desarrollo, UMBRAL evaluará automáticamente a cada participante y establecerá sus valores iniciales después de la restauración corporal del piso principal. La ficha de Kevin debe registrar esos valores en ese momento, no antes. La evaluación distingue capacidades habituales de estado físico temporal. No asignar valores definitivos por intuición antes de que la escena de activación los establezca.
+Cuando Kevin cruce al Piso 3 y se active el Sistema de Combate y Desarrollo, UMBRAL evaluará automáticamente a cada participante después de la restauración corporal del piso principal. La ficha de Kevin debe registrar los valores cuando la escena los confirme, no antes. No asignar estadísticas definitivas por intuición ni anticipar resultados antes de escribir y aprobar ese momento.
 
-La ficha utiliza seis atributos: Fuerza, Velocidad, Resistencia, Coordinación, Percepción y Reacción. La escala de trabajo propuesta es 1–10, con 5 como referencia humana ordinaria; los valores son estimaciones concretas, no porcentajes de victoria ni equivalencias exactas con meses o años de entrenamiento. Los rangos de dominio técnico se registran aparte (Sin dominio, Principiante, Competente, Avanzado y Experto) y deben justificarse con capacidades demostrables.
+Los seis atributos de trabajo son Fuerza, Velocidad, Resistencia, Coordinación, Percepción y Reacción. La escala de referencia propuesta es 1–10, con 5 como referencia humana ordinaria:
+- 1–2: muy bajo.
+- 3–4: inferior a la referencia.
+- 5: referencia humana ordinaria.
+- 6–7: superior a la referencia.
+- 8–9: excepcional.
+- 10: límite superior de la referencia humana definida por UMBRAL.
 
-### 14.2. Seguimiento de progresión en cada escenario desde el Piso 3
+Un punto no representa un porcentaje fijo ni una cantidad universal de entrenamiento. Los valores son estimaciones de capacidades habituales, no probabilidades de victoria. La posible escala sobrehumana por encima de 10 queda pendiente y no se debe usar sin diseño explícito.
+
+### 14.2. Capacidad base, condición y rendimiento efectivo
+
+Mantener separados:
+- **Atributo habitual:** la capacidad relativamente estable que mide la cifra.
+- **Condición actual:** lesiones, dolor, fatiga, sueño, hambre, sed, enfermedad y otras limitaciones.
+- **Rendimiento efectivo:** lo que el personaje puede hacer en una situación concreta, según su capacidad habitual, condición, técnica, equipo, terreno, información y circunstancias.
+
+No traducir automáticamente cada lesión o condición a una resta de puntos. Registrar sus efectos funcionales en acciones concretas. La restauración al entrar en un piso principal cura lesiones corporales conforme a las Reglas Maestras, pero no elimina automáticamente otras condiciones.
+
+### 14.3. Evidencia necesaria para actualizar atributos
+
+Aplicar esta escala interna de evidencia:
+1. **Indicio:** una acción aislada parece mostrar mejora, pero puede depender de suerte, adrenalina, técnica, anticipación o condiciones favorables. No cambia la cifra.
+2. **Evidencia repetida:** la mejora aparece en varias ocasiones comparables; se registra una tendencia.
+3. **Adaptación sostenida:** la mejora se mantiene tras práctica o adaptación a lo largo del tiempo y en condiciones suficientemente variadas; procede reevaluar.
+4. **Cambio confirmado:** la reevaluación confirma que la capacidad habitual corresponde a otro valor; se actualiza el atributo.
+
+No es obligatorio que UMBRAL realice una prueba formal tras cada escena. Las evidencias pueden surgir de la narración aprobada. No subir atributos por matar criaturas, recibir daño, ganar una pelea, completar un escenario ni realizar una sesión aislada de entrenamiento.
+
+### 14.4. Dominio técnico y conocimiento práctico
+
+Registrar el dominio por disciplina, no como una competencia universal. Los rangos de trabajo son Rango 0 (Sin dominio), Rango 1 (Principiante), Rango 2 (Competente), Rango 3 (Avanzado) y Rango 4 (Experto). Para valorar una evolución, comprobar ejecución, consistencia, control, adaptación y desempeño bajo presión. Las descripciones generales de cada rango están en las Reglas Maestras; los criterios concretos para ascender entre rangos quedan pendientes y no deben improvisarse como una tabla rígida.
+
+El dominio de una disciplina no se transfiere automáticamente a otra. Recibir un arma no concede su dominio. Una victoria tampoco demuestra por sí sola un rango superior.
+
+El conocimiento práctico puede mejorar después de una experiencia importante; la técnica suele necesitar práctica y consistencia; los atributos físicos requieren adaptación sostenida y confirmación. Un personaje puede mejorar su criterio, lectura de amenazas, gestión de energía, elección de rutas o uso del entorno sin subir atributos ni rangos. Conocer una lección no garantiza aplicarla siempre bajo miedo, dolor, fatiga o presión.
+
+### 14.5. Seguimiento de progreso en cada escenario
 
 Antes de planificar y después de cerrar un escenario de Piso 3 o posterior, revisar la progresión acumulada y el estado vigente de Kevin y de sus compañeros de grupo activo. Comprobar:
-
-- Atributos registrados y cambios que estén respaldados por una mejora sostenida, no por una victoria aislada.
-- Dominio técnico demostrado, entrenamiento realizado y errores que Kevin haya aprendido a corregir.
-- Conocimientos tácticos y sobre criaturas, entornos, peligros o reglas que afecten decisiones futuras.
+- Atributos registrados y evidencias que justifiquen cualquier cambio.
+- Dominio técnico demostrado, práctica realizada y errores corregidos.
+- Conocimientos tácticos y sobre criaturas, entornos, peligros o reglas.
 - Estado físico actual, lesiones, fatiga y otras condiciones, separados de los atributos habituales.
 - Equipo, deterioro, recursos consumidos, objetos perdidos y nuevas herramientas confirmadas.
-- Consecuencias de las decisiones, relaciones, cooperación y cambios de integrantes del grupo.
-- Qué desafío, conducta o solución se utilizó en escenarios anteriores del mismo piso, para evitar repetirlos sin una variación o consecuencia significativa.
+- Consecuencias de decisiones, relaciones, cooperación y cambios en el grupo.
+- Desafíos, criaturas, mecanismos, soluciones y tipos de decisión ya usados en escenarios anteriores del mismo piso.
 
-Cada mejora debe tener una causa comprensible y un efecto observable. No otorgar puntos automáticos por matar criaturas, completar escenarios o recibir daño. Un personaje puede progresar técnicamente o en criterio sin que cambie ningún atributo. Los valores se actualizan cuando existe evidencia suficiente de un cambio sostenido o cuando UMBRAL afina una estimación; no se exige una notificación después de cada acción.
+Cada mejora debe tener una causa comprensible y un efecto observable. El progreso puede ser desigual o detenerse; no se exige que cada escenario cambie la ficha. No añadir mejoras que solo se hayan propuesto o que la narración todavía no haya demostrado.
 
-### 14.3. Seguimiento selectivo de personajes
+### 14.6. Arco de progresión orientativo entre los Pisos 3 y 10
+
+Usar este arco como guía para la planificación global, no como una lista obligatoria de recompensas ni como diseño cerrado de los escenarios:
+- **Piso 3 — Descubrimiento y calibración:** activación de los sistemas, evaluación inicial, elección y familiarización con el equipo, distinción entre capacidad física y técnica.
+- **Piso 4 — Aplicación:** uso de fundamentos en condiciones variables de terreno, distancia, equipo y movimiento.
+- **Piso 5 — Consolidación:** mayor consistencia; posibles cambios físicos solo si la evidencia los justifica.
+- **Piso 6 — Adaptación:** respuesta a situaciones nuevas sin repetir mecánicamente una única solución.
+- **Piso 7 — Integración:** combinación de técnica, movimiento, lectura del entorno, recursos y cooperación.
+- **Piso 8 — Especialización:** fortalezas y estilo reconocibles, con debilidades que persisten en otras disciplinas.
+- **Piso 9 — Síntesis y evaluación:** combinación de aprendizajes, preparación, criterio y gestión de costes.
+- **Piso 10 — Posible punto de inflexión:** una nueva etapa puede considerarse si la historia la justifica. Las capacidades sobrenaturales no aparecen automáticamente y no deben borrar el progreso previo.
+
+Los pisos pueden combinar funciones, adelantarlas o retomarlas. No es obligatorio que cada piso otorgue una mejora de atributo, rango, arma, recompensa ni habilidad. La dificultad no debe escalar automáticamente las cifras de los enemigos para igualar a Kevin: puede surgir del peligro, terreno, visibilidad, recursos, información incompleta, presión temporal justificada, decisiones y cooperación. No aumentar todos esos factores a la vez por rutina.
+
+### 14.7. Equipo y rendimiento
+
+Registrar para cada objeto relevante su función, adecuación al contexto, estado y limitaciones. El equipo amplía las opciones, pero no reemplaza la técnica: un arma puede ser útil en una situación y difícil de manejar en otra; recibir una herramienta no significa dominarla. No crear un sistema universal de daño numérico para todo el equipo salvo que la historia llegue a necesitarlo y se defina expresamente.
+
+### 14.8. Seguimiento selectivo de personajes
 
 Mantener el detalle numérico de atributos y rangos de dominio para Kevin y los compañeros que formen parte de su grupo activo de viaje. Si alguien se separa, conservar su última ficha como referencia solo mientras sea necesaria para una posible continuidad; no seguir desarrollando sus estadísticas fuera de escena sin hechos que lo justifiquen.
 
-Para otros participantes o grupos, no crear tablas completas de atributos. Si es razonable que reaparezcan, registrar únicamente datos concisos útiles para reconocerlos y mantener coherencia: identidad, relación o afiliación, equipo visible, condición conocida, acciones o experiencia observadas y una valoración cualitativa de su nivel de combate cuando exista base suficiente. Distinguir siempre entre una impresión de Kevin, una valoración del narrador basada en hechos observados y una capacidad confirmada. Se puede describir a un grupo como fuerte, competente o peligroso sin asignar estadísticas individuales.
+Para otros participantes o grupos, no crear tablas completas de atributos. Si es razonable que reaparezcan, registrar únicamente datos concisos útiles para reconocerlos y mantener coherencia: identidad, relación o afiliación, equipo visible, condición conocida, acciones o experiencia observadas y una valoración cualitativa de su nivel de combate cuando exista base suficiente. Distinguir siempre entre una impresión de Kevin, una valoración basada en hechos observados y una capacidad confirmada.
 
-### 14.4. Diseño de pisos con continuidad y progresión
+### 14.9. Diseño de pisos con continuidad y progresión
 
-Al diseñar cada nuevo piso desde el Piso 3, revisar el estado actual de Kevin y su grupo, los registros aprobados de los pisos y escenarios anteriores que afecten a la historia, y las capacidades y conocimientos que ya han demostrado. No diseñar amenazas como si los personajes empezaran de cero, ni escalar automáticamente todos los enemigos para igualar los atributos de Kevin.
+Al diseñar cada nuevo piso desde el Piso 3, revisar el estado actual de Kevin y su grupo, los registros aprobados de pisos y escenarios anteriores que afecten a la historia, y las capacidades y conocimientos que ya han demostrado. No diseñar amenazas como si los personajes empezaran de cero ni escalar automáticamente todos los enemigos para igualar los atributos de Kevin.
 
-El piso debe poner a prueba, ampliar o cuestionar capacidades previas de manera coherente. Puede exigir aprender algo nuevo, cambiar de estrategia, usar el equipo de otra forma, cooperar, conservar recursos o reconocer que una amenaza supera sus capacidades. La dificultad también puede surgir del terreno, las condiciones, el número de amenazas, la escasez, la información incompleta y las decisiones. No todos los escenarios deben centrarse en combatir ni todos los combates deben acabar con una muerte.
+El piso debe poner a prueba, ampliar o cuestionar capacidades previas de manera coherente. Puede exigir aprender algo nuevo, cambiar de estrategia, usar el equipo de otra forma, cooperar, conservar recursos o reconocer que una amenaza supera sus capacidades. No todos los escenarios deben centrarse en combatir ni todos los combates deben acabar con una muerte.
 
 Antes de diseñar un escenario nuevo dentro del mismo piso, revisar explícitamente los escenarios anteriores de ese piso: qué conflictos, mecanismos, criaturas, soluciones y tipos de decisiones ya se usaron; qué recursos se gastaron; qué lesiones o consecuencias persisten; y qué aprendieron los personajes. Repetir algo solo cuando exista una variación sustancial o la repetición tenga una consecuencia narrativa clara.
 
 Tras la aprobación de cada escenario desde el Piso 3, actualizar el archivo 02-KEVIN.txt con los cambios confirmados en la ficha de Kevin y de sus compañeros activos, y 03-CONTINUIDAD-ACTUAL.txt con los hechos, consecuencias y punto de continuación. No modificar los registros de progresión con mejoras que solo se hayan propuesto o que la narración todavía no haya demostrado.
 
-Las habilidades sobrenaturales no forman parte de la progresión inicial y no deben introducirse antes del Piso 10. A partir de ese piso podrán evaluarse si la historia lo requiere; no son una recompensa automática por alcanzar el piso ni deben diseñarse de antemano como un catálogo completo.
+### 14.10. Decisiones de progresión pendientes
 
+Mantener expresamente pendientes, sin resolverlas por inferencia:
+1. **Calibración de atributos:** pruebas, referencias prácticas y diferencias operativas entre valores consecutivos.
+2. **Evaluación inicial de Kevin:** procedimiento concreto de UMBRAL y valores que establece en el Piso 3.
+3. **Ascenso técnico:** requisitos concretos para pasar de un rango al siguiente en cada disciplina.
+4. **Ritmo global de progresión:** distribución orientativa de mejoras físicas y técnicas entre los Pisos 3 y 10.
+
+Resolver estos puntos en una conversación de diseño antes de tratarlos como reglas definitivas. Hasta entonces, aplicar los principios generales establecidos y mantener sin asignar los datos que dependan de esas decisiones.
+
+Las habilidades sobrenaturales no forman parte de la progresión inicial y no deben introducirse antes del Piso 10. A partir de ese piso podrán evaluarse si la historia lo requiere; no son una recompensa automática por alcanzar el piso ni deben diseñarse de antemano como un catálogo completo.
