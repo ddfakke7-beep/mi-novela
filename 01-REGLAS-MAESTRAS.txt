@@ -248,7 +248,7 @@ El equipo básico proporcionado por el Sistema de Combate y Desarrollo es indepe
 
 Los monstruos no dejan botín al morir: no proporcionan armas, equipo, objetos, materiales ni recompensas por sí mismos. Cualquier recurso obtenido debe proceder de una fuente establecida dentro del mundo, como una entrega autorizada, una recompensa definida o un objeto que ya exista en el entorno; no convertir la muerte de una criatura en una fuente automática de botín.
 
-Las recompensas materiales por completar un escenario no son automáticas. La recompensa principal de progresión corresponde al piso principal y debe respetar las reglas generales de la sección 15.3, sin asumir que el Sistema de Recompensas bloqueado es quien la entrega ni inventar ahora su mecanismo. Los objetivos extraordinarios u opcionales podrán ofrecer una recompensa adicional si sus condiciones, riesgos y valor se justifican de antemano.
+Las recompensas materiales por completar un escenario no son automáticas. Al completar un piso principal se mantiene la regla general de una recompensa principal de progresión, con opciones útiles de equipo y/o recursos para distintos estilos y capacidades. Los objetivos extraordinarios u opcionales podrán ofrecer una recompensa adicional si sus condiciones, riesgos y valor se justifican de antemano. Estas reglas generales no determinan qué función tendrá el Sistema de Recompensas bloqueado ni implican que sea el mecanismo que entrega esas recompensas; esa relación queda sin definir.
 
 ### 15.4. Enfoque de los escenarios desde el Piso 3
 
