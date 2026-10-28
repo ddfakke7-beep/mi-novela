@@ -10,7 +10,7 @@ UMBRAL es una torre de supervivencia, exploración, combate y progresión. Sus p
 
 La torre acelera y potencia el desarrollo natural del cuerpo y de las capacidades humanas. Con entrenamiento, experiencia, exposición y adaptación, una persona puede alcanzar progresivamente capacidades sobrehumanas. La progresión debe ganarse y respetar las condiciones establecidas.
 
-La estructura general distingue los pisos principales numerados (Piso 1, Piso 2, Piso 3, etc.) de los escenarios identificados con una letra (1A–1F, 2A–2F, etc.). Los pisos principales son zonas de recuperación y descanso entre etapas; los escenarios con letra son las pruebas que deben superarse para avanzar. La cantidad de escenarios de cada piso se determina durante el diseño.
+La estructura general distingue los pisos principales numerados (Piso 1, Piso 2, Piso 3, etc.) de los escenarios o etapas que pueden identificarse con letras (1A–1F, 2A–2F, etc.). Los pisos principales son zonas comunes de recuperación, preparación y encuentro entre etapas. Las letras identifican escenarios o etapas cuando se usa esa convención, pero no obligan a que cada letra sea una prueba independiente: varios escenarios pueden formar partes conectadas de un desafío global, y un piso también puede tener una estructura distinta de A–F. La estructura y cantidad de escenarios se determinan durante el diseño según lo que necesite la experiencia completa del piso.
 
 ## 2. Sistema de estadísticas
 
@@ -39,7 +39,7 @@ Las mejoras importantes deben tener una causa comprensible y respetar los límit
 
 ## 4. Escenarios y condiciones
 
-Cada escenario debe tener un propósito reconocible, un objetivo o desafío central y condiciones de cumplimiento definidas durante el diseño. Antes de escribirlo, se debe definir su alcance, sus principales riesgos, las condiciones relevantes y cómo se verificará su superación. Cumplir el objetivo, recibir la declaración de escenario superado y alcanzar la salida para continuar son hitos distintos: según el diseño, cumplir el objetivo puede no bastar para que UMBRAL declare superado el escenario; y esa declaración no teletransporta a los participantes ni sustituye el recorrido físico hasta la siguiente etapa o la salida del piso.
+Cada piso debe analizarse primero como una experiencia completa: propósito narrativo, objetivo global o condición de avance, desafío central, riesgos, aprendizaje esperado, relación con la progresión general y forma de transición. Después se decide si necesita uno o varios escenarios, y qué función cumple cada uno. Cada escenario debe tener un propósito reconocible y un objetivo o función concreta dentro del piso; no se crean escenarios para llenar letras ni se presupone que cada letra represente una prueba independiente. Las condiciones relevantes y la forma de verificar la superación deben definirse antes de que produzcan consecuencias. Cumplir el objetivo, recibir la declaración de escenario superado y alcanzar la salida para continuar son hitos distintos: según el diseño, cumplir el objetivo puede no bastar para que UMBRAL declare superado el escenario; y esa declaración no teletransporta a los participantes ni sustituye el recorrido físico hasta la siguiente etapa o la salida del piso.
 
 Las pruebas pueden centrarse en exploración, mecanismos, combate, supervivencia, decisiones, cooperación o una combinación. No todas requieren matar enemigos ni se resuelven derrotando a una amenaza.
 
@@ -130,7 +130,7 @@ La historia debe equilibrar supervivencia, exploración, combate, aprendizaje, i
 **Principio central:** sobrevivir depende de observar, aprender, prepararse, adaptarse y decidir bajo presión. Ninguna estadística ni ventaja elimina el riesgo; los errores pueden tener consecuencias permanentes.
 ## 11. Aprobación, continuidad y actualización obligatoria por escenario
 
-El asistente decide y resuelve los detalles creativos ordinarios durante la escritura, respetando las reglas maestras y la continuidad. Al terminar todo el contenido del escenario acordado —incluidas Parte A y Parte B cuando ambas pertenezcan al mismo escenario—, preguntar una sola cosa de fondo: si el usuario acepta ese escenario para incorporarlo al canon. El usuario no tiene que aprobar por separado cada personaje, diálogo, giro o decisión menor. Si pide un cambio antes de aceptarlo, corregirlo y volver a presentar el escenario para decisión. Hasta que el usuario lo acepte expresamente, el escenario sigue siendo provisional y no se registra como canon definitivo.
+El asistente decide y resuelve los detalles creativos ordinarios durante la escritura, respetando las reglas maestras y la continuidad. Cada escenario se entrega como una única narración completa, no dividida en Parte 1 y Parte 2. Al terminar la entrega completa, preguntar una sola cosa de fondo: si el usuario acepta ese escenario para incorporarlo al canon. El usuario no tiene que aprobar por separado cada personaje, diálogo, giro o decisión menor. Si pide un cambio antes de aceptarlo, corregirlo y volver a presentar el escenario para decisión. Hasta que el usuario lo acepte expresamente, el escenario sigue siendo provisional y no se registra como canon definitivo.
 
 **Solo después de que el usuario acepte el escenario para el canon** se debe entregar un **resumen de continuidad breve, no narrativo y listo para copiar**. Debe recoger los hechos aprobados, descubrimientos, hechos que conocen los personajes y sospechas que mantienen separadas, cambios relevantes de Kevin y del grupo, equipo y recursos, consecuencias pendientes y el punto exacto desde el que debe continuar la historia. No mezclar propuestas descartadas con acontecimientos confirmados ni rellenar apartados con datos inventados.
 
@@ -145,14 +145,19 @@ La actualización de los archivos pertinentes no sustituye el resumen que se ent
 
 El canon vigente es exclusivamente el establecido en los documentos centrales actuales y en los escenarios que el usuario haya aprobado para esta versión. La continuidad anterior, los capítulos de versiones descartadas y la web antigua no son fuentes de canon y no deben reconstruirse, consultarse para completar vacíos ni importarse automáticamente. Esta regla no borra ni invalida los escenarios ya aprobados de la versión actual: deben conservarse y respetarse.
 
-## 12. Extensión flexible de los pisos y escenarios
+## 12. Diseño global y extensión flexible de los pisos y escenarios
 
-La extensión de cada piso y escenario depende de lo que necesite su historia, no de una cuota fija. Un piso puede contener uno o varios escenarios; no deben confundirse el piso completo y cada escenario concreto.
+El piso es la unidad general de progresión; el escenario es una etapa narrativa y funcional que puede formar parte de ese piso. No confundir el objetivo global del piso con los objetivos parciales de sus escenarios.
 
-**Cada escenario narrativo debe entregarse exactamente en dos partes: Parte 1 y Parte 2**, según el procedimiento del documento `04-METODO-DE-ESCRITURA.txt`. Esta estructura no obliga a que las partes sean largas: el Piso 1 y el Piso 2, así como cualquier otro contenido que lo permita, pueden desarrollarse de forma compacta, sin relleno y con partes breves. No se puede resolver un escenario en una sola parte ni añadir una Parte 3 para compensar una planificación insuficiente.
+Antes de diseñar escenarios, establecer para el piso: propósito narrativo, objetivo global o condición de avance, desafío central, información que UMBRAL comunica, elementos que los participantes deberán descubrir, peligros y restricciones, aprendizaje o capacidades que pone a prueba, consecuencias posibles, relación con la progresión de los Pisos 3–10 y condición de salida/transición. Distinguir lo que conoce el diseño de lo que saben los personajes.
 
-La prioridad es la coherencia, el ritmo y el contenido real. Si el desafío requiere más desarrollo, se ajustan la extensión y el punto de corte de las dos partes previstas, no el número de partes. Ningún piso debe alargarse solo para cumplir una cuota artificial de páginas, escenas o palabras.
+La estructura A–F es una posibilidad habitual, no una obligación universal ni una cuota de seis pruebas. No crear escenarios solo para completar letras. Un piso puede consistir en una prueba extensa desarrollada a través de varias etapas, un objetivo global con varios desafíos parciales, varias pruebas independientes o una combinación. El número y la función de los escenarios dependen de las necesidades del piso. Si varias etapas forman parte de un desafío global, debe quedar claro cómo se conectan y qué aporta cada una; los objetivos parciales no sustituyen automáticamente el objetivo global.
 
+Cada escenario debe cumplir una función narrativa o práctica identificable y contribuir al diseño general sin repetir por inercia lo ya resuelto. No es obligatorio que todos los escenarios tengan el mismo tipo de objetivo, duración, estructura ni intensidad. La dificultad debe ser coherente con el entorno, las criaturas, los recursos, las decisiones y la progresión acumulada; no equivale simplemente a añadir enemigos más fuertes.
+
+La extensión de cada escenario narrativo es flexible. Se entrega en **una única narración completa, extensa cuando el contenido lo requiera y lista para copiar y pegar**, integrando planteamiento, desarrollo, tensión, decisiones, consecuencias y cierre que correspondan. No dividir la entrega en Parte 1 y Parte 2 ni esperar una señal G/g para completar una segunda mitad. No existe una cuota fija de palabras, escenas o páginas: desarrollar lo necesario sin relleno y cerrar el escenario de forma satisfactoria. Si un desafío global continúa en otro escenario, el cierre del escenario actual debe respetar esa continuidad sin fingir que el objetivo global ya se ha completado.
+
+La división anterior en Parte 1 y Parte 2 queda sustituida por esta regla de entrega única. Esto no elimina la planificación del piso, la aprobación del escenario completo ni las comprobaciones y actualizaciones de continuidad después de la aprobación.
 
 ## 13. Aclaración sobre el aprendizaje acelerado y la variedad de escenarios
 
