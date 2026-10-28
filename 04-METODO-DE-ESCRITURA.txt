@@ -37,72 +37,62 @@ No fingir que se leyó un documento ni inventar el progreso. Buscar primero en e
 
 No crear una continuidad nueva ni declarar un escenario como aprobado sin autorización o evidencia clara. Si los documentos se contradicen, señalar la contradicción y resolverla antes de escribir.
 
-## 2. Estructura flexible de los pisos y exactamente dos partes por escenario
+## 2. Diseño global de pisos y entrega narrativa única por escenario
 
-Un piso puede contener uno o varios escenarios. El piso y el escenario no son términos intercambiables: el piso es la etapa principal completa y puede contener varios escenarios; cada escenario es una prueba individual con su propio desafío, desarrollo y cierre. «Escenario narrativo» significa el escenario concreto que se está escribiendo, y cada escenario narrativo debe dividirse exactamente en Parte 1 y Parte 2. El plan general del piso no sustituye ni reúne en dos partes todos sus escenarios.
+El piso y el escenario no son términos intercambiables. El piso es la unidad general de progresión, con un propósito, un objetivo global o condición de avance, un desafío central, consecuencias y una relación con el arco de la historia. Un escenario es una etapa narrativa o funcional dentro del piso. Antes de diseñar escenarios, analizar el piso completo y decidir qué estructura necesita; no comenzar inventando una lista de pruebas sin una idea global.
 
-**Cada escenario narrativo debe tener exactamente dos partes: Parte 1 y Parte 2.** No añadir una Parte 3 ni una tercera entrega numerada para completar el mismo escenario. La extensión no está limitada por una cuota fija: si el escenario necesita más desarrollo para resolver su desafío, ajustar la extensión de las dos partes previstas.
+La estructura A–F es una convención disponible, no una obligación para todos los pisos ni una cuota de seis pruebas. Las letras identifican escenarios o etapas cuando esa estructura se utiliza, pero no significan que cada letra deba ser una prueba independiente. Un mismo desafío global puede extenderse por varios escenarios con objetivos parciales conectados; también pueden existir pruebas independientes o combinaciones. Un piso puede emplear menos o más etapas si su diseño lo justifica. No añadir fases únicamente para llenar letras.
 
-Al planificar el escenario, diseñar desde el principio el cierre que ocurrirá en la Parte 2. La Parte 1 debe tener una extensión y un punto de corte adecuados para que la Parte 2 pueda llevar el conflicto hasta su resolución y cierre sin sentirse apresurada ni necesitar una parte adicional. Si durante el desarrollo se descubre que falta contenido para un cierre satisfactorio, ampliar o revisar las partes existentes; no dejar el escenario incompleto ni añadir una tercera parte.
+**Cada escenario se entrega en una sola narración completa**, extensa en la medida que lo requiera el contenido y lista para copiar y pegar. La entrega integra el planteamiento, desarrollo, tensión, decisiones, consecuencias y cierre que correspondan a ese escenario. Ya no se divide en Parte 1 y Parte 2, no se deja una segunda mitad pendiente y no se requiere la señal G/g para continuar el mismo escenario. Si el desafío global atraviesa varios escenarios, cada uno mantiene su función y cierre parcial, sin fingir que el objetivo global ya se ha cumplido.
 
-El Piso 1 y el Piso 2 pueden ser especialmente compactos, pero eso no elimina la estructura de dos partes de cada escenario. Las partes pueden ser breves si el contenido lo permite. Ningún piso ni escenario debe alargarse ni recibir escenas de relleno solo para cumplir una cuota.
+No existe una cuota fija de palabras, escenas o páginas. No alargar por obligación ni resolver de forma apresurada un conflicto que necesita desarrollo. La prioridad es la coherencia, el ritmo, la claridad de las acciones y la función de cada escena. La narración debe quedar completa como entrega, aunque los acontecimientos del piso continúen en escenarios posteriores.
 
-No se establece una cantidad fija de escenas o secuencias pequeñas. Cada parte puede contener los momentos narrativos que necesite la historia. La división en dos partes organiza el desarrollo, no limita la extensión ni obliga a terminar cada escena con un corte artificial.
+La entrega única no elimina la aprobación: después de presentar el escenario completo, preguntar si el usuario lo aprueba para incorporarlo al canon o desea cambios. Hasta que lo apruebe, el texto es provisional. Si solicita correcciones, realizarlas y volver a preguntar. Solo tras la aprobación se entrega el resumen de continuidad y se realizan las actualizaciones documentales pertinentes.
+
+La señal **G/g** ya no significa «entregar la Parte 2». Puede seguir usándose por el usuario como señal informal para avanzar al siguiente paso del flujo que esté pendiente, pero nunca equivale por sí sola a aprobar un escenario o cambiar el canon.
 
 Cada piso puede tener un concepto, entorno, sociedad, desafío y estilo muy distintos. Hay libertad para inventar, siempre que el resultado respete las Reglas Maestras, el estado real de Kevin y la continuidad confirmada.
 
-### Parte 1 — Descubrimiento y desarrollo del conflicto
+## 3. Análisis y plan global obligatorio antes de diseñar un piso
 
-Como guía flexible, puede organizarse en tres movimientos:
+Antes de diseñar escenarios de un piso nuevo, revisar los cuatro documentos centrales y la continuidad pertinente, y analizar el piso como una experiencia completa. Presentar un plan general que incluya:
 
-- **Inicio y exploración:** presentar el mundo y la situación inmediata. Los personajes observan, exploran, identifican necesidades y descubren información gradualmente; no conocen reglas que todavía no han aprendido.
-- **Conflicto y aprendizaje:** desarrollar obstáculos, amenazas, mecanismos, decisiones o interacciones. Los personajes prueban opciones, cometen errores y aprenden mediante sus experiencias.
-- **Resolución parcial y cierre:** resolver o transformar el conflicto que corresponde a esta parte. Puede dejar consecuencias, incógnitas o una nueva complicación que impulse la Parte 2.
+- **Propósito y atractivo:** qué aporta el piso a la historia y qué lo distingue de los anteriores.
+- **Objetivo global o condición de avance:** qué deben conseguir, resolver, alcanzar o comprender los participantes, o qué condición deben cumplir para poder avanzar. No tiene que ser una misión de videojuego ni revelarse por completo a los personajes.
+- **Información inicial de UMBRAL:** qué anuncia o explica el sistema, qué reglas útiles comunica y qué aspectos permanecen desconocidos. No inventar advertencias universales que las reglas reales no respalden.
+- **Desafío central y dificultad:** qué vuelve exigente la experiencia y cómo intervienen criaturas, terreno, recursos, información incompleta, decisiones, cooperación y riesgos.
+- **Aprendizaje esperado y progresión:** qué capacidades, conocimientos, criterios o limitaciones previas pone a prueba el piso y cómo encaja en el arco general de los Pisos 3–10. No exigir una mejora numérica ni una recompensa automática.
+- **Estructura propuesta:** decidir si conviene una prueba extensa por etapas, un objetivo global con varios desafíos parciales, varios escenarios independientes o una combinación. Explicar por qué cada escenario propuesto existe y qué función cumple. No asumir seis escenarios ni añadir etapas para llenar letras.
+- **Objetivos parciales y relación entre etapas:** indicar cómo cada escenario se conecta con el objetivo global, qué se considera resuelto en cada uno y qué sigue pendiente.
+- **Reglas, peligros y descubrimientos:** qué condiciones deben definirse antes de escribir, qué pueden descubrir los personajes y qué debe permanecer desconocido para ellos. Separar hechos del diseño, hipótesis y conocimientos de los personajes.
+- **Coherencia con el canon:** cómo encaja el plan con las Reglas Maestras, la continuidad, el estado de Kevin, los recursos disponibles y lo ocurrido en los escenarios anteriores.
+- **Grupos y escala colectiva:** establecer cuántos participantes afrontan el piso, cómo se distribuyen en grupos de hasta cinco y cómo influye su cantidad sin una fórmula rígida ni un aumento automático de la fuerza de cada criatura.
+- **Recuperación y recompensas:** respetar el funcionamiento vigente de los sistemas. Desde el Piso 3, valorar si una recompensa general está narrativamente justificada; no prometer recompensas por defecto. Las ofertas de recuperación se adaptan a la estructura solo según las reglas maestras; en pisos no estándar no trasladarlas automáticamente a letras equivalentes.
+- **Transiciones y tiempo:** definir cómo se verifica la superación, qué salida física debe alcanzarse y cómo se confirma la transición. Distinguir el objetivo global, la declaración de escenario superado y la salida/transición. No imponer un plazo universal para completar el piso.
+- **Incertidumbres relevantes:** señalar cualquier decisión de canon que necesite aprobación antes de tratarse como regla establecida.
 
-### Parte 2 — Consecuencias, clímax y cierre del escenario
+El plan debe ser suficientemente claro para que otro chat pueda continuar el trabajo sin reconstruir las intenciones del autor, pero no necesita anticipar cada diálogo, movimiento ni solución. Debe prevenir contradicciones y relleno sin eliminar la libertad narrativa.
 
-También puede organizarse en tres movimientos flexibles:
+Antes de presentar el plan, comprobar los escenarios anteriores del mismo piso si ya existen: consecuencias físicas, recursos gastados, información adquirida, criaturas, mecanismos, soluciones y tipos de conflicto ya usados, decisiones y asuntos pendientes. Evitar repeticiones por comodidad; si algo reaparece, justificar su variación o función narrativa.
 
-- **Continuación y consecuencias:** retomar lo ocurrido en la Parte 1. Resolver asuntos pendientes cuando sea necesario, mostrar consecuencias y permitir nuevos descubrimientos o complicaciones.
-- **Clímax y resolución:** llevar el conflicto principal del piso a su punto decisivo. Puede ser una batalla, una huida, una negociación, una decisión difícil, una prueba de supervivencia u otra clase de resolución; no todos los pisos necesitan una pelea final.
-- **Cierre y transición:** mostrar las consecuencias relevantes, cerrar los asuntos que corresponda y preparar la salida o transición al siguiente piso.
+Después de presentar el plan general, esperar la aprobación del usuario antes de desarrollar los escenarios. Las propuestas de estructura no se convierten en canon automáticamente. Si el usuario solicita cambios, revisar el plan. No escribir un escenario de ese piso hasta que el diseño global esté aprobado, salvo que el usuario pida expresamente otra cosa.
 
-Los seis movimientos anteriores son una guía de ritmo, no seis secciones obligatorias ni cuotas de extensión. Los tercios no tienen que medir lo mismo. Se pueden combinar, ampliar, reducir o reordenar según el piso, siempre que la progresión resulte clara y coherente. La división externa del escenario, sin embargo, se mantiene siempre en Parte 1 y Parte 2; la Parte 2 debe cerrar el escenario completo.
+El plan es una herramienta de trabajo y no una votación de cada detalle. Una vez aprobado, el asistente puede resolver los detalles creativos ordinarios durante la escritura, siempre que no contradiga las reglas ni cambie en silencio decisiones de canon. Si aparece una contradicción con una regla general o un hecho confirmado, señalarla y resolverla antes de continuar.
 
-**La regla esencial:** cada escenario tiene dos partes, pero ambas pueden ser compactas. Usar solo las escenas que la historia necesite; no inventar capítulos ni escenas de relleno ni sacrificar el ritmo.
+## 4. Flujo de trabajo, entrega única y aprobación
 
-## 3. Plan previo de cada piso
+- Antes de diseñar un piso o escribir un escenario, leer los cuatro documentos obligatorios de la sección 1 y comprobar el punto exacto de continuidad.
+- Para un piso nuevo, analizar primero la experiencia completa y presentar el plan global definido en la sección 3. Esperar la aprobación del plan antes de diseñar sus escenarios.
+- Diseñar cada escenario a partir de la función que cumple dentro del piso aprobado. No crear una prueba independiente solo porque exista una letra disponible.
+- Entregar el escenario como **una única narración completa**, lista para copiar y pegar. Integrar en esa entrega el desarrollo que antes se repartía entre Parte 1 y Parte 2: planteamiento, desarrollo, tensión, decisiones, consecuencias y cierre adecuado. No presentar rótulos de Parte 1/Parte 2 ni detenerse a esperar G/g para terminar el mismo escenario.
+- Si un desafío global continúa a través de varios escenarios, cada entrega debe cerrar el arco propio de ese escenario sin resolver prematuramente el objetivo global ni contradecir la continuidad de las siguientes etapas.
+- Al terminar la narración completa, preguntar claramente si el usuario la aprueba para incorporarla al canon o quiere cambios. No asumir aprobación por silencio, por la señal G/g ni por el hecho de que el usuario haya aprobado el plan global.
+- Si el usuario solicita cambios, corregir el texto y volver a preguntar si queda aprobado.
+- Solo después de la aprobación, entregar el resumen de continuidad breve y realizar las actualizaciones documentales obligatorias de la sección 8.
+- La señal **G/g** puede seguir significando «avanza al siguiente paso previsto» cuando el usuario la use, por ejemplo para continuar una planificación ya acordada. No tiene el significado antiguo de solicitar la Parte 2 y nunca sustituye la aprobación explícita del escenario.
+- La aprobación de un escenario no aprueba automáticamente los escenarios posteriores ni autoriza cambios de reglas o hechos anteriores.
 
-Antes de escribir la Parte 1, presentar un plan general del piso que incluya:
-
-- **Concepto y atractivo:** qué clase de mundo es y qué lo hace distinto.
-- **Objetivo o desafío central:** qué tendrán que afrontar los personajes y por qué importa.
-- **Reglas, peligros y descubrimientos:** qué deben averiguar, qué riesgos existen y qué límites son importantes. Diferenciar lo que sabe el autor de lo que saben los personajes.
-- **Parte 1:** función narrativa, progresión prevista, conflictos importantes y punto de cierre.
-- **Parte 2:** continuación, consecuencias, clímax previsto y forma posible de cerrar el escenario.
-- **Coherencia con el canon:** cómo encaja el plan con las Reglas Maestras, el estado de Kevin y la continuidad previa.
-- **Incertidumbres relevantes:** decisiones que todavía requieren aprobación o datos que no deben darse por confirmados.
-- **Grupos y escala colectiva:** establecer cuántos participantes afrontan el piso, cómo se distribuyen en grupos de hasta cinco y cómo el tamaño del conjunto influye en la escala y las condiciones del escenario sin aplicar una fórmula rígida ni aumentar automáticamente la fuerza de cada criatura.
-- **Recuperación y recompensas:** los sistemas de Combate y Desarrollo y de Recuperación comienzan a funcionar desde el Piso 3; el Sistema de Recompensas aparece bloqueado. El equipo básico y la elección de arma proceden del Sistema de Combate y Desarrollo. Desde el Piso 3 en adelante, valorar durante el análisis del piso si una recompensa general está justificada por las necesidades, los recursos y el nivel de peligro; no asumir que todos los pisos la entregan. La recuperación solo se ofrece al inicio de B, C, D o E en la estructura habitual A–F, y solo desde el Piso 3 en adelante; se acepta o rechaza cuando UMBRAL presenta la oferta, no se solicita libremente en otro momento. Su eficacia disminuye por uso efectivo dentro del mismo piso.
-- **Transiciones y tiempo:** definir la salida física del último escenario, la confirmación necesaria para pasar al siguiente piso principal, la continuidad de los grupos y las condiciones de traslado de personas incapacitadas. El periodo de 12 horas del piso principal termina con el traslado automático e ineludible al escenario A; no fijar un plazo universal para completar el piso entero.
-
-El plan no necesita anticipar cada diálogo, movimiento o detalle. Debe ofrecer suficiente estructura para evitar contradicciones y relleno, pero conservar espacio para que la narración descubra soluciones naturales. Debe tomar en cuenta lo sucedido en los escenarios anteriores del mismo piso: consecuencias físicas, recursos gastados, información adquirida, mecanismos o tipos de conflicto ya utilizados, decisiones y asuntos pendientes. No repetir por comodidad un desafío o una solución reciente; si una repetición es intencional, debe aportar una variación o una consecuencia significativa.
-
-El plan es una herramienta de trabajo del asistente, no una votación obligatoria. Después de presentarlo, el asistente puede continuar con la escritura según la petición del usuario y el flujo acordado, sin detenerse a pedir aprobación de cada decisión de diseño. Puede ajustar el plan durante el desarrollo si encuentra una solución más coherente, siempre que no contradiga las Reglas Maestras ni los hechos ya confirmados. Si una decisión exige cambiar una regla general o un hecho de canon anterior, no puede hacerlo en silencio: debe señalar el conflicto y resolverlo de forma explícita antes de continuar.
-
-## 4. Forma de trabajar, aprobación y señal «G» o «g»
-
-La escritura se organiza según lo que necesite la historia, manteniendo la estructura acordada de Parte 1 y Parte 2 para cada escenario. Los pisos 1 y 2 pueden ser especialmente breves; eso significa que sus escenarios pueden tener partes compactas, no que se elimine una de las dos partes.
-
-- Antes de crear o continuar un escenario, leer los cuatro documentos obligatorios de la sección 1 y comprobar el último punto aprobado.
-- Entregar únicamente la parte o el contenido previsto y acordado. Cada escenario se escribe en exactamente dos partes, Parte 1 y Parte 2. Al terminar la Parte 1, esperar la indicación del usuario antes de seguir; la Parte 2 debe contener el desarrollo restante y el cierre del escenario completo.
-- La señal **G/g** significa «puedes avanzar al siguiente paso previsto», no «apruebo automáticamente todo el escenario ni autorizo su incorporación al canon». Tras la Parte 1, avanzar a la Parte 2 según el plan; no registrar el escenario entero como aprobado hasta terminar ambas partes y preguntarlo explícitamente.
-- **Cuando se haya entregado todo lo acordado para el escenario**, preguntar de forma clara si el usuario acepta incorporarlo al canon o quiere cambios. No actualizar GitHub ni tratar el escenario como canon definitivo antes de esa aceptación. El usuario no necesita aprobar por separado los detalles creativos que el asistente resuelva dentro de las reglas.
-- Si el usuario pide cambios, corregir el contenido afectado y volver a preguntar si el escenario queda aprobado.
-- Después de la aprobación, entregar el resumen de continuidad y realizar las actualizaciones obligatorias indicadas en la sección 8.
-- La aprobación de un escenario no equivale a aprobar automáticamente el diseño de un piso nuevo ni autoriza cambios de canon que no se hayan consultado.
-
-Cada parte puede contener varios momentos narrativos y ser tan extensa como necesite. Si por razones prácticas conviene dividir una entrega en varios mensajes, esos mensajes siguen perteneciendo a la misma parte y no crean automáticamente nuevas partes ni escenarios. Mantener claro qué parte se está escribiendo y cuál es el punto de continuación. Antes de presentar la Parte 1, comprobar que el plan deja espacio suficiente para resolver y cerrar el escenario en la Parte 2.
+No escribir la historia en formato de planificación, esquema o comentarios editoriales, salvo que el usuario haya pedido precisamente ese tipo de contenido. La narración final de cada escenario debe estar limpia y ser fácil de copiar; las preguntas de aprobación y el resumen de continuidad van fuera del texto narrativo.
 
 ## 5. Ritmo y calidad narrativa
 
@@ -115,11 +105,13 @@ Evitar:
 - Añadir enemigos, problemas o desvíos solo para aumentar la extensión.
 - Resolver demasiado rápido una situación cuya lógica necesita desarrollo.
 - Usar monólogos o explicaciones del sistema que no cambien lo que el personaje comprende o decide.
-- Forzar todos los pisos a tener la misma estructura interna, el mismo tipo de amenaza o una batalla final.
+- Forzar todos los pisos a tener la misma estructura interna, el mismo número de escenarios, el mismo tipo de amenaza o una batalla final.
+- Convertir cada escenario en una prueba independiente si su función real es formar parte de un desafío global más amplio.
+- Confundir claridad de objetivos con revelar a los personajes toda la información o la solución.
 
 Los personajes deben aprender las reglas gradualmente. Sus hipótesis pueden ser equivocadas y sus conclusiones deben apoyarse en lo que hayan observado, probado, deducido razonablemente o recibido de una fuente.
 
-Los cortes entre la Parte 1 y la Parte 2 deben sentirse naturales. No es obligatorio terminar cada parte con un giro enorme o un cliffhanger; sí debe haber una razón narrativa para continuar.
+La narración de cada escenario debe tener un desarrollo completo y un cierre adecuado a su función. No es obligatorio cerrar el objetivo global del piso en cada escenario ni terminar cada entrega con un giro enorme o un cliffhanger. Si el desafío continúa en otra etapa, dejar claro mediante los hechos narrados qué se resolvió y qué sigue pendiente.
 
 ## 6. Enfoque narrativo, combate y progresión
 
