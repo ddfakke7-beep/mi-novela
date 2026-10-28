@@ -376,3 +376,26 @@ La evaluación inicial de Kevin debe mostrar los seis valores obtenidos y el est
 Para ascensos técnicos, buscar pruebas concretas en cinco dimensiones: ejecución, consistencia, control, adaptación y desempeño bajo presión. El avance sigue normalmente la secuencia práctica → evidencia observable → demostración repetida → evaluación → actualización. No se exige una ceremonia o examen formal, pero la historia debe hacer comprensible el cambio. Una victoria, un golpe afortunado o un combate aislado no bastan.
 
 No fijar un máximo rígido de mejoras por piso. Los cambios grandes deben ser menos frecuentes que el aprendizaje incremental y tener causas claras. El personaje puede conservar los mismos atributos durante varios pisos y, aun así, mejorar en técnica, táctica, conocimiento y criterio. Las mejoras rápidas necesitan condiciones que las expliquen y límites que impidan convertirlas en talento gratuito. El progreso físico y técnico no se reinicia en Piso 10; cualquier capacidad sobrenatural que se introduzca desde ese piso deberá tener función, alcance, límites y costes, sin reemplazar automáticamente la competencia física, técnica o táctica.
+
+
+## 15. Caracterización de Kevin, presión y confianza grupal
+
+### 15.1. No convertir el análisis en perfección mental
+
+Antes de cerrar una escena, distinguir entre lo que Kevin observa, lo que deduce, lo que decide y lo que consigue ejecutar. No dar por hecho que, por ser analítico, identifica la interpretación correcta, contempla todas las alternativas o mantiene el mismo nivel de razonamiento bajo amenaza inmediata. La presión puede estrechar su atención, retrasar una decisión, empujarlo a actuar por impulso o impedirle ejecutar una idea que comprendió. No es obligatorio que falle en cada escena ni se deben fabricar errores; el resultado debe depender de las circunstancias concretas.
+
+Las conversaciones y análisis posteriores pueden revelar cosas que Kevin no alcanzó a comprender durante el peligro. Aprender de un error no significa que nunca vuelva a cometerlo, pero una repetición debe tener una causa plausible. El aprendizaje práctico, el conocimiento, la técnica, los atributos y la ejecución bajo presión son dimensiones distintas.
+
+### 15.2. Decisiones con motivos humanos
+
+No escribir cada decisión de Kevin o de los demás como el resultado exclusivo de una evaluación lógica. El miedo, el interés propio, el apego, la rabia, la gratitud, la confianza, el impulso y otros motivos pueden influir, incluso contra un cálculo previo. Kevin suele valorar el coste de ayudar y no es un altruista constante, pero tampoco es una máquina fría: sus actos pueden ser contradictorios, emocionales o difíciles de explicar por completo sin dejar de ser coherentes con la situación. No convertir automáticamente una ayuda en heroísmo ni una negativa en crueldad.
+
+### 15.3. Cooperación sin líder obligatorio
+
+No imponer una elección inmediata de líder cuando los personajes cooperan. Pueden compartir observaciones, discutir, tomar iniciativas y decidir de forma puntual según el problema. Kevin puede proponer tácticas, pero no debe convertirse por defecto en el cerebro, portavoz o coordinador del grupo, y menos aún en alguien que dirige a todos mientras lucha. Los demás personajes deben conservar agencia real: aportar ideas, discrepar, corregir a Kevin, actuar primero, equivocarse, resolver problemas o salvarlo por sus propios motivos.
+
+Una propuesta acertada no garantiza que los demás la sigan. La confianza se construye con acciones observadas, consistencia, disposición a asumir consecuencias y relaciones desarrolladas; no se deriva automáticamente de la inteligencia, de tener razón o de hacer un sacrificio aislado. Un personaje puede aportar mucho sin liderar, y el papel de coordinación puede variar según la situación. Darío no debe convertirse en líder por descarte ni Kevin ser excluido de toda iniciativa por no ser líder.
+
+### 15.4. Progresión física y técnica ganada
+
+Al narrar combate, separar comprender una oportunidad de poder ejecutarla. Kevin puede identificar una acción útil y fallar por fuerza, velocidad, coordinación, reacción, técnica, distancia, miedo, urgencia o falta de práctica. Su condición inicial de combate no debe fijarse con cifras antes de la evaluación aprobada del Piso 3. El aprendizaje facilitado por UMBRAL puede ayudarlo a consolidar hábitos y aprender con mayor facilidad, pero no sustituye la práctica, no elimina las limitaciones y no garantiza una ejecución correcta bajo presión. Registrar avances solo cuando las escenas aprobadas aporten evidencia.
