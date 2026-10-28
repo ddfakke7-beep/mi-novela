@@ -398,3 +398,31 @@ La cantidad de participantes es uno de los factores que UMBRAL considera al conf
 La escala colectiva no significa que todos los escenarios sean imposibles de superar en solitario ni que UMBRAL imponga una penalización por no cooperar. Cooperar no entrega una recompensa automática: puede ofrecer ventajas tácticas y reducir ciertos riesgos. No hacerlo puede ser viable, pero acarrea consecuencias naturales según la situación, como menos cobertura, menor capacidad de respuesta, más exposición o mayores dificultades para completar una caza. Los participantes también pueden calcular mal los riesgos, desconfiar entre sí o negarse a colaborar.
 
 La dificultad debe variar por piso y escenario, considerando el número de participantes, la naturaleza del objetivo, las criaturas, el terreno, los recursos y las condiciones para avanzar. No debe equilibrarse cada enfrentamiento de forma perfecta ni convertir la escala en una garantía de victoria. Los participantes pueden encontrar desafíos que superen sus capacidades, y los enemigos conservan sus propias características y ventajas. La cooperación es una herramienta de supervivencia, no una obligación moral ni una garantía de éxito.
+
+
+## 15.8. Calibración de atributos y progresión técnica aprobadas
+
+La escala de atributos de referencia va de 1 a 10, con 5 como referencia humana ordinaria y 10 como límite superior de esa referencia humana. Las bandas son: 1–2, muy bajo; 3–4, inferior a la referencia; 5, referencia humana ordinaria; 6–7, superior a la referencia; 8–9, excepcional; 10, límite superior de la referencia humana. No se asigna a cada punto un porcentaje universal de rendimiento ni una cantidad fija de entrenamiento. Los valores estiman capacidades habituales y no probabilidades de victoria. No usar valores superiores a 10 hasta diseñar expresamente una escala posterior.
+
+Los atributos significan:
+- **Fuerza:** capacidad de empujar, levantar, sujetar, arrastrar o aplicar fuerza muscular. No equivale a técnica ni a tolerancia al dolor.
+- **Velocidad:** rapidez de desplazamiento y ejecución de movimientos. No equivale a percibir antes ni a decidir mejor.
+- **Resistencia:** capacidad para sostener el esfuerzo físico. No implica inmunidad a heridas, venenos o enfermedades.
+- **Coordinación:** control corporal, equilibrio y precisión motora. No equivale al dominio de un arma o disciplina.
+- **Percepción:** capacidad para detectar y distinguir estímulos sensoriales disponibles. No garantiza interpretarlos correctamente.
+- **Reacción:** rapidez de respuesta motora ante un estímulo detectado. No permite responder a aquello que no se ha percibido.
+
+Las diferencias entre cifras se interpretan como cambios relevantes y repetibles en la capacidad medida, no como saltos matemáticos universales. El paso de 5 a 6 debe reflejar una mejora observable; 6 a 7, una ventaja más marcada pero aún humana; 7 a 8 supone entrar en un rendimiento excepcional y requiere evidencia sólida; 8 a 9 representa una mejora dentro de ese rango excepcional; 9 a 10 se aproxima al límite superior humano y debe ser poco común. Estas referencias orientan la interpretación; las evaluaciones concretas deben ser consistentes con las acciones demostradas.
+
+Al entrar Kevin en el Piso 3, después de la restauración corporal, UMBRAL realiza automáticamente su evaluación inicial. La interfaz puede evaluar los seis atributos mediante el sistema sin exigir una secuencia de pruebas físicas visibles. Debe mostrar los valores obtenidos y el estado pertinente de los sistemas, y registrar las disciplinas técnicas solo cuando haya evidencia de dominio. No inventar valores antes de escribir y aprobar esa escena; no mostrar un potencial máximo ni un «nivel de combate» global sin una regla definida.
+
+El dominio técnico se evalúa por disciplina mediante cinco criterios: ejecución, consistencia, control, adaptación y desempeño bajo presión. Los rangos y criterios de ascenso son:
+- **Rango 0 — Sin dominio:** no demuestra un manejo funcional de la disciplina.
+- **Rango 1 — Principiante:** conoce la función o el manejo básico y puede ejecutar movimientos fundamentales de forma intencional, pero aún comete errores frecuentes y su ejecución es irregular.
+- **Rango 2 — Competente:** repite los fundamentos en situaciones conocidas, mantiene una postura y distancia funcionales, reconoce o corrige errores y aplica lo aprendido bajo cierta presión.
+- **Rango 3 — Avanzado:** adapta la técnica a ritmos, distancias, posiciones y condiciones variables; combina acciones con intención táctica, corrige errores durante la ejecución y mantiene fiabilidad bajo presión significativa.
+- **Rango 4 — Experto:** demuestra dominio profundo, consistente y eficiente; adapta su estilo sin perder control, aprovecha errores del oponente cuando la situación lo permite y toma decisiones técnicas bajo estrés. Requiere evidencia en situaciones variadas, no una sola técnica o entorno favorable.
+
+La secuencia normal es práctica, evidencia observable, demostración repetida, evaluación y actualización del rango. No se exige un examen formal en cada ascenso, pero la narración debe aportar hechos suficientes para justificarlo. Una victoria, un golpe afortunado o un combate aislado no bastan. El dominio de una disciplina no se transfiere automáticamente a otra, aunque existan movimientos parecidos.
+
+El arco orientativo de Pisos 3–10 queda aprobado como guía, no como tabla de subidas obligatorias: Piso 3, descubrimiento y calibración; Pisos 4–5, aplicación y consolidación de fundamentos; Pisos 6–8, adaptación, integración y especialización; Pisos 9–10, síntesis y evaluación, con Piso 10 como posible punto de inflexión. Los cambios de atributos serán menos frecuentes que las mejoras de criterio y aprendizaje práctico cuando la evidencia así lo indique. Puede haber varios pisos sin cambios numéricos y aun así existir progreso significativo en técnica, táctica o conocimiento. Las mejoras rápidas requieren causas y límites comprensibles. No hay reinicio del progreso en Piso 10; cualquier capacidad sobrenatural posterior requiere diseño de funciones, límites y costes, y no sustituye automáticamente capacidades físicas, técnicas o tácticas.
