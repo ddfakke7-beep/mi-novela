@@ -41,6 +41,29 @@ No crear una continuidad nueva ni declarar un escenario como aprobado sin autori
 
 El piso y el escenario no son términos intercambiables. El piso es la unidad general de progresión, con un propósito, un objetivo global o condición de avance, un desafío central, consecuencias y una relación con el arco de la historia. Un escenario es una etapa narrativa o funcional dentro del piso. Antes de diseñar escenarios, analizar el piso completo y decidir qué estructura necesita; no comenzar inventando una lista de pruebas sin una idea global.
 
+### Orden obligatorio al entrar en un piso nuevo: piso principal antes que escenario A
+
+**El piso principal y los escenarios con letras son etapas distintas y deben desarrollarse en ese orden.** Al terminar el último escenario de un piso (por ejemplo, 3E), los personajes alcanzan físicamente la salida y pasan al siguiente piso principal (Piso 4). No se debe saltar directamente desde el cierre del piso anterior al escenario A del nuevo piso.
+
+El orden de trabajo y de la continuidad es obligatorio:
+
+1. **Cerrar la transición ya iniciada:** comprobar qué ocurrió realmente al final del escenario anterior. Si los personajes ya cruzaron la salida y UMBRAL confirmó el acceso al siguiente piso, esa transición ya sucedió y no debe repetirse ni narrarse como pendiente.
+2. **Desarrollar la llegada al piso principal nuevo:** mostrar la llegada y establecer qué encuentran los personajes en la zona común, qué información reciben de UMBRAL y qué opciones reales tienen. Aplicar aquí los efectos que las Reglas Maestras asignan a la entrada en un piso principal, incluida la restauración de lesiones corporales de los participantes vivos y la renovación de los usos del Sistema de Recuperación. No confundir esos efectos con recuperación de hambre, sed, sueño, fatiga u otros estados que no se restauran automáticamente.
+3. **Planificar y narrar el periodo de descanso y preparación:** el periodo general empieza cuando cada participante llega al piso principal y dura 12 horas, salvo una excepción de reunión común establecida expresamente conforme a las Reglas Maestras. Definir el contador y las condiciones aplicables según el canon. Durante este periodo pueden descansar, comer, beber, revisar o elegir equipo y prepararse solo con los recursos y opciones que el diseño establezca. Especificar qué se entrega, a quién, en qué cantidad y en qué momento; no inventar reposición automática ni omitir deliberadamente suministros esenciales por descuido. No asumir que el traslado al escenario A es inmediato.
+4. **Resolver el paso al escenario inicial:** al cumplirse el plazo aplicable, UMBRAL traslada automáticamente a quienes sigan en el piso principal al escenario de inicio que se haya definido para ese piso, sin necesidad de que acepten o activen el traslado. Si la historia necesita mostrar esa transición, narrarla de acuerdo con las reglas; no sustituirla por una salida física que no esté establecida.
+5. **Solo entonces desarrollar el escenario A (o la etapa inicial que corresponda):** comenzar desde la situación concreta en la que llegan tras el traslado. El escenario no puede volver a incluir como pendientes la llegada, la restauración o decisiones que ya se resolvieron en el piso principal.
+
+### Cómo planificar el piso principal y los escenarios
+
+Antes de escribir, distinguir explícitamente entre:
+- **Diseño del piso principal:** entorno común, llegada, información de UMBRAL, restauración aplicable, periodo y contador de descanso, instalaciones u opciones disponibles, equipo y suministros ofrecidos, decisiones de preparación y condición/forma de traslado al escenario inicial.
+- **Diseño del piso completo:** propósito y objetivo global, desafío central, progresión y estructura de etapas.
+- **Diseño de cada escenario:** función propia, objetivo parcial, entorno inmediato, peligros, decisiones, consecuencias y cierre.
+
+El plan global de un piso nuevo debe incluir primero un apartado específico para el **Piso principal y la preparación previa al escenario A**, y después la estructura de escenarios (A, B, C, etc., si se usa esa convención). La aprobación del diseño global autoriza trabajar conforme a esa estructura, pero no convierte automáticamente en canon los acontecimientos narrativos: cada escenario sigue siendo provisional hasta su aprobación expresa.
+
+Si el usuario pide desarrollar un piso nuevo, no empezar por el plan detallado del escenario A ni por su narración. Primero comprobar el cierre anterior, proponer el diseño del piso principal y el periodo de preparación, y mostrar cómo se conecta con el objetivo y las etapas del piso. Si el piso principal ya está diseñado y aprobado, se puede continuar desde el siguiente paso pendiente sin repetirlo.
+
 La estructura A–F es una convención disponible, no una obligación para todos los pisos ni una cuota de seis pruebas. Las letras identifican escenarios o etapas cuando esa estructura se utiliza, pero no significan que cada letra deba ser una prueba independiente. Un mismo desafío global puede extenderse por varios escenarios con objetivos parciales conectados; también pueden existir pruebas independientes o combinaciones. Un piso puede emplear menos o más etapas si su diseño lo justifica. No añadir fases únicamente para llenar letras.
 
 **Cada escenario se entrega en una sola narración completa**, extensa en la medida que lo requiera el contenido y lista para copiar y pegar. La entrega integra el planteamiento, desarrollo, tensión, decisiones, consecuencias y cierre que correspondan a ese escenario. Ya no se divide en Parte 1 y Parte 2, no se deja una segunda mitad pendiente y no se requiere la señal G/g para continuar el mismo escenario. Si el desafío global atraviesa varios escenarios, cada uno mantiene su función y cierre parcial, sin fingir que el objetivo global ya se ha cumplido.
@@ -58,6 +81,7 @@ Cada piso puede tener un concepto, entorno, sociedad, desafío y estilo muy dist
 Antes de diseñar escenarios de un piso nuevo, revisar los cuatro documentos centrales y la continuidad pertinente, y analizar el piso como una experiencia completa. Presentar un plan general que incluya:
 
 - **Propósito y atractivo:** qué aporta el piso a la historia y qué lo distingue de los anteriores.
+- **Piso principal y preparación previa:** diseñar antes del escenario A la llegada, el entorno común, los avisos de UMBRAL, la restauración aplicable, el periodo de 12 horas (o excepción expresamente establecida), el descanso/preparación, las opciones disponibles, la entrega exacta de equipo y suministros y el traslado automático al escenario inicial. No pasar directamente del piso anterior al escenario A.
 - **Objetivo global o condición de avance:** qué deben conseguir, resolver, alcanzar o comprender los participantes, o qué condición deben cumplir para poder avanzar. No tiene que ser una misión de videojuego ni revelarse por completo a los personajes.
 - **Información inicial de UMBRAL:** qué anuncia o explica el sistema, qué reglas útiles comunica y qué aspectos permanecen desconocidos. No inventar advertencias universales que las reglas reales no respalden.
 - **Desafío central y dificultad:** qué vuelve exigente la experiencia y cómo intervienen criaturas, terreno, recursos, información incompleta, decisiones, cooperación y riesgos.
@@ -82,7 +106,7 @@ El plan es una herramienta de trabajo y no una votación de cada detalle. Una ve
 ## 4. Flujo de trabajo, entrega única y aprobación
 
 - Antes de diseñar un piso o escribir un escenario, leer los cuatro documentos obligatorios de la sección 1 y comprobar el punto exacto de continuidad.
-- Para un piso nuevo, analizar primero la experiencia completa y presentar el plan global definido en la sección 3. Esperar la aprobación del plan antes de diseñar sus escenarios.
+- Para un piso nuevo, comprobar primero el cierre anterior y diseñar expresamente el piso principal y el periodo de descanso/preparación antes del escenario A. Incluir esa etapa en el plan global definido en la sección 3, explicar el traslado al escenario inicial y esperar la aprobación del plan antes de desarrollar los escenarios. No saltar directamente al escenario A.
 - Diseñar cada escenario a partir de la función que cumple dentro del piso aprobado. No crear una prueba independiente solo porque exista una letra disponible.
 - Entregar el escenario como **una única narración completa**, lista para copiar y pegar. Integrar en esa entrega el desarrollo que antes se repartía entre Parte 1 y Parte 2: planteamiento, desarrollo, tensión, decisiones, consecuencias y cierre adecuado. No presentar rótulos de Parte 1/Parte 2 ni detenerse a esperar G/g para terminar el mismo escenario.
 - Si un desafío global continúa a través de varios escenarios, cada entrega debe cerrar el arco propio de ese escenario sin resolver prematuramente el objetivo global ni contradecir la continuidad de las siguientes etapas.
