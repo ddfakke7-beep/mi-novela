@@ -241,6 +241,16 @@
 - **Estado de Kevin y Darío:** continúan como party reconocida. Kevin conserva lanza, protección ligera y cinturón de equipo; Darío conserva espada, protección ligera, bolsa de transporte y cinturón. Cada uno conserva una botella abierta de agua, una ración compacta completa y otra parcialmente consumida. No se confirmó consumo adicional durante 3B, ni gasto de usos de recuperación. No adquirieron técnicas dominadas, atributos nuevos, equipo, botín, recompensas ni suministros.
 - **Punto exacto de continuación:** Kevin y Darío están juntos al comienzo de un corredor natural entre paredes de roca, dispuestos a avanzar. La criatura observada y el destino del corredor siguen sin resolverse. La ubicación y los resultados posteriores de Vera, Saúl, Mara, Iván y Elena siguen sin confirmarse.
 
+
+### Piso 3C — «La distancia de una herida»
+
+- **Desarrollo confirmado:** Kevin y Darío avanzaron por un corredor natural entre paredes de roca y se encontraron con una criatura de cuerpo bajo y compacto, lomo oscuro y cuatro extremidades. La criatura se lanzó contra ellos. Kevin falló su primer intento de detenerla con la lanza, cayó y después logró golpearla o rozarla de forma incierta durante un segundo intento. Darío intentó intervenir con la espada, pero el espacio estrecho dificultó su movimiento y no se confirmó que alcanzara al animal. La criatura golpeó a Kevin en el antebrazo y le dejó una herida sangrante. Ambos retrocedieron juntos hacia una zona más ancha y mantuvieron distancia hasta que la criatura dejó de estar a la vista.
+- **Hechos, sospechas y desconocidos:** no se confirmó que la criatura muriera, huyera o quedara herida. Tampoco se sabe si era la misma que observaron en 3B, cuál es su especie, por qué atacó o si continúa cerca. Kevin comprobó que la longitud de la lanza no garantiza mantener a un enemigo a distancia y que el espacio reducido limita el uso de armas largas y espadas. Ninguno demostró dominio técnico. La profundidad de la herida de Kevin y el daño exacto siguen sin determinarse.
+- **Estado de Kevin y Darío:** mantienen la party reconocida. Kevin conserva Fuerza 4, Velocidad 5, Resistencia 4, Coordinación 5, Percepción 5 y Reacción 4. Tiene una herida sangrante en el antebrazo y dolor al moverlo o agarrar la lanza; no se ha confirmado afectación más profunda. Darío no sufrió ninguna lesión confirmada en 3C. Kevin lleva lanza, protección ligera y cinturón de equipo; Darío, espada, protección ligera, bolsa de transporte y cinturón.
+- **Recursos y consecuencias:** cada uno conserva una botella abierta de agua, una ración compacta completa y otra parcialmente consumida. No se confirmó consumo adicional ni gasto de usos del Sistema de Recuperación. No obtuvieron botín, equipo, recompensas, habilidades ni suministros nuevos.
+- **Punto exacto de continuación:** Kevin y Darío están juntos en una zona más ancha junto al corredor natural. La criatura ya no está a la vista, pero su situación y ubicación son desconocidas. Deben evaluar y atender la herida del antebrazo de Kevin y decidir cómo continuar; no se ha confirmado que la hayan limpiado o vendado.
+
+
 ## 3. Grupo y personajes con seguimiento
 
 - Registrar la party o grupo actual cuando exista: quién viaja con Kevin, qué vínculo o motivo los mantiene juntos y si alguien se ha separado o incorporado.
