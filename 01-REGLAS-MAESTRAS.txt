@@ -350,7 +350,7 @@ A partir del Piso 3, la historia cambia de enfoque de manera clara: el combate, 
 
 #### Arco orientativo de progresión entre los Pisos 3 y 10
 
-La progresión general se diseña como una evolución de las capacidades y decisiones del grupo, no como una tabla de subidas automáticas. La función orientativa de cada etapa es:
+La progresión general se diseña como una evolución de las capacidades y decisiones del grupo, no como una tabla de subidas automáticas. **Cada diseño general de piso debe identificar explícitamente qué función cumple dentro de este arco, qué aprendizaje previo retoma y qué avance prepara para la etapa siguiente.** La función orientativa de cada etapa es:
 - **Piso 3 — Descubrimiento y calibración:** activación de los sistemas, evaluación inicial, familiarización con equipo y comprensión de la diferencia entre capacidad física y dominio de combate.
 - **Piso 4 — Aplicación:** poner en práctica fundamentos ante terreno, distancias, equipo y condiciones variables.
 - **Piso 5 — Consolidación:** convertir acciones aprendidas en un desempeño más consistente; las mejoras físicas solo se registran si están justificadas.
