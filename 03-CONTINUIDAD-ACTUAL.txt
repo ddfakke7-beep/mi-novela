@@ -6,7 +6,7 @@
 ## 1. Panorama general confirmado
 
 - **Punto actual:** Kevin y Darío completaron el Piso 3 al cruzar el umbral de salida de 3E y están en el Piso 4, vivos y juntos como party reconocida. La herida corporal del antebrazo de Kevin se restauró al entrar al nuevo piso principal; la manga sigue rasgada. La criatura de cuerpo bajo y compacto, lomo oscuro y cuatro extremidades no volvió a estar a la vista y su ubicación y estado siguen siendo desconocidos.
-- **Entorno:** zona común de llegada y preparación con paredes de roca, desniveles, tierra compacta, vegetación baja, áreas abiertas y salientes rocosos.
+- **Entorno del Piso 4 principal (estándar visual corregido; narración aún pendiente de aprobación):** recinto interior amplio, cerrado, blanco y arquitectónicamente diseñado, con estética de torre o fortaleza medieval fantástica. No tratar la llegada como un campo abierto con tierra, vegetación o salientes rocosos. La distribución concreta del recinto del Piso 4 se establecerá en la narración provisional de llegada.
 - **Estado físico:** al entrar al Piso 3, las lesiones corporales de Kevin y Darío quedaron restauradas. Kevin ya no siente dolor en palma, antebrazo, costado ni pierna; la ropa rasgada no se reparó. Darío ya no siente dolor de tobillo. Cansancio, sed, hambre, sueño perdido y otras condiciones no corporales no se restauran automáticamente. Durante la preparación previa a 3A, ambos bebieron algo de agua y comieron parte de sus provisiones; esto no confirma que el hambre o la sed hayan quedado completamente resueltas.
 - **Evaluación de Kevin:** Fuerza 4, Velocidad 5, Resistencia 4, Coordinación 5, Percepción 5 y Reacción 4. Sin evaluación retrospectiva de Pisos 1–2.
 - **Equipo y provisiones:** Kevin lleva lanza, protección ligera y cinturón de equipo; Darío lleva espada, protección ligera, bolsa de transporte y cinturón. Cada uno conserva una botella abierta de agua, una ración compacta completa y otra parcialmente consumida. No obtuvieron recursos nuevos ni confirmaron consumo adicional en 3B. Ambos solo se familiarizaron brevemente con el agarre y peso de sus armas; no las dominan.
@@ -14,6 +14,8 @@
 - **Plazo:** doce horas individuales desde la llegada; al cierre, el contador mostraba 11:03:18. No reiniciar al entrar a 3A.
 - **Personajes ausentes:** la ubicación y resultados posteriores de Vera, Saúl, Mara, Iván y Elena siguen sin confirmarse.
 - **Siguiente paso:** continuar desde la llegada de Kevin y Darío al Piso 4. No asumir detalles del entorno, objetivos ni sistemas específicos del nuevo piso hasta establecerlos.
+- **Nota de coherencia histórica pendiente:** el registro del Piso 3 principal lo describió como una zona común natural, con saliente rocoso, y sus escenarios posteriores también transcurren en entornos naturales. Esa descripción no coincide con el estándar visual general ahora especificado para los pisos principales. No reescribir ni invalidar silenciosamente el escenario aprobado del Piso 3; queda pendiente decidir si se hace una corrección retroactiva de su descripción o si se conserva como una excepción visual de la versión anterior. Para los pisos principales nuevos, aplicar el estándar interior blanco desde el diseño.
+
 
 ## 2. Registro de continuidad por escenario
 
