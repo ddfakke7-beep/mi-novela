@@ -265,6 +265,7 @@ Antes de dar por terminada una escena importante, comprobar:
 - Qué opciones reales tiene Kevin y por qué elige una de ellas.
 - Si el resultado depende de capacidades, decisiones y circunstancias, en lugar de privilegios del protagonista.
 - Si las heridas, el agotamiento, los recursos perdidos y las consecuencias afectan las acciones posteriores; contrastar las lesiones con la ficha correspondiente y recordar que cambiar de escenario no restaura el cuerpo, mientras que entrar en un nuevo piso principal sí restaura las lesiones corporales de los participantes vivos.
+- **Auditoría obligatoria de Recuperación por participante:** saldo inicial del piso (3), usos ya gastados a lo largo de todos sus escenarios, usos restantes y eficacia de la próxima activación (100 %, 50 % o 25 %). Contrastar el registro con la continuidad aprobada y la ficha de Kevin; verificar también a cualquier compañero activo cuyo uso pueda afectar la escena. Confirmar que ningún cambio de escenario haya reiniciado el contador. Si no hay una activación en la escena, conservar el saldo anterior sin alterarlo.
 - Si el objetivo del escenario, la verificación o declaración de superación y la salida/transición están claramente diferenciados, sin teletransportes ni avances automáticos no establecidos.
 - Si el conflicto puede resolverse por otro personaje, terminar en retirada o dejar una pérdida sin que eso invalide la historia.
 - Si la escena cumple una función narrativa sin forzar una victoria, una lesión, un sacrificio ni una revelación.
