@@ -14,7 +14,7 @@
 - **Plazo:** doce horas individuales desde la llegada; al cierre, el contador mostraba 11:03:18. No reiniciar al entrar a 3A.
 - **Personajes ausentes:** la ubicación y resultados posteriores de Vera, Saúl, Mara, Iván y Elena siguen sin confirmarse.
 - **Siguiente paso:** continuar desde la llegada de Kevin y Darío al Piso 4. No asumir detalles del entorno, objetivos ni sistemas específicos del nuevo piso hasta establecerlos.
-- **Nota de coherencia histórica pendiente:** el registro del Piso 3 principal lo describió como una zona común natural, con saliente rocoso, y sus escenarios posteriores también transcurren en entornos naturales. Esa descripción no coincide con el estándar visual general ahora especificado para los pisos principales. No reescribir ni invalidar silenciosamente el escenario aprobado del Piso 3; queda pendiente decidir si se hace una corrección retroactiva de su descripción o si se conserva como una excepción visual de la versión anterior. Para los pisos principales nuevos, aplicar el estándar interior blanco desde el diseño.
+- **Corrección retroactiva aplicada al Piso 3 principal:** se actualizó la narración aprobada de llegada en `pisos-1-10/piso-03/3.1.html` para que el recinto sea interior, amplio, cerrado, blanco y arquitectónicamente diseñado, con estética de fortaleza medieval fantástica. Se conservaron los acontecimientos relevantes: llegada, restauración corporal, activación de sistemas, evaluación, elección de equipo, entrega de provisiones, preparación, formación del grupo y contador. Los escenarios 3A–3E no se modificaron; sus entornos de prueba conservan sus descripciones originales.
 
 
 ## 2. Registro de continuidad por escenario
