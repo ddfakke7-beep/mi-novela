@@ -1,4 +1,4 @@
-## Última actualización de canon — Piso 7A «La victoria equivocada» (aprobado)
+## Última actualización de canon — Piso 7B «Una propuesta, no una lección» (aprobado)
 
 - Kevin y Darío avanzaron por la Cuenca de los Vados. Tras derrotar cuatro de seis lobos de linde en el primer encuentro, interpretaron mal la retirada de los dos restantes. La manada conservó el rastro y volvió a atacarlos en un paso estrecho, aparentemente con más individuos; ambos acabaron gravemente heridos y fueron rescatados por Adrián y Vera.
 - Darío sufrió mordidas en brazo y muslo y cortes en pantorrilla y brazo. Kevin sufrió mordidas en muslo y brazo/antebrazo, un golpe contra una roca en el costado y una caída; perdió momentáneamente la lanza, pero la recuperó.
@@ -7,16 +7,18 @@
 - Kevin y Darío siguen como party reconocida de dos. No se ha producido invitación ni aceptación formal para incorporar a Adrián y Vera. El siguiente escenario es 7B — «Una propuesta, no una lección».
 ## 1. Panorama general confirmado
 
-- **Punto actual:** el último escenario aprobado es Piso 7A — «La victoria equivocada». Kevin y Darío están descansando en un refugio natural entre rocas junto a Adrián y Vera. El siguiente escenario es 7B.
-- **Party:** Kevin y Darío siguen como party reconocida de dos. Adrián y Vera no se han incorporado formalmente; invitación y aceptación expresas siguen pendientes.
-- **Kevin:** atributos sin cambios: Fuerza 4, Velocidad 5, Resistencia 4, Coordinación 5, Percepción 5 y Reacción 4. Sufrió mordidas en muslo y brazo/antebrazo y un golpe contra una roca en el costado. Tras gastar sus tres usos de Recuperación puede caminar y manejar la lanza; conserva molestias soportables y cansancio. No asumir curación absoluta.
-- **Darío:** sufrió mordidas en brazo y muslo y cortes en pantorrilla y brazo. Tras gastar sus tres usos de Recuperación puede caminar y manejar la espada; conserva molestias soportables y cansancio. No asumir curación absoluta.
-- **Recuperación del Piso 7:** Kevin y Darío agotaron sus tres usos cada uno, en orden de eficacia relativa 100 %, 50 % y 25 %. Ambos tienen cero usos restantes durante el resto del Piso 7; la reserva se renueva al entrar al siguiente Piso Principal.
-- **Equipo y recursos:** Kevin conserva lanza, protección ligera, cinturón, cuchillo corto de respaldo y protección de antebrazo; recuperó la lanza tras perderla momentáneamente. Darío conserva espada, protección ligera, bolsa, cinturón y protección de antebrazo. No se confirmó daño permanente, pérdida de equipo, consumo de provisiones, botín ni recompensas.
-- **Adrián y Vera:** rescataron a Kevin y Darío. Adrián usa escudo y arma corta de una mano; Vera, ballesta ligera y hacha corta. Reconocieron la manada, seguían una ruta cercana y acudieron al oír el combate. Conocen parte de la ruta hacia la salida, no toda.
-- **Lobos de linde:** en el primer encuentro había seis; Kevin y Darío derrotaron cuatro y dos se retiraron. La manada conservó el rastro y volvió a atacar en un paso estrecho, aparentemente con más individuos. El número exacto y el estado final de todos los lobos del segundo ataque son desconocidos; no asumir que la manada fue exterminada.
-- **Aprendizaje:** Kevin y Darío reconocieron que interpretaron mal la retirada y se confiaron. No se confirmó dominio técnico nuevo ni cambios de atributos.
-- **Siguiente paso:** descansar y conversar con Adrián y Vera en 7B — «Una propuesta, no una lección». La conversación sobre el propósito de UMBRAL debe presentarse como interpretación de Adrián, no como verdad confirmada por el Sistema.
+- **Punto actual:** el último escenario aprobado es Piso 7B — «Una propuesta, no una lección». Kevin, Darío, Adrián y Vera permanecen en el refugio natural entre rocas de la Cuenca de los Vados. El siguiente escenario es 7C.
+- **Party:** Kevin, Darío, Adrián y Vera forman ahora una party reconocida de cuatro integrantes (4/5). La incorporación se produjo mediante invitación y aceptación expresas en 7B; la cooperación del rescate de 7A no había creado la party automáticamente. No se ha designado un líder permanente.
+- **Kevin:** atributos sin cambios: Fuerza 4, Velocidad 5, Resistencia 4, Coordinación 5, Percepción 5 y Reacción 4. Las heridas graves de 7A mejoraron tras las tres activaciones de Recuperación; al cierre de 7A podía caminar y manejar la lanza, con molestias soportables y cansancio. 7B no confirma nuevas lesiones ni una recuperación completa del cansancio.
+- **Darío:** las heridas de 7A mejoraron tras sus tres activaciones de Recuperación; al cierre de 7A podía caminar y manejar la espada, con molestias soportables y cansancio. 7B no confirma nuevas lesiones ni recuperación completa del cansancio.
+- **Recuperación del Piso 7:** Kevin y Darío agotaron sus tres usos cada uno en 7A, en orden de eficacia relativa 100 %, 50 % y 25 %. Ambos tienen cero usos restantes durante el resto del Piso 7; la reserva se renueva al entrar al siguiente Piso Principal.
+- **Equipo y recursos:** Kevin conserva lanza, protección ligera, cinturón, cuchillo corto de respaldo y protección de antebrazo. Darío conserva espada, protección ligera, bolsa, cinturón y protección de antebrazo. No se confirmó daño permanente, pérdida de equipo, consumo de provisiones, botín ni recompensas.
+- **Adrián y Vera:** rescataron a Kevin y Darío en 7A y ahora forman parte de la party reconocida de cuatro. Adrián usa escudo y arma corta de una mano; Vera, ballesta ligera y hacha corta. Conocen parte de la ruta hacia la salida, no toda.
+- **Ruta:** Vera compartió un esquema parcial con cauce, tramos estrechos, terraza rocosa y corredor de matorrales. No es un mapa completo ni garantiza seguridad; parte de la ruta aún no ha sido revisada y su estado actual es desconocido.
+- **Lobos de linde:** en el primer encuentro de 7A había seis; Kevin y Darío derrotaron cuatro y dos se retiraron. La manada conservó el rastro y volvió a atacar en un paso estrecho, aparentemente con más individuos. El número exacto y el estado final de todos los lobos del segundo ataque son desconocidos; no asumir que la manada fue exterminada.
+- **Conocimiento e interpretación:** Kevin y Darío reconocieron que interpretaron mal la retirada y se confiaron. Adrián considera como hipótesis que UMBRAL podría ofrecer oportunidades para fortalecerse y aprender, pero desconoce su propósito real. Vera cuestiona atribuir una intención pedagógica a la torre. Esta conversación no confirma ninguna finalidad del Sistema.
+- **Punto exacto de continuación:** los cuatro permanecen en el refugio natural entre rocas, después de formalizar la party. No han iniciado 7C ni alcanzado la salida del piso.
+
 ## 2. Registro de continuidad por escenario
 
 ### Piso 1 — El precio de existir
@@ -488,3 +490,17 @@
 - Los participantes se prepararon para continuar. El capítulo cierra el Piso 6, sin narrar un traslado automático, portal ni llegada al siguiente piso.
 - No se confirmó botín, recompensa material, nuevas lesiones, consumo de agua o raciones, uso de Recuperación ni cambios de atributos, habilidades, rangos o equipo. Kevin conserva sus atributos y su equipo previamente establecidos; él y Darío conservan sus tres usos de Recuperación del Piso 6, pues no se activó ninguno en la narración aprobada.
 - **Punto de continuación:** Piso 6 completado; el siguiente paso es desarrollar el próximo Piso Principal. Su entorno y acontecimientos aún no se han narrado.
+
+
+## Registro narrativo — Piso 7B: «Una propuesta, no una lección» (aprobado)
+
+- Kevin y Darío continuaron descansando en el refugio natural entre rocas junto a Adrián y Vera.
+- Adrián y Vera compartieron información parcial de la ruta hacia la salida. Vera trazó un esquema aproximado del cauce, tramos estrechos, una terraza rocosa y un corredor de matorrales. No es un mapa completo ni una ruta segura; desconocen el estado actual de parte del recorrido.
+- La conversación revisó el comportamiento de los lobos de linde y el error de Kevin y Darío al interpretar la retirada como una victoria definitiva. Derrotar enemigos no demuestra por sí solo que se haya comprendido el peligro ni que la cacería haya terminado.
+- Adrián expuso como hipótesis personal que UMBRAL podría ofrecer oportunidades para que los participantes se fortalezcan y aprendan, además de sobrevivir. No conoce el propósito real de la torre ni presenta su interpretación como información confirmada. Vera cuestionó atribuir una intención pedagógica a UMBRAL y recordó que no deben asumir riesgos irracionales ni combatir por obligación.
+- Adrián propuso que los cuatro continuaran juntos. Vera aceptó con condiciones: comunicar los peligros, compartir propuestas, decidir según el contexto y no asumir obediencia automática ni rutas seguras.
+- Kevin y Darío aceptaron expresamente la invitación formal. El Sistema confirmó la party reconocida de cuatro integrantes: Kevin, Darío, Adrián y Vera (4/5), y actualizó la continuidad grupal. La cooperación del rescate de 7A no había creado la party automáticamente.
+- El grupo no designó un líder permanente. Los cuatro conservan iniciativa y capacidad de discrepar; la propuesta no establece una jerarquía fija.
+- No se confirmaron cambios de atributos, habilidades, rangos, equipo, botín, recompensas, consumo de agua o raciones ni nuevas lesiones. Kevin conserva Fuerza 4, Velocidad 5, Resistencia 4, Coordinación 5, Percepción 5 y Reacción 4.
+- Kevin y Darío agotaron sus tres usos de Recuperación en 7A y continúan con cero usos disponibles durante el resto del Piso 7.
+- **Punto exacto de continuación:** los cuatro siguen en el refugio natural entre rocas. Han acordado continuar juntos y preparan el siguiente tramo. El siguiente escenario es 7C — «Lo que no estaban practicando»; la salida aún no ha sido alcanzada y el estado de la ruta pendiente es desconocido.
