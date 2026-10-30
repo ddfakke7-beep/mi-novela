@@ -101,3 +101,15 @@
 
 ## Estado narrativo — Piso 5E
 Piso 5E «La cacería se devuelve» aprobado y publicado. El Piso 5 ha concluido; siguiente etapa pendiente: Piso 6.
+
+## Personaje incorporada en el Piso 6 — Iria (futura integrante de Kevin y Darío)
+
+- **Nombre:** Iria.
+- **Primera aparición:** Piso 6D — «Preparar la operación».
+- **Función narrativa:** futura estratega y posible integrante de la party de Kevin y Darío. Volverá a aparecer en el Piso 8.
+- **Rasgo principal:** capacidad analítica y organizativa. Escucha, ordena información obtenida por distintos grupos, distingue hechos comprobados de hipótesis y detecta relaciones o problemas que otros pasan por alto.
+- **Aporte en Piso 6D:** propone una estrategia complementaria a la estrategia general de la estratega del grupo más fuerte. Su propuesta se centra en que los demás equipos se apoyen entre sí, mantengan comunicación y tengan una respuesta coordinada si alguien queda en apuros o surge una emergencia. No sustituye el mando general ni pretende dirigir el combate contra el guardián.
+- **Relación con Kevin y Darío:** Kevin reconoce su capacidad para conectar información y considera que podría ser valiosa para ellos. Su incorporación no debe darse por consumada hasta que la historia la establezca expresamente.
+- **Límites:** no es infalible, no conoce de antemano las respuestas ni es una estratega experta en combate. Su valor está en analizar, preguntar, organizar y proponer soluciones prácticas. Su capacidad debe desarrollarse progresivamente.
+- **Continuidad:** conservar el nombre Iria y su función cuando reaparezca en el Piso 8. No confundirla con la estratega del grupo más fuerte, que es otro personaje.
+
