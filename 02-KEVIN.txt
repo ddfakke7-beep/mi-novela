@@ -133,6 +133,34 @@ Piso 5E «La cacería se devuelve» aprobado y publicado. El Piso 5 ha concluido
 - **Maelis — la vigía:** disciplinada, inteligente y poco expresiva. Usa arco y lleva una espada corta de respaldo. Observa el campo de batalla desde una posición que le permite detectar cambios de dirección y amenazas fuera del campo inmediato de sus compañeros. Sus flechas interrumpen o desvían movimientos en momentos críticos y cubren retiradas; no depende de atravesar la defensa del enemigo ni busca causar el mayor daño. No dirige al equipo: aporta observación y advertencias inmediatas, complementarias al análisis y las decisiones de Elara.
 - **Sinergia:** Darven sostiene la línea; Roderik aprovecha aperturas; Soren presiona los laterales; Maelis vigila el conjunto y cubre movimientos peligrosos; Elara coordina y adapta el plan. El equipo funciona por la complementariedad y confianza entre sus integrantes, no porque alguno pueda hacerlo todo.
 
+
+## Personajes incorporados al diseño del Piso 7 — Adrián y Vera (perfiles de referencia)
+
+> **Estado:** perfiles establecidos para el desarrollo del Piso 7. Sus acciones concretas, heridas y cambios de relación deberán registrarse en la continuidad cuando los escenarios correspondientes sean narrados y aprobados. No anticipar acontecimientos todavía no escritos.
+
+### Adrián — combatiente defensivo flexible
+
+- Hombre de aproximadamente 37 años. Antiguo suboficial de infantería; no pertenece a fuerzas especiales. Su experiencia incluye organizar grupos pequeños, establecer prioridades, entrenar fundamentos, observar posiciones y coordinar retiradas. No es experto universal ni conoce de antemano las reglas de UMBRAL.
+- Combate con escudo y un arma de una mano. La elección exacta de esa arma todavía debe fijarse antes de escribir su combate.
+- Su estilo no consiste en recibir golpes pasivamente. Alterna defensa y ataque: bloquea de forma selectiva, ajusta ángulos, desvía ataques con el escudo y el movimiento corporal, golpea o empuja con el escudo para romper avances y aprovecha las aperturas para atacar con su arma.
+- Controla el espacio cercano, protege a sus compañeros y puede crear oportunidades para que otros ataquen o se retiren. Puede interponerse y recibir un impacto si la situación lo exige, pero hacerlo tiene un coste físico y no es su estrategia habitual.
+- Es observador, metódico, pragmático, persistente y curioso. Puede ser irónico y algo terco. Comparte su experiencia sin presentarse como maestro infalible; puede equivocarse y sus métodos no resuelven todas las situaciones.
+
+### Vera — exploradora y combatiente móvil
+
+- Mujer de aproximadamente 31 años. Tiene experiencia previa como guía de montaña y en tareas de rescate en terreno natural. Es independiente, directa, reservada y desconfiada; tiene humor seco y prioriza la información útil para decidir.
+- Su experiencia se centra en orientación, lectura del terreno, rastros, reconocimiento y desplazamiento seguro.
+- Su equipo previsto es una ballesta ligera y un hacha corta. La ballesta le permite atacar a distancia y cubrir a Adrián, pero requiere tiempo y espacio para recargar. Si un enemigo se acerca, puede defenderse con el hacha y abrir espacio.
+- En combate no permanece estática ni se limita a observar: busca ángulos laterales, se desplaza por el terreno, cubre flancos y toma la iniciativa cuando detecta una oportunidad. Sus armas y experiencia no la convierten en invulnerable ni en especialista capaz de resolver cualquier enfrentamiento.
+
+### Coordinación de Adrián y Vera
+
+- Llevan tiempo sobreviviendo juntos y han desarrollado una forma complementaria de combatir, basada en confianza y conocimiento mutuo, no en una relación de mando y subordinación.
+- Adrián disputa el espacio cercano con el escudo y su arma; Vera aprovecha los ángulos que él mantiene abiertos para disparar, cubre flancos y recurre al hacha cuando la distancia se cierra.
+- Pueden cambiar de posición y prioridades según el terreno y el comportamiento de los enemigos. No dependen de una coreografía fija ni necesitan hablar constantemente para coordinarse.
+- Su coordinación les permite intervenir eficazmente para abrir una brecha y rescatar a Kevin y Darío durante 7A. No significa que puedan derrotar por separado o exterminar a una manada numerosa. Pueden recibir heridas, perder posiciones y necesitar retirarse.
+- Ambos tienen capacidades propias, criterio e iniciativa. Vera no es subordinada ni simple apoyo de Adrián; Adrián tampoco es solo un escudo que protege mientras ella hace el trabajo ofensivo.
+
 ## Registro narrativo — Piso 6F: «El límite del Guardián» (aprobado; aún no publicado)
 
 - Los cinco experimentados enfrentaron al Guardián después de la derrota de los cuatro Custodios en 6E. Los otros once participantes estaban agotados y algunos habían recibido golpes; no se encontraban en condiciones de sumarse inmediatamente al combate.
