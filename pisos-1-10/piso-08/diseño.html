@@ -1,137 +1,196 @@
 <!doctype html>
 <html lang="es">
 <head>
-<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<title>UMBRAL — Diseño del Piso 8: Especialización</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>UMBRAL — Piso 8 · Diseño</title>
 <style>
-:root{color-scheme:light;--ink:#202a32;--muted:#52616b;--line:#cbd3d8;--accent:#315d69;--pale:#edf3f4;--proposal:#fff5df}
-*{box-sizing:border-box}body{margin:0;padding:2rem;font:16px/1.58 system-ui,-apple-system,"Segoe UI",sans-serif;color:var(--ink);background:#f7f8f8}
-main{max-width:1050px;margin:auto;background:#fff;padding:clamp(1.2rem,4vw,3rem);border:1px solid var(--line)}
-h1,h2,h3{line-height:1.2;color:#183b48}h1{font-size:2.2rem;margin:.2rem 0 .5rem}h2{margin:2.3rem 0 .8rem;padding-bottom:.45rem;border-bottom:2px solid var(--line)}h3{margin:1.5rem 0 .5rem}
-p{margin:.65rem 0}li{margin:.35rem 0}.eyebrow{color:var(--accent);text-transform:uppercase;letter-spacing:.12em;font-weight:700;font-size:.82rem}
-.subtitle{color:var(--muted);font-size:1.12rem}.meta{color:var(--muted);font-size:.92rem}
-.callout,.proposal{padding:1rem 1.2rem;margin:1.2rem 0;border-left:4px solid var(--accent);background:var(--pale)}
-.proposal{border-color:#b17b22;background:var(--proposal)}table{width:100%;border-collapse:collapse;margin:1rem 0}th,td{border:1px solid var(--line);padding:.65rem;text-align:left;vertical-align:top}th{background:var(--pale)}
-</style></head><body><main>
-<header><div class="eyebrow">UMBRAL · Diseño global de piso · Documento de planificación</div>
-<h1>Piso 8 — Especialización</h1><p class="subtitle">Convertir las capacidades aprendidas en recursos propios, consistentes y útiles bajo presión.</p>
-<p class="meta"><strong>Estado:</strong> base de diseño desarrollada a partir de las decisiones conversadas. La temática concreta y la prueba global siguen expresamente en propuesta y pueden cambiar. Este documento no aprueba acontecimientos narrativos ni los convierte en canon.</p></header>
+:root{color-scheme:dark;--bg:#11151b;--panel:#1a222c;--panel2:#202b37;--text:#e8edf2;--muted:#aab7c5;--line:#354454;--accent:#c5a879;--warn:#e0bd78}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--text);font:16px/1.65 system-ui,-apple-system,Segoe UI,sans-serif}
+main{max-width:1000px;margin:auto;padding:36px 24px 72px}header{padding:28px 0 24px;border-bottom:1px solid var(--line);margin-bottom:28px}
+.eyebrow,.meta{color:var(--muted);font-size:.9rem}h1{font-size:2.3rem;line-height:1.15;margin:.4rem 0}h2{font-size:1.45rem;margin:0 0 14px;color:#f1dfc2}h3{font-size:1.08rem;margin:20px 0 8px;color:#e7d3b0}
+.subtitle{font-size:1.12rem;color:var(--muted);max-width:800px}.status{display:inline-block;border:1px solid #806c48;color:var(--warn);padding:3px 9px;border-radius:5px;font-size:.85rem}
+section{background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:22px 24px;margin:18px 0}
+p{margin:9px 0}ul,ol{padding-left:24px}li{margin:7px 0}
+.callout,.proposal{background:var(--panel2);border-left:3px solid var(--accent);padding:14px 17px;margin:15px 0;border-radius:4px}
+table{width:100%;border-collapse:collapse;margin:14px 0}th,td{text-align:left;vertical-align:top;padding:11px;border-bottom:1px solid var(--line)}th{color:#e7d3b0;background:var(--panel2)}
+.small{font-size:.92rem;color:var(--muted)}strong{color:#f1e5d2}
+</style>
+</head>
+<body><main>
+<header>
+<div class="eyebrow">UMBRAL · Diseño global de piso · Documento de planificación</div>
+<h1>Piso 8 — La forja del estilo</h1>
+<p class="subtitle">Desarrollar capacidades de combate propias, convertir la experiencia acumulada en dominio técnico y enfrentarse a criaturas de élite mediante preparación, estrategia y ejecución colectiva.</p>
+<p class="meta"><span class="status">Dirección de diseño aceptada; detalles concretos aún abiertos</span></p>
+<p class="meta">Este documento organiza la planificación del Piso 8. No canoniza acontecimientos narrativos futuros, resultados de combates, lesiones, botín ni mejoras que todavía no hayan sido mostradas y aprobadas en sus escenarios.</p>
+</header>
 
-<section><h2>1. Función dentro de la progresión</h2>
-<p>La progresión orientativa llega aquí desde la <strong>Adaptación</strong> del Piso 6 y la <strong>Integración</strong> del Piso 7. El Piso 8 corresponde a la <strong>Especialización</strong>: los participantes empiezan a reconocer qué capacidades pueden desarrollar con mayor profundidad, qué función pueden cumplir en distintas situaciones y qué debilidades deben aprender a compensar.</p>
-<p>Especializarse no significa elegir una clase, recibir una profesión del sistema ni quedar encerrado en un único papel. Significa construir recursos técnicos propios mediante fundamentos, práctica, experiencia y decisiones. Una fortaleza reconocible también tiene límites: alguien puede ser eficaz en ciertas distancias, ritmos, terrenos o tipos de adversario y seguir teniendo problemas cuando esas condiciones cambian.</p>
-<div class="callout"><strong>Idea central:</strong> no basta con ejecutar varias acciones ocasionalmente. El objetivo es descubrir qué puede hacer cada participante de forma fiable bajo presión y cómo esa capacidad encaja con las de los demás.</div></section>
+<section><h2>1. Identidad y función dentro de la progresión</h2>
+<p>El Piso 8 corresponde a la <strong>Especialización</strong>. No debe funcionar como una repetición de las lecciones básicas del Piso 7. Kevin, Darío, Adrián y Vera ya acumularon experiencia; al llegar aquí deben mostrar una competencia más consistente, menos errores elementales y una mejor capacidad para aprovechar lo que saben hacer.</p>
+<p>El centro narrativo no será recordarles constantemente lo que hacen mal, sino mostrar <strong>qué pueden hacer bien, cómo amplían esas fortalezas y qué nuevas posibilidades aparecen al perfeccionarlas</strong>. Los errores seguirán existiendo cuando la situación los justifique, pero servirán para ajustar, intentar de nuevo y avanzar; no serán el mensaje recurrente de cada capítulo.</p>
+<p>La especialización no es una clase, profesión ni rol asignado por UMBRAL. Es el desarrollo progresivo de recursos técnicos propios mediante práctica, experiencia y combate. Una capacidad debe verse en acciones concretas y repetibles, no declararse dominada porque el personaje la comprendió una vez.</p>
+<div class="callout"><strong>Principio narrativo:</strong> el Piso 7 mostró que el grupo podía cooperar. El Piso 8 debe mostrar cómo cuatro combatientes con experiencia empiezan a convertir sus capacidades individuales y su cooperación en una fuerza mucho más eficaz. El lector debe percibir progreso, iniciativa y logros, no una sucesión de lecciones sobre fallos ya conocidos.</div>
+</section>
 
 <section><h2>2. Continuidad y punto de partida</h2>
 <ul>
-<li>El Piso 6 terminó tras la derrota del Guardián. Su cierre no narró el traslado ni la llegada al Piso 7.</li>
-<li>El Piso 7 está diseñado alrededor de la Integración. Kevin, Darío, Adrián y Vera forman la party propuesta para sus etapas posteriores a una invitación y aceptación expresas; la continuidad aprobada determinará si efectivamente llegan juntos al Piso 8.</li>
-<li>No asumir que la party sigue intacta, que todos llegan al mismo tiempo ni que se incorporó un quinto integrante. Comprobar el cierre aprobado del Piso 7 antes de escribir.</li>
-<li>La referencia del Piso 6 a una futura formación de cinco puede retomarse como posibilidad, no como obligación ni como composición ya decidida. El máximo de party continúa siendo cinco.</li>
-<li>No presuponer lesiones, consumos, botín, cambios de equipo, atributos ni rangos al comenzar el Piso 8. Verificarlos en la continuidad y las fichas vigentes.</li>
-</ul></section>
+<li>El cierre aprobado de Piso 7E establece que Kevin, Darío, Adrián y Vera completaron el piso y fueron trasladados al Piso Principal 8.</li>
+<li>La party reconocida continúa formada por los cuatro (4/5), sin líder permanente impuesto por el sistema. No se ha incorporado una quinta persona.</li>
+<li>Los cuatro llegaron con lesiones y molestias físicas acumuladas durante el Piso 7; la restauración corporal al entrar al Piso Principal 8 las eliminó.</li>
+<li>El cansancio, el hambre, la sed y el sueño permanecen. No asumir que la restauración los dejó descansados ni que sus provisiones se consumieron en cantidades concretas.</li>
+<li>Kevin conserva Fuerza 4, Velocidad 5, Resistencia 4, Coordinación 5, Percepción 5 y Reacción 4. No se confirmaron cambios de atributos, habilidades o rangos de dominio.</li>
+<li>Kevin y Darío renovaron sus tres usos del Sistema de Recuperación para el Piso 8. No se confirmó uso alguno en este piso.</li>
+<li>No se confirmaron consumos exactos de provisiones, botín, recompensas, daño permanente del equipo ni cambios de equipo.</li>
+<li><strong>Punto de continuación:</strong> los cuatro acaban de llegar al Piso Principal 8. La preparación de 12 horas todavía debe desarrollarse antes del traslado automático al escenario inicial.</li>
+</ul>
+<p class="small">Antes de escribir la llegada y la preparación, contrastar este resumen con 02-KEVIN.txt y 03-CONTINUIDAD-ACTUAL.txt. No repetir el traslado ni la restauración: ya ocurrieron.</p>
+</section>
 
 <section><h2>3. Piso Principal 8 y preparación</h2>
-<p>El Piso Principal debe respetar la identidad general de UMBRAL: recinto interior amplio, cerrado, blanco y cuidadosamente diseñado, con estética de torre o fortaleza medieval fantástica. Su arquitectura, circulación, iluminación, instalaciones y espacios de descanso se concretarán al diseñar la llegada; no debe confundirse con el terreno de prueba.</p>
+<p>El Piso Principal debe respetar la identidad general de UMBRAL: recinto interior amplio, cerrado, blanco y cuidadosamente diseñado, con estética de torre o fortaleza medieval fantástica. Su arquitectura, circulación, iluminación, instalaciones y espacios de descanso se concretarán al narrar la llegada; no debe confundirse con el terreno de prueba.</p>
 <ul>
-<li>Al entrar, los participantes vivos reciben la restauración corporal establecida y renuevan sus tres usos del Sistema de Recuperación, con eficacias del 100 %, 50 % y 25 % por orden de activación. No se restauran automáticamente hambre, sed, sueño perdido, agotamiento ni otras condiciones excluidas por las reglas.</li>
-<li>El plazo ordinario es de 12 horas desde la llegada individual. Una party de varios integrantes no amplía el plazo. Una ventana compartida de hasta 24 horas solo se aplica si el diseño definitivo establece expresamente una reunión común de parties o equipos distintos.</li>
-<li>Se ofrece la selección de equipo correspondiente y se entrega a cada participante una botella sellada de agua y dos raciones compactas, aunque conserve provisiones anteriores. Registrar elecciones y pertenencias reales sin inventar consumos.</li>
-<li>La preparación debe permitir descanso, alimentación, hidratación, revisión del equipo y práctica razonable; no convertirla en entrenamiento intensivo ni asumir que los personajes conocen de antemano la prueba.</li>
-<li>Al cumplirse el plazo aplicable, UMBRAL traslada automáticamente a quienes permanezcan en el Piso Principal al escenario inicial definido.</li>
-</ul></section>
-
-<section><h2>4. Práctica, prueba y combate</h2>
-<p>El piso distingue tres formas de desarrollar capacidades. Pueden combinarse y no constituyen una escala rígida:</p>
-<ol>
-<li><strong>Práctica controlada:</strong> repetición de movimientos y situaciones concretas para corregir postura, equilibrio, distancia, ángulo, tiempo, recuperación del arma, desplazamiento y comunicación. Permite detenerse, observar y repetir. No sustituye la experiencia contra un adversario que reacciona.</li>
-<li><strong>Práctica de campo con riesgo limitado:</strong> encuentros preparados con ventajas razonables, como aislar una criatura, aprovechar terreno favorable o trabajar después de reducir la amenaza de una manada. Puede incluir observar o enfrentarse a un superviviente herido o debilitado si las condiciones lo hacen razonablemente manejable. Sigue siendo peligroso, no es un muñeco de entrenamiento.</li>
-<li><strong>Combate real:</strong> enfrentamientos donde los adversarios conservan movilidad, iniciativa y capacidad de sorprender. Ponen a prueba si los fundamentos se mantienen bajo presión, pero no garantizan una mejora por el mero hecho de participar.</li>
-</ol>
-<p>El combate puede revelar fallos que no aparecen durante la práctica tranquila: mala lectura del movimiento, distancia mal calculada, rigidez, pérdida de equilibrio, exceso de compromiso o incapacidad para recuperar la posición. Combatir no enseña automáticamente más que entrenar; una exposición desproporcionada puede causar lesiones o muerte sin producir aprendizaje útil.</p>
-<p>Las prácticas de campo deben tener un propósito concreto. No se enfrentará al grupo a criaturas heridas solo para acumular peleas o buscar una supuesta bonificación de experiencia. Antes de intentarlo, deben valorar estado y capacidad de respuesta de la criatura, rutas de retirada, terreno, condición del grupo y qué quieren comprobar. Si el riesgo cambia, pueden cancelar el ejercicio.</p>
-<div class="callout"><strong>Principio de Adrián:</strong> practicar permite construir el movimiento; el combate comprueba cuánto de ese movimiento puedes conservar cuando el adversario decide por ti. Ninguno reemplaza al otro.</div></section>
-
-<section><h2>5. Adrián: combatiente defensivo flexible</h2>
-<p>Adrián utiliza escudo y un arma de una mano. Su estilo combina defensa activa con ataque: protege y controla espacio, pero también golpea, desplaza al adversario con el escudo y aprovecha las aperturas con su arma. No es una pared inmóvil ni alguien cuya función consista en recibir golpes. La elección concreta de su arma debe fijarse antes de escribir el escenario si todavía no se ha establecido en la continuidad.</p>
-<ul>
-<li><strong>Bloqueo selectivo:</strong> reconoce qué ataques puede detener y cuáles conviene evitar. Algunos impactos pueden superar su fuerza, desequilibrarlo, dañar su brazo o dejarlo expuesto.</li>
-<li><strong>Desvío y redirección:</strong> utiliza el ángulo del escudo, los pies y el giro del cuerpo para apartar un ataque, en vez de absorber toda su fuerza.</li>
-<li><strong>Fintas:</strong> puede insinuar una línea de defensa, provocar una reacción o inducir al adversario a comprometer un ataque que luego intenta evitar o redirigir. Dependen de leer al oponente y pueden fallar.</li>
-<li><strong>Control del espacio:</strong> avanza, retrocede, cierra ángulos y protege rutas. Puede crear aperturas para sus compañeros, pero no controla todo el campo ni cubre a todos a la vez.</li>
-<li><strong>Uso ofensivo del escudo:</strong> puede golpear, empujar o desplazar al adversario para romper su avance, recuperar espacio o crear una apertura para atacar con su arma. No todos los enemigos pueden ser movidos con facilidad y comprometerse con un golpe de escudo puede dejarlo expuesto.</li>
-<li><strong>Interposición de emergencia:</strong> puede recibir un golpe para impedir una lesión peor o salvar a un compañero. No convierte el impacto en una buena solución habitual. Si debe absorber ataques que podían evitarse, lo considera una señal de que el planteamiento o la ejecución fallaron.</li>
+<li>La restauración corporal ya se aplicó al llegar. No narrarla de nuevo como un efecto futuro.</li>
+<li>El plazo ordinario de preparación es de 12 horas desde la llegada individual. Que la party tenga cuatro integrantes no amplía el plazo. Una ventana compartida de hasta 24 horas solo procede si el diseño establece expresamente una reunión común de equipos o parties distintos y se cumplen las reglas maestras.</li>
+<li>Se renuevan los tres usos de Recuperación por participante al entrar al piso principal, con eficacias de 100 %, 50 % y 25 % por orden de activación. No se acumulan usos no gastados.</li>
+<li>Debe mostrarse la selección de equipo disponible y la entrega obligatoria a cada participante de una botella sellada de agua y dos raciones compactas, aunque conserve provisiones anteriores. Registrar las elecciones y pertenencias reales.</li>
+<li>La preparación debe incluir descanso, comida, hidratación, revisión del equipo y práctica razonable. No convertirla en un entrenamiento intensivo que ignore el cansancio que arrastran.</li>
+<li>Al cumplirse el plazo aplicable, UMBRAL traslada automáticamente a quienes permanezcan allí al escenario inicial.</li>
 </ul>
-<p>Su escudo no sustituye su capacidad ofensiva: alterna defensa y ataque según la oportunidad, y puede presionar al adversario cuando hacerlo es más útil que limitarse a protegerse. Adrián enseña desde su experiencia, no como maestro infalible. Explica por qué una defensa funcionó, demuestra alternativas y propone repetir situaciones; también puede equivocarse o descubrir que una técnica no funciona como esperaba. El escudo no lo vuelve invulnerable: los impactos generan fatiga, dolor, pérdida de equilibrio y riesgo de lesión.</p>
-<p>Puede tener un humor algo desconcertante para Kevin y Darío: a veces propone repetir un ejercicio o aprovechar una oportunidad de campo que a ellos les parece una locura. La diferencia es que evalúa el riesgo, explica qué quiere comprobar y acepta interrumpir la práctica cuando deja de ser razonable. No los arroja a una criatura por diversión ni los fuerza a obedecer.</p>
-<p><strong>Coordinación con Vera:</strong> su estilo se complementa con el de ella. Adrián disputa el espacio cercano, desvía o bloquea ataques y crea aperturas mediante golpes de escudo o ataques con su arma. Vera busca ángulos laterales para disparar con la ballesta, cubre flancos y recurre al hacha si un enemigo se aproxima demasiado. Ambos pueden cambiar de posición y apoyarse mutuamente; no dependen de una coreografía fija ni siempre consiguen cubrirse. La práctica del Piso 8 puede hacer más consciente y eficaz esa coordinación, además de permitir que Kevin y Darío aprendan a trabajar con ambos.</p></section>
+</section>
 
-<section><h2>6. Desarrollo de capacidades del grupo</h2>
-<p>El grupo no recibe roles asignados por UMBRAL. Sus integrantes descubren qué pueden aportar y desarrollan capacidades propias sin quedar limitados a ellas. La especialización aumenta la fiabilidad de ciertas acciones, no convierte a nadie en una solución universal.</p>
+<section><h2>4. Entorno y desafío global propuesto</h2>
+<p>La dirección ambiental elegida es una <strong>antigua zona de guerra construida alrededor de una gran fortaleza en ruinas</strong>. El espacio de prueba puede incluir patios, murallas derrumbadas, torres, escaleras, pasadizos, edificios parcialmente hundidos, puentes rotos y sectores abiertos. No es una mazmorra uniforme: cada zona ofrece posibilidades tácticas y condiciones de combate distintas.</p>
+<p>Las criaturas ocupan sectores de la fortaleza, utilizan estructuras para desplazarse, descansar, cazar o proteger sus nidos. Puede haber territorios de distintas especies, zonas disputadas y ejemplares que dominan áreas concretas. La fauna no debe sentirse como enemigos colocados en habitaciones esperando al grupo: sus movimientos, presencia y reacciones deben responder a su comportamiento y al entorno.</p>
+<p>El objetivo global todavía debe concretarse. La dirección preferida es atravesar o progresar por la región fortificada, superando amenazas y alcanzando una salida o punto de transición. No es necesario exterminar a todas las criaturas ni convertir el piso en una guerra campal entre facciones. La condición exacta de avance debe definirse antes de escribir el primer escenario.</p>
+<div class="callout"><strong>Uso del terreno:</strong> el espacio debe ofrecer ventajas que el grupo pueda aprender a explotar: líneas de visión desde las alturas, zonas donde la lanza conserva distancia, rincones que favorecen una defensa con escudo, rutas para flanquear, lugares desde los que Vera pueda disparar y pasos donde una criatura grande tenga movilidad limitada. El terreno no debe ser un obstáculo arbitrario que invalide las armas en cada escena; también debe permitir que los personajes demuestren su competencia.</div>
+</section>
+
+<section><h2>5. Criaturas de élite y mini jefes</h2>
+<p>El Piso 8 introduce de forma clara <strong>criaturas de élite y mini jefes</strong>. Deben sentirse como amenazas importantes dentro del ecosistema del piso, no como monstruos con barras de vida, fases obligatorias o reglas de videojuego. Son criaturas vivas: tienen capacidades, límites, comportamiento, territorio y respuestas propias. Pueden retirarse, cambiar de posición, protegerse, perseguir o aprovechar el terreno según su naturaleza.</p>
+<p>Los enemigos comunes siguen siendo relevantes para exploración, cacería y desgaste, pero no deben cargar por sí solos con todos los combates memorables. Las élites deben exigir preparación y una ejecución más precisa. Cada encuentro importante debe tener identidad: una criatura resistente no se enfrenta igual que una veloz o una que domina las alturas.</p>
+<h3>Arquetipos de élite propuestos</h3>
 <ul>
-<li><strong>Kevin:</strong> su arma principal es la lanza. Puede profundizar en distancia, control del espacio, estocadas, recuperación del arma, equilibrio y desplazamiento después del ataque. La lanza se utiliza principalmente para estocar; no asumir cortes eficaces ni dominio de movimientos que todavía no ha demostrado. Sus fortalezas y límites surgen de la práctica y los combates, no de una clase predeterminada.</li>
-<li><strong>Darío:</strong> desarrolla su propio manejo de la espada y una ejecución más consistente al aprovechar aperturas, protegerse y recuperar la posición. No tiene que especializarse igual que Kevin ni ser su complemento automático.</li>
-<li><strong>Adrián:</strong> llega al Piso 8 con una base defensiva flexible que ya debe haberse mostrado en el Piso 7: bloquea selectivamente, ajusta ángulos, desvía ataques y controla el espacio con el escudo. En el Piso 8 profundiza y enseña recursos más elaborados —redirecciones, fintas, lectura de compromisos y creación de aperturas— sin que eso implique dominio perfecto ni capacidad para detener cualquier golpe. Resistir un impacto sigue siendo una opción de emergencia, no el centro de su estilo.</li>
-<li><strong>Vera:</strong> conserva iniciativa y capacidades propias relacionadas con reconocimiento, lectura del terreno y uso de sus armas. No queda reducida a observadora ni subordinada de Adrián.</li>
+<li><strong>Élite defensivo — «Rompemurallas» (nombre provisional):</strong> criatura corpulenta con placas naturales resistentes, capaz de embestir y desplazar obstáculos. Su peligro procede de la masa, el alcance de sus embestidas y la protección corporal. El grupo debe crear oportunidades, explotar su compromiso de movimiento y concentrar ataques útiles; no basta con golpear repetidamente la armadura.</li>
+<li><strong>Élite ágil — «Trepador» (nombre provisional):</strong> depredador capaz de desplazarse por muros, techos y estructuras. No necesita ser muy resistente: su movilidad, elección de ángulos y capacidad para atacar desde posiciones elevadas lo convierten en una amenaza. El grupo puede forzarlo a perder ventajas de altura y combinar ataques a distancia con intervención cercana.</li>
+<li><strong>Mini jefe — «Dominante» (nombre provisional):</strong> criatura especialmente peligrosa que ocupa o controla una zona importante de la fortaleza. Debe tener una combinación reconocible de capacidades, conducta y ventajas territoriales. Su cacería requiere reconocimiento, preparación, un plan colectivo y adaptación durante la ejecución.</li>
 </ul>
-<p>Si la party cambia o se incorpora una quinta persona, debe justificarse mediante invitación y aceptación expresas. No se exige completar cinco integrantes. Una formación más amplia solo tiene sentido si sus capacidades y personalidades producen ventajas y también nuevas necesidades de coordinación.</p></section>
+<p>Estos arquetipos son propuestas de función, no especies ya fijadas. Antes de escribir cada encuentro se concretarán anatomía, capacidades demostradas, límites, conducta, terreno, señales observables y posibles respuestas. No asumir que todos los individuos de una especie son iguales ni atribuir capacidades que no se hayan establecido.</p>
+<p>Los mini jefes deben ser memorables por cómo se desarrolla el enfrentamiento y por el logro que supone superarlos, no solo por tener más resistencia. La victoria puede consistir en matarlos, expulsarlos, hacerlos retroceder o neutralizar su amenaza para cumplir el objetivo, según las circunstancias. No se garantiza botín por derrotarlos.</p>
+</section>
 
-<section><h2>7. Estructura de trabajo prevista</h2>
-<p>La siguiente estructura guía el desarrollo; no obliga a que cada apartado sea una prueba independiente. Se ajustará a la temática y condición global que se definan finalmente.</p>
-<table><thead><tr><th>Etapa provisional</th><th>Función</th></tr></thead><tbody>
-<tr><td>8A — Reconocimiento y primeras limitaciones</td><td>Presentar el entorno y sus amenazas. Descubrir que técnicas útiles en una situación pueden fallar ante otro adversario o terreno.</td></tr>
-<tr><td>8B — Identificar fortalezas</td><td>Reconocer qué acciones ejecuta cada integrante con mayor consistencia y qué debilidades aparecen al desarrollarlas.</td></tr>
-<tr><td>8C — Práctica aplicada</td><td>Combinar entrenamiento controlado y encuentros de campo con riesgo limitado. La práctica tiene objetivos concretos y consecuencias reales.</td></tr>
-<tr><td>8D — Especialización bajo presión</td><td>Enfrentamientos o tareas más complejas exigen aplicar fortalezas sin olvidar debilidades ni depender de que Adrián reciba todos los golpes.</td></tr>
-<tr><td>8E — Integración de capacidades especializadas</td><td>Un desafío final exige utilizar lo desarrollado de manera complementaria. No será una demostración perfecta: errores, ajustes y costes siguen importando.</td></tr>
-</tbody></table></section>
-
-<section><h2>8. Temática y prueba global — propuesta abierta</h2>
-<div class="proposal">
-<p><strong>Propuesta actual, todavía no definitiva:</strong> una antigua zona de guerra alrededor de una fortaleza en ruinas, con sectores distintos —espacios abiertos, pasajes estrechos, patios derruidos y zonas interiores— que permitan probar distancias, posturas, armas y movimientos diferentes.</p>
-<p>La prueba podría consistir en explorar y atravesar una región peligrosa mediante enfrentamientos localizados, cacerías y objetivos parciales, en lugar de una batalla campal. Las criaturas presentarían problemas distintos: adversarios resistentes que obliguen a buscar aperturas, criaturas rápidas que castiguen ataques mal calculados y enemigos capaces de disputar el control de la distancia.</p>
-<p>El grupo podría reducir una manada y, si las condiciones lo permiten, dejar aislado a un superviviente para observar su conducta o practicar una acción concreta contra un adversario debilitado. No se establece que siempre deba quedar uno vivo ni que la situación pueda controlarse por completo: el animal aún puede herir o matar, huir, reaccionar inesperadamente o atraer otros peligros. El plan debe poder abandonarse.</p>
-<p>El territorio, las especies, el objetivo global, las condiciones de avance y la distribución de etapas pueden cambiar. Esta propuesta no es canon ni diseño cerrado hasta que el usuario la apruebe.</p>
-</div>
-<p>La ausencia de una batalla campal es una decisión de enfoque actualmente acordada: el piso debe dar espacio a encuentros con objetivos, escalas y condiciones diferentes, y permitir que los personajes observen, practiquen, se equivoquen, descansen, discutan y vuelvan a intentarlo. Puede haber combates peligrosos y situaciones de gran escala local sin convertir todo el piso en un enfrentamiento masivo entre bandos.</p></section>
-
-<section><h2>9. Límites de progresión y coherencia</h2>
+<section><h2>6. Adrián: estratega práctico y coordinador de campo</h2>
+<p>Adrián debe destacar de forma perceptible en el Piso 8. Su pasado como suboficial de infantería no es un dato decorativo: debe notarse en su forma de reconocer amenazas, preparar cacerías, organizar posiciones y convertir información incompleta en un plan viable para un equipo pequeño.</p>
+<p>No es un genio omnisciente ni un estratega infalible. Su competencia se expresa en procedimientos prácticos y decisiones oportunas. Puede equivocarse cuando la información es insuficiente o el adversario hace algo que no podía prever, pero no debe parecer un integrante más que simplemente comenta lo que ve. Sus planes deben producir ventajas concretas y reconocibles.</p>
+<h3>Conductas que deben mostrarse en escena</h3>
 <ul>
-<li>No hay clases, profesiones, técnicas desbloqueadas ni bonificaciones de experiencia concedidas automáticamente por UMBRAL. Las capacidades se desarrollan mediante práctica, observación, exposición y experiencia, según las Reglas Maestras.</li>
-<li>No todo combate produce una mejora. Una muerte, lesión o retirada no se convierte automáticamente en aprendizaje dominado.</li>
-<li>Una criatura herida o aislada sigue siendo peligrosa. Deben explicarse su estado, movilidad, conducta, capacidad ofensiva y medidas de seguridad razonables.</li>
-<li>Una práctica controlada no garantiza que el mismo movimiento funcione contra una criatura sana, otro ejemplar o una situación distinta.</li>
-<li>Adrián no puede bloquear o redirigir cualquier ataque. Fuerza, peso, ángulo, velocidad, terreno y postura determinan qué puede detener y qué debe esquivar.</li>
-<li>Adrián no absorbe golpes por sistema para que los demás practiquen. Interponerse es una decisión de emergencia con coste físico, no un método rutinario.</li>
-<li>Las fintas y redirecciones dependen de lectura y oportunidad; no controlan la mente del adversario ni garantizan una reacción.</li>
-<li>Kevin no debe ser caracterizado como impulsivo, temerario o incapaz de pensar. Sus errores deben derivarse de información incompleta, limitaciones técnicas, cálculos equivocados o decisiones razonables que resultan incorrectas.</li>
-<li>La coordinación no será perfecta. Las especializaciones no eliminan la necesidad de comunicarse ni permiten cubrir todos los ángulos.</li>
-<li>Vera y los demás conservan iniciativa. Adrián no es instructor omnisciente ni el único capaz de detectar errores o proponer soluciones.</li>
-<li>No se garantizan aumentos de atributos, rangos de dominio, botín, recompensas ni equipo nuevo. Todo cambio debe justificarse por hechos narrados y aprobarse con el escenario correspondiente.</li>
-<li>El piso no será una sucesión de entrenamientos sin peligro ni de combates gratuitos. Debe equilibrar exploración, práctica, combate, descanso, interacción y decisiones.</li>
-</ul></section>
-
-<section><h2>10. Riesgos de diseño que deben evitarse</h2>
-<ul>
-<li>No convertir a Adrián en un tanque inmóvil que resuelve todo recibiendo impactos.</li>
-<li>No presentar bloquear golpes como prueba de que recibirlos es buena estrategia. Evitar o redirigir suele ser preferible cuando es posible.</li>
-<li>No hacer de Adrián un maestro perfecto ni asumir que sus prácticas siempre salen bien.</li>
-<li>No convertir criaturas heridas en blancos indefensos ni asumir que el grupo controla su conducta por completo.</li>
-<li>No confundir aprendizaje práctico con puntos de experiencia, aumentos numéricos o dominio instantáneo.</li>
-<li>No convertir el Piso 8 en batalla campal, guerra entre facciones o competición multitudinaria, salvo que el usuario cambie expresamente la dirección.</li>
-<li>No imponer una party de cinco ni decidir quién ocuparía el quinto lugar.</li>
-<li>No asignar especializaciones rígidas que impidan actuar fuera de la función principal.</li>
-<li>No fijar resultados de prácticas, heridas, consumos ni evolución técnica antes de escribir y aprobar los escenarios.</li>
-</ul></section>
-
-<section><h2>11. Estado del documento y asuntos abiertos</h2>
-<ul>
-<li>La función de progresión del Piso 8 es la Especialización.</li>
-<li>El aprendizaje combina práctica controlada, práctica de campo con riesgo limitado y combate real, sin recompensas automáticas.</li>
-<li>Adrián es un combatiente defensivo flexible con escudo: bloquea selectivamente, desvía, redirige, usa fintas y controla espacio. Puede interponerse y recibir un golpe cuando sea necesario, pero no lo convierte en rutina.</li>
-<li>La party desarrolla capacidades individuales y complementarias sin clases ni roles obligatorios. La composición efectiva al llegar al Piso 8 depende de la continuidad aprobada del Piso 7.</li>
-<li>La dirección actual descarta una batalla campal como estructura principal.</li>
-<li>La temática concreta, el entorno de prueba, las criaturas, el objetivo global, las condiciones de avance y la estructura definitiva siguen en propuesta y pueden cambiar.</li>
+<li><strong>Reconocimiento:</strong> antes de comprometer al grupo, observa rastros, accesos, salidas, líneas de visión, posibles rutas de aproximación, señales de actividad y ventajas del terreno. Distingue lo observado de lo que solo sospecha.</li>
+<li><strong>Evaluación de amenaza:</strong> considera tamaño, movilidad, alcance, protección, número de adversarios, conducta conocida, terreno y condición del equipo. Prioriza qué necesita averiguar y qué riesgo no merece asumir.</li>
+<li><strong>Plan sencillo y ejecutable:</strong> define objetivo, posiciones, responsabilidades flexibles, señal de inicio o cambio, ruta de retirada y condiciones para cancelar. No diseña planes tan complejos que dependan de una ejecución perfecta.</li>
+<li><strong>Uso de fortalezas:</strong> coloca a cada integrante donde sus capacidades tengan utilidad. Por ejemplo, puede asignar a Vera una línea de tiro, usar el escudo para disputar el espacio cercano, permitir que Kevin controle una zona de aproximación con la lanza y reservar a Darío para aprovechar aperturas o contener una incursión. Las funciones cambian según el enemigo; no son roles rígidos.</li>
+<li><strong>Control del ritmo:</strong> decide cuándo observar, atraer, presionar, concentrar ataques, reposicionarse o retirarse. Sabe que no todo combate debe comenzar en cuanto se ve al enemigo.</li>
+<li><strong>Adaptación:</strong> si cambia una condición importante, comunica un ajuste comprensible y reorganiza al equipo. No se aferra a un plan solo por haberlo propuesto.</li>
+<li><strong>Evaluación posterior:</strong> después de una cacería identifica qué funcionó, qué conviene repetir y qué debe cambiarse. Da instrucciones concretas, no discursos abstractos.</li>
 </ul>
-<p class="meta">La aprobación de esta base de planificación no canoniza acontecimientos futuros. Cada escenario narrativo sigue siendo provisional hasta que el usuario lo acepte expresamente.</p></section>
+<p>Adrián puede tomar la iniciativa táctica y coordinar una operación sin convertirse en líder permanente de la party. Los demás conservan criterio, iniciativa y capacidad para advertir oportunidades o proponer cambios. Su autoridad nace de la experiencia y de la utilidad de sus decisiones, no de una jerarquía impuesta.</p>
+<p>Su estilo de combate también debe verse activo: escudo y arma de una mano; bloqueos selectivos, desvíos y redirecciones, fintas, control del espacio, golpes de escudo para desplazar o abrir oportunidades y ataques propios cuando corresponde. No es una pared inmóvil ni absorbe impactos por rutina. Su coordinación con Vera se apoya en experiencia y confianza mutua, no en una coreografía infalible.</p>
+<div class="callout"><strong>Prueba narrativa:</strong> en al menos una cacería importante, el lector debe poder reconocer que el grupo obtuvo una ventaja decisiva porque Adrián preparó bien el encuentro: eligió el lugar, anticipó una respuesta probable, distribuyó tareas y dejó una alternativa si el plan fallaba. No hace falta que todos lo elogien; el resultado debe demostrar su competencia.</div>
+</section>
+
+<section><h2>7. Progresión positiva de los cuatro integrantes</h2>
+<p>La narración debe partir de las capacidades que ya poseen y mostrar cómo las vuelven más eficaces. Las limitaciones se mencionan cuando afectan una decisión o permiten comprender una mejora concreta, pero no deben dominar la caracterización. Cada progreso debe tener causa, práctica y demostración bajo condiciones apropiadas; no se conceden técnicas, estadísticas o rangos automáticamente.</p>
+<h3>Kevin — lanza, distancia y continuidad del movimiento</h3>
+<ul>
+<li>Desarrollar un control más consistente de la distancia y del espacio que amenaza con la punta de la lanza.</li>
+<li>Encadenar estocadas con desplazamientos y recuperación del arma, conservando equilibrio y capacidad de actuar después del primer ataque.</li>
+<li>Aprender a cambiar el ángulo de aproximación, aprovechar aperturas creadas por compañeros y mantener utilidad cuando el adversario no ofrece una línea frontal.</li>
+<li>Demostrar que puede ejecutar movimientos ya practicados con mayor fiabilidad bajo presión. No convertirlo de pronto en experto ni atribuirle cortes eficaces con la lanza sin fundamento.</li>
+</ul>
+<h3>Darío — espada, entradas y aprovechamiento de aperturas</h3>
+<ul>
+<li>Perfeccionar la selección de distancia y el momento de entrar, atacar y salir sin quedar innecesariamente comprometido.</li>
+<li>Desarrollar ataques más precisos y útiles, aprovechando aperturas creadas por el movimiento del enemigo o por sus compañeros.</li>
+<li>Consolidar desplazamientos y defensa con espada, manteniendo capacidad para cambiar de objetivo o ayudar a otro integrante.</li>
+<li>Mostrar una ejecución más consistente que en pisos anteriores, sin reducirlo a repetir los mismos errores de amplitud o equilibrio.</li>
+</ul>
+<h3>Adrián — defensa activa y táctica de equipo</h3>
+<ul>
+<li>Profundizar su uso del escudo para desviar, redirigir, desplazar y controlar espacio, alternando defensa con ataques propios.</li>
+<li>Perfeccionar la lectura de compromisos del adversario y el uso de fintas que creen oportunidades, sin garantizar que el enemigo reaccione como espera.</li>
+<li>Convertir su experiencia de campo en planes sencillos, preparación de cacerías y coordinación flexible del grupo.</li>
+<li>Mostrar competencia estratégica mediante decisiones, distribución de posiciones, alternativas y resultados observables.</li>
+</ul>
+<h3>Vera — ballesta, posicionamiento y combate cercano</h3>
+<ul>
+<li>Perfeccionar la elección de ángulos, posiciones y momentos de disparo, aprovechando el reconocimiento del terreno.</li>
+<li>Coordinar sus disparos con los movimientos de Adrián y las aperturas que creen Kevin y Darío.</li>
+<li>Conservar iniciativa cuando pierde una línea de tiro: desplazarse, buscar otra posición o recurrir al hacha corta si un enemigo se acerca.</li>
+<li>Participar en la planificación y evaluación de las cacerías desde su experiencia como guía de montaña y rescate. No queda reducida a tiradora pasiva ni subordinada de Adrián.</li>
+</ul>
+<p>La progresión debe ser gradual y visible. Una técnica practicada en condiciones controladas puede aparecer primero con consistencia limitada y después mantenerse en un combate exigente. No todo personaje tiene que mejorar en todos los escenarios ni cada encuentro debe contener una lección explícita. También debe haber momentos donde simplemente demuestren lo que ya dominan.</p>
+</section>
+
+<section><h2>8. Práctica y experiencia de campo</h2>
+<p>La práctica sigue siendo parte del piso, pero no debe ocupar el lugar de su conflicto principal ni sentirse como una academia. Adrián puede proponer ejercicios que parezcan extraños o arriesgados, siempre con un objetivo concreto, evaluación de condiciones y posibilidad real de detenerlos.</p>
+<ul>
+<li><strong>Práctica controlada:</strong> repetir movimientos, desplazamientos, cambios de ángulo, entradas y salidas, coordinación con armas y señales. Sirve para pulir fundamentos y ganar consistencia.</li>
+<li><strong>Práctica de campo:</strong> observar o enfrentarse a una criatura aislada, herida o debilitada cuando las condiciones lo hagan razonablemente manejable. El animal sigue siendo peligroso y puede escapar, reaccionar o herir. Debe existir un objetivo específico, una ruta de retirada y una razón para asumir el riesgo.</li>
+<li><strong>Cacería real:</strong> el adversario conserva movilidad, iniciativa y capacidad de sorprender. La preparación mejora las probabilidades, pero no garantiza el resultado.</li>
+</ul>
+<p>La práctica de campo no otorga puntos de experiencia ni mejoras automáticas. Puede permitir que una técnica se pruebe con resistencia real, que el grupo aprenda a leer un movimiento o que un integrante gane confianza fundada. También puede salir mal y debe cancelarse si las condiciones dejan de ser razonables.</p>
+<p>El equilibrio del piso debe favorecer exploración, cacerías, combates importantes, decisiones, descanso y relaciones. La práctica apoya esa experiencia, pero no debe convertirse en una sucesión de ejercicios que posponga continuamente la acción principal.</p>
+</section>
+
+<section><h2>9. Estructura provisional de escenarios</h2>
+<p>Esta estructura da un recorrido dramático al piso. Los títulos y la distribución pueden ajustarse al concretar el objetivo global, pero cada etapa debe tener una función diferenciada. No se añadirán escenarios solo para llenar letras.</p>
+<table>
+<thead><tr><th>Etapa</th><th>Función y contenido previsto</th></tr></thead>
+<tbody>
+<tr><td><strong>8A — Territorio conquistado</strong></td><td>Presentar la fortaleza en ruinas, sus sectores y señales de ocupación. El grupo afronta un primer encuentro importante que permite mostrar cuánto ha mejorado desde el Piso 7. La escena debe incluir reconocimiento, decisiones y un combate donde sus capacidades ya sean visibles; no empezar con una lección básica sobre coordinación.</td></tr>
+<tr><td><strong>8B — El Rompemurallas</strong></td><td>Primera cacería de élite. Adrián dirige el reconocimiento y prepara una operación con posiciones, objetivo, responsabilidades y retirada. El enfrentamiento permite que cada integrante aporte una fortaleza concreta y que el grupo consiga una victoria trabajada.</td></tr>
+<tr><td><strong>8C — Las alturas</strong></td><td>Explorar estructuras elevadas y enfrentarse a amenazas móviles, incluido el arquetipo del Trepador si encaja con la fauna definida. La etapa permite desarrollar posicionamiento, ataques a distancia, control de altura y cambios de ángulo. No debe limitarse a repetir el combate anterior con otro monstruo.</td></tr>
+<tr><td><strong>8D — La cacería del Dominante</strong></td><td>Reconocimiento y preparación de una cacería de mini jefe que controla un sector relevante. Adrián debe destacar como estratega práctico: obtiene información, elige el terreno o la aproximación, organiza al equipo y prepara alternativas. El combate será una operación exigente, no una victoria automática por tener un plan.</td></tr>
+<tr><td><strong>8E — La última muralla</strong></td><td>Desafío final de gran exigencia que reúne las capacidades desarrolladas y lleva al grupo a enfrentarse a una amenaza superior o a una situación táctica compleja. Debe ofrecer un cierre memorable y mostrar dominio colectivo, sin exigir una ejecución perfecta ni convertirlo necesariamente en una batalla multitudinaria.</td></tr>
+</tbody>
+</table>
+<p class="small">La cantidad de etapas y su orden son una estructura de trabajo provisional. Antes de escribir 8A se concretarán el objetivo global, las condiciones de superación, la geografía funcional y la relación entre cada etapa. Los arquetipos de élite pueden cambiar si otra fauna sirve mejor a la experiencia.</p>
+</section>
+
+<section><h2>10. Dirección narrativa y criterios de calidad</h2>
+<ul>
+<li><strong>Priorizar logros y capacidades:</strong> mostrar acciones eficaces, decisiones acertadas, técnicas que mejoran, oportunidades creadas y victorias ganadas. Las debilidades aparecen cuando importan, no como recordatorio en cada capítulo.</li>
+<li><strong>Respetar la experiencia acumulada:</strong> Kevin y Darío ya no son principiantes. Pueden cometer errores, pero deben mostrar mejor control, criterio y consistencia que en pisos anteriores. No repetir fallos básicos sin una causa nueva.</li>
+<li><strong>Progreso demostrable:</strong> una mejora debe verse en una acción concreta, en una comparación natural con una ejecución anterior o en una capacidad que ahora pueden mantener bajo presión.</li>
+<li><strong>Adrián debe destacar:</strong> la experiencia de suboficial debe reflejarse en reconocimiento, preparación, organización, elección de posiciones, distribución de tareas, planes de contingencia y adaptación. No basta con hacerlo comentar tácticas después de que otros resuelvan el combate.</li>
+<li><strong>Vera conserva agencia:</strong> aporta observación, criterio, decisiones y ejecución; su relación con Adrián es de pareja de combate coordinada, no de subordinación.</li>
+<li><strong>Élites memorables:</strong> cada mini jefe o criatura de élite debe tener capacidades, comportamiento y ventajas reconocibles. Su combate exige una solución particular y deja sensación de logro.</li>
+<li><strong>Variedad de encuentros:</strong> alternar cacerías, exploración, combate contra enemigos comunes, élites, práctica y momentos de descanso. No convertir cada escenario en una pelea contra un jefe.</li>
+<li><strong>Errores con función:</strong> cuando ocurran, deben producir un ajuste, una consecuencia o una decisión. No prolongar una misma lección ya aprendida ni degradar artificialmente la competencia del grupo.</li>
+<li><strong>Sin invulnerabilidad:</strong> las fortalezas no eliminan límites físicos, fatiga, costes, riesgos ni la posibilidad de que un adversario supere el plan.</li>
+<li><strong>Sin progresión gratuita:</strong> no asignar aumentos de atributos, técnicas dominadas, rangos, recompensas o botín por diseño. Todo debe justificarse en los hechos narrados y registrarse tras aprobación.</li>
+</ul>
+</section>
+
+<section><h2>11. Decisiones fijadas y asuntos abiertos</h2>
+<h3>Dirección fijada para el diseño</h3>
+<ul>
+<li>El propósito de progresión es la Especialización: desarrollar capacidades propias y convertir la experiencia acumulada en recursos de combate más fiables.</li>
+<li>La narración debe enfocarse principalmente en lo que los personajes hacen bien y en cómo mejoran. Los errores no desaparecen, pero dejan de ser el eje repetitivo.</li>
+<li>El Piso 8 incluye criaturas de élite y mini jefes como amenazas importantes y encuentros memorables.</li>
+<li>El entorno de referencia es una antigua zona de guerra con una fortaleza en ruinas y sectores variados que permitan diferentes condiciones tácticas.</li>
+<li>Adrián debe destacar como estratega práctico y coordinador de campo, haciendo visible su experiencia como antiguo suboficial de infantería mediante preparación y ejecución de cacerías.</li>
+<li>Kevin, Darío, Adrián y Vera desarrollan sus capacidades desde sus fortalezas actuales, sin clases ni roles rígidos.</li>
+<li>La party llega al Piso 8 como grupo reconocido de cuatro integrantes; no se presupone un quinto.</li>
+</ul>
+<h3>Asuntos que siguen abiertos</h3>
+<ul>
+<li>Objetivo global exacto y condición de salida del Piso 8.</li>
+<li>Geografía definitiva de la fortaleza y distribución de sectores.</li>
+<li>Especies, anatomía, capacidades, conducta y límites concretos de las criaturas comunes y de élite.</li>
+<li>Diseño definitivo de los mini jefes, sus territorios y la forma de enfrentarlos.</li>
+<li>Confirmación de la estructura y cantidad final de escenarios, así como sus objetivos parciales y cierres.</li>
+<li>Elecciones de equipo, consumos, resultados de práctica, heridas, botín y cambios de capacidades, que solo se establecerán al narrar y aprobar cada escenario.</li>
+</ul>
+<p class="meta">La aprobación de esta dirección de diseño no canoniza los acontecimientos futuros. Cada escenario narrativo seguirá siendo provisional hasta que el usuario lo acepte expresamente.</p>
+</section>
 </main></body></html>
