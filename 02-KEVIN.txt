@@ -1,4 +1,4 @@
-**Última actualización aprobada — Piso 6.1 «Preparación»:** Kevin llegó al Piso principal 6 junto a Darío, su único compañero de party reconocida. La restauración corporal del piso reparó sus lesiones corporales. Su reserva del Sistema de Recuperación se renovó a tres usos y no ha activado ninguno durante el Piso 6. Conserva Fuerza 4, Velocidad 5, Resistencia 4, Coordinación 5, Percepción 5 y Reacción 4. Mantiene lanza, protección ligera, cinturón de equipo y cuchillo corto de respaldo; sustituyó la protección de antebrazo que le rozaba la muñeca por otra de cobertura similar y correas más ajustables. Recibió una botella sellada de agua y dos raciones compactas; durante la preparación comió una ración nueva y bebió agua. Practicó movimientos básicos con la lanza, revisó el equipo y descansó. Tras 12 horas, UMBRAL lo trasladó automáticamente al escenario 6A junto a Darío. No obtuvo habilidades, rangos, objetos ni mejoras de atributos.
+**Última actualización aprobada — Piso 6D «Preparar la operación»:** Kevin y Darío siguen como party reconocida de dos integrantes. El capítulo 6D está aprobado, pero todavía no publicado. En la reunión participaron dieciséis personas distribuidas en cinco equipos: Kevin y Darío (2), los dos participantes que ambos salvaron en 6B y que conservaron la placa (2), otros dos equipos de tres y cuatro integrantes (3 y 4), y el equipo experimentado que llegó primero a la zona central (5). Iria pertenece a uno de los equipos existentes y no abandona a sus compañeros. Los cuatro anclajes fueron activados después de probar primero una placa; el resultado confirmó que aseguran los pasajes secundarios por los que aparecían criaturas menores. No debilitan al guardián ni a sus cuatro protectores. El equipo experimentado, compuesto por cinco participantes, intentará mantener la atención del guardián durante el combate; su estratega aún no tiene nombre establecido. Iria aportó una propuesta complementaria de comunicación y apoyo entre equipos. Kevin se fijó en su capacidad para conectar información y revisar sus ideas, pero ella no se unió a Kevin y Darío. No se confirmaron lesiones nuevas, gasto de Recuperación, cambios de atributos, habilidades, equipo ni recompensas en 6D. El siguiente escenario es 6E — «El guardián del bloqueo».
 
 **Control obligatorio de Recuperación — Piso 5:** Kevin conserva los tres usos nuevos del piso, con eficacias relativas del 100 %, 50 % y 25 % por orden de activación; no ha gastado ninguno en 5A ni 5B. Darío también conserva sus tres usos y no ha gastado ninguno en 5A ni 5B. Este control se aplica a todos los participantes, no solo a Kevin. Antes de cada escenario, verificar el saldo contra 03-CONTINUIDAD-ACTUAL.txt; no gastar un uso sin activación explícita en la narración aprobada.
 
@@ -102,14 +102,23 @@
 ## Estado narrativo — Piso 5E
 Piso 5E «La cacería se devuelve» aprobado y publicado. El Piso 5 ha concluido; siguiente etapa pendiente: Piso 6.
 
-## Personaje incorporada en el Piso 6 — Iria (futura integrante de Kevin y Darío)
+## Personaje presentada en el Piso 6D — Iria
 
 - **Nombre:** Iria.
 - **Primera aparición:** Piso 6D — «Preparar la operación».
-- **Función narrativa:** futura estratega y posible integrante de la party de Kevin y Darío. Volverá a aparecer en el Piso 8.
+- **Equipo actual:** pertenece a uno de los cinco equipos reunidos en 6D. Tiene compañeros y permanece con ellos; no es una participante independiente ni está buscando incorporarse a otra party.
+- **Función narrativa:** futura estratega y posible integrante de la party de Kevin y Darío. Su eventual incorporación no está decidida y debe desarrollarse naturalmente, sin salto repentino ni fusión automática de equipos. Está previsto que vuelva a aparecer en el Piso 8.
 - **Rasgo principal:** capacidad analítica y organizativa. Escucha, ordena información obtenida por distintos grupos, distingue hechos comprobados de hipótesis y detecta relaciones o problemas que otros pasan por alto.
-- **Aporte en Piso 6D:** propone una estrategia complementaria a la estrategia general de la estratega del grupo más fuerte. Su propuesta se centra en que los demás equipos se apoyen entre sí, mantengan comunicación y tengan una respuesta coordinada si alguien queda en apuros o surge una emergencia. No sustituye el mando general ni pretende dirigir el combate contra el guardián.
-- **Relación con Kevin y Darío:** Kevin reconoce su capacidad para conectar información y considera que podría ser valiosa para ellos. Su incorporación no debe darse por consumada hasta que la historia la establezca expresamente.
+- **Aporte en Piso 6D:** relaciona la inscripción de los cuatro anclajes con los informes sobre criaturas menores que aparecían por pasajes laterales y propone probar primero una placa. Tras el resultado, aporta una estrategia complementaria a la del equipo experimentado: señales, comunicación y apoyo entre equipos si alguien queda aislado o una posición falla. No sustituye a la estratega del grupo experimentado ni dirige el combate contra el guardián.
+- **Relación con Kevin y Darío:** Kevin reconoce su manera de conectar información, detectar dificultades y revisar sus propuestas ante nuevas objeciones. Se acerca a conocerla, pero no acuerdan formar equipo ni se produce una incorporación en 6D.
 - **Límites:** no es infalible, no conoce de antemano las respuestas ni es una estratega experta en combate. Su valor está en analizar, preguntar, organizar y proponer soluciones prácticas. Su capacidad debe desarrollarse progresivamente.
-- **Continuidad:** conservar el nombre Iria y su función cuando reaparezca en el Piso 8. No confundirla con la estratega del grupo más fuerte, que es otro personaje.
+- **Continuidad:** conservar el nombre Iria y su función cuando reaparezca en el Piso 8. No confundirla con la estratega del equipo experimentado, que es otro personaje.
+
+## Equipo experimentado del Piso 6 — integrantes aún sin nombres establecidos
+
+- **Composición:** cinco participantes.
+- **Antecedente:** llegaron primero a la zona central y combatieron contra los cuatro protectores del guardián. Lograron herirlos y tuvieron oportunidades de avanzar, pero se retiraron prudentemente cuando el avance habría dejado demasiado expuesto al equipo. El guardián permaneció observando y no llegó a enfrentarlos directamente.
+- **Función en 6D:** su estratega propone que el equipo intente mantener la atención del guardián durante la operación, sin afirmar que puedan derrotarlo solos. Los demás equipos ayudarán a contener a los protectores y mantener las zonas de combate.
+- **Nombres:** todavía no se han establecido. Presentarlos en el Piso 6E o más adelante, evitando reutilizar nombres de personajes anteriores cuyo estado sea desconocido.
+- **Distinción importante:** la estratega de este equipo no es Iria. Iria pertenece a otro equipo y su propuesta de coordinación es complementaria.
 
