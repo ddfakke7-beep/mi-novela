@@ -30,8 +30,8 @@ Este documento será la única fuente normativa general del proyecto. No debe co
 
 - El mundo se organiza en pisos como estructura principal de progresión.
 - Se elimina la división obligatoria de cada piso en «escenarios».
-- Cada piso plantea un único desafío general integrado.
-- El desafío puede desarrollarse mediante distintas etapas, situaciones u objetivos parciales, pero todos deben guardar relación con el desafío general y contribuir a su desarrollo.
+- Cada piso plantea un único desafío general integrado. Ese desafío no tiene por qué ocupar todo el piso: puede concentrarse en un área amplia y concreta, organizada en distintas zonas o sectores.
+- El desafío puede desarrollarse mediante varias etapas, situaciones u objetivos parciales dentro de esa área. Todos deben guardar relación con el único objetivo general y contribuir a su desarrollo.
 - Las etapas no deben sentirse como encargos independientes ni como una sucesión arbitraria de instrucciones para ir de un punto a otro. El desarrollo debe tener coherencia y continuidad.
 - El desafío general debe tener una condición de superación comprensible y explícita.
 - Superar el desafío habilita el avance al siguiente piso, pero no equivale a alcanzar físicamente la salida.
@@ -66,8 +66,9 @@ Cada participante puede abrir su propia ventana de estado con solo pensarlo y co
 ### 1.4. Tiempo límite y consecuencias
 
 - El periodo general de preparación en el Piso Principal es de **24 horas para todos los participantes convocados**. Ese tiempo permite descansar, dormir, practicar, preparar equipo, conocerse e intercambiar información.
-- El tiempo límite del desafío, si lo tiene, se establece en el diseño de cada piso según su objetivo y dificultad. El Sistema debe conceder un plazo razonable y comunicarlo antes de comenzar.
-- El vencimiento del plazo de un desafío activa las consecuencias de fracaso establecidas en el diseño aprobado de ese piso. No implica muerte instantánea ni una penalización idéntica para todos los pisos.
+- El desafío puede tener un plazo propio, definido en el diseño del piso según su objetivo y dificultad. Debe ser razonable, suficiente para completar la prueba y comunicado antes de comenzar; no está pensado para obligar a los participantes a vivir en el área del desafío.
+- Si vence el plazo y los participantes siguen dentro del área, las criaturas pueden detectarlos y darles caza hasta eliminarlos. La salida permanece abierta: el peligro consiste en conseguir llegar a ella y escapar. No es una muerte instantánea activada por el reloj, sino una amenaza física que deben evitar abandonando el área.
+- El plazo debe plantearse de modo que esta situación extrema no sea lo habitual ni una dificultad artificial añadida. Las consecuencias de otros tipos de fracaso siguen definiéndose específicamente en el diseño aprobado de cada piso.
 
 ### 1.5. Cooperación y superación común
 
@@ -153,8 +154,9 @@ La escalada debe hacer el desafío mucho más difícil y puede provocar muertes 
 - Las etapas, cuando existan, forman parte del mismo desafío general y contribuyen a su desarrollo.
 - No todos los pisos necesitan la misma cantidad de etapas ni una estructura fija.
 - Todos disponen de 24 horas de preparación en el Piso Principal antes de comenzar el desafío.
-- El diseño de cada piso establece si el desafío tiene un tiempo límite y cuánto dura. El plazo debe ser razonable para el objetivo y comunicarse claramente.
-- Las consecuencias de no cumplir el objetivo dentro del plazo del desafío se diseñan específicamente para cada piso y deben aprobarse junto con él. No se aplicará una escalada genérica ni una muerte automática.
+- El diseño de cada piso establece si el desafío tiene un tiempo límite y cuánto dura. El plazo debe ser razonable, suficiente para cumplir el objetivo y comunicarse claramente; su función es evitar que los participantes permanezcan indefinidamente en el área.
+- Si el plazo vence mientras siguen dentro, las criaturas pueden detectarlos y perseguirlos para eliminarlos. La salida no se cierra por ese motivo: permanece abierta, pero llegar hasta ella se vuelve peligroso. El plazo no debe ajustarse para que este desenlace sea habitual.
+- Cualquier otra consecuencia por incumplir el objetivo debe diseñarse para ese piso y aprobarse con él; no se añade una penalización genérica.
 - Cuando se cumple la condición general, el desafío se considera superado para todos los participantes convocados.
 - Superar el desafío no equivale a alcanzar la salida. Cada participante debe encontrar y alcanzar físicamente la única salida del piso para realizar la transición.
 - Cada piso debe diseñarse con sus propias exigencias y peligros, sin repetir una plantilla rígida.
