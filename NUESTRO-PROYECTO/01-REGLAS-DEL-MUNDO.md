@@ -40,7 +40,7 @@ Este documento será la única fuente normativa general del proyecto. No debe co
 
 - En cada piso, el Sistema selecciona y convoca a determinados participantes para afrontar el mismo desafío general.
 - Los participantes convocados coinciden en el Piso Principal antes de comenzar.
-- Al iniciar el desafío, aparecen en puntos separados dentro de la zona donde este se desarrolla. La separación inicial no divide el desafío en pruebas distintas.
+- Si forman parte de una party reconocida y entran al desafío juntos, aparecen en el mismo punto de partida. Los participantes que no estén agrupados de ese modo aparecen en puntos distintos.
 - El Sistema informa cuántos participantes han sido convocados y cuál es la condición u objetivo general que deben cumplir.
 - Los participantes pueden encontrarse durante el desafío, cooperar o actuar por separado.
 - Coincidir y superar un desafío junto a otros no garantiza que esos mismos participantes sean convocados juntos en el piso siguiente. El Sistema vuelve a decidir las convocatorias en cada piso.
@@ -58,12 +58,14 @@ Antes de comenzar, el Sistema debe comunicar de forma clara, como mínimo:
 
 Los participantes deben comprender qué deben conseguir. No necesariamente conocerán de antemano la naturaleza, ubicación o comportamiento de todos los peligros que encontrarán durante el desafío.
 
+Cada participante puede abrir su propia ventana de estado con solo pensarlo y consultarla cuando quiera. Allí puede revisar su información personal y los apartados disponibles para él, como condición, capacidades, equipo, inventario y datos de sus sistemas. No puede consultar la ventana privada de otro participante: si intenta verla, la información ajena aparece borrosa e ilegible. Esta restricción se mantiene aunque estén juntos o sean miembros de la misma party.
+
 ### 1.4. Tiempo límite y consecuencias
 
-- Un desafío puede tener un tiempo límite común para todos los participantes convocados.
-- Cuando exista, el plazo debe ser razonable para las exigencias del desafío y no funcionar como un obstáculo artificial que obligue a llegar al último segundo.
-- El Sistema debe informar qué sucede si no se completa el desafío dentro del plazo.
-- El vencimiento del plazo no implica por sí mismo una muerte automática. Las consecuencias dependen de lo anunciado y de los peligros que se desencadenen.
+- El plazo general de cada desafío es de **24 horas para todos los participantes convocados**.
+- El plazo debe permitir afrontar el objetivo, descansar, dormir, practicar, preparar equipo y elaborar estrategias cuando las circunstancias lo permitan.
+- El Sistema comunica el plazo y las condiciones de superación al inicio.
+- El vencimiento sin cumplir el objetivo activa las consecuencias de fracaso establecidas en el diseño aprobado de ese piso. No implica muerte instantánea ni una penalización idéntica para todos los pisos.
 
 ### 1.5. Cooperación y superación común
 
@@ -82,7 +84,14 @@ Los participantes deben comprender qué deben conseguir. No necesariamente conoc
 
 ### 1.7. Fracaso y consecuencias pendientes
 
-No cumplir la condición general puede exponer a los participantes a consecuencias graves, incluida la muerte. Todavía falta definir qué sucede exactamente cuando el desafío no se supera: si pueden seguir intentándolo, si existe rescate, si quedan atrapados o qué otras consecuencias pueden producirse. No asumir una respuesta universal antes de diseñar esa regla.
+Las consecuencias del fracaso no son una penalización universal. **El diseño de cada piso debe definirlas antes de ser aprobado**, de acuerdo con su objetivo y sus condiciones. El Sistema concede un plazo razonable; si el objetivo no se cumple dentro de las 24 horas, las condiciones del desafío pueden agravarse de forma importante y coherente con lo que está en juego.
+
+Ejemplos posibles, no reglas automáticas:
+- Si el objetivo es transportar y proteger una carga, un daño excesivo o la pérdida de la carga puede hacer que las criaturas dejen de perseguirla y pasen a atacar directamente a los participantes con mayor agresividad.
+- Si el objetivo es conquistar una fortaleza, el fracaso puede activar refuerzos, contraataques, cierre de rutas u otras consecuencias propias de esa situación.
+- El diseño puede establecer que la salida se habilite, pero permanezca bloqueada durante un periodo concreto —por ejemplo, 30 minutos— mientras continúan las oleadas o amenazas. Los participantes tendrían que sobrevivir hasta que puedan atravesarla.
+
+La escalada debe hacer el desafío mucho más difícil y puede provocar muertes o la eliminación de grupos, pero no equivale a una ejecución instantánea ni garantiza que todos mueran. Las consecuencias concretas, sus condiciones de activación y su duración deben figurar en el diseño aprobado del piso. No añadir castigos que el diseño no haya establecido.
 
 ## 2. Participantes, entrada, salida y condiciones de supervivencia
 
@@ -103,7 +112,7 @@ No cumplir la condición general puede exponer a los participantes a consecuenci
 
 ### 2.3. Aparición y salida
 
-- Al comenzar el desafío, los participantes aparecen en puntos separados dentro de la zona donde este se desarrolla.
+- Al comenzar el desafío, los integrantes de una party reconocida que participe unida aparecen en el mismo punto de partida. Los participantes que no formen parte de una party que entre junta aparecen en puntos diferentes.
 - Todos comparten una única salida por piso.
 - Una vez superado el desafío general, cada participante debe encontrar esa salida y llegar físicamente hasta ella para realizar la transición.
 
@@ -141,10 +150,22 @@ No cumplir la condición general puede exponer a los participantes a consecuenci
 
 - Las etapas, cuando existan, forman parte del mismo desafío general y contribuyen a su desarrollo.
 - No todos los pisos necesitan la misma cantidad de etapas ni una estructura fija.
-- Los tiempos límite, descansos, zonas seguras, cambios de situación y condiciones particulares se decidirán según las necesidades de cada piso. No se establece que todos deban incluirlos.
+- El tiempo límite general es de 24 horas para todos los participantes convocados. El diseño puede establecer cómo se distribuye la presión durante ese plazo y qué situaciones requieren descanso, preparación o desplazamiento.
+- Las consecuencias de no cumplir el objetivo dentro de las 24 horas se diseñan específicamente para cada piso y deben aprobarse junto con él. No se aplicará una escalada genérica ni una muerte automática.
 - Cuando se cumple la condición general, el desafío se considera superado para todos los participantes convocados.
 - Superar el desafío no equivale a alcanzar la salida. Cada participante debe encontrar y alcanzar físicamente la única salida del piso para realizar la transición.
 - Cada piso debe diseñarse con sus propias exigencias y peligros, sin repetir una plantilla rígida.
+
+## 9. Equipo, recursos e inventario
+
+**Estado: ACUERDOS ESTABLECIDOS — dotación y suministros ordinarios.**
+
+- El Sistema de Combate permite elegir equipo para cada piso. Cada participante decide si conserva su arma y protecciones anteriores, los complementa o los sustituye por opciones del catálogo disponible.
+- Los objetos que el participante lleva no desaparecen arbitrariamente al cambiar de piso. Los cambios de equipo dependen de sus elecciones y de lo que realmente conserve o deje atrás.
+- El Sistema de Combate proporciona raciones de comida suficientes para afrontar el piso. No es necesario convertir la comida ordinaria en una recompensa ni diseñar un sistema de supervivencia basado en quedarse sin raciones.
+- Puede existir un inventario para guardar comida y objetos pequeños o útiles. El inventario no sirve para almacenar ni transportar armas; las armas y protecciones se llevan físicamente y cuentan como equipo.
+- La capacidad práctica de transportar equipo depende del peso, volumen, movilidad y posibilidades del personaje, no de un límite abstracto de espacios para armas.
+- Los objetos especiales, materiales y recursos propios de un piso se definen en el diseño de ese piso y se registran si afectan a la continuidad.
 
 ## 5. Estadísticas y medición de capacidades
 
@@ -212,6 +233,19 @@ El documento 07 establece el seguimiento general del aprendizaje; el documento 0
 - La voluntad y la tolerancia al dolor no anulan una lesión ni permiten superar una limitación física real.
 - El Sistema de Recuperación solo puede tratar a quien siga vivo cuando el tratamiento pueda completarse. No resucita ni revierte una muerte ya producida.
 - No se necesita un subsistema independiente y complejo de heridas o daño. Se aplican las consecuencias físicas normales de cada lesión y se registra únicamente lo que afecte a la continuidad.
+
+## 13. Parties, alianzas y cooperación
+
+**Estado: ACUERDOS ESTABLECIDOS.**
+
+- Los propios participantes pueden formar una party y elegir su nombre.
+- Una party puede tener como máximo **cinco integrantes**.
+- Cualquier integrante puede invitar a otra persona mientras haya espacio. La persona invitada debe aceptar expresamente para incorporarse.
+- Cualquier integrante puede abandonar la party cuando quiera. Al hacerlo, deja de formar parte del grupo reconocido.
+- La ventaja principal de una party es que sus integrantes pueden coincidir juntos en los Pisos Principales y entrar al desafío desde el mismo punto de partida.
+- Los participantes que no formen parte de una party que entre junta aparecen en puntos distintos del área del desafío.
+- La party no garantiza que el Sistema convoque a sus integrantes juntos en el siguiente piso. La selección de participantes sigue correspondiendo al Sistema.
+- Formar una party no concede por sí solo habilidades, estadísticas, protección ni ventajas automáticas durante el combate. La coordinación y los beneficios prácticos dependen de sus integrantes y decisiones.
 
 ## Condición de uso
 
