@@ -1,6 +1,6 @@
 # 08 — Sistema de Combate
 
-**Estado: PROPUESTA COMPLETA — pendiente de aprobación.**
+**Estado: APROBADO — sistema de combate.**
 
 ## 1. Función
 
