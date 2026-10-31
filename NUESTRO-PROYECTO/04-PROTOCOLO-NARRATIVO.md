@@ -46,14 +46,14 @@ Antes de narrar la llegada o avanzar dentro de un Piso Principal, identificar:
 
 - Qué ocurrió al terminar el piso anterior y quiénes llegan.
 - Qué restauraciones, entregas, elecciones, registros, reuniones o cambios de estado corresponden.
-- El plazo general de 24 horas y cualquier distribución de fases o condiciones particulares establecidas en el diseño.
+- El periodo de preparación de 24 horas en el Piso Principal y el tiempo límite propio del desafío, si el diseño del piso establece uno.
 - Qué fases existen, cuánto dura cada una y en qué orden ocurren.
 - Quién está sujeto a cada contador, cuándo empieza y cuándo termina.
 - Qué condiciones permiten cerrar cada fase.
 - Qué condición exacta habilita la transición al desafío general.
 - Qué excepciones específicas se aplican en este piso.
 
-El plazo general es de 24 horas. Consultar el diseño concreto para las fases, condiciones y consecuencias de fracaso propias del piso.
+El periodo de preparación en el Piso Principal es de 24 horas. Consultar el diseño concreto para el tiempo límite del desafío, si lo tiene, y para sus condiciones y consecuencias de fracaso.
 
 ### Bloqueo de avance
 
