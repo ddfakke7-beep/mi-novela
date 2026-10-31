@@ -249,3 +249,105 @@ Kevin comienza como una persona sedentaria y sin experiencia de combate. No tien
 5. Registrar cualquier cambio de nombres, experiencia o dominio antes de narrar para evitar contradicciones.
 
 **Límite de canon:** los nombres, perfiles, dominios iniciales y nombres de parties de esta sección son propuestas de planificación. No son todavía hechos ocurridos dentro de la historia.
+
+## 13. Motivaciones, contradicciones y evolución potencial
+
+Esta sección da a cada personaje un motor propio y una dificultad que puede generar decisiones interesantes. No son destinos obligatorios ni hechos ya ocurridos. La evolución debe surgir de las experiencias que realmente atraviesen.
+
+| Personaje | Qué busca al inicio | Contradicción o punto débil | Dirección potencial |
+|---|---|---|---|
+| **Kevin** | Entender cómo sobrevivir sin depender ciegamente de otros. | Puede confundir prudencia con postergar decisiones y subestimar cuánto le cuesta físicamente actuar. | Ganar criterio y autonomía sin convertirse de golpe en líder o experto. |
+| **Lucía** | Mantener con vida a quienes pueda ayudar y conservar algo de humanidad. | Puede asumir demasiada responsabilidad por personas a las que no puede salvar. | Aprender a priorizar, poner límites y aceptar que ayudar también exige protegerse. |
+| **Tomás** | Demostrar que puede proteger a los suyos y ser útil cuando importa. | Su impulso protector puede llevarlo a exponerse o actuar antes de entender el peligro. | Aprender a medir cuándo intervenir y cuándo confiar en el plan de otros. |
+| **Mateo** | Mantener independencia y evitar depender de desconocidos. | Su autosuficiencia puede hacerle rechazar cooperación útil y ocultar información. | Descubrir qué acuerdos merecen confianza sin perder su autonomía. |
+| **Damián** | Sobrevivir usando paciencia, preparación y selección cuidadosa de riesgos. | Puede tardar demasiado en actuar cuando la situación exige improvisar. | Aprender a decidir con información incompleta y aceptar que no todo puede controlarse. |
+| **Iván** | Mantener una posición de fuerza y no quedar por debajo de otros. | El orgullo puede convertir una discrepancia táctica en una disputa personal. | Aprender a reconocer límites y valorar la retirada como una decisión competente. |
+| **Sara** | Mantener el control del entorno y detectar riesgos antes que los demás. | La desconfianza puede hacer que interprete la incertidumbre como mala intención. | Distinguir señales reales de amenaza de simples diferencias de carácter. |
+| **Elisa** | Encontrar soluciones funcionales y evitar errores repetibles. | Puede señalar fallos con tanta franqueza que los demás se pongan a la defensiva. | Aprender a comunicar desacuerdos sin asumir que todos procesan los problemas como ella. |
+| **Gabriel** | Conseguir que las personas coordinen esfuerzos sin desperdiciar capacidades. | Puede cargar con la responsabilidad de que todo salga bien y tardar en reconocer sus propios límites. | Aprender a delegar de verdad y aceptar que coordinar no significa controlar. |
+| **Nuria** | Ser útil sin convertirse en el centro de atención. | Puede callar necesidades propias para no añadir problemas al grupo. | Ganar voz y criterio para intervenir incluso cuando su opinión incomode. |
+| **Esteban** | Conservar libertad de movimiento y entender el terreno antes de comprometerse. | Su curiosidad puede llevarlo a explorar cuando lo prudente sería retirarse. | Aprender a compartir información y decidir qué descubrimientos justifican el riesgo. |
+| **Vera** | Mantener a salvo a quienes dependen de ella y sostener posiciones difíciles. | Puede confundir resistencia con obligación de aguantarlo todo. | Aprender a reconocer cuándo ceder terreno protege mejor al grupo. |
+| **Marcos** | Probarse a sí mismo mediante acciones visibles y desafíos directos. | La valentía puede mezclarse con necesidad de demostrar algo, incluso cuando nadie se lo pide. | Convertir iniciativa en decisiones útiles, no en exposición innecesaria. |
+| **Alba** | Mantener un estándar alto y actuar con precisión. | Puede frustrarse cuando la realidad no permite aplicar una técnica limpia o un plan ordenado. | Adaptar su disciplina a situaciones caóticas sin despreciar capacidades distintas a la suya. |
+| **León** | Cumplir su parte y ser alguien en quien se pueda confiar. | Puede soportar demasiado en silencio y no comunicar lesiones, dudas o desacuerdos a tiempo. | Aprender que la constancia también incluye pedir apoyo y corregir el rumbo. |
+| **Inés** | Reducir riesgos y tomar decisiones que permitan volver con vida. | Su evaluación exigente puede parecer frialdad y hacer que otros ignoren sus advertencias. | Aprender a traducir el análisis en instrucciones claras y oportunas. |
+| **Rafael** | Comprender el entorno y anticipar movimientos mediante señales observables. | Puede confiar demasiado en patrones conocidos y pasar por alto comportamientos nuevos. | Mantener curiosidad y revisar hipótesis cuando la evidencia cambia. |
+| **Claudia** | Ejecutar con precisión y mantener control técnico. | El perfeccionismo puede volverla rígida ante rivales o circunstancias impredecibles. | Aprender a priorizar eficacia y adaptación por encima de la ejecución ideal. |
+| **Andrés** | Evitar conflictos innecesarios y conseguir acuerdos que permitan avanzar. | Puede intentar negociar incluso cuando la otra parte solo busca ganar tiempo o aprovecharse. | Reconocer cuándo el diálogo sirve y cuándo debe establecer límites firmes. |
+
+## 14. Personajes secundarios recurrentes propuestos
+
+Estos perfiles amplían las parties previstas y permiten que sus integrantes no parezcan añadidos intercambiables. Sus nombres y rasgos son propuestas de planificación. No se consideran presentes ni vinculados formalmente a una party hasta que la historia los introduzca y se cumplan las reglas de invitación y aceptación.
+
+| Personaje | Primera aparición prevista | Vinculación posible | Perfil y función |
+|---|---:|---|---|
+| **Pilar** | Piso 2 | Posible cuarta integrante de Rastro Gris | Directa, pragmática y competitiva. Tiene experiencia en logística de almacén y manejo de cargas; destaca organizando equipo y calculando qué recursos conviene llevar. No es una combatiente superior a Damián o Iván. |
+| **Bruno** | Piso 3 | Posible integrante de la party coordinada | Paciente, observador y de pocas palabras. Tiene experiencia laboral en mantenimiento; reconoce fallos físicos, puntos débiles de estructuras y herramientas sencillas. No es ingeniero ni experto en trampas. |
+| **Maia** | Piso 3 | Posible integrante de la party coordinada | Comunicativa, perspicaz y sociable sin ser ingenua. Ha trabajado atendiendo público y resolviendo problemas entre personas; sabe transmitir información y detectar tensiones, pero no tiene formación de combate. |
+| **Joel** | Piso 5 | Posible integrante del grupo defensivo | Corpulento, tranquilo y poco dado a discutir. Ha trabajado en mudanzas y carga física; sabe sostener peso y organizar esfuerzos. Su fuerza no equivale a técnica de combate. |
+| **Renata** | Piso 5 | Posible integrante del grupo defensivo | Seria, paciente y muy constante. Practicó atletismo de resistencia; sabe dosificar esfuerzo y mantener actividad prolongada. No destaca por fuerza explosiva ni combate técnico. |
+| **Nadia** | Piso 6 | Posible integrante del equipo de élite | Reservada, disciplinada y observadora. Tiene experiencia en escalada deportiva; aporta movilidad vertical, control corporal y lectura de apoyos. La escalada no la convierte automáticamente en combatiente experta. |
+| **Simón** | Piso 6 | Posible integrante del equipo de élite | Analítico, sobrio y poco impresionable. Practicó tiro deportivo con arco en un club durante años; su dominio inicial de arco puede situarse en 3, con adaptación al combate real todavía por demostrar. |
+
+**Criterio para estos secundarios:** cada uno debe tener objetivos y decisiones propias. Su función dentro de una party no los reduce a “el fuerte”, “la médica” o “el que obedece”. Si alguno no encaja al desarrollar el piso correspondiente, puede permanecer independiente, entrar en otra alianza o no convertirse en recurrente.
+
+## 15. Relaciones y tensiones previstas
+
+Las relaciones siguientes son puntos de partida narrativos, no amistades, enemistades ni acuerdos ya establecidos. La historia deberá mostrar cómo se conocen y por qué cambia la confianza.
+
+### Vínculos con potencial de desarrollo
+
+- **Kevin – Lucía:** pueden construir confianza desde la honestidad y el apoyo práctico. Lucía no debe convertirse en cuidadora permanente de Kevin ni él en alguien que dependa de ella para cada decisión.
+- **Kevin – Tomás:** contraste entre prudencia e impulso. Pueden complementarse, pero también discutir cuando Tomás considere que Kevin duda demasiado o Kevin vea que Tomás se expone sin necesidad.
+- **Lucía – Tomás:** ella puede cuestionar sus decisiones impulsivas; él puede valorar que ella mantenga la calma cuando otros se bloquean. No tienen por qué estar siempre de acuerdo.
+- **Kevin – Mateo:** posible respeto gradual entre dos personas reservadas de maneras distintas. Mateo no debe convertirse automáticamente en mentor ni Kevin ganarse su confianza por ser protagonista.
+- **Damián – Iván:** tensión entre paciencia y agresividad. Ambos pueden reconocer la utilidad del otro sin compartir su forma de evaluar riesgos.
+- **Sara – Damián:** afinidad por la observación y la preparación, aunque Sara presta más atención a las personas y Damián a la presa o al entorno.
+- **Sara – Iván:** ella puede cuestionar su falta de control; él puede considerar que Sara desconfía demasiado. Su cooperación depende de objetivos compartidos, no de una amistad instantánea.
+- **Gabriel – Nuria:** confianza de trabajo basada en comunicación y apoyo. Gabriel puede darle espacio para hablar; Nuria puede advertirle cuando intenta cargar con todo.
+- **Vera – Marcos:** contraste entre sostener y avanzar. Su desacuerdo puede ser útil si ambos aprenden a distinguir el momento de resistir del momento de tomar iniciativa.
+- **Alba – León:** respeto por la disciplina y el entrenamiento, pero con estilos distintos. Alba tiende a la precisión técnica; León a la constancia física y al control corporal.
+- **Alba – Inés:** pueden discutir sobre el riesgo aceptable: Alba desde la ejecución y la confianza técnica; Inés desde las consecuencias y la probabilidad de fallo.
+- **León – Inés:** ambos valoran la preparación, aunque León puede callar problemas y obligar a Inés a insistir en que informe de su estado.
+- **Esteban – Rafael:** sus capacidades se complementan, pero no son iguales: Esteban lee rutas y orientación; Rafael interpreta rastros y señales de actividad. Pueden intercambiar conocimientos sin volverse inseparables.
+- **Alba – Claudia:** posible respeto técnico a distancia o tras un encuentro; no implica que sean amigas ni que tengan el mismo estilo de combate.
+- **Andrés – Elisa:** ambos detectan problemas, pero Elisa tiende a abordarlos desde la organización y Andrés desde las personas. Pueden complementarse o irritarse por sus métodos.
+
+### Relaciones que deben evitarse como atajos
+
+- Kevin no será amigo íntimo de todo personaje recurrente.
+- Los grupos no se conocerán todos entre sí por el simple hecho de ser importantes.
+- Una rivalidad no implica odio, y una cooperación no implica confianza.
+- Una party no tendrá unanimidad permanente: las diferencias deben afectar decisiones de manera verosímil.
+- Las relaciones fuera de la perspectiva de Kevin pueden desarrollarse, pero sus cambios deben establecerse en la narración o en la continuidad aprobada.
+
+## 16. Mapa flexible de presencia y reapariciones
+
+El mapa orienta la planificación, no garantiza convocatorias. Si el Sistema convoca a una party, debe convocarla completa; no se seleccionan miembros aislados mientras la party siga constituida. Los personajes independientes pueden coincidir o no según la convocatoria.
+
+| Piso | Núcleo y perfiles con posible presencia | Incorporaciones o foco secundario |
+|---|---|---|
+| 1 | Kevin, Lucía, Tomás, Mateo y participantes pasajeros | Presentación inicial; el núcleo de Kevin todavía no formaliza una party. |
+| 2 | Kevin, Lucía y Tomás si el Sistema convoca su party; Damián, Iván, Sara y Pilar si convoca Rastro Gris | Primera rivalidad y primeras decisiones de pertenencia. Mateo puede reaparecer individualmente si su situación lo permite. |
+| 3 | Parties que sigan activas y sean convocadas | Gabriel, Nuria, Bruno y Maia; coordinación y primeras reputaciones entre grupos. |
+| 4 | Posible regreso de participantes anteriores, sin exigirlo | Esteban y participantes independientes; exploración y alianzas temporales. |
+| 5 | Parties anteriores que sean convocadas completas | Vera, Marcos, Joel y Renata; defensa y tensiones sobre cuándo avanzar o resistir. |
+| 6 | Parties previas convocadas y participantes individuales | Alba, León, Inés, Nadia y Simón; presentación del equipo de élite. |
+| 7 | Reapariciones selectivas de personajes y parties anteriores | Rafael; rastreo y lectura de señales. |
+| 8 | Combinación de recurrentes convocados y participantes nuevos | Claudia; especialización y diferencias entre técnica y adaptación. |
+| 9 | Reencuentros posibles entre trayectorias anteriores | Andrés; negociación, cooperación entre grupos y reputaciones desiguales. |
+| 10 | Selección amplia de personajes con trayectoria, parties convocadas completas e independientes | Convergencia de capacidades; no se garantiza que todas las parties previstas sigan existiendo ni que todos los recurrentes sobrevivan. |
+
+**Regla de continuidad:** una aparición prevista no se registra como presencia confirmada. Antes de narrar cada piso se comprobarán la convocatoria, el estado de cada personaje y la composición vigente de su party. Si una party se disolvió o un miembro la abandonó, el mapa se actualizará para reflejarlo.
+
+## 17. Recuento y alcance del elenco
+
+La propuesta actual contiene **26 personajes nombrados**: Kevin y otros 18 perfiles individuales ya descritos en la sección 8, más los 7 secundarios recurrentes de la sección 14. La cifra no significa que los 26 deban ser protagonistas, aparecer juntos ni sobrevivir hasta el Piso 10.
+
+- **19 personajes base:** Kevin, Lucía, Tomás, Mateo, Damián, Iván, Sara, Elisa, Gabriel, Nuria, Esteban, Vera, Marcos, Alba, León, Inés, Rafael, Claudia y Andrés.
+- **7 secundarios propuestos:** Pilar, Bruno, Maia, Joel, Renata, Nadia y Simón.
+- Los nombres de parties y las relaciones siguen siendo propuestas. Los perfiles secundarios pueden cambiar de vinculación o no formalizar una party.
+- Los convocados totales de cada piso incluirán muchos participantes que no necesitan nombre ni seguimiento persistente. No se debe convertir a todos los convocados en personajes recurrentes.
+
+**Estado de esta ampliación:** propuesta de planificación. No crea parties, amistades, enemistades, convocatorias ni acontecimientos dentro de la historia.
