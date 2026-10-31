@@ -40,6 +40,9 @@ Este documento será la única fuente normativa general del proyecto. No debe co
 
 - En cada piso, el Sistema selecciona y convoca a determinados participantes para afrontar el mismo desafío general.
 - Los participantes convocados coinciden en el Piso Principal antes de comenzar.
+- El Piso Principal es la zona segura de preparación: los participantes pueden descansar, dormir, practicar, elaborar estrategias, conocerse, intercambiar información y organizarse. No pueden abandonar el Piso Principal por su cuenta.
+- Todos disponen de un periodo común de preparación de 24 horas en el Piso Principal. Al terminar ese periodo comienza el desafío, salvo que el diseño aprobado establezca una secuencia específica compatible con esta regla.
+- El estilo, arquitectura e instalaciones del Piso Principal pueden cambiar entre pisos; no es necesario que sus servicios o distribución sean siempre iguales.
 - Si forman parte de una party reconocida y entran al desafío juntos, aparecen en el mismo punto de partida. Los participantes que no estén agrupados de ese modo aparecen en puntos distintos.
 - El Sistema informa cuántos participantes han sido convocados y cuál es la condición u objetivo general que deben cumplir.
 - Los participantes pueden encontrarse durante el desafío, cooperar o actuar por separado.
@@ -62,10 +65,9 @@ Cada participante puede abrir su propia ventana de estado con solo pensarlo y co
 
 ### 1.4. Tiempo límite y consecuencias
 
-- El plazo general de cada desafío es de **24 horas para todos los participantes convocados**.
-- El plazo debe permitir afrontar el objetivo, descansar, dormir, practicar, preparar equipo y elaborar estrategias cuando las circunstancias lo permitan.
-- El Sistema comunica el plazo y las condiciones de superación al inicio.
-- El vencimiento sin cumplir el objetivo activa las consecuencias de fracaso establecidas en el diseño aprobado de ese piso. No implica muerte instantánea ni una penalización idéntica para todos los pisos.
+- El periodo general de preparación en el Piso Principal es de **24 horas para todos los participantes convocados**. Ese tiempo permite descansar, dormir, practicar, preparar equipo, conocerse e intercambiar información.
+- El tiempo límite del desafío, si lo tiene, se establece en el diseño de cada piso según su objetivo y dificultad. El Sistema debe conceder un plazo razonable y comunicarlo antes de comenzar.
+- El vencimiento del plazo de un desafío activa las consecuencias de fracaso establecidas en el diseño aprobado de ese piso. No implica muerte instantánea ni una penalización idéntica para todos los pisos.
 
 ### 1.5. Cooperación y superación común
 
@@ -150,8 +152,9 @@ La escalada debe hacer el desafío mucho más difícil y puede provocar muertes 
 
 - Las etapas, cuando existan, forman parte del mismo desafío general y contribuyen a su desarrollo.
 - No todos los pisos necesitan la misma cantidad de etapas ni una estructura fija.
-- El tiempo límite general es de 24 horas para todos los participantes convocados. El diseño puede establecer cómo se distribuye la presión durante ese plazo y qué situaciones requieren descanso, preparación o desplazamiento.
-- Las consecuencias de no cumplir el objetivo dentro de las 24 horas se diseñan específicamente para cada piso y deben aprobarse junto con él. No se aplicará una escalada genérica ni una muerte automática.
+- Todos disponen de 24 horas de preparación en el Piso Principal antes de comenzar el desafío.
+- El diseño de cada piso establece si el desafío tiene un tiempo límite y cuánto dura. El plazo debe ser razonable para el objetivo y comunicarse claramente.
+- Las consecuencias de no cumplir el objetivo dentro del plazo del desafío se diseñan específicamente para cada piso y deben aprobarse junto con él. No se aplicará una escalada genérica ni una muerte automática.
 - Cuando se cumple la condición general, el desafío se considera superado para todos los participantes convocados.
 - Superar el desafío no equivale a alcanzar la salida. Cada participante debe encontrar y alcanzar físicamente la única salida del piso para realizar la transición.
 - Cada piso debe diseñarse con sus propias exigencias y peligros, sin repetir una plantilla rígida.
