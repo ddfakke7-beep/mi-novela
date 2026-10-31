@@ -1,6 +1,6 @@
 # 06 — Arco global de los Pisos 1–10
 
-**Estado: propuesta general en desarrollo.** Este documento recoge la identidad y función narrativa de cada piso. No sustituye los diseños individuales: escenarios detallados, secuencias, enemigos concretos, composición de grupos y personajes recurrentes se definirán en el `diseño.html` correspondiente.
+**Estado: propuesta general en desarrollo.** Este documento recoge la identidad y función de cada piso. No sustituye los diseños individuales: escenarios detallados, secuencias, enemigos concretos, composición de grupos y personajes recurrentes se definirán en el `diseño.html` correspondiente.
 
 ## Objetivo del arco
 
@@ -13,8 +13,8 @@ La dirección del Piso 10 es una operación colectiva para tomar una fortaleza. 
 | Piso | Concepto | Función dentro del arco |
 |---|---|---|
 | 1 | **Supervivencia — cacería inversa** | **Base general aceptada.** Desafío: sobrevivir en una región natural peligrosa, alcanzar la salida y darle la vuelta a una cacería: una criatura especialmente peligrosa los persigue y deben descubrir cómo localizarla, prepararse y matarla. Hay otras criaturas en la región, pero no es necesario exterminarlas todas. Kevin aprende que sobrevivir no depende solo de la fuerza: debe reconocer sus límites, observar, aprovechar información y terreno, y preparar sus enfrentamientos en vez de lanzarse sin pensar. Establece sus capacidades y limitaciones iniciales. |
-| 2 | **Adaptación** | Propuesta por definir. Debe enfrentar a los participantes con varias amenazas diferentes y exigir que cambien de enfoque; no basta con repetir la cacería inversa del Piso 1. |
-| 3 | **Formación** | Poner a prueba las ventajas y dificultades de avanzar acompañado. Introducir de forma significativa la formación de grupos reconocidos y mostrar la diferencia entre cooperar ocasionalmente y depender de una coordinación estable. |
+| 2 | **Adaptación — cacería por cuotas** | **Propuesta general aceptada.** El escenario es una región dividida en zonas habitadas por distintos tipos de criaturas. El sistema asigna a cada grupo una cuota de caza que ese mismo grupo debe cumplir; no pueden dejar que otro grupo complete el trabajo por ellos. Para conseguirlo deben desplazarse, localizar presas y decidir qué enfrentamientos afrontar. Kevin aprende a adaptar su forma de cazar y combatir según la criatura, además de elegir cuándo conviene enfrentarse a una presa y cuándo evitar riesgos innecesarios. |
+| 3 | **Formación — cacería de élites por zonas** | **Propuesta general en desarrollo.** El sistema asigna a cada grupo una o varias zonas donde habitan criaturas de élite. Para completar el desafío, el grupo debe limpiar la zona asignada: derrotar tanto a la élite como a las demás criaturas que la acompañan o habitan allí. La élite constituye el peligro principal, pero no es el único enemigo ni puede ignorarse al resto de criaturas. La dificultad exige coordinación, reparto de funciones y apoyo mutuo para afrontar varios enemigos y una amenaza superior. Kevin aprende a combatir como parte de un equipo, reconocer las capacidades de sus compañeros y coordinarse en enfrentamientos exigentes. |
 | 4 | **Cacería** | Desarrollar la iniciativa: localizar, seguir, preparar y enfrentar amenazas en un entorno amplio. A diferencia del primer piso, aquí la cacería parte de una búsqueda y preparación más deliberadas, no de una persecución que deben revertir. |
 | 5 | **Resistencia — expedición del grupo** | Propuesta: el grupo de los protagonistas atraviesa una región extensa y supera varios encuentros durante una operación prolongada. El foco está en administrar esfuerzo, equipo, recursos, descansos y heridas acumuladas. No tiene que ser una prueba conjunta de todos los participantes. |
 | 6 | **El bloqueo** | Desafío colectivo con varios equipos y funciones complementarias. Ningún grupo pequeño puede resolver por sí solo toda la situación; la cooperación entre equipos se vuelve necesaria. |
@@ -36,7 +36,8 @@ La dirección del Piso 10 es una operación colectiva para tomar una fortaleza. 
 ## Estado del trabajo
 
 - **Piso 1:** base general aceptada; falta desarrollar su diseño individual.
-- **Piso 2:** definir desafío y aprendizaje central.
-- **Pisos 3–5:** propuestas generales pendientes de revisión piso por piso.
+- **Piso 2:** propuesta general aceptada; falta desarrollar su diseño individual.
+- **Piso 3:** propuesta general aceptada como base; falta desarrollar su diseño individual.
+- **Pisos 4–5:** propuestas generales pendientes de revisión piso por piso.
 - **Piso 8:** concepto general aceptado; falta desarrollar el diseño completo.
 - **Pisos 6–7 y 9–10:** conceptos generales de referencia; desarrollar sus diseños particulares cuando corresponda.
