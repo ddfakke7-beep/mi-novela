@@ -1,107 +1,90 @@
 # 09 — Sistema de Recuperación
 
-**Estado: PROPUESTA COMPLETA — pendiente de aprobación.**
+**Estado: PROPUESTA REVISADA — pendiente de aprobación formal.**
 
 ## 1. Función
 
-El Sistema de Recuperación permite que cada participante trate lesiones físicas durante un desafío mediante un periodo breve de reposo. Su función es ofrecer una oportunidad limitada de recuperación, no volver innecesarias la prevención, la resistencia física, el descanso normal ni las decisiones tácticas.
+El Sistema de Recuperación acelera la recuperación natural de lesiones durante el desafío cuando el participante puede detenerse y descansar. La curación no funciona como una reparación instantánea ni borra automáticamente las consecuencias de una herida mientras la persona sigue combatiendo.
 
-La recuperación durante el desafío y la restauración corporal al entrar en un Piso Principal son procesos distintos. El primero trata lesiones dentro de su capacidad; la segunda restaura la integridad corporal del participante vivo, incluso si perdió partes del cuerpo durante un desafío.
-
-El sistema no concede capacidades físicas, no mejora el dominio de combate y no sustituye la atención que una situación pueda requerir fuera de su alcance.
+La restauración corporal al entrar en un nuevo Piso Principal es un proceso distinto y mucho más completo.
 
 ## 2. Disponibilidad y activación
 
-- Está disponible desde el Piso 1.
-- Cada participante dispone de una activación por piso principal.
-- La activación se renueva al entrar en cada nuevo piso principal.
-- Las activaciones no se acumulan entre pisos.
-- No existen varios usos por piso ni eficacia decreciente.
-- La recuperación no puede activarse durante un combate ni mientras el participante realiza actividades físicas o se desplaza.
+- Disponible desde el Piso 1.
+- Cada participante dispone de una activación por Piso Principal.
+- Se renueva al entrar en el siguiente Piso Principal; no se acumula.
+- La activación puede utilizarse cuando el participante encuentra un lugar donde pueda reposar sin interrupciones.
+- No exige pertenecer a una party ni depende de que otros integrantes la utilicen.
 
-La activación pertenece al participante. No depende de que forme parte de un grupo ni de que otros participantes también la utilicen.
+## 3. Recuperación natural durante el desafío
 
-## 3. Condiciones de uso y duración
+El cuerpo no deja de recuperarse mientras el participante se mueve o combate, pero esa recuperación es limitada y menos eficiente que el reposo asistido por el Sistema.
 
-Para activar el sistema, el participante debe encontrar un lugar donde pueda permanecer quieto y descansar durante el tratamiento. El Sistema no evalúa, identifica ni garantiza que un área sea segura: esa valoración corresponde a los propios participantes, según lo que sepan del entorno y las amenazas presentes. Pueden reunirse, organizar turnos de vigilancia, hacer guardia mientras otros descansan o adoptar cualquier otra medida que tenga sentido en las circunstancias. La decisión y sus riesgos son de ellos.
+- Durante el combate o la actividad, las lesiones pueden empezar a cerrarse y estabilizarse lentamente, pero el daño funcional y sus consecuencias persisten.
+- Una herida que comienza a cerrarse no significa que la sangre perdida se haya recuperado, que el participante haya recuperado fuerzas ni que pueda volver a combatir con normalidad.
+- La pérdida de sangre, el dolor, la debilidad, el daño muscular, la dificultad respiratoria y otras consecuencias se mantienen de acuerdo con la lesión.
+- Una lesión puede dejar al participante fuera de combate durante un tiempo aunque el sangrado visible disminuya o la herida comience a cerrarse.
+- La recuperación natural no vuelve inocuas las heridas graves. Un daño que comprometa funciones vitales, cause una hemorragia crítica o destruya estructuras esenciales todavía puede provocar la muerte.
+- La capacidad de seguir actuando depende de la lesión concreta y de las funciones que conserve el participante; no hay una regla universal de incapacitación.
 
-La duración orientativa es de **10 a 20 minutos**, según la gravedad, extensión y complejidad de las lesiones que se estén tratando:
+Por ejemplo, una herida profunda en el cuello podría comenzar a cerrarse por la recuperación natural, pero la sangre ya perdida y el daño sufrido pueden dejar al participante extremadamente débil, incapaz de continuar luchando y en peligro. Que la herida se cierre no equivale a estar recuperado.
 
-- Lesiones leves: alrededor de 10 minutos.
-- Lesiones moderadas: un tiempo intermedio.
-- Lesiones graves: hasta alrededor de 20 minutos.
+## 4. Activación durante el reposo
 
-No se establece una duración idéntica para todos los casos. El sistema determina el tiempo necesario según las lesiones presentes; el intervalo no debe convertirse en una espera artificial ni en una regla que obligue a consumir siempre veinte minutos.
+La activación permite que la recuperación sea considerablemente más eficiente que mientras el participante está en movimiento o combate.
 
-Durante el tratamiento, el participante debe permanecer en reposo y no puede combatir, desplazarse ni realizar esfuerzos. Por eso debe elegir cuándo y dónde utilizarlo: activarlo en un lugar expuesto o durante una situación inestable puede dejarlo vulnerable.
+- El participante debe permanecer quieto y descansar durante el tratamiento.
+- No puede combatir, desplazarse ni realizar esfuerzos durante ese periodo.
+- La duración orientativa es de **10 a 20 minutos**, según la gravedad y complejidad de las lesiones.
+- Lesiones leves suelen requerir alrededor de 10 minutos; lesiones moderadas, un tiempo intermedio; lesiones graves, hasta alrededor de 20 minutos.
+- El tiempo no es una espera artificial fija: depende de las lesiones que se estén tratando.
+- El lugar no queda declarado seguro por el Sistema. El participante debe valorar el riesgo y puede organizar vigilancia con otros.
 
-## 4. Efecto de la recuperación durante los desafíos
+El tratamiento acelera la curación y puede reparar lesiones físicas tratables, incluso graves, de manera mucho más eficaz que la recuperación natural durante la actividad. No restaura miembros o partes del cuerpo completamente perdidos durante el desafío.
 
-Cuando el tratamiento termina correctamente, el Sistema de Recuperación cura por completo las lesiones físicas, incluso si son extremadamente graves, incluidas heridas profundas, daños musculares, esguinces, fracturas y lesiones internas. No hay una categoría de lesión física demasiado grave para el tratamiento. La excepción es la regeneración de partes del cuerpo completamente perdidas, que no ocurre durante un desafío.
+La activación no concede una condición física superior a la que el participante tenía antes de lesionarse ni repone automáticamente sangre perdida, alimento, agua o sueño. Las consecuencias de una hemorragia o de una pérdida importante de sangre deben resolverse de manera coherente y no desaparecer solo porque la herida haya cerrado.
 
-La recuperación no se limita a reducir el dolor: repara el daño físico correspondiente. Tampoco concede una mejora por encima de la condición que el participante tenía antes de lesionarse.
+## 5. Interrupción del tratamiento
 
-Durante un desafío, el sistema **no regenera partes del cuerpo amputadas o completamente perdidas**. Puede tratar y cerrar las heridas asociadas dentro de su capacidad, estabilizar al participante y curar otras lesiones tratables, pero la parte corporal perdida no reaparece mediante esta activación. El participante deberá continuar el desafío con esa pérdida y sus consecuencias funcionales hasta que se produzca la restauración propia de un Piso Principal.
+El tratamiento requiere reposo continuo. Si el participante debe levantarse, desplazarse, combatir o realizar un esfuerzo antes de completarlo, se interrumpe y no produce la recuperación asistida prevista.
 
-El sistema no puede:
-- Resucitar a una persona muerta ni revertir la muerte.
-- Curar enfermedades o eliminar venenos y toxinas.
-- Sustituir comida, agua o sueño.
-- Eliminar automáticamente el cansancio, la fatiga acumulada o el agotamiento por esfuerzo.
-- Regenerar durante un desafío partes del cuerpo perdidas.
+Una activación interrumpida no se considera completada ni consumida; puede intentarse de nuevo cuando existan condiciones adecuadas. No se concede curación asistida parcial por haber iniciado el proceso.
 
-## 5. Restauración corporal al entrar en un Piso Principal
+## 6. Restauración corporal al entrar en un Piso Principal
 
-Al completar la transición y entrar en un nuevo Piso Principal, todo participante que siga vivo recibe una restauración corporal completa.
+Al entrar en un nuevo Piso Principal, todo participante que siga vivo recibe automáticamente una restauración corporal completa.
 
 Esta restauración:
-- Regenera miembros amputados y partes del cuerpo perdidas durante desafíos anteriores.
-- Repara daños físicos permanentes sufridos durante esos desafíos.
-- Elimina las lesiones y secuelas corporales, incluso las más graves, y restaura la integridad física previa del participante.
-- Devuelve al participante su integridad corporal, sin concederle capacidades físicas superiores a las que tenía antes de sufrir esos daños.
+- Repara las heridas y lesiones sufridas durante el piso anterior.
+- Restaura la condición física corporal y recupera las partes del cuerpo amputadas o perdidas.
+- Elimina las secuelas físicas de las lesiones anteriores.
+- No concede capacidades físicas superiores a las que el participante tenía antes de sufrir esas lesiones.
+- No revive a los muertos ni revierte la muerte.
 
-La restauración ocurre por el hecho de entrar en el nuevo Piso Principal; no consume la activación de recuperación que corresponde a ese piso. Esa activación queda disponible para tratar lesiones que el participante pueda sufrir durante el nuevo desafío.
+La restauración ocurre al entrar en el Piso Principal y no consume la activación de recuperación disponible para el nuevo desafío.
 
-La restauración solo afecta a participantes vivos. No revive muertos ni revierte la muerte. Tampoco elimina hambre, sed, falta de sueño, fatiga acumulada, enfermedades, venenos o toxinas: esas condiciones no son daños corporales que esta restauración resuelva.
-
-## 6. Interrupción del tratamiento
-
-El tratamiento requiere un periodo continuo de reposo. Si el participante debe levantarse, desplazarse, combatir o realizar un esfuerzo antes de que termine, la recuperación se interrumpe y no produce la curación prevista.
-
-Una activación interrumpida no se considera completada ni queda consumida; el participante puede intentarlo de nuevo cuando vuelva a disponer de condiciones adecuadas. No obtiene curación parcial por haber iniciado el proceso.
-
-Esta regla no permite utilizar el sistema durante una amenaza activa: el participante sigue necesitando un lugar y un intervalo en los que pueda permanecer quieto y sin interrupciones.
+La restauración corporal no debe confundirse con recibir equipo, raciones o recursos: esos elementos pertenecen a la preparación y dotación del nuevo piso.
 
 ## 7. Lesiones y capacidad de actuar
 
-Una lesión no incapacita automáticamente a un personaje. Sus efectos dependen de la zona afectada, el tipo y la gravedad del daño, la estabilidad de la estructura lesionada, el dolor y las funciones físicas que se hayan comprometido.
+Una lesión no incapacita automáticamente a un personaje. Sus efectos dependen de la zona afectada, el tipo y la gravedad del daño, la pérdida de sangre, la estabilidad de las estructuras lesionadas y las funciones físicas comprometidas.
 
-El personaje puede continuar moviéndose o combatiendo mientras conserve capacidad física suficiente para hacerlo. El dolor puede soportarse y no funciona como un interruptor que anule toda acción. Sin embargo, soportarlo no elimina el daño ni restaura la función física perdida.
+El personaje puede continuar moviéndose o combatiendo mientras conserve capacidad física suficiente. Soportar el dolor no elimina el daño ni restaura la función perdida.
 
-Forzar una lesión puede:
-- Aumentar el daño o convertir una lesión moderada en una grave.
-- Reducir fuerza, estabilidad, precisión, movilidad o resistencia.
-- Dificultar acciones concretas y aumentar el riesgo de fallar.
-- Provocar consecuencias posteriores incluso si el personaje consigue completar la acción inmediata.
+Forzar una lesión puede aumentar el daño, reducir fuerza, estabilidad, precisión, movilidad o resistencia, dificultar acciones concretas o producir consecuencias posteriores. No se aplican penalizaciones universales e idénticas a todas las heridas.
 
-La voluntad y la tolerancia al dolor pueden ayudar a continuar, pero no permiten superar una limitación biomecánica real. Una lesión grave puede impedir determinadas acciones aunque el personaje quiera realizarlas.
+Una lesión mortal no queda anulada por la voluntad del personaje ni por la mera existencia del Sistema de Recuperación. Si el daño provoca la muerte antes de que pueda recuperarse, el Sistema no puede salvarlo ni resucitarlo.
 
-No se aplican penalizaciones universales e idénticas a todas las lesiones. Se evalúa qué parte del cuerpo está afectada y qué exige la acción intentada.
+## 8. Descanso ordinario
 
-## 8. Relación con el descanso normal
+El descanso, el sueño, la alimentación y la hidratación contribuyen a recuperar el cansancio y mantener el funcionamiento del cuerpo. No equivalen al tratamiento acelerado del Sistema de Recuperación.
 
-El descanso ordinario no consume la activación del Sistema de Recuperación.
-
-El reposo, el sueño, la alimentación y la hidratación permiten recuperar el cansancio y mantener el funcionamiento del cuerpo según el tiempo y las condiciones disponibles. No equivalen al tratamiento acelerado de lesiones que ofrece el sistema.
-
-Una persona puede descansar sin activar el sistema, reservar su activación para más adelante o decidir continuar a pesar de sus lesiones. El sistema no obliga a detener el avance del desafío ni garantiza que siempre exista un lugar seguro para utilizarlo.
+La disponibilidad de raciones suficientes para el piso corresponde a la dotación del Sistema de Combate. El Sistema de Recuperación no crea comida, agua ni otros suministros.
 
 ## 9. Registro y continuidad
 
-La ficha individual conserva las lesiones actuales, su gravedad, sus efectos funcionales, la activación disponible o utilizada y el resultado del tratamiento. También registra pérdidas corporales temporales durante un desafío y su restauración al entrar en un Piso Principal.
+La ficha individual conserva las lesiones actuales, sus efectos funcionales, la activación disponible o utilizada y el resultado del tratamiento. La continuidad registra los acontecimientos que justifican los cambios.
 
-Cuando un personaje fuerza una lesión, esta empeora o recibe tratamiento, la continuidad debe reflejar el cambio. Al producirse la restauración del Piso Principal, se actualiza su estado corporal; no se borran otros estados como hambre, sed, fatiga, enfermedad o intoxicación.
+Al entrar en un nuevo Piso Principal, se actualiza la condición corporal restaurada. No se deben borrar por ese motivo otros estados que no sean lesiones físicas, como hambre, sed, falta de sueño, fatiga acumulada, enfermedad o intoxicación.
 
-El Sistema de Recuperación muestra al participante su disponibilidad y, al activarlo, la información necesaria sobre el tratamiento y su finalización. Las reglas generales de información e interfaz determinarán qué datos pueden consultar otros participantes.
-
-**Principio central:** las lesiones tienen consecuencias reales durante los desafíos, incluso cuando son extremas. La recuperación disponible dentro del desafío es limitada; la entrada a un nuevo Piso Principal restaura el cuerpo del participante vivo, pero no resucita ni elimina estados que no sean lesiones corporales.
+**Principio central:** durante el desafío, la recuperación natural existe pero es limitada; descansar y activar el Sistema la vuelve mucho más eficiente. Entrar en un nuevo Piso Principal restaura completamente el cuerpo de quienes siguen vivos, pero nunca resucita a los muertos.
