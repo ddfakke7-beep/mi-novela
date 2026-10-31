@@ -4,7 +4,7 @@
 
 Este directorio conserva únicamente los registros de parties recurrentes cuya evolución sea importante para la continuidad. La composición y el estado actual se mantienen aquí; las capacidades, conocimientos, equipo y decisiones individuales permanecen en las fichas personales.
 
-No crear una ficha por cada cooperación ocasional. No asumir que una party será convocada junta en el piso siguiente: la selección corresponde al Sistema.
+No crear una ficha por cada cooperación ocasional. No se debe asumir que el Sistema seleccionará a una party para el piso siguiente. Si la selecciona, convoca conjuntamente a todos sus integrantes; la decisión de selección corresponde al Sistema.
 
 ## Registros
 
