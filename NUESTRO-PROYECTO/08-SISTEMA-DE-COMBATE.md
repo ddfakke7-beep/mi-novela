@@ -103,10 +103,15 @@ La oferta puede incluir:
 - **Armas:** el catálogo puede poner a disposición una opción principal y una segunda arma opcional, ya sea para complementar el estilo del participante, cubrir otra función o servir como alternativa. Elegir ambas no es obligatorio: el participante puede escoger solo una, o conservar armas anteriores si le siguen resultando útiles.
 - **Protecciones:** armaduras y piezas para distintas partes del cuerpo, con configuraciones de distinta cobertura, peso y movilidad. Puede haber opciones ligeras, intermedias o pesadas, además de piezas individuales; no se exige que el catálogo se limite a tres categorías rígidas.
 - **Equipo complementario:** elementos útiles para combatir o desenvolverse durante el desafío, cuando estén incluidos en la oferta.
+- **Raciones:** el Sistema proporciona comida suficiente para afrontar el piso. No se exige que los participantes cacen o consigan alimento para sobrevivir, salvo que el diseño de un desafío lo convierta expresamente en parte del objetivo.
 
 Cada participante decide qué hacer con su equipo anterior: conservarlo, sustituirlo o complementarlo con las opciones disponibles. El Sistema no retira ni reemplaza automáticamente objetos que el participante haya decidido conservar. Si mantiene un objeto dañado, deberá asumir sus condiciones; si lo sustituye, la opción nueva del catálogo estará en condiciones adecuadas de uso.
 
 La selección se realiza entre las opciones realmente disponibles. El catálogo, las cantidades y las condiciones pueden variar; no se presupone que todos los pisos ofrezcan el mismo equipo ni que exista una opción ilimitada. La elección de armas y protecciones puede combinarse según las necesidades del participante.
+
+Los objetos que el participante lleva consigo no desaparecen arbitrariamente al entrar en otro piso. Puede conservar su equipo anterior y decidir si lo mantiene, lo complementa o lo sustituye con las opciones del nuevo catálogo. La elección de equipo no borra por sí sola los objetos que ya posee.
+
+El participante puede disponer de un inventario para guardar raciones y objetos pequeños o útiles. El inventario no permite almacenar ni transportar armas; las armas y protecciones se llevan físicamente como equipo.
 
 La dotación no impone que todos lleven la misma cantidad de armas ni una configuración universal. La capacidad real de transportar y utilizar el equipo depende del peso, volumen, movilidad, compatibilidad, manos ocupadas, condición física y entrenamiento del personaje. Llevar más armas puede ampliar sus alternativas, pero también añadir peso y exigir conocimientos para aprovecharlas. Una persona experimentada puede sacar partido de una combinación que un principiante todavía no sabe manejar.
 
