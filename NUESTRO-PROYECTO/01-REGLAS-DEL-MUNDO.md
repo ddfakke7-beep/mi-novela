@@ -84,6 +84,36 @@ No se debe ocultar información esencial que los participantes necesiten para co
 
 La lógica general admite que no completar una prueba pueda exponer a los participantes a consecuencias graves, incluida la muerte. Sin embargo, todavía falta definir de manera general qué sucede con cada participante que no supera una prueba: si queda atrapado, si puede seguir intentando cumplir el objetivo, si existe rescate, eliminación u otra consecuencia. No asumir una respuesta universal antes de diseñar esa regla.
 
+## 2. Participantes, entrada, salida y condiciones de supervivencia
+
+**Estado: ACUERDOS ESTABLECIDOS.** Algunos detalles de selección y las consecuencias generales del fracaso todavía pueden precisarse al desarrollar las reglas correspondientes.
+
+### 2.1. Selección y convocatoria
+
+- El Sistema decide qué participantes convoca para cada prueba y cuántos serán.
+- Los participantes no conocen los motivos ni los criterios que utiliza el Sistema para seleccionarlos.
+- Tampoco conocen el propósito último del Sistema. Lo único que pueden afirmar por lo que experimentan es que los convoca y los somete a pruebas que deben superar.
+- No se presupone que los participantes puedan influir en la selección ni que exista una explicación accesible para ellos.
+
+### 2.2. Cantidad de participantes y peligrosidad
+
+- La cantidad de participantes convocados influye en el nivel de dificultad y peligro de la prueba. El Sistema determina ese nivel.
+- Una convocatoria numerosa es una señal de que las condiciones pueden ser especialmente peligrosas; no debe interpretarse como una prueba ordinaria simplemente ampliada.
+- En situaciones extremas, las condiciones pueden ser tan peligrosas que todos los participantes mueran si no consiguen superar la prueba. El Piso 9 de UMBRAL sirve como referencia del tipo de riesgo al que se alude, no como plantilla obligatoria para todas las pruebas.
+- No se establece una fórmula matemática ni una proporción fija entre cantidad de participantes y dificultad. Tampoco se afirma que toda convocatoria numerosa termine necesariamente en una eliminación total.
+
+### 2.3. Aparición y salida
+
+- Al comenzar una prueba, los participantes aparecen en puntos separados dentro de la misma zona de prueba. La separación inicial no significa que estén realizando pruebas distintas.
+- Como regla general, todos comparten una única salida. Los participantes que hayan cumplido las condiciones de superación deben llegar físicamente hasta ella para realizar la transición.
+- Las condiciones específicas de superación y transición se rigen también por lo establecido en el punto 1 y por las reglas particulares que anuncie cada prueba.
+
+### 2.4. Supervivencia y fracaso
+
+- El peligro de una prueba puede ser real y mortal. Si las condiciones no se superan, los participantes pueden morir como consecuencia de los peligros de la prueba.
+- En pruebas de riesgo extremo, el fracaso puede conducir a la muerte de todos los convocados; no es una ejecución automática del Sistema por el mero hecho de haberlos convocado.
+- Las consecuencias exactas del fracaso, así como la posibilidad de seguir intentándolo o de recibir ayuda, no quedan definidas como una regla universal en este punto. Se determinarán cuando se diseñe el sistema general de fracaso y supervivencia y, cuando corresponda, las condiciones particulares de cada prueba.
+
 ## Condición de uso
 
 No copiar automáticamente las reglas de UMBRAL. Cada regla debe revisarse para decidir si se conserva, modifica o descarta. No completar vacíos con suposiciones silenciosas.
