@@ -398,6 +398,19 @@ Esta guía busca que los personajes puedan reconocerse por cómo hablan, reaccio
 
 La propuesta de 26 nombres no significa que todos tengan protección narrativa, pero tampoco constituye una lista de víctimas que deban sacrificarse para demostrar que NEXUS es peligroso.
 
+
+### Clasificación provisional del elenco actual
+
+Esta clasificación permite comenzar el diseño sin fingir que ya conocemos el destino de todos. Se refiere a la prioridad de seguimiento, no a quién merece sobrevivir ni a quién tendrá más páginas.
+
+| Nivel de seguimiento | Personajes | Motivo |
+|---|---|---|
+| **Núcleo previsto** | Kevin, Lucía, Tomás | Punto de vista y círculo inicial con relaciones y evolución compartida. No implica que estén juntos en cada piso ni que sean invulnerables. |
+| **Recurrentes potenciales** | Mateo, Damián, Iván, Sara, Elisa, Gabriel, Nuria, Esteban, Vera, Marcos, Alba, León, Inés, Rafael, Claudia, Andrés | Tienen una función diferenciada y material para desarrollar trayectorias propias. Su recurrencia dependerá de convocatoria, decisiones y continuidad. |
+| **Secundarios potenciales** | Pilar, Bruno, Maia, Joel, Renata, Nadia, Simón | Tienen perfiles definidos para ampliar grupos y situaciones. Se ampliarán a fichas individuales si adquieren peso sostenido. |
+
+Ningún personaje queda clasificado como episódico de forma permanente: los participantes episódicos serán creados para los pisos según sus necesidades y podrán adquirir relevancia si sus acciones lo justifican.
+
 ### Niveles de seguimiento
 
 | Nivel | Personajes o criterio | Tratamiento |
