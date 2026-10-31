@@ -164,4 +164,88 @@ Cuando un perfil propuesto se concrete, se crearán o ampliarán las fichas y re
 5. Revisar que las seis trayectorias que convergen en el Piso 10 aporten capacidades complementarias y no redundantes.
 6. Una vez cerrado y aprobado el elenco global, comenzar el diseño completo del Piso 1.
 
-**Límite actual:** no hay nombres, parties, biografías, reapariciones ni reputaciones individuales confirmadas todavía. Todo lo anterior es una estructura de planificación aprobada como dirección general, pendiente de concreción.
+**Límite actual:** los perfiles, nombres y formaciones de las secciones 8–12 son propuestas de planificación. Las parties solo existirán cuando se constituyan formalmente en la historia.
+
+
+## 8. Elenco individual provisional
+
+**Estado: PROPUESTA DE PERSONAJES; nombres, perfiles y dominios iniciales pendientes de aprobación.**
+
+Los dominios indicados son los que cada personaje trae al entrar en NEXUS, no lo que aprenderá después. Se utiliza la escala del documento 08: 0 sin dominio, 1 principiante, 2 competente, 3 avanzado y 4 experto. Un dominio se asigna solo cuando la experiencia previa lo justifica. Las especialidades no combativas no equivalen a rangos de combate.
+
+### Núcleo y personajes que aparecen desde los primeros pisos
+
+| Personaje | Personalidad y procedencia | Especialidad / dominio inicial |
+|---|---|---|
+| **Kevin** | Sedentario, poca actividad física, vida ordinaria y ninguna experiencia real de combate. Prudente, algo inseguro al principio, pero capaz de insistir cuando entiende que no tiene otra opción. | Sin dominio en combate: 0 en lanza, espada, arco y combate sin armas. Condición física baja; no es un estratega ni un atleta de partida. |
+| **Lucía** | Tranquila, empática y práctica. Tiene formación como auxiliar de enfermería; no soporta bien la violencia, pero mantiene la cabeza fría cuando alguien necesita ayuda. | Primeros auxilios y cuidado básico por formación. Combate sin armas: 0. No es combatiente. |
+| **Tomás** | Sociable, impulsivo y protector. Practicó boxeo amateur durante varios años; tiene confianza física, aunque al principio tiende a resolver demasiado con los puños. | Combate sin armas: 2. Buena base de golpeo; poca experiencia con armas. |
+| **Mateo** | Reservado, autosuficiente y desconfiado. Creció realizando trabajos rurales y caminatas por zonas naturales; prefiere observar antes de hablar. | Orientación y lectura básica del terreno por experiencia. Armas improvisadas: 1. No es un rastreador experto ni un gran luchador. |
+| **Damián** | Metódico, paciente y poco hablador. Ha cazado de forma recreativa desde joven y conoce la importancia de elegir cuándo no disparar. | Arco: 2 por práctica previa. Buena paciencia y selección de objetivos; limitado en combate cercano. |
+| **Iván** | Competitivo, orgulloso y frontal. Entrenó kickboxing y está acostumbrado a imponerse físicamente; le cuesta aceptar que una situación exige retirarse. | Combate sin armas: 2. Buen golpeo y condición física; control emocional irregular. |
+| **Sara** | Observadora, desconfiada y disciplinada. Trabajó en seguridad privada; sabe controlar accesos, mantener atención y tratar con personas difíciles. | Bastón/porra: 1 por formación laboral básica. Sin dominio avanzado de armas letales. |
+| **Elisa** | Inteligente, irónica y paciente. Tiene experiencia organizando tareas y detectando errores prácticos; no busca ser líder, pero suele ver lo que falta. | Sin dominio de combate: 0. Especialidad en organización y resolución práctica, no en combate. |
+
+### Personajes que amplían el elenco en pisos posteriores
+
+| Personaje | Primera aparición prevista | Personalidad y procedencia | Especialidad / dominio inicial |
+|---|---:|---|---|
+| **Gabriel** | Piso 3 | Sereno, claro al comunicar y bueno repartiendo tareas sin imponerse. Experiencia coordinando equipos de trabajo. | Combate sin armas: 0. Coordinación y comunicación por experiencia laboral. |
+| **Nuria** | Piso 3 | Atenta, paciente y poco llamativa. Sabe mantener la calma y prestar apoyo sin necesitar reconocimiento. | Primeros auxilios básicos por experiencia como voluntaria. Combate sin armas: 0. |
+| **Esteban** | Piso 4 | Independiente, curioso y muy observador. Ha viajado y realizado rutas de montaña; no le gusta depender de otros. | Orientación y lectura espacial sólidas. Armas improvisadas: 0. No es especialmente fuerte en combate. |
+| **Vera** | Piso 5 | Protectora, firme y resistente a la presión. Practicó rugby y trabajó en actividades físicas exigentes. | Combate sin armas: 1. Buena condición y capacidad para sostener esfuerzo; técnica limitada. |
+| **Marcos** | Piso 5 | Rápido para actuar, valiente y algo temerario. Tiene experiencia en deportes de contacto, pero suele precipitarse. | Combate sin armas: 2. Buena explosividad; control táctico irregular. |
+| **Alba** | Piso 6 | Fría bajo presión, disciplinada y directa. Tiene formación prolongada en esgrima deportiva y sabe evaluar distancias. | Espada: 3. Dominio avanzado deportivo; su adaptación a combate real todavía debe demostrarse. |
+| **León** | Piso 6 | Callado, constante y muy difícil de intimidar. Tiene años de entrenamiento en lucha y preparación física. | Combate sin armas: 3. Gran control corporal; menos versátil con armas. |
+| **Inés** | Piso 6 | Analítica, exigente y consciente de los límites. Ha trabajado en rescate y actividades de montaña. | Armas improvisadas: 1. Resistencia, evaluación de riesgos y experiencia en entornos difíciles; no es especialista de duelo. |
+| **Rafael** | Piso 7 | Paciente, meticuloso y poco expresivo. Tiene experiencia en campo, fauna y seguimiento de rastros por trabajo ambiental. | Rastreo y lectura de señales por experiencia. Arco: 1. No destaca en combate cercano. |
+| **Claudia** | Piso 8 | Técnica, perfeccionista y reservada. Practicó artes marciales durante años; su precisión es mejor que su fuerza bruta. | Combate sin armas: 3. Técnica avanzada en su disciplina; condición y adaptación a situaciones caóticas no necesariamente superiores. |
+| **Andrés** | Piso 9 | Diplomático, persuasivo y pragmático. Ha trabajado negociando y resolviendo conflictos entre equipos. | Combate sin armas: 0. Negociación, comunicación y mediación; no es combatiente destacado. |
+
+Estos perfiles son una base inicial, no biografías cerradas. La experiencia previa justifica únicamente el dominio señalado; no concede automáticamente conocimiento de criaturas, experiencia de supervivencia en NEXUS ni capacidad para afrontar cualquier amenaza.
+
+## 9. Parties previstas y nombres de formación
+
+**Regla de presentación:** una party no tiene nombre antes de constituirse. Cuando sus integrantes decidan formalizarla, deberán elegir e introducir un nombre. Los nombres siguientes son propuestas para ese momento, no parties ya existentes.
+
+| Formación prevista | Nombre propuesto al constituirse | Integrantes previstos | Identidad |
+|---|---|---|---|
+| Piso 2 | **Punto de Apoyo** | Kevin, Lucía y Tomás; posible cuarto integrante solo si surge de forma orgánica | Núcleo inicial. Kevin aporta prudencia y aprendizaje; Lucía apoyo y primeros auxilios; Tomás capacidad física y combate cercano. No serán los más fuertes al comienzo. |
+| Piso 2 | **Rastro Gris** | Damián, Iván y Sara; posible cuarto miembro ya presentado | Party rival. Caza metódica, presión ofensiva y control de situaciones. Sus integrantes tienen más experiencia inicial que Kevin, pero no siempre coinciden en criterio. |
+| Piso 3 | **Trama** | Gabriel, Nuria y dos participantes que se introducirán con ellos | Coordinación, comunicación y apoyo mutuo. Su fuerza principal será funcionar como equipo, no tener al mejor duelista. |
+| Piso 5 | **Bastión** | Vera, Marcos y dos participantes defensivos que se presentarán en ese piso | Protección de posiciones, resistencia y respuesta a ataques. Vera y Marcos no siempre estarán de acuerdo sobre cuándo aguantar o avanzar. |
+| Piso 6 | **Vanguardia** | Alba, León, Inés y dos integrantes nuevos | Equipo de élite estable. Alto nivel técnico y experiencia conjunta; no se cambiarán sus miembros sin una causa importante. |
+| Pisos 7–9 | **Nombre elegido al formarse** | Rafael, Andrés y otros participantes según sus encuentros | No se fuerza una party alrededor de cada especialista. Pueden seguir independientes o formar un grupo si la relación y las circunstancias lo justifican. |
+
+Las parties previstas respetarán el máximo de cinco integrantes. No se considera que existan hasta que la formación ocurra y todos acepten. Los nombres pueden ajustarse si al narrar la formación aparece uno más adecuado, pero no se crearán parties anónimas que luego reciban un nombre retroactivamente sin mostrar la decisión.
+
+## 10. Estabilidad y reputación de los grupos
+
+- **Vanguardia** será el grupo más estable: sus cinco integrantes tienen experiencia y una razón clara para permanecer juntos. Una baja sería un acontecimiento importante, no un cambio rutinario de plantilla.
+- **Trama** destacará por coordinación y fiabilidad; sus integrantes se valoran por complementariedad.
+- **Bastión** tendrá una identidad defensiva clara. Sus miembros pueden discrepar en decisiones, pero no se reemplazarán por conveniencia.
+- **Rastro Gris** será competitivo y tendrá fricciones internas controladas por sus objetivos comunes. La rivalidad con Kevin no implica enemistad permanente.
+- **Punto de Apoyo** será el grupo con mayor evolución visible desde una base modesta. Su cohesión se construirá con experiencias, no aparecerá completa desde el inicio.
+- La reputación de estos grupos crecerá por resultados demostrados y por información compartida entre participantes. No todos los conocerán ni todos confiarán en lo que se cuenta.
+- Los grupos pueden coincidir con otros personajes y ser reconocidos sin que Kevin esté presente. Las relaciones y rumores no pertenecen exclusivamente a su perspectiva.
+
+## 11. Kevin: punto de partida
+
+Kevin comienza como una persona sedentaria y sin experiencia de combate. No tiene formación deportiva relevante, entrenamiento con armas ni experiencia de supervivencia. Su condición física inicial es baja en comparación con quienes entrenan o trabajan físicamente.
+
+- **Dominio inicial:** rango 0 en todas las disciplinas de combate.
+- **Experiencia previa:** ninguna experiencia real de combate, caza, rastreo o supervivencia.
+- **Fortalezas iniciales:** todavía no se le atribuye una especialidad extraordinaria. Puede observar, preguntar, aprender y tomar decisiones, pero esas capacidades deben demostrarse.
+- **Limitaciones:** poca resistencia al esfuerzo, escasa familiaridad con el peligro físico y tendencia inicial a dudar cuando debe actuar.
+- **Equipo:** su elección de arma y protección se decidirá en el Piso Principal según el catálogo disponible. Elegir una lanza, espada u otra arma no le concede dominio para utilizarla.
+- **Dirección de desarrollo:** progreso gradual y ganado. Kevin no será automáticamente el líder, el mejor estratega ni el combatiente más talentoso. Puede llegar a ser valioso por la combinación de experiencia, criterio y aprendizaje, sin superar a todos en sus especialidades.
+
+## 12. Próximo trabajo
+
+1. Revisar y aprobar o corregir este elenco provisional.
+2. Convertir en fichas individuales a los personajes que queden establecidos como recurrentes.
+3. Crear los registros de parties cuando se formalice cada grupo, no antes.
+4. Diseñar el Piso 1 con los participantes y perfiles que realmente deban intervenir.
+5. Registrar cualquier cambio de nombres, experiencia o dominio antes de narrar para evitar contradicciones.
+
+**Límite de canon:** los nombres, perfiles, dominios iniciales y nombres de parties de esta sección son propuestas de planificación. No son todavía hechos ocurridos dentro de la historia.
