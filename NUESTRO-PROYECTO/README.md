@@ -8,6 +8,8 @@ Este proyecto toma como inspiración y punto de comparación la experiencia de d
 
 Diseñar desde el principio una novela con progresión constante y colectiva: Kevin será el protagonista, pero el mundo, los demás participantes, las parties y las amenazas seguirán evolucionando aunque él no esté presente. Kevin tendrá que esforzarse para mantenerse a la altura; no recibirá prioridad narrativa ni protección por ser protagonista.
 
+Cada piso plantea un único desafío general integrado. Puede desarrollarse mediante etapas y situaciones conectadas, pero no se divide obligatoriamente en escenarios o pruebas independientes.
+
 ## Orden de desarrollo
 
 1. Definir la arquitectura documental y las fuentes de autoridad.
@@ -15,8 +17,8 @@ Diseñar desde el principio una novela con progresión constante y colectiva: Ke
 3. Definir el método de progresión física, técnica, práctica y colectiva.
 4. Crear el elenco inicial y decidir qué personajes tendrán seguimiento detallado.
 5. Diseñar el arco global de los Pisos 1–10, incluida la progresión prevista de Kevin y del elenco.
-6. Diseñar cada piso completo antes de narrar sus escenarios.
-7. Narrar respetando el diseño aprobado y actualizar los registros después de cada escenario aprobado.
+6. Diseñar cada piso completo antes de narrar su desafío y sus etapas.
+7. Narrar respetando el diseño aprobado y actualizar los registros después de cada tramo narrativo aprobado.
 
 ## Fuentes
 
