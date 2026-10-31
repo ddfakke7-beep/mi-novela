@@ -123,6 +123,6 @@ El registro debe reflejar el equipo que el personaje lleva realmente, no solo lo
 
 La ficha individual del personaje es la fuente de su estado vigente: disciplinas, rangos, técnicas, estados de aprendizaje, limitaciones y equipo que lleva realmente. El historial de continuidad conserva los acontecimientos que justifican los cambios. Este documento establece el método común de evaluación y elección de dotación.
 
-El Sistema de Combate muestra al participante su propio registro de dominio, técnicas y equipo. La información que pueda consultar sobre otros participantes queda pendiente de las reglas generales de información e interfaz; este sistema no concede acceso automático a las fichas ajenas.
+El Sistema de Combate muestra al participante su propio registro de dominio, técnicas y equipo. La información privada de otros participantes no puede consultarse: al intentar abrir su ventana de estado, aparece borrosa e ilegible, conforme a las reglas generales del mundo. Este sistema no concede acceso a fichas ajenas.
 
 **Principio central:** todo aprendizaje importante permanece registrado, todo avance debe estar respaldado por evidencia y todos los participantes pueden progresar de manera independiente. El equipo ofrece posibilidades, pero su utilidad depende de las decisiones, capacidades y experiencia de quien lo utiliza.
