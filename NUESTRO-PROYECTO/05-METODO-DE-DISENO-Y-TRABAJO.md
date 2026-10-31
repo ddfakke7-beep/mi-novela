@@ -1,6 +1,6 @@
 # 05 — Método de diseño y trabajo
 
-**Estado: PROPUESTA REVISADA — pendiente de aprobación del usuario.**
+**Estado: APROBADO — método de diseño y trabajo.**
 
 ## 1. Orden general de desarrollo
 
@@ -9,8 +9,8 @@ El trabajo se realiza en este orden:
 1. Cerrar y aprobar la arquitectura documental y el protocolo narrativo.
 2. Diseñar y aprobar las reglas del mundo y del Sistema.
 3. Diseñar y aprobar el sistema de progresión y sus criterios de evaluación.
-4. Crear el elenco inicial y decidir el nivel de seguimiento de cada personaje.
-5. Construir el arco global de los Pisos 1–10: identidad, acontecimientos estructurales y progresión posible del elenco.
+4. Construir la estructura general del arco de los Pisos 1–9: identidad y función de cada piso, progresión global, experiencias centrales, desarrollo posible de Kevin y de otros personajes/grupos, y conexiones entre pisos. Mantener el Piso 10 como culminación general ya prevista, sin diseñarlo en detalle todavía.
+5. A partir de esa estructura, determinar qué personajes y grupos hacen falta, introducir el elenco progresivamente y definir el seguimiento de quienes adquieran relevancia.
 6. Diseñar cada piso completo, incluido su Piso Principal, el área concreta del desafío, sus zonas o sectores, etapas, tiempos, amenazas, recursos y transiciones.
 7. Revisar contradicciones, continuidad, variedad y progresión.
 8. Obtener aprobación del diseño del piso.
