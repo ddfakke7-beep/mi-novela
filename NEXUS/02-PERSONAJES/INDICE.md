@@ -2,6 +2,8 @@
 
 **Estado: estructura inicial; elenco pendiente de diseño.**
 
+La planificación general del elenco de los diez primeros pisos se conserva en [ELENCO-GLOBAL.md](ELENCO-GLOBAL.md). Es una propuesta de planificación, no un registro de hechos narrativos ni un sustituto de las fichas personales y de los registros de parties.
+
 Cada personaje recurrente tendrá una ficha propia. La ficha registrará únicamente información confirmada y distinguirá:
 
 - Identidad, edad y rasgos relevantes para la historia.
