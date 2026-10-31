@@ -1,6 +1,6 @@
 # 01 — Reglas del mundo y del Sistema
 
-**Estado: EN DISEÑO.** El punto 1 contiene acuerdos establecidos; los demás apartados siguen pendientes. No usar como conjunto normativo completo hasta que las reglas estén diseñadas y aprobadas.
+**Estado: EN DISEÑO.** Los puntos 1 y 2 contienen acuerdos establecidos; el punto 3 contiene acuerdos iniciales; los demás apartados siguen pendientes. No usar como conjunto normativo completo hasta que las reglas estén diseñadas y aprobadas.
 
 Este documento será la única fuente normativa general del proyecto. No debe convertirse en una mezcla de reglas, instrucciones narrativas, fichas de personajes y resúmenes de continuidad.
 
@@ -29,15 +29,17 @@ Este documento será la única fuente normativa general del proyecto. No debe co
 ### 1.1. Estructura por pisos
 
 - El mundo se organiza en pisos como estructura principal de progresión.
-- Se elimina la división obligatoria de cada piso en «escenarios». Un piso puede contener una prueba principal o varias pruebas, según su propósito.
-- Cada prueba debe tener un objetivo comprensible y condiciones explícitas para superarla.
+- Se elimina la división obligatoria de cada piso en «escenarios».
+- Cada piso plantea un desafío o prueba principal integrado. Puede desarrollarse mediante varias etapas, situaciones u objetivos parciales, pero todos deben estar relacionados y contribuir al desafío final del piso.
+- Las etapas no deben sentirse como encargos independientes ni como una sucesión arbitraria de instrucciones para ir de un punto a otro. El desarrollo debe tener continuidad, relación causal y consecuencias.
+- El desafío principal debe tener un objetivo comprensible y condiciones explícitas para superarlo.
 - Superar la prueba habilita el avance al siguiente piso, sujeto a las condiciones de transición descritas más adelante.
 
 ### 1.2. Convocatoria y distribución de participantes
 
-- En cada piso, el Sistema selecciona y reúne a determinados participantes para una misma prueba.
+- En cada piso, el Sistema selecciona y reúne a determinados participantes para el desafío principal de ese piso.
 - Los participantes convocados coinciden en el Piso Principal antes de comenzar.
-- Al iniciar la prueba, pueden aparecer en diferentes puntos de una misma zona o espacio de prueba. No son convocatorias ni pruebas distintas: forman parte de la misma prueba.
+- Al iniciar el desafío, pueden aparecer en diferentes puntos de una misma zona o espacio. La separación inicial no divide el desafío en pruebas independientes: todos forman parte del mismo desarrollo.
 - El Sistema debe informar con claridad cuántos participantes han sido convocados y cuál es el objetivo común.
 - Los participantes pueden encontrarse durante la prueba, cooperar, competir o actuar por separado.
 - Coincidir y superar una prueba junto a otros no garantiza que esos mismos participantes sean convocados juntos en el piso siguiente. En cada piso, el Sistema vuelve a seleccionar a los participantes de la prueba correspondiente.
@@ -113,6 +115,35 @@ La lógica general admite que no completar una prueba pueda exponer a los partic
 - El peligro de una prueba puede ser real y mortal. Si las condiciones no se superan, los participantes pueden morir como consecuencia de los peligros de la prueba.
 - En pruebas de riesgo extremo, el fracaso puede conducir a la muerte de todos los convocados; no es una ejecución automática del Sistema por el mero hecho de haberlos convocado.
 - Las consecuencias exactas del fracaso, así como la posibilidad de seguir intentándolo o de recibir ayuda, no quedan definidas como una regla universal en este punto. Se determinarán cuando se diseñe el sistema general de fracaso y supervivencia y, cuando corresponda, las condiciones particulares de cada prueba.
+
+## 3. Pisos, pruebas, fases, tiempos y transiciones
+
+**Estado: ACUERDOS INICIALES.** Se ha definido la estructura integrada del desafío y el origen general de la dificultad. Los detalles de fases, plazos y excepciones se concretarán al diseñar pisos específicos.
+
+### 3.1. Un desafío integrado por piso
+
+- Cada piso presenta un desafío principal que debe superarse para avanzar.
+- Ese desafío puede desarrollarse mediante varias etapas, fases, encuentros, objetivos parciales o cambios de situación.
+- Las partes deben estar conectadas entre sí y formar un recorrido coherente hacia la resolución del desafío principal.
+- Una etapa puede modificar las condiciones de las siguientes: decisiones, daños, recursos consumidos, información obtenida, amenazas activadas y otros resultados pueden tener consecuencias posteriores.
+- No se deben añadir objetivos o desplazamientos arbitrarios que solo alarguen el recorrido. Cada parte debe tener una función dentro del desafío.
+- La prueba no tiene que consistir en una lista de instrucciones del Sistema. El escenario y las circunstancias pueden exigir que los participantes comprendan qué hacer y cómo avanzar, sin convertir el piso en una cadena de recados.
+
+### 3.2. Dificultad y peligro
+
+- La cantidad de participantes convocados influye en la dificultad que el Sistema establece para el piso. No se conoce la fórmula ni los criterios exactos.
+- La dificultad no equivale necesariamente a mortalidad ni se expresa únicamente mediante enemigos más numerosos o más fuertes.
+- El peligro debe surgir principalmente de las características y condiciones del escenario: entorno, terreno, clima, criaturas, estructuras, recursos disponibles, presión y circunstancias de supervivencia, entre otras posibilidades.
+- Los escenarios pueden ser peligrosos por sí mismos y exigir adaptación, preparación, combate, exploración, cooperación o decisiones difíciles.
+- La referencia de enfoque son pisos de UMBRAL como el 6, 7, 8 y 9: el escenario y sus condiciones tienen un papel central en el desafío. No se copian sus diseños automáticamente ni se establece que todos los pisos deban ser mortales.
+- El nivel de peligro y la dificultad concreta deben tener sentido con el escenario y con el desafío planteado, no ser aumentados artificialmente.
+
+### 3.3. Fases, tiempos y transición
+
+- Las etapas o fases, cuando existan, forman parte del mismo desafío principal; no son pruebas desconectadas.
+- Los tiempos límite, descansos, zonas seguras, cambios de fase y condiciones particulares se decidirán según las necesidades del piso. No se establece que todos los pisos deban incluirlos.
+- Se mantienen los acuerdos del punto 1 sobre objetivo, condiciones de superación, salida común como regla general y transición física al siguiente piso.
+- Cada piso debe diseñarse con sus propias exigencias y peligros. No se establece una plantilla rígida que obligue a repetir la misma estructura en todos.
 
 ## Condición de uso
 
