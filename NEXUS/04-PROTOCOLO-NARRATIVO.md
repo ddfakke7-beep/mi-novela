@@ -118,11 +118,21 @@ Separar:
 
 Aplicar la rúbrica de `07-SISTEMA-DE-PROGRESION.md`. Registrar evidencias concretas, errores persistentes y cambios justificados. No conceder aumentos automáticos por completar el piso, pero tampoco omitir mejoras demostradas por práctica y experiencia acumuladas.
 
-## G. Aprobación, canon y cierre documental
+## G. TXT, diseño, narración, aprobación y cierre documental
 
-El usuario entrega un TXT como material de entrada para desarrollar narrativamente el piso. El TXT no se copia ni se sube automáticamente: se desarrolla respetando su contenido esencial, el diseño aprobado y el canon vigente.
+El TXT inicial que entrega el usuario sirve para **crear el diseño del piso**, no para comenzar directamente la narración. Antes de diseñar, consultar las reglas, continuidad, arco global, método y demás fuentes pertinentes.
 
-El desarrollo completo se presenta al usuario para revisión. Hasta que el usuario apruebe el piso, sus acontecimientos y cambios permanecen provisionales y no se incorporan a los registros oficiales.
+El proceso obligatorio es:
+1. Leer y analizar el TXT completo.
+2. Contrastar su contenido con el canon vigente y la función del piso en el arco global.
+3. Elaborar el diseño integral y guardarlo en `PISOS/piso-XX/diseño.html`.
+4. Presentar el diseño al usuario, recoger ajustes y revisarlo hasta que sea aprobado.
+5. Solo entonces desarrollar la narración completa siguiendo el diseño aprobado.
+6. Presentar la narración completa para revisión y aprobación.
+
+El TXT, las propuestas y los borradores no se convierten automáticamente en canon. El diseño aprobado fija la estructura del piso; sus elementos no deben alterarse silenciosamente durante la narración.
+
+Hasta que el usuario apruebe el piso narrativo completo, los acontecimientos y cambios de esa narración permanecen provisionales y no se incorporan a los registros oficiales.
 
 **Inmediatamente después de la aprobación del piso completo**, ejecutar el cierre documental establecido en la sección 7 de `05-METODO-DE-DISENO-Y-TRABAJO.md`:
 
