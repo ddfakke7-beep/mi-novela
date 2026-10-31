@@ -26,7 +26,8 @@ La continuidad abarca tanto a Kevin y su círculo cercano como al resto de perso
 | 05-METODO-DE-DISENO-Y-TRABAJO.md | Procedimiento para diseñar, revisar, aprobar y mantener | Repetición de reglas narrativas |
 | 06-ARCO-GLOBAL-PISOS-01-10.md | Propósito y progresión planificada del arco global | Canon de sucesos todavía no narrados |
 | 07-SISTEMA-DE-PROGRESION.md | Método general para evaluar y registrar el crecimiento en las distintas vías | Estado actual de un personaje o manual detallado de cada sistema |
-| 08-SISTEMA-DE-COMBATE.md | Rangos de dominio por disciplina, registro de técnicas y evaluación de la progresión de combate | Fichas individuales o historial narrativo |
+| 08-SISTEMA-DE-COMBATE.md | Rangos de dominio por disciplina, registro de técnicas, evaluación de la progresión de combate y dotación de equipo | Fichas individuales o historial narrativo |
+| 09-SISTEMA-DE-RECUPERACION.md | Disponibilidad, condiciones, duración y efectos del tratamiento de lesiones | Fichas individuales o historial narrativo |
 
 ## 3. Cómo resolver información aparentemente contradictoria
 
@@ -39,7 +40,8 @@ Aplicar estas distinciones:
 - **¿En qué punto exacto estamos?** Consultar el estado actual.
 - **¿Qué está permitido o prohibido por el mundo?** Consultar las reglas maestras.
 - **¿Cómo debemos trabajar?** Consultar el protocolo y el método.
-- **¿Cómo se evalúa el dominio de combate?** Consultar el Sistema de Combate.
+- **¿Cómo se evalúa el dominio de combate y la dotación?** Consultar el Sistema de Combate.
+- **¿Cómo se tratan las lesiones?** Consultar el Sistema de Recuperación.
 
 El diseño no convierte una posibilidad planificada en un hecho. La continuidad no puede cambiar una regla general. Una ficha o registro actualizado no puede inventar un acontecimiento que no haya sido aprobado. El estado actual es un resumen de navegación: si contradice el historial o una ficha, debe corregirse, no tratarse como una fuente nueva de canon.
 
@@ -59,6 +61,7 @@ Una regla nueva no modifica retroactivamente hechos aprobados, salvo que el usua
 - 06-ARCO-GLOBAL-PISOS-01-10.md
 - 07-SISTEMA-DE-PROGRESION.md
 - 08-SISTEMA-DE-COMBATE.md
+- 09-SISTEMA-DE-RECUPERACION.md
 - PISOS/piso-XX/diseño.html
 
 ## 5. Elenco, grupos y profundidad de seguimiento
