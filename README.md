@@ -3,7 +3,7 @@
 Este repositorio contiene dos proyectos separados:
 
 - **[UMBRAL/](UMBRAL/)**: archivo del proyecto original, con sus reglas, continuidad, fichas y diseños existentes. Se conserva como referencia independiente.
-- **[NUESTRO-PROYECTO/](NUESTRO-PROYECTO/)**: **NEXUS**, una novela independiente en desarrollo, con reglas, personajes, progresión y pisos propios.
+- **[NEXUS/](NEXUS/)**: **NEXUS**, una novela independiente en desarrollo, con reglas, personajes, progresión y pisos propios.
 
 El `index.html` de la raíz se conserva en su ubicación para no alterar la página principal existente del repositorio.
 
