@@ -12,8 +12,8 @@ La dirección del Piso 10 es una operación colectiva para tomar una fortaleza. 
 
 | Piso | Concepto | Función dentro del arco |
 |---|---|---|
-| 1 | **Supervivencia — cacería inversa** | **Propuesta aceptada como base general.** Región natural extensa y peligrosa. Una criatura comienza cazando a los participantes; primero deben sobrevivir, observarla y comprender sus comportamientos. Después tendrán que invertir la situación: localizarla, prepararse y matarla. Pone a prueba supervivencia, orientación, observación, uso del terreno y decisiones bajo presión. El protagonista aprende que no basta con ser fuerte: debe reconocer sus límites, aprovechar información y preparar sus enfrentamientos. Establece sus capacidades y limitaciones iniciales. |
-| 2 | **Adaptación** | Enfrentar amenazas con comportamientos y capacidades diferentes. La experiencia del primer piso no basta para resolverlo todo: observar, corregir errores, adaptar el equipo y cambiar de enfoque será esencial. |
+| 1 | **Supervivencia — cacería inversa** | **Base general aceptada.** Desafío: sobrevivir en una región natural peligrosa, alcanzar la salida y darle la vuelta a una cacería: una criatura especialmente peligrosa los persigue y deben descubrir cómo localizarla, prepararse y matarla. Hay otras criaturas en la región, pero no es necesario exterminarlas todas. Kevin aprende que sobrevivir no depende solo de la fuerza: debe reconocer sus límites, observar, aprovechar información y terreno, y preparar sus enfrentamientos en vez de lanzarse sin pensar. Establece sus capacidades y limitaciones iniciales. |
+| 2 | **Adaptación** | Propuesta por definir. Debe enfrentar a los participantes con varias amenazas diferentes y exigir que cambien de enfoque; no basta con repetir la cacería inversa del Piso 1. |
 | 3 | **Formación** | Poner a prueba las ventajas y dificultades de avanzar acompañado. Introducir de forma significativa la formación de grupos reconocidos y mostrar la diferencia entre cooperar ocasionalmente y depender de una coordinación estable. |
 | 4 | **Cacería** | Desarrollar la iniciativa: localizar, seguir, preparar y enfrentar amenazas en un entorno amplio. A diferencia del primer piso, aquí la cacería parte de una búsqueda y preparación más deliberadas, no de una persecución que deben revertir. |
 | 5 | **Resistencia — expedición del grupo** | Propuesta: el grupo de los protagonistas atraviesa una región extensa y supera varios encuentros durante una operación prolongada. El foco está en administrar esfuerzo, equipo, recursos, descansos y heridas acumuladas. No tiene que ser una prueba conjunta de todos los participantes. |
@@ -36,6 +36,7 @@ La dirección del Piso 10 es una operación colectiva para tomar una fortaleza. 
 ## Estado del trabajo
 
 - **Piso 1:** base general aceptada; falta desarrollar su diseño individual.
-- **Pisos 2–5:** propuestas generales pendientes de revisión piso por piso.
+- **Piso 2:** definir desafío y aprendizaje central.
+- **Pisos 3–5:** propuestas generales pendientes de revisión piso por piso.
 - **Piso 8:** concepto general aceptado; falta desarrollar el diseño completo.
 - **Pisos 6–7 y 9–10:** conceptos generales de referencia; desarrollar sus diseños particulares cuando corresponda.
