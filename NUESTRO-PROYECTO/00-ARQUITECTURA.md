@@ -27,7 +27,7 @@ La continuidad abarca tanto a Kevin y su círculo cercano como al resto de perso
 | 06-ARCO-GLOBAL-PISOS-01-10.md | Propósito y progresión planificada del arco global | Canon de sucesos todavía no narrados |
 | 07-SISTEMA-DE-PROGRESION.md | Método general para evaluar y registrar el crecimiento en las distintas vías | Estado actual de un personaje o manual detallado de cada sistema |
 | 08-SISTEMA-DE-COMBATE.md | Rangos de dominio por disciplina, registro de técnicas, evaluación de la progresión de combate y dotación de equipo | Fichas individuales o historial narrativo |
-| 09-SISTEMA-DE-RECUPERACION.md | Disponibilidad, condiciones, duración y efectos del tratamiento de lesiones | Fichas individuales o historial narrativo |
+| 09-SISTEMA-DE-RECUPERACION.md | Disponibilidad, condiciones, duración y efectos del tratamiento de lesiones | Fichas individuales o historial narrativo |\n| 10-SISTEMA-DE-RECOMPENSAS.md | Oportunidades y administración de recompensas por completar pisos y otros logros definidos | Fichas individuales, progresión de combate o historial narrativo |
 
 ## 3. Cómo resolver información aparentemente contradictoria
 
@@ -41,7 +41,7 @@ Aplicar estas distinciones:
 - **¿Qué está permitido o prohibido por el mundo?** Consultar las reglas maestras.
 - **¿Cómo debemos trabajar?** Consultar el protocolo y el método.
 - **¿Cómo se evalúa el dominio de combate y la dotación?** Consultar el Sistema de Combate.
-- **¿Cómo se tratan las lesiones?** Consultar el Sistema de Recuperación.
+- **¿Cómo se tratan las lesiones?** Consultar el Sistema de Recuperación.\n- **¿Qué recompensas puede ofrecer el Sistema y cómo se administran?** Consultar el Sistema de Recompensas.
 
 El diseño no convierte una posibilidad planificada en un hecho. La continuidad no puede cambiar una regla general. Una ficha o registro actualizado no puede inventar un acontecimiento que no haya sido aprobado. El estado actual es un resumen de navegación: si contradice el historial o una ficha, debe corregirse, no tratarse como una fuente nueva de canon.
 
