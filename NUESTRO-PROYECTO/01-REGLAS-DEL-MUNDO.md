@@ -146,6 +146,25 @@ No cumplir la condición general puede exponer a los participantes a consecuenci
 - Superar el desafío no equivale a alcanzar la salida. Cada participante debe encontrar y alcanzar físicamente la única salida del piso para realizar la transición.
 - Cada piso debe diseñarse con sus propias exigencias y peligros, sin repetir una plantilla rígida.
 
+## 11. Combate, daño, heridas y recuperación
+
+**Estado: ACUERDO ESTABLECIDO — restauración corporal entre pisos.** Los detalles operativos de combate, lesiones y recuperación se desarrollan en los sistemas correspondientes.
+
+### 11.1. Recuperación durante un desafío
+
+- El Sistema de Recuperación dispone de una activación por participante en cada Piso Principal, renovada al entrar en el siguiente.
+- Durante un desafío, la activación puede curar lesiones tratables dentro de la capacidad del sistema, pero no regenera miembros amputados ni partes del cuerpo completamente perdidas.
+- Las heridas asociadas a una amputación pueden tratarse dentro de esa capacidad; la parte perdida no reaparece durante el desafío.
+- El tratamiento requiere reposo y condiciones adecuadas. No puede utilizarse durante un combate o mientras el participante se desplaza o realiza esfuerzos.
+
+### 11.2. Restauración al entrar en un Piso Principal
+
+- Al entrar en un nuevo Piso Principal, todo participante que siga vivo recibe una restauración corporal completa.
+- Esta restauración regenera miembros y partes del cuerpo perdidos durante desafíos anteriores y repara las lesiones y secuelas físicas sufridas en ellos.
+- La restauración no revive a los muertos ni revierte la muerte.
+- No elimina hambre, sed, falta de sueño, fatiga acumulada, enfermedades, venenos ni toxinas.
+- La restauración entre pisos es independiente de la activación de recuperación disponible para el nuevo desafío.
+
 ## Condición de uso
 
 No copiar automáticamente las reglas de UMBRAL. Cada regla debe revisarse para decidir si se conserva, modifica o descarta. No completar vacíos con suposiciones silenciosas.
