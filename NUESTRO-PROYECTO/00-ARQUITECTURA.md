@@ -1,4 +1,4 @@
-# 00 — Arquitectura documental
+# NEXUS — Arquitectura documental
 
 **Estado: APROBADA — arquitectura documental y responsabilidades.**
 
