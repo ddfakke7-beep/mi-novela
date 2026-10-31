@@ -351,3 +351,104 @@ La propuesta actual contiene **26 personajes nombrados**: Kevin y otros 18 perfi
 - Los convocados totales de cada piso incluirán muchos participantes que no necesitan nombre ni seguimiento persistente. No se debe convertir a todos los convocados en personajes recurrentes.
 
 **Estado de esta ampliación:** propuesta de planificación. No crea parties, amistades, enemistades, convocatorias ni acontecimientos dentro de la historia.
+
+## 18. Identidad en escena: voz, conducta y señales reconocibles
+
+Esta guía busca que los personajes puedan reconocerse por cómo hablan, reaccionan y se relacionan, no solo por sus nombres o especialidades. Son tendencias de interpretación, no muletillas obligatorias. Nadie debe repetir siempre el mismo gesto ni quedar reducido a una sola característica.
+
+| Personaje | Cómo suele expresarse | Señal de conducta reconocible | Evitar convertirlo en… |
+|---|---|---|---|
+| **Kevin** | Frases medidas; pregunta para confirmar lo que no entiende. Cuando gana confianza, explica su razonamiento en vez de fingir seguridad. | Mira primero qué opciones reales tiene y suele revisar el equipo antes de actuar. Bajo presión puede tardar en decidir. | Un estratega brillante desde el inicio, un cobarde permanente o el centro de todas las conversaciones. |
+| **Lucía** | Tono sereno y directo; hace preguntas concretas sobre dolor, respiración y estado antes de dar consejos. | Se fija en quién está quedándose atrás y ofrece ayuda práctica, pero puede negarse si ayudar pone a todos en peligro. | Una enfermera omnisciente que siempre sabe curarlo todo o la madre del grupo. |
+| **Tomás** | Habla con soltura, bromea para aliviar tensión y a veces interrumpe cuando se enciende. | Se adelanta para cubrir a alguien antes de pensar del todo; después puede reconocer que se precipitó. | Un bruto sin cabeza ni un héroe que siempre se sacrifica. |
+| **Mateo** | Respuestas cortas y concretas; no explica su pasado si nadie pregunta. | Observa rutas, suelo, vegetación y posibles refugios; prefiere demostrar antes que presumir. | Un guía experto capaz de resolver cualquier entorno natural. |
+| **Damián** | Habla poco y evita afirmaciones absolutas; suele distinguir lo que vio de lo que supone. | Se detiene a evaluar distancia, viento, cobertura y oportunidad antes de comprometerse. | Un francotirador infalible o alguien que nunca se equivoca al juzgar una presa. |
+| **Iván** | Tono frontal, competitivo; puede sonar desafiante incluso cuando no busca pelea. | Se tensa cuando alguien cuestiona su capacidad; le cuesta aceptar una retirada propuesta por otro. | Un antagonista malvado o un peleador que gana por tener más fuerza. |
+| **Sara** | Preguntas incisivas y observaciones concretas; no comparte confianza de inmediato. | Comprueba accesos, manos, posiciones y cambios de comportamiento; registra quién incumple acuerdos. | Una paranoica que siempre detecta traidores o una autoridad infalible. |
+| **Elisa** | Ironía seca, precisión verbal y comentarios que señalan la parte práctica que otros omitieron. | Ordena mentalmente tareas y detecta contradicciones; puede decir una verdad útil de manera poco diplomática. | Una genio que resuelve todo desde fuera del peligro o una máquina de sarcasmo. |
+| **Gabriel** | Explica con claridad y distribuye indicaciones breves; escucha antes de cerrar una decisión. | Comprueba que cada persona entendió su tarea y ajusta el reparto si alguien no puede cumplirla. | Un líder natural al que todos obedecen automáticamente. |
+| **Nuria** | Voz suave pero no infantil; suele hablar cuando tiene algo concreto que aportar. | Recuerda necesidades pequeñas de los demás y detecta agotamiento o tensión que pasa inadvertida. | Una figura pasiva que solo existe para cuidar o consolar. |
+| **Esteban** | Curioso, conversador cuando el tema le interesa; puede desviarse hacia detalles del entorno. | Se orienta con referencias espaciales y busca más de una ruta de salida. | Un explorador invulnerable que nunca se pierde. |
+| **Vera** | Habla con firmeza y pocas vueltas; su tono puede ser cálido fuera de una situación urgente. | Se coloca donde pueda sostener una posición o ayudar a mover a alguien; mide el esfuerzo del grupo. | Un muro humano que aguanta cualquier golpe sin consecuencias. |
+| **Marcos** | Rápido, expresivo y competitivo; a veces promete antes de calcular. | Se activa ante una oportunidad inmediata y necesita frenar para escuchar el contexto completo. | Un temerario incapaz de aprender o un velocista que resuelve cada pelea. |
+| **Alba** | Precisa, exigente y poco dada a adornar sus opiniones. | Corrige postura, distancia y ejecución; se irrita cuando alguien confunde confianza con técnica. | Una espadachina perfecta o una persona fría que no siente nada. |
+| **León** | Pocas palabras, respuestas firmes; rara vez presume de lo que puede hacer. | Mantiene el ritmo y cumple lo acordado; puede ocultar molestias para no interrumpir al equipo. | Un tanque silencioso sin vida interior ni límites físicos. |
+| **Inés** | Analítica y exigente; expresa riesgos en términos claros y puede sonar cortante. | Antes de aceptar un plan identifica puntos de fallo, retirada y recursos necesarios. | Una calculadora incapaz de empatía o alguien que siempre predice correctamente. |
+| **Rafael** | Descriptivo y paciente; explica qué señal encontró y qué interpretaciones admite. | Compara rastros recientes con el entorno y revisa sus hipótesis cuando aparecen datos nuevos. | Un rastreador mágico que conoce la ubicación de todo. |
+| **Claudia** | Técnica, sobria y específica al hablar de movimientos; no suele tolerar instrucciones vagas. | Repite o ajusta un gesto hasta que sale bien; ante caos puede insistir demasiado en la técnica conocida. | Una artista marcial invencible o una perfeccionista sin emociones. |
+| **Andrés** | Diplomático, formula propuestas y busca puntos de acuerdo sin hablar como un negociador profesional todo el tiempo. | Lee las reacciones y comprueba si la otra parte cumple lo pactado; puede tardar en aceptar que no hay trato posible. | Un manipulador omnisciente o alguien que puede convencer a cualquiera. |
+| **Pilar** | Directa y práctica; pregunta cuánto pesa, cuánto queda y qué se necesita transportar. | Ordena recursos y detecta cargas inútiles o mal repartidas. | Una inventarista que sabe exactamente cuánto material habrá en cualquier sitio. |
+| **Bruno** | Tranquilo, concreto y centrado en cómo funciona algo. | Examina uniones, desgaste, herramientas y daños antes de tocar una estructura. | Un ingeniero experto capaz de reparar cualquier mecanismo. |
+| **Maia** | Conversadora y adaptable; cambia el tono según con quién habla sin fingir ser otra persona. | Recuerda nombres, transmite mensajes con claridad y percibe cuándo una conversación se está torciendo. | Una manipuladora social que lee pensamientos. |
+| **Joel** | Pocas palabras, tono estable; prefiere ofrecerse para una tarea física concreta. | Comprueba agarres, peso y posición antes de levantar o sostener algo. | Un gigante torpe o una fuerza bruta sin criterio. |
+| **Renata** | Habla de forma constante y sobria; no dramatiza el cansancio, pero tampoco lo niega. | Administra el ritmo, propone pausas y nota cuándo alguien está gastando demasiado pronto. | Una atleta con resistencia infinita. |
+| **Nadia** | Reservada y precisa; describe apoyos, alturas y movimientos con naturalidad. | Busca puntos de agarre y evalúa si una ruta vertical es realmente segura. | Una acróbata que puede escalar cualquier superficie. |
+| **Simón** | Reflexivo y conciso; prefiere explicar por qué considera viable un disparo. | Revisa estabilidad, respiración, distancia y condiciones antes de usar el arco. | Un arquero infalible o alguien que domina automáticamente el combate real. |
+
+### Reglas de interpretación compartidas
+
+- Los rasgos anteriores deben aparecer de manera variable y contextual. No convertirlos en una lista de gestos que se repite en cada escena.
+- Los personajes pueden hablar distinto cuando están cansados, heridos, asustados, enfadados o tratando con alguien de confianza.
+- La voz no debe sustituir a la personalidad: dos personajes pueden ser lacónicos por motivos distintos y deben seguir sintiéndose diferentes.
+- Los diálogos deben incluir desacuerdos, silencios, malentendidos y conversaciones cotidianas; no todos deben hablar únicamente de estrategia o del desafío.
+- El humor puede aparecer incluso en situaciones tensas, pero no debe borrar las consecuencias del peligro.
+- Ningún personaje debe explicar al lector información que él mismo desconoce solo para hacer exposición.
+
+## 19. Jerarquía de seguimiento y criterio de mortalidad del elenco
+
+La propuesta de 26 nombres no significa que todos tengan protección narrativa, pero tampoco constituye una lista de víctimas que deban sacrificarse para demostrar que NEXUS es peligroso.
+
+### Niveles de seguimiento
+
+| Nivel | Personajes o criterio | Tratamiento |
+|---|---|---|
+| **Núcleo de continuidad** | Kevin y los personajes cuya trayectoria se vuelva central por decisiones y consecuencias | Seguimiento detallado, evolución gradual y reapariciones planificadas con flexibilidad. Su importancia no garantiza supervivencia. |
+| **Recurrentes de trayectoria** | Personajes que desarrollen relaciones, objetivos o aportes relevantes a lo largo de varios pisos | Seguimiento individual proporcional. Pueden ausentarse, cambiar de alianza, reaparecer o morir si la historia lo justifica. |
+| **Secundarios con potencial** | Personajes nombrados que todavía no hayan demostrado que necesitan continuidad prolongada | Mantener una base de identidad y ampliar su ficha cuando adquieran peso real. No forzar su presencia en todos los pisos. |
+| **Participantes episódicos** | Convocados creados para un piso, miembros de otros grupos y personas que solo cruzan una parte de la historia | Pueden tener nombre, relaciones y momentos propios si la narración lo necesita, pero no requieren convertirse en recurrentes. |
+
+La clasificación es dinámica. Un personaje secundario puede ganar importancia y uno recurrente puede dejar de aparecer. No se debe decidir su destino solo por el nivel de seguimiento.
+
+### Criterio de muertes
+
+- La expectativa de planificación es que **una parte pequeña del elenco nombrado y desarrollado sobreviva a las primeras etapas sin sufrir una mortalidad masiva entre sus integrantes**. No se fija un número de supervivientes ni una cuota de muertes.
+- La mayoría de las bajas de un piso puede recaer en participantes episódicos, integrantes de grupos ajenos al núcleo y personajes introducidos para ese desafío. Esas personas no deben ser tratados como extras desechables: sus decisiones, vínculos y pérdidas pueden tener peso.
+- Los personajes del elenco global no tienen inmunidad. Si uno muere, debe existir una causa concreta y una secuencia comprensible: exposición al peligro, decisión, error, sacrificio, falta de recursos o circunstancias que lo hagan posible.
+- No matar a alguien únicamente para sorprender, aumentar una cifra o motivar a Kevin. Una muerte importante debe cambiar relaciones, decisiones, reputaciones o la forma en que otros afrontan el peligro.
+- Tampoco salvar automáticamente a alguien por ser querido, útil o recurrente. Si una situación establecida hace inevitable su muerte y no existe una salida coherente, debe respetarse.
+- Evitar muertes gratuitas en cadena. Dar espacio a consecuencias, duelo, culpa, alivio, desacuerdos y cambios prácticos, sin convertir cada muerte en un largo discurso.
+- La ausencia de un personaje no significa que haya muerto. No confirmar una muerte sin evidencia narrativa suficiente.
+- Las bajas de otros grupos permiten mostrar que el mundo es más amplio que Kevin, pero no deben usarse como estadísticas anónimas. Cuando una persona ajena al núcleo afecte la historia, darle identidad y motivaciones suficientes para que su destino importe.
+- La supervivencia tampoco equivale a protagonismo. Algunos personajes pueden permanecer vivos y, aun así, tener poca presencia durante varios pisos.
+
+**Dirección deseada:** construir una red de personajes que el lector pueda reconocer y echar de menos, sin convertir el elenco en una lista de supervivientes garantizados ni en una carnicería programada.
+
+## 20. Diferenciación de funciones y prevención de redundancias
+
+Las especialidades pueden solaparse, pero los personajes no deben resolver el mismo problema de la misma manera. Esta matriz ayuda a preservar diferencias:
+
+- **Orientación y terreno:** Mateo aporta experiencia rural básica y cautela; Esteban destaca por orientación y lectura espacial; Rafael interpreta rastros y señales de actividad. No son tres rastreadores equivalentes.
+- **Combate físico:** Tomás se apoya en boxeo y protección impulsiva; Iván en kickboxing y competitividad; Marcos en explosividad y precipitación; León en lucha, control corporal y constancia; Claudia en técnica marcial y precisión. Sus estilos y límites deben notarse.
+- **Armas a distancia:** Damián tiene práctica recreativa con arco y criterio de caza; Simón posee una base más técnica de tiro deportivo. Ninguno es infalible ni domina automáticamente situaciones de combate.
+- **Apoyo y cuidado:** Lucía tiene formación de auxiliar de enfermería; Nuria posee primeros auxilios básicos y atención voluntaria. Lucía puede tener mayor base técnica inicial, mientras Nuria destaca por observación y acompañamiento; no duplicar sus funciones sin matices.
+- **Coordinación y lectura de personas:** Gabriel organiza tareas y equipos; Elisa detecta errores operativos; Maia transmite información y percibe tensiones; Andrés negocia acuerdos. Pueden colaborar, pero no son cuatro líderes intercambiables.
+- **Resistencia y defensa:** Vera tiene experiencia física y disposición protectora; Joel aporta manejo de cargas y fuerza funcional; Renata dosifica esfuerzo prolongado. Ninguno debe ser tratado como una pared invulnerable.
+- **Precisión y evaluación:** Alba aplica técnica de esgrima deportiva; Inés evalúa riesgos y condiciones de rescate; Sara vigila accesos y conductas. Su atención se dirige a problemas diferentes.
+- **Apoyo material:** Pilar organiza cargas y recursos; Bruno reconoce fallos de mantenimiento y estructuras; sus conocimientos no se convertirán en ingeniería, fabricación o reparación avanzada sin aprendizaje adicional.
+
+Si una escena parece poder resolverse igual con cualquiera de dos personajes, revisar qué sabe cada uno, qué le importa, cómo interpreta el riesgo y qué limitaciones tiene. La diferencia no debe ser solo estética: debe afectar a sus decisiones.
+
+## 21. Puerta de entrada al diseño del Piso 1
+
+El elenco se considerará suficientemente preparado para iniciar el diseño del Piso 1 cuando se hayan completado estas comprobaciones:
+
+1. Revisar que los 26 perfiles no contradigan las reglas de progresión, combate y experiencia.
+2. Marcar como **núcleo previsto**, **recurrente potencial**, **secundario potencial** o **episódico** a cada personaje; la etiqueta no determina su destino.
+3. Elegir una composición de convocatoria para el Piso 1 compatible con el rango global previsto y con la presentación gradual del elenco.
+4. Determinar qué personajes están presentes desde el comienzo y cuáles no deben introducirse todavía.
+5. Comprobar que la party inicial no se dé por formada antes de la invitación y aceptación expresa.
+6. Mantener a los personajes de pisos posteriores fuera del Piso 1 salvo que el diseño global y la convocatoria lo justifiquen.
+7. Crear fichas individuales únicamente para quienes vayan a tener relevancia suficiente, usando los datos de este documento como base y sin inventar acontecimientos previos.
+8. Iniciar el diseño integral del Piso 1 en el archivo de diseño correspondiente, incluyendo Piso Principal, 24 horas de preparación, desafío general, área, amenazas, etapas, condición de superación, plazo si corresponde, fracaso y salida.
+
+**Resultado esperado:** no es necesario desarrollar infinitamente el elenco antes de comenzar la historia. La meta es contar con diferencias claras, suficiente material para sostener decisiones y una estructura de seguimiento que permita ampliar personajes conforme se vuelvan importantes. Al llegar a este punto, se pasa al diseño del Piso 1 en lugar de seguir añadiendo biografías indefinidamente.
