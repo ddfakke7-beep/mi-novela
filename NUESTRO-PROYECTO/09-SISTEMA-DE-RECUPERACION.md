@@ -23,13 +23,13 @@ La activación pertenece al participante. No depende de que forme parte de un gr
 
 ## 3. Condiciones de uso y duración
 
-Para activar el sistema, el participante debe encontrar un lugar suficientemente apartado y seguro para permanecer quieto y descansar durante el tratamiento.
+Para activar el sistema, el participante debe encontrar un lugar donde pueda permanecer quieto y descansar durante el tratamiento. El Sistema no evalúa, identifica ni garantiza que un área sea segura: esa valoración corresponde a los propios participantes, según lo que sepan del entorno y las amenazas presentes. Pueden reunirse, organizar turnos de vigilancia, hacer guardia mientras otros descansan o adoptar cualquier otra medida que tenga sentido en las circunstancias. La decisión y sus riesgos son de ellos.
 
 La duración orientativa es de **10 a 20 minutos**, según la gravedad, extensión y complejidad de las lesiones que se estén tratando:
 
 - Lesiones leves: alrededor de 10 minutos.
 - Lesiones moderadas: un tiempo intermedio.
-- Lesiones graves: hasta alrededor de 20 minutos, siempre que estén dentro de la capacidad del sistema.
+- Lesiones graves: hasta alrededor de 20 minutos.
 
 No se establece una duración idéntica para todos los casos. El sistema determina el tiempo necesario según las lesiones presentes; el intervalo no debe convertirse en una espera artificial ni en una regla que obligue a consumir siempre veinte minutos.
 
@@ -37,7 +37,7 @@ Durante el tratamiento, el participante debe permanecer en reposo y no puede com
 
 ## 4. Efecto de la recuperación durante los desafíos
 
-Cuando el tratamiento termina correctamente, el Sistema de Recuperación cura por completo las lesiones físicas que estén dentro de su capacidad, incluidas heridas, daños musculares, esguinces, fracturas y lesiones internas tratables.
+Cuando el tratamiento termina correctamente, el Sistema de Recuperación cura por completo las lesiones físicas, incluso si son extremadamente graves, incluidas heridas profundas, daños musculares, esguinces, fracturas y lesiones internas. No hay una categoría de lesión física demasiado grave para el tratamiento. La excepción es la regeneración de partes del cuerpo completamente perdidas, que no ocurre durante un desafío.
 
 La recuperación no se limita a reducir el dolor: repara el daño físico correspondiente. Tampoco concede una mejora por encima de la condición que el participante tenía antes de lesionarse.
 
@@ -57,7 +57,7 @@ Al completar la transición y entrar en un nuevo Piso Principal, todo participan
 Esta restauración:
 - Regenera miembros amputados y partes del cuerpo perdidas durante desafíos anteriores.
 - Repara daños físicos permanentes sufridos durante esos desafíos.
-- Elimina las lesiones y secuelas corporales que se encuentren dentro de la restauración del Sistema.
+- Elimina las lesiones y secuelas corporales, incluso las más graves, y restaura la integridad física previa del participante.
 - Devuelve al participante su integridad corporal, sin concederle capacidades físicas superiores a las que tenía antes de sufrir esos daños.
 
 La restauración ocurre por el hecho de entrar en el nuevo Piso Principal; no consume la activación de recuperación que corresponde a ese piso. Esa activación queda disponible para tratar lesiones que el participante pueda sufrir durante el nuevo desafío.
