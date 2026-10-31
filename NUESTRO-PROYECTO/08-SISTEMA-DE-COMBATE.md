@@ -106,7 +106,7 @@ La selección se realiza entre las opciones realmente disponibles. El catálogo,
 
 Cada participante puede escoger según su experiencia, capacidades, preferencias y forma de combatir. Puede conservar equipo que ya tenga, sustituirlo o añadir elementos cuando el Sistema lo permita. La elección no elimina las limitaciones prácticas: peso, volumen, movilidad, protección, compatibilidad y manos ocupadas deben tenerse en cuenta.
 
-El registro debe reflejar el equipo que el personaje lleva realmente, no solo lo que eligió en una pantalla. Los cambios, pérdidas, daños o abandonos se actualizan en la continuidad cuando ocurran. El equipo obtenido como recompensa se gestiona mediante el Sistema de Recompensas; no se confunde con la dotación ofrecida por el Sistema de Combate.
+El registro debe reflejar el equipo que el personaje lleva realmente, no solo lo que eligió en una pantalla. Los cambios, pérdidas, daños o abandonos se actualizan en la continuidad cuando ocurran. La dotación ordinaria de armas, protecciones y equipo corresponde a este sistema y no se duplica como recompensa por completar un piso.
 
 ## 9. Relación con las fichas y la interfaz
 
