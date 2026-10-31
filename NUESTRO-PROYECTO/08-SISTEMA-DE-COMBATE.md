@@ -90,7 +90,23 @@ En cada revisión se comprueba qué técnicas utilizó cada personaje y en qué 
 
 El resultado puede ser una mejora, el inicio de un aprendizaje, la permanencia del estado actual o la identificación de una limitación. No hay una cuota obligatoria de avances, pero tampoco se mantiene una ficha desactualizada cuando la historia ya demuestra una mejora.
 
-## 8. Relación con las fichas y la interfaz
+
+## 8. Dotación y elección de equipo
+
+El Sistema de Combate también permite consultar y elegir el equipo de combate que el Sistema pone a disposición de los participantes. Esta función es independiente del registro de dominio: recibir o elegir un arma no concede conocimientos para utilizarla.
+
+La dotación puede incluir:
+- **Armas:** una principal y, cuando la oferta lo permita, armas secundarias o alternativas.
+- **Protecciones:** armaduras y protecciones específicas para distintas partes del cuerpo.
+- **Equipo complementario:** elementos útiles para combatir o desenvolverse durante el desafío, cuando estén incluidos en la oferta.
+
+La selección se realiza entre las opciones realmente disponibles. El catálogo, las cantidades y las condiciones pueden variar; no se presupone que todos los pisos ofrezcan el mismo equipo ni que exista una opción ilimitada.
+
+Cada participante puede escoger según su experiencia, capacidades, preferencias y forma de combatir. Puede conservar equipo que ya tenga, sustituirlo o añadir elementos cuando el Sistema lo permita. La elección no elimina las limitaciones prácticas: peso, volumen, movilidad, protección, compatibilidad y manos ocupadas deben tenerse en cuenta.
+
+El registro debe reflejar el equipo que el personaje lleva realmente, no solo lo que eligió en una pantalla. Los cambios, pérdidas, daños o abandonos se actualizan en la continuidad cuando ocurran. El equipo obtenido como recompensa se gestiona mediante el Sistema de Recompensas; no se confunde con la dotación ofrecida por el Sistema de Combate.
+
+## 9. Relación con las fichas y la interfaz
 
 La ficha individual del personaje es la fuente de su estado vigente: disciplinas, rangos, técnicas, estados de aprendizaje y limitaciones. El historial de continuidad conserva los acontecimientos que justifican los cambios. Este documento establece el método común de evaluación.
 
