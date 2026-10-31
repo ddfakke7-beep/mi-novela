@@ -1,6 +1,6 @@
 # 07 — Sistema de progresión
 
-**Estado: propuesta revisada — incorpora acuerdos establecidos; pendiente de aprobación formal del documento.**
+**Estado: APROBADO — sistema de progresión.**
 
 ## Propósito
 
