@@ -13,11 +13,12 @@ El trabajo se realiza en este orden:
 5. A partir de esa estructura, determinar qué personajes y grupos hacen falta, introducir el elenco progresivamente y definir el seguimiento de quienes adquieran relevancia.
 6. Diseñar cada piso completo, incluido su Piso Principal, el área concreta del desafío, sus zonas o sectores, etapas, tiempos, amenazas, recursos y transiciones.
 7. Revisar contradicciones, continuidad, variedad y progresión.
-8. Obtener aprobación del diseño del piso.
-9. Recibir el TXT del usuario como material de entrada para desarrollar narrativamente el piso. El TXT puede contener el escenario, los acontecimientos, las acciones o los puntos que el usuario quiere convertir en narrativa; no se publica ni se incorpora automáticamente al canon por el mero hecho de recibirlo.
-10. Desarrollar el piso completo respetando su diseño aprobado, las reglas y la continuidad. El asistente puede resolver los detalles narrativos ordinarios sin pedir autorización por cada diálogo, movimiento o decisión menor.
-11. Presentar el piso desarrollado completo para revisión y aprobación del usuario.
-12. Una vez aprobado el piso completo, ejecutar inmediatamente el cierre documental descrito en la sección 7 y verificar los cambios realizados.
+8. Recibir el TXT del usuario como material de entrada para crear el diseño del piso. El TXT puede contener la idea, escenario, mecánicas, acontecimientos previstos, amenazas, objetivos, escenas o cualquier otro material inicial.
+9. Consultar las reglas, continuidad, arco global y demás documentos pertinentes; contrastar el TXT y preparar el diseño completo del piso en su archivo `PISOS/piso-XX/diseño.html`.
+10. Presentar el diseño para revisión. Ajustarlo según las indicaciones del usuario hasta obtener su aprobación. El TXT por sí solo no es el diseño aprobado ni se incorpora automáticamente al canon.
+11. Con el diseño aprobado, desarrollar narrativamente el piso completo respetando ese diseño, las reglas y la continuidad. El asistente puede resolver los detalles narrativos ordinarios sin pedir autorización por cada diálogo, movimiento o decisión menor.
+12. Presentar el piso narrativo completo para revisión y aprobación del usuario.
+13. Una vez aprobado el piso narrativo completo, ejecutar inmediatamente el cierre documental descrito en la sección 7 y verificar los cambios realizados.
 
 No comenzar la narración de un piso cuyo diseño todavía no haya sido aprobado.
 
@@ -37,21 +38,24 @@ Cada piso se diseña como una experiencia completa antes de escribir sus escenas
 
 El diseño aprobado es la referencia obligatoria de estructura. No se omiten, reordenan ni sustituyen etapas por conveniencia narrativa.
 
-## 3. TXT del usuario y desarrollo narrativo
+## 3. TXT del usuario y creación del diseño
 
-El TXT que el usuario entrega es el material de entrada para desarrollar el piso. Debe tratarse como la intención y base narrativa que el usuario quiere convertir en una versión desarrollada, no como un texto que deba copiarse sin elaboración ni como un archivo que deba subirse al repositorio.
+El TXT que entrega el usuario es el punto de partida para **crear el diseño del piso**. No debe interpretarse como un capítulo narrativo ya escrito ni como instrucciones para saltarse la fase de diseño.
 
-Antes de desarrollarlo:
-- consultar el diseño aprobado del piso y los documentos de canon pertinentes;
-- identificar qué hechos, acciones, diálogos, resultados o detalles del TXT deben conservarse;
-- detectar contradicciones con el diseño, las reglas o la continuidad;
-- distinguir los datos que el TXT establece de los detalles que todavía pueden desarrollarse creativamente.
+El procedimiento es:
+- consultar las fuentes vigentes de canon, el arco global y el método de trabajo;
+- leer el TXT completo e identificar su idea central, escenario, objetivo, amenazas, mecánicas, acontecimientos previstos, personajes, recursos y cualquier condición que el usuario haya establecido;
+- contrastar ese material con las reglas del mundo, la continuidad y la función prevista del piso;
+- convertirlo en un diseño integral, coherente y jugable/narrativamente desarrollable;
+- completar los apartados necesarios que el TXT no detalle, sin contradecir su intención ni inventar reglas generales;
+- registrar el diseño en `PISOS/piso-XX/diseño.html` y presentarlo al usuario para revisión;
+- corregirlo y ampliarlo hasta que el usuario lo apruebe.
 
-El desarrollo debe conservar el contenido esencial del TXT y enriquecerlo con narración, transiciones, diálogos, reacciones, contexto y detalles coherentes. No debe cambiar silenciosamente resultados, decisiones importantes, participantes, condiciones del desafío ni consecuencias establecidas por el usuario.
+El TXT es material de entrada, no canon automático. Los elementos nuevos propuestos durante el diseño tampoco se convierten en canon por aparecer en un borrador. Si existe una contradicción importante con una fuente aprobada, explicar el conflicto y detener la parte afectada antes de fijarla en el diseño.
 
-Si el TXT contiene una contradicción importante con una fuente aprobada, detener únicamente la parte afectada y explicar el conflicto antes de convertirla en un hecho narrativo. No resolver una contradicción de canon por cuenta propia.
+**Solo después de aprobar el diseño** se pasa a desarrollar la narración completa del piso. Esa narración debe respetar el diseño aprobado y las fuentes vigentes. El usuario puede aportar material narrativo adicional durante esa fase, pero no debe confundirse con el TXT inicial destinado a diseñar el piso.
 
-El TXT y los borradores permanecen como material de trabajo. No se incorporan al historial oficial ni se suben como texto narrativo completo al repositorio de canon.
+Ni el TXT inicial ni los borradores se incorporan automáticamente al historial oficial. El diseño aprobado sí se conserva en su archivo correspondiente. El texto narrativo completo se mantiene separado de los documentos internos de canon.
 
 ## 4. Libertad creativa y límites
 
@@ -73,8 +77,9 @@ Si detecta que un cambio estructural mejoraría el piso, debe explicar el proble
 Un diseño o tramo narrativo escrito no se convierte automáticamente en canon. El usuario decide su aprobación.
 
 - Diseño aprobado: fija la estructura que debe respetarse.
-- TXT recibido: material de entrada, todavía no canon por sí mismo.
-- Desarrollo narrativo presentado: borrador hasta que el usuario apruebe el piso.
+- TXT recibido: material de entrada para elaborar el diseño; todavía no es diseño aprobado ni canon por sí mismo.
+- Diseño elaborado: propuesta que se guarda y revisa; solo fija la estructura cuando el usuario lo aprueba.
+- Desarrollo narrativo presentado: borrador basado en el diseño aprobado hasta que el usuario apruebe el piso.
 - Piso completo aprobado: sus acontecimientos pasan a formar parte del canon y habilitan el cierre documental.
 - Propuesta o borrador: puede revisarse libremente, pero no presentarse como hecho confirmado.
 
