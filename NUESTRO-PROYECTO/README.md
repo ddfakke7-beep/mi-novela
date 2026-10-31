@@ -1,8 +1,8 @@
-# Nuestro proyecto nuevo
+# NEXUS
 
 <estado>EN CONSTRUCCIÓN — NO ES CANON TODAVÍA</estado>
 
-Este proyecto toma como inspiración y punto de comparación la experiencia de desarrollo de UMBRAL, pero será una obra independiente en su continuidad. No hereda automáticamente personajes, acontecimientos, reglas específicas, estadísticas, pisos ni decisiones de UMBRAL.
+NEXUS toma como inspiración y punto de comparación la experiencia de desarrollo de UMBRAL, pero será una obra independiente en su continuidad. No hereda automáticamente personajes, acontecimientos, reglas específicas, estadísticas, pisos ni decisiones de UMBRAL.
 
 ## Objetivo de esta etapa
 
@@ -22,7 +22,7 @@ Cada piso plantea un único desafío general integrado. Puede desarrollarse medi
 
 ## Fuentes
 
-- `../UMBRAL/` es material de referencia histórica y creativa, no autoridad automática para este proyecto.
-- Los documentos de esta carpeta serán la única fuente de canon del proyecto nuevo cuando sus decisiones sean aprobadas.
+- `../UMBRAL/` es material de referencia histórica y creativa, no autoridad automática para NEXUS.
+- Los documentos de esta carpeta serán la única fuente de canon de NEXUS cuando sus decisiones sean aprobadas.
 
 Hasta que una sección o diseño sea aprobado, debe identificarse como propuesta o borrador y no utilizarse como hecho establecido en la narración.
