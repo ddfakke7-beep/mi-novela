@@ -46,7 +46,7 @@ Este documento será la única fuente normativa general del proyecto. No debe co
 - Si forman parte de una party reconocida y entran al desafío juntos, aparecen en el mismo punto de partida. Los participantes que no estén agrupados de ese modo aparecen en puntos distintos.
 - El Sistema informa cuántos participantes han sido convocados y cuál es la condición u objetivo general que deben cumplir.
 - Los participantes pueden encontrarse durante el desafío, cooperar o actuar por separado.
-- Coincidir y superar un desafío junto a otros no garantiza que esos mismos participantes sean convocados juntos en el piso siguiente. El Sistema vuelve a decidir las convocatorias en cada piso.
+- Cuando el Sistema convoca a una party, sus integrantes son convocados conjuntamente y permanecen juntos para afrontar el desafío. La party permite que sus miembros avancen unidos entre pisos mientras sigan perteneciendo a ella; los participantes que no formen parte de una party pueden ser convocados por separado.
 
 ### 1.3. Información del desafío
 
@@ -101,7 +101,7 @@ La escalada debe hacer el desafío mucho más difícil y puede provocar muertes 
 
 ### 2.1. Selección y convocatoria
 
-- El Sistema decide qué participantes convoca para cada desafío y cuántos serán.
+- El Sistema decide qué participantes convoca para cada desafío y cuántos serán. Cuando selecciona a una party, la convoca como grupo, manteniendo juntos a sus integrantes.
 - Los participantes no conocen los motivos ni los criterios que utiliza el Sistema para seleccionarlos.
 - Tampoco conocen el propósito último del Sistema. Por lo que experimentan, saben que los convoca y los somete a desafíos que deben superar.
 - No se presupone que los participantes puedan influir en la selección ni que exista una explicación accesible para ellos.
@@ -208,6 +208,16 @@ El documento 07 — Sistema de Progresión establece cómo revisar y registrar e
 
 El documento 07 establece el seguimiento general del aprendizaje; el documento 08 es propietario del dominio técnico de combate; el documento 10 administra las guías y oportunidades de aprendizaje ofrecidas como recompensa.
 
+## 10. Criaturas, amenazas y catálogo
+
+**Estado: definición por piso.**
+
+- Cada diseño de piso determina qué criaturas y amenazas aparecen, su función en el desafío, comportamiento, capacidades, peligros y condiciones de encuentro.
+- El catálogo de criaturas es acumulativo y se actualiza conforme se diseñan y aprueban los pisos. No es necesario definirlo entero antes de comenzar.
+- Las criaturas nuevas se incorporan al catálogo con la información que se haya establecido: rasgos observados, comportamiento, capacidades demostradas y datos todavía desconocidos.
+- La información del catálogo no implica que todos los participantes conozcan esas criaturas. El conocimiento individual depende de su experiencia, formación y de lo que hayan descubierto.
+- No se asignan características, debilidades ni comportamientos a una criatura solo por parecerse a otra ya registrada; cada caso debe estar sustentado por el diseño y los hechos narrativos.
+
 ## 11. Combate, daño, heridas y recuperación
 
 **Estado: ACUERDOS ESTABLECIDOS — restauración corporal entre pisos y consecuencias físicas coherentes.** Los detalles de tratamiento se desarrollan en el Sistema de Recuperación.
@@ -247,7 +257,7 @@ El documento 07 establece el seguimiento general del aprendizaje; el documento 0
 - Cualquier integrante puede abandonar la party cuando quiera. Al hacerlo, deja de formar parte del grupo reconocido.
 - La ventaja principal de una party es que sus integrantes pueden coincidir juntos en los Pisos Principales y entrar al desafío desde el mismo punto de partida.
 - Los participantes que no formen parte de una party que entre junta aparecen en puntos distintos del área del desafío.
-- La party no garantiza que el Sistema convoque a sus integrantes juntos en el siguiente piso. La selección de participantes sigue correspondiendo al Sistema.
+- Cuando el Sistema convoca a una party, convoca conjuntamente a sus integrantes. Mientras mantengan la party, pueden avanzar juntos entre pisos y afrontar los desafíos desde el mismo punto de partida.
 - Formar una party no concede por sí solo habilidades, estadísticas, protección ni ventajas automáticas durante el combate. La coordinación y los beneficios prácticos dependen de sus integrantes y decisiones.
 
 ## Condición de uso
