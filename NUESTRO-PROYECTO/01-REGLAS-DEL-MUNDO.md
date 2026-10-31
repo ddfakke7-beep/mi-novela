@@ -1,6 +1,6 @@
 # 01 — Reglas del mundo y del Sistema
 
-**Estado: EN DISEÑO.** Los puntos 1, 2, 3, 5, 6, 8 y 11 contienen acuerdos establecidos o iniciales; los demás apartados siguen pendientes. No usar como conjunto normativo completo hasta que las reglas estén diseñadas y aprobadas.
+**Estado: EN CONSOLIDACIÓN.** Los acuerdos ya establecidos en este documento y en los sistemas complementarios se consideran aprobados en su contenido actual. Permanecen pendientes únicamente los apartados normativos que todavía no están desarrollados o cuya definición dependa del diseño de los pisos. No interpretar esos vacíos como autorización para inventar reglas.
 
 Este documento será la única fuente normativa general del proyecto. No debe convertirse en una mezcla de reglas, instrucciones narrativas, fichas de personajes y resúmenes de continuidad.
 
@@ -67,8 +67,11 @@ Cada participante puede abrir su propia ventana de estado con solo pensarlo y co
 
 - El periodo general de preparación en el Piso Principal es de **24 horas para todos los participantes convocados**. Ese tiempo permite descansar, dormir, practicar, preparar equipo, conocerse e intercambiar información.
 - El desafío puede tener un plazo propio, definido en el diseño del piso según su objetivo y dificultad. Debe ser razonable, suficiente para completar la prueba y comunicado antes de comenzar; no está pensado para obligar a los participantes a vivir en el área del desafío.
-- Si vence el plazo y los participantes siguen dentro del área, las criaturas pueden detectarlos y darles caza hasta eliminarlos. La salida permanece abierta: el peligro consiste en conseguir llegar a ella y escapar. No es una muerte instantánea activada por el reloj, sino una amenaza física que deben evitar abandonando el área.
-- El plazo debe plantearse de modo que esta situación extrema no sea lo habitual ni una dificultad artificial añadida. Las consecuencias de otros tipos de fracaso siguen definiéndose específicamente en el diseño aprobado de cada piso.
+- Si vence el plazo sin que se haya cumplido el objetivo general, el desafío se cierra por **fracaso**, no se considera superado. Se activa la fase de consecuencias: las criaturas detectan y persiguen a los participantes que permanezcan dentro del área, con intención de eliminarlos.
+- Al producirse ese fracaso, la salida queda bloqueada temporalmente durante el periodo que se haya establecido para el piso. El bloqueo ocurre aunque el desafío ya haya terminado por vencimiento del plazo; su función es impedir que los participantes esperen junto a la salida y la utilicen inmediatamente después de fallar.
+- Cuando termina el periodo de bloqueo, la salida vuelve a estar disponible para cualquier participante que consiga alcanzarla. No hay una prioridad de salida por haber cumplido antes una parte del objetivo ni por haber llegado antes a sus inmediaciones.
+- Los participantes que sigan dentro durante esta fase deben sobrevivir a la persecución y llegar a la salida cuando vuelva a estar disponible. No hay muerte automática por el reloj, pero este desenlace es extremadamente peligroso y puede causar numerosas muertes. El plazo debe ser razonable para que no sea el resultado habitual ni una dificultad artificial añadida.
+- Las consecuencias de otros tipos de fracaso, distintos del vencimiento del plazo, siguen definiéndose específicamente en el diseño aprobado de cada piso.
 
 ### 1.5. Cooperación y superación común
 
@@ -83,18 +86,20 @@ Cada participante puede abrir su propia ventana de estado con solo pensarlo y co
 - Superar el desafío y alcanzar físicamente la salida son condiciones distintas.
 - Cuando se cumple la condición general, todos los participantes convocados han superado el desafío, pero eso no los transporta automáticamente ni los coloca en la salida.
 - Después de la superación, deben desplazarse por el piso, encontrar la salida y llegar físicamente hasta ella.
+- Si el plazo vence sin superar el desafío, se aplica el procedimiento de fracaso y bloqueo temporal descrito en el apartado 1.4; una vez desbloqueada, la misma salida permite la transición a quienes consigan alcanzarla.
 - Todos deben utilizar esa misma salida para realizar la transición al siguiente piso.
 
-### 1.7. Fracaso y consecuencias pendientes
+### 1.7. Fracaso y consecuencias
 
-Las consecuencias del fracaso no son una penalización universal. **El diseño de cada piso debe definirlas antes de ser aprobado**, de acuerdo con su objetivo y sus condiciones. El Sistema concede un plazo razonable para el desafío, definido en el diseño del piso; si el objetivo no se cumple dentro de ese plazo, las condiciones pueden agravarse de forma importante y coherente con lo que está en juego.
+El fracaso no tiene una penalización universal. El diseño de cada piso debe establecer qué otras consecuencias pueden activarse por fallar condiciones particulares del desafío, además de las reglas generales del vencimiento del plazo.
 
-Ejemplos posibles, no reglas automáticas:
+El vencimiento del plazo tiene una consecuencia general ya establecida en el apartado 1.4: el desafío se cierra por fracaso, las criaturas persiguen a quienes permanezcan dentro y la salida queda bloqueada temporalmente. Al terminar ese bloqueo, cualquier participante puede utilizar la salida si consigue alcanzarla.
+
+Otros tipos de fracaso pueden producir consecuencias propias del objetivo y del escenario. Por ejemplo:
 - Si el objetivo es transportar y proteger una carga, un daño excesivo o la pérdida de la carga puede hacer que las criaturas dejen de perseguirla y pasen a atacar directamente a los participantes con mayor agresividad.
-- Si el objetivo es conquistar una fortaleza, el fracaso puede activar refuerzos, contraataques, cierre de rutas u otras consecuencias propias de esa situación.
-- El diseño puede establecer que la salida se habilite, pero permanezca bloqueada durante un periodo concreto —por ejemplo, 30 minutos— mientras continúan las oleadas o amenazas. Los participantes tendrían que sobrevivir hasta que puedan atravesarla.
+- Si el objetivo es conquistar una fortaleza, el fracaso de una condición importante puede activar refuerzos, contraataques, cierre de rutas u otras consecuencias coherentes con esa situación.
 
-La escalada debe hacer el desafío mucho más difícil y puede provocar muertes o la eliminación de grupos, pero no equivale a una ejecución instantánea ni garantiza que todos mueran. Las consecuencias concretas, sus condiciones de activación y su duración deben figurar en el diseño aprobado del piso. No añadir castigos que el diseño no haya establecido.
+Estas consecuencias adicionales no sustituyen ni modifican automáticamente la regla general del vencimiento del plazo. Sus condiciones de activación, alcance y duración deben figurar en el diseño aprobado del piso. No añadir castigos que el diseño no haya establecido.
 
 ## 2. Participantes, entrada, salida y condiciones de supervivencia
 
@@ -155,8 +160,9 @@ La escalada debe hacer el desafío mucho más difícil y puede provocar muertes 
 - No todos los pisos necesitan la misma cantidad de etapas ni una estructura fija.
 - Todos disponen de 24 horas de preparación en el Piso Principal antes de comenzar el desafío.
 - El diseño de cada piso establece si el desafío tiene un tiempo límite y cuánto dura. El plazo debe ser razonable, suficiente para cumplir el objetivo y comunicarse claramente; su función es evitar que los participantes permanezcan indefinidamente en el área.
-- Si el plazo vence mientras siguen dentro, las criaturas pueden detectarlos y perseguirlos para eliminarlos. La salida no se cierra por ese motivo: permanece abierta, pero llegar hasta ella se vuelve peligroso. El plazo no debe ajustarse para que este desenlace sea habitual.
-- Cualquier otra consecuencia por incumplir el objetivo debe diseñarse para ese piso y aprobarse con él; no se añade una penalización genérica.
+- Si el plazo vence sin que se haya cumplido el objetivo, el desafío se cierra por fracaso. Se activa la persecución de las criaturas y la salida queda bloqueada temporalmente, según la regla general del apartado 1.4. Al terminar el bloqueo, cualquier participante que alcance la salida puede pasar al siguiente piso.
+- Este desenlace debe ser excepcional y muy peligroso, no el resultado habitual. El plazo debe ser suficiente para completar el objetivo.
+- Cualquier otra consecuencia por incumplir una condición particular debe diseñarse para ese piso y aprobarse con él; no se añade una penalización genérica.
 - Cuando se cumple la condición general, el desafío se considera superado para todos los participantes convocados.
 - Superar el desafío no equivale a alcanzar la salida. Cada participante debe encontrar y alcanzar físicamente la única salida del piso para realizar la transición.
 - Cada piso debe diseñarse con sus propias exigencias y peligros, sin repetir una plantilla rígida.
