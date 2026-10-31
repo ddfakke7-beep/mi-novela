@@ -8,7 +8,9 @@ Diseñar los diez primeros pisos como un arco conectado. Cada piso debe tener id
 
 ## Matriz global
 
-Completar cada fila durante el diseño global. No asignar todavía acontecimientos, enemigos, muertes, recompensas ni aumentos concretos sin construir primero la lógica del arco.
+Completar cada fila durante el diseño global. No asignar todavía acontecimientos, enemigos, muertes, recompensas ni aumentos concretos sin construir primero la lógica del arco. La idea preliminar del Piso 10 es una batalla campal o toma de fortaleza; debe desarrollarse y aprobarse antes de tratarse como diseño definitivo.
+
+El elenco se construye progresivamente a través de los pisos. En el Piso 1 se definirán los participantes que aparecen inicialmente y se decidirá cuáles tienen potencial de recurrencia o importancia. Los pisos posteriores pueden introducir nuevos personajes y grupos según lo requiera su desafío. No es necesario cerrar todo el elenco antes de diseñar el Piso 1.
 
 | Piso | Identidad/tema | Experiencia central | Desarrollo de Kevin | Desarrollo de otros personajes/grupos | Cambio del mundo | Puente al siguiente |
 |---|---|---|---|---|---|---|
@@ -21,7 +23,7 @@ Completar cada fila durante el diseño global. No asignar todavía acontecimient
 | 7 | Pendiente | Pendiente | Pendiente | Pendiente | Pendiente | Pendiente |
 | 8 | Pendiente | Pendiente | Pendiente | Pendiente | Pendiente | Pendiente |
 | 9 | Pendiente | Pendiente | Pendiente | Pendiente | Pendiente | Pendiente |
-| 10 | Pendiente | Pendiente | Pendiente | Pendiente | Pendiente | Pendiente |
+| 10 | Batalla campal / toma de una fortaleza (dirección preliminar, no diseño aprobado) | Pendiente de concretar | Pendiente | Pendiente | Pendiente | Pendiente |
 
 ## Reglas para el arco
 
