@@ -21,7 +21,7 @@ Antes de diseñar o narrar en un chat nuevo, o cuando se retome el proyecto desp
 7. Consultar `07-SISTEMA-DE-PROGRESION.md` cuando se vaya a evaluar o describir aprendizaje, capacidades o mejoras.
 8. Consultar `08-SISTEMA-DE-COMBATE.md`, `09-SISTEMA-DE-RECUPERACION.md` o `10-SISTEMA-DE-RECOMPENSAS.md` cuando la escena afecte sus ámbitos.
 9. Consultar `05-METODO-DE-DISENO-Y-TRABAJO.md` y `06-ARCO-GLOBAL-PISOS-01-10.md` al diseñar o revisar la estructura de un piso o del arco.
-10. Confirmar que los archivos pertenecen a `NUESTRO-PROYECTO`, no a la carpeta de UMBRAL.
+10. Confirmar que los archivos pertenecen a la carpeta `NEXUS/`, no a la carpeta de UMBRAL.
 
 Si una fuente necesaria no puede consultarse, está incompleta o presenta una contradicción relevante, no fingir que se verificó. Detener el trabajo afectado y explicar qué falta.
 
@@ -99,7 +99,9 @@ El piso constituye un desafío integrado. Las etapas y situaciones no deben trat
 8. No inventar sucesos fuera de escena como hechos consumados si no están establecidos por el diseño, la continuidad o una fuente narrativa fiable.
 9. Si aparece una contradicción que afecta a lo que ocurrirá, detenerse antes de consolidarla como hecho.
 
-## F. Control de progresión después de cada tramo narrativo relevante
+## F. Control de progresión y consecuencias
+
+Durante el desarrollo, mantener una lista provisional de los cambios que podrían afectar a personajes, grupos, sistemas y continuidad. Esta lista sirve para preparar el cierre documental; no se incorpora al canon mientras el piso no haya sido aprobado.
 
 Revisar a Kevin y a los demás personajes recurrentes afectados. La revisión es obligatoria aunque el resultado sea «sin cambio». Revisar también los grupos recurrentes afectados cuando cambie su composición, cohesión, estrategia, recursos, objetivos o situación colectiva.
 
@@ -114,22 +116,31 @@ Separar:
 - relaciones y objetivos;
 - evolución colectiva del grupo, sin atribuirla automáticamente a cada integrante.
 
-Aplicar la rúbrica de `07-SISTEMA-DE-PROGRESION.md`. Registrar evidencias concretas, errores persistentes y cambios justificados. No conceder aumentos automáticos por completar un tramo, pero tampoco omitir mejoras demostradas por práctica y experiencia acumuladas.
+Aplicar la rúbrica de `07-SISTEMA-DE-PROGRESION.md`. Registrar evidencias concretas, errores persistentes y cambios justificados. No conceder aumentos automáticos por completar el piso, pero tampoco omitir mejoras demostradas por práctica y experiencia acumuladas.
 
-## G. Cierre, aprobación y actualización
+## G. Aprobación, canon y cierre documental
 
-Al terminar un tramo narrativo, presentarlo completo y preguntar si el usuario lo aprueba para canon. Hasta entonces, no incorporarlo al historial oficial ni actualizar la continuidad como si hubiera ocurrido.
+El usuario entrega un TXT como material de entrada para desarrollar narrativamente el piso. El TXT no se copia ni se sube automáticamente: se desarrolla respetando su contenido esencial, el diseño aprobado y el canon vigente.
 
-Después de la aprobación:
-1. Añadir los hechos confirmados a `HISTORIAL-APROBADO.md`.
-2. Actualizar `ESTADO-ACTUAL.md` con el punto exacto de continuación y el siguiente paso permitido.
-3. Actualizar las fichas de todos los personajes cuyo estado haya cambiado, no solo la de Kevin.
-4. Actualizar los registros de grupos afectados cuando cambie su situación colectiva.
-5. Registrar la progresión individual y colectiva demostrada y la evidencia que la justifica.
-6. Modificar el diseño del piso únicamente si el usuario aprobó el cambio de diseño.
-7. Revisar que no se hayan duplicado datos ni creado contradicciones.
+El desarrollo completo se presenta al usuario para revisión. Hasta que el usuario apruebe el piso, sus acontecimientos y cambios permanecen provisionales y no se incorporan a los registros oficiales.
 
-Al cerrar un piso, hacer una transferencia de continuidad usando `PLANTILLA-TRANSFERENCIA.md`.
+**Inmediatamente después de la aprobación del piso completo**, ejecutar el cierre documental establecido en la sección 7 de `05-METODO-DE-DISENO-Y-TRABAJO.md`:
+
+1. Reconstruir todos los acontecimientos y consecuencias confirmados del piso aprobado.
+2. Actualizar el historial aprobado sin copiar el texto narrativo completo.
+3. Actualizar las fichas de todos los personajes afectados, no solo la de Kevin.
+4. Actualizar los registros de grupos recurrentes afectados.
+5. Revisar y actualizar, cuando corresponda, progresión, combate, recuperación y recompensas, respetando el documento propietario de cada dato.
+6. Actualizar el estado actual con el punto exacto de continuación.
+7. Revisar diseño, arco global, índices y registros especializados; modificarlos solo si corresponde y está autorizado.
+8. Verificar los archivos modificados y comprobar que no haya contradicciones ni duplicaciones.
+9. Informar qué documentos cambiaron, cuáles se revisaron sin cambios y qué pendientes quedaron.
+
+No modificar todos los documentos por rutina. La revisión de todos los ámbitos es obligatoria; la modificación solo se realiza cuando existen cambios confirmados que pertenecen a ese documento.
+
+No registrar el texto narrativo completo en el repositorio de canon. La publicación del piso completo en la web corresponde a otro chat y es un flujo separado; este protocolo mantiene la continuidad interna de NEXUS, no publica capítulos.
+
+Si una actualización o verificación falla, informar del fallo y no declarar cerrado el piso documentalmente.
 
 ## H. Reanudación en otro chat
 
