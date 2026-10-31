@@ -210,9 +210,9 @@ Estos perfiles son una base inicial, no biografías cerradas. La experiencia pre
 
 | Formación prevista | Nombre propuesto al constituirse | Integrantes previstos | Identidad |
 |---|---|---|---|
-| Piso 2 | **Punto de Apoyo** | Kevin, Lucía y Tomás; posible cuarto integrante solo si surge de forma orgánica | Núcleo inicial. Kevin aporta prudencia y aprendizaje; Lucía apoyo y primeros auxilios; Tomás capacidad física y combate cercano. No serán los más fuertes al comienzo. |
+| Piso 2 | **La Banda** | Kevin, Lucía y Tomás; posible cuarto integrante solo si surge de forma orgánica | Núcleo inicial. Kevin aporta prudencia y aprendizaje; Lucía apoyo y primeros auxilios; Tomás capacidad física y combate cercano. No serán los más fuertes al comienzo. |
 | Piso 2 | **Rastro Gris** | Damián, Iván y Sara; posible cuarto miembro ya presentado | Party rival. Caza metódica, presión ofensiva y control de situaciones. Sus integrantes tienen más experiencia inicial que Kevin, pero no siempre coinciden en criterio. |
-| Piso 3 | **Trama** | Gabriel, Nuria y dos participantes que se introducirán con ellos | Coordinación, comunicación y apoyo mutuo. Su fuerza principal será funcionar como equipo, no tener al mejor duelista. |
+| Piso 3 | **La Cuadrilla** | Gabriel, Nuria y dos participantes que se introducirán con ellos | Coordinación, comunicación y apoyo mutuo. Su fuerza principal será funcionar como equipo, no tener al mejor duelista. |
 | Piso 5 | **Bastión** | Vera, Marcos y dos participantes defensivos que se presentarán en ese piso | Protección de posiciones, resistencia y respuesta a ataques. Vera y Marcos no siempre estarán de acuerdo sobre cuándo aguantar o avanzar. |
 | Piso 6 | **Vanguardia** | Alba, León, Inés y dos integrantes nuevos | Equipo de élite estable. Alto nivel técnico y experiencia conjunta; no se cambiarán sus miembros sin una causa importante. |
 | Pisos 7–9 | **Nombre elegido al formarse** | Rafael, Andrés y otros participantes según sus encuentros | No se fuerza una party alrededor de cada especialista. Pueden seguir independientes o formar un grupo si la relación y las circunstancias lo justifican. |
@@ -222,10 +222,10 @@ Las parties previstas respetarán el máximo de cinco integrantes. No se conside
 ## 10. Estabilidad y reputación de los grupos
 
 - **Vanguardia** será el grupo más estable: sus cinco integrantes tienen experiencia y una razón clara para permanecer juntos. Una baja sería un acontecimiento importante, no un cambio rutinario de plantilla.
-- **Trama** destacará por coordinación y fiabilidad; sus integrantes se valoran por complementariedad.
+- **La Cuadrilla** destacará por coordinación y fiabilidad; sus integrantes se valoran por complementariedad.
 - **Bastión** tendrá una identidad defensiva clara. Sus miembros pueden discrepar en decisiones, pero no se reemplazarán por conveniencia.
 - **Rastro Gris** será competitivo y tendrá fricciones internas controladas por sus objetivos comunes. La rivalidad con Kevin no implica enemistad permanente.
-- **Punto de Apoyo** será el grupo con mayor evolución visible desde una base modesta. Su cohesión se construirá con experiencias, no aparecerá completa desde el inicio.
+- **La Banda** será el grupo con mayor evolución visible desde una base modesta. Su cohesión se construirá con experiencias, no aparecerá completa desde el inicio.
 - La reputación de estos grupos crecerá por resultados demostrados y por información compartida entre participantes. No todos los conocerán ni todos confiarán en lo que se cuenta.
 - Los grupos pueden coincidir con otros personajes y ser reconocidos sin que Kevin esté presente. Las relaciones y rumores no pertenecen exclusivamente a su perspectiva.
 
