@@ -45,11 +45,29 @@ No duplicar las fichas. Indicar quiénes requieren consulta y resumir solo cambi
 - Errores o limitaciones persistentes:
 - Fichas que se actualizaron:
 
-## 7. Fuentes verificadas
+## 7. Auditoría de cierre documental
+Marcar cada ámbito como **actualizado**, **revisado sin cambios** o **pendiente**. No marcarlo como actualizado sin verificar el archivo correspondiente.
+- [ ] Historial aprobado:
+- [ ] Fichas de personajes afectados:
+- [ ] Registros de grupos afectados:
+- [ ] Progresión general y registros personales:
+- [ ] Combate, técnicas y equipo:
+- [ ] Recuperación y lesiones:
+- [ ] Recompensas y aprendizajes recibidos:
+- [ ] Estado actual:
+- [ ] Diseño del piso (solo si hubo modificación aprobada):
+- [ ] Arco global (solo si corresponde):
+- [ ] Índices y registros especializados (si corresponde):
+- [ ] Verificación final de coherencia y ausencia de duplicaciones:
+
+## 8. Fuentes verificadas
 - Reglas consultadas:
 - Diseño y versión consultados:
 - Fichas consultadas:
+- Registros de grupos consultados:
 - Historial actualizado:
+- Otros sistemas revisados:
 - Dudas o contradicciones sin resolver:
+- Archivos modificados y verificados:
 
 **Regla:** esta transferencia es un índice operativo. Si un dato necesita precisión, consultar su documento propietario. No utilizar esta plantilla para convertir propuestas en hechos.
