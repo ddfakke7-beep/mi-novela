@@ -24,7 +24,7 @@ Este documento será la única fuente normativa general del proyecto. No debe co
 
 ## 1. Concepto, estructura y propósito del mundo
 
-**Estado: ACUERDOS ESTABLECIDOS.** La definición general todavía puede ampliarse al desarrollar los demás puntos.
+**Estado: ACUERDOS GENERALES ESTABLECIDOS; propósito último desconocido.** La naturaleza y el propósito definitivo del Sistema no están definidos. Se mantienen como misterio tanto para los participantes como para el desarrollo actual del proyecto. No se inventará una explicación concluyente hasta que exista una decisión expresa.
 
 ### 1.1. Estructura por pisos
 
@@ -39,6 +39,8 @@ Este documento será la única fuente normativa general del proyecto. No debe co
 ### 1.2. Convocatoria y distribución de participantes
 
 - En cada piso, el Sistema selecciona y convoca a determinados participantes para afrontar el mismo desafío general.
+- La cantidad de convocados puede variar entre pisos. No existe un máximo universal establecido para el número total de participantes.
+- La convocatoria puede incluir parties completas y participantes individuales. La composición concreta depende de cada piso y de su desafío; no hay una combinación obligatoria.
 - Los participantes convocados coinciden en el Piso Principal antes de comenzar.
 - El Piso Principal es la zona segura de preparación: los participantes pueden descansar, dormir, practicar, elaborar estrategias, conocerse, intercambiar información y organizarse. No pueden abandonar el Piso Principal por su cuenta.
 - Todos disponen de un periodo común de preparación de 24 horas en el Piso Principal. Al terminar ese periodo comienza el desafío, salvo que el diseño aprobado establezca una secuencia específica compatible con esta regla.
@@ -61,7 +63,9 @@ Antes de comenzar, el Sistema debe comunicar de forma clara, como mínimo:
 
 Los participantes deben comprender qué deben conseguir. No necesariamente conocerán de antemano la naturaleza, ubicación o comportamiento de todos los peligros que encontrarán durante el desafío.
 
-Cada participante puede abrir su propia ventana de estado con solo pensarlo y consultarla cuando quiera. Allí puede revisar su información personal y los apartados disponibles para él, como condición, capacidades, equipo, inventario y datos de sus sistemas. No puede consultar la ventana privada de otro participante: si intenta verla, la información ajena aparece borrosa e ilegible. Esta restricción se mantiene aunque estén juntos o sean miembros de la misma party.
+Cada participante dispone de una ventana de estado personal que puede abrir con solo pensarlo y consultar cuando quiera, como una interfaz de estado convencional. Allí puede revisar su información personal y los apartados disponibles para él: condición, capacidades, equipo, inventario y datos de sus sistemas, incluido el Sistema de Combate (dominios, rangos de dominio y técnicas registrados). No puede consultar la ventana privada de otro participante: si intenta verla, la información ajena aparece borrosa e ilegible. Esta restricción se mantiene aunque estén juntos o sean miembros de la misma party.
+
+El Sistema puede emitir avisos breves cuando ocurren acontecimientos relevantes para el desafío. Algunos ejemplos son «Objetivo eliminado», cuando se elimina un objetivo, y «Prueba completada», cuando se cumplen las condiciones de finalización. Si el desafío requiere que varios grupos cumplan partes distintas, el aviso de finalización general solo aparece cuando se hayan cumplido todas las partes necesarias. Los avisos deben corresponder a hechos reales del desafío; no es necesario notificar cada acción menor ni narrar constantemente las consultas de la ventana.
 
 ### 1.4. Tiempo límite y consecuencias
 
@@ -71,6 +75,8 @@ Cada participante puede abrir su propia ventana de estado con solo pensarlo y co
 - Al producirse ese fracaso, la salida queda bloqueada temporalmente durante el periodo que se haya establecido para el piso. El bloqueo ocurre aunque el desafío ya haya terminado por vencimiento del plazo; su función es impedir que los participantes esperen junto a la salida y la utilicen inmediatamente después de fallar.
 - Cuando termina el periodo de bloqueo, la salida vuelve a estar disponible para cualquier participante que consiga alcanzarla. No hay una prioridad de salida por haber cumplido antes una parte del objetivo ni por haber llegado antes a sus inmediaciones.
 - Los participantes que sigan dentro durante esta fase deben sobrevivir a la persecución y llegar a la salida cuando vuelva a estar disponible. No hay muerte automática por el reloj, pero este desenlace es extremadamente peligroso y puede causar numerosas muertes. El plazo debe ser razonable para que no sea el resultado habitual ni una dificultad artificial añadida.
+- El fracaso no impide por sí mismo avanzar al siguiente piso: quienes sobrevivan a sus consecuencias y alcancen la salida pueden realizar la transición, aunque el desafío haya sido declarado fracasado.
+- Sobrevivir a un fracaso debe ser excepcionalmente difícil, pero no imposible. Como referencia ilustrativa, en una convocatoria de veinte grupos podrían sobrevivir apenas seis o siete personas, o incluso menos. No es una cuota, proporción ni resultado obligatorio; la mortalidad debe surgir de las amenazas y circunstancias concretas del piso.
 - Las consecuencias de otros tipos de fracaso, distintos del vencimiento del plazo, siguen definiéndose específicamente en el diseño aprobado de cada piso.
 
 ### 1.5. Cooperación y superación común
@@ -88,6 +94,10 @@ Cada participante puede abrir su propia ventana de estado con solo pensarlo y co
 - Después de la superación, deben desplazarse por el piso, encontrar la salida y llegar físicamente hasta ella.
 - Si el plazo vence sin superar el desafío, se aplica el procedimiento de fracaso y bloqueo temporal descrito en el apartado 1.4; una vez desbloqueada, la misma salida permite la transición a quienes consigan alcanzarla.
 - Todos deben utilizar esa misma salida para realizar la transición al siguiente piso.
+- La transición se activa cuando el participante o grupo correspondiente acepta cruzar. Si una persona llega sola y acepta, puede pasar individualmente al siguiente Piso Principal.
+- Si varios integrantes de una misma party están juntos en la salida, basta con que uno acepte la transición para que todos los integrantes de esa party que estén allí con él sean transportados juntos.
+- Si un integrante decide cruzar sin los demás y no está realizando la transición junto a su party, abandona automáticamente la party. Los miembros que permanezcan atrás conservan su pertenencia entre sí, si siguen cumpliendo las condiciones de la party.
+- Quienes pasan por separado pueden llegar al siguiente piso en momentos distintos y no tienen garantizado encontrarse allí.
 
 ### 1.7. Fracaso y consecuencias
 
@@ -107,14 +117,14 @@ Estas consecuencias adicionales no sustituyen ni modifican automáticamente la r
 
 ### 2.1. Selección y convocatoria
 
-- El Sistema decide qué participantes convoca para cada desafío y cuántos serán. Cuando selecciona a una party, la convoca como grupo, manteniendo juntos a sus integrantes.
+- El Sistema decide qué participantes convoca para cada desafío y cuántos serán. La cantidad puede variar entre pisos y no existe un máximo universal establecido. La convocatoria puede estar compuesta por parties completas, participantes individuales o una combinación de ambos. Cuando selecciona a una party, la convoca como grupo, manteniendo juntos a sus integrantes.
 - Los participantes no conocen los motivos ni los criterios que utiliza el Sistema para seleccionarlos.
 - Tampoco conocen el propósito último del Sistema. Por lo que experimentan, saben que los convoca y los somete a desafíos que deben superar.
 - No se presupone que los participantes puedan influir en la selección ni que exista una explicación accesible para ellos.
 
 ### 2.2. Cantidad de participantes y dificultad
 
-- La cantidad de participantes convocados no determina ni aumenta por sí misma la dificultad o el peligro del desafío.
+- La cantidad de participantes convocados no determina ni aumenta por sí misma la dificultad o el peligro del desafío. No existe una cantidad fija ni una composición obligatoria de convocados para todos los pisos; cada convocatoria responde al desafío diseñado para ese piso.
 - La dificultad y el peligro proceden principalmente de las características y condiciones del escenario en el que se desarrolla el desafío.
 - Un desafío puede ser mortal si sus condiciones lo hacen así, pero una convocatoria numerosa no significa automáticamente que todos vayan a morir si fracasan.
 
@@ -122,7 +132,7 @@ Estas consecuencias adicionales no sustituyen ni modifican automáticamente la r
 
 - Al comenzar el desafío, los integrantes de una party reconocida que participe unida aparecen en el mismo punto de partida. Los participantes que no formen parte de una party que entre junta aparecen en puntos diferentes.
 - Todos comparten una única salida por piso.
-- Una vez superado el desafío general, cada participante debe encontrar esa salida y llegar físicamente hasta ella para realizar la transición.
+- Una vez superado el desafío general, cada participante debe encontrar esa salida y llegar físicamente hasta ella para realizar la transición. La transición puede realizarse individualmente o en party, según quiénes estén juntos en la salida y acepten cruzar. Si un integrante cruza solo, abandona automáticamente su party; si los integrantes están juntos, basta con que uno acepte para que todos los presentes de esa party crucen juntos. Los integrantes que realicen la transición por separado pueden no coincidir en el siguiente piso.
 
 ### 2.4. Supervivencia y fracaso
 
@@ -165,6 +175,7 @@ Estas consecuencias adicionales no sustituyen ni modifican automáticamente la r
 - Cualquier otra consecuencia por incumplir una condición particular debe diseñarse para ese piso y aprobarse con él; no se añade una penalización genérica.
 - Cuando se cumple la condición general, el desafío se considera superado para todos los participantes convocados.
 - Superar el desafío no equivale a alcanzar la salida. Cada participante debe encontrar y alcanzar físicamente la única salida del piso para realizar la transición.
+- Si el desafío fracasa por vencimiento del plazo, quienes sobrevivan y alcancen la salida también pueden avanzar. La transición no convierte retroactivamente el fracaso en una prueba superada.
 - Cada piso debe diseñarse con sus propias exigencias y peligros, sin repetir una plantilla rígida.
 
 ## 9. Equipo, recursos e inventario
@@ -269,6 +280,6 @@ El documento 07 establece el seguimiento general del aprendizaje; el documento 0
 - Cuando el Sistema convoca a una party, convoca conjuntamente a sus integrantes. Mientras mantengan la party, pueden avanzar juntos entre pisos y afrontar los desafíos desde el mismo punto de partida.
 - Formar una party no concede por sí solo habilidades, estadísticas, protección ni ventajas automáticas durante el combate. La coordinación y los beneficios prácticos dependen de sus integrantes y decisiones.
 
-## Condición de uso
+## 15. Condición de uso
 
 No copiar automáticamente las reglas de UMBRAL. Cada regla debe revisarse para decidir si se conserva, modifica o descarta. No completar vacíos con suposiciones silenciosas.
