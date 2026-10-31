@@ -11,7 +11,7 @@ El trabajo se realiza en este orden:
 3. Diseñar y aprobar el sistema de progresión y sus criterios de evaluación.
 4. Crear el elenco inicial y decidir el nivel de seguimiento de cada personaje.
 5. Construir el arco global de los Pisos 1–10: identidad, acontecimientos estructurales y progresión posible del elenco.
-6. Diseñar cada piso completo, incluido su Piso Principal, fases, tiempos, etapas del desafío, amenazas, recursos y transiciones.
+6. Diseñar cada piso completo, incluido su Piso Principal, el área concreta del desafío, sus zonas o sectores, etapas, tiempos, amenazas, recursos y transiciones.
 7. Revisar contradicciones, continuidad, variedad y progresión.
 8. Obtener aprobación del diseño del piso.
 9. Narrar el desarrollo del desafío respetando su estructura y continuidad, sin convertir sus etapas en pruebas independientes por defecto.
@@ -25,12 +25,12 @@ Cada piso se diseña como una experiencia completa antes de escribir sus escenas
 - qué función cumple en el arco global;
 - qué experiencia ofrece y cómo se diferencia de los pisos anteriores;
 - cómo funciona su Piso Principal y qué fases preceden al inicio del desafío, respetando las 24 horas comunes de preparación;
-- qué personajes y grupos participan;
+- qué personajes y grupos participan, quiénes son importantes para el piso y quiénes tienen potencial de convertirse en recurrentes;
 - qué oportunidades reales de progreso existen para Kevin y para otros;
 - qué amenazas, recursos, encuentros y decisiones lo componen;
-- cómo se conectan las etapas, situaciones y objetivos parciales con el desafío general;
+- cuál es el área amplia y concreta donde se desarrolla el desafío, cómo se organiza en zonas o sectores y cómo se conectan sus etapas con el único objetivo general;
 - qué condiciones permiten considerar superado el desafío;
-- qué plazo tiene el desafío, si corresponde, y qué consecuencias concretas se activan si fracasa o vence ese plazo;
+- qué plazo razonable tiene el desafío, si corresponde, y cómo se aplica la amenaza de detección y caza si los participantes permanecen en el área después de vencer; además de las consecuencias específicas de cualquier otro fracaso;
 - qué consecuencias y transiciones deja.
 
 El diseño aprobado es la referencia obligatoria de estructura. No se omiten, reordenan ni sustituyen etapas por conveniencia narrativa.
