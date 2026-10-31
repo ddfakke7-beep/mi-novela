@@ -24,12 +24,13 @@ No comenzar la narración de un piso cuyo diseño todavía no haya sido aprobado
 Cada piso se diseña como una experiencia completa antes de escribir sus escenas. El diseño debe dejar claro:
 - qué función cumple en el arco global;
 - qué experiencia ofrece y cómo se diferencia de los pisos anteriores;
-- cómo funciona su Piso Principal y qué fases preceden al inicio del desafío;
+- cómo funciona su Piso Principal y qué fases preceden al inicio del desafío, respetando las 24 horas comunes de preparación;
 - qué personajes y grupos participan;
 - qué oportunidades reales de progreso existen para Kevin y para otros;
 - qué amenazas, recursos, encuentros y decisiones lo componen;
 - cómo se conectan las etapas, situaciones y objetivos parciales con el desafío general;
 - qué condiciones permiten considerar superado el desafío;
+- qué plazo tiene el desafío, si corresponde, y qué consecuencias concretas se activan si fracasa o vence ese plazo;
 - qué consecuencias y transiciones deja.
 
 El diseño aprobado es la referencia obligatoria de estructura. No se omiten, reordenan ni sustituyen etapas por conveniencia narrativa.
