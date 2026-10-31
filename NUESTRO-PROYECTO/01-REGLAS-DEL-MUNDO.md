@@ -86,7 +86,7 @@ Cada participante puede abrir su propia ventana de estado con solo pensarlo y co
 
 ### 1.7. Fracaso y consecuencias pendientes
 
-Las consecuencias del fracaso no son una penalización universal. **El diseño de cada piso debe definirlas antes de ser aprobado**, de acuerdo con su objetivo y sus condiciones. El Sistema concede un plazo razonable; si el objetivo no se cumple dentro de las 24 horas, las condiciones del desafío pueden agravarse de forma importante y coherente con lo que está en juego.
+Las consecuencias del fracaso no son una penalización universal. **El diseño de cada piso debe definirlas antes de ser aprobado**, de acuerdo con su objetivo y sus condiciones. El Sistema concede un plazo razonable para el desafío, definido en el diseño del piso; si el objetivo no se cumple dentro de ese plazo, las condiciones pueden agravarse de forma importante y coherente con lo que está en juego.
 
 Ejemplos posibles, no reglas automáticas:
 - Si el objetivo es transportar y proteger una carga, un daño excesivo o la pérdida de la carga puede hacer que las criaturas dejen de perseguirla y pasen a atacar directamente a los participantes con mayor agresividad.
@@ -97,7 +97,7 @@ La escalada debe hacer el desafío mucho más difícil y puede provocar muertes 
 
 ## 2. Participantes, entrada, salida y condiciones de supervivencia
 
-**Estado: ACUERDOS ESTABLECIDOS.** Los criterios de selección son desconocidos para los participantes; las consecuencias generales del fracaso todavía requieren definición.
+**Estado: ACUERDOS ESTABLECIDOS.** Los criterios de selección son desconocidos para los participantes; las consecuencias concretas del fracaso se definen en cada diseño de piso.
 
 ### 2.1. Selección y convocatoria
 
@@ -122,7 +122,7 @@ La escalada debe hacer el desafío mucho más difícil y puede provocar muertes 
 
 - El peligro de un desafío puede ser real y mortal. Los participantes pueden morir como consecuencia de las condiciones y amenazas del escenario.
 - En situaciones extremas, el fracaso puede conducir a la muerte de todos los participantes convocados. Esto no significa que el Sistema los ejecute automáticamente por haber fracasado.
-- Las consecuencias exactas del fracaso, así como la posibilidad de seguir intentándolo o de recibir ayuda, todavía no están definidas como reglas generales.
+- Las consecuencias exactas del fracaso, las posibilidades de seguir intentándolo y cualquier posibilidad de ayuda deben quedar establecidas en el diseño aprobado de cada piso. No se presupone una respuesta universal.
 
 ## 3. Pisos, desafíos, etapas, tiempos y transiciones
 
