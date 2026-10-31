@@ -255,6 +255,7 @@ El documento 07 establece el seguimiento general del aprendizaje; el documento 0
 - Una party puede tener como máximo **cinco integrantes**.
 - Cualquier integrante puede invitar a otra persona mientras haya espacio. La persona invitada debe aceptar expresamente para incorporarse.
 - Cualquier integrante puede abandonar la party cuando quiera. Al hacerlo, deja de formar parte del grupo reconocido.
+- Si un integrante muere, sale automáticamente de la party y su espacio queda libre. La muerte no transfiere automáticamente sus armas, equipo o recursos a los demás integrantes.
 - La ventaja principal de una party es que sus integrantes pueden coincidir juntos en los Pisos Principales y entrar al desafío desde el mismo punto de partida.
 - Los participantes que no formen parte de una party que entre junta aparecen en puntos distintos del área del desafío.
 - Cuando el Sistema convoca a una party, convoca conjuntamente a sus integrantes. Mientras mantengan la party, pueden avanzar juntos entre pisos y afrontar los desafíos desde el mismo punto de partida.
