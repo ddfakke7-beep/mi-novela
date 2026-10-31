@@ -1,6 +1,6 @@
 # 01 — Reglas del mundo y del Sistema
 
-**Estado: EN DISEÑO.** Los puntos 1 y 2 contienen acuerdos establecidos; el punto 3 contiene acuerdos iniciales; los demás apartados siguen pendientes. No usar como conjunto normativo completo hasta que las reglas estén diseñadas y aprobadas.
+**Estado: EN DISEÑO.** Los puntos 1, 2 y 5, 6, 8 y 11 contienen acuerdos establecidos o iniciales; los demás apartados siguen pendientes. No usar como conjunto normativo completo hasta que las reglas estén diseñadas y aprobadas.
 
 Este documento será la única fuente normativa general del proyecto. No debe convertirse en una mezcla de reglas, instrucciones narrativas, fichas de personajes y resúmenes de continuidad.
 
@@ -146,9 +146,47 @@ No cumplir la condición general puede exponer a los participantes a consecuenci
 - Superar el desafío no equivale a alcanzar la salida. Cada participante debe encontrar y alcanzar físicamente la única salida del piso para realizar la transición.
 - Cada piso debe diseñarse con sus propias exigencias y peligros, sin repetir una plantilla rígida.
 
+## 5. Estadísticas y medición de capacidades
+
+**Estado: ACUERDO ESTABLECIDO — no se utilizarán atributos físicos numéricos.**
+
+- No existe una hoja de estadísticas físicas ni un sistema de atributos cuantificados para fuerza, velocidad, resistencia, coordinación u otras capacidades.
+- La condición y las capacidades físicas se describen cualitativamente, según lo que el personaje puede hacer, su historia, hábitos, experiencia y condición actual.
+- No se asignan puntos, valores, porcentajes ni aumentos numéricos a las capacidades físicas.
+- Los rangos de dominio técnico por disciplina del Sistema de Combate son categorías cualitativas de dominio, no estadísticas físicas ni una medida universal del poder de un participante.
+- No convertir cada diferencia entre personajes en una cifra. La comparación debe surgir de sus capacidades demostradas y de las circunstancias.
+
+## 6. Progresión física y adaptación
+
+**Estado: ACUERDO ESTABLECIDO — desarrollo gradual, individual y basado en actividad.**
+
+- Las capacidades físicas pueden mejorar mediante actividad sostenida y exigente: entrenamiento, correr, combatir, cargar peso, caminar largas distancias y otras experiencias que sometan al cuerpo a esfuerzo.
+- La mejora debe corresponder al tipo, frecuencia, duración y dificultad de la actividad realizada. Entrenar resistencia no aumenta automáticamente la fuerza ni concede dominio técnico.
+- El desarrollo es gradual y acumulativo. Unas pocas semanas de esfuerzo no convierten a una persona sedentaria en un atleta excepcional.
+- La condición inicial depende de la historia, hábitos, ocupación, entrenamiento y experiencia de cada personaje.
+- Todos tienen oportunidades de mejorar, pero el ritmo, el alcance y los resultados varían entre individuos. No todos mejoran al mismo tiempo ni en las mismas capacidades.
+- El descanso, la alimentación, las lesiones y las circunstancias influyen en la adaptación. El esfuerzo no elimina por sí solo las limitaciones ni garantiza una mejora.
+- No se establecen categorías universales de velocidad de aprendizaje para todo el elenco. Las aptitudes o talentos excepcionales se definen en personajes concretos cuando sean relevantes.
+
+El documento 07 — Sistema de Progresión establece cómo revisar y registrar este desarrollo sin duplicar las fichas individuales.
+
+## 8. Aprendizaje, conocimiento y experiencia
+
+**Estado: ACUERDO ESTABLECIDO — separar saber, comprender, practicar y ejecutar.**
+
+- El conocimiento teórico, la experiencia práctica y la capacidad de ejecución son dimensiones distintas.
+- Un personaje puede reconocer una criatura sin saber cómo combatirla, conocer una técnica sin poder ejecutarla, comprender una explicación sin haberla practicado o tomar una buena decisión sin poseer dominio técnico avanzado.
+- Los participantes pueden aprender mediante formación previa, experiencia, observación, enseñanza, experimentación y práctica.
+- El conocimiento sobre criaturas y otros elementos del mundo será ampliable y puede ser parcial. Reconocer algo no implica conocer todas sus características, debilidades o formas de enfrentarlo.
+- No es necesario definir de antemano un catálogo exhaustivo de todo el conocimiento disponible ni registrar cada dato que conozca cada participante.
+- El seguimiento detallado del aprendizaje se concentra en Kevin y en los personajes recurrentes cuyo desarrollo sea importante. El resto recibe un seguimiento proporcional a su relevancia.
+- Los personajes pueden tener aptitudes, experiencia y ritmos de aprendizaje distintos. Esas diferencias deben justificarse por su trayectoria y mostrarse de manera natural, no mediante etiquetas mecánicas aplicadas a todos.
+
+El documento 07 establece el seguimiento general del aprendizaje; el documento 08 es propietario del dominio técnico de combate; el documento 10 administra las guías y oportunidades de aprendizaje ofrecidas como recompensa.
+
 ## 11. Combate, daño, heridas y recuperación
 
-**Estado: ACUERDO ESTABLECIDO — restauración corporal entre pisos.** Los detalles operativos de combate, lesiones y recuperación se desarrollan en los sistemas correspondientes.
+**Estado: ACUERDOS ESTABLECIDOS — restauración corporal entre pisos y consecuencias físicas coherentes.** Los detalles de tratamiento se desarrollan en el Sistema de Recuperación.
 
 ### 11.1. Recuperación durante un desafío
 
@@ -159,11 +197,21 @@ No cumplir la condición general puede exponer a los participantes a consecuenci
 
 ### 11.2. Restauración al entrar en un Piso Principal
 
-- Al entrar en un nuevo Piso Principal, todo participante que siga vivo recibe una restauración corporal completa.
+- Al completar la transición y entrar en un nuevo Piso Principal, todo participante que siga vivo recibe una restauración corporal completa.
 - Esta restauración regenera miembros y partes del cuerpo perdidos durante desafíos anteriores y repara las lesiones y secuelas físicas sufridas en ellos.
 - La restauración no revive a los muertos ni revierte la muerte.
 - No elimina hambre, sed, falta de sueño, fatiga acumulada, enfermedades, venenos ni toxinas.
 - La restauración entre pisos es independiente de la activación de recuperación disponible para el nuevo desafío.
+
+### 11.3. Consecuencias del daño
+
+- El daño se evalúa mediante consecuencias físicas coherentes, no mediante puntos de vida ni una tabla numérica de daño.
+- Sus efectos dependen del tipo de lesión, la zona afectada, su gravedad, la pérdida de sangre, las funciones comprometidas y las circunstancias.
+- Una lesión menor puede permitir que el participante continúe actuando; una lesión grave puede limitar o impedir acciones concretas.
+- Un daño fatal puede causar la muerte en poco tiempo. Una lesión que comprometa estructuras vitales o provoque una hemorragia crítica puede resultar mortal aunque el personaje todavía conserve brevemente la capacidad de actuar.
+- La voluntad y la tolerancia al dolor no anulan una lesión ni permiten superar una limitación física real.
+- El Sistema de Recuperación solo puede tratar a quien siga vivo cuando el tratamiento pueda completarse. No resucita ni revierte una muerte ya producida.
+- No se necesita un subsistema independiente y complejo de heridas o daño. Se aplican las consecuencias físicas normales de cada lesión y se registra únicamente lo que afecte a la continuidad.
 
 ## Condición de uso
 
