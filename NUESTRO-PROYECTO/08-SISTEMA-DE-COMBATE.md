@@ -92,26 +92,32 @@ En cada revisión se comprueba qué técnicas utilizó cada personaje y en qué 
 
 El resultado puede ser una mejora, el inicio de un aprendizaje, la permanencia del estado actual o la identificación de una limitación. No hay una cuota obligatoria de avances, pero tampoco se mantiene una ficha desactualizada cuando la historia ya demuestra una mejora.
 
-
-## 8. Dotación y elección de equipo
+## 8. Dotación, renovación y elección de equipo
 
 El Sistema de Combate también permite consultar y elegir el equipo de combate que el Sistema pone a disposición de los participantes. Esta función es independiente del registro de dominio: recibir o elegir un arma no concede conocimientos para utilizarla.
 
-La dotación puede incluir:
-- **Armas:** una principal y, cuando la oferta lo permita, armas secundarias o alternativas.
-- **Protecciones:** armaduras y protecciones específicas para distintas partes del cuerpo.
+Al llegar a cada Piso Principal, el participante tiene acceso a un catálogo actualizado de equipo. La renovación es una oportunidad de adaptar su dotación al nuevo desafío, no una obligación de reemplazar lo que ya posee.
+
+La oferta puede incluir:
+
+- **Armas:** el catálogo puede poner a disposición una opción principal y una segunda arma opcional, ya sea para complementar el estilo del participante, cubrir otra función o servir como alternativa. Elegir ambas no es obligatorio: el participante puede escoger solo una, o conservar armas anteriores si le siguen resultando útiles.
+- **Protecciones:** armaduras y piezas para distintas partes del cuerpo, con configuraciones de distinta cobertura, peso y movilidad. Puede haber opciones ligeras, intermedias o pesadas, además de piezas individuales; no se exige que el catálogo se limite a tres categorías rígidas.
 - **Equipo complementario:** elementos útiles para combatir o desenvolverse durante el desafío, cuando estén incluidos en la oferta.
 
-La selección se realiza entre las opciones realmente disponibles. El catálogo, las cantidades y las condiciones pueden variar; no se presupone que todos los pisos ofrezcan el mismo equipo ni que exista una opción ilimitada.
+Cada participante decide qué hacer con su equipo anterior: conservarlo, sustituirlo o complementarlo con las opciones disponibles. El Sistema no retira ni reemplaza automáticamente objetos que el participante haya decidido conservar. Si mantiene un objeto dañado, deberá asumir sus condiciones; si lo sustituye, la opción nueva del catálogo estará en condiciones adecuadas de uso.
 
-Cada participante puede escoger según su experiencia, capacidades, preferencias y forma de combatir. Puede conservar equipo que ya tenga, sustituirlo o añadir elementos cuando el Sistema lo permita. La elección no elimina las limitaciones prácticas: peso, volumen, movilidad, protección, compatibilidad y manos ocupadas deben tenerse en cuenta.
+La selección se realiza entre las opciones realmente disponibles. El catálogo, las cantidades y las condiciones pueden variar; no se presupone que todos los pisos ofrezcan el mismo equipo ni que exista una opción ilimitada. La elección de armas y protecciones puede combinarse según las necesidades del participante.
+
+La dotación no impone que todos lleven la misma cantidad de armas ni una configuración universal. La capacidad real de transportar y utilizar el equipo depende del peso, volumen, movilidad, compatibilidad, manos ocupadas, condición física y entrenamiento del personaje. Llevar más armas puede ampliar sus alternativas, pero también añadir peso y exigir conocimientos para aprovecharlas. Una persona experimentada puede sacar partido de una combinación que un principiante todavía no sabe manejar.
+
+La calidad, variedad, materiales y características del equipo disponible pueden evolucionar gradualmente a medida que avanzan los pisos. No se garantiza que cada renovación sea superior a la anterior ni que todas las categorías mejoren al mismo ritmo. La finalidad es mantener opciones apropiadas para los desafíos y evitar que el deterioro inevitable del equipo se convierta en una limitación arbitraria; la dificultad no debe depender exclusivamente de entregar armas cada vez más poderosas.
 
 El registro debe reflejar el equipo que el personaje lleva realmente, no solo lo que eligió en una pantalla. Los cambios, pérdidas, daños o abandonos se actualizan en la continuidad cuando ocurran. La dotación ordinaria de armas, protecciones y equipo corresponde a este sistema y no se duplica como recompensa por completar un piso.
 
 ## 9. Relación con las fichas y la interfaz
 
-La ficha individual del personaje es la fuente de su estado vigente: disciplinas, rangos, técnicas, estados de aprendizaje y limitaciones. El historial de continuidad conserva los acontecimientos que justifican los cambios. Este documento establece el método común de evaluación.
+La ficha individual del personaje es la fuente de su estado vigente: disciplinas, rangos, técnicas, estados de aprendizaje, limitaciones y equipo que lleva realmente. El historial de continuidad conserva los acontecimientos que justifican los cambios. Este documento establece el método común de evaluación y elección de dotación.
 
-El Sistema de Combate muestra al participante su propio registro de dominio y técnicas. La información que pueda consultar sobre otros participantes queda pendiente de las reglas generales de información e interfaz; este sistema no concede acceso automático a las fichas ajenas.
+El Sistema de Combate muestra al participante su propio registro de dominio, técnicas y equipo. La información que pueda consultar sobre otros participantes queda pendiente de las reglas generales de información e interfaz; este sistema no concede acceso automático a las fichas ajenas.
 
-**Principio central:** todo aprendizaje importante permanece registrado, todo avance debe estar respaldado por evidencia y todos los participantes pueden progresar de manera independiente.
+**Principio central:** todo aprendizaje importante permanece registrado, todo avance debe estar respaldado por evidencia y todos los participantes pueden progresar de manera independiente. El equipo ofrece posibilidades, pero su utilidad depende de las decisiones, capacidades y experiencia de quien lo utiliza.
