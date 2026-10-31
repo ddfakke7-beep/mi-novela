@@ -6,7 +6,7 @@ Completar al cerrar un piso o cuando sea necesario trasladar el trabajo a otro c
 
 ## 1. Punto exacto
 - Piso:
-- Fase / escenario:
+- Etapa o situación actual del desafío:
 - Momento narrativo:
 - Lugar:
 - Último hecho aprobado:
@@ -31,10 +31,10 @@ No duplicar las fichas. Indicar quiénes requieren consulta y resumir solo cambi
 - Misterios y datos todavía desconocidos:
 - Información que el lector conoce y los personajes no, si corresponde:
 
-## 5. Tiempo y fases
+## 5. Tiempo y desarrollo
 - Tiempo transcurrido:
-- Fase completada:
-- Fases pendientes:
+- Etapas o situaciones completadas:
+- Etapas o situaciones pendientes:
 - Contadores o plazos activos:
 - Condición para avanzar:
 
