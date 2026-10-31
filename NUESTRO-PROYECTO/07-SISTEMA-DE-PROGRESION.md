@@ -1,82 +1,50 @@
 # 07 — Sistema de progresión y medición
 
-**Estado: propuesta de diseño. Debe concretarse y aprobarse antes de fijar estadísticas o rangos del nuevo proyecto.**
+**Estado: propuesta de diseño.**
 
-## Problema que este documento debe evitar
+## Propósito
 
-En el proyecto anterior, las estadísticas permanecieron casi inmóviles durante muchos pisos y el dominio de armas no siempre reflejó el aprendizaje práctico mostrado. El sistema era tan conservador que, en la práctica, podía sentirse decorativo. En el proyecto nuevo, cada mejora debe ser visible y verificable, sin convertir cada combate en puntos automáticos.
+Establecer un método común para que las distintas formas de progreso sean visibles, acumulativas y coherentes. La historia no debe quedarse estancada por exceso de prudencia al actualizar registros, ni conceder mejoras automáticas por completar pisos o derrotar enemigos.
 
-## La progresión tiene varias vías independientes
+## Vías de progresión
 
 1. **Capacidad física:** fuerza, velocidad, resistencia, coordinación u otras dimensiones que se definan.
-2. **Dominio técnico:** manejo de cada arma o disciplina por separado.
+2. **Dominio de combate:** manejo técnico de cada disciplina y aprendizaje de técnicas concretas. Su evaluación detallada corresponde al documento 08 — Sistema de Combate.
 3. **Conocimiento:** información aprendida sobre criaturas, reglas, entornos, materiales y participantes.
 4. **Criterio y táctica:** capacidad para interpretar situaciones, elegir prioridades y ajustar planes.
-5. **Experiencia práctica:** ejecución real bajo presión, incluidos errores y correcciones.
+5. **Experiencia práctica:** desempeño real bajo presión, incluidos errores y correcciones.
 6. **Recursos y equipo:** herramientas, armas, protecciones, materiales y consumibles.
 7. **Desarrollo personal y social:** confianza, cooperación, liderazgo situacional, relaciones y objetivos.
-8. **Progresión del mundo y del elenco:** otros personajes y grupos pueden mejorar fuera de la perspectiva de Kevin.
+8. **Progresión del mundo y del elenco:** otros personajes y grupos pueden cambiar y desarrollarse fuera de la perspectiva de Kevin.
 
 Una mejora en una vía no concede automáticamente una mejora en las demás.
 
-## Ficha de progresión por personaje
+## Registro individual
 
-Cada personaje con seguimiento activo tendrá un registro con:
+Cada personaje con seguimiento activo tendrá una ficha que conserve su estado vigente, sus capacidades y límites conocidos, conocimientos, objetivos de aprendizaje, equipo y recursos, y los cambios importantes de su trayectoria.
 
-- Nivel de partida o evaluación inicial.
-- Capacidades actuales y límites conocidos.
-- Objetivos de aprendizaje.
-- Práctica realizada y contexto.
-- Evidencias concretas de mejora.
-- Errores que todavía repite.
-- Capacidad que ya puede ejecutar de forma fiable.
-- Capacidad que comprende pero aún no ejecuta de forma fiable.
-- Tendencia: sin cambio, en aprendizaje, mejora demostrada o dominio consolidado.
-- Última revisión y justificación de cualquier cambio.
+La ficha debe permitir distinguir lo que el personaje sabe hacer de forma fiable, lo que comprende pero todavía no ejecuta de forma fiable, lo que está aprendiendo o practicando, y los errores y limitaciones que siguen presentes.
 
-## Dominio técnico: rúbrica que debe cerrarse
+El detalle será proporcional a la relevancia del personaje. No se crearán registros exhaustivos de cada participante pasajero.
 
-Para cada disciplina (por ejemplo, lanza, espada, arco o combate sin armas), evaluar por separado cinco dimensiones:
+## Evaluación y evidencia
 
-1. **Ejecución:** postura, agarre, trayectoria, mecánica y finalización del movimiento.
-2. **Control:** equilibrio, distancia, orientación, recuperación y protección de la propia posición.
-3. **Consistencia:** capacidad de repetir la acción sin depender de un acierto aislado.
-4. **Adaptación:** ajuste ante terreno, distancia, movimiento, defensa y cambios del adversario.
-5. **Presión:** conservación de una ejecución funcional ante miedo, fatiga, dolor, sorpresa o peligro real.
+Las mejoras deben tener una causa comprensible: práctica, enseñanza, observación, experimentación, experiencia, exposición o adaptación.
 
-Antes de iniciar la narración, definir descriptores observables para cada rango y cada dimensión. La evaluación no puede basarse solo en el número de enemigos vencidos ni en una impresión general de que el personaje «ya pelea mejor».
+No se mejora automáticamente por derrotar enemigos, completar un piso o acumular tiempo. Tampoco se exige una transformación extraordinaria para reconocer un avance pequeño pero demostrado.
 
-Una técnica puede estar aprendida a nivel conceptual, practicada con lentitud, ejecutada de forma funcional en un entorno conocido o aplicada de forma fiable bajo presión. Esos estados deben distinguirse en la ficha.
+Después de encuentros o etapas relevantes, y al cierre de cada piso, revisar qué intentó hacer cada personaje, qué consiguió, qué falló, qué corrigió y qué puede repetir ahora de manera más fiable. La revisión puede concluir que hubo progreso, que sigue aprendiendo, que no hay cambios suficientes o que se ha descubierto una limitación.
 
-## Atributos físicos: revisión real, no decorativa
-
-Si se utiliza una escala numérica, cada atributo debe tener:
-- Definición exacta de lo que mide.
-- Referencia inicial y ejemplos funcionales.
-- Diferencia observable entre niveles consecutivos.
-- Evidencias válidas para subir o bajar.
-- Procedimiento y momentos de reevaluación.
-- Separación entre capacidad habitual y condición temporal.
-
-No exigir una transformación extraordinaria para cada aumento pequeño. Tampoco aumentar por cada entrenamiento o pelea. La revisión debe realizarse de forma programada en hitos razonables y cada vez que se acumule evidencia suficiente. Si el personaje ha mejorado de manera demostrable, la ficha y la interfaz deben reflejarlo; no aplazarlo indefinidamente.
-
-## Registro de aprendizaje por escenario
-
-Después de cada escenario aprobado, revisar:
-- Qué intentó hacer cada personaje.
-- Qué logró y qué falló.
-- Qué corrección descubrió.
-- Qué pudo repetir correctamente.
-- Qué sigue haciendo mal.
-- Qué práctica adicional necesitaría.
-- Si existe evidencia suficiente para actualizar su nivel o si solo hay una tendencia.
-
-No confundir una buena decisión con una técnica dominada. No confundir una acción afortunada con capacidad estable. No ignorar una mejora repetida solo porque no hubo un entrenamiento formal.
+No confundir una buena decisión con dominio técnico, una acción afortunada con capacidad estable ni una mala actuación puntual con pérdida permanente de capacidad.
 
 ## Progresión independiente del elenco
 
-Los personajes recurrentes y las parties pueden entrenar, conseguir recursos, desarrollar técnicas, aprender de derrotas, cambiar de estrategia, estancarse o morir aunque Kevin no esté presente. No se inventarán avances fuera de escena sin fundamento narrativo; el diseño de cada piso debe permitir que esas trayectorias existan y que sus consecuencias puedan conocerse de forma coherente.
+Los personajes recurrentes y grupos pueden entrenar, conseguir recursos, desarrollar capacidades, aprender de derrotas, cambiar de estrategia, estancarse o morir aunque Kevin no esté presente. La historia no se detiene cuando el protagonista no los observa.
 
-## Revisión obligatoria
+Los avances fuera de escena deben tener fundamento narrativo y continuidad. No se inventan como hechos consumados si no han sido establecidos; cuando un personaje reaparezca, se conservará lo confirmado y se explicará su evolución cuando corresponda.
 
-Al cierre de cada piso y al comienzo de uno nuevo, comparar el estado actual con las evidencias acumuladas. El resultado puede ser una mejora, una especialización, una limitación descubierta, un estancamiento o una pérdida de capacidad. No hay una cuota de aumentos, pero tampoco una prohibición práctica de mejorar.
+## Revisión
+
+Al cierre de cada piso y al comienzo de uno nuevo, comparar el estado vigente con la evidencia acumulada. Actualizar el documento propietario del dato y registrar en el historial el acontecimiento que justifica el cambio.
+
+No hay una cuota de aumentos ni una prohibición práctica de mejorar. El objetivo es que la progresión sea gradual, demostrable y persistente para todo el elenco.
