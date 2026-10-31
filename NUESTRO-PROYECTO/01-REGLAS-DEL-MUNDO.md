@@ -30,91 +30,88 @@ Este documento será la única fuente normativa general del proyecto. No debe co
 
 - El mundo se organiza en pisos como estructura principal de progresión.
 - Se elimina la división obligatoria de cada piso en «escenarios».
-- Cada piso plantea un desafío principal integrado. Puede desarrollarse mediante varias etapas, situaciones u objetivos parciales, pero todos deben estar relacionados y contribuir al desafío final del piso.
-- Las etapas no deben sentirse como encargos independientes ni como una sucesión arbitraria de instrucciones para ir de un punto a otro. El desarrollo debe tener continuidad, relación causal y consecuencias.
-- El desafío principal debe tener un objetivo comprensible y condiciones explícitas para superarlo.
-- Superar la desafío habilita el avance al siguiente piso, sujeto a las condiciones de transición descritas más adelante.
+- Cada piso plantea un único desafío general integrado.
+- El desafío puede desarrollarse mediante distintas etapas, situaciones u objetivos parciales, pero todos deben guardar relación con el desafío general y contribuir a su desarrollo.
+- Las etapas no deben sentirse como encargos independientes ni como una sucesión arbitraria de instrucciones para ir de un punto a otro. El desarrollo debe tener coherencia y continuidad.
+- El desafío general debe tener una condición de superación comprensible y explícita.
+- Superar el desafío habilita el avance al siguiente piso, pero no equivale a alcanzar físicamente la salida.
 
 ### 1.2. Convocatoria y distribución de participantes
 
-- En cada piso, el Sistema selecciona y reúne a determinados participantes para el desafío principal de ese piso.
+- En cada piso, el Sistema selecciona y convoca a determinados participantes para afrontar el mismo desafío general.
 - Los participantes convocados coinciden en el Piso Principal antes de comenzar.
-- Al iniciar el desafío, pueden aparecer en diferentes puntos de una misma zona o espacio. La separación inicial no divide el desafío en desafíos independientes: todos forman parte del mismo desarrollo.
-- El Sistema debe informar con claridad cuántos participantes han sido convocados y cuál es la condición u objetivo general que deben cumplir.
-- Los participantes pueden encontrarse durante la desafío, cooperar, competir o actuar por separado.
-- Coincidir y superar una desafío junto a otros no garantiza que esos mismos participantes sean convocados juntos en el piso siguiente. En cada piso, el Sistema vuelve a seleccionar a los participantes de la desafío correspondiente.
+- Al iniciar el desafío, pueden aparecer en puntos separados dentro de la zona donde este se desarrolla. La separación inicial no divide el desafío en pruebas distintas.
+- El Sistema informa cuántos participantes han sido convocados y cuál es la condición u objetivo general que deben cumplir.
+- Los participantes pueden encontrarse durante el desafío, cooperar o actuar por separado.
+- Coincidir y superar un desafío junto a otros no garantiza que esos mismos participantes sean convocados juntos en el piso siguiente. El Sistema vuelve a decidir las convocatorias en cada piso.
 
-### 1.3. Información obligatoria de cada desafío
+### 1.3. Información del desafío
 
 Antes de comenzar, el Sistema debe comunicar de forma clara, como mínimo:
 
-- El objetivo de la desafío.
+- El objetivo o condición general del desafío.
 - El número de participantes convocados.
-- Las condiciones concretas para considerarla superada.
+- Las condiciones para considerar superado el desafío.
 - El tiempo límite, cuando corresponda.
 - Las reglas o restricciones particulares que afecten a su desarrollo.
-- Las consecuencias anunciadas de no cumplir el objetivo dentro del plazo.
+- Las consecuencias anunciadas de no cumplir el objetivo dentro del plazo, cuando exista uno.
 
-No se debe ocultar información esencial que los participantes necesiten para comprender qué deben lograr. Los peligros pueden ser desconocidos en su naturaleza o ubicación, pero las condiciones de la desafío y sus consecuencias anunciadas deben ser claras.
+Los participantes deben comprender qué deben conseguir. No necesariamente conocerán de antemano la naturaleza, ubicación o comportamiento de todos los peligros que encontrarán durante el desafío.
 
 ### 1.4. Tiempo límite y consecuencias
 
-- Las desafíos pueden tener un tiempo límite común para todos los participantes convocados.
-- El plazo debe ser razonable y estar calculado para que la desafío pueda completarse sin depender de llegar al último instante. El tiempo no debe funcionar como un obstáculo artificial o injusto.
-- Cuando exista un límite, el Sistema debe informar qué sucede si no se completa la desafío a tiempo.
-- Una posible consecuencia establecida para determinadas desafíos es que, al vencer el plazo, las criaturas detecten a los participantes, se vuelvan agresivas o los ataquen. Esto puede conducir a heridas o a la muerte.
-- El vencimiento del plazo no implica por sí mismo una muerte automática: el peligro surge de las consecuencias que el Sistema haya anunciado y de lo que ocurra después.
-- No se establece todavía una duración universal. El plazo se determinará según las características y exigencias de cada desafío.
+- Un desafío puede tener un tiempo límite común para todos los participantes convocados.
+- Cuando exista, el plazo debe ser razonable para las exigencias del desafío y no funcionar como un obstáculo artificial que obligue a llegar al último segundo.
+- El Sistema debe informar qué sucede si no se completa el desafío dentro del plazo.
+- El vencimiento del plazo no implica por sí mismo una muerte automática. Las consecuencias dependen de lo anunciado y de los peligros que se desencadenen.
 
-### 1.5. Cooperación y dificultad
+### 1.5. Cooperación y superación común
 
-- Formar un grupo no es obligatorio por defecto.
-- Una desafío puede estar diseñada de manera que la cooperación sea la vía razonable para superarla, aunque no se prohíba intentarlo individualmente.
-- Si superar una desafío en solitario es extremadamente difícil, esa dificultad debe surgir de los peligros y exigencias reales de la desafío, no de una obligación grupal arbitraria.
-- La desafío debe dejar claro qué resultado exige: si basta con que cada participante cumpla una condición individual, si se necesita un resultado colectivo o si existe otra condición específica. No se presumirá que todos deben llegar a la salida cuando el objetivo no lo establezca.
+- Formar un grupo reconocido por el Sistema no es obligatorio para participar en el desafío ni para cooperar durante él.
+- Los participantes pueden colaborar o actuar por separado, según las circunstancias.
+- El desafío tiene una condición general de superación compartida: cuando se cumple, el desafío se considera superado para todos los participantes convocados.
+- No se establecen objetivos individuales independientes por defecto. La condición general del desafío determina su superación.
 
-### 1.6. Superación, salida y transición
+### 1.6. Salida y transición
 
-- Cada desafío dispone de una salida general común, como regla habitual.
-- Superar el objetivo y alcanzar físicamente la salida son condiciones distintas.
-- Una vez cumplido el objetivo, cada participante que lo haya superado debe llegar físicamente a la salida.
-- Desde esa salida puede utilizar la transición o teletransporte al siguiente piso.
-- La salida única favorece un destino compartido y permite que la ubicación inicial, los encuentros y la cooperación influyan en el desarrollo de la desafío.
-- Podrán existir excepciones —por ejemplo, varias salidas— si el diseño de una desafío concreta lo justifica, pero no serán la regla general.
+- Cada piso tiene una única salida común para todos los participantes convocados.
+- Superar el desafío y alcanzar físicamente la salida son condiciones distintas.
+- Cuando se cumple la condición general, todos los participantes convocados han superado el desafío, pero eso no los transporta automáticamente ni los coloca en la salida.
+- Después de la superación, deben desplazarse por el piso, encontrar la salida y llegar físicamente hasta ella.
+- Todos deben utilizar esa misma salida para realizar la transición al siguiente piso.
 
-### 1.7. Fallo y consecuencias pendientes de definición
+### 1.7. Fracaso y consecuencias pendientes
 
-La lógica general admite que no completar una desafío pueda exponer a los participantes a consecuencias graves, incluida la muerte. Sin embargo, todavía falta definir de manera general qué sucede con cada participante que no supera una desafío: si queda atrapado, si puede seguir intentando cumplir el objetivo, si existe rescate, eliminación u otra consecuencia. No asumir una respuesta universal antes de diseñar esa regla.
+No cumplir la condición general puede exponer a los participantes a consecuencias graves, incluida la muerte. Todavía falta definir qué sucede exactamente cuando el desafío no se supera: si pueden seguir intentándolo, si existe rescate, si quedan atrapados o qué otras consecuencias pueden producirse. No asumir una respuesta universal antes de diseñar esa regla.
 
 ## 2. Participantes, entrada, salida y condiciones de supervivencia
 
-**Estado: ACUERDOS ESTABLECIDOS.** Algunos detalles de selección y las consecuencias generales del fracaso todavía pueden precisarse al desarrollar las reglas correspondientes.
+**Estado: ACUERDOS ESTABLECIDOS.** Los criterios de selección son desconocidos para los participantes; las consecuencias generales del fracaso todavía requieren definición.
 
 ### 2.1. Selección y convocatoria
 
 - El Sistema decide qué participantes convoca para cada desafío y cuántos serán.
 - Los participantes no conocen los motivos ni los criterios que utiliza el Sistema para seleccionarlos.
-- Tampoco conocen el propósito último del Sistema. Lo único que pueden afirmar por lo que experimentan es que los convoca y los somete a desafíos que deben superar.
+- Tampoco conocen el propósito último del Sistema. Por lo que experimentan, saben que los convoca y los somete a desafíos que deben superar.
 - No se presupone que los participantes puedan influir en la selección ni que exista una explicación accesible para ellos.
 
-### 2.2. Cantidad de participantes y peligrosidad
+### 2.2. Cantidad de participantes y dificultad
 
-- La cantidad de participantes convocados influye en el nivel de dificultad y peligro de la desafío. El Sistema determina ese nivel.
-- Una convocatoria numerosa es una señal de que las condiciones pueden ser especialmente peligrosas; no debe interpretarse como una desafío ordinaria simplemente ampliada.
-- En situaciones extremas, las condiciones pueden ser tan peligrosas que todos los participantes mueran si no consiguen superar la desafío. El Piso 9 de UMBRAL sirve como referencia del tipo de riesgo al que se alude, no como plantilla obligatoria para todas las desafíos.
-- No se establece una fórmula matemática ni una proporción fija entre cantidad de participantes y dificultad. Tampoco se afirma que toda convocatoria numerosa termine necesariamente en una eliminación total.
+- La cantidad de participantes convocados no determina ni aumenta por sí misma la dificultad o el peligro del desafío.
+- La dificultad y el peligro proceden principalmente de las características y condiciones del escenario en el que se desarrolla el desafío.
+- Un desafío puede ser mortal si sus condiciones lo hacen así, pero una convocatoria numerosa no significa automáticamente que todos vayan a morir si fracasan.
 
 ### 2.3. Aparición y salida
 
-- Al comenzar una desafío, los participantes aparecen en puntos separados dentro de la misma zona de desafío. La separación inicial no significa que estén realizando desafíos distintas.
-- Como regla general, todos comparten una única salida. Los participantes que hayan cumplido las condiciones de superación deben llegar físicamente hasta ella para realizar la transición.
-- Las condiciones específicas de superación y transición se rigen también por lo establecido en el punto 1 y por las reglas particulares que anuncie cada desafío.
+- Al comenzar el desafío, los participantes aparecen en puntos separados dentro de la zona donde este se desarrolla.
+- Todos comparten una única salida por piso.
+- Una vez superado el desafío general, cada participante debe encontrar esa salida y llegar físicamente hasta ella para realizar la transición.
 
 ### 2.4. Supervivencia y fracaso
 
-- El peligro de una desafío puede ser real y mortal. Si las condiciones no se superan, los participantes pueden morir como consecuencia de los peligros de la desafío.
-- En desafíos de riesgo extremo, el fracaso puede conducir a la muerte de todos los convocados; no es una ejecución automática del Sistema por el mero hecho de haberlos convocado.
-- Las consecuencias exactas del fracaso, así como la posibilidad de seguir intentándolo o de recibir ayuda, no quedan definidas como una regla universal en este punto. Se determinarán cuando se diseñe el sistema general de fracaso y supervivencia y, cuando corresponda, las condiciones particulares de cada desafío.
+- El peligro de un desafío puede ser real y mortal. Los participantes pueden morir como consecuencia de las condiciones y amenazas del escenario.
+- En situaciones extremas, el fracaso puede conducir a la muerte de todos los participantes convocados. Esto no significa que el Sistema los ejecute automáticamente por haber fracasado.
+- Las consecuencias exactas del fracaso, así como la posibilidad de seguir intentándolo o de recibir ayuda, todavía no están definidas como reglas generales.
 
 ## 3. Pisos, desafíos, etapas, tiempos y transiciones
 
@@ -145,7 +142,7 @@ La lógica general admite que no completar una desafío pueda exponer a los part
 - Las etapas, cuando existan, forman parte del mismo desafío general y contribuyen a su desarrollo.
 - No todos los pisos necesitan la misma cantidad de etapas ni una estructura fija.
 - Los tiempos límite, descansos, zonas seguras, cambios de situación y condiciones particulares se decidirán según las necesidades de cada piso. No se establece que todos deban incluirlos.
-- La condición general de superación es compartida: cuando se cumple, el desafío se considera superado para todos los participantes convocados.
+- Cuando se cumple la condición general, el desafío se considera superado para todos los participantes convocados.
 - Superar el desafío no equivale a alcanzar la salida. Cada participante debe encontrar y alcanzar físicamente la única salida del piso para realizar la transición.
 - Cada piso debe diseñarse con sus propias exigencias y peligros, sin repetir una plantilla rígida.
 
