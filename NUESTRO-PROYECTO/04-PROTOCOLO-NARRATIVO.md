@@ -1,6 +1,6 @@
 # 04 — Protocolo narrativo y control de continuidad
 
-**Estado: PROPUESTA REVISADA — pendiente de aprobación del usuario.**
+**Estado: APROBADO — procedimiento de consulta, control y mantenimiento.**
 
 ## Propósito
 
@@ -16,9 +16,10 @@ Antes de diseñar o narrar en un chat nuevo, o cuando se retome el proyecto desp
 2. Leer la versión vigente de `01-REGLAS-DEL-MUNDO.md`; no confiar en recuerdos ni resúmenes antiguos.
 3. Leer `03-CONTINUIDAD/ESTADO-ACTUAL.md` y el tramo pertinente de `HISTORIAL-APROBADO.md`.
 4. Leer las fichas de los personajes que participarán o puedan afectar directamente la escena.
-5. Leer el diseño aprobado del piso actual y la etapa exacta que corresponde.
-6. Consultar `07-SISTEMA-DE-PROGRESION.md` cuando se vaya a evaluar o describir aprendizaje, capacidades o mejoras.
-7. Confirmar que los archivos pertenecen a `NUESTRO-PROYECTO`, no a la carpeta de UMBRAL.
+5. Consultar los registros de grupos que participen, puedan reaparecer o tengan consecuencias relevantes.
+6. Leer el diseño aprobado del piso actual y la etapa exacta que corresponde.
+7. Consultar `07-SISTEMA-DE-PROGRESION.md` cuando se vaya a evaluar o describir aprendizaje, capacidades o mejoras.
+8. Confirmar que los archivos pertenecen a `NUESTRO-PROYECTO`, no a la carpeta de UMBRAL.
 
 Si una fuente necesaria no puede consultarse, está incompleta o presenta una contradicción relevante, no fingir que se verificó. Detener el trabajo afectado y explicar qué falta.
 
@@ -30,7 +31,8 @@ Después de consultar las fuentes, preparar un resumen breve de trabajo con:
 - participantes presentes y ubicaciones;
 - estado físico y recursos que puedan afectar las decisiones;
 - hechos y consecuencias activos;
-- conocimientos confirmados y desconocidos relevantes;
+- conocimientos confirmados, inferencias relevantes y desconocidos;
+- grupos y relaciones colectivas que afecten la situación;
 - siguiente paso permitido;
 - acciones o etapas que todavía están bloqueadas.
 
@@ -78,22 +80,24 @@ Antes de avanzar:
 - Consultar criaturas, amenazas, lugares, objetos y soluciones ya establecidos.
 - Revisar qué acontecimientos pueden avanzar fuera de la perspectiva de Kevin según el diseño y la continuidad.
 - Confirmar qué información sigue siendo desconocida para cada personaje.
+- Identificar grupos, integrantes, objetivos y relaciones colectivas pertinentes.
 - No adelantar etapas ni activar consecuencias cuyo requisito todavía no se haya cumplido.
 
 ## E. Control durante la narración
 
 1. Mantener continuidad temporal, espacial, física y de conocimiento.
 2. No dar a un personaje información que no haya obtenido.
-3. No conceder capacidades nuevas sin aprendizaje, práctica, experiencia o fundamento establecido.
-4. No ignorar capacidades ya demostradas ni convertirlas en éxito automático.
-5. No alterar silenciosamente el diseño aprobado, las reglas o las consecuencias.
-6. No hacer que el mundo se detenga cuando Kevin no está presente.
-7. No inventar sucesos fuera de escena como hechos consumados si no están establecidos por el diseño, la continuidad o una fuente narrativa fiable.
-8. Si aparece una contradicción que afecta a lo que ocurrirá, detenerse antes de consolidarla como hecho.
+3. Distinguir hechos confirmados, inferencias, desconocidos y propuestas.
+4. No conceder capacidades nuevas sin aprendizaje, práctica, experiencia o fundamento establecido.
+5. No ignorar capacidades ya demostradas ni convertirlas en éxito automático.
+6. No alterar silenciosamente el diseño aprobado, las reglas o las consecuencias.
+7. No hacer que el mundo se detenga cuando Kevin no está presente.
+8. No inventar sucesos fuera de escena como hechos consumados si no están establecidos por el diseño, la continuidad o una fuente narrativa fiable.
+9. Si aparece una contradicción que afecta a lo que ocurrirá, detenerse antes de consolidarla como hecho.
 
 ## F. Control de progresión después de cada escenario
 
-Revisar a Kevin y a los demás personajes recurrentes afectados. La revisión es obligatoria aunque el resultado sea «sin cambio».
+Revisar a Kevin y a los demás personajes recurrentes afectados. La revisión es obligatoria aunque el resultado sea «sin cambio». Revisar también los grupos recurrentes afectados cuando cambie su composición, cohesión, estrategia, recursos, objetivos o situación.
 
 Separar:
 - capacidad física;
@@ -103,7 +107,8 @@ Separar:
 - experiencia práctica bajo presión;
 - equipo y recursos;
 - condición temporal;
-- relaciones y objetivos.
+- relaciones y objetivos;
+- evolución colectiva del grupo, sin atribuirla automáticamente a cada integrante.
 
 Aplicar la rúbrica de `07-SISTEMA-DE-PROGRESION.md`. Registrar evidencias concretas, errores persistentes y cambios justificados. No conceder aumentos automáticos por completar un escenario, pero tampoco omitir mejoras demostradas por práctica y experiencia acumuladas.
 
@@ -115,9 +120,10 @@ Después de la aprobación:
 1. Añadir los hechos confirmados a `HISTORIAL-APROBADO.md`.
 2. Actualizar `ESTADO-ACTUAL.md` con el punto exacto de continuación y el siguiente paso permitido.
 3. Actualizar las fichas de todos los personajes cuyo estado haya cambiado, no solo la de Kevin.
-4. Registrar la progresión demostrada y la evidencia que la justifica.
-5. Modificar el diseño del piso únicamente si el usuario aprobó el cambio de diseño.
-6. Revisar que no se hayan duplicado datos ni creado contradicciones.
+4. Actualizar los registros de grupos afectados cuando cambie su situación colectiva.
+5. Registrar la progresión individual y colectiva demostrada y la evidencia que la justifica.
+6. Modificar el diseño del piso únicamente si el usuario aprobó el cambio de diseño.
+7. Revisar que no se hayan duplicado datos ni creado contradicciones.
 
 Al cerrar un piso, hacer una transferencia de continuidad usando `PLANTILLA-TRANSFERENCIA.md`.
 
