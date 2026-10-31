@@ -8,6 +8,8 @@ El Sistema de Combate registra y evalúa el dominio técnico de cada participant
 
 El sistema registra capacidades adquiridas; no las concede. No entrega técnicas por subir de rango, no convierte victorias en experiencia automática y no sustituye la práctica.
 
+El Sistema de Combate está disponible desde el Piso 1. Sus funciones de registro del dominio y elección de dotación son distintas: consultar o recibir equipo no modifica el rango de una disciplina ni enseña automáticamente a utilizarlo.
+
 No incluye estadísticas físicas numéricas. La condición física, las lesiones, el cansancio, el equipo y otros factores afectan al combate, pero no forman parte de los rangos de dominio técnico.
 
 ## 2. Dominio por disciplina
