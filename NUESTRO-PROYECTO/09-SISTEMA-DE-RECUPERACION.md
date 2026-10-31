@@ -1,6 +1,6 @@
 # 09 — Sistema de Recuperación
 
-**Estado: PROPUESTA REVISADA — pendiente de aprobación formal.**
+**Estado: APROBADO — sistema de recuperación.**
 
 ## 1. Función
 
