@@ -1,6 +1,6 @@
 # 06 — Arco global de los Pisos 1–10
 
-**Estado: propuesta general en desarrollo.** Los conceptos de esta matriz orientan el diseño; los detalles de cada piso se desarrollarán por separado. Las ideas de los Pisos 1–5 son propuestas de trabajo, no diseños definitivos ni aprobación de escenarios concretos.
+**Estado: propuesta general en desarrollo.** Este documento recoge la identidad y función narrativa de cada piso. No sustituye los diseños individuales: escenarios detallados, secuencias, enemigos concretos, composición de grupos y personajes recurrentes se definirán en el `diseño.html` correspondiente.
 
 ## Objetivo del arco
 
@@ -12,7 +12,7 @@ La dirección del Piso 10 es una operación colectiva para tomar una fortaleza. 
 
 | Piso | Concepto | Función dentro del arco |
 |---|---|---|
-| 1 | **Supervivencia — cacería inversa** | Propuesta: una criatura comienza persiguiendo y poniendo en peligro a los participantes. La situación evoluciona hasta que puedan localizarla, prepararse y darle caza. No se trata únicamente de escapar: deben sobrevivir y encontrar la oportunidad de acabar con la amenaza. |
+| 1 | **Supervivencia — cacería inversa** | **Propuesta aceptada como base general.** Región natural extensa y peligrosa. Una criatura comienza cazando a los participantes; primero deben sobrevivir, observarla y comprender sus comportamientos. Después tendrán que invertir la situación: localizarla, prepararse y matarla. Pone a prueba supervivencia, orientación, observación, uso del terreno y decisiones bajo presión. El protagonista aprende que no basta con ser fuerte: debe reconocer sus límites, aprovechar información y preparar sus enfrentamientos. Establece sus capacidades y limitaciones iniciales. |
 | 2 | **Adaptación** | Enfrentar amenazas con comportamientos y capacidades diferentes. La experiencia del primer piso no basta para resolverlo todo: observar, corregir errores, adaptar el equipo y cambiar de enfoque será esencial. |
 | 3 | **Formación** | Poner a prueba las ventajas y dificultades de avanzar acompañado. Introducir de forma significativa la formación de grupos reconocidos y mostrar la diferencia entre cooperar ocasionalmente y depender de una coordinación estable. |
 | 4 | **Cacería** | Desarrollar la iniciativa: localizar, seguir, preparar y enfrentar amenazas en un entorno amplio. A diferencia del primer piso, aquí la cacería parte de una búsqueda y preparación más deliberadas, no de una persecución que deben revertir. |
@@ -35,6 +35,7 @@ La dirección del Piso 10 es una operación colectiva para tomar una fortaleza. 
 
 ## Estado del trabajo
 
-- **Pisos 1–5:** propuestas generales para revisar piso por piso; todavía no son diseños definitivos.
+- **Piso 1:** base general aceptada; falta desarrollar su diseño individual.
+- **Pisos 2–5:** propuestas generales pendientes de revisión piso por piso.
 - **Piso 8:** concepto general aceptado; falta desarrollar el diseño completo.
 - **Pisos 6–7 y 9–10:** conceptos generales de referencia; desarrollar sus diseños particulares cuando corresponda.
