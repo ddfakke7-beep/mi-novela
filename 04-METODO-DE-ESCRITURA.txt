@@ -437,3 +437,22 @@ Una propuesta acertada no garantiza que los demás la sigan. La confianza se con
 ### 15.4. Progresión física y técnica ganada
 
 Al narrar combate, separar comprender una oportunidad de poder ejecutarla. Kevin puede identificar una acción útil y fallar por fuerza, velocidad, coordinación, reacción, técnica, distancia, miedo, urgencia o falta de práctica. Su condición inicial de combate no debe fijarse con cifras antes de la evaluación aprobada del Piso 3. El aprendizaje facilitado por UMBRAL puede ayudarlo a consolidar hábitos y aprender con mayor facilidad, pero no sustituye la práctica, no elimina las limitaciones y no garantiza una ejecución correcta bajo presión. Registrar avances solo cuando las escenas aprobadas aporten evidencia.
+
+
+## 16. Reconocimiento de progresión acumulada y revisión de ficha
+
+Al iniciar un nuevo piso principal o una etapa de revisión del Sistema, comprobar si la experiencia aprobada de los pisos anteriores ya justifica un cambio de dominio técnico que todavía no se haya reflejado en la ficha. No retrasar indefinidamente un reconocimiento que la evidencia acumulada ya sostiene, pero tampoco conceder rangos por el mero hecho de completar un piso.
+
+Distinguir tres dimensiones que pueden avanzar a ritmos diferentes:
+
+- **Atributos:** capacidades físicas habituales representadas por los seis valores numéricos. Solo cambian cuando existe adaptación sostenida y una reevaluación fundada confirma el nuevo valor. No subirlos automáticamente por entrenar, combatir, sobrevivir o completar pisos.
+- **Dominio técnico:** rango independiente para cada arma o disciplina. Se determina por ejecución, consistencia, control, adaptación y desempeño bajo presión, atendiendo al historial completo y no a una sola victoria.
+- **Conocimiento, criterio y experiencia práctica:** pueden mejorar sin modificar atributos ni rango. Registrar qué aprendió el personaje y qué logra aplicar, sin convertirlo en dominio automático.
+
+Cuando el sistema o los personajes revisen su ficha, mostrar por separado los atributos y los rangos de dominio por disciplina. No llamar «estadísticas» indistintamente a ambas categorías ni presentar el rango de un arma como si fuera un atributo físico.
+
+El Piso 9 puede hacer visible una progresión técnica que ya se ha ganado durante los Pisos 6–8. En la revisión inicial prevista para ese piso, Kevin reconoce la lanza en Rango 2 (Competente) y Darío la espada en Rango 2 (Competente). Se trata del reconocimiento de su nivel acumulado, no de una mejora súbita producida por entrar al Piso 9. No elevarlos a Rango 3 sin evidencia adicional de adaptación fiable y combinación táctica bajo presión significativa.
+
+La revisión del Piso 9 no debe forzar un aumento de los seis atributos de Kevin. Mantener sus valores vigentes —Fuerza 4, Velocidad 5, Resistencia 4, Coordinación 5, Percepción 5 y Reacción 4— mientras no exista evidencia suficiente para reevaluar alguno. Si durante el Piso 9 aparecen pruebas relevantes, registrar primero la tendencia y solo actualizar la cifra cuando el cambio habitual esté confirmado.
+
+Tras una revisión, actualizar la ficha de personajes y el diseño del piso con lo que haya quedado establecido, distinguiendo el estado ya reconocido de cualquier cambio que todavía dependa de una escena futura o de aprobación del usuario. No inventar rangos para armas secundarias ni para otros integrantes del grupo por analogía.
