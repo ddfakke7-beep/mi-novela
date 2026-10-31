@@ -11,11 +11,11 @@ El trabajo se realiza en este orden:
 3. Diseñar y aprobar el sistema de progresión y sus criterios de evaluación.
 4. Crear el elenco inicial y decidir el nivel de seguimiento de cada personaje.
 5. Construir el arco global de los Pisos 1–10: identidad, acontecimientos estructurales y progresión posible del elenco.
-6. Diseñar cada piso completo, incluido su Piso Principal, fases, tiempos, escenarios, amenazas, recursos y transiciones.
+6. Diseñar cada piso completo, incluido su Piso Principal, fases, tiempos, etapas del desafío, amenazas, recursos y transiciones.
 7. Revisar contradicciones, continuidad, variedad y progresión.
 8. Obtener aprobación del diseño del piso.
-9. Narrar sus escenarios en el orden aprobado.
-10. Obtener aprobación de cada escenario y actualizar los registros correspondientes.
+9. Narrar el desarrollo del desafío respetando su estructura y continuidad, sin convertir sus etapas en pruebas independientes por defecto.
+10. Obtener aprobación de cada tramo narrativo presentado y actualizar los registros correspondientes.
 
 No comenzar la narración de un piso cuyo diseño todavía no haya sido aprobado.
 
@@ -24,11 +24,12 @@ No comenzar la narración de un piso cuyo diseño todavía no haya sido aprobado
 Cada piso se diseña como una experiencia completa antes de escribir sus escenas. El diseño debe dejar claro:
 - qué función cumple en el arco global;
 - qué experiencia ofrece y cómo se diferencia de los pisos anteriores;
-- cómo funciona su Piso Principal y qué fases preceden al primer escenario;
+- cómo funciona su Piso Principal y qué fases preceden al inicio del desafío;
 - qué personajes y grupos participan;
 - qué oportunidades reales de progreso existen para Kevin y para otros;
 - qué amenazas, recursos, encuentros y decisiones lo componen;
-- qué condiciones permiten superar cada etapa;
+- cómo se conectan las etapas, situaciones y objetivos parciales con el desafío general;
+- qué condiciones permiten considerar superado el desafío;
 - qué consecuencias y transiciones deja.
 
 El diseño aprobado es la referencia obligatoria de estructura. No se omiten, reordenan ni sustituyen etapas por conveniencia narrativa.
@@ -49,17 +50,17 @@ Si detecta que un cambio estructural mejoraría el piso, debe explicar el proble
 
 ## 4. Aprobación y canon
 
-Un diseño o escenario escrito no se convierte automáticamente en canon. El usuario decide su aprobación.
+Un diseño o tramo narrativo escrito no se convierte automáticamente en canon. El usuario decide su aprobación.
 
 - Diseño aprobado: fija la estructura que debe respetarse.
-- Escenario aprobado: incorpora sus acontecimientos a la continuidad.
+- Tramo narrativo aprobado: incorpora sus acontecimientos a la continuidad.
 - Propuesta o borrador: puede revisarse libremente, pero no presentarse como hecho confirmado.
 
 No actualizar los registros oficiales con contenido no aprobado.
 
 ## 5. Mantenimiento sin duplicaciones
 
-Después de aprobar un escenario:
+Después de aprobar un tramo narrativo:
 - el historial registra qué ocurrió;
 - las fichas registran el estado resultante de cada personaje afectado;
 - el estado actual indica dónde continuar;
@@ -70,7 +71,7 @@ Al cerrar un piso, completar una transferencia de continuidad. No copiar fichas 
 
 ## 6. Revisión de calidad
 
-Antes de presentar un diseño o escenario, comprobar:
+Antes de presentar un diseño o tramo narrativo, comprobar:
 - coherencia con reglas y continuidad;
 - cumplimiento del orden y las condiciones aprobadas;
 - identidad propia del piso;
@@ -78,5 +79,5 @@ Antes de presentar un diseño o escenario, comprobar:
 - progresión demostrable del elenco sin obligar a todos a mejorar al mismo tiempo;
 - autonomía y agencia de personajes secundarios y grupos;
 - costes, riesgos y consecuencias reales;
-- claridad de tiempos, fases, objetivos y transiciones;
+- claridad de tiempos, fases, objetivo general y transiciones;
 - ausencia de soluciones arbitrarias, protección del protagonista o cambios retroactivos silenciosos.
