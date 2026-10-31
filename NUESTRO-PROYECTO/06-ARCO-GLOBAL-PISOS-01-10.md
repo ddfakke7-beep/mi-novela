@@ -1,22 +1,22 @@
 # 06 — Arco global de los Pisos 1–10
 
-**Estado: propuesta general actualizada.** Los conceptos de esta matriz orientan el diseño; los detalles de cada piso se desarrollarán en su archivo propio. No se consideran aprobados los acontecimientos concretos, participantes, enemigos ni resultados que todavía no se hayan diseñado.
+**Estado: propuesta general en desarrollo.** Los conceptos de esta matriz orientan el diseño; los detalles de cada piso se desarrollarán por separado. Las ideas de los Pisos 1–5 son propuestas de trabajo, no diseños definitivos ni aprobación de escenarios concretos.
 
 ## Objetivo del arco
 
 Los diez primeros pisos forman una progresión conectada. Cada piso debe tener identidad y experiencia propias, desarrollar capacidades o relaciones útiles y dejar consecuencias para los siguientes. La dificultad no debe consistir simplemente en aumentar las estadísticas de los enemigos ni repetir una misma prueba con otro escenario.
 
-La dirección del Piso 10 es una operación colectiva para tomar una fortaleza. Los pisos anteriores preparan gradualmente a los participantes para que esa operación sea posible: supervivencia, adaptación, combate, preparación, resistencia, cooperación, integración y especialización. El Piso 9 sirve como síntesis de la cooperación entre grupos antes de la conquista.
+La dirección del Piso 10 es una operación colectiva para tomar una fortaleza. Los pisos anteriores preparan gradualmente a los participantes para que esa operación sea posible.
 
 ## Matriz general
 
 | Piso | Concepto | Función dentro del arco |
 |---|---|---|
-| 1 | **Supervivencia** | Presentar el sistema y las condiciones reales de este mundo. Los participantes deben aprender a sobrevivir, combatir cuando sea necesario, administrar recursos y comprender que sus decisiones tienen consecuencias. Establece el punto de partida del elenco. |
+| 1 | **Supervivencia — cacería inversa** | Propuesta: una criatura comienza persiguiendo y poniendo en peligro a los participantes. La situación evoluciona hasta que puedan localizarla, prepararse y darle caza. No se trata únicamente de escapar: deben sobrevivir y encontrar la oportunidad de acabar con la amenaza. |
 | 2 | **Adaptación** | Enfrentar amenazas con comportamientos y capacidades diferentes. La experiencia del primer piso no basta para resolverlo todo: observar, corregir errores, adaptar el equipo y cambiar de enfoque será esencial. |
 | 3 | **Formación** | Poner a prueba las ventajas y dificultades de avanzar acompañado. Introducir de forma significativa la formación de grupos reconocidos y mostrar la diferencia entre cooperar ocasionalmente y depender de una coordinación estable. |
-| 4 | **Cacería** | Desarrollar la iniciativa: localizar, seguir, preparar y enfrentar amenazas en un entorno amplio. Los participantes no se limitan a reaccionar a encuentros impuestos; deben decidir cómo abordar una cacería y asumir sus riesgos. |
-| 5 | **Resistencia** | Someter a los participantes a una operación prolongada con varios encuentros y desgaste acumulado. Importan la administración del esfuerzo, el equipo, los recursos, los descansos y las decisiones tomadas cuando ya existe cansancio o daño. |
+| 4 | **Cacería** | Desarrollar la iniciativa: localizar, seguir, preparar y enfrentar amenazas en un entorno amplio. A diferencia del primer piso, aquí la cacería parte de una búsqueda y preparación más deliberadas, no de una persecución que deben revertir. |
+| 5 | **Resistencia — expedición del grupo** | Propuesta: el grupo de los protagonistas atraviesa una región extensa y supera varios encuentros durante una operación prolongada. El foco está en administrar esfuerzo, equipo, recursos, descansos y heridas acumuladas. No tiene que ser una prueba conjunta de todos los participantes. |
 | 6 | **El bloqueo** | Desafío colectivo con varios equipos y funciones complementarias. Ningún grupo pequeño puede resolver por sí solo toda la situación; la cooperación entre equipos se vuelve necesaria. |
 | 7 | **Integración** | Reunir capacidades que antes se pusieron a prueba por separado: combate, movimiento, percepción, lectura del entorno, juicio y cooperación. El entorno y las amenazas mantienen presión durante el recorrido. |
 | 8 | **Especialización** | Convertir la experiencia acumulada en formas de combate más personales y eficaces. Los participantes se enfrentan a adversarios de élite que exigen enfoques distintos: superar fuerza o defensa, responder a velocidad y precisión, y afrontar gran resistencia. No es una clase ni garantiza que todos se vuelvan expertos; cada participante descubre, practica y mejora aquello en lo que puede aportar más. |
@@ -26,16 +26,15 @@ La dirección del Piso 10 es una operación colectiva para tomar una fortaleza. 
 ## Criterios de continuidad
 
 - Los pisos 1–5 establecen y desarrollan las bases; los pisos 6–10 llevan esas capacidades a desafíos de mayor coordinación y complejidad.
-- Los conceptos no obligan a repetir una fórmula. Cada piso debe tener un objetivo central claro y una experiencia diferenciada.
-- La progresión de Kevin y de los demás personajes debe ser gradual y ganada. No se garantizan ascensos, victorias ni aprendizajes automáticos.
-- El elenco se introduce progresivamente. Los personajes de UMBRAL no pertenecen a este proyecto; NUESTRO-PROYECTO tendrá personajes propios.
-- Los grupos pueden tener capacidades, objetivos y relaciones distintas. La cooperación no equivale automáticamente a pertenecer a un grupo reconocido.
-- Los detalles del Piso 10 —fortaleza, distribución, defensores y condiciones exactas de conquista— se diseñarán cuando corresponda, tomando en cuenta lo establecido en los pisos anteriores.
-- Cada diseño particular deberá respetar las reglas del mundo y los sistemas oficiales del proyecto. Si aparece una contradicción, debe señalarse antes de incorporarla.
+- Cada piso debe tener un objetivo central claro y una experiencia diferenciada.
+- La progresión de los personajes debe ser gradual y ganada. No se garantizan victorias ni aprendizajes automáticos.
+- NUESTRO-PROYECTO tendrá personajes propios; no se trasladan personajes de UMBRAL.
+- La cooperación no equivale automáticamente a pertenecer a un grupo reconocido.
+- Los detalles del Piso 10 se diseñarán cuando corresponda, tomando en cuenta lo establecido en los pisos anteriores.
+- Cada diseño particular deberá respetar las reglas oficiales del proyecto. Si aparece una contradicción, debe señalarse antes de incorporarla.
 
 ## Estado del trabajo
 
-- **Conceptos generales 1–10:** definidos como propuesta de arco.
+- **Pisos 1–5:** propuestas generales para revisar piso por piso; todavía no son diseños definitivos.
 - **Piso 8:** concepto general aceptado; falta desarrollar el diseño completo.
-- **Pisos 1 y 5:** siguientes prioridades de diseño.
-- **Pisos 2–4 y 6–10:** desarrollar sus diseños particulares cuando corresponda, sin confundir esta matriz con un diseño completo.
+- **Pisos 6–7 y 9–10:** conceptos generales de referencia; desarrollar sus diseños particulares cuando corresponda.
