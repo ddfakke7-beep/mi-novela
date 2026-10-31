@@ -1,45 +1,73 @@
 # 00 — Arquitectura documental
 
-**Estado: propuesta estructural; pendiente de aprobación.**
+**Estado: PROPUESTA REVISADA — pendiente de aprobación del usuario.**
 
-## Principio
+## 1. Principio rector
 
-Cada dato debe tener un único lugar principal. Los demás documentos pueden enlazarlo o resumirlo para uso operativo, pero no volver a definirlo. Si dos fuentes discrepan, se aplica la jerarquía indicada aquí y se registra la contradicción para corregirla.
+Cada dato tiene un documento propietario. Los demás documentos pueden resumirlo para facilitar el trabajo, pero no crear una segunda versión independiente.
 
-## Jerarquía de autoridad
+La arquitectura no funciona mediante una jerarquía lineal en la que un archivo siempre vence a todos los demás. Funciona mediante **autoridad por ámbito**: cada fuente es autoridad sobre el tipo de información que le corresponde.
 
-1. **01-REGLAS-DEL-MUNDO.md:** autoridad sobre las reglas objetivas del mundo y del Sistema.
-2. **Diseño aprobado del piso:** autoridad sobre la estructura, fases, objetivos, amenazas, condiciones y particularidades de ese piso, siempre dentro de las reglas generales.
-3. **Fichas de personajes:** autoridad sobre el estado vigente, capacidades, conocimientos, equipo, recursos y relaciones de cada personaje.
-4. **CONTINUIDAD:** autoridad sobre los hechos narrativos aprobados, su orden, sus consecuencias y el punto exacto de continuación.
-5. **04-PROTOCOLO-NARRATIVO.md:** procedimiento obligatorio para consultar y aplicar las fuentes anteriores; no crea reglas del mundo.
-6. **05-MÉTODO-DE-DISEÑO-Y-TRABAJO.md:** procedimiento para planificar, diseñar, revisar, aprobar y mantener el proyecto.
+Si dos fuentes que deberían ser compatibles discrepan, no elegir una en silencio: detener el trabajo afectado, identificar el conflicto y resolverlo antes de narrar.
 
-Un escenario aprobado no puede reescribir una regla maestra. Una regla nueva no altera retroactivamente hechos aprobados. Si una regla y un hecho parecen incompatibles, detenerse y resolver la contradicción explícitamente.
+## 2. Fuentes y responsabilidad exclusiva
 
-## Responsabilidad de cada documento
+| Fuente | Es autoridad sobre | No debe convertirse en |
+|---|---|---|
+| `01-REGLAS-DEL-MUNDO.md` | Reglas generales, límites y funcionamiento del mundo/Sistema | Manual de estilo, ficha de personaje o resumen de pisos |
+| `PISOS/piso-XX/diseño.html` | Plan aprobado de ese piso: fases, orden, objetivos, participantes previstos, amenazas, condiciones y transiciones | Registro de acontecimientos ya ocurridos |
+| `02-PERSONAJES/` | Estado vigente individual: capacidades, conocimientos, equipo, recursos, condición, objetivos y relaciones | Historial completo de la novela |
+| `03-CONTINUIDAD/HISTORIAL-APROBADO.md` | Hechos narrativos aprobados, orden, causas y consecuencias confirmadas | Copia completa de todas las fichas |
+| `03-CONTINUIDAD/ESTADO-ACTUAL.md` | Resumen operativo del punto exacto en que continúa la historia | Segunda versión de las reglas o de las fichas |
+| `04-PROTOCOLO-NARRATIVO.md` | Controles que obligan a consultar y aplicar las fuentes | Fuente de nuevas reglas del mundo |
+| `05-METODO-DE-DISENO-Y-TRABAJO.md` | Procedimiento para diseñar, revisar, aprobar y mantener | Repetición de reglas narrativas |
+| `06-ARCO-GLOBAL-PISOS-01-10.md` | Propósito y progresión planificada del arco global | Canon de sucesos todavía no narrados |
+| `07-SISTEMA-DE-PROGRESION.md` | Método de evaluación y registro del crecimiento | Estado actual de Kevin o de otro personaje |
 
-- `01-REGLAS-DEL-MUNDO.md`: qué es posible, imposible, obligatorio o limitado en el mundo.
-- `02-PERSONAJES/`: quién es cada personaje y cuál es su estado actual. Cada personaje recurrente tendrá ficha propia; el nivel de detalle dependerá de su importancia.
-- `03-CONTINUIDAD/ESTADO-ACTUAL.md`: dónde está la historia ahora, qué consecuencias siguen activas y qué debe ocurrir después.
-- `03-CONTINUIDAD/HISTORIAL-APROBADO.md`: hechos aprobados en orden cronológico. No repetir fichas completas.
-- `04-PROTOCOLO-NARRATIVO.md`: qué consultar y qué verificar antes, durante y después de narrar.
-- `05-METODO-DE-DISEÑO-Y-TRABAJO.md`: cómo diseñamos primero el piso completo y luego escribimos sus escenarios.
-- `06-ARCO-GLOBAL-PISOS-01-10.md`: visión conjunta de los diez primeros pisos y progresión planificada del elenco.
-- `07-SISTEMA-DE-PROGRESION.md`: cómo se mide y registra el crecimiento; no contiene el estado actual de cada personaje.
-- `PISOS/piso-XX/diseño.html`: diseño específico y aprobado del piso, con etapas, secuencias, participantes y condiciones.
+## 3. Cómo resolver información aparentemente contradictoria
 
-## Regla contra duplicaciones
+Aplicar estas distinciones:
 
-Si un dato cambia, se actualiza su documento propietario. La continuidad registra el acontecimiento que causó el cambio y el punto temporal, pero no vuelve a mantener una copia completa de la ficha. El protocolo puede incluir listas de comprobación, pero no repetir el contenido de las reglas.
+- **¿Qué debía pasar?** Consultar el diseño aprobado del piso.
+- **¿Qué pasó realmente?** Consultar el historial narrativo aprobado.
+- **¿Cómo está ahora un personaje?** Consultar su ficha vigente.
+- **¿En qué punto exacto estamos?** Consultar el estado actual.
+- **¿Qué está permitido o prohibido por el mundo?** Consultar las reglas maestras.
+- **¿Cómo debemos trabajar?** Consultar el protocolo y el método.
 
-## Elenco y profundidad de seguimiento
+El diseño no convierte una posibilidad planificada en un hecho. La continuidad no puede cambiar una regla general. Una ficha actualizada no puede inventar un acontecimiento que no haya sido aprobado. El estado actual es un resumen de navegación: si contradice el historial o una ficha, debe corregirse, no tratarse como una fuente nueva de canon.
+
+Una regla nueva no modifica retroactivamente hechos aprobados, salvo que el usuario decida expresamente revisar la continuidad.
+
+## 4. Estructura del proyecto
+
+- `00-ARQUITECTURA.md`
+- `01-REGLAS-DEL-MUNDO.md`
+- `02-PERSONAJES/INDICE.md` y fichas individuales.
+- `03-CONTINUIDAD/ESTADO-ACTUAL.md`
+- `03-CONTINUIDAD/HISTORIAL-APROBADO.md`
+- `03-CONTINUIDAD/PLANTILLA-TRANSFERENCIA.md`
+- `04-PROTOCOLO-NARRATIVO.md`
+- `05-METODO-DE-DISENO-Y-TRABAJO.md`
+- `06-ARCO-GLOBAL-PISOS-01-10.md`
+- `07-SISTEMA-DE-PROGRESION.md`
+- `PISOS/piso-XX/diseño.html`
+
+## 5. Elenco y profundidad de seguimiento
 
 - Personajes centrales y recurrentes: ficha individual con estado, capacidades, conocimientos, objetivos, relaciones, equipo y progresión.
-- Personajes secundarios con posibilidad de regresar: registro breve y parcial, ampliable cuando se conozcan nuevos hechos.
-- Personajes pasajeros: no necesitan ficha persistente salvo que una consecuencia justifique conservarlos.
-- La ausencia de Kevin no detiene el mundo. Los personajes y grupos pueden progresar, tomar decisiones, cambiar de objetivo, separarse, sufrir pérdidas o morir fuera de su presencia. Solo se registran como hechos cuando la narración o una fuente fiable establece qué ocurrió.
+- Personajes secundarios con posibilidad de regresar: registro breve, ampliable cuando adquieran relevancia.
+- Personajes pasajeros: no requieren ficha persistente salvo que sus acciones produzcan consecuencias relevantes.
+- Los personajes y grupos pueden progresar, entrenar, cambiar de objetivo, separarse, sufrir pérdidas o morir aunque Kevin no esté presente. No se inventarán esos avances: deberán estar previstos por el diseño, narrados o establecidos mediante una fuente fiable dentro de la historia.
 
-## Estados documentales
+## 6. Estados documentales
 
-Todo contenido importante se marca como uno de estos estados: **borrador**, **propuesta**, **aprobado**, **descartado** o **pendiente de confirmar**. Solo el contenido aprobado puede tratarse como canon.
+Todo contenido importante se identifica como **borrador**, **propuesta**, **aprobado**, **descartado** o **pendiente de confirmar**.
+
+Solo el contenido aprobado puede tratarse como canon. Un documento puede contener secciones aprobadas y otras pendientes; el estado debe indicarse por sección cuando sea necesario.
+
+## 7. Regla contra duplicaciones
+
+Cuando cambie un dato, actualizar su documento propietario. El historial registra el acontecimiento que causó el cambio; la ficha registra el estado resultante; el estado actual señala dónde continuar. Ninguno debe copiar íntegramente el contenido de los otros.
+
+El protocolo puede mencionar qué archivos consultar y qué comprobar, pero no reproducir sus reglas.
