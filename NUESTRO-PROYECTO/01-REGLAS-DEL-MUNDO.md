@@ -1,6 +1,6 @@
 # 01 — Reglas del mundo y del Sistema
 
-**Estado: EN DISEÑO.** Los puntos 1, 2 y 5, 6, 8 y 11 contienen acuerdos establecidos o iniciales; los demás apartados siguen pendientes. No usar como conjunto normativo completo hasta que las reglas estén diseñadas y aprobadas.
+**Estado: EN DISEÑO.** Los puntos 1, 2, 3, 5, 6, 8 y 11 contienen acuerdos establecidos o iniciales; los demás apartados siguen pendientes. No usar como conjunto normativo completo hasta que las reglas estén diseñadas y aprobadas.
 
 Este documento será la única fuente normativa general del proyecto. No debe convertirse en una mezcla de reglas, instrucciones narrativas, fichas de personajes y resúmenes de continuidad.
 
