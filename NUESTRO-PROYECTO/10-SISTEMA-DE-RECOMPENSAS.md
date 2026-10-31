@@ -1,6 +1,6 @@
 # 10 — Sistema de Recompensas
 
-**Estado: PROPUESTA DE DISEÑO — incorpora acuerdos conversados; pendiente de aprobación.**
+**Estado: APROBADO — marco general de recompensas.**
 
 ## 1. Función
 
