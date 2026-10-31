@@ -40,7 +40,7 @@ Este documento será la única fuente normativa general del proyecto. No debe co
 
 - En cada piso, el Sistema selecciona y convoca a determinados participantes para afrontar el mismo desafío general.
 - Los participantes convocados coinciden en el Piso Principal antes de comenzar.
-- Al iniciar el desafío, pueden aparecer en puntos separados dentro de la zona donde este se desarrolla. La separación inicial no divide el desafío en pruebas distintas.
+- Al iniciar el desafío, aparecen en puntos separados dentro de la zona donde este se desarrolla. La separación inicial no divide el desafío en pruebas distintas.
 - El Sistema informa cuántos participantes han sido convocados y cuál es la condición u objetivo general que deben cumplir.
 - Los participantes pueden encontrarse durante el desafío, cooperar o actuar por separado.
 - Coincidir y superar un desafío junto a otros no garantiza que esos mismos participantes sean convocados juntos en el piso siguiente. El Sistema vuelve a decidir las convocatorias en cada piso.
