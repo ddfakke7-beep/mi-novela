@@ -31,6 +31,7 @@ El elenco se construye progresivamente a través de los pisos. En el diseño de 
 - Los demás personajes tienen sus propios ritmos, objetivos, especialidades, errores y oportunidades. Algunos pueden superar a Kevin en determinadas capacidades.
 - La evolución del mundo no se pausa cuando Kevin está ausente. Los hechos fuera de su perspectiva deben tener una causa y una forma coherente de llegar a la narración.
 - Los pisos 1–9 deben contribuir, de distintas maneras, a preparar el terreno, a los personajes y a los grupos para la batalla de toma de fortaleza prevista para el Piso 10. No tienen que anticipar todos los detalles ni repetir una misma fórmula.
+- Los pisos 1–9 deben contribuir, de distintas maneras, a preparar el terreno, a los personajes y a los grupos para la batalla de toma de fortaleza prevista para el Piso 10. No tienen que anticipar todos los detalles ni repetir una misma fórmula.
 - Cada piso debe poner a prueba capacidades previas, abrir posibilidades nuevas o cambiar las condiciones del mundo.
 - La dificultad debe surgir de amenazas, terreno, información, recursos, presión, cooperación y decisiones, no de aumentar automáticamente todas las estadísticas enemigas.
 - Los temas y los resultados concretos se decidirán durante el diseño, no se inventarán como canon en esta plantilla.
