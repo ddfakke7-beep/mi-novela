@@ -46,14 +46,14 @@ Antes de narrar la llegada o avanzar dentro de un Piso Principal, identificar:
 
 - Qué ocurrió al terminar el piso anterior y quiénes llegan.
 - Qué restauraciones, entregas, elecciones, registros, reuniones o cambios de estado corresponden.
-- Qué duración total establece la regla y el diseño de este piso.
+- El plazo general de 24 horas y cualquier distribución de fases o condiciones particulares establecidas en el diseño.
 - Qué fases existen, cuánto dura cada una y en qué orden ocurren.
 - Quién está sujeto a cada contador, cuándo empieza y cuándo termina.
 - Qué condiciones permiten cerrar cada fase.
 - Qué condición exacta habilita la transición al desafío general.
 - Qué excepciones específicas se aplican en este piso.
 
-No asumir que todos los pisos comparten la misma duración, fases o excepciones. Consultar el diseño concreto y las reglas vigentes.
+El plazo general es de 24 horas. Consultar el diseño concreto para las fases, condiciones y consecuencias de fracaso propias del piso.
 
 ### Bloqueo de avance
 
@@ -78,7 +78,7 @@ El piso constituye un desafío integrado. Las etapas y situaciones no deben trat
 ## D. Control antes de cada etapa o situación relevante
 
 - Verificar su función dentro del desafío general, las condiciones de desarrollo y los límites temporales que correspondan.
-- Confirmar participantes, ubicaciones, distancias y conocimientos individuales.
+- Confirmar participantes, party a la que pertenecen, punto de partida, ubicaciones, distancias y conocimientos individuales.
 - Revisar heridas, dolor, fatiga, hambre, sed, sueño, equipo, consumibles y recursos relevantes.
 - Revisar capacidades, técnicas, experiencia y errores demostrados de cada personaje.
 - Consultar criaturas, amenazas, lugares, objetos y soluciones ya establecidos.
