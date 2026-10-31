@@ -1,66 +1,128 @@
 # 04 — Protocolo narrativo y control de continuidad
 
-**Estado: propuesta operativa; debe aplicarse una vez aprobado.**
+**Estado: PROPUESTA REVISADA — pendiente de aprobación del usuario.**
 
-Este documento no repite las reglas del mundo. Obliga a consultar las fuentes correctas y comprobar que se aplican antes de escribir. La comprobación se realiza internamente; al usuario solo se le muestran contradicciones, vacíos o decisiones que requieran su intervención.
+## Propósito
 
-## A. Comprobación obligatoria antes de cada sesión
+Este protocolo hace que las reglas y los documentos se apliquen durante la narración. No reemplaza las fuentes ni vuelve a explicar sus contenidos: establece qué debe consultarse, qué debe verificarse y cuándo está prohibido avanzar.
 
-1. Leer `00-ARQUITECTURA.md` para respetar la jerarquía documental.
-2. Leer `01-REGLAS-DEL-MUNDO.md` vigente; no confiar en recuerdos de conversaciones anteriores.
-3. Leer `03-CONTINUIDAD/ESTADO-ACTUAL.md` y el tramo relevante de `HISTORIAL-APROBADO.md`.
-4. Leer las fichas de los personajes presentes y de quienes puedan afectar directamente la escena.
-5. Leer el `diseño.html` aprobado del piso y la etapa exacta que se va a narrar.
-6. Comprobar que todos los documentos consultados pertenecen a este proyecto y no a UMBRAL.
+Las comprobaciones se realizan internamente. Al usuario se le comunican únicamente contradicciones, datos ausentes, límites de verificación o decisiones que realmente requieran su intervención.
 
-Si un archivo obligatorio falta, está desactualizado o no permite determinar un hecho que afecta la escena, detenerse y comunicarlo. No rellenar con recuerdos ni con una suposición presentada como canon.
+## A. Apertura obligatoria de una sesión de trabajo
 
-## B. Control de entrada a cada piso principal
+Antes de diseñar o narrar en un chat nuevo, o cuando se retome el proyecto después de una pausa:
 
-Antes de narrar, identificar expresamente en el análisis de trabajo:
+1. Consultar `00-ARQUITECTURA.md`.
+2. Leer la versión vigente de `01-REGLAS-DEL-MUNDO.md`; no confiar en recuerdos ni resúmenes antiguos.
+3. Leer `03-CONTINUIDAD/ESTADO-ACTUAL.md` y el tramo pertinente de `HISTORIAL-APROBADO.md`.
+4. Leer las fichas de los personajes que participarán o puedan afectar directamente la escena.
+5. Leer el diseño aprobado del piso actual y la etapa exacta que corresponde.
+6. Consultar `07-SISTEMA-DE-PROGRESION.md` cuando se vaya a evaluar o describir aprendizaje, capacidades o mejoras.
+7. Confirmar que los archivos pertenecen a `NUESTRO-PROYECTO`, no a la carpeta de UMBRAL.
 
-- Punto de llegada y estado heredado del piso anterior.
-- Restauraciones, entregas, elecciones, registros o reuniones que correspondan.
-- Duración total del periodo y duración de cada fase, según las reglas y el diseño aprobados.
-- Quién está sujeto al contador, cuándo empieza y qué lo detiene.
-- Orden obligatorio de las fases.
-- Condición exacta que permite pasar del Piso Principal al primer escenario.
-- Si hay una excepción de reunión, ventana compartida o transición especial.
+Si una fuente necesaria no puede consultarse, está incompleta o presenta una contradicción relevante, no fingir que se verificó. Detener el trabajo afectado y explicar qué falta.
 
-**Prohibición de salto:** no comenzar el escenario A, ni cualquier primera prueba, hasta haber narrado y resuelto todas las fases previas obligatorias del Piso Principal. Tener claro el escenario A no autoriza a saltarse la llegada, restauración, descanso, preparación, reunión o selección que corresponda.
+### Resumen operativo de sesión
 
-No asumir que todos los pisos tienen el mismo contador. Consultar la regla general y la excepción concreta del piso. Llevar una referencia temporal explícita durante la narración cuando el tiempo afecte a las decisiones.
+Después de consultar las fuentes, preparar un resumen breve de trabajo con:
+- piso, fase y escenario actuales;
+- fecha/hora narrativa o tiempo transcurrido, si importa;
+- participantes presentes y ubicaciones;
+- estado físico y recursos que puedan afectar las decisiones;
+- hechos y consecuencias activos;
+- conocimientos confirmados y desconocidos relevantes;
+- siguiente paso permitido;
+- acciones o etapas que todavía están bloqueadas.
 
-## C. Control antes de cada nuevo escenario
+Este resumen facilita la continuidad dentro de la sesión, pero no sustituye los archivos. Si se abre otro chat, debe reconstruirse desde las fuentes.
 
-- Confirmar que el escenario corresponde al orden del diseño aprobado.
-- Verificar el objetivo, las condiciones de superación y las condiciones de salida.
-- Confirmar quién participa, dónde está cada persona y qué sabe cada una.
-- Revisar heridas, fatiga, hambre, sed, sueño, equipo, consumibles y recursos.
-- Revisar las capacidades, técnicas y errores previamente demostrados.
-- Comprobar qué criaturas, grupos, lugares y soluciones ya aparecieron en el piso.
-- Revisar qué acontecimientos externos pueden haber avanzado sin Kevin, solo si están establecidos por el diseño o por hechos narrados.
-- No adelantar etapas ni activar consecuencias cuyo requisito todavía no se cumplió.
+## B. Control de entrada a cada Piso Principal
 
-## D. Control durante la narración
+Antes de narrar la llegada o avanzar dentro de un Piso Principal, identificar:
 
-Mantener continuidad espacial, temporal, física y de conocimiento. Las decisiones deben derivarse de lo que cada personaje puede saber y hacer en ese momento. No conceder capacidades nuevas durante una escena sin desarrollo o fundamento. No hacer que una amenaza ignore una capacidad ya demostrada. Si surge una contradicción, detener la escena antes de consolidarla como hecho.
+- Qué ocurrió al terminar el piso anterior y quiénes llegan.
+- Qué restauraciones, entregas, elecciones, registros, reuniones o cambios de estado corresponden.
+- Qué duración total establece la regla y el diseño de este piso.
+- Qué fases existen, cuánto dura cada una y en qué orden ocurren.
+- Quién está sujeto a cada contador, cuándo empieza y cuándo termina.
+- Qué condiciones permiten cerrar cada fase.
+- Qué condición exacta habilita la transición al primer escenario.
+- Qué excepciones específicas se aplican en este piso.
 
-## E. Control de progresión
+No asumir que todos los pisos comparten la misma duración, fases o excepciones. Consultar el diseño concreto y las reglas vigentes.
 
-Después de cada escenario, revisar a Kevin y a los personajes recurrentes afectados. Separar cambios de capacidad física, dominio técnico, conocimiento, criterio, experiencia práctica, equipo, condición y relaciones. No forzar una subida en cada escenario, pero tampoco omitir una mejora que la evidencia acumulada ya justifique. Aplicar el sistema de medición de `07-SISTEMA-DE-PROGRESION.md` y registrar el cambio en la ficha del personaje.
+### Bloqueo de avance
 
-## F. Cierre y aprobación
+**Está prohibido comenzar el escenario A o la primera prueba mientras queden fases obligatorias del Piso Principal sin resolver.**
 
-Entregar el escenario completo. Preguntar si el usuario lo aprueba para canon. Antes de la aprobación, no modificar la continuidad oficial.
+Tener el diseño del escenario A preparado no autoriza a saltarse la llegada, restauración, presentación del Sistema, descanso, preparación, reunión, selección u otra etapa que corresponda.
+
+Mantener una referencia temporal explícita cuando el tiempo afecte a las decisiones. No saltar horas ni declarar una fase terminada sin comprobar su duración y sus condiciones.
+
+## C. Control de transición entre escenarios y pisos
+
+Antes de avanzar:
+- Confirmar que el escenario corresponde al orden aprobado.
+- Comprobar que se cumplieron las condiciones de inicio.
+- Distinguir objetivo del escenario, condición de superación, declaración del Sistema, salida física y transición al siguiente espacio: no tratarlos como equivalentes salvo que las reglas lo establezcan.
+- Confirmar quién puede avanzar y quién permanece.
+- Aplicar las consecuencias de la transición únicamente a quienes y a lo que indiquen las reglas.
+- No omitir una etapa intermedia ni adelantar un mensaje, recompensa o restauración.
+
+## D. Control antes de cada escenario
+
+- Verificar objetivo, condiciones de superación, salida y límites temporales.
+- Confirmar participantes, ubicaciones, distancias y conocimientos individuales.
+- Revisar heridas, dolor, fatiga, hambre, sed, sueño, equipo, consumibles y recursos relevantes.
+- Revisar capacidades, técnicas, experiencia y errores demostrados de cada personaje.
+- Consultar criaturas, amenazas, lugares, objetos y soluciones ya establecidos.
+- Revisar qué acontecimientos pueden avanzar fuera de la perspectiva de Kevin según el diseño y la continuidad.
+- Confirmar qué información sigue siendo desconocida para cada personaje.
+- No adelantar etapas ni activar consecuencias cuyo requisito todavía no se haya cumplido.
+
+## E. Control durante la narración
+
+1. Mantener continuidad temporal, espacial, física y de conocimiento.
+2. No dar a un personaje información que no haya obtenido.
+3. No conceder capacidades nuevas sin aprendizaje, práctica, experiencia o fundamento establecido.
+4. No ignorar capacidades ya demostradas ni convertirlas en éxito automático.
+5. No alterar silenciosamente el diseño aprobado, las reglas o las consecuencias.
+6. No hacer que el mundo se detenga cuando Kevin no está presente.
+7. No inventar sucesos fuera de escena como hechos consumados si no están establecidos por el diseño, la continuidad o una fuente narrativa fiable.
+8. Si aparece una contradicción que afecta a lo que ocurrirá, detenerse antes de consolidarla como hecho.
+
+## F. Control de progresión después de cada escenario
+
+Revisar a Kevin y a los demás personajes recurrentes afectados. La revisión es obligatoria aunque el resultado sea «sin cambio».
+
+Separar:
+- capacidad física;
+- dominio técnico por disciplina;
+- conocimiento;
+- criterio y toma de decisiones;
+- experiencia práctica bajo presión;
+- equipo y recursos;
+- condición temporal;
+- relaciones y objetivos.
+
+Aplicar la rúbrica de `07-SISTEMA-DE-PROGRESION.md`. Registrar evidencias concretas, errores persistentes y cambios justificados. No conceder aumentos automáticos por completar un escenario, pero tampoco omitir mejoras demostradas por práctica y experiencia acumuladas.
+
+## G. Cierre, aprobación y actualización
+
+Al terminar un escenario, presentarlo completo y preguntar si el usuario lo aprueba para canon. Hasta entonces, no incorporarlo al historial oficial ni actualizar la continuidad como si hubiera ocurrido.
 
 Después de la aprobación:
-1. Registrar los hechos en `HISTORIAL-APROBADO.md`.
-2. Actualizar `ESTADO-ACTUAL.md` con el punto exacto de continuación.
-3. Actualizar las fichas de todos los personajes cuyo estado haya cambiado.
-4. Actualizar el diseño del piso solo si el usuario aprobó una modificación de diseño.
-5. Revisar que las actualizaciones no contradigan las reglas ni dupliquen información.
+1. Añadir los hechos confirmados a `HISTORIAL-APROBADO.md`.
+2. Actualizar `ESTADO-ACTUAL.md` con el punto exacto de continuación y el siguiente paso permitido.
+3. Actualizar las fichas de todos los personajes cuyo estado haya cambiado, no solo la de Kevin.
+4. Registrar la progresión demostrada y la evidencia que la justifica.
+5. Modificar el diseño del piso únicamente si el usuario aprobó el cambio de diseño.
+6. Revisar que no se hayan duplicado datos ni creado contradicciones.
 
-## G. Reanudación en otro chat
+Al cerrar un piso, hacer una transferencia de continuidad usando `PLANTILLA-TRANSFERENCIA.md`.
 
-No asumir que un chat nuevo recuerda el anterior. Consultar las fuentes de este proyecto desde GitHub y reconstruir el contexto desde los archivos. La respuesta de reanudación debe indicar qué documentos se verificaron y cuál es el punto actual. No afirmar que se revisó un documento que no se pudo leer.
+## H. Reanudación en otro chat
+
+No asumir que un chat nuevo recuerda el anterior. Reconstruir el contexto desde los archivos actuales de GitHub y verificar las fuentes requeridas. Indicar al usuario qué documentos se pudieron consultar y cuál es el punto exacto de continuación.
+
+Nunca afirmar que se revisó un documento que no se pudo leer. Nunca utilizar recuerdos de UMBRAL como si fueran canon del proyecto nuevo.
