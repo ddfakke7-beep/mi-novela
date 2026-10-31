@@ -19,3 +19,6 @@ Cada personaje recurrente tendrá una ficha propia. La ficha registrará únicam
 No se crearán perfiles completos de todos los participantes por obligación. Los personajes nuevos se introducirán desde los primeros pisos según las necesidades del mundo y tendrán oportunidades reales de progresar sin depender de Kevin.
 
 **Kevin tendrá ficha propia**, pero no será el único personaje con progresión. El detalle será proporcional a la relevancia y recurrencia de cada persona. No se llevará un registro exhaustivo de cada aprendizaje de todos los participantes.
+
+
+El elenco individual provisional, con personalidades, experiencia previa, especialidades y dominios iniciales, está en [ELENCO-GLOBAL.md](ELENCO-GLOBAL.md), junto con las parties propuestas para su futura formación. Estos perfiles aún son propuestas; las parties no existen hasta que se constituyan formalmente en la historia.
