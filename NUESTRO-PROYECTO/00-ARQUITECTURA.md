@@ -17,7 +17,7 @@ La continuidad abarca tanto a Kevin y su círculo cercano como al resto de perso
 | Fuente | Es autoridad sobre | No debe convertirse en |
 |---|---|---|
 | 01-REGLAS-DEL-MUNDO.md | Reglas generales, límites y funcionamiento del mundo/Sistema | Manual de estilo, ficha de personaje o resumen de pisos |
-| PISOS/piso-XX/diseño.html | Plan aprobado de ese piso: fases, orden, objetivos, participantes previstos, amenazas, condiciones y transiciones | Registro de acontecimientos ya ocurridos |
+| PISOS/piso-XX/diseño.html | Plan aprobado de ese piso: fases, etapas del desafío, objetivos, participantes previstos, amenazas, condiciones y transiciones | Registro de acontecimientos ya ocurridos |
 | 02-PERSONAJES/ | Estado vigente individual: capacidades, conocimientos, equipo, recursos, condición, objetivos, relaciones y situación/destino conocido | Historial completo de la novela |
 | 02-PERSONAJES/GRUPOS/ | Identidad y estado vigente de grupos recurrentes: integrantes, composición, cohesión, objetivos, coordinación, recursos, relaciones y trayectoria colectiva | Sustituto de las fichas individuales o registro de cada cooperación pasajera |
 | 03-CONTINUIDAD/HISTORIAL-APROBADO.md | Hechos narrativos aprobados, orden, causas y consecuencias confirmadas; evolución del mundo y sucesos relevantes fuera de la perspectiva de Kevin | Copia completa de todas las fichas |
@@ -27,7 +27,8 @@ La continuidad abarca tanto a Kevin y su círculo cercano como al resto de perso
 | 06-ARCO-GLOBAL-PISOS-01-10.md | Propósito y progresión planificada del arco global | Canon de sucesos todavía no narrados |
 | 07-SISTEMA-DE-PROGRESION.md | Método general para evaluar y registrar el crecimiento en las distintas vías | Estado actual de un personaje o manual detallado de cada sistema |
 | 08-SISTEMA-DE-COMBATE.md | Rangos de dominio por disciplina, registro de técnicas, evaluación de la progresión de combate y dotación de equipo | Fichas individuales o historial narrativo |
-| 09-SISTEMA-DE-RECUPERACION.md | Disponibilidad, condiciones, duración y efectos del tratamiento de lesiones | Fichas individuales o historial narrativo |\n| 10-SISTEMA-DE-RECOMPENSAS.md | Oportunidades y administración de recompensas por completar pisos y otros logros definidos | Fichas individuales, progresión de combate o historial narrativo |
+| 09-SISTEMA-DE-RECUPERACION.md | Disponibilidad, condiciones, duración y efectos del tratamiento de lesiones | Fichas individuales o historial narrativo |
+| 10-SISTEMA-DE-RECOMPENSAS.md | Oportunidades y administración de recompensas por completar pisos y otros logros definidos | Fichas individuales, progresión de combate o historial narrativo |
 
 ## 3. Cómo resolver información aparentemente contradictoria
 
@@ -41,7 +42,8 @@ Aplicar estas distinciones:
 - **¿Qué está permitido o prohibido por el mundo?** Consultar las reglas maestras.
 - **¿Cómo debemos trabajar?** Consultar el protocolo y el método.
 - **¿Cómo se evalúa el dominio de combate y la dotación?** Consultar el Sistema de Combate.
-- **¿Cómo se tratan las lesiones?** Consultar el Sistema de Recuperación.\n- **¿Qué recompensas puede ofrecer el Sistema y cómo se administran?** Consultar el Sistema de Recompensas.
+- **¿Cómo se tratan las lesiones?** Consultar el Sistema de Recuperación.
+- **¿Qué recompensas puede ofrecer el Sistema y cómo se administran?** Consultar el Sistema de Recompensas.
 
 El diseño no convierte una posibilidad planificada en un hecho. La continuidad no puede cambiar una regla general. Una ficha o registro actualizado no puede inventar un acontecimiento que no haya sido aprobado. El estado actual es un resumen de navegación: si contradice el historial o una ficha, debe corregirse, no tratarse como una fuente nueva de canon.
 
@@ -62,6 +64,7 @@ Una regla nueva no modifica retroactivamente hechos aprobados, salvo que el usua
 - 07-SISTEMA-DE-PROGRESION.md
 - 08-SISTEMA-DE-COMBATE.md
 - 09-SISTEMA-DE-RECUPERACION.md
+- 10-SISTEMA-DE-RECOMPENSAS.md
 - PISOS/piso-XX/diseño.html
 
 ## 5. Elenco, grupos y profundidad de seguimiento
