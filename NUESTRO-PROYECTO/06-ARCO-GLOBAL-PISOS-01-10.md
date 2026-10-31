@@ -1,40 +1,41 @@
 # 06 — Arco global de los Pisos 1–10
 
-**Estado: plantilla de diseño. Ningún piso está diseñado ni aprobado todavía.**
+**Estado: propuesta general actualizada.** Los conceptos de esta matriz orientan el diseño; los detalles de cada piso se desarrollarán en su archivo propio. No se consideran aprobados los acontecimientos concretos, participantes, enemigos ni resultados que todavía no se hayan diseñado.
 
-## Objetivo
+## Objetivo del arco
 
-Diseñar los diez primeros pisos como un arco conectado. Cada piso debe tener identidad propia, aportar algo a la progresión global y dejar consecuencias para los siguientes. No se deben rellenar los pisos con una escalada mecánica de enemigos ni repetir la misma estructura con mayor dificultad.
+Los diez primeros pisos forman una progresión conectada. Cada piso debe tener identidad y experiencia propias, desarrollar capacidades o relaciones útiles y dejar consecuencias para los siguientes. La dificultad no debe consistir simplemente en aumentar las estadísticas de los enemigos ni repetir una misma prueba con otro escenario.
 
-## Matriz global
+La dirección del Piso 10 es una operación colectiva para tomar una fortaleza. Los pisos anteriores preparan gradualmente a los participantes para que esa operación sea posible: supervivencia, adaptación, combate, preparación, resistencia, cooperación, integración y especialización. El Piso 9 sirve como síntesis de la cooperación entre grupos antes de la conquista.
 
-Completar cada fila durante el diseño global. No asignar todavía acontecimientos, enemigos, muertes, recompensas ni aumentos concretos sin construir primero la lógica del arco. La dirección general prevista para el Piso 10 es reunir a numerosos grupos en una batalla para tomar una fortaleza. Los pisos 1–9 funcionarán como preparación y progresión hacia ese acontecimiento. Esta es la idea global; el diseño detallado del Piso 10 se realizará cuando corresponda, no ahora.
+## Matriz general
 
-El elenco se construye progresivamente a través de los pisos. En el diseño de cada piso se especificarán los participantes que aparecen, cuáles son importantes para ese piso y quiénes tienen potencial de convertirse en personajes recurrentes. Esto se decidirá progresivamente, empezando por el diseño del Piso 1. Los pisos posteriores pueden introducir nuevos personajes y grupos según lo requiera su desafío. No es necesario cerrar todo el elenco por adelantado.
+| Piso | Concepto | Función dentro del arco |
+|---|---|---|
+| 1 | **Supervivencia** | Presentar el sistema y las condiciones reales de este mundo. Los participantes deben aprender a sobrevivir, combatir cuando sea necesario, administrar recursos y comprender que sus decisiones tienen consecuencias. Establece el punto de partida del elenco. |
+| 2 | **Adaptación** | Enfrentar amenazas con comportamientos y capacidades diferentes. La experiencia del primer piso no basta para resolverlo todo: observar, corregir errores, adaptar el equipo y cambiar de enfoque será esencial. |
+| 3 | **Formación** | Poner a prueba las ventajas y dificultades de avanzar acompañado. Introducir de forma significativa la formación de grupos reconocidos y mostrar la diferencia entre cooperar ocasionalmente y depender de una coordinación estable. |
+| 4 | **Cacería** | Desarrollar la iniciativa: localizar, seguir, preparar y enfrentar amenazas en un entorno amplio. Los participantes no se limitan a reaccionar a encuentros impuestos; deben decidir cómo abordar una cacería y asumir sus riesgos. |
+| 5 | **Resistencia** | Someter a los participantes a una operación prolongada con varios encuentros y desgaste acumulado. Importan la administración del esfuerzo, el equipo, los recursos, los descansos y las decisiones tomadas cuando ya existe cansancio o daño. |
+| 6 | **El bloqueo** | Desafío colectivo con varios equipos y funciones complementarias. Ningún grupo pequeño puede resolver por sí solo toda la situación; la cooperación entre equipos se vuelve necesaria. |
+| 7 | **Integración** | Reunir capacidades que antes se pusieron a prueba por separado: combate, movimiento, percepción, lectura del entorno, juicio y cooperación. El entorno y las amenazas mantienen presión durante el recorrido. |
+| 8 | **Especialización** | Convertir la experiencia acumulada en formas de combate más personales y eficaces. Los participantes se enfrentan a adversarios de élite que exigen enfoques distintos: superar fuerza o defensa, responder a velocidad y precisión, y afrontar gran resistencia. No es una clase ni garantiza que todos se vuelvan expertos; cada participante descubre, practica y mejora aquello en lo que puede aportar más. |
+| 9 | **Síntesis** | Operación colectiva de transporte y protección de una carga a través de una región peligrosa. Los grupos comienzan separados, encuentran partes de la carga y deben conectarse mediante encuentros y coordinación para completar la entrega. Pone a prueba la comunicación, el intercambio de información, la negociación de funciones y la cooperación entre grupos. |
+| 10 | **Conquista** | Operación para tomar una fortaleza organizada en varios sectores y accesos, con defensores principales que deben ser derrotados y posiciones que asegurar. Requiere distribuir fuerzas, coordinar ataques y apoyos, comunicar resultados y aprovechar refuerzos entre sectores cuando sea posible. Es la culminación del primer arco. |
 
-| Piso | Identidad/tema | Experiencia central | Desarrollo de Kevin | Desarrollo de otros personajes/grupos | Cambio del mundo | Puente al siguiente |
-|---|---|---|---|---|---|---|
-| 1 | Pendiente | Pendiente | Establecer punto de partida y primeras evidencias | Introducir elenco inicial y diferencias reales | Pendiente | Pendiente |
-| 2 | Pendiente | Pendiente | Pendiente | Pendiente | Pendiente | Pendiente |
-| 3 | Pendiente | Pendiente | Pendiente | Pendiente | Pendiente | Pendiente |
-| 4 | Pendiente | Pendiente | Pendiente | Pendiente | Pendiente | Pendiente |
-| 5 | Pendiente | Pendiente | Pendiente | Pendiente | Pendiente | Pendiente |
-| 6 | Pendiente | Pendiente | Pendiente | Pendiente | Pendiente | Pendiente |
-| 7 | Pendiente | Pendiente | Pendiente | Pendiente | Pendiente | Pendiente |
-| 8 | Pendiente | Pendiente | Pendiente | Pendiente | Pendiente | Pendiente |
-| 9 | Pendiente | Pendiente | Pendiente | Pendiente | Pendiente | Pendiente |
-| 10 | Reunión de numerosos grupos y batalla para tomar una fortaleza (dirección general) | Preparación y coordinación para la toma de la fortaleza | Pendiente de diseño futuro | Numerosos grupos | Pendiente | Culminación del arco de preparación de los pisos 1–9 |
+## Criterios de continuidad
 
-## Reglas para el arco
+- Los pisos 1–5 establecen y desarrollan las bases; los pisos 6–10 llevan esas capacidades a desafíos de mayor coordinación y complejidad.
+- Los conceptos no obligan a repetir una fórmula. Cada piso debe tener un objetivo central claro y una experiencia diferenciada.
+- La progresión de Kevin y de los demás personajes debe ser gradual y ganada. No se garantizan ascensos, victorias ni aprendizajes automáticos.
+- El elenco se introduce progresivamente. Los personajes de UMBRAL no pertenecen a este proyecto; NUESTRO-PROYECTO tendrá personajes propios.
+- Los grupos pueden tener capacidades, objetivos y relaciones distintas. La cooperación no equivale automáticamente a pertenecer a un grupo reconocido.
+- Los detalles del Piso 10 —fortaleza, distribución, defensores y condiciones exactas de conquista— se diseñarán cuando corresponda, tomando en cuenta lo establecido en los pisos anteriores.
+- Cada diseño particular deberá respetar las reglas del mundo y los sistemas oficiales del proyecto. Si aparece una contradicción, debe señalarse antes de incorporarla.
 
-- La progresión de Kevin se planifica a lo largo de los diez pisos, pero no se garantiza que consiga todos los hitos previstos: sus resultados dependerán de lo que haga y de lo que sobreviva.
-- Los demás personajes tienen sus propios ritmos, objetivos, especialidades, errores y oportunidades. Algunos pueden superar a Kevin en determinadas capacidades.
-- La evolución del mundo no se pausa cuando Kevin está ausente. Los hechos fuera de su perspectiva deben tener una causa y una forma coherente de llegar a la narración.
-- Los pisos 1–9 deben contribuir, de distintas maneras, a preparar el terreno, a los personajes y a los grupos para la batalla de toma de fortaleza prevista para el Piso 10. No tienen que anticipar todos los detalles ni repetir una misma fórmula.
-- Cada piso debe poner a prueba capacidades previas, abrir posibilidades nuevas o cambiar las condiciones del mundo.
-- La dificultad debe surgir de amenazas, terreno, información, recursos, presión, cooperación y decisiones, no de aumentar automáticamente todas las estadísticas enemigas.
-- Los temas y los resultados concretos se decidirán durante el diseño, no se inventarán como canon en esta plantilla.
+## Estado del trabajo
 
-## Control de progresión por piso
-
-Al diseñar cada piso, definir qué capacidades podrían ponerse a prueba y qué oportunidades reales de aprendizaje existen. No fijar ascensos garantizados. Registrar posibles evidencias y condiciones de evaluación, no recompensas obligatorias.
+- **Conceptos generales 1–10:** definidos como propuesta de arco.
+- **Piso 8:** concepto general aceptado; falta desarrollar el diseño completo.
+- **Pisos 1 y 5:** siguientes prioridades de diseño.
+- **Pisos 2–4 y 6–10:** desarrollar sus diseños particulares cuando corresponda, sin confundir esta matriz con un diseño completo.
