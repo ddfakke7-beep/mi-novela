@@ -1,6 +1,6 @@
-# Transferencia de continuidad — Piso 2: después de la Etapa B
+# Transferencia de continuidad — Piso 2: después de la Etapa C
 
-**Estado:** transferencia operativa actualizada tras la aprobación de la Etapa B — Localización y lectura de las presas. No sustituye los documentos propietarios.
+**Estado:** transferencia operativa actualizada tras la aprobación de la Etapa C — Primeros intentos y errores. No sustituye los documentos propietarios.
 
 ## 1. Punto exacto
 - **Piso:** 2.
