@@ -228,3 +228,27 @@ Las propuestas, escenas descartadas y sucesos todavía no aprobados no se regist
 - Ninguna cuota ha avanzado: Los Cruzados 0/3; Rastro Gris 0/3.
 - No se confirman capturas, muertes, heridas, uso de Recuperación ni cambios de equipo.
 - La siguiente etapa corresponde a los primeros intentos de caza y errores, con la posibilidad real de que las presas se defiendan o combatan.
+
+
+## Piso 2 — Piso 2C: Primeros intentos y errores
+
+**Estado: APROBADO.**
+
+1. Los Cruzados localizan un grupo de cérvidos de espolón. Durante el primer intento, Tomás se mueve antes de que el grupo tenga controlada una posible ruta de escape; los animales detectan la aproximación y huyen. No hay contacto.
+2. En un segundo intento, se aproximan a un cérvido que se encuentra algo separado, pero todavía próximo a otros individuos. El animal adopta una postura defensiva y carga contra ellos.
+3. Kevin interpone su lanza. El cuerno golpea el asta y deja una marca visible; no se confirma daño estructural. Tomás recibe un golpe en la protección del antebrazo y cae de lado. Conserva movilidad en el brazo y los dedos, pero siente dolor en la zona; no se confirma lesión concreta. Lucía comprueba brevemente su estado y recomienda que no fuerce el brazo.
+4. El cérvido vuelve a cargar. Kevin utiliza el asta para interponer distancia, mientras Lucía se desplaza y deja libre una ruta lateral. Tomás se aparta y el animal finalmente se marcha. No se confirma que haya resultado herido.
+5. Rastro Gris localiza un verraco de carrizo que parece separado, pero Sara detecta movimientos adicionales entre los carrizos. Damián decide aproximarse por una franja de terreno firme. Iván acelera y se acerca demasiado; el verraco carga y golpea su arma con el hombro. Iván retrocede y el animal vuelve a orientarse hacia el grupo. Rastro Gris se retira al terreno firme. No se confirma lesión de Iván ni daño del arma.
+6. Ambas parties se retiran sin capturar presas. Los Cruzados permanecen 0/3 y Rastro Gris 0/3.
+7. La etapa demuestra que las presas pueden defenderse y combatir: un cérvido y un verraco realizan cargas. Los participantes empiezan a reconocer que necesitan controlar la distancia, mantener una ruta de retirada y no asumir que un individuo aparentemente separado está aislado o será fácil de cazar.
+8. No se confirma muerte de participantes o criaturas, lesión concreta de Kevin, Tomás o Iván, uso del Sistema de Recuperación, cambios de equipo, ni avances de rango o técnicas nuevas. La lanza de Kevin presenta una marca, sin daño estructural confirmado; el equipo de Iván no tiene daño confirmado.
+
+### Estado al cierre de 2C
+
+- Los Cruzados y Rastro Gris siguen reconocidos y con los mismos integrantes.
+- Tomás presenta dolor en el antebrazo donde recibió el golpe sobre su protección; conserva movilidad y no se confirma lesión concreta. Lucía recomendó no forzarlo. Debe comprobarse su estado antes de exigirle esfuerzos importantes.
+- La lanza de Kevin tiene una marca visible en el asta, sin daño estructural confirmado. No se sustituye ni se declara inutilizable.
+- Iván no presenta lesión confirmada; el arma que llevaba recibió un golpe del verraco, pero no se confirma daño.
+- No se confirma uso de Recuperación ni captura de ninguna presa.
+- Cuotas: Los Cruzados 0/3; Rastro Gris 0/3.
+- Siguiente etapa: continuar con la cacería, sin convertir las observaciones iniciales en dominio automático.
