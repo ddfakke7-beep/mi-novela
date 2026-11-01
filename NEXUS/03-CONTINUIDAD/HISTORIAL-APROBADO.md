@@ -1,6 +1,6 @@
 # Historial narrativo aprobado
 
-**Estado: narración iniciada.** Los tramos narrativos aprobados hasta ahora corresponden al Piso 1.1 y al Piso 1A.
+**Estado: narración en curso.** Los tramos narrativos aprobados hasta ahora corresponden al Piso 1.1 y a los Pisos 1A y 1B.
 
 ## Piso 1 — Piso 1.1: El refugio
 
