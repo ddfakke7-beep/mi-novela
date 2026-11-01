@@ -46,3 +46,7 @@ Aprobación del capítulo de preparación del Piso 2: presencia confirmada y for
 - En el carrizal observó verracos de carrizo que se desplazaban en grupo y presenció la respuesta amenazante de uno ante la aproximación de Rastro Gris. No llegó a combatirlo.
 - En los escarpes quiso aproximarse a un treparrocas cenizo; el animal avanzó bruscamente y escapó por una repisa. Iván retrocedió.
 - Su impaciencia y preferencia por actuar directamente siguen presentes. La experiencia le muestra que una presa puede defenderse, pero no acredita dominio nuevo de kickboxing ni combate contra criaturas. Sin lesiones ni contacto físico.
+
+## Piso 2C — Primeros intentos de caza
+
+Durante el intento de Rastro Gris contra un verraco de carrizo, Iván aceleró la aproximación y quedó expuesto a la carga del animal. El verraco golpeó su arma con el hombro; Iván retrocedió y la party se retiró. No se confirma lesión de Iván ni daño del arma. La experiencia pone de manifiesto el riesgo de confiar en la presión directa contra una criatura desconocida, pero no acredita dominio nuevo de kickboxing ni técnica de combate contra fauna.
