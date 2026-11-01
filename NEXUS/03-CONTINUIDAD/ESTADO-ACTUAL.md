@@ -1,23 +1,20 @@
 # Continuidad — estado actual
 
-**Estado: narración en curso. Último tramo aprobado: Piso 1D — Preparación y cacería.**
+**Estado: narración en curso. Último tramo aprobado: Piso 1E — Eliminación y consecuencias inmediatas.**
 
-- **Piso actual:** Piso 1.
-- **Situación:** Kevin, Lucía y Tomás observaron desde una elevación cómo cuatro participantes no identificados se enfrentaban coordinadamente al Acechador. El grupo lo alcanzó con varios ataques y la criatura se retiró hacia el bosque.
-- **Momento exacto:** después de observar la retirada, el trío abandona la elevación por una ruta diferente. No establece contacto con los cuatro participantes.
-- **Convocatoria:** 18 participantes.
-- **Objetivo:** localizar y eliminar al Acechador de la Hondonada. Sigue pendiente.
-- **Tiempo:** 72 horas desde el inicio del desafío; el tiempo restante exacto no está establecido.
-- **Salida:** permanece condicionada a la superación del objetivo; se aplican las consecuencias de plazo indicadas en el diseño.
-- **Kevin:** lanza sencilla, cuchillo corto, chaqueta de cuero ligero y protectores de antebrazo. Sin experiencia real con la lanza; solo familiarización inicial. Sin lesiones nuevas confirmadas.
-- **Lucía:** lanza corta, cuchillo corto, chaqueta acolchada ligera y protectores de antebrazo. Sin experiencia previa con armas; solo prácticas iniciales. Sin lesiones nuevas confirmadas.
-- **Tomás:** maza corta, cuchillo corto, protección de cuero reforzado para el torso y protectores de antebrazo. Experiencia amateur de boxeo, sin dominio establecido de la maza. Sin lesiones nuevas confirmadas.
-- **Mateo:** hacha de mano, cuchillo corto, chaqueta de cuero ligero y protección para las piernas. Experiencia con herramientas rurales, no combate confirmado contra criaturas. Ubicación actual desconocida; no pertenece al acuerdo provisional del trío.
-- **Relación:** Kevin, Lucía y Tomás siguen juntos por acuerdo provisional; no forman una party reconocida.
-- **Otros participantes:** cuatro participantes no identificados combatieron coordinadamente al Acechador. Al menos dos recibieron impactos; lesiones y condición posterior desconocidas. No hay muertes confirmadas.
-- **Acechador:** sigue vivo. Recibió impactos en una zona próxima al hombro y en el costado. Desde la distancia pareció respirar pesadamente y moverse con menor fluidez, pero la gravedad y las consecuencias de las heridas son desconocidas. Última ubicación observada: retirándose hacia el bosque. Ubicación actual desconocida.
-- **Conocimiento nuevo del trío:** la coordinación y los ataques desde posiciones distintas pueden herir y hacer retroceder al Acechador, pero no garantizan vencerlo.
-- **Recuperación:** Kevin, Lucía y Tomás no han utilizado su activación.
-- **Siguiente paso:** Piso 1E — Eliminación y consecuencias inmediatas. La cacería debe concluir conforme al diseño aprobado; la victoria no está reservada a Kevin ni a su grupo.
+- **Piso actual:** Piso 2.
+- **Situación:** el Acechador de la Hondonada fue eliminado; el Sistema anunció «OBJETIVO ELIMINADO» y «DESAFÍO DEL PISO 1: SUPERADO». Kevin, Lucía y Tomás alcanzaron la puerta blanca y aceptaron individualmente la transición.
+- **Momento exacto:** Kevin, Lucía y Tomás han cruzado por separado al Piso Principal del Piso 2. No forman una party reconocida.
+- **Kevin:** conserva su equipo del Piso 1, salvo cambios que decida al disponer de la oferta del Piso 2. No se confirmó lesión nueva. No utilizó su activación de Recuperación.
+- **Lucía:** conserva su equipo del Piso 1, salvo cambios posteriores. Prestó apoyo básico a participantes heridos. No se confirmó lesión nueva ni uso de su activación de Recuperación.
+- **Tomás:** conserva su equipo del Piso 1, salvo cambios posteriores. No se confirmó lesión nueva ni uso de su activación de Recuperación.
+- **Relaciones:** Kevin, Lucía y Tomás siguen cooperando por su acuerdo previo, sin party formal. La cooperación con los demás participantes durante la cacería tampoco creó una party.
+- **Otros participantes:** los cuatro que combatieron al Acechador en 1D se reunieron con el trío; durante la búsqueda se incorporaron otros tres. Cooperaron en la cacería final. Algunos participantes resultaron heridos, pero no se establecen aquí sus identidades ni lesiones exactas. No se confirma quiénes alcanzaron la salida.
+- **Recuperación:** los cuatro participantes comprobaron individualmente si conservaban su activación. Quienes aún la tenían y necesitaban tratamiento pudieron utilizarla durante el descanso y bajo vigilancia. No hay detalle individual completo de usos y efectos. Kevin, Lucía y Tomás no utilizaron la suya durante el Piso 1.
+- **Acechador:** muerto; eliminación confirmada.
+- **Otras criaturas:** los carroñeros de matorral permanecen activos en la región del Piso 1.
+- **Recompensas:** no se han registrado elecciones ni recompensas individuales concretas del Piso 1.
+- **Desconocidos:** no se confirma la situación final de Mateo, de los dos participantes atacados en 1B ni del resto de convocados.
+- **Siguiente paso:** continuar desde la llegada de Kevin, Lucía y Tomás al Piso Principal del Piso 2, consultando el diseño aprobado de ese piso antes de narrar.
 
 Este archivo es el punto de reanudación y no sustituye el historial.
