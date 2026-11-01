@@ -1,6 +1,6 @@
-# Transferencia de continuidad — Piso 2: después de la Etapa A
+# Transferencia de continuidad — Piso 2: después de la Etapa B
 
-**Estado:** transferencia operativa actualizada tras la aprobación de la Etapa A — Asignación y dispersión. No sustituye los documentos propietarios.
+**Estado:** transferencia operativa actualizada tras la aprobación de la Etapa B — Localización y lectura de las presas. No sustituye los documentos propietarios.
 
 ## 1. Punto exacto
 - **Piso:** 2.
@@ -102,3 +102,20 @@
 - [x] Sin cambios en índices o registros de grupos: la composición de ambas parties permanece igual.
 - [x] Sin cambios de rangos, técnicas, recuperación o recompensas.
 - [x] Incógnitas sobre convocados y demás unidades preservadas.
+
+
+---
+
+## 10. Actualización tras la aprobación de Piso 2B
+
+**Etapa B — Localización y lectura de las presas: APROBADA.**
+
+- Los Cruzados han observado directamente cérvidos de espolón, verracos de carrizo y treparrocas cenizos. Rastro Gris ha observado directamente verracos y treparrocas; no se confirma avistamiento de cérvidos por esa party.
+- Se han visto grupos y movimientos en distintos sectores, sin fijar cifras exactas de población ni confirmar que todos los individuos pertenezcan a una misma manada.
+- Los personajes observan que las presas pueden detectar a los participantes, huir, amenazar, defender su espacio y reaccionar físicamente ante aproximaciones. Son observaciones situacionales; no conocen capacidades completas ni debilidades.
+- Kevin detiene a Tomás antes de una persecución improvisada de cérvidos. Tomás presencia la respuesta amenazante de un verraco y el avance brusco de un treparrocas. Lucía observa y respalda la cautela.
+- Damián evita acercarse a un grupo de verracos sin conocer la posición de los demás. Sara advierte movimientos entre los carrizos. Iván presencia el avance brusco de un treparrocas y retrocede.
+- No se acredita dominio, rango ni técnica nueva a ningún personaje. La experiencia de 2B es observacional y de criterio inicial.
+- No se establecen heridas, contacto físico, lesiones de animales, uso de Recuperación, cambios de equipo ni presas capturadas.
+- Cuotas: Los Cruzados 0/3; Rastro Gris 0/3.
+- Siguiente etapa: primeros intentos de caza y errores. Las criaturas deben conservar capacidad real de defenderse y combatir; no todas reaccionarán igual.
