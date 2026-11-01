@@ -42,3 +42,8 @@ Aprobación del capítulo de preparación del Piso 2: presencia confirmada y for
 ## Piso 2B — Observaciones
 
 Sara detectó movimientos adicionales entre los carrizos y avisó a Rastro Gris antes de acercarse a un grupo de verracos. También observó treparrocas en los escarpes. Su observación fue visual y situacional; no acredita conocimiento automático de las especies ni técnica nueva. No sufrió lesiones ni tuvo contacto físico con las presas.
+
+
+## Piso 2C
+
+Sara detectó movimientos adicionales entre los carrizos durante el acercamiento de Rastro Gris a un verraco y advirtió a sus compañeros. El animal cargó después de que Iván acelerara. Su observación aportó información, pero no evitó el enfrentamiento. Sin lesión ni técnica nueva confirmadas.
