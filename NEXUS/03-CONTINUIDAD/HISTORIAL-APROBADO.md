@@ -51,6 +51,32 @@
 - No se han establecido heridas, bajas, uso del Sistema de Recuperación ni cambios de equipo.
 - La ubicación y situación de Mateo y de los demás participantes siguen sin conocerse con precisión.
 
+
+## Piso 1 — Piso 1B: La presa también los está buscando
+
+**Estado: APROBADO.**
+
+1. Kevin, Lucía y Tomás continúan juntos por la zona abierta junto al borde del bosque, buscando más señales sin internarse de inmediato en la vegetación densa.
+2. Desde el interior del bosque oyen impactos fuertes y gritos humanos. Se acercan con cautela y observan a dos participantes siendo atacados por una criatura grande, baja y musculosa, de cabeza alargada y placas óseas irregulares en el lomo, coincidente con la descripción general del Acechador de la Hondonada.
+3. La criatura derriba a uno de los participantes y se dispone a continuar el ataque mientras el otro intenta ayudarlo. Kevin, Lucía y Tomás consideran intervenir, pero Kevin decide no aproximarse directamente porque hacerlo podría exponerlos también. Lucía coincide; Tomás acepta no lanzarse al enfrentamiento.
+4. La criatura advierte la presencia del trío, los observa y cambia su orientación. Después se retira hacia el bosque tras oírse un impacto de piedra contra un árbol. No queda establecido quién produjo ese ruido ni con qué intención; tampoco se confirma que la criatura haya recibido una herida.
+5. Los dos participantes atacados sobreviven. Uno presenta una lesión en el costado y dificultad para apoyar una pierna; el otro está alterado, pero puede desplazarse. Lucía realiza una comprobación breve, sin establecer un diagnóstico ni una gravedad exacta.
+6. Kevin, Lucía y Tomás ayudan a los supervivientes a alejarse de la zona inmediata del bosque. Uno de ellos relata que la criatura apareció por detrás, los separó y los atacó. Su testimonio aporta información parcial, no una explicación completa del comportamiento del objetivo.
+7. El grupo recomienda a los supervivientes mantenerse en terreno abierto y evitar regresar innecesariamente al bosque. Después se separan.
+8. Kevin, Lucía y Tomás reconocen que el Acechador no es solo algo que deban buscar: también puede aproximarse a otros participantes. La observación directa les permite confirmar su aspecto general y algunos movimientos durante el ataque, pero no sus capacidades completas, sus límites ni sus posibles debilidades.
+
+### Estado al cierre del tramo
+
+- Kevin, Lucía y Tomás siguen juntos por acuerdo provisional, sin party formal.
+- Han visto directamente al Acechador de la Hondonada durante el ataque a otros dos participantes.
+- Confirman su aspecto general: criatura grande, baja y musculosa, con cabeza alargada y placas óseas irregulares en el lomo.
+- Han observado que puede atacar a participantes, derribar a una persona y cambiar su orientación al advertir a otros observadores. No conocen todavía su comportamiento completo.
+- Dos participantes sobrevivieron al ataque; uno tiene una lesión en el costado y dificultad para apoyar una pierna. Sus identidades y el alcance exacto de sus lesiones no se establecen.
+- No se confirma ninguna herida en el Acechador, ni su muerte.
+- El Acechador se retiró hacia el bosque y dejó de estar a la vista; su ubicación posterior es desconocida.
+- No se han establecido lesiones nuevas en Kevin, Lucía o Tomás, ni cambios de equipo o uso del Sistema de Recuperación.
+- El desafío sigue en curso y el objetivo no ha sido eliminado.
+
 ---
 
 Registrar aquí, en orden cronológico, los hechos de cada tramo narrativo o etapa del desafío que haya sido aprobado, sus consecuencias y las transiciones confirmadas. El piso constituye un desafío general integrado; no se presupone que esté dividido en escenarios independientes. Evitar copiar fichas enteras: indicar los cambios y remitir a la ficha correspondiente.
