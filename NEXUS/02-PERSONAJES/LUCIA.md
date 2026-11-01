@@ -14,7 +14,7 @@ No tiene experiencia de combate establecida ni debe convertirse automáticamente
 - **Situación:** viva; llegó al Piso Principal del Piso 2 y comenzó el desafío general tras las 24 horas de preparación.
 - **Condición física:** no se confirmó una lesión nueva durante la preparación.
 - **Recuperación:** no utilizó su activación del Sistema de Recuperación durante el Piso 1; no se registra uso nuevo en el Piso Principal ni al inicio del desafío.
-- **Recompensa del Piso 1:** consultó opciones relacionadas con supervivencia y atención de personas heridas, pero no se confirmó una elección ni recepción de contenido.
+- **Recompensa del Piso 1:** consultó opciones relacionadas con supervivencia y atención de personas heridas, pero no eligió ni recibió un contenido concreto. Esta elección pendiente no significa que su preparación del Piso 2 quedara vacía.
 - **Party:** integrante de **Los Cruzados**, party formalizada y reconocida durante la preparación del Piso 2 junto con Kevin y Tomás.
 
 ## Capacidades, conocimientos y experiencia
@@ -58,10 +58,10 @@ No se confirmó pérdida, sustitución ni daño nuevo en su equipo al cierre del
 - **Piso 1B:** coincidió con Kevin en no intervenir directamente en el ataque del Acechador; ayudó a los supervivientes a alejarse y realizó una comprobación breve de sus condiciones.
 - **Piso 1C y 1D:** participó en las observaciones y decisiones del trío; no se registra un aprendizaje técnico concreto.
 - **Piso 1E:** prestó apoyo básico a los participantes que lo necesitaron tras el combate final. Sobrevivió y cruzó individualmente al Piso 2.
-- **Preparación del Piso 2:** consultó opciones de recompensa, incluidas opciones relacionadas con supervivencia y atención de personas heridas. No se confirma una elección ni recepción de contenido.
+- **Preparación del Piso 2:** revisó opciones de recompensa relacionadas especialmente con supervivencia y atención de personas heridas, comparándolas con su formación como auxiliar de enfermería y sus necesidades. No eligió ni recibió un contenido concreto. Durante la preparación observó el entrenamiento de Kevin y Tomás, alternó la consulta de información con descanso y ayudó a ordenar las prioridades del trío. Recordó que no debían agotarse antes del desafío. Esto refuerza su criterio práctico de preparación y gestión de recursos del grupo, pero no acredita una técnica sanitaria nueva ni una práctica clínica simulada.
 - **Inicio del desafío del Piso 2:** formalizó Los Cruzados con Kevin y Tomás. La party recibió una cuota conjunta de tres presas válidas, una de cada especie objetivo. Aún no se ha confirmado ningún encuentro ni presa acreditada.
 
-La experiencia puede influir en su criterio y confianza, pero no debe transformarse sin evidencia en mayor capacidad clínica o dominio de combate.
+La experiencia puede influir en su criterio y confianza, pero no debe transformarse sin evidencia en mayor capacidad clínica o dominio de combate. En el Piso Principal del Piso 2 su aprendizaje confirmado fue de revisión de opciones, observación y priorización; no se narró una práctica sanitaria específica.
 
 ## Objetivos y dirección de desarrollo
 
@@ -76,4 +76,4 @@ Su desarrollo puede combinar el uso prudente de sus conocimientos de cuidado, la
 
 ## Última actualización
 
-Aprobación del capítulo del Piso Principal del Piso 2: consulta de opciones de recompensa sin elección confirmada, formalización de Los Cruzados e inicio del desafío con cuota conjunta. Último punto: comienzo del desafío, antes de la cacería.
+Aprobación del capítulo del Piso Principal del Piso 2: revisión de opciones de supervivencia y atención de heridos sin elegir una recompensa; observación del entrenamiento de sus compañeros; alternancia entre consulta de información y descanso; y aporte práctico al ordenar prioridades y evitar el agotamiento antes del desafío. Formalizó Los Cruzados. Su recompensa individual sigue pendiente, pero su preparación y criterio práctico quedan registrados. Último punto: comienzo del desafío, antes de la cacería.
