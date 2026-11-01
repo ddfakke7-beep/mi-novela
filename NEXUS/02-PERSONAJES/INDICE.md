@@ -1,24 +1,45 @@
 # Personajes — índice y seguimiento
 
-**Estado: estructura inicial; elenco pendiente de diseño.**
+**Estado: estructura activa; fichas individuales en construcción progresiva.**
 
-La planificación general del elenco de los diez primeros pisos se conserva en [ELENCO-GLOBAL.md](ELENCO-GLOBAL.md). Es una propuesta de planificación, no un registro de hechos narrativos ni un sustituto de las fichas personales y de los registros de parties.
+Este directorio conserva el estado vigente de los personajes con relevancia para la continuidad. Cada ficha individual es propietaria de la información actual del personaje: condición, capacidades, conocimientos, experiencia, equipo, recursos, objetivos, relaciones, progresión y situación conocida.
 
-Cada personaje recurrente tendrá una ficha propia. La ficha registrará únicamente información confirmada y distinguirá:
+## Fichas individuales
 
-- Identidad, edad y rasgos relevantes para la historia.
-- Objetivos, motivaciones, temores y conflictos.
-- Condición física descrita cualitativamente y de forma coherente con su historia, hábitos y experiencia; no se utilizarán estadísticas numéricas ni hojas de atributos.
-- Disciplinas y dominio técnico por separado.
-- Conocimientos, experiencias y errores aprendidos.
-- Equipo, recursos y limitaciones.
-- Relaciones y cambios en ellas.
-- Historial breve de progresión y última actualización.
-- Qué sabe el personaje, qué cree y qué desconoce.
+### Personajes confirmados en la historia hasta el cierre del Piso 1
 
-No se crearán perfiles completos de todos los participantes por obligación. Los personajes nuevos se introducirán desde los primeros pisos según las necesidades del mundo y tendrán oportunidades reales de progresar sin depender de Kevin.
+- [Kevin](KEVIN.md) — personaje central; seguimiento detallado.
+- [Lucía](LUCIA.md) — personaje recurrente; seguimiento de conocimientos de cuidado, decisiones y evolución.
+- [Tomás](TOMAS.md) — personaje recurrente; seguimiento de experiencia de combate, adaptación y evolución.
+- [Mateo](MATEO.md) — participante introducido en el Piso 1; situación posterior al tramo aprobado todavía desconocida.
 
-**Kevin tendrá ficha propia**, pero no será el único personaje con progresión. El detalle será proporcional a la relevancia y recurrencia de cada persona. No se llevará un registro exhaustivo de cada aprendizaje de todos los participantes.
+Estas fichas parten únicamente de hechos establecidos en diseños aprobados y narración aprobada. Se ampliarán cuando existan nuevos acontecimientos confirmados. No rellenar datos desconocidos con suposiciones.
 
+### Personajes todavía no incorporados a una ficha confirmada
 
-El elenco individual provisional, con personalidades, experiencia previa, especialidades y dominios iniciales, está en [ELENCO-GLOBAL.md](ELENCO-GLOBAL.md), junto con las parties propuestas para su futura formación. Estos perfiles aún son propuestas; las parties no existen hasta que se constituyan formalmente en la historia.
+Los perfiles de [ELENCO-GLOBAL.md](ELENCO-GLOBAL.md) son una herramienta de planificación. Los personajes que allí figuran como previstos o propuestos no se consideran automáticamente presentes, recurrentes, vinculados a un grupo ni poseedores de capacidades confirmadas. Se creará o ampliará su ficha cuando la historia los introduzca y adquieran relevancia suficiente.
+
+No crear fichas completas de todos los participantes pasajeros por obligación. Un personaje pasajero puede recibir un registro breve si sus acciones producen consecuencias persistentes o si adquiere importancia futura.
+
+## Criterios de seguimiento
+
+Cada ficha distingue, cuando corresponda:
+
+- **Confirmado:** establecido en diseño aprobado o acontecimiento narrativo aprobado.
+- **Interpretación:** lo que el personaje cree o deduce; no equivale necesariamente a la realidad.
+- **Desconocido:** dato que todavía no se ha establecido.
+- **Propuesta:** posibilidad de desarrollo que aún no ha sido aprobada.
+
+La progresión se registra por separado en sus dimensiones: condición física, dominio técnico, conocimientos, criterio, experiencia práctica, equipo/recursos y desarrollo personal/social. Una mejora en una dimensión no concede automáticamente las demás.
+
+La ausencia de un personaje durante uno o varios pisos no significa que haya permanecido inactivo o estancado. Puede haber aprendido, entrenado, cambiado de objetivos o sufrido consecuencias fuera de la perspectiva de Kevin. Sin embargo, no se inventarán acontecimientos concretos fuera de escena como hechos confirmados. Cuando su evolución se establezca, se documentará su causa, el periodo y la evidencia disponible; al reaparecer, se conservará todo progreso confirmado.
+
+Las fichas no sustituyen al historial: el historial registra los acontecimientos que justifican los cambios; la ficha conserva el estado vigente resultante. El Sistema de Combate, Recuperación y Recompensas mantiene los datos especializados que le corresponden, sin duplicar su evaluación completa en la ficha.
+
+## Grupos
+
+Los registros de parties y grupos recurrentes se mantienen en [GRUPOS/INDICE.md](GRUPOS/INDICE.md). Cooperar durante un desafío no constituye por sí solo una party reconocida.
+
+## Fuentes de planificación
+
+La planificación general del elenco, los perfiles aún propuestos, las posibles incorporaciones y las líneas de reaparición se conservan en [ELENCO-GLOBAL.md](ELENCO-GLOBAL.md). Ese documento no sustituye las fichas ni convierte sus propuestas en hechos narrativos.
