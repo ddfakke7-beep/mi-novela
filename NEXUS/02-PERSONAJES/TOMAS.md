@@ -1,6 +1,6 @@
 # Tomás — ficha individual
 
-**Estado:** personaje recurrente; ficha vigente al llegar al Piso Principal del Piso 2.  
+**Estado:** personaje recurrente; ficha vigente al inicio del desafío del Piso 2.  
 **Base:** diseño aprobado del Piso 1, narración aprobada de los tramos 1.1 y 1A–1E, y sistemas oficiales vigentes.
 
 ## Identidad y punto de partida
@@ -11,11 +11,11 @@ Su impulso de proteger a otros puede llevarlo a exponerse antes de comprender el
 
 ## Estado vigente
 
-- **Situación:** vivo; alcanzó la salida del Piso 1 y aceptó individualmente la transición al Piso Principal del Piso 2.
-- **Condición física:** no se confirmó una lesión nueva al cierre del Piso 1.
-- **Recuperación:** no utilizó su activación del Sistema de Recuperación durante el Piso 1.
-- **Recompensas:** tiene pendiente la oferta individual obtenida por completar el Piso 1. Debe presentarse y elegirse durante la preparación del Piso Principal del Piso 2. No ha elegido ni recibido una recompensa concreta.
-- **Party:** no pertenece a una party reconocida. Mantiene cooperación informal con Kevin y Lucía.
+- **Situación:** vivo; llegó al Piso Principal del Piso 2 y comenzó el desafío general tras las 24 horas de preparación.
+- **Condición física:** no se confirmó una lesión nueva durante la preparación.
+- **Recuperación:** no utilizó su activación del Sistema de Recuperación durante el Piso 1; no se registra uso nuevo en el Piso Principal ni al inicio del desafío.
+- **Recompensa del Piso 1:** revisó las opciones disponibles, pero no se confirmó una elección ni recepción de contenido.
+- **Party:** integrante de **Los Cruzados**, party formalizada y reconocida durante la preparación del Piso 2 junto con Kevin y Lucía.
 
 ## Capacidades, conocimientos y experiencia
 
@@ -59,6 +59,8 @@ No se confirmó pérdida, sustitución ni daño nuevo en su equipo al cierre del
 - **Piso 1B:** aceptó no intervenir directamente en el ataque del Acechador y ayudó a los supervivientes a alejarse de la zona inmediata.
 - **Piso 1C y 1D:** participó en la observación y evaluación de la amenaza; presenció la coordinación de otros cuatro participantes contra el Acechador.
 - **Piso 1E:** participó en la cacería final y sobrevivió. La narración aprobada no establece que asestara el golpe decisivo ni permite atribuirle por sí sola una mejora estable de dominio.
+- **Preparación del Piso 2:** revisó las opciones de recompensa disponibles, pero no se confirma una elección ni recepción de contenido.
+- **Inicio del desafío del Piso 2:** formalizó Los Cruzados con Kevin y Lucía. La party recibió una cuota conjunta de tres presas válidas, una de cada especie objetivo. Aún no se ha confirmado ningún encuentro ni presa acreditada.
 
 La experiencia del Piso 1 puede alimentar su adaptación, pero no acredita automáticamente técnicas nuevas ni dominio de la maza.
 
@@ -71,8 +73,8 @@ Puede desarrollar la adaptación de su experiencia de boxeo a situaciones distin
 - No se ha establecido dominio funcional de la maza.
 - No se ha confirmado el rango exacto actual de su disciplina sin armas mediante una evaluación aprobada.
 - No se ha confirmado una recompensa concreta.
-- No existe party reconocida con Kevin o Lucía.
+- Pertenece a Los Cruzados desde la preparación del Piso 2. La party no existía durante el Piso 1.
 
 ## Última actualización
 
-Cierre aprobado del Piso 1E y transición individual al Piso Principal del Piso 2. La siguiente actualización corresponde a los acontecimientos confirmados durante la preparación del Piso 2.
+Aprobación del capítulo del Piso Principal del Piso 2: revisión de opciones de recompensa sin elección confirmada, formalización de Los Cruzados e inicio del desafío con cuota conjunta. Último punto: comienzo del desafío, antes de la cacería.
