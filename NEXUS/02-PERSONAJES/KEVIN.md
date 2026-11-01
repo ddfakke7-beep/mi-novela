@@ -104,3 +104,8 @@ Aprobación del capítulo del Piso Principal del Piso 2: elección y recepción 
 ## Piso 2C — Primeros intentos de caza
 
 Kevin participó en dos intentos de caza de cérvidos. En el segundo, interpuso su lanza ante la carga de un animal; el asta recibió un golpe y quedó marcada, sin daño estructural confirmado. La acción le permitió ganar espacio, pero fue una respuesta improvisada y no demuestra técnica defensiva entrenada ni ejecución funcional estable. Reconoció que necesita controlar mejor la distancia y preparar una retirada. No sufrió lesión confirmada ni utilizó Recuperación. No aumenta su rango ni registra técnica nueva.
+
+
+## Piso 2D — Adaptación de la cacería
+
+Participó en dos acercamientos a cérvidos. En el primero, la party retrocedió cuando el animal adoptó una postura defensiva. En el segundo, un cérvido cargó; Kevin se desplazó en diagonal e interpuso su lanza, cuyo asta recibió un roce de cuerno. Después alcanzó el costado del animal con la punta del arma. El cérvido fue abatido y el Sistema registró una presa válida para Los Cruzados. Fue una aplicación improvisada bajo presión; no acredita técnica funcional o fiable ni aumento de rango. No se confirma lesión propia, daño estructural de la lanza ni uso de Recuperación. Cuota de Los Cruzados: 1/3.
