@@ -103,7 +103,7 @@ El piso constituye un desafío integrado. Las etapas y situaciones no deben trat
 
 Durante el desarrollo, mantener una lista provisional de los cambios que podrían afectar a personajes, grupos, sistemas y continuidad. Esta lista sirve para preparar el cierre documental; no se incorpora al canon mientras el piso no haya sido aprobado.
 
-Revisar a Kevin y a los demás personajes recurrentes afectados. La revisión es obligatoria aunque el resultado sea «sin cambio». Revisar también los grupos recurrentes afectados cuando cambie su composición, cohesión, estrategia, recursos, objetivos o situación colectiva.
+Revisar a Kevin y a los demás personajes recurrentes afectados. La revisión es obligatoria aunque el resultado sea «sin cambio». No limitar la continuidad a quienes aparecen en escena: cuando un personaje relevante haya estado ausente durante uno o varios pisos, comprobar su última ficha, el tiempo transcurrido y cualquier progreso o cambio fuera de escena que ya esté confirmado. Su ausencia no equivale a estancamiento, pero tampoco autoriza a inventar acontecimientos no establecidos. Revisar también los grupos recurrentes afectados cuando cambie su composición, cohesión, estrategia, recursos, objetivos o situación colectiva.
 
 Separar:
 - condición y capacidad física;
