@@ -12,7 +12,9 @@ Está disponible desde el Piso 1.
 
 ## 2. Principio de recompensa por completar un piso
 
-Como regla general, completar un piso concede a cada participante vivo que cumpla la condición colectiva una oportunidad individual de recompensa.
+Como regla general, completar un piso concede a cada participante vivo que cumpla la condición colectiva una oportunidad individual de recompensa. La oportunidad nace al completarse el piso, pero no implica que el participante deba elegirla en ese mismo instante: normalmente, el Sistema presenta la oferta para consulta y elección durante el periodo de preparación del siguiente Piso Principal. La elección es individual y no debe resolverse automáticamente por el narrador.
+
+Una oportunidad pendiente debe distinguirse de una oferta ya presentada, una opción elegida y una recompensa efectivamente recibida. No registrar una elección hasta que el personaje la haya realizado. La elegibilidad de un participante cuya supervivencia o cumplimiento no estén confirmados permanece desconocida.
 
 La oportunidad no significa que todos reciban el mismo objeto, conocimiento o cantidad de poder. La oferta puede variar según el perfil, los conocimientos, la experiencia, las capacidades y las necesidades del participante.
 
@@ -95,7 +97,7 @@ El Sistema no adapta necesariamente cada peligro al nivel individual. Los partic
 
 ## 5. Elección y adquisición del aprendizaje
 
-El Sistema presenta las opciones disponibles y el participante decide cuál aceptar, si alguna le resulta útil. No existe una ruta obligatoria de niveles ni una obligación de escoger una opción inadecuada para consumir la recompensa.
+Durante la preparación del siguiente Piso Principal, el Sistema presenta las opciones disponibles para la oportunidad pendiente y el participante decide cuál aceptar, si alguna le resulta útil. La oportunidad puede quedar pendiente hasta ese momento; no debe adelantarse la elección ni dar por recibida una recompensa que el personaje todavía no ha seleccionado. No existe una ruta obligatoria de niveles ni una obligación de escoger una opción inadecuada para consumir la recompensa.
 
 El Sistema puede proporcionar una guía, información estructurada, instrucción, demostraciones o acceso a un método de aprendizaje, según la naturaleza de la opción. La forma concreta de entrega puede variar; no se presupone que el conocimiento aparezca instantáneamente en la memoria del participante.
 
