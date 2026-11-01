@@ -119,3 +119,11 @@
 - No se establecen heridas, contacto físico, lesiones de animales, uso de Recuperación, cambios de equipo ni presas capturadas.
 - Cuotas: Los Cruzados 0/3; Rastro Gris 0/3.
 - Siguiente etapa: primeros intentos de caza y errores. Las criaturas deben conservar capacidad real de defenderse y combatir; no todas reaccionarán igual.
+
+
+## 11. Piso 2C aprobado
+
+- Los Cruzados intentaron cazar cérvidos. Un grupo huyó; otro encuentro terminó con una carga defensiva de un cérvido. Kevin interpuso su lanza, cuyo asta quedó marcada sin daño estructural confirmado. Tomás recibió un golpe sobre la protección del antebrazo: conserva movilidad, pero presenta dolor y no se confirma lesión concreta. Lucía lo comprobó y recomendó no forzarlo.
+- Rastro Gris intentó acercarse a un verraco. Sara detectó más movimiento entre los carrizos; Iván aceleró y el animal cargó, golpeando su arma. La party se retiró. No se confirma lesión de Iván ni daño del arma.
+- Ninguna party capturó presa: Los Cruzados 0/3; Rastro Gris 0/3. No se confirma uso de Recuperación, lesión de criaturas, muerte, cambios de equipo ni progreso de rango/técnica.
+- Siguiente: continuar la cacería y comprobar el estado del antebrazo de Tomás antes de exigirle esfuerzo.
