@@ -1,14 +1,14 @@
-# Transferencia de continuidad — Piso 2: inicio del desafío
+# Transferencia de continuidad — Piso 2: después de la Etapa A
 
-**Estado:** transferencia operativa basada en el capítulo aprobado «NEXUS — Piso 2 / Piso Principal: Preparación y comienzo del desafío». No sustituye los documentos propietarios.
+**Estado:** transferencia operativa actualizada tras la aprobación de la Etapa A — Asignación y dispersión. No sustituye los documentos propietarios.
 
 ## 1. Punto exacto
 - **Piso:** 2.
-- **Etapa o situación actual:** Piso Principal completado; desafío general recién iniciado.
-- **Momento narrativo:** concluyeron las 24 horas comunes de preparación, el Sistema anunció el comienzo del desafío y asignó las cuotas a las parties reconocidas.
-- **Lugar:** transición al terreno del desafío. La siguiente narración debe establecer con claridad el Valle de las Tres Cuencas, sus tres hábitats, los corredores de grava y la meseta de salida, según el diseño aprobado.
-- **Último hecho aprobado:** Los Cruzados y Rastro Gris comenzaron como parties reconocidas y recibieron sus cuotas.
-- **Siguiente paso permitido:** completar la Etapa A — asignación y dispersión. No saltar directamente a la cacería sin ubicar a las unidades y desarrollar la dispersión. Después, avanzar a localización y lectura de presas.
+- **Etapa o situación actual:** Piso Principal y Etapa A — asignación y dispersión — completados.
+- **Momento narrativo:** Los Cruzados y Rastro Gris ya se encuentran en el Valle de las Tres Cuencas. Han reconocido el terreno y comienzan a avanzar para localizar y leer posibles presas.
+- **Lugar:** Valle de las Tres Cuencas; elevación junto a un corredor de grava desde la que Los Cruzados reconocieron inicialmente el terreno.
+- **Último hecho aprobado:** Los Cruzados y Rastro Gris han comenzado su reconocimiento del terreno. No se han confirmado rastros ni encuentros con presas.
+- **Siguiente paso permitido:** desarrollar la localización y lectura de presas, respetando lo que los personajes realmente observen y sin adelantar capturas.
 
 ## 2. Estado de participantes
 - **Kevin:** vivo; guía Principiante de manejo de lanza recibida; práctica inicial irregular; sin rango nuevo acreditado; integrante de Los Cruzados.
@@ -50,7 +50,7 @@
 - **Errores o limitaciones persistentes:** la guía no equivale a dominio; la práctica inicial no hace funcionales o fiables las técnicas.
 - **Fichas actualizadas:** Kevin, Lucía, Tomás, Damián, Iván y Sara.
 
-## 7. Auditoría de cierre documental
+## 7. Auditoría de cierre documental del Piso Principal
 - [x] Historial aprobado: actualizado.
 - [x] Fichas de personajes afectados: actualizadas.
 - [x] Registros de grupos afectados: actualizados.
@@ -75,3 +75,30 @@
 - **Archivos modificados y verificados:** estado actual, historial aprobado, índice de personajes, fichas de Kevin/Lucía/Tomás/Damián/Iván/Sara, índice de parties y esta transferencia.
 
 **Recordatorio para continuar:** el Piso Principal no es una prueba separada. La cacería comienza después de las 24 horas de preparación. No introducir un objetivo de combate en el Piso Principal ni alterar la estructura aprobada del Piso 2.
+
+
+---
+
+## 9. Actualización tras la aprobación de Piso 2A
+
+**Etapa A — Asignación y dispersión: APROBADA.**
+
+- Los Cruzados: cuota 0/3; ninguna presa acreditada.
+- Rastro Gris: cuota 0/3; ninguna presa acreditada.
+- Los Cruzados observaron el valle desde una elevación junto a un corredor de grava. Reconocieron que vegetación, desniveles y extensión limitan la visibilidad y condicionan el movimiento. Decidieron comenzar observando y luego avanzaron para reconocer los alrededores.
+- Rastro Gris comenzó a desplazarse y conversó sobre el reconocimiento de corredores, sin fijar estrategia definitiva ni distribuir funciones.
+- Se observaron otros participantes dispersos. La cifra total de convocados y la composición de las demás unidades siguen sin confirmarse.
+- No se confirman rastros, encuentros ni observaciones directas de las especies objetivo. Tampoco se confirma presencia de carroñeros.
+- No se registran lesiones, usos de Recuperación, cambios de equipo ni avances técnicos nuevos durante 2A.
+- El siguiente paso es la localización y lectura de presas. No atribuir a los personajes conocimientos sobre conducta, rastros o debilidades que todavía no hayan adquirido.
+
+### Auditoría específica de 2A
+
+- [x] Estado actual actualizado.
+- [x] Historial aprobado actualizado.
+- [x] Diseño aprobado revisado y no modificado.
+- [x] Cuotas conservadas en 0/3 para ambas parties.
+- [x] Sin cambios de fichas individuales: no hubo evidencia nueva de progresión, lesiones, equipo o recursos.
+- [x] Sin cambios en índices o registros de grupos: la composición de ambas parties permanece igual.
+- [x] Sin cambios de rangos, técnicas, recuperación o recompensas.
+- [x] Incógnitas sobre convocados y demás unidades preservadas.
