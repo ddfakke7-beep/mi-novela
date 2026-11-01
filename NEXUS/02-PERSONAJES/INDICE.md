@@ -21,6 +21,16 @@ Los perfiles de [ELENCO-GLOBAL.md](ELENCO-GLOBAL.md) son una herramienta de plan
 
 No crear fichas completas de todos los participantes pasajeros por obligación. Un personaje pasajero puede recibir un registro breve si sus acciones producen consecuencias persistentes o si adquiere importancia futura.
 
+## Perfiles definidos por el diseño aprobado del Piso 2; narración pendiente
+
+El diseño aprobado del Piso 2 define también perfiles individuales que deben conservarse al comenzar su desarrollo narrativo. Sus fichas registran únicamente la base establecida por el diseño; no afirman que ya hayan aparecido, llegado al Piso Principal, formalizado una party o realizado acciones todavía no narradas.
+
+- [Damián](DAMIAN.md) — cazador recreativo; experiencia con arco y selección prudente de presas.
+- [Iván](IVAN.md) — practicante de kickboxing; competitivo y propenso a confiar en la presión directa.
+- [Sara](SARA.md) — experiencia en seguridad privada; observación y control de accesos.
+
+El diseño prevé que Damián, Iván y Sara puedan formar Rastro Gris, pero la party solo existirá si la narración muestra la invitación y la aceptación expresa de sus integrantes. Hasta entonces son participantes individuales, no miembros de un grupo reconocido.
+
 ## Criterios de seguimiento
 
 Cada ficha distingue, cuando corresponda:
