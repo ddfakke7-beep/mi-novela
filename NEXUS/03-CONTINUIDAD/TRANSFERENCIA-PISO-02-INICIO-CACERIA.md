@@ -12,8 +12,8 @@
 
 ## 2. Estado de participantes
 - **Kevin:** vivo; guía Principiante de manejo de lanza recibida; práctica inicial irregular; sin rango nuevo acreditado; integrante de Los Cruzados.
-- **Lucía:** viva; consultó opciones de recompensa pero no eligió contenido; integrante de Los Cruzados.
-- **Tomás:** vivo; revisó opciones de recompensa pero no eligió contenido; integrante de Los Cruzados.
+- **Lucía:** viva; su recompensa sigue pendiente, pero revisó contenidos de supervivencia y atención de heridos, observó la práctica de sus compañeros, alternó consulta y descanso y ayudó a priorizar la preparación del trío. No se narró práctica clínica simulada ni técnica sanitaria nueva; integrante de Los Cruzados.
+- **Tomás:** vivo; su recompensa sigue pendiente, pero practicó con un arma de entrenamiento cuyo tipo no se especifica con precisión. Mostró soltura y coordinación, sin técnica nueva ni dominio acreditado; integrante de Los Cruzados.
 - **Damián:** presencia confirmada; integrante de Rastro Gris; su experiencia recreativa de caza y dominio de arco proceden de su ficha/diseño, no de una demostración durante este capítulo.
 - **Iván:** presencia confirmada; integrante de Rastro Gris; experiencia previa de kickboxing según su ficha/diseño.
 - **Sara:** presencia confirmada; integrante de Rastro Gris; experiencia laboral en seguridad privada según su ficha/diseño.
@@ -44,8 +44,8 @@
 - **Condición de superación:** todas las cuotas de todas las unidades convocadas deben estar completas. Completar una cuota propia no permite salir antes. Tras el aviso general, cada participante vivo debe llegar físicamente a la puerta blanca de la meseta de salida.
 
 ## 6. Progresión revisada
-- **Mejoras demostradas:** no se acredita subida de rango para Kevin ni para otro personaje durante este capítulo.
-- **Aprendizajes en desarrollo:** Kevin recibió la guía Principiante de manejo de lanza y practicó fundamentos con errores y ejecución irregular.
+- **Mejoras demostradas:** no se acredita subida de rango para Kevin ni para otro personaje durante este capítulo. Tomás sí acumuló práctica con arma de entrenamiento, sin que se identifique disciplina o técnica concreta. Lucía reforzó criterio de preparación y priorización mediante revisión de información, observación y organización del grupo.
+- **Aprendizajes en desarrollo:** Kevin recibió la guía Principiante de manejo de lanza y practicó fundamentos con errores y ejecución irregular. Tomás practicó movimientos sencillos con un arma de entrenamiento no identificada; su soltura física no equivale a dominio técnico. Lucía revisó información de supervivencia y atención de heridos y ejercitó criterio de preparación y gestión del esfuerzo del grupo; no se narró entrenamiento sanitario específico.
 - **Capacidades sin cambio acreditado:** dominio de lanza de Kevin; dominio de maza de Tomás; combate de Lucía; demás disciplinas de los participantes.
 - **Errores o limitaciones persistentes:** la guía no equivale a dominio; la práctica inicial no hace funcionales o fiables las técnicas.
 - **Fichas actualizadas:** Kevin, Lucía, Tomás, Damián, Iván y Sara.
@@ -57,7 +57,7 @@
 - [x] Progresión general y registros personales: revisados; sin subida de rango acreditada. Aprendizaje recibido registrado en la ficha de Kevin.
 - [x] Combate, técnicas y equipo: revisados; sin rango nuevo ni técnica funcional/fiable; sin cambio de equipo confirmado.
 - [x] Recuperación y lesiones: revisadas; sin uso nuevo ni lesión nueva confirmados.
-- [x] Recompensas y aprendizajes recibidos: Kevin actualizado; elecciones de Lucía y Tomás siguen pendientes.
+- [x] Recompensas y aprendizajes recibidos: Kevin recibió guía de lanza; las elecciones de Lucía y Tomás siguen pendientes. La preparación y práctica de ambos quedó registrada de forma independiente de sus recompensas.
 - [x] Estado actual: actualizado.
 - [x] Diseño del piso: revisado; no modificado.
 - [x] Arco global: revisado; no requiere cambio por este capítulo.
