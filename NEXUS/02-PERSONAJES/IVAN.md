@@ -37,3 +37,12 @@ Equipo y recursos concretos seleccionados para el Piso 2, elección de recompens
 ## Última actualización
 
 Aprobación del capítulo de preparación del Piso 2: presencia confirmada y formalización de Rastro Gris con Damián y Sara. Comienza el desafío con cuota conjunta de tres presas, una de cada especie; todavía no hay cacería confirmada.
+
+
+## Registro añadido — Piso 2B
+
+### Piso 2B — Observación de presas
+
+- En el carrizal observó verracos de carrizo que se desplazaban en grupo y presenció la respuesta amenazante de uno ante la aproximación de Rastro Gris. No llegó a combatirlo.
+- En los escarpes quiso aproximarse a un treparrocas cenizo; el animal avanzó bruscamente y escapó por una repisa. Iván retrocedió.
+- Su impaciencia y preferencia por actuar directamente siguen presentes. La experiencia le muestra que una presa puede defenderse, pero no acredita dominio nuevo de kickboxing ni combate contra criaturas. Sin lesiones ni contacto físico.
