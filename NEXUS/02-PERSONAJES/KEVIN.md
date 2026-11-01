@@ -1,6 +1,6 @@
 # Kevin — ficha individual
 
-**Estado:** personaje central; ficha vigente al llegar al Piso Principal del Piso 2.  
+**Estado:** personaje central; ficha vigente al inicio del desafío del Piso 2.  
 **Base:** diseño aprobado del Piso 1, narración aprobada de los tramos 1.1 y 1A–1E, y sistemas oficiales vigentes.
 
 ## Identidad y punto de partida
@@ -11,12 +11,12 @@ Su tendencia inicial es observar, valorar el riesgo y evitar exponerse sin una r
 
 ## Estado vigente
 
-- **Situación:** vivo; alcanzó la salida del Piso 1 y aceptó individualmente la transición al Piso Principal del Piso 2.
-- **Condición física:** no se confirmó una lesión nueva al cierre del Piso 1. No se registra una limitación física nueva. La ficha debe actualizarse si la preparación del Piso 2 revela condiciones que no consten aquí.
-- **Recuperación:** no utilizó su activación del Sistema de Recuperación durante el Piso 1.
-- **Recompensas:** tiene pendiente la oferta individual obtenida por completar el Piso 1. Debe presentarse y elegirse durante la preparación del Piso Principal del Piso 2. No ha elegido ni recibido una recompensa concreta.
-- **Party:** no pertenece a una party reconocida. Mantiene cooperación informal con Lucía y Tomás.
-- **Ubicación narrativa:** Piso Principal del Piso 2; el desafío del Piso 2 todavía no ha comenzado en el punto de continuidad registrado.
+- **Situación:** vivo; llegó al Piso Principal del Piso 2 y comenzó el desafío general tras las 24 horas de preparación.
+- **Condición física:** no se confirmó lesión nueva ni una limitación física nueva durante la preparación.
+- **Recuperación:** no utilizó su activación del Sistema de Recuperación durante el Piso 1; no se registra uso nuevo en el Piso Principal ni al inicio del desafío.
+- **Recompensa del Piso 1:** eligió y recibió **Combate → Manejo de lanza → Principiante**. La guía contiene postura, equilibrio, agarre, control, desplazamiento y principios básicos de ataque y defensa.
+- **Party:** integrante de **Los Cruzados**, party formalizada y reconocida durante la preparación del Piso 2 junto con Lucía y Tomás.
+- **Ubicación narrativa:** desafío del Piso 2 recién iniciado; todavía no se ha confirmado una cacería ni un encuentro con una especie objetivo.
 
 ## Capacidades, conocimientos y experiencia
 
@@ -31,7 +31,8 @@ Su tendencia inicial es observar, valorar el riesgo y evitar exponerse sin una r
 - **Dominio inicial:** sin dominio funcional en las disciplinas de combate conocidas al comenzar.
 - **Arma elegida en el Piso 1:** lanza sencilla.
 - **Equipo inicial adicional:** cuchillo corto, chaqueta de cuero ligero y protectores de antebrazo.
-- Realizó prácticas iniciales con la lanza para familiarizarse parcialmente con su peso y manejo. Eso no acreditó un rango nuevo ni una técnica funcional.
+- Realizó prácticas iniciales con la lanza en el Piso 1, sin acreditar dominio nuevo.
+- Durante la preparación del Piso 2 recibió una guía principiante de manejo de lanza y practicó postura, equilibrio, agarre, control y desplazamiento, además de principios básicos ofensivos y defensivos. La ejecución mostró errores y todavía es irregular. La guía y la práctica inicial no acreditan rango nuevo ni técnicas funcionales o fiables.
 - Durante el enfrentamiento final utilizó la lanza como apoyo para impedir que Tomás y otro participante quedaran expuestos a un acercamiento del Acechador. No realizó el golpe decisivo.
 - No se ha demostrado dominio fiable de la lanza ni experiencia suficiente para considerarse combatiente.
 
@@ -69,6 +70,8 @@ No se confirmó pérdida, sustitución ni daño nuevo en su equipo al cierre del
 - **Piso 1C:** comparó observaciones y testimonios sin convertir hipótesis en certezas.
 - **Piso 1D:** observó a cuatro participantes enfrentarse coordinadamente al Acechador y reconoció tanto la utilidad como los límites de la cooperación.
 - **Piso 1E:** participó en la cacería final; usó la lanza para apoyar y proteger a compañeros en un momento de peligro. No dirigió al conjunto ni asestó el golpe decisivo. Sobrevivió y cruzó individualmente al Piso 2.
+- **Preparación del Piso 2:** eligió la guía principiante de manejo de lanza y comenzó a practicar sus fundamentos. La ejecución inicial fue irregular; no se acredita dominio funcional ni aumento de rango.
+- **Inicio del desafío del Piso 2:** formalizó Los Cruzados con Lucía y Tomás. La party recibió una cuota conjunta de tres presas válidas, una de cada especie objetivo. Aún no se ha confirmado ningún encuentro ni presa acreditada.
 
 Estos acontecimientos constituyen experiencia inicial y material para aprender. No conceden automáticamente dominio, liderazgo, pericia táctica ni una especialización.
 
@@ -80,10 +83,10 @@ La dirección global de Kevin está recogida en [el arco de los Pisos 1–10](..
 
 - No se conocen todos los detalles de su condición física al llegar al Piso 2 más allá de lo establecido en el estado actual.
 - No se han registrado técnicas de lanza funcionales o fiables.
-- No se ha confirmado una recompensa concreta.
-- No existe party reconocida con Lucía, Tomás ni otros participantes.
+- La recompensa del Piso 1 está elegida y recibida: guía Principiante de manejo de lanza. Su asimilación y dominio siguen en desarrollo.
+- Pertenece a Los Cruzados desde la preparación del Piso 2. La party no existía durante el Piso 1.
 - No debe atribuirse a Kevin información que no haya obtenido durante la historia.
 
 ## Última actualización
 
-Cierre aprobado del Piso 1E y transición individual al Piso Principal del Piso 2. La siguiente actualización corresponde a los acontecimientos confirmados durante la preparación del Piso 2.
+Aprobación del capítulo del Piso Principal del Piso 2: elección y recepción de la guía principiante de lanza, práctica inicial, formalización de Los Cruzados e inicio del desafío con cuota conjunta. Último punto: comienzo del desafío, antes de la cacería.
