@@ -46,8 +46,8 @@ No se confirmó pérdida, sustitución ni daño nuevo en su equipo al cierre del
 
 ## Relaciones y situación social
 
-- **Kevin:** cooperación informal desde la preparación del Piso 1. Su relación se basa en el acuerdo de mantenerse cerca y avisarse antes de separarse.
-- **Tomás:** cooperación informal desde la preparación del Piso 1. Puede discrepar de sus impulsos sin que eso establezca una relación de autoridad.
+- **Kevin:** cooperación desde la preparación del Piso 1; desde la preparación del Piso 2 ambos integran Los Cruzados. Su relación conserva el acuerdo de mantenerse cerca y avisarse antes de separarse.
+- **Tomás:** cooperación desde la preparación del Piso 1; desde la preparación del Piso 2 ambos integran Los Cruzados. Puede discrepar de sus impulsos sin que eso establezca una relación de autoridad.
 - **Otros participantes:** prestó apoyo básico a personas heridas durante el Piso 1. No se conocen todas sus identidades ni la evolución posterior de esas relaciones.
 - Forma parte de Los Cruzados desde la preparación del Piso 2. Su cooperación con Kevin y Tomás durante el Piso 1 fue informal y no se convirtió retroactivamente en party.
 
