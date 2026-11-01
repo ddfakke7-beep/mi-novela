@@ -11,7 +11,10 @@ Este directorio conserva el estado vigente de los personajes con relevancia para
 - [Kevin](KEVIN.md) — personaje central; seguimiento detallado.
 - [Lucía](LUCIA.md) — personaje recurrente; seguimiento de conocimientos de cuidado, decisiones y evolución.
 - [Tomás](TOMAS.md) — personaje recurrente; seguimiento de experiencia de combate, adaptación y evolución.
-- [Mateo](MATEO.md) — participante introducido en el Piso 1; situación posterior al tramo aprobado todavía desconocida.\n- [Damián](DAMIAN.md) — participante presente durante la preparación del Piso 2; integrante de Rastro Gris.\n- [Iván](IVAN.md) — participante presente durante la preparación del Piso 2; integrante de Rastro Gris.\n- [Sara](SARA.md) — participante presente durante la preparación del Piso 2; integrante de Rastro Gris.
+- [Mateo](MATEO.md) — participante introducido en el Piso 1; situación posterior al tramo aprobado todavía desconocida.
+- [Damián](DAMIAN.md) — participante presente durante la preparación del Piso 2; integrante de Rastro Gris.
+- [Iván](IVAN.md) — participante presente durante la preparación del Piso 2; integrante de Rastro Gris.
+- [Sara](SARA.md) — participante presente durante la preparación del Piso 2; integrante de Rastro Gris.
 
 Estas fichas parten únicamente de hechos establecidos en diseños aprobados y narración aprobada. Se ampliarán cuando existan nuevos acontecimientos confirmados. No rellenar datos desconocidos con suposiciones.
 
