@@ -61,6 +61,16 @@ Las mejoras pueden surgir de entrenamiento, enseñanza, observación, experiment
 
 No se exige registrar cada dato aprendido por cada participante. Se conserva lo que sea relevante para la continuidad y las decisiones futuras, especialmente en Kevin y en los personajes recurrentes cuyo desarrollo se siga.
 
+## Seguimiento de integrantes de una party
+
+La pertenencia a una party no convierte a sus integrantes en un bloque de progresión uniforme. Cada miembro mantiene una trayectoria individual, aunque no sea protagonista ni tenga una escena explícita dedicada a explicar lo que aprendió. En las revisiones de etapa y de piso se considerarán, según su relevancia, sus conocimientos, entrenamiento, observaciones, experiencia práctica, criterio, decisiones, limitaciones y objetivos de desarrollo.
+
+La elección de una recompensa no es requisito para progresar. Deben distinguirse la oportunidad disponible, la opción elegida, el contenido efectivamente recibido, su comprensión, la práctica posterior y la capacidad que el personaje demuestra ejecutar. Entrenar, observar, recibir enseñanza, experimentar y adaptarse son vías válidas de aprendizaje, pero cada avance requiere una causa y evidencia proporcionadas. La ausencia de una recompensa elegida no implica ausencia de crecimiento; haber recibido una guía tampoco implica dominio.
+
+Cuando resulte coherente, puede reconocerse desarrollo ocurrido fuera de escena, considerando el tiempo transcurrido, oportunidades plausibles, personalidad, experiencia previa y capacidades conocidas. No se inventarán acontecimientos concretos sin fundamento ni se concederán mejoras repentinas. Si la causa o el alcance del avance no están suficientemente establecidos, se mantendrán como desconocidos o hipótesis, no como hechos confirmados.
+
+No todos los integrantes deben progresar en cada etapa ni al mismo ritmo. La revisión debe permitir que cada uno avance, se mantenga, encuentre una limitación o cambie de objetivo de manera individual y coherente.
+
 ## Entrenamiento sostenido y objetivos de desarrollo
 
 Los personajes deben disponer de oportunidades razonables para practicar y desarrollar capacidades importantes entre desafíos, especialmente cuando esas capacidades serán necesarias en pisos posteriores. La progresión no debe depender exclusivamente de las recompensas ni de que un personaje escoja repetidamente guías de la misma disciplina.
