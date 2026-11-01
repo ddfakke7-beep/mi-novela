@@ -182,3 +182,27 @@ Las propuestas, escenas descartadas y sucesos todavía no aprobados no se regist
 - No se confirma una cifra total de convocados, ni la composición de todas las unidades.
 - No se ha confirmado la localización, caza o eliminación de ninguna presa objetivo por parte de las dos parties.
 - El desafío continúa activo. La etapa de cacería queda pendiente.
+
+
+---
+
+## Piso 2 — Etapa A: Asignación y dispersión
+
+**Estado: APROBADO.**
+
+1. Los Cruzados aparecen juntos en el Valle de las Tres Cuencas y reciben/visualizan su cuota de tres presas válidas: un cérvido de espolón, un verraco de carrizo y un treparrocas cenizo. Su contador comienza en 0/3.
+2. Rastro Gris aparece igualmente junto y mantiene una cuota de tres presas válidas, una de cada especie, con contador 0/3.
+3. Se presentan la Llanura del Viento, el Carrizal de la Cuenca Baja, los Escarpes de Ceniza, los corredores de grava y la puerta blanca situada en la meseta de salida. Los participantes observan que la vegetación, los desniveles y la extensión del valle limitan la visibilidad y condicionan el tránsito.
+4. Los Cruzados reconocen el terreno desde una elevación junto a un corredor de grava y deciden comenzar observando, sin internarse precipitadamente en un hábitat ni copiar las decisiones de Rastro Gris. Después comienzan a avanzar para reconocer los alrededores.
+5. Rastro Gris comienza a desplazarse y conversa sobre el reconocimiento de corredores, sin fijar una estrategia definitiva ni distribuir formalmente funciones.
+6. Se observan otros participantes dispersos, pero no se confirma el número total de convocados ni la composición de las demás unidades.
+7. No se confirman rastros, encuentros, localización, captura o eliminación de presas objetivo. Tampoco se confirma presencia de carroñeros. No se registran lesiones, usos de Recuperación, cambios de equipo ni avances técnicos nuevos durante esta etapa.
+
+### Estado al cierre de 2A
+
+- El desafío continúa activo.
+- Los Cruzados: 0/3 presas acreditadas.
+- Rastro Gris: 0/3 presas acreditadas.
+- No se confirma ninguna observación directa de las especies objetivo.
+- La siguiente etapa corresponde a la localización y lectura de presas, sin asumir conocimientos que los personajes todavía no hayan adquirido.
+- La cifra total de convocados y la composición de las demás unidades siguen siendo desconocidas.
