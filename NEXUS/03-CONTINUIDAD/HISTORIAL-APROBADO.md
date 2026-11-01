@@ -163,8 +163,8 @@ Las propuestas, escenas descartadas y sucesos todavía no aprobados no se regist
 3. Durante las 24 horas comunes de preparación, los participantes pueden descansar, alimentarse, revisar el equipo disponible, consultar información y practicar en el área habilitada.
 4. Kevin consulta su oportunidad individual de recompensa obtenida al completar el Piso 1 y escoge **Combate → Manejo de lanza → Principiante**. Recibe una guía organizada sobre postura, equilibrio, agarre, control del arma, desplazamiento y principios básicos de ataque y defensa.
 5. Kevin comienza a practicar los fundamentos de la lanza a partir de la guía. La práctica muestra errores y una ejecución todavía irregular. La recepción del contenido y esta práctica inicial no equivalen a dominio funcional ni producen una subida automática de rango.
-6. Lucía consulta opciones de recompensa relacionadas con supervivencia y atención de personas heridas, pero no se confirma que elija o reciba un contenido concreto.
-7. Tomás revisa las opciones disponibles, pero no se confirma que elija o reciba un contenido concreto.
+6. Lucía consulta opciones de recompensa relacionadas con supervivencia y atención de personas heridas, sin elegir ni recibir un contenido concreto. Durante la preparación también revisa información, observa el entrenamiento de sus compañeros, alterna consulta y descanso y ayuda a ordenar las prioridades del trío. Señala que no deben agotarse antes del desafío. Esto demuestra criterio práctico de preparación y gestión del grupo; no se narra una práctica sanitaria simulada ni una técnica clínica nueva.
+7. Tomás revisa las opciones disponibles sin elegir ni recibir un contenido concreto. Además, practica durante un periodo con un arma de entrenamiento; la narración no especifica con precisión el modelo o disciplina. Sus movimientos muestran soltura y coordinación natural, pero no se establece una técnica nueva ni dominio técnico del arma.
 8. Kevin, Lucía y Tomás formalizan **Los Cruzados**. La invitación y la aceptación expresa quedan realizadas y el Sistema reconoce la party, integrada por los tres. Su cooperación anterior pasa a tener reconocimiento formal desde este momento; no se atribuyen bonificaciones ni penalizaciones.
 9. Damián, Iván y Sara aparecen durante la preparación y formalizan **Rastro Gris** mediante invitación y aceptación expresa. El Sistema reconoce la party, integrada por los tres. La relación con Los Cruzados queda planteada como competitiva, no como enemistad obligatoria.
 10. Los participantes utilizan el periodo de preparación para revisar información, conversar, practicar y descansar. No se confirma que Lucía o Tomás hayan escogido una recompensa, ni que alguno de los seis haya sustituido su equipo.
@@ -178,7 +178,7 @@ Las propuestas, escenas descartadas y sucesos todavía no aprobados no se regist
 - Los Cruzados: party reconocida, Kevin, Lucía y Tomás; cuota de tres presas válidas, una de cada especie.
 - Rastro Gris: party reconocida, Damián, Iván y Sara; cuota de tres presas válidas, una de cada especie.
 - Kevin recibió una guía principiante de manejo de lanza y comenzó a practicar sus fundamentos. No se acredita rango nuevo ni técnica funcional/fiable.
-- Lucía y Tomás todavía no tienen una recompensa concreta registrada como elegida o recibida.
+- Lucía y Tomás todavía no tienen una recompensa concreta registrada como elegida o recibida. Esto no borra la preparación realizada: Lucía revisó información de supervivencia y atención de heridos y contribuyó a priorizar el descanso y la preparación del trío; Tomás practicó con un arma de entrenamiento de tipo no especificado, mostrando soltura sin que se acredite dominio técnico nuevo.
 - No se confirma una cifra total de convocados, ni la composición de todas las unidades.
 - No se ha confirmado la localización, caza o eliminación de ninguna presa objetivo por parte de las dos parties.
 - El desafío continúa activo. La etapa de cacería queda pendiente.
