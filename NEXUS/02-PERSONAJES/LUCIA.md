@@ -77,3 +77,12 @@ Su desarrollo puede combinar el uso prudente de sus conocimientos de cuidado, la
 ## Última actualización
 
 Aprobación del capítulo del Piso Principal del Piso 2: revisión de opciones de supervivencia y atención de heridos sin elegir una recompensa; observación del entrenamiento de sus compañeros; alternancia entre consulta de información y descanso; y aporte práctico al ordenar prioridades y evitar el agotamiento antes del desafío. Formalizó Los Cruzados. Su recompensa individual sigue pendiente, pero su preparación y criterio práctico quedan registrados. Último punto: comienzo del desafío, antes de la cacería.
+
+
+## Registro añadido — Piso 2B
+
+### Piso 2B — Observación de presas
+
+- Observó grupos de cérvidos de espolón y verracos de carrizo, además de treparrocas cenizos en los escarpes.
+- Participó en decisiones de cautela ante animales que detectaron al grupo o respondieron de forma amenazante. Reconoció que la abundancia de presas no vuelve seguro el acercamiento.
+- Su aporte fue de observación y criterio práctico. No se acredita aprendizaje sanitario, técnica de combate ni aumento de rango. Sin lesiones ni uso de Recuperación.
