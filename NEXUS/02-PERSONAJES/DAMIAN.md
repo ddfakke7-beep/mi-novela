@@ -37,3 +37,12 @@ Equipo y recursos concretos seleccionados para el Piso 2, elección de recompens
 ## Última actualización
 
 Aprobación del capítulo de preparación del Piso 2: presencia confirmada y formalización de Rastro Gris con Iván y Sara. Comienza el desafío con cuota conjunta de tres presas, una de cada especie; todavía no hay cacería confirmada.
+
+
+## Registro añadido — Piso 2B
+
+### Piso 2B — Observación de presas
+
+- Observó un grupo de verracos de carrizo en el humedal y decidió no aproximarse sin conocer la posición de los demás individuos. Uno mostró los colmillos, resopló y avanzó unos pasos; Rastro Gris se retiró.
+- En los escarpes observó treparrocas cenizos y una reacción brusca de uno de ellos ante el movimiento de Iván.
+- Su prudencia es coherente con su experiencia recreativa de caza, pero no demuestra conocimiento específico de las especies de NEXUS ni mejora de rango o técnica. Sin lesiones ni presa capturada.
