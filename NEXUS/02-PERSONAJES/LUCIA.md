@@ -86,3 +86,7 @@ Aprobación del capítulo del Piso Principal del Piso 2: revisión de opciones d
 - Observó grupos de cérvidos de espolón y verracos de carrizo, además de treparrocas cenizos en los escarpes.
 - Participó en decisiones de cautela ante animales que detectaron al grupo o respondieron de forma amenazante. Reconoció que la abundancia de presas no vuelve seguro el acercamiento.
 - Su aporte fue de observación y criterio práctico. No se acredita aprendizaje sanitario, técnica de combate ni aumento de rango. Sin lesiones ni uso de Recuperación.
+
+## Piso 2C — Primeros intentos de caza
+
+Durante el enfrentamiento con un cérvido, Lucía comprobó brevemente el estado de Tomás después de que recibiera un golpe sobre la protección del antebrazo. Observó que conservaba movilidad y recomendó no forzarlo; no estableció un diagnóstico ni una lesión concreta. También se desplazó para dejar libre una ruta lateral por la que el animal pudo marcharse. Esto demuestra criterio práctico situacional, no una técnica clínica nueva ni dominio de combate. Sin lesión confirmada ni uso de Recuperación.
