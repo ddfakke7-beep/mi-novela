@@ -57,8 +57,8 @@ No se confirmó pérdida, sustitución ni daño nuevo en su equipo al cierre del
 
 ## Relaciones y situación social
 
-- **Lucía:** cooperación informal desde la preparación del Piso 1. Confía en su criterio práctico y en su capacidad de prestar apoyo básico, sin que eso implique una party formal.
-- **Tomás:** cooperación informal desde la preparación del Piso 1. Han afrontado juntos situaciones peligrosas, pero no existe una relación de subordinación ni liderazgo establecido.
+- **Lucía:** cooperación desde la preparación del Piso 1; desde la preparación del Piso 2 ambos integran Los Cruzados. Confía en su criterio práctico y en su capacidad de prestar apoyo básico, sin que eso establezca autoridad.
+- **Tomás:** cooperación desde la preparación del Piso 1; desde la preparación del Piso 2 ambos integran Los Cruzados. Han afrontado juntos situaciones peligrosas, pero no existe subordinación ni liderazgo establecido.
 - **Mateo:** coincidieron durante la preparación y el inicio del Piso 1, pero Mateo mantuvo autonomía y no se integró al acuerdo del trío.
 - **Otros participantes:** cooperó con un conjunto más amplio durante la cacería final. Esa cooperación fue temporal y no constituyó una party reconocida.
 
