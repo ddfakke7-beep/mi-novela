@@ -206,3 +206,25 @@ Las propuestas, escenas descartadas y sucesos todavía no aprobados no se regist
 - No se confirma ninguna observación directa de las especies objetivo.
 - La siguiente etapa corresponde a la localización y lectura de presas, sin asumir conocimientos que los personajes todavía no hayan adquirido.
 - La cifra total de convocados y la composición de las demás unidades siguen siendo desconocidas.
+
+
+## Piso 2 — Piso 2B: Localización y lectura de las presas
+
+**Estado: APROBADO.**
+
+1. Los Cruzados recorren la Llanura del Viento y observan varios grupos de cérvidos de espolón. Los animales detectan su presencia y se alejan. Tomás intenta avanzar cuando un grupo cruza un corredor de grava, pero Kevin lo detiene antes de iniciar una persecución improvisada.
+2. Los Cruzados observan varios verracos de carrizo en el humedal. Uno responde a su proximidad avanzando de forma amenazante, resoplando y mostrando una postura defensiva. Los participantes retroceden y el animal regresa al carrizal. No hay contacto físico ni embestida confirmada.
+3. Los Cruzados observan treparrocas cenizos en distintas repisas. Uno golpea el suelo con una pata y avanza bruscamente cuando Tomás se aproxima; después escapa hacia una repisa superior.
+4. Rastro Gris observa un grupo de verracos en el carrizal. Sara detecta movimientos adicionales entre los tallos; Damián decide no aproximarse sin conocer la posición de los demás animales. Un verraco muestra los colmillos, resopla y avanza unos pasos, por lo que la party se retira sin combatir.
+5. Rastro Gris observa treparrocas en los escarpes. Uno reacciona al movimiento de Iván con un avance brusco y después escapa por una repisa. No hay contacto físico.
+6. Se confirma la presencia de poblaciones visibles de las tres especies en sus hábitats, con grupos y movimientos en distintos sectores. No se fijan cantidades exactas ni se afirma que todos los animales observados formen una única manada.
+7. Los personajes observan que las presas pueden detectar a los participantes, huir, amenazar, defender su espacio o reaccionar físicamente ante una aproximación. Son observaciones limitadas a los encuentros narrados; no conocen las capacidades completas, debilidades ni conducta universal de las especies.
+8. Ninguna party captura o elimina una presa. Los Cruzados permanecen 0/3 y Rastro Gris 0/3. No se establecen lesiones de participantes o animales, uso de Recuperación, cambios de equipo ni avances de rango o técnicas.
+
+### Estado al cierre de 2B
+
+- Los Cruzados y Rastro Gris siguen completos y reconocidos como parties.
+- Los Cruzados han observado directamente las tres especies objetivo. Rastro Gris ha observado directamente verracos de carrizo y treparrocas cenizos; no se confirma avistamiento de cérvidos por esa party.
+- Ninguna cuota ha avanzado: Los Cruzados 0/3; Rastro Gris 0/3.
+- No se confirman capturas, muertes, heridas, uso de Recuperación ni cambios de equipo.
+- La siguiente etapa corresponde a los primeros intentos de caza y errores, con la posibilidad real de que las presas se defiendan o combatan.
