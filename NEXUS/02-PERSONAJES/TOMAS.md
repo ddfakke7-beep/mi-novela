@@ -92,3 +92,8 @@ Aprobación del capítulo del Piso Principal del Piso 2: revisión de opciones d
 ## Piso 2C — Primeros intentos de caza
 
 En el primer intento con cérvidos, Tomás se movió antes de que el grupo tuviera controlada una posible ruta de escape y los animales huyeron. En un segundo encuentro, quedó expuesto a la carga de un cérvido y recibió un golpe sobre la protección del antebrazo, que lo hizo caer. Conserva movilidad en el brazo y los dedos, pero presenta dolor; no se confirma lesión concreta. Lucía recomendó no forzarlo. La experiencia evidencia errores de distancia y aproximación, pero no acredita técnica nueva ni aumento de rango. No se confirma uso de Recuperación.
+
+
+## Piso 2D — Adaptación de la cacería
+
+El dolor del antebrazo había disminuido desde 2C, aunque persistía. Conservaba movilidad y participó en la etapa; no se confirma lesión concreta ni recuperación completa. Durante el enfrentamiento con un cérvido esperó a que pasara y lo golpeó desde un lateral con su maza. La presa terminó abatida y fue registrada como válida para Los Cruzados. Esta decisión más contenida no acredita técnica nueva ni aumento de rango. No se confirma uso de Recuperación ni cambio de equipo. Cuota de Los Cruzados: 1/3.
