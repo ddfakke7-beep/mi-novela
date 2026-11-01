@@ -1,6 +1,6 @@
 # Lucía — ficha individual
 
-**Estado:** personaje recurrente; ficha vigente al llegar al Piso Principal del Piso 2.  
+**Estado:** personaje recurrente; ficha vigente al inicio del desafío del Piso 2.  
 **Base:** diseño aprobado del Piso 1, narración aprobada de los tramos 1.1 y 1A–1E, y sistemas oficiales vigentes.
 
 ## Identidad y punto de partida
@@ -11,11 +11,11 @@ No tiene experiencia de combate establecida ni debe convertirse automáticamente
 
 ## Estado vigente
 
-- **Situación:** viva; alcanzó la salida del Piso 1 y aceptó individualmente la transición al Piso Principal del Piso 2.
-- **Condición física:** no se confirmó una lesión nueva al cierre del Piso 1.
-- **Recuperación:** no utilizó su activación del Sistema de Recuperación durante el Piso 1.
-- **Recompensas:** tiene pendiente la oferta individual obtenida por completar el Piso 1. Debe presentarse y elegirse durante la preparación del Piso Principal del Piso 2. No ha elegido ni recibido una recompensa concreta.
-- **Party:** no pertenece a una party reconocida. Mantiene cooperación informal con Kevin y Tomás.
+- **Situación:** viva; llegó al Piso Principal del Piso 2 y comenzó el desafío general tras las 24 horas de preparación.
+- **Condición física:** no se confirmó una lesión nueva durante la preparación.
+- **Recuperación:** no utilizó su activación del Sistema de Recuperación durante el Piso 1; no se registra uso nuevo en el Piso Principal ni al inicio del desafío.
+- **Recompensa del Piso 1:** consultó opciones relacionadas con supervivencia y atención de personas heridas, pero no se confirmó una elección ni recepción de contenido.
+- **Party:** integrante de **Los Cruzados**, party formalizada y reconocida durante la preparación del Piso 2 junto con Kevin y Tomás.
 
 ## Capacidades, conocimientos y experiencia
 
@@ -49,7 +49,7 @@ No se confirmó pérdida, sustitución ni daño nuevo en su equipo al cierre del
 - **Kevin:** cooperación informal desde la preparación del Piso 1. Su relación se basa en el acuerdo de mantenerse cerca y avisarse antes de separarse.
 - **Tomás:** cooperación informal desde la preparación del Piso 1. Puede discrepar de sus impulsos sin que eso establezca una relación de autoridad.
 - **Otros participantes:** prestó apoyo básico a personas heridas durante el Piso 1. No se conocen todas sus identidades ni la evolución posterior de esas relaciones.
-- No forma parte de una party reconocida.
+- Forma parte de Los Cruzados desde la preparación del Piso 2. Su cooperación con Kevin y Tomás durante el Piso 1 fue informal y no se convirtió retroactivamente en party.
 
 ## Progresión confirmada
 
@@ -58,6 +58,8 @@ No se confirmó pérdida, sustitución ni daño nuevo en su equipo al cierre del
 - **Piso 1B:** coincidió con Kevin en no intervenir directamente en el ataque del Acechador; ayudó a los supervivientes a alejarse y realizó una comprobación breve de sus condiciones.
 - **Piso 1C y 1D:** participó en las observaciones y decisiones del trío; no se registra un aprendizaje técnico concreto.
 - **Piso 1E:** prestó apoyo básico a los participantes que lo necesitaron tras el combate final. Sobrevivió y cruzó individualmente al Piso 2.
+- **Preparación del Piso 2:** consultó opciones de recompensa, incluidas opciones relacionadas con supervivencia y atención de personas heridas. No se confirma una elección ni recepción de contenido.
+- **Inicio del desafío del Piso 2:** formalizó Los Cruzados con Kevin y Tomás. La party recibió una cuota conjunta de tres presas válidas, una de cada especie objetivo. Aún no se ha confirmado ningún encuentro ni presa acreditada.
 
 La experiencia puede influir en su criterio y confianza, pero no debe transformarse sin evidencia en mayor capacidad clínica o dominio de combate.
 
@@ -70,8 +72,8 @@ Su desarrollo puede combinar el uso prudente de sus conocimientos de cuidado, la
 - No se conocen diagnósticos ni resultados médicos de las personas a las que ayudó.
 - No se ha establecido dominio de lanza, cuchillo ni combate sin armas.
 - No se ha confirmado una recompensa concreta.
-- No existe party reconocida con Kevin o Tomás.
+- Pertenece a Los Cruzados desde la preparación del Piso 2. La party no existía durante el Piso 1.
 
 ## Última actualización
 
-Cierre aprobado del Piso 1E y transición individual al Piso Principal del Piso 2. La siguiente actualización corresponde a los acontecimientos confirmados durante la preparación del Piso 2.
+Aprobación del capítulo del Piso Principal del Piso 2: consulta de opciones de recompensa sin elección confirmada, formalización de Los Cruzados e inicio del desafío con cuota conjunta. Último punto: comienzo del desafío, antes de la cacería.
