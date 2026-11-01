@@ -30,7 +30,45 @@ Se conservan cinco rangos:
 
 Los rangos describen el dominio general de una disciplina, no garantizan que el participante venza a alguien de menor rango. El resultado también depende de condición física, experiencia, táctica, información, terreno, equipo, número de adversarios y circunstancias.
 
-## 3. Técnicas concretas
+## 3. Ramas de aprendizaje por disciplina
+
+Cada disciplina puede organizar sus contenidos de aprendizaje en ramas que representen aspectos distintos de su uso. Las ramas permiten identificar qué está desarrollando un personaje y qué áreas mantiene débiles, sin convertir cada movimiento en una entrada independiente.
+
+Las ramas no son rangos adicionales ni sustituyen los cinco rangos generales de dominio. Tampoco es obligatorio que todas las disciplinas tengan el mismo número de ramas o utilicen las mismas categorías. Se definen según el funcionamiento real del arma o estilo.
+
+Como referencia, pueden existir áreas como:
+- **Fundamentos y manejo:** agarre, postura, equilibrio, control del arma, desplazamiento y recuperación.
+- **Ofensiva:** ataques, precisión, potencia aplicada, elección del momento, combinaciones y aprovechamiento de aperturas.
+- **Defensiva:** guardias, protección, evasión, desvíos o bloqueos cuando el arma lo permita, control de distancia y respuestas defensivas.
+- **Adaptación y aplicación:** uso de la disciplina en movimiento, ante distintos adversarios, terrenos, ritmos o situaciones de presión, cuando corresponda.
+
+Estas áreas son una guía, no una plantilla rígida. Algunas pueden integrarse entre sí, dividirse o no resultar relevantes para una disciplina concreta.
+
+### Ejemplos orientativos de ramas por arma
+
+Los siguientes ejemplos delimitan el tipo de aprendizaje que puede ofrecer cada disciplina. No constituyen un catálogo cerrado de técnicas ni implican que un personaje ya conozca esos contenidos.
+
+- **Lanza:** fundamentos y manejo del asta; ofensiva mediante estocadas, golpes y control del alcance; defensa mediante mantenimiento de distancia, guardias, desvíos y recuperación de posición; desplazamiento y adaptación del alcance durante el movimiento.
+- **Maza corta:** agarre y control del peso; ofensiva mediante golpes, trayectorias, precisión y generación de fuerza; defensa mediante guardias, protección, desplazamiento y recuperación después de atacar. Su manejo exige controlar el impulso del arma y evitar quedar desequilibrado o expuesto tras un golpe.
+- **Espada:** manejo, postura y control del filo; ofensiva mediante cortes, estocadas y combinaciones; defensa mediante guardias, desvíos, bloqueos apropiados y respuestas; desplazamiento y adaptación de distancia.
+- **Arco:** postura y manipulación del equipo; preparación, tensión y suelta; precisión y selección de objetivos; desplazamiento, elección de posición y gestión de oportunidades. La defensa directa no tiene por qué constituir una rama equivalente a la de un arma de contacto.
+- **Combate sin armas:** postura y equilibrio; golpes y combinaciones; defensa mediante guardia, evasión y control de distancia; desplazamiento, control corporal y respuestas ante agarres o contacto cercano, según la formación del personaje.
+- **Cuchillo y armas cortas:** agarre y control cercano; ataques y precisión; protección, evasión y gestión de distancia corta; transiciones y recuperación de posición.
+- **Armas improvisadas:** evaluación del objeto, agarre y control; formas de ataque que el objeto permita; protección y desplazamiento; adaptación a sus limitaciones. No se presupone que dominar un arma convencional conceda dominio de armas improvisadas.
+
+Una disciplina nueva puede comenzar con fundamentos generales antes de ofrecer contenidos especializados. En etapas iniciales, el aprendizaje debe cubrir lo necesario para manejar el arma con seguridad y propósito. Después, el personaje puede profundizar más en unas ramas que en otras, según sus decisiones, entrenamiento y necesidades.
+
+### Progresión desigual entre ramas
+
+El desarrollo de una rama no concede automáticamente el dominio de las demás. Un personaje puede tener una ofensiva sólida y conservar una defensa débil, o controlar bien el arma sin disponer todavía de técnicas ofensivas fiables.
+
+El rango general de la disciplina representa el dominio global demostrado y debe considerar la amplitud de capacidades, su integración y su aplicación real. Una especialización marcada puede hacer que el personaje destaque en un área sin que eso lo convierta en experto en toda la disciplina. Las fortalezas y carencias relevantes deben quedar reflejadas en su ficha y respetarse al escribir los enfrentamientos.
+
+Los contenidos de las ramas pueden organizarse en guías de distinta profundidad dentro del catálogo de recompensas. La profundidad de una guía indica el nivel del contenido que enseña, no el rango que obtiene el participante. Elegir o estudiar una guía no concede automáticamente sus técnicas ni el rango correspondiente: el aprendizaje debe practicarse y demostrarse conforme a este sistema.
+
+No es necesario enumerar de antemano todas las técnicas posibles de cada arma. El documento establece las ramas y sus principios; la ficha individual registra únicamente los contenidos y técnicas que el personaje realmente conoce, practica o ejecuta.
+
+## 4. Técnicas concretas
 
 Dentro de cada disciplina se registran únicamente las técnicas relevantes y distintivas para el repertorio real del personaje. No se registra cada movimiento común, reacción instintiva o acción aislada.
 
@@ -49,7 +87,7 @@ No hace falta registrar por separado cada variante menor. Si una técnica evoluc
 
 Un personaje puede conocer una técnica compleja sin dominarla. El rango de disciplina y el estado de cada técnica se evalúan por separado, pero deben ser compatibles: nadie puede mostrar una ejecución fiable de fundamentos que todavía no posee. Una técnica avanzada puede estar en conocimiento o práctica inicial sin implicar que el personaje tenga un rango avanzado.
 
-## 4. Aprendizaje y progresión
+## 5. Aprendizaje y progresión
 
 Las técnicas y el dominio pueden desarrollarse mediante entrenamiento, enseñanza, observación, experimentación y experiencia real. No se exige entrenamiento formal para cada aprendizaje: una corrección descubierta durante un combate también puede iniciar una mejora, pero debe practicarse y demostrarse antes de considerarse estable.
 
@@ -66,7 +104,7 @@ Las técnicas pueden avanzar de estado antes de que cambie el rango general. Del
 
 El dominio no se pierde por una mala pelea, una lesión temporal o un periodo sin combatir. Esas condiciones pueden impedir que el personaje exprese su capacidad habitual. Una pérdida permanente de capacidad solo se registra si existe una causa duradera y demostrada.
 
-## 5. Creación y evaluación inicial de personajes
+## 6. Creación y evaluación inicial de personajes
 
 Al crear un personaje se establece una base de combate coherente con su pasado, formación, ocupación, entorno y experiencias previas.
 
@@ -76,7 +114,7 @@ No todos los participantes empiezan al mismo nivel. Algunos pueden tener formaci
 
 La ficha no necesita una lista extensa. Se registran las disciplinas y técnicas que influyan en su manera de combatir; el resto puede quedar como desconocido o sin evaluar hasta que sea relevante.
 
-## 6. Seguimiento de todo el elenco
+## 7. Seguimiento de todo el elenco
 
 La progresión se aplica a Kevin y a cualquier otro participante cuyo desarrollo sea relevante. Los personajes recurrentes y grupos pueden entrenar, aprender, cambiar de estilo, mejorar, estancarse o sufrir retrocesos aunque Kevin no esté presente.
 
@@ -84,7 +122,7 @@ La continuidad de cada personaje conserva su estado vigente y los cambios import
 
 Cuando un personaje reaparezca, se consulta su ficha y su historial relevante. No se le atribuyen técnicas nuevas ni se le devuelve a un nivel anterior sin fundamento. Si su evolución fuera de escena no está establecida, no se inventa como hecho confirmado; puede desarrollarse cuando la historia la muestre y la justifique.
 
-## 7. Revisión y actualización
+## 8. Revisión y actualización
 
 La revisión se realiza después de encuentros o etapas que aporten evidencia relevante y, como mínimo, al cierre de cada piso y antes de iniciar el siguiente.
 
@@ -92,7 +130,7 @@ En cada revisión se comprueba qué técnicas utilizó cada personaje y en qué 
 
 El resultado puede ser una mejora, el inicio de un aprendizaje, la permanencia del estado actual o la identificación de una limitación. No hay una cuota obligatoria de avances, pero tampoco se mantiene una ficha desactualizada cuando la historia ya demuestra una mejora.
 
-## 8. Dotación, renovación y elección de equipo
+## 9. Dotación, renovación y elección de equipo
 
 El Sistema de Combate también permite consultar y elegir el equipo de combate que el Sistema pone a disposición de los participantes. Esta función es independiente del registro de dominio: recibir o elegir un arma no concede conocimientos para utilizarla.
 
@@ -119,7 +157,7 @@ La calidad, variedad, materiales y características del equipo disponible pueden
 
 El registro debe reflejar el equipo que el personaje lleva realmente, no solo lo que eligió en una pantalla. Los cambios, pérdidas, daños o abandonos se actualizan en la continuidad cuando ocurran. La dotación ordinaria de armas, protecciones y equipo corresponde a este sistema y no se duplica como recompensa por completar un piso.
 
-## 9. Relación con las fichas y la interfaz
+## 10. Relación con las fichas y la interfaz
 
 La ficha individual del personaje es la fuente de su estado vigente: disciplinas, rangos, técnicas, estados de aprendizaje, limitaciones y equipo que lleva realmente. El historial de continuidad conserva los acontecimientos que justifican los cambios. Este documento establece el método común de evaluación y elección de dotación.
 
