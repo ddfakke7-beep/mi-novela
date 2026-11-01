@@ -71,9 +71,9 @@ No confundir una buena decisión con dominio técnico, una acción afortunada co
 
 ## Progresión independiente del elenco
 
-Los personajes recurrentes y grupos pueden entrenar, conseguir recursos, desarrollar capacidades, aprender de derrotas, cambiar de estrategia, estancarse o morir aunque Kevin no esté presente. La historia no se detiene cuando el protagonista no los observa.
+Los personajes recurrentes y grupos pueden entrenar, conseguir recursos, desarrollar capacidades, aprender de derrotas, cambiar de estrategia, estancarse o morir aunque Kevin no esté presente. La historia no se detiene cuando el protagonista no los observa. La ausencia de un personaje durante uno o varios pisos no significa que haya permanecido congelado ni que su progreso deba reiniciarse al reaparecer.
 
-Los avances fuera de escena deben tener fundamento narrativo y continuidad. No se inventan como hechos consumados si no han sido establecidos; cuando un personaje reaparezca, se conservará lo confirmado y se explicará su evolución cuando corresponda.
+Al revisar una reaparición, considerar el tiempo transcurrido, las experiencias que estén confirmadas, las oportunidades plausibles de entrenamiento o aprendizaje y los cambios que el personaje haya podido experimentar. No inventar acontecimientos concretos fuera de escena como hechos consumados. Cuando la evolución fuera de escena se establezca, documentar su causa, el periodo y la evidencia disponible; hasta entonces, distinguir lo confirmado de lo desconocido y de cualquier propuesta. Tampoco asumir que todos progresaron durante la ausencia: el avance debe ser individual y estar justificado.
 
 ## Responsabilidad de los registros
 
