@@ -88,3 +88,7 @@ Aprobación del capítulo del Piso Principal del Piso 2: revisión de opciones d
 - Observó grupos de cérvidos de espolón y quiso avanzar cuando uno cruzó un corredor; Kevin lo detuvo antes de que iniciara una persecución sin plan.
 - En el carrizal presenció la postura amenazante de un verraco de carrizo. En los escarpes se aproximó para observar un treparrocas cenizo, que respondió con un avance brusco antes de escapar.
 - Aceptó retirarse de ambos encuentros. Estas experiencias le muestran que las presas pueden defenderse y reaccionar físicamente; no acreditan técnica nueva, dominio de arma ni aumento de rango. Sin contacto físico ni lesión.
+
+## Piso 2C — Primeros intentos de caza
+
+En el primer intento con cérvidos, Tomás se movió antes de que el grupo tuviera controlada una posible ruta de escape y los animales huyeron. En un segundo encuentro, quedó expuesto a la carga de un cérvido y recibió un golpe sobre la protección del antebrazo, que lo hizo caer. Conserva movilidad en el brazo y los dedos, pero presenta dolor; no se confirma lesión concreta. Lucía recomendó no forzarlo. La experiencia evidencia errores de distancia y aproximación, pero no acredita técnica nueva ni aumento de rango. No se confirma uso de Recuperación.
