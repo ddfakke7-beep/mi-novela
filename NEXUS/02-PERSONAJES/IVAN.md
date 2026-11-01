@@ -50,3 +50,8 @@ Aprobación del capítulo de preparación del Piso 2: presencia confirmada y for
 ## Piso 2C — Primeros intentos de caza
 
 Durante el intento de Rastro Gris contra un verraco de carrizo, Iván aceleró la aproximación y quedó expuesto a la carga del animal. El verraco golpeó su arma con el hombro; Iván retrocedió y la party se retiró. No se confirma lesión de Iván ni daño del arma. La experiencia pone de manifiesto el riesgo de confiar en la presión directa contra una criatura desconocida, pero no acredita dominio nuevo de kickboxing ni técnica de combate contra fauna.
+
+
+## Piso 2D — Adaptación de la cacería
+
+Durante un nuevo encuentro de Rastro Gris con un verraco de carrizo, Iván esperó a que el animal saliera a terreno abierto y evitó su trayectoria cuando cargó. Después consiguió golpearlo desde un costado, pero el verraco se retiró hacia los carrizos. Esta decisión contrasta con su precipitación en 2C, aunque no demuestra adaptación estable ni técnica nueva. No se confirma lesión de Iván, daño de su arma, lesión del animal, uso de Recuperación ni aumento de rango. Rastro Gris sigue 0/3.
