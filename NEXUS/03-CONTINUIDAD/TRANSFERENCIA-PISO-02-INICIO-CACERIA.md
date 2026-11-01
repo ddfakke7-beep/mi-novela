@@ -4,8 +4,8 @@
 
 ## 1. Punto exacto
 - **Piso:** 2.
-- **Etapa o situación actual:** Piso Principal y Etapa A — asignación y dispersión — completados.
-- **Momento narrativo:** Los Cruzados y Rastro Gris ya se encuentran en el Valle de las Tres Cuencas. Han reconocido el terreno y comienzan a avanzar para localizar y leer posibles presas.
+- **Etapa o situación actual:** Piso Principal y etapas A, B y C — asignación y dispersión, localización y lectura de las presas, y primeros intentos y errores — completadas.
+- **Momento narrativo:** Los Cruzados y Rastro Gris ya se encuentran en el Valle de las Tres Cuencas. Han reconocido los hábitats y realizado sus primeros intentos de caza; ninguna party ha capturado presas. para localizar y leer posibles presas.
 - **Lugar:** Valle de las Tres Cuencas; elevación junto a un corredor de grava desde la que Los Cruzados reconocieron inicialmente el terreno.
 - **Último hecho aprobado:** Los Cruzados y Rastro Gris han comenzado su reconocimiento del terreno. No se han confirmado rastros ni encuentros con presas.
 - **Siguiente paso permitido:** desarrollar la localización y lectura de presas, respetando lo que los personajes realmente observen y sin adelantar capturas.
