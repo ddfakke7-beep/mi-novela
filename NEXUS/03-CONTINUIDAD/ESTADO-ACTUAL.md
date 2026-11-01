@@ -1,10 +1,10 @@
 # Continuidad — estado actual
 
-**Estado: narración en curso. Último tramo aprobado: Piso 2B — Localización y lectura de las presas.**
+**Estado: narración en curso. Último tramo aprobado: Piso 2C — Primeros intentos y errores.**
 
 - **Piso actual:** Piso 2.
 - **Diseño vigente:** Piso 2 — Adaptación: cacería por cuotas. El Piso Principal es una fase de preparación; el desafío general comienza después de las 24 horas comunes. No hay una prueba separada en el Piso Principal.
-- **Situación:** las 24 horas de preparación concluyeron, el desafío comenzó y las Etapas A — asignación y dispersión — y B — localización y lectura de las presas — quedaron completadas y aprobadas.
+- **Situación:** las 24 horas de preparación concluyeron, el desafío comenzó y las Etapas A — asignación y dispersión —, B — localización y lectura de las presas — y C — primeros intentos y errores — quedaron completadas y aprobadas.
 - **Punto exacto:** Los Cruzados y Rastro Gris han recorrido distintos sectores del Valle de las Tres Cuencas y han observado directamente especies objetivo. Los Cruzados han visto grupos de cérvidos de espolón, verracos de carrizo y treparrocas cenizos. Rastro Gris ha observado verracos y treparrocas. Ninguna party ha capturado ni eliminado una presa.
 - **Kevin:** vivo. Eligió como recompensa individual del Piso 1 **Combate → Manejo de lanza → Principiante** y recibió una guía organizada de fundamentos: postura, equilibrio, agarre, control, desplazamiento y principios básicos de ataque y defensa. Comenzó a practicar; mostró errores y ejecución irregular. La guía recibida y la práctica inicial no equivalen a dominio funcional ni justifican subir su rango de lanza. Conserva la lanza sencilla, cuchillo corto, chaqueta de cuero ligero y protectores de antebrazo; no se narró una sustitución de equipo. No utilizó su activación de Recuperación en el Piso 1; no se confirmó lesión nueva.
 - **Lucía:** viva. Su oportunidad de recompensa del Piso 1 sigue sin elegirse, pero sí tuvo preparación y aprendizaje durante las 24 horas: revisó contenidos de supervivencia y atención de heridos, los contrastó con su formación como auxiliar de enfermería, observó la práctica de sus compañeros y ayudó a ordenar las prioridades del trío. Alternó consulta, observación y descanso, y señaló la importancia de no agotarse antes del desafío. Esto refuerza su criterio práctico de preparación y gestión del grupo; no se narró una práctica sanitaria simulada ni una técnica clínica nueva. Conserva el equipo que llevaba del Piso 1; no se narró una sustitución. No utilizó su activación de Recuperación durante el Piso 1 y no se confirmó lesión nueva.
@@ -52,3 +52,17 @@ Este archivo es el punto de reanudación y no sustituye el historial.
 - Los personajes comienzan a comprender que las presas no son objetivos pasivos: pueden detectar, huir, amenazar, defender su espacio o reaccionar físicamente ante una aproximación. Son observaciones situacionales, no reglas absolutas ni conocimiento completo de las especies.
 - No se confirma captura, muerte, herida de participantes o animales, uso de Recuperación, cambio de equipo ni avance de rango o técnica. Los Cruzados siguen 0/3 y Rastro Gris 0/3.
 - Siguiente paso: primeros intentos de caza y errores, respetando la capacidad de las criaturas para defenderse y combatir.
+
+
+## Piso 2C — Primeros intentos y errores
+
+**Estado: APROBADO.**
+
+- Los Cruzados intentan cazar cérvidos de espolón en dos ocasiones. En la primera, los animales detectan su aproximación y huyen cuando Tomás se mueve antes de que tengan controlada una ruta de escape. En la segunda, un cérvido que estaba algo separado, pero todavía próximo a otros individuos, adopta una postura defensiva y carga.
+- Kevin interpone su lanza; el cuerno golpea el asta y deja una marca visible, sin daño estructural confirmado. Tomás recibe un golpe en la protección del antebrazo y cae. Conserva movilidad del brazo y los dedos, pero presenta dolor; no se confirma una lesión concreta. Lucía comprueba brevemente su estado y recomienda no forzarlo.
+- El cérvido vuelve a cargar. Kevin interpone el asta y Lucía se desplaza para dejar libre una ruta lateral. Tomás se aparta y el animal finalmente se marcha. No se confirma que haya resultado herido.
+- Rastro Gris intenta aproximarse a un verraco de carrizo. Sara detecta movimientos adicionales entre los carrizos; Damián elige un acercamiento por terreno firme, pero Iván acelera y se aproxima demasiado. El verraco carga y golpea el arma de Iván con el hombro. Rastro Gris se retira. No se confirma lesión de Iván ni daño del arma.
+- Ambas parties se retiran sin capturar presas. Cuotas: Los Cruzados 0/3; Rastro Gris 0/3.
+- Las cargas demuestran que las presas pueden defenderse y combatir. Los personajes comienzan a reconocer la importancia de controlar la distancia, disponer de una retirada y no asumir que un individuo aparentemente separado está aislado o será fácil de cazar.
+- No se confirma muerte, lesión concreta de participantes o criaturas, uso de Recuperación, cambio de equipo ni avance de rango o técnica.
+- Siguiente paso: continuar la cacería sin atribuir a los personajes dominio que aún no han demostrado. Comprobar el estado del antebrazo de Tomás antes de exigirle esfuerzos importantes.
