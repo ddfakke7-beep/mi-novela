@@ -14,7 +14,7 @@ Su impulso de proteger a otros puede llevarlo a exponerse antes de comprender el
 - **Situación:** vivo; llegó al Piso Principal del Piso 2 y comenzó el desafío general tras las 24 horas de preparación.
 - **Condición física:** no se confirmó una lesión nueva durante la preparación.
 - **Recuperación:** no utilizó su activación del Sistema de Recuperación durante el Piso 1; no se registra uso nuevo en el Piso Principal ni al inicio del desafío.
-- **Recompensa del Piso 1:** revisó las opciones disponibles, pero no se confirmó una elección ni recepción de contenido.
+- **Recompensa del Piso 1:** revisó las opciones disponibles, pero no eligió ni recibió un contenido concreto. Esta elección pendiente no significa que su práctica durante la preparación quedara pendiente.
 - **Party:** integrante de **Los Cruzados**, party formalizada y reconocida durante la preparación del Piso 2 junto con Kevin y Lucía.
 
 ## Capacidades, conocimientos y experiencia
@@ -25,7 +25,8 @@ Su impulso de proteger a otros puede llevarlo a exponerse antes de comprender el
 - Posee una base de golpeo y familiaridad con el combate sin armas; el rango exacto vigente debe evaluarse conforme al Sistema de Combate y a la evidencia narrativa, sin tomar una propuesta provisional como certificación automática.
 - Arma elegida en el Piso 1: maza corta.
 - Equipo inicial adicional: cuchillo corto, protección de cuero reforzado para el torso y protectores de antebrazo.
-- La práctica inicial con la maza solo le permitió familiarizarse parcialmente con su peso y manejo. No equivale a dominio funcional de esa arma.
+- La práctica inicial con la maza durante el Piso 1 solo le permitió familiarizarse parcialmente con su peso y manejo. No equivale a dominio funcional de esa arma.
+- Durante la preparación del Piso 2 trabajó con un arma de entrenamiento, cuyo tipo no queda especificado con precisión en la narración aprobada. Mostró soltura física y coordinación, pero no se le atribuye una técnica concreta ni una mejora certificada de dominio.
 - Tiene poca experiencia con armas en comparación con su práctica de boxeo.
 - Su condición física inicial es mejor que la de Kevin, pero no lo vuelve invulnerable ni garantiza que pueda imponerse a una criatura.
 
@@ -59,10 +60,10 @@ No se confirmó pérdida, sustitución ni daño nuevo en su equipo al cierre del
 - **Piso 1B:** aceptó no intervenir directamente en el ataque del Acechador y ayudó a los supervivientes a alejarse de la zona inmediata.
 - **Piso 1C y 1D:** participó en la observación y evaluación de la amenaza; presenció la coordinación de otros cuatro participantes contra el Acechador.
 - **Piso 1E:** participó en la cacería final y sobrevivió. La narración aprobada no establece que asestara el golpe decisivo ni permite atribuirle por sí sola una mejora estable de dominio.
-- **Preparación del Piso 2:** revisó las opciones de recompensa disponibles, pero no se confirma una elección ni recepción de contenido.
+- **Preparación del Piso 2:** revisó las opciones de recompensa, sin elegir ni recibir un contenido concreto. También practicó durante un periodo con un arma de entrenamiento; la narración no identifica con precisión el modelo o disciplina de esa arma. Sus movimientos mostraron soltura y coordinación natural, superiores a las de Kevin en esa práctica, pero no se estableció una técnica nueva ni dominio técnico del arma. La experiencia previa de boxeo no se transfiere automáticamente a ella.
 - **Inicio del desafío del Piso 2:** formalizó Los Cruzados con Kevin y Lucía. La party recibió una cuota conjunta de tres presas válidas, una de cada especie objetivo. Aún no se ha confirmado ningún encuentro ni presa acreditada.
 
-La experiencia del Piso 1 puede alimentar su adaptación, pero no acredita automáticamente técnicas nuevas ni dominio de la maza.
+La experiencia del Piso 1 y la práctica con arma de entrenamiento durante la preparación del Piso 2 pueden alimentar su adaptación, pero no acreditan automáticamente técnicas nuevas ni dominio de la maza o de otra disciplina armada.
 
 ## Objetivos y dirección de desarrollo
 
@@ -77,4 +78,4 @@ Puede desarrollar la adaptación de su experiencia de boxeo a situaciones distin
 
 ## Última actualización
 
-Aprobación del capítulo del Piso Principal del Piso 2: revisión de opciones de recompensa sin elección confirmada, formalización de Los Cruzados e inicio del desafío con cuota conjunta. Último punto: comienzo del desafío, antes de la cacería.
+Aprobación del capítulo del Piso Principal del Piso 2: revisión de opciones de recompensa sin elección; práctica con un arma de entrenamiento de tipo no especificado, mostrando soltura y coordinación sin acreditar técnica ni rango nuevos; formalización de Los Cruzados e inicio del desafío con cuota conjunta. Su recompensa individual sigue pendiente, pero su práctica queda registrada. Último punto: comienzo del desafío, antes de la cacería.
