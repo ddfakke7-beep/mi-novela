@@ -61,6 +61,20 @@ Las mejoras pueden surgir de entrenamiento, enseñanza, observación, experiment
 
 No se exige registrar cada dato aprendido por cada participante. Se conserva lo que sea relevante para la continuidad y las decisiones futuras, especialmente en Kevin y en los personajes recurrentes cuyo desarrollo se siga.
 
+## Entrenamiento sostenido y objetivos de desarrollo
+
+Los personajes deben disponer de oportunidades razonables para practicar y desarrollar capacidades importantes entre desafíos, especialmente cuando esas capacidades serán necesarias en pisos posteriores. La progresión no debe depender exclusivamente de las recompensas ni de que un personaje escoja repetidamente guías de la misma disciplina.
+
+El entrenamiento puede realizarse durante los periodos de preparación, en espacios habilitados, mediante práctica individual, enseñanza, ejercicios con compañeros o cualquier otra oportunidad coherente con el contexto. No es necesario narrar cada sesión, pero sí establecer de forma suficiente qué se practicó, durante cuánto tiempo o con qué continuidad, qué dificultades aparecieron y qué resultados se demostraron cuando esos datos afecten a la continuidad.
+
+Los objetivos de desarrollo sirven para mantener una dirección, no para conceder avances por decreto. Si un personaje todavía no ha incorporado los fundamentos de una disciplina, puede continuar practicándolos y elegir una recompensa distinta. No debe avanzar a contenidos más complejos solo porque haya llegado un nuevo piso o porque exista una etapa del arco que mencione esa capacidad.
+
+La elección de una recompensa y el entrenamiento son vías relacionadas, pero independientes. Una guía puede orientar una práctica; practicar puede mejorar una capacidad ya adquirida sin consumir otra recompensa; y entrenar sin una guía nueva también puede producir avances cuando exista evidencia suficiente.
+
+En personajes cuyo desarrollo sea central —especialmente Kevin— debe mantenerse una trayectoria reconocible de capacidades útiles para los desafíos futuros. El combate constituye una línea de desarrollo fundamental para Kevin y no debe quedar abandonada por elecciones ocasionales de conocimientos de supervivencia, rastreo, criaturas o táctica. Esos otros ámbitos pueden crecer en paralelo, pero la historia debe ofrecer oportunidades concretas para practicar el arma y las disciplinas que Kevin realmente utiliza.
+
+No se exige mejorar en cada periodo ni alcanzar un rango determinado en una fecha fija. Sí se exige comprobar periódicamente si el personaje está teniendo oportunidades suficientes para desarrollar las capacidades que el arco posterior requerirá. Si no las ha tenido, la respuesta no es regalarle dominio: debe ajustarse la preparación, la práctica disponible o la exigencia del desafío posterior para que la progresión siga siendo creíble.
+
 ## Evaluación y evidencia
 
 No se mejora automáticamente por derrotar enemigos, completar un piso o acumular tiempo. Tampoco se exige una transformación extraordinaria para reconocer un avance pequeño pero demostrado.
@@ -89,6 +103,6 @@ La entrega de una guía o enseñanza se registra como aprendizaje recibido. Su c
 
 ## Revisión
 
-Al cierre de cada piso y al comienzo de uno nuevo, comparar el estado vigente con la evidencia acumulada. Actualizar el documento propietario del dato y registrar en el historial el acontecimiento que justifica el cambio.
+Al cierre de cada piso y al comienzo de uno nuevo, comparar el estado vigente con la evidencia acumulada. Revisar también los objetivos de desarrollo de cada personaje relevante: qué capacidades necesitará más adelante, qué oportunidades de práctica tuvo, qué avances demostró y qué fundamentos siguen pendientes. Actualizar el documento propietario del dato y registrar en el historial el acontecimiento que justifica el cambio.
 
-No hay una cuota de aumentos ni una prohibición práctica de mejorar. El objetivo es que la progresión sea gradual, demostrable y persistente para todo el elenco.
+No hay una cuota de aumentos ni una prohibición práctica de mejorar. El objetivo es que la progresión sea gradual, demostrable y persistente para todo el elenco. La planificación de los pisos posteriores debe tomar en cuenta las capacidades realmente desarrolladas, no tratar los aprendizajes previstos como si ya se hubieran adquirido.
