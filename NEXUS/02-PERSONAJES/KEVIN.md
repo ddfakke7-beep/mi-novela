@@ -100,3 +100,7 @@ Aprobación del capítulo del Piso Principal del Piso 2: elección y recepción 
 - Presenció la respuesta amenazante de un verraco de carrizo ante la proximidad del grupo y la reacción brusca de un treparrocas cenizo cuando Tomás se acercó.
 - Participó en retiradas prudentes. Comienza a distinguir que localizar una presa y leer su movimiento no basta: también debe considerar su capacidad de defenderse y combatir.
 - Aprendizaje inicial y observacional; no acredita rastreo experto, técnica de caza, técnica de lanza nueva ni aumento de rango. Sin lesiones ni uso de Recuperación.
+
+## Piso 2C — Primeros intentos de caza
+
+Kevin participó en dos intentos de caza de cérvidos. En el segundo, interpuso su lanza ante la carga de un animal; el asta recibió un golpe y quedó marcada, sin daño estructural confirmado. La acción le permitió ganar espacio, pero fue una respuesta improvisada y no demuestra técnica defensiva entrenada ni ejecución funcional estable. Reconoció que necesita controlar mejor la distancia y preparar una retirada. No sufrió lesión confirmada ni utilizó Recuperación. No aumenta su rango ni registra técnica nueva.
