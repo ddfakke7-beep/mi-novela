@@ -169,9 +169,9 @@ Cuando un perfil propuesto se concrete, se crearán o ampliarán las fichas y re
 
 ## 8. Elenco individual provisional
 
-**Estado: PROPUESTA DE PERSONAJES; nombres, perfiles y dominios iniciales pendientes de aprobación.**
+**Estado: documento de planificación del elenco.** Los perfiles, nombres previstos y dominios de esta sección sirven como propuesta de planificación y no se convierten automáticamente en canon. Los hechos confirmados de personajes ya introducidos deben consultarse en sus fichas individuales y en las fuentes narrativas aprobadas. En particular, Kevin, Lucía, Tomás y Mateo ya cuentan con fichas en `02-PERSONAJES/`; sus fichas prevalecen para el estado vigente.
 
-Los dominios indicados son los que cada personaje trae al entrar en NEXUS, no lo que aprenderá después. Se utiliza la escala del documento 08: 0 sin dominio, 1 principiante, 2 competente, 3 avanzado y 4 experto. Un dominio se asigna solo cuando la experiencia previa lo justifica. Las especialidades no combativas no equivalen a rangos de combate.
+Los dominios indicados en esta tabla son propuestas de punto de partida y no lo que los personajes aprenderán después. Solo se consideran confirmados cuando estén respaldados por un diseño aprobado o por acontecimientos narrativos aprobados y hayan sido incorporados a la ficha correspondiente. Se utiliza la escala del documento 08: 0 sin dominio, 1 principiante, 2 competente, 3 avanzado y 4 experto. Un dominio se asigna solo cuando la experiencia previa lo justifica. Las especialidades no combativas no equivalen a rangos de combate.
 
 ### Núcleo y personajes que aparecen desde los primeros pisos
 
@@ -229,7 +229,9 @@ Las parties previstas respetarán el máximo de cinco integrantes. No se conside
 - La reputación de estos grupos crecerá por resultados demostrados y por información compartida entre participantes. No todos los conocerán ni todos confiarán en lo que se cuenta.
 - Los grupos pueden coincidir con otros personajes y ser reconocidos sin que Kevin esté presente. Las relaciones y rumores no pertenecen exclusivamente a su perspectiva.
 
-## 11. Kevin: punto de partida
+## 11. Kevin: punto de partida al inicio del Piso 1
+
+Este apartado describe únicamente la base inicial de Kevin antes de los acontecimientos del Piso 1. No representa su estado vigente; para este debe consultarse `02-PERSONAJES/KEVIN.md`.
 
 Kevin comienza como una persona sedentaria y sin experiencia de combate. No tiene formación deportiva relevante, entrenamiento con armas ni experiencia de supervivencia. Su condición física inicial es baja en comparación con quienes entrenan o trabajan físicamente.
 
