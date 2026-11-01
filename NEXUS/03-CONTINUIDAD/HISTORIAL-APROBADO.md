@@ -1,6 +1,6 @@
 # Historial narrativo aprobado
 
-**Estado: narración en curso.** Los tramos narrativos aprobados hasta ahora corresponden al Piso 1.1 y a los Pisos 1A, 1B y 1C.
+**Estado: narración en curso.** Están aprobados el Piso 1.1, los Pisos 1A–1E y el capítulo del Piso Principal del Piso 2 hasta el comienzo del desafío.
 
 ## Piso 1 — Piso 1.1: El refugio
 
