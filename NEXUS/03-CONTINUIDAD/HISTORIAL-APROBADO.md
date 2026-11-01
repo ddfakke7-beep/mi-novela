@@ -128,3 +128,27 @@ Las propuestas, escenas descartadas y sucesos todavía no aprobados no se regist
 - El desafío continúa en curso. El objetivo no ha sido eliminado.
 
 ---
+
+## Piso 1 — Piso 1E: Eliminación y consecuencias inmediatas
+
+**Estado: APROBADO.**
+
+1. Después de observar la retirada del Acechador, los cuatro participantes que lo habían enfrentado se reagrupan en una zona donde pueden detenerse y evaluar sus lesiones y equipo. Comprueban individualmente si conservan disponible la activación del Sistema de Recuperación. Quienes todavía la tienen y necesitan tratamiento la utilizan durante el descanso, mientras los demás colaboran con la vigilancia. Organizan turnos para no dejar desprotegidos a los heridos.
+2. En lugar de esperar pasivamente a que la criatura reaparezca, acuerdan buscar a otros participantes, compartir información y ampliar la cooperación antes de intentar otra cacería. Kevin, Lucía y Tomás vuelven a encontrarse con los cuatro. Durante la búsqueda entran en contacto con otros tres participantes: uno lleva un arco, otro una lanza larga y el tercero un arma corta y protección para el torso. Comparten indicios de actividad en la zona de rocas, aunque no pueden confirmar por sí solos la ubicación del Acechador.
+3. Los participantes coordinan la búsqueda por sectores. Quienes no están en condiciones de combatir permanecen bajo vigilancia y reciben apoyo; los demás exploran. Encuentran un rastro reciente y una mancha oscura que podría ser sangre, pero no se confirma su naturaleza.
+4. El Acechador aparece y comienza el enfrentamiento. Los participantes intentan mantener posiciones y aprovechar distintos ángulos de ataque, pero la criatura sigue siendo rápida y peligrosa y alcanza a algunos durante el combate. La cooperación se mantiene pese al desorden. Kevin utiliza su lanza como apoyo para impedir que Tomás y otro participante queden expuestos a un acercamiento; no dirige al conjunto ni realiza el golpe decisivo.
+5. Tras recibir varios impactos, el Acechador cae. Los participantes esperan y comprueban que ha muerto, sin confundir su caída con una retirada. El Sistema anuncia «OBJETIVO ELIMINADO» y «DESAFÍO DEL PISO 1: SUPERADO».
+6. Lucía presta apoyo básico a quienes lo necesitan, sin que se establezcan diagnósticos ni resultados médicos no observados. Algunos participantes continúan hacia la salida; otros permanecen atendiendo y vigilando a los heridos. No queda confirmado qué participantes ajenos al núcleo alcanzan finalmente la puerta.
+7. Kevin, Lucía y Tomás se dirigen a la puerta blanca y cada uno acepta individualmente la transición. No forman una party reconocida: la cooperación durante la cacería no equivale a una invitación y aceptación formal. Los carroñeros de matorral siguen presentes en la región y continúan siendo un peligro durante el desplazamiento de los demás participantes.
+
+### Estado al cierre del tramo
+
+- El Acechador de la Hondonada está muerto; su eliminación fue confirmada y el Sistema declaró superado el desafío común del Piso 1.
+- Kevin, Lucía y Tomás sobrevivieron y realizaron individualmente la transición. No pertenecen a una party reconocida.
+- Los cuatro participantes que combatieron al Acechador en 1D volvieron a cooperar con el trío. Se incorporaron otros tres participantes durante la búsqueda. La cooperación fue temporal y no constituyó una party.
+- Los cuatro participantes comprobaron si conservaban su activación de Recuperación. Quienes la tenían disponible y necesitaban tratamiento pudieron utilizarla durante el descanso, bajo vigilancia. No se conserva un detalle individual completo de quién la utilizó ni de qué lesiones trató.
+- El combate final produjo participantes heridos, pero no se establecen identidades ni lesiones exactas para todos. Lucía prestó apoyo básico.
+- No se confirma el destino final de los demás participantes, incluidos los heridos que permanecieron bajo cuidado. Tampoco se confirma la situación de Mateo ni de los dos participantes atacados en 1B.
+- Los carroñeros de matorral permanecen activos; no fueron eliminados como parte del objetivo.
+- No se registran elecciones ni recompensas individuales concretas en este tramo.
+
