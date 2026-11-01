@@ -1,6 +1,6 @@
 # Damián — ficha individual
 
-**Estado:** perfil definido por el diseño aprobado del Piso 2; narración de su participación todavía pendiente.  
+**Estado:** personaje introducido en la narración aprobada del Piso 2; integrante de Rastro Gris.  
 **Fuente de base:** diseño aprobado de `PISOS/piso-02/diseño.html` y planificación del elenco. Esta ficha no confirma todavía su convocatoria efectiva, llegada, equipo elegido ni pertenencia a una party.
 
 ## Identidad y punto de partida
@@ -9,11 +9,10 @@ Damián es metódico, paciente y poco hablador. Practica la caza de forma recrea
 
 ## Estado narrativo
 
-- **Participación prevista:** el diseño del Piso 2 lo incluye entre los participantes previstos.
-- **Presencia efectiva:** pendiente de confirmación en la narración.
-- **Situación y condición física:** no establecidas todavía para el inicio narrado del Piso 2.
-- **Party:** el diseño prevé que pueda formar Rastro Gris con Iván y Sara. No existe una party reconocida hasta que se muestren invitación y aceptación expresa.
-- **Equipo actual:** no confirmado; no asignar armas, protecciones ni recursos antes de que se muestre su elección o posesión.
+- **Presencia efectiva:** confirmado durante la preparación del Piso 2.
+- **Situación:** vivo al inicio del desafío. No se establece lesión nueva.
+- **Party:** integrante de Rastro Gris junto con Iván y Sara; party formalizada mediante invitación y aceptación expresa durante la preparación.
+- **Equipo actual:** no se confirma una elección o sustitución de equipo en el capítulo aprobado.
 
 ## Capacidades y experiencia
 
@@ -28,13 +27,13 @@ El diseño del Piso 2 contempla que pueda ampliar su conocimiento de criaturas, 
 
 ## Relaciones y grupo previsto
 
-- **Iván y Sara:** compañeros previstos para una posible party llamada Rastro Gris. La relación efectiva, la confianza, la cohesión y la formalización del grupo deben desarrollarse en la narración.
+- **Iván y Sara:** compañeros de Rastro Gris, party reconocida desde la preparación del Piso 2. La cohesión, distribución de funciones y confianza efectiva deben demostrarse en la narración.
 - No atribuirle liderazgo automático por su experiencia de caza.
 
 ## Desconocidos
 
-Convocatoria efectiva, ubicación, condición física, equipo, recursos, decisiones, conocimientos específicos de criaturas, relaciones actuales, elección de recompensa y aceptación de pertenencia a Rastro Gris.
+Equipo y recursos concretos seleccionados para el Piso 2, elección de recompensa, conocimientos específicos de las especies objetivo, cohesión operativa y resultados de caza.
 
 ## Última actualización
 
-Ficha inicial creada a partir del diseño aprobado del Piso 2. Pendiente de actualizar cuando su presencia y sus acciones queden establecidas narrativamente.
+Aprobación del capítulo de preparación del Piso 2: presencia confirmada y formalización de Rastro Gris con Iván y Sara. Comienza el desafío con cuota conjunta de tres presas, una de cada especie; todavía no hay cacería confirmada.
