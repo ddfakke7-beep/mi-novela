@@ -1,7 +1,7 @@
 # Damián — ficha individual
 
 **Estado:** personaje introducido en la narración aprobada del Piso 2; integrante de Rastro Gris.  
-**Fuente de base:** diseño aprobado de `PISOS/piso-02/diseño.html` y planificación del elenco. Esta ficha no confirma todavía su convocatoria efectiva, llegada, equipo elegido ni pertenencia a una party.
+**Fuente de base:** diseño aprobado de `PISOS/piso-02/diseño.html` y planificación del elenco. La narración confirma su presencia durante la preparación y su pertenencia a Rastro Gris. El equipo elegido y otros detalles no establecidos siguen pendientes.
 
 ## Identidad y punto de partida
 
