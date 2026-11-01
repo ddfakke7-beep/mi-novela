@@ -24,9 +24,13 @@ El objetivo es que los participantes dispongan de orientaciones útiles para cre
 
 No se establece una cuota obligatoria de técnicas, rangos, habilidades ni aumentos por piso. Tampoco se inventará una mejora artificial para llenar una recompensa.
 
-## 3. Catálogo individual de aprendizaje
+## 3. Catálogo general y recomendaciones individuales
 
-Una de las formas principales de recompensa será ofrecer conocimientos o posibilidades de aprendizaje. Al completar un piso, el Sistema podrá presentar un catálogo breve de opciones pertinentes para cada participante. Como referencia, normalmente bastan dos o tres alternativas; no es una obligación mostrar siempre el mismo número.
+Una de las formas principales de recompensa será ofrecer conocimientos o posibilidades de aprendizaje. El Sistema dispone de un catálogo general de contenidos disponibles, organizado por ámbitos y disciplinas. La oportunidad obtenida al completar un piso permite al participante escoger libremente **un solo contenido** de ese catálogo.
+
+El Sistema puede mostrar recomendaciones personalizadas para orientar la elección, teniendo en cuenta el perfil, los conocimientos, la experiencia, las capacidades, las necesidades y los objetivos del participante. Estas recomendaciones son únicamente orientativas: no constituyen una oferta cerrada, no limitan el catálogo disponible ni obligan a escoger una de ellas. El participante puede ignorarlas y seleccionar cualquier otro contenido disponible que prefiera.
+
+Cada oportunidad de recompensa permite una sola elección, aunque el participante puede seguir practicando y desarrollando conocimientos que ya haya adquirido sin gastar otra recompensa. No puede convertir una misma oportunidad en varias elecciones ni adquirir varios contenidos mediante ella.
 
 Las opciones se organizan en cuatro grandes ámbitos:
 
@@ -97,7 +101,9 @@ El Sistema no adapta necesariamente cada peligro al nivel individual. Los partic
 
 ## 5. Elección y adquisición del aprendizaje
 
-Durante la preparación del siguiente Piso Principal, el Sistema presenta las opciones disponibles para la oportunidad pendiente y el participante decide cuál aceptar, si alguna le resulta útil. La oportunidad puede quedar pendiente hasta ese momento; no debe adelantarse la elección ni dar por recibida una recompensa que el personaje todavía no ha seleccionado. No existe una ruta obligatoria de niveles ni una obligación de escoger una opción inadecuada para consumir la recompensa.
+Durante la preparación del siguiente Piso Principal, el participante consulta el catálogo general y las recomendaciones que el Sistema considere pertinentes para su oportunidad pendiente. Escoge libremente un único contenido de todo el catálogo disponible o decide no utilizar todavía la oportunidad, si las reglas de continuidad permiten mantenerla pendiente. No está limitado a las recomendaciones ni obligado a elegir una de ellas. La oportunidad puede quedar pendiente hasta ese momento; no debe adelantarse la elección ni dar por recibida una recompensa que el personaje todavía no ha seleccionado.
+
+La elección es libre, pero debe distinguirse de su aprovechamiento real. El participante puede escoger un contenido que todavía le resulte difícil por falta de fundamentos; el Sistema no bloquea esa decisión ni le concede automáticamente los conocimientos previos que le falten. También puede escoger un contenido de otra disciplina o ámbito en vez de continuar una progresión que todavía no ha asimilado.
 
 El Sistema puede proporcionar una guía, información estructurada, instrucción, demostraciones o acceso a un método de aprendizaje, según la naturaleza de la opción. La forma concreta de entrega puede variar; no se presupone que el conocimiento aparezca instantáneamente en la memoria del participante.
 
@@ -137,4 +143,4 @@ El registro de los conocimientos recibidos no sustituye el registro de dominio d
 
 El Sistema de Recompensas establece qué puede ofrecerse y cómo se administra; no sustituye las fichas individuales ni el registro de progresión de los otros sistemas.
 
-**Principio central:** las recompensas proporcionan oportunidades y conocimientos estructurados para orientar el crecimiento de todos los participantes. Cada uno elige qué aprender y a qué profundidad; su desarrollo real depende de sus capacidades, experiencia, práctica y decisiones. El crecimiento debe ser sostenido, pero no idéntico ni automático.
+**Principio central:** cada piso completado concede una oportunidad individual que permite escoger un único contenido libremente dentro del catálogo general. Las recomendaciones del Sistema orientan, pero nunca restringen la elección. Las recompensas proporcionan oportunidades y conocimientos estructurados; el desarrollo real depende de las capacidades, experiencia, práctica y decisiones de cada participante. El crecimiento debe ser sostenido, pero no idéntico ni automático.
