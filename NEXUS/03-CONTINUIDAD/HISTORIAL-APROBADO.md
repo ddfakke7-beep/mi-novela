@@ -1,6 +1,6 @@
 # Historial narrativo aprobado
 
-**Estado: narración en curso.** Los tramos narrativos aprobados hasta ahora corresponden al Piso 1.1 y a los Pisos 1A y 1B.
+**Estado: narración en curso.** Los tramos narrativos aprobados hasta ahora corresponden al Piso 1.1 y a los Pisos 1A, 1B y 1C.
 
 ## Piso 1 — Piso 1.1: El refugio
 
@@ -51,7 +51,6 @@
 - No se han establecido heridas, bajas, uso del Sistema de Recuperación ni cambios de equipo.
 - La ubicación y situación de Mateo y de los demás participantes siguen sin conocerse con precisión.
 
-
 ## Piso 1 — Piso 1B: La presa también los está buscando
 
 **Estado: APROBADO.**
@@ -76,6 +75,30 @@
 - El Acechador se retiró hacia el bosque y dejó de estar a la vista; su ubicación posterior es desconocida.
 - No se han establecido lesiones nuevas en Kevin, Lucía o Tomás, ni cambios de equipo o uso del Sistema de Recuperación.
 - El desafío sigue en curso y el objetivo no ha sido eliminado.
+
+## Piso 1 — Piso 1C: Comprender antes de perseguir
+
+**Estado: APROBADO.**
+
+1. Kevin, Lucía y Tomás revisan lo que saben después del ataque observado en el tramo anterior. Separan la información confirmada —el aspecto general del Acechador, el derribo de un participante y el cambio de orientación al advertirlos— del testimonio parcial del superviviente, quien dijo que la criatura apareció por detrás y los separó. El impacto de piedra contra un árbol precedió a la retirada, pero siguen sin saber quién lo produjo ni con qué intención.
+2. El trío regresa con cautela a las inmediaciones del lugar del ataque para examinar el terreno. Encuentran suelo removido, hierba aplastada, ramas pequeñas rotas y marcas profundas entre las raíces. Reconocen que hubo movimiento y forcejeo, pero no pueden atribuir con seguridad cada marca al Acechador: algunas podrían proceder de los participantes.
+3. Comparan esas señales con los indicios ambiguos encontrados anteriormente y con lo que observaron directamente. No convierten las huellas grandes, las ramas rotas o las marcas del terreno en pruebas concluyentes de una ruta concreta del objetivo.
+4. En lugar de internarse en el bosque siguiendo un rastro dudoso, Kevin propone buscar una posición desde la que puedan observar parte del borde forestal sin situarse directamente en una entrada ni avanzar entre los árboles. Se desplazan hasta una elevación baja desde la que ven una parte de la pendiente, algunos árboles dispersos y una franja del bosque de coníferas. La vista es parcial y deja sectores ocultos.
+5. Permanecen observando durante un tiempo, pero el Acechador no aparece. No obtienen señales nuevas que permitan confirmar su ubicación o comportamiento. Kevin decide no prolongar la espera indefinidamente.
+6. El grupo acuerda continuar por terreno abierto y buscar otra posición de observación o señales más claras si aparecen. No seguirán automáticamente cualquier huella grande hacia la vegetación densa.
+7. El tramo termina sin que hayan localizado una guarida, descubierto una debilidad, establecido una ruta fiable o encontrado un método de cacería garantizado. Han aprendido a distinguir mejor entre observaciones, testimonios e hipótesis, pero esto no supone una mejora automática de rango o dominio técnico.
+
+### Estado al cierre del tramo
+
+- Kevin, Lucía y Tomás siguen juntos por acuerdo provisional, sin party formal.
+- Han revisado el lugar del ataque y observado suelo removido, hierba aplastada, ramas pequeñas rotas y marcas profundas entre raíces; no pueden atribuir con certeza cada señal a la criatura.
+- Han comparado los indicios del lugar con el encuentro directo y el testimonio parcial del superviviente, manteniendo separadas las observaciones y las hipótesis.
+- Han observado el terreno desde una elevación baja con vista parcial de la pendiente, árboles dispersos y una franja del bosque. El Acechador no apareció durante la observación.
+- Deciden continuar por terreno abierto y buscar mejores señales o posiciones, sin perseguir automáticamente rastros ambiguos.
+- No han descubierto una guarida, debilidad, ruta fiable ni método de cacería confirmado.
+- El Acechador sigue vivo; su ubicación actual es desconocida.
+- No se establecen heridas nuevas, cambios de equipo ni uso del Sistema de Recuperación por parte de Kevin, Lucía o Tomás.
+- El desafío sigue en curso; el objetivo no ha sido eliminado.
 
 ---
 
