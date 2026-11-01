@@ -6,12 +6,12 @@ Este directorio conserva el estado vigente de los personajes con relevancia para
 
 ## Fichas individuales
 
-### Personajes confirmados en la historia hasta el cierre del Piso 1
+### Personajes confirmados en la historia hasta el inicio del desafío del Piso 2
 
 - [Kevin](KEVIN.md) — personaje central; seguimiento detallado.
 - [Lucía](LUCIA.md) — personaje recurrente; seguimiento de conocimientos de cuidado, decisiones y evolución.
 - [Tomás](TOMAS.md) — personaje recurrente; seguimiento de experiencia de combate, adaptación y evolución.
-- [Mateo](MATEO.md) — participante introducido en el Piso 1; situación posterior al tramo aprobado todavía desconocida.
+- [Mateo](MATEO.md) — participante introducido en el Piso 1; situación posterior al tramo aprobado todavía desconocida.\n- [Damián](DAMIAN.md) — participante presente durante la preparación del Piso 2; integrante de Rastro Gris.\n- [Iván](IVAN.md) — participante presente durante la preparación del Piso 2; integrante de Rastro Gris.\n- [Sara](SARA.md) — participante presente durante la preparación del Piso 2; integrante de Rastro Gris.
 
 Estas fichas parten únicamente de hechos establecidos en diseños aprobados y narración aprobada. Se ampliarán cuando existan nuevos acontecimientos confirmados. No rellenar datos desconocidos con suposiciones.
 
@@ -21,15 +21,15 @@ Los perfiles de [ELENCO-GLOBAL.md](ELENCO-GLOBAL.md) son una herramienta de plan
 
 No crear fichas completas de todos los participantes pasajeros por obligación. Un personaje pasajero puede recibir un registro breve si sus acciones producen consecuencias persistentes o si adquiere importancia futura.
 
-## Perfiles definidos por el diseño aprobado del Piso 2; narración pendiente
+## Perfiles del Piso 2 ya introducidos en la narración
 
-El diseño aprobado del Piso 2 define también perfiles individuales que deben conservarse al comenzar su desarrollo narrativo. Sus fichas registran únicamente la base establecida por el diseño; no afirman que ya hayan aparecido, llegado al Piso Principal, formalizado una party o realizado acciones todavía no narradas.
+El diseño aprobado definió estos perfiles y el capítulo aprobado confirmó su presencia durante la preparación del Piso 2 y su pertenencia formal a Rastro Gris. Las fichas deben separar esa presencia confirmada de cualquier acción, elección o capacidad todavía no demostrada.
 
 - [Damián](DAMIAN.md) — cazador recreativo; experiencia con arco y selección prudente de presas.
 - [Iván](IVAN.md) — practicante de kickboxing; competitivo y propenso a confiar en la presión directa.
 - [Sara](SARA.md) — experiencia en seguridad privada; observación y control de accesos.
 
-El diseño prevé que Damián, Iván y Sara puedan formar Rastro Gris, pero la party solo existirá si la narración muestra la invitación y la aceptación expresa de sus integrantes. Hasta entonces son participantes individuales, no miembros de un grupo reconocido.
+Damián, Iván y Sara formalizaron Rastro Gris durante la preparación del Piso 2 mediante invitación y aceptación expresa. La party está reconocida; su cohesión, decisiones tácticas y resultados de caza todavía deben desarrollarse.
 
 ## Criterios de seguimiento
 
