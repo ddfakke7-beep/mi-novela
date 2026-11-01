@@ -48,8 +48,8 @@ No se confirmó pérdida, sustitución ni daño nuevo en su equipo al cierre del
 
 ## Relaciones y situación social
 
-- **Kevin:** cooperación informal desde la preparación del Piso 1. Existe confianza operativa inicial, pero no subordinación ni liderazgo establecido.
-- **Lucía:** cooperación informal desde la preparación del Piso 1. Puede mostrar un impulso protector hacia ella y otros participantes, sin que eso elimine sus diferencias de criterio.
+- **Kevin:** cooperación desde la preparación del Piso 1; desde la preparación del Piso 2 ambos integran Los Cruzados. Existe confianza operativa inicial, pero no subordinación ni liderazgo establecido.
+- **Lucía:** cooperación desde la preparación del Piso 1; desde la preparación del Piso 2 ambos integran Los Cruzados. Puede mostrar un impulso protector hacia ella y otros participantes, sin que eso elimine sus diferencias de criterio.
 - **Otros participantes:** cooperó con un conjunto más amplio durante la cacería final. Esa cooperación fue temporal y no constituyó una party reconocida.
 
 ## Progresión confirmada
