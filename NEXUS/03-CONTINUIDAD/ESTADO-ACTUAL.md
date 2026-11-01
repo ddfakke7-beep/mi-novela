@@ -1,6 +1,6 @@
 # Continuidad — estado actual
 
-**Estado: narración en curso. Último tramo aprobado: Piso 2C — Primeros intentos y errores.**
+**Estado: narración en curso. Último tramo aprobado: Piso 2D — Adaptación de la cacería.**
 
 - **Piso actual:** Piso 2.
 - **Diseño vigente:** Piso 2 — Adaptación: cacería por cuotas. El Piso Principal es una fase de preparación; el desafío general comienza después de las 24 horas comunes. No hay una prueba separada en el Piso Principal.
@@ -66,3 +66,10 @@ Este archivo es el punto de reanudación y no sustituye el historial.
 - Las cargas demuestran que las presas pueden defenderse y combatir. Los personajes comienzan a reconocer la importancia de controlar la distancia, disponer de una retirada y no asumir que un individuo aparentemente separado está aislado o será fácil de cazar.
 - No se confirma muerte, lesión concreta de participantes o criaturas, uso de Recuperación, cambio de equipo ni avance de rango o técnica.
 - Siguiente paso: continuar la cacería sin atribuir a los personajes dominio que aún no han demostrado. Comprobar el estado del antebrazo de Tomás antes de exigirle esfuerzos importantes.
+
+
+## Piso 2D — Aprobado
+
+Los Cruzados abatieron un cérvido de espolón y el Sistema registró una presa válida. Cuota: 1/3 (cérvido 1/1, verraco 0/1, treparroca 0/1). Rastro Gris enfrentó a un verraco en terreno abierto, pero se retiró sin captura; cuota 0/3. Tomás informó que el dolor del antebrazo disminuyó, aunque persiste; conserva movilidad y no se confirma lesión concreta ni recuperación completa. La lanza de Kevin presenta marcas visibles, sin daño estructural confirmado. No se confirman lesiones nuevas, uso de Recuperación, cambios de equipo ni progreso de rango o técnica. No hubo observación ni captura de treparrocas en esta etapa.
+
+**Siguiente etapa:** Etapa E, cierre del desafío. Deben completarse las cuotas de todas las unidades convocadas; después, cada participante vivo debe alcanzar físicamente la puerta blanca. Completar la cuota propia no permite salir anticipadamente.
