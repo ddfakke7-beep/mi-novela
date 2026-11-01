@@ -105,3 +105,26 @@
 Registrar aquí, en orden cronológico, los hechos de cada tramo narrativo o etapa del desafío que haya sido aprobado, sus consecuencias y las transiciones confirmadas. El piso constituye un desafío general integrado; no se presupone que esté dividido en escenarios independientes. Evitar copiar fichas enteras: indicar los cambios y remitir a la ficha correspondiente.
 
 Las propuestas, escenas descartadas y sucesos todavía no aprobados no se registran como canon.
+
+## Piso 1 — Piso 1D: Preparación y cacería
+
+**Estado: APROBADO.**
+
+1. Kevin, Lucía y Tomás continúan juntos y buscan una posición elevada desde la que observar parte del terreno. Tras subir por una zona de piedras sueltas y vegetación baja, alcanzan una elevación con vista parcial del bosque y de una zona irregular de hierba, piedras y árboles dispersos.
+2. Desde esa posición oyen golpes y un rugido. Observan a cuatro participantes enfrentándose al Acechador de la Hondonada. No conocen sus identidades, capacidades individuales ni acuerdos previos.
+3. Los cuatro actúan de manera coordinada, aunque imperfecta: uno mantiene inicialmente la atención de la criatura, otros buscan ángulos laterales y aprovechan sus cambios de orientación para atacar. El Acechador responde con rapidez, embiste y golpea a los participantes; consigue derribar a uno y alcanza a otro durante el enfrentamiento.
+4. Los participantes continúan actuando juntos pese a quedar momentáneamente desorganizados. Sus ataques alcanzan al Acechador en una zona próxima al hombro y en el costado. Desde la distancia, Kevin, Lucía y Tomás observan que la criatura retrocede y parece tener movimientos menos fluidos y respiración pesada. Se confirma que recibió impactos, pero no se determina la gravedad exacta de sus heridas ni si alguna limita de forma duradera sus capacidades.
+5. El grupo de cuatro no persigue al Acechador cuando este se retira hacia el bosque. Se mantiene a distancia y atiende a los compañeros afectados. Kevin, Lucía y Tomás no intervienen y no se acercan, por lo que desconocen el estado concreto de los participantes.
+6. Kevin, Lucía y Tomás interpretan que el enfrentamiento demuestra que el Acechador puede ser herido y que la coordinación, la distribución de posiciones y los ataques desde distintos ángulos pueden dificultar que la criatura se concentre en una sola persona. También reconocen que reunir participantes no garantiza una victoria y que los errores siguen exponiéndolos a daños.
+7. El trío abandona la elevación por una ruta diferente. No establece contacto con los cuatro participantes ni confirma su situación posterior.
+
+### Estado al cierre del tramo
+
+- Kevin, Lucía y Tomás siguen juntos por acuerdo provisional, sin party formal. No participan en el combate observado y no sufren lesiones nuevas ni cambios de equipo; no utilizan el Sistema de Recuperación.
+- Cuatro participantes no identificados se enfrentaron coordinadamente al Acechador. Al menos dos recibieron impactos durante el combate; sus lesiones y condición posterior son desconocidas. No se confirma ninguna muerte.
+- El Acechador recibió varios impactos, incluidos golpes en una zona próxima al hombro y en el costado. Su gravedad y sus consecuencias funcionales exactas son desconocidas.
+- El Acechador se retiró hacia el bosque. Sigue vivo; su ubicación actual no está confirmada.
+- El trío ha observado que un grupo puede herir y hacer retroceder al Acechador mediante coordinación y ataques desde distintas posiciones. Esto no demuestra que el grupo estuviera cerca de matarlo ni establece una estrategia garantizada.
+- El desafío continúa en curso. El objetivo no ha sido eliminado.
+
+---
