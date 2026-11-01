@@ -47,3 +47,8 @@ Sara detectó movimientos adicionales entre los carrizos y avisó a Rastro Gris 
 ## Piso 2C
 
 Sara detectó movimientos adicionales entre los carrizos durante el acercamiento de Rastro Gris a un verraco y advirtió a sus compañeros. El animal cargó después de que Iván acelerara. Su observación aportó información, pero no evitó el enfrentamiento. Sin lesión ni técnica nueva confirmadas.
+
+
+## Piso 2D — Adaptación de la cacería
+
+Acompañó a Rastro Gris durante la observación de otro grupo de verracos. Advirtió que los carrizos podían ocultar a otros individuos y respaldó la decisión de no entrar en la vegetación sin una posición clara. Durante el enfrentamiento posterior permaneció atenta y advirtió a sus compañeros cuando el verraco cargó. El animal se retiró sin ser capturado. No se confirma lesión, uso de Recuperación, técnica nueva ni avance de rango. Rastro Gris sigue 0/3.
