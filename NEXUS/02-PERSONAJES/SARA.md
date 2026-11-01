@@ -37,3 +37,8 @@ Equipo y recursos concretos seleccionados para el Piso 2, elección de recompens
 ## Última actualización
 
 Aprobación del capítulo de preparación del Piso 2: presencia confirmada y formalización de Rastro Gris con Damián e Iván. Comienza el desafío con cuota conjunta de tres presas, una de cada especie; todavía no hay cacería confirmada.
+
+
+## Piso 2B — Observaciones
+
+Sara detectó movimientos adicionales entre los carrizos y avisó a Rastro Gris antes de acercarse a un grupo de verracos. También observó treparrocas en los escarpes. Su observación fue visual y situacional; no acredita conocimiento automático de las especies ni técnica nueva. No sufrió lesiones ni tuvo contacto físico con las presas.
