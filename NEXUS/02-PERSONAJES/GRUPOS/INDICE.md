@@ -8,4 +8,21 @@ No crear una ficha por cada cooperación ocasional. No se debe asumir que el Sis
 
 ## Registros
 
-_Aún no hay parties creadas en la historia._
+### Los Cruzados
+
+- **Estado:** party reconocida por el Sistema.
+- **Formalización:** durante las 24 horas de preparación del Piso 2, mediante invitación y aceptación expresa.
+- **Integrantes confirmados:** Kevin, Lucía y Tomás.
+- **Inicio de reconocimiento:** Piso 2. La cooperación previa durante el Piso 1 no fue retroactivamente una party.
+- **Situación al inicio del desafío del Piso 2:** convocados como unidad y asignados a una cuota de tres presas válidas: un cérvido de espolón, un verraco de carrizo y un treparrocas cenizo.
+- **Dinámica y límites:** no se ha establecido líder obligatorio, bonificación, penalización ni garantía por pertenecer al grupo. La cohesión, distribución de funciones y resultados deben demostrarse en la narración.
+
+### Rastro Gris
+
+- **Estado:** party reconocida por el Sistema.
+- **Formalización:** durante las 24 horas de preparación del Piso 2, mediante invitación y aceptación expresa.
+- **Integrantes confirmados:** Damián, Iván y Sara.
+- **Inicio de reconocimiento:** Piso 2.
+- **Situación al inicio del desafío del Piso 2:** convocados como unidad y asignados a una cuota de tres presas válidas: un cérvido de espolón, un verraco de carrizo y un treparrocas cenizo.
+- **Relación con Los Cruzados:** competitiva; no se establece enemistad ni hostilidad obligatoria.
+- **Dinámica y límites:** no se ha establecido líder obligatorio, bonificación, penalización ni garantía por pertenecer al grupo. La cohesión, distribución de funciones y resultados deben demostrarse en la narración.
