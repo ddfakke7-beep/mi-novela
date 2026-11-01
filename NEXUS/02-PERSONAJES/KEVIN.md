@@ -90,3 +90,13 @@ La dirección global de Kevin está recogida en [el arco de los Pisos 1–10](..
 ## Última actualización
 
 Aprobación del capítulo del Piso Principal del Piso 2: elección y recepción de la guía principiante de lanza, práctica inicial, formalización de Los Cruzados e inicio del desafío con cuota conjunta. Último punto: comienzo del desafío, antes de la cacería.
+
+
+## Registro añadido — Piso 2B
+
+### Piso 2B — Observación de presas
+
+- Observó grupos de cérvidos de espolón que detectaron a Los Cruzados y se alejaron. Detuvo a Tomás cuando este quiso avanzar detrás de un grupo que cruzaba un corredor, evitando una persecución improvisada.
+- Presenció la respuesta amenazante de un verraco de carrizo ante la proximidad del grupo y la reacción brusca de un treparrocas cenizo cuando Tomás se acercó.
+- Participó en retiradas prudentes. Comienza a distinguir que localizar una presa y leer su movimiento no basta: también debe considerar su capacidad de defenderse y combatir.
+- Aprendizaje inicial y observacional; no acredita rastreo experto, técnica de caza, técnica de lanza nueva ni aumento de rango. Sin lesiones ni uso de Recuperación.
