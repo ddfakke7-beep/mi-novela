@@ -79,3 +79,12 @@ Puede desarrollar la adaptación de su experiencia de boxeo a situaciones distin
 ## Última actualización
 
 Aprobación del capítulo del Piso Principal del Piso 2: revisión de opciones de recompensa sin elección; práctica con un arma de entrenamiento de tipo no especificado, mostrando soltura y coordinación sin acreditar técnica ni rango nuevos; formalización de Los Cruzados e inicio del desafío con cuota conjunta. Su recompensa individual sigue pendiente, pero su práctica queda registrada. Último punto: comienzo del desafío, antes de la cacería.
+
+
+## Registro añadido — Piso 2B
+
+### Piso 2B — Observación de presas
+
+- Observó grupos de cérvidos de espolón y quiso avanzar cuando uno cruzó un corredor; Kevin lo detuvo antes de que iniciara una persecución sin plan.
+- En el carrizal presenció la postura amenazante de un verraco de carrizo. En los escarpes se aproximó para observar un treparrocas cenizo, que respondió con un avance brusco antes de escapar.
+- Aceptó retirarse de ambos encuentros. Estas experiencias le muestran que las presas pueden defenderse y reaccionar físicamente; no acreditan técnica nueva, dominio de arma ni aumento de rango. Sin contacto físico ni lesión.
