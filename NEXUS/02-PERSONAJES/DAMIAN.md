@@ -46,3 +46,7 @@ Aprobación del capítulo de preparación del Piso 2: presencia confirmada y for
 - Observó un grupo de verracos de carrizo en el humedal y decidió no aproximarse sin conocer la posición de los demás individuos. Uno mostró los colmillos, resopló y avanzó unos pasos; Rastro Gris se retiró.
 - En los escarpes observó treparrocas cenizos y una reacción brusca de uno de ellos ante el movimiento de Iván.
 - Su prudencia es coherente con su experiencia recreativa de caza, pero no demuestra conocimiento específico de las especies de NEXUS ni mejora de rango o técnica. Sin lesiones ni presa capturada.
+
+## Piso 2C — Primeros intentos de caza
+
+Damián organizó un acercamiento a un verraco de carrizo por terreno firme después de que Sara detectara otros movimientos entre los carrizos. Iván aceleró y el animal cargó, por lo que Rastro Gris se retiró. Damián reconoció que la aproximación había fallado. Su experiencia recreativa de caza no le proporcionó una solución automática ante esta criatura desconocida. No se confirma lesión, daño de equipo, captura ni progreso de rango o técnica.
