@@ -50,3 +50,8 @@ Aprobación del capítulo de preparación del Piso 2: presencia confirmada y for
 ## Piso 2C — Primeros intentos de caza
 
 Damián organizó un acercamiento a un verraco de carrizo por terreno firme después de que Sara detectara otros movimientos entre los carrizos. Iván aceleró y el animal cargó, por lo que Rastro Gris se retiró. Damián reconoció que la aproximación había fallado. Su experiencia recreativa de caza no le proporcionó una solución automática ante esta criatura desconocida. No se confirma lesión, daño de equipo, captura ni progreso de rango o técnica.
+
+
+## Piso 2D — Adaptación de la cacería
+
+Rastro Gris evitó entrar nuevamente entre los carrizos y esperó a que un verraco saliera a terreno abierto. Durante el enfrentamiento, Damián atacó desde un costado; el cuerpo del animal chocó contra su arma y lo obligó a retroceder. El verraco se retiró después de que Iván también consiguiera golpearlo lateralmente. No hubo captura. No se confirma lesión de Damián, daño del arma, lesión del animal, uso de Recuperación ni progreso de rango o técnica. Rastro Gris sigue 0/3.
