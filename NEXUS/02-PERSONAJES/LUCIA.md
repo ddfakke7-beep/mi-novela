@@ -90,3 +90,8 @@ Aprobación del capítulo del Piso Principal del Piso 2: revisión de opciones d
 ## Piso 2C — Primeros intentos de caza
 
 Durante el enfrentamiento con un cérvido, Lucía comprobó brevemente el estado de Tomás después de que recibiera un golpe sobre la protección del antebrazo. Observó que conservaba movilidad y recomendó no forzarlo; no estableció un diagnóstico ni una lesión concreta. También se desplazó para dejar libre una ruta lateral por la que el animal pudo marcharse. Esto demuestra criterio práctico situacional, no una técnica clínica nueva ni dominio de combate. Sin lesión confirmada ni uso de Recuperación.
+
+
+## Piso 2D — Adaptación de la cacería
+
+Participó en dos acercamientos a cérvidos. En el primero respaldó la retirada cuando el animal adoptó una postura defensiva. Durante el segundo enfrentamiento mantuvo distancia y evitó atacar cuando Kevin y Tomás estaban demasiado cerca; ayudó a conservar espacio para que el grupo reaccionara. Después comprobó el estado general de sus compañeros. No se confirma lesión propia, uso de Recuperación, técnica nueva ni avance de rango. Los Cruzados abatieron un cérvido de espolón y su cuota quedó en 1/3.
