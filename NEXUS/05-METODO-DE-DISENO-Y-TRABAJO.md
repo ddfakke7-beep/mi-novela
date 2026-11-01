@@ -91,6 +91,16 @@ Durante el desarrollo se debe llevar un control provisional de los cambios que p
 
 El control provisional no sustituye los archivos oficiales ni autoriza a registrar como canon acontecimientos todavía no aprobados.
 
+### Seguimiento individual del elenco
+
+En cada etapa y piso, revisar la evolución de cada integrante relevante de las parties y no solo la del protagonista. El seguimiento no exige que todos expliquen en diálogo qué aprendieron ni que elijan una recompensa para justificar su desarrollo. Registrar, cuando sea pertinente, qué conocimientos poseen, qué han practicado, qué experiencia han adquirido, qué decisiones y observaciones muestran criterio, qué limitaciones conservan y qué objetivos de desarrollo siguen abiertos.
+
+La recompensa elegida, el contenido recibido, su comprensión, la práctica realizada y el dominio demostrado son hechos distintos y deben registrarse por separado. Un personaje también puede progresar mediante entrenamiento, observación, enseñanza, experiencia o adaptación sin recibir una recompensa nueva. No se atribuirá automáticamente una mejora por el mero paso del tiempo o por pertenecer a una party.
+
+El desarrollo ocurrido fuera de escena puede establecerse de forma coherente cuando el tiempo transcurrido, las oportunidades plausibles, la personalidad, la experiencia previa y las capacidades conocidas lo permitan. No inventar acontecimientos concretos como hechos confirmados sin fundamento; si se establece una evolución fuera de escena, dejar clara su causa y la evidencia disponible. No conceder dominio repentino ni exigir que todos progresen al mismo ritmo.
+
+Al cerrar cada etapa relevante, revisar a los integrantes pertinentes y actualizar sus fichas o registros propietarios cuando exista información nueva. No es obligatorio modificar todos los registros en cada etapa: si no hay evidencia de cambio, conservar el estado y las incógnitas existentes.
+
 Al aprobarse el piso:
 - el historial registra qué ocurrió y en qué orden;
 - las fichas registran el estado vigente resultante de cada personaje afectado;
