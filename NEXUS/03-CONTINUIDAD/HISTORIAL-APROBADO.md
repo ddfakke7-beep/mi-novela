@@ -252,3 +252,12 @@ Las propuestas, escenas descartadas y sucesos todavía no aprobados no se regist
 - No se confirma uso de Recuperación ni captura de ninguna presa.
 - Cuotas: Los Cruzados 0/3; Rastro Gris 0/3.
 - Siguiente etapa: continuar con la cacería, sin convertir las observaciones iniciales en dominio automático.
+
+
+## Piso 2C — Primeros intentos y errores (APROBADO)
+
+Los Cruzados realizaron dos intentos de caza de cérvidos de espolón. En el primero, los animales detectaron la aproximación y huyeron. En el segundo, un cérvido respondió con una carga defensiva. Kevin interpuso su lanza y el asta quedó marcada, sin daño estructural confirmado. Tomás recibió un golpe en la protección del antebrazo y cayó; conserva movilidad, pero presenta dolor y no se confirma lesión concreta. Lucía comprobó brevemente su estado y recomendó no forzarlo. El cérvido se marchó después de que el grupo dejara libre una ruta lateral.
+
+Rastro Gris intentó aproximarse a un verraco de carrizo. Sara detectó movimientos adicionales; Damián eligió terreno firme, pero Iván aceleró y se acercó demasiado. El verraco cargó y golpeó el arma de Iván con el hombro. La party se retiró; no se confirma lesión de Iván ni daño del arma.
+
+Ninguna party capturó presas. Cuotas: Los Cruzados 0/3; Rastro Gris 0/3. No se confirma lesión de criaturas, muerte, uso de Recuperación, cambio de equipo ni avance de rango o técnica. Los encuentros muestran que las presas pueden defenderse y que los participantes deben controlar distancia y retirada sin asumir que un individuo aparentemente separado está aislado o será fácil de cazar.
