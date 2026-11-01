@@ -1,6 +1,6 @@
-# Transferencia de continuidad — Piso 2: después de la Etapa C
+# Transferencia de continuidad — Piso 2: después de la Etapa D
 
-**Estado:** transferencia operativa actualizada tras la aprobación de la Etapa C — Primeros intentos y errores. No sustituye los documentos propietarios.
+**Estado:** transferencia operativa actualizada tras la aprobación de la Etapa D — Adaptación de la cacería. No sustituye los documentos propietarios.
 
 ## 1. Punto exacto
 - **Piso:** 2.
@@ -127,3 +127,10 @@
 - Rastro Gris intentó acercarse a un verraco. Sara detectó más movimiento entre los carrizos; Iván aceleró y el animal cargó, golpeando su arma. La party se retiró. No se confirma lesión de Iván ni daño del arma.
 - Ninguna party capturó presa: Los Cruzados 0/3; Rastro Gris 0/3. No se confirma uso de Recuperación, lesión de criaturas, muerte, cambios de equipo ni progreso de rango/técnica.
 - Siguiente: continuar la cacería y comprobar el estado del antebrazo de Tomás antes de exigirle esfuerzo.
+
+
+## Actualización tras Piso 2D — Aprobado
+
+Los Cruzados abatieron un cérvido de espolón registrado como presa válida: cuota 1/3 (cérvido 1/1; verraco 0/1; treparroca 0/1). Rastro Gris atacó a un verraco en terreno abierto, pero este se retiró sin captura: cuota 0/3. Tomás conserva dolor en el antebrazo, aunque disminuyó; mantiene movilidad y no hay lesión concreta confirmada. La lanza de Kevin presenta marcas sin daño estructural confirmado. No se confirman lesiones nuevas, usos de Recuperación, cambios de equipo ni progreso de rango/técnica. No se observaron treparrocas en esta etapa.
+
+**Punto exacto:** Etapas A–D aprobadas. Solo resta la Etapa E, que cierra el desafío: completar las cuotas de todas las unidades convocadas y, tras la declaración correspondiente, alcanzar físicamente la puerta blanca. No inventar resultados de unidades cuya situación no está registrada.
