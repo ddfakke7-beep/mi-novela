@@ -261,3 +261,8 @@ Los Cruzados realizaron dos intentos de caza de cérvidos de espolón. En el pri
 Rastro Gris intentó aproximarse a un verraco de carrizo. Sara detectó movimientos adicionales; Damián eligió terreno firme, pero Iván aceleró y se acercó demasiado. El verraco cargó y golpeó el arma de Iván con el hombro. La party se retiró; no se confirma lesión de Iván ni daño del arma.
 
 Ninguna party capturó presas. Cuotas: Los Cruzados 0/3; Rastro Gris 0/3. No se confirma lesión de criaturas, muerte, uso de Recuperación, cambio de equipo ni avance de rango o técnica. Los encuentros muestran que las presas pueden defenderse y que los participantes deben controlar distancia y retirada sin asumir que un individuo aparentemente separado está aislado o será fácil de cazar.
+
+
+## Piso 2D — Adaptación de la cacería (APROBADO)
+
+Los Cruzados abatieron un cérvido de espolón y el Sistema registró una presa válida. Cuota de Los Cruzados: 1/3; quedan pendientes un verraco de carrizo y un treparroca cenizo. Rastro Gris enfrentó a un verraco en terreno abierto, pero el animal se retiró sin ser capturado; cuota 0/3. Tomás indicó que el dolor del antebrazo había disminuido, aunque persistía; no se confirma lesión concreta ni recuperación completa. La lanza de Kevin presenta marcas, sin daño estructural confirmado. No se confirman lesiones nuevas, uso de Recuperación, cambios de equipo ni progreso de rango o técnica. La siguiente y última etapa es la Etapa E: todas las unidades convocadas deben completar sus cuotas; después, los participantes vivos deben alcanzar físicamente la puerta blanca.
