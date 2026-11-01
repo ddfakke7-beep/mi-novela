@@ -152,3 +152,33 @@ Las propuestas, escenas descartadas y sucesos todavía no aprobados no se regist
 - Los carroñeros de matorral permanecen activos; no fueron eliminados como parte del objetivo.
 - No se registran elecciones ni recompensas individuales concretas en este tramo.
 
+
+
+## Piso 2 — Piso Principal: Preparación y comienzo del desafío
+
+**Estado: APROBADO.**
+
+1. Kevin, Lucía y Tomás llegan al Piso Principal del Piso 2. El recinto funciona como zona segura de preparación; el desafío general todavía no ha comenzado.
+2. El Sistema presenta el desafío de adaptación mediante cacería por cuotas. Se anuncian las especies objetivo, las cuotas por unidad, las condiciones generales de superación y el plazo de 96 horas desde el inicio. No se registra como hecho una cifra total de convocados que no haya quedado confirmada en la narración.
+3. Durante las 24 horas comunes de preparación, los participantes pueden descansar, alimentarse, revisar el equipo disponible, consultar información y practicar en el área habilitada.
+4. Kevin consulta su oportunidad individual de recompensa obtenida al completar el Piso 1 y escoge **Combate → Manejo de lanza → Principiante**. Recibe una guía organizada sobre postura, equilibrio, agarre, control del arma, desplazamiento y principios básicos de ataque y defensa.
+5. Kevin comienza a practicar los fundamentos de la lanza a partir de la guía. La práctica muestra errores y una ejecución todavía irregular. La recepción del contenido y esta práctica inicial no equivalen a dominio funcional ni producen una subida automática de rango.
+6. Lucía consulta opciones de recompensa relacionadas con supervivencia y atención de personas heridas, pero no se confirma que elija o reciba un contenido concreto.
+7. Tomás revisa las opciones disponibles, pero no se confirma que elija o reciba un contenido concreto.
+8. Kevin, Lucía y Tomás formalizan **Los Cruzados**. La invitación y la aceptación expresa quedan realizadas y el Sistema reconoce la party, integrada por los tres. Su cooperación anterior pasa a tener reconocimiento formal desde este momento; no se atribuyen bonificaciones ni penalizaciones.
+9. Damián, Iván y Sara aparecen durante la preparación y formalizan **Rastro Gris** mediante invitación y aceptación expresa. El Sistema reconoce la party, integrada por los tres. La relación con Los Cruzados queda planteada como competitiva, no como enemistad obligatoria.
+10. Los participantes utilizan el periodo de preparación para revisar información, conversar, practicar y descansar. No se confirma que Lucía o Tomás hayan escogido una recompensa, ni que alguno de los seis haya sustituido su equipo.
+11. Al concluir las 24 horas comunes, el Sistema anuncia el inicio del desafío. Los participantes pasan al terreno de la prueba.
+12. Al comienzo del desafío, Los Cruzados reciben una cuota de tres presas válidas, una de cada especie objetivo. Rastro Gris recibe igualmente una cuota de tres presas válidas, una de cada especie objetivo. Las cuotas pertenecen a sus respectivas parties y no pueden ser completadas por otra unidad.
+13. El capítulo termina al inicio de la prueba, antes de que Kevin y sus compañeros confirmen un encuentro con alguna especie objetivo o acrediten una presa.
+
+### Estado al cierre del tramo
+
+- Las 24 horas de preparación del Piso Principal han concluido y el desafío del Piso 2 ha comenzado.
+- Los Cruzados: party reconocida, Kevin, Lucía y Tomás; cuota de tres presas válidas, una de cada especie.
+- Rastro Gris: party reconocida, Damián, Iván y Sara; cuota de tres presas válidas, una de cada especie.
+- Kevin recibió una guía principiante de manejo de lanza y comenzó a practicar sus fundamentos. No se acredita rango nuevo ni técnica funcional/fiable.
+- Lucía y Tomás todavía no tienen una recompensa concreta registrada como elegida o recibida.
+- No se confirma una cifra total de convocados, ni la composición de todas las unidades.
+- No se ha confirmado la localización, caza o eliminación de ninguna presa objetivo por parte de las dos parties.
+- El desafío continúa activo. La etapa de cacería queda pendiente.
