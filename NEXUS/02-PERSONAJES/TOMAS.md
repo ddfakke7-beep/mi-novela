@@ -108,3 +108,8 @@ Su experiencia previa de boxeo y los enfrentamientos/cacerías de los Pisos 1 y 
 ## Piso 3B — Primeros contactos
 
 Durante el encuentro con tres Rastreros de tronco, Tomás golpeó a uno desde un ángulo lateral con la maza para obligarlo a cambiar de trayectoria. El impacto no derribó a la criatura y esta se retiró. La acción demuestra aplicación práctica de su arma en una situación móvil y con espacio limitado, pero no acredita técnica nueva, ejecución fiable ni aumento de rango. No se confirma lesión propia ni uso de Recuperación.
+
+
+## Piso 3C — La élite y sus acompañantes
+
+En el Bosque de Columnas, Tomás esperó a que el Quebrantahileras pasara y golpeó con la maza una de sus extremidades delanteras desde un lateral. El impacto hizo que la criatura cambiara ligeramente el apoyo y girara el cuerpo, pero no la derribó. La intervención muestra aplicación práctica del arma en un combate móvil, sin acreditar técnica nueva, ejecución fiable ni aumento de rango. No se confirma lesión propia ni uso de Recuperación.
