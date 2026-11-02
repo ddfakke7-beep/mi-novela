@@ -110,3 +110,15 @@ Marcar cada ámbito como **actualizado**, **revisado sin cambios** o **pendiente
 - No se ha encontrado ni derrotado ninguna élite. Ningún sector despejado. No se confirman muertes, bajas, uso de Recuperación, daño estructural de equipo, técnicas nuevas ni rangos nuevos.
 - La coordinación de los tres contingentes sigue siendo inicial e imperfecta. No convertir observaciones puntuales de criaturas en reglas universales.
 - Las lesiones/molestias mencionadas pertenecen a anónimos; no atribuirlas a personajes con ficha.
+
+
+## Transferencia vigente — cierre de Piso 3C
+
+- **Piso/etapa:** Piso 3, Etapa C aprobada; siguiente Etapa D — Coordinación y corrección.
+- **Contingente 1 / Bosque de Columnas:** Los Cruzados (Kevin, Lucía y Tomás) más siete anónimos. Encontraron al Quebrantahileras, acompañado por Rastreros de tronco. La carga de la élite empujó al participante del escudo; no se confirma lesión. Tomás golpeó una extremidad con la maza y Kevin tocó el costado con la lanza; no se confirma daño a la criatura. Lucía avisó movimientos. Retrocedieron juntos a un claro más amplio. Élite y acompañantes siguen activos.
+- **Contingente 2 / Cantera Escalonada:** La Cuadrilla (Gabriel, Nuria, Bruno y Maia) más seis anónimos. Encontraron al Rompecrestas, acompañado por Saltadores de cantera. La criatura empujó a un participante, que cayó de rodillas y se levantó; sin lesión concreta confirmada. Gabriel distribuyó funciones y ordenó reagruparse; Bruno señaló limitaciones de visibilidad; Maia avisó movimientos; Nuria atendió al grupo. Se reorganizaron en una plataforma amplia. Élite y acompañantes siguen activos.
+- **Contingente 3 / Cuenca de Juncos:** diez anónimos. Encontraron a la Mandíbula de la Cuenca, acompañada por Mordedores de ribera. La élite se lanzó desde el agua hacia un participante, que cayó sobre una rodilla y se levantó. El grupo retrocedió a terreno firme. Sin lesión concreta confirmada. Élite y acompañantes siguen activos.
+- Ninguna élite derrotada; ningún sector despejado. No se confirman muertes, bajas, lesiones concretas, uso de Recuperación, daño estructural de equipo, técnicas nuevas ni aumento de rango.
+- Las caídas y molestias descritas corresponden a participantes anónimos; no atribuirlas a fichas individuales.
+- La coordinación sigue siendo inicial e imperfecta. Las criaturas menores y las élites permanecen activas; no asumir que los tres sectores avanzarán al mismo ritmo.
+- **Siguiente paso:** Etapa D — Coordinación y corrección, manteniendo los tres frentes y sus estados diferenciados.
