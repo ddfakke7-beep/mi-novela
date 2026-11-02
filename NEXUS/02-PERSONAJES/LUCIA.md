@@ -1,6 +1,6 @@
 # Lucía — ficha individual
 
-**Estado:** personaje recurrente; ficha vigente al inicio del desafío del Piso 2.  
+**Estado:** personaje recurrente; ficha actualizada tras completar el Piso 3 e ingresar al Piso Principal 4.  
 **Base:** diseño aprobado del Piso 1, narración aprobada de los tramos 1.1 y 1A–1E, y sistemas oficiales vigentes.
 
 ## Identidad y punto de partida
@@ -28,10 +28,12 @@ No tiene experiencia de combate establecida ni debe convertirse automáticamente
 
 ### Combate y condición física
 
-- No se ha establecido dominio funcional de combate ni experiencia previa con armas.
+- Ha adquirido una base práctica elemental de supervivencia y defensa durante los desafíos de los Pisos 1–3. No debe escribirse como indefensa ni como alguien que nunca ha afrontado una amenaza real.
+- **Lanza corta:** sin rango formal asignado por ahora. La familiarización con su arma, la experiencia bajo amenaza y la práctica de distancias/comunicación no bastan todavía para confirmar ejecución funcional repetible de fundamentos ofensivos o defensivos con la lanza.
+- **Cuchillo corto:** sin rango evaluado; no se confirma práctica especializada.
 - Arma elegida en el Piso 1: lanza corta.
 - Equipo inicial adicional: cuchillo corto, chaqueta acolchada ligera y protectores de antebrazo.
-- No se ha demostrado que pueda utilizar la lanza o el cuchillo de manera fiable en combate.
+- Puede participar en situaciones peligrosas, mantener atención sobre flancos y usar su equipo con prudencia. Su base práctica no equivale a dominio técnico de lanza, cuchillo ni combate sin armas.
 - No se registra una mejora física concreta por el mero hecho de haber atravesado el Piso 1.
 
 ## Equipo y recursos
@@ -130,3 +132,11 @@ En el Bosque de Columnas, Lucía avisó de la aparición y los movimientos de lo
 - Cruzó la puerta blanca junto a Kevin y Tomás como integrante de Los Cruzados y entró al Piso Principal 4.
 - Recibió restauración corporal al entrar al nuevo Piso Principal. Sus pertenencias no fueron reemplazadas; no se detallan cambios de equipo.
 - No consta elección ni recepción de la recompensa por completar el Piso 3. Sin técnica nueva ni aumento de rango.
+
+
+## Revisión de progresión — cierre del Piso 3 (APROBADO)
+
+La experiencia acumulada de los Pisos 1–3 le proporciona una base práctica elemental de combate y supervivencia. En el Piso 3 comunicó movimientos y flancos durante encuentros reales y mantuvo atención sobre amenazas laterales. Su preparación incluyó familiarización con el equipo y práctica de distancias y prevención de interferencias con sus compañeros.
+
+No se asigna todavía un rango formal a la lanza corta: la evidencia disponible no demuestra aún ejecución repetible de sus fundamentos en combate. Esto no significa que sea una principiante absoluta en supervivencia ni que deba actuar como alguien incapaz de defenderse. Su fortaleza actual está en la observación, comunicación, prudencia y apoyo básico; su técnica armada sigue en desarrollo.
+
