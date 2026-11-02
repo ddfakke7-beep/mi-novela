@@ -37,3 +37,9 @@ En la Cantera Escalonada, Gabriel coordinó inicialmente al contingente ante tre
 ## Piso 3C — La élite y sus acompañantes
 
 En la Cantera Escalonada, Gabriel intentó distribuir funciones ante el Rompecrestas y los Saltadores de cantera. La aparición de amenazas desde plataformas distintas provocó avisos simultáneos y una breve desorganización. Después pidió reagruparse en una plataforma más amplia y evitó presionar al participante que había caído de rodillas, permitiendo que se apartara mientras el grupo lo cubría. Es una experiencia inicial de coordinación bajo presión con resultados mixtos; no demuestra dominio táctico ni liderazgo infalible. No se confirma lesión propia ni uso de Recuperación.
+
+### Piso 3D — Coordinación y corrección (APROBADO)
+
+- Tras una confusión por avisos simultáneos en la Cantera, corrigió la comunicación usando referencias espaciales concretas («arriba», «abajo», «junto a la rampa») y pidió avisos centrados en amenazas que se aproximaran a una persona.
+- Delegó y ajustó la coordinación en lugar de mantener órdenes iniciales que ya no servían. La respuesta del contingente mejoró, pero no fue perfecta.
+- No se confirma técnica nueva, dominio estable de liderazgo, lesión propia ni uso de Recuperación.
