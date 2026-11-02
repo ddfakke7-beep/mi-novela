@@ -43,3 +43,9 @@ En la Cantera Escalonada, Gabriel intentó distribuir funciones ante el Rompecre
 - Tras una confusión por avisos simultáneos en la Cantera, corrigió la comunicación usando referencias espaciales concretas («arriba», «abajo», «junto a la rampa») y pidió avisos centrados en amenazas que se aproximaran a una persona.
 - Delegó y ajustó la coordinación en lugar de mantener órdenes iniciales que ya no servían. La respuesta del contingente mejoró, pero no fue perfecta.
 - No se confirma técnica nueva, dominio estable de liderazgo, lesión propia ni uso de Recuperación.
+
+
+### Piso 3E — Despeje de cada sector (APROBADO)
+
+- En la Cantera ajustó la distribución del contingente, delegó la vigilancia de niveles y evitó concentrar a todos en una sola amenaza. La comunicación y respuesta mejoraron, aunque no fueron perfectas.
+- Es una aplicación más eficaz de coordinación bajo presión, no dominio táctico estable ni liderazgo infalible. No se confirma lesión propia ni uso de Recuperación.
