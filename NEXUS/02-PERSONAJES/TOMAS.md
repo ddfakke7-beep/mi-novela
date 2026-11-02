@@ -126,3 +126,10 @@ En el Bosque de Columnas, Tomás esperó a que el Quebrantahileras pasara y golp
 
 - Intervino repetidamente con la maza contra el Quebrantahileras, aprovechando cambios de apoyo y aperturas laterales durante el enfrentamiento coordinado.
 - La experiencia amplía su práctica con la maza bajo presión, pero no acredita técnica nueva, ejecución fiable ni aumento de rango. No se confirma lesión propia ni uso de Recuperación.
+
+
+### Piso 3F — Superación general y salida (APROBADO)
+
+- Cruzó la puerta blanca junto a Kevin y Lucía como integrante de Los Cruzados y entró al Piso Principal 4.
+- Recibió restauración corporal al entrar al nuevo Piso Principal. Sus pertenencias no fueron reemplazadas; no se detallan cambios de equipo.
+- No consta elección ni recepción de la recompensa por completar el Piso 3. Sin técnica nueva ni aumento de rango.
