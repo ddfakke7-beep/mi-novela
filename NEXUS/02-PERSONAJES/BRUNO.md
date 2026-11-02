@@ -37,3 +37,9 @@ Durante el contacto con Saltadores de cantera, Bruno observó que los cambios de
 ## Piso 3C — La élite y sus acompañantes
 
 En la Cantera Escalonada, Bruno señaló que la distribución de plataformas dificultaba vigilar todos los niveles desde una sola posición. Durante el enfrentamiento con el Rompecrestas y los Saltadores de cantera, insistió en recuperar una posición más amplia y en no abandonar los laterales para seguir a la élite. Su observación contribuyó a la reorganización del contingente; no acredita capacidad de combate especializada, técnica nueva ni aumento de rango. No se confirma lesión propia ni uso de Recuperación.
+
+### Piso 3D — Coordinación y corrección (APROBADO)
+
+- Advirtió que el contingente no debía abandonar la plataforma amplia para perseguir a las criaturas de la Cantera.
+- Su observación contribuyó a mantener una posición más controlable; no demuestra capacidades de ingeniería ni técnica de combate nueva.
+- No se confirma lesión propia ni uso de Recuperación.
