@@ -284,3 +284,19 @@ Los Cruzados abatieron un cérvido de espolón y el Sistema registró una presa 
 
 ### Estado al cierre del Piso Principal 3
 Desafío iniciado, plazo de 120 horas. Los Cruzados: Kevin, Lucía y Tomás. La Cuadrilla: Gabriel, Nuria, Bruno y Maia. Kevin recibió su guía principiante de coordinación; Lucía y Tomás eligieron y recibieron contenidos no especificados. Kevin, Lucía y Tomás tienen una activación de Recuperación disponible para el Piso 3, sin uso confirmado. Los participantes tienen una base práctica de combate en distinto grado por sus experiencias de supervivencia y uso de equipo; esto no equivale a dominio formal ni pericia especializada. No se confirman lesiones nuevas, uso de Recuperación, cambios de equipo, rangos ni técnicas nuevas. Siguiente paso: Etapa A — Distribución y reconocimiento.
+
+## Piso 3A — Distribución y reconocimiento (APROBADO)
+
+- El Sistema distribuye a los 30 participantes en tres contingentes operativos de diez, uno por sector. Son asignaciones temporales de responsabilidad, no parties nuevas.
+- Contingente 1: Bosque de Columnas; Kevin, Lucía y Tomás más siete participantes adicionales sin identificar.
+- Contingente 2: Cantera Escalonada; Gabriel, Nuria, Bruno y Maia más seis participantes adicionales sin identificar.
+- Contingente 3: Cuenca de Juncos; diez participantes adicionales sin identificar.
+- Los Cruzados permanecen juntos como party reconocida; La Cuadrilla permanece junta como party reconocida. No se establece alianza formal entre ellas.
+- Los contingentes conversan sobre comunicación, avisos concretos, mantener contacto y no separarse sin necesidad. No se asignan funciones rígidas ni líderes obligatorios.
+- Los participantes reconocen únicamente las características generales de los sectores en el mapa. No conocen aún posiciones enemigas, rutas seguras, criaturas concretas ni puntos débiles.
+- El contingente de Kevin avanza hasta el primer tramo del Bosque de Columnas. No observa criaturas ni rastros atribuibles al desafío.
+- La Cuadrilla avanza hacia la Cantera Escalonada; el tercer contingente hacia la Cuenca de Juncos. No se narran encuentros ni lesiones.
+- No se confirma uso de Recuperación, cambios de equipo, bajas, nuevas técnicas ni aumento de rango.
+
+### Estado al cierre de 3A
+La distribución está completa. Los Cruzados están en el acceso inicial del Bosque de Columnas; La Cuadrilla se dirige a la Cantera Escalonada; el tercer contingente se dirige a la Cuenca de Juncos. El siguiente desarrollo es Etapa B — Primeros contactos.
