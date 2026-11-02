@@ -132,3 +132,13 @@ Marcar cada ámbito como **actualizado**, **revisado sin cambios** o **pendiente
 - **Estado general:** una criatura menor abatida en cada sector. Ninguna élite derrotada, ningún sector despejado ni aviso del Sistema de sector despejado. No se fijan cantidades exactas de criaturas restantes.
 - No se confirman bajas humanas, lesiones concretas, uso de Recuperación, daño estructural de equipo, técnicas nuevas ni aumento de rango. La coordinación mejoró situacionalmente, sin demostrar dominio estable.
 - Los Cruzados y La Cuadrilla siguen siendo parties independientes; los contingentes no se convierten en parties ni hay alianza formal.
+
+
+## Transferencia vigente — cierre de Piso 3E
+
+- Piso 3, Etapa E aprobada. Los tres sectores están despejados: Quebrantahileras y Rastreros designados en el Bosque; Rompecrestas y Saltadores designados en la Cantera; Mandíbula de la Cuenca y Mordedores designados en la Cuenca.
+- Los tres contingentes recibieron confirmación de sector despejado. No se narran bajas humanas ni lesiones concretas de personajes nombrados.
+- La prueba aún no está declarada completada. No consta el aviso «Prueba completada», la instrucción final de dirigirse a la salida ni llegada o transición por la puerta blanca.
+- No se confirman usos de Recuperación, daño estructural de equipo, técnicas nuevas ni aumentos de rango. La experiencia de combate y coordinación no equivale a dominio estable.
+- Los Cruzados y La Cuadrilla siguen siendo parties independientes; los contingentes fueron asignaciones temporales.
+- Siguiente: Etapa F, conforme al diseño aprobado. No asumir que todos llegan a la salida ni que realizan la transición al mismo tiempo.
