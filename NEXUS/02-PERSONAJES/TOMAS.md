@@ -120,3 +120,9 @@ En el Bosque de Columnas, Tomás esperó a que el Quebrantahileras pasara y golp
 - Participó en contener un Rastrero de tronco junto con otro integrante y lo golpeó dos veces con la maza. El Rastrero dejó de moverse; eliminación confirmada.
 - Estas acciones amplían su experiencia práctica con la maza, pero no acreditan una técnica nueva, ejecución fiable ni aumento de rango.
 - No se confirma lesión propia ni uso de Recuperación.
+
+
+### Piso 3E — Despeje de cada sector (APROBADO)
+
+- Intervino repetidamente con la maza contra el Quebrantahileras, aprovechando cambios de apoyo y aperturas laterales durante el enfrentamiento coordinado.
+- La experiencia amplía su práctica con la maza bajo presión, pero no acredita técnica nueva, ejecución fiable ni aumento de rango. No se confirma lesión propia ni uso de Recuperación.
