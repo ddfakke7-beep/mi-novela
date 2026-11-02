@@ -37,3 +37,9 @@ Durante el encuentro con Saltadores de cantera, Maia detectó y comunicó movimi
 ## Piso 3C — La élite y sus acompañantes
 
 En la Cantera Escalonada, Maia avisó de los movimientos de Saltadores de cantera desde plataformas laterales y niveles distintos. Sus avisos ayudaron a detectar amenazas que podían aprovechar la atención puesta en el Rompecrestas, aunque la llegada casi simultánea de varios mensajes contribuyó a una breve confusión sobre cuál movimiento atender primero. Es una aplicación inicial de comunicación bajo presión, no dominio táctico ni aumento de rango. No se confirma lesión propia ni uso de Recuperación.
+
+### Piso 3D — Coordinación y corrección (APROBADO)
+
+- Adaptó sus avisos durante el enfrentamiento de la Cantera después de que Gabriel estableciera referencias espaciales más claras.
+- Su comunicación ayudó a reducir la confusión ante los movimientos de los Saltadores; no supone una capacidad automática de mediación ni dominio estable.
+- No se confirma lesión propia ni uso de Recuperación.
