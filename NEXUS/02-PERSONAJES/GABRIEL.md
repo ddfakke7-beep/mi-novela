@@ -32,3 +32,8 @@ Equipo exacto, disciplina de combate, rango, técnicas, elección concreta de re
 ## Piso 3B — Primeros contactos
 
 En la Cantera Escalonada, Gabriel coordinó inicialmente al contingente ante tres Saltadores de cantera. Avisó que no los persiguieran y pidió mantener la posición, pero reaccionó tarde cuando una criatura cambió de dirección y la distribución se desorganizó brevemente. Ordenó reagruparse en una plataforma más amplia. Es una primera experiencia de coordinación bajo presión con resultados mixtos; no demuestra liderazgo infalible ni dominio táctico. Sin lesión confirmada ni uso de Recuperación.
+
+
+## Piso 3C — La élite y sus acompañantes
+
+En la Cantera Escalonada, Gabriel intentó distribuir funciones ante el Rompecrestas y los Saltadores de cantera. La aparición de amenazas desde plataformas distintas provocó avisos simultáneos y una breve desorganización. Después pidió reagruparse en una plataforma más amplia y evitó presionar al participante que había caído de rodillas, permitiendo que se apartara mientras el grupo lo cubría. Es una experiencia inicial de coordinación bajo presión con resultados mixtos; no demuestra dominio táctico ni liderazgo infalible. No se confirma lesión propia ni uso de Recuperación.
