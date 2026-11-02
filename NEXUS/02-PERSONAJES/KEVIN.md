@@ -137,3 +137,10 @@ En el Bosque de Columnas, Kevin sostuvo la lanza para controlar la distancia ant
 
 - Participó en el enfrentamiento final contra el Quebrantahileras, usando la lanza para buscar aperturas laterales y retirándose cuando la criatura respondió. Su intervención fue coordinada con los movimientos de sus compañeros; no controló por sí solo el combate.
 - La experiencia amplía su práctica de posicionamiento y apoyo en combate grupal, pero no acredita técnica nueva, ejecución fiable ni aumento de rango. No se confirma lesión propia ni uso de Recuperación.
+
+
+### Piso 3F — Superación general y salida (APROBADO)
+
+- Cruzó la puerta blanca junto a Lucía y Tomás y entró al Piso Principal 4 como integrante de Los Cruzados.
+- Recibió restauración corporal al entrar al nuevo Piso Principal. Sus pertenencias no fueron restauradas ni reemplazadas; su lanza conserva las marcas del Piso 3.
+- No consta elección ni recepción de la recompensa por completar el Piso 3. Sin técnica nueva ni aumento de rango.
