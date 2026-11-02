@@ -113,3 +113,10 @@ Durante el encuentro con tres Rastreros de tronco, Tomás golpeó a uno desde un
 ## Piso 3C — La élite y sus acompañantes
 
 En el Bosque de Columnas, Tomás esperó a que el Quebrantahileras pasara y golpeó con la maza una de sus extremidades delanteras desde un lateral. El impacto hizo que la criatura cambiara ligeramente el apoyo y girara el cuerpo, pero no la derribó. La intervención muestra aplicación práctica del arma en un combate móvil, sin acreditar técnica nueva, ejecución fiable ni aumento de rango. No se confirma lesión propia ni uso de Recuperación.
+
+### Piso 3D — Coordinación y corrección (APROBADO)
+
+- Golpeó una extremidad del Quebrantahileras con la maza; la élite corrigió ligeramente su apoyo, pero no cayó.
+- Participó en contener un Rastrero de tronco junto con otro integrante y lo golpeó dos veces con la maza. El Rastrero dejó de moverse; eliminación confirmada.
+- Estas acciones amplían su experiencia práctica con la maza, pero no acreditan una técnica nueva, ejecución fiable ni aumento de rango.
+- No se confirma lesión propia ni uso de Recuperación.
