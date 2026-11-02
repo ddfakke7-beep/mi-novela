@@ -153,3 +153,18 @@ Marcar cada ámbito como **actualizado**, **revisado sin cambios** o **pendiente
 - No se narran usos de Recuperación, lesiones nuevas concretas, elecciones o recepciones de recompensas del Piso 3, técnicas nuevas ni aumentos de rango.
 - Los Cruzados y La Cuadrilla mantienen sus composiciones y reconocimiento; no existe alianza formal entre ambas.
 - Siguiente: continuar desde el Piso Principal 4 conforme a su diseño aprobado. La oportunidad de recompensa del Piso 3 debe gestionarse según el Sistema de Recompensas, sin inventar elecciones ni contenidos recibidos.
+
+
+## Transferencia vigente — revisión de progresión del elenco tras Piso 3
+
+- **Kevin:** rango 2 — Competente en manejo de lanza. Puede repetir fundamentos en situaciones conocidas, controlar distancia e interponer/desplazar el asta; todavía tiene límites de precisión, adaptación y presión sostenida.
+- **Tomás:** rango 2 — Competente en boxeo/combate sin armas por su práctica amateur previa y rango 2 — Competente en maza corta por práctica y uso repetido en los Pisos 2 y 3. No es avanzado; su impulso protector puede exponerlo.
+- **Lucía:** base práctica elemental de combate y supervivencia; destaca en observación, comunicación de flancos y apoyo prudente. Lanza corta sin rango formal asignado por falta de evidencia de ejecución repetible.
+- **Gabriel:** base práctica elemental; mejoró situacionalmente en coordinación, delegación y referencias espaciales. Sin rango formal de arma.
+- **Nuria:** base práctica elemental; primeros auxilios básicos, observación y prudencia para valorar si alguien puede continuar. Sin rango formal de arma.
+- **Bruno:** base práctica elemental; observación del terreno, accesos y posiciones controlables. Sin rango formal de arma.
+- **Maia:** base práctica elemental; comunicación bajo presión mejorada situacionalmente. Sin rango formal de arma.
+- La base práctica elemental común a los supervivientes de desafíos previos significa que no deben narrarse como indefensos ni principiantes absolutos frente al peligro. No equivale a un rango concreto ni uniformiza las disciplinas.
+- Damián, Iván y Sara mantienen sus fichas previas sin cambios en esta revisión: no atribuirles progreso adicional de Pisos 3 sin evidencia individual confirmada.
+- La oportunidad de recompensa del Piso 3 continúa pendiente de elecciones narradas; no inferir contenidos recibidos.
+
