@@ -79,7 +79,7 @@ Puede desarrollar la adaptación de su experiencia de boxeo a situaciones distin
 
 ## Última actualización
 
-Aprobación del capítulo del Piso Principal del Piso 2: revisión de opciones de recompensa sin elección; práctica con un arma de entrenamiento de tipo no especificado, mostrando soltura y coordinación sin acreditar técnica ni rango nuevos; formalización de Los Cruzados e inicio del desafío con cuota conjunta. Su recompensa individual sigue pendiente, pero su práctica queda registrada. Último punto: comienzo del desafío, antes de la cacería.
+Revisión de dominio tras la aprobación del Piso 3: rango 2 — Competente en boxeo/combate sin armas por varios años de práctica amateur, y rango 2 — Competente en maza corta por entrenamiento y uso repetido durante los Pisos 2 y 3. Ingresó al Piso Principal 4 junto a Kevin y Lucía como integrante de Los Cruzados.
 
 
 ## Registro añadido — Piso 2B
@@ -142,8 +142,3 @@ La revisión individual reconoce a Tomás como **Competente (rango 2) en combate
 
 No se le asigna rango avanzado: aún debe demostrar adaptación más amplia, consistencia bajo presión significativa y control de sus impulsos cuando intenta proteger a otros.
 
-### Piso 3F — Superación general y salida (APROBADO)
-
-- Cruzó la puerta blanca junto a Kevin y Lucía como integrante de Los Cruzados y entró al Piso Principal 4.
-- Recibió restauración corporal al entrar al nuevo Piso Principal. Sus pertenencias no fueron reemplazadas; no se detallan cambios de equipo.
-- No consta elección ni recepción de la recompensa por completar el Piso 3. La experiencia acumulada con boxeo y maza se conserva; no se concede un rango adicional por completar la prueba.
