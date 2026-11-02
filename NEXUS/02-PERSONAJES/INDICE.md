@@ -6,7 +6,7 @@ Este directorio conserva el estado vigente de los personajes con relevancia para
 
 ## Fichas individuales
 
-### Personajes confirmados en la historia hasta el inicio del desafío del Piso 2
+### Personajes confirmados en la historia hasta el inicio del desafío del Piso 3
 
 - [Kevin](KEVIN.md) — personaje central; seguimiento detallado.
 - [Lucía](LUCIA.md) — personaje recurrente; seguimiento de conocimientos de cuidado, decisiones y evolución.
@@ -48,6 +48,13 @@ La progresión se registra por separado en sus dimensiones: condición física, 
 La ausencia de un personaje durante uno o varios pisos no significa que haya permanecido inactivo o estancado. Puede haber aprendido, entrenado, cambiado de objetivos o sufrido consecuencias fuera de la perspectiva de Kevin. Sin embargo, no se inventarán acontecimientos concretos fuera de escena como hechos confirmados. Cuando su evolución se establezca, se documentará su causa, el periodo y la evidencia disponible; al reaparecer, se conservará todo progreso confirmado.
 
 Las fichas no sustituyen al historial: el historial registra los acontecimientos que justifican los cambios; la ficha conserva el estado vigente resultante. El Sistema de Combate, Recuperación y Recompensas mantiene los datos especializados que le corresponden, sin duplicar su evaluación completa en la ficha.
+
+### Nuevos personajes recurrentes introducidos en el Piso 3
+
+- [Gabriel](GABRIEL.md) — integrante de La Cuadrilla; experiencia coordinando equipos de trabajo.
+- [Nuria](NURIA.md) — integrante de La Cuadrilla; primeros auxilios básicos como voluntaria.
+- [Bruno](BRUNO.md) — integrante de La Cuadrilla; experiencia en mantenimiento y observación práctica.
+- [Maia](MAIA.md) — integrante de La Cuadrilla; comunicación y resolución de problemas entre personas.
 
 ## Grupos
 
