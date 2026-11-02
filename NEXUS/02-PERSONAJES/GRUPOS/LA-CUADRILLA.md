@@ -21,3 +21,8 @@ Party orientada a comunicación, coordinación y apoyo mutuo. Gabriel aporta exp
 
 ## Límites del registro
 La cohesión y eficacia de La Cuadrilla deberán demostrarse en situaciones reales. El registro colectivo no sustituye las fichas individuales ni determina automáticamente el progreso de cada integrante.
+
+
+## Piso 3B — Primeros contactos
+
+La Cuadrilla y los otros seis integrantes de su contingente tuvieron contacto con tres Saltadores de cantera. Las criaturas cambiaron rápidamente de plataforma y nivel. Gabriel pidió mantener la posición y no perseguirlas, pero reaccionó tarde ante un cambio de dirección y el grupo perdió brevemente su distribución; después ordenó reagruparse en una plataforma más amplia. Bruno señaló la dificultad de vigilar todas las plataformas desde una sola posición. Maia avisó de movimientos laterales, aunque reconoció que los avisos debían llegar antes. Nuria comprobó al grupo; un participante anónimo tenía una marca en la protección de la pierna, podía caminar y negó impacto directo, sin lesión confirmada. Los Saltadores permanecen activos. La Cuadrilla mostró comunicación y capacidad inicial de reorganización, pero la coordinación sigue siendo imperfecta. No se confirman bajas, lesiones de sus cuatro integrantes, uso de Recuperación, técnicas nuevas ni rangos nuevos.
