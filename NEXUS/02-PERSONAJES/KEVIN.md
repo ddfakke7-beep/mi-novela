@@ -131,3 +131,9 @@ En el Bosque de Columnas, Kevin sostuvo la lanza para controlar la distancia ant
 - Usó la lanza para forzar una corrección de trayectoria de la élite cuando esta se dirigía hacia Tomás. No se confirma daño ni una ejecución técnica nueva.
 - Su aportación fue una decisión táctica concreta apoyada por la guía de coordinación que está estudiando; no demuestra liderazgo estable ni dominio táctico.
 - No se confirma lesión propia, uso de Recuperación, cambio de equipo, técnica nueva ni aumento de rango.
+
+
+### Piso 3E — Despeje de cada sector (APROBADO)
+
+- Participó en el enfrentamiento final contra el Quebrantahileras, usando la lanza para buscar aperturas laterales y retirándose cuando la criatura respondió. Su intervención fue coordinada con los movimientos de sus compañeros; no controló por sí solo el combate.
+- La experiencia amplía su práctica de posicionamiento y apoyo en combate grupal, pero no acredita técnica nueva, ejecución fiable ni aumento de rango. No se confirma lesión propia ni uso de Recuperación.
