@@ -97,3 +97,10 @@ En el primer intento con cérvidos, Tomás se movió antes de que el grupo tuvie
 ## Piso 2D — Adaptación de la cacería
 
 El dolor del antebrazo había disminuido desde 2C, aunque persistía. Conservaba movilidad y participó en la etapa; no se confirma lesión concreta ni recuperación completa. Durante el enfrentamiento con un cérvido esperó a que pasara y lo golpeó desde un lateral con su maza. La presa terminó abatida y fue registrada como válida para Los Cruzados. Esta decisión más contenida no acredita técnica nueva ni aumento de rango. No se confirma uso de Recuperación ni cambio de equipo. Cuota de Los Cruzados: 1/3.
+
+
+## Piso 3 — Piso Principal: formación y preparación
+
+Al entrar al Piso Principal del Piso 3, la restauración corporal eliminó el dolor residual del antebrazo. Durante la preparación, Tomás atendió y eligió sus oportunidades de recompensa pendientes; la narración no especifica los contenidos concretos. Practicó con la maza, trabajando control del arma, equilibrio y recuperación de posición después de los golpes. También practicó con Kevin y Lucía avisos, distancias y prevención de interferencias. No se acredita técnica nueva ni aumento de rango de maza.
+
+Su experiencia previa de boxeo y los enfrentamientos/cacerías de los Pisos 1 y 2 le proporcionan una base práctica de combate, superior a la de un principiante absoluto en combate sin armas. Esa experiencia no se transfiere automáticamente al manejo de la maza ni lo convierte en experto frente a criaturas. Entra al Piso 3 con una activación de Recuperación disponible; no se confirma uso ni lesión nueva.
