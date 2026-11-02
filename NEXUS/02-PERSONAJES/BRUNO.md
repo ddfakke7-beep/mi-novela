@@ -32,3 +32,8 @@ Equipo exacto, disciplina de combate, rango, técnicas, elección concreta de re
 ## Piso 3B — Primeros contactos
 
 Durante el contacto con Saltadores de cantera, Bruno observó que los cambios de altura impedían vigilar todas las plataformas desde una sola posición. Comunicó esa limitación al contingente, aportando una lectura práctica del terreno. No se acredita reparación, técnica nueva ni rango de combate. Sin lesión confirmada ni uso de Recuperación.
+
+
+## Piso 3C — La élite y sus acompañantes
+
+En la Cantera Escalonada, Bruno señaló que la distribución de plataformas dificultaba vigilar todos los niveles desde una sola posición. Durante el enfrentamiento con el Rompecrestas y los Saltadores de cantera, insistió en recuperar una posición más amplia y en no abandonar los laterales para seguir a la élite. Su observación contribuyó a la reorganización del contingente; no acredita capacidad de combate especializada, técnica nueva ni aumento de rango. No se confirma lesión propia ni uso de Recuperación.
