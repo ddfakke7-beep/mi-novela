@@ -111,3 +111,9 @@ Durante el encuentro con los Rastreros de tronco, Lucía avisó de movimientos y
 ## Piso 3C — La élite y sus acompañantes
 
 En el Bosque de Columnas, Lucía avisó de la aparición y los movimientos de los Rastreros de tronco mientras el contingente enfrentaba al Quebrantahileras. Mantuvo atención sobre los flancos y apoyó la decisión de retroceder juntos para evitar quedar divididos. Su contribución fue de observación, comunicación y apoyo situacional; no se acredita técnica sanitaria nueva, dominio táctico ni aumento de rango. No se confirma lesión propia ni uso de Recuperación.
+
+### Piso 3D — Coordinación y corrección (APROBADO)
+
+- Avisó de la presencia de un Rastrero de tronco por el lateral durante el enfrentamiento del Bosque, permitiendo que el contingente atendiera esa amenaza.
+- Su intervención fue de observación y comunicación situacional; no se confirma técnica sanitaria nueva ni cambio de rango.
+- No se confirma lesión propia ni uso de Recuperación.
