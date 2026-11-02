@@ -28,7 +28,7 @@ No crear una ficha por cada cooperación ocasional. No se debe asumir que el Sis
 - **Dinámica y límites:** no se ha establecido líder obligatorio, bonificación, penalización ni garantía por pertenecer al grupo. La cohesión, distribución de funciones y resultados deben demostrarse en la narración.
 
 
-### La Cuadrilla
+### [La Cuadrilla](LA-CUADRILLA.md)
 
 - **Estado:** party reconocida por el Sistema.
 - **Formalización:** durante las 24 horas de preparación del Piso 3, mediante invitación y aceptación expresa.
