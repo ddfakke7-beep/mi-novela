@@ -354,3 +354,19 @@ Los tres sectores siguen activos y sus criaturas menores observadas continúan d
 - No se narran lesiones concretas nuevas, usos de Recuperación, cambios de equipo, elecciones/recepciones de recompensas del Piso 3, técnicas nuevas ni aumentos de rango.
 - Los Cruzados y La Cuadrilla conservan sus composiciones y siguen siendo parties independientes; no se establece alianza formal.
 - Piso 3 queda completado. Siguiente escenario narrativo: Piso Principal 4, según su diseño aprobado.
+
+
+## Revisión retrospectiva de progresión — cierre del Piso 3 (APROBADA)
+
+Esta revisión corrige la evaluación demasiado conservadora que había dejado a varios personajes descritos como si su experiencia acumulada no hubiera producido una base práctica. No añade acontecimientos narrativos ni concede avances por completar el piso: evalúa las experiencias y prácticas ya aprobadas conforme a los Sistemas de Progresión y Combate.
+
+- **Kevin:** manejo de lanza actualizado a rango 2 — Competente. La guía principiante fue practicada y seguida por uso repetido en situaciones reales durante los Pisos 2 y 3: control de distancia, interposición, desplazamiento ante cargas, ataque efectivo a un cérvido, corrección de ángulos y búsqueda de aperturas. No es avanzado ni experto.
+- **Tomás:** combate sin armas/boxeo reconocido en rango 2 — Competente por varios años de práctica amateur; maza corta reconocida en rango 2 — Competente por práctica y aplicación repetida durante los Pisos 2 y 3, incluidos golpes efectivos contra criaturas menores y participación reiterada contra el Quebrantahileras. No se transfieren fundamentos entre disciplinas ni se le asigna rango avanzado.
+- **Lucía:** se registra una base práctica elemental de combate y supervivencia tras los desafíos superados, además de observación, comunicación de flancos y apoyo situacional. No se asigna rango formal a la lanza corta porque la evidencia aprobada no demuestra aún ejecución técnica repetible.
+- **Gabriel:** se registra una base práctica elemental de combate y supervivencia. Su mejora demostrada en el Piso 3 corresponde a coordinación situacional: referencias espaciales más claras, delegación y ajuste de distribución bajo presión. No se asigna rango formal de arma.
+- **Nuria:** se registra una base práctica elemental de combate y supervivencia. Sus fortalezas demostradas siguen siendo primeros auxilios básicos, observación del estado de otros y prudencia al comprobar si pueden continuar. No se asigna rango formal de arma.
+- **Bruno:** se registra una base práctica elemental de combate y supervivencia. Su contribución demostrada se concentra en observación práctica del terreno, plataformas, accesos y posiciones controlables. No se asigna rango formal de arma.
+- **Maia:** se registra una base práctica elemental de combate y supervivencia. Su comunicación bajo presión mejoró situacionalmente al adaptar avisos a referencias espaciales claras. No se asigna rango formal de arma.
+- La base práctica elemental común no significa que todos tengan el mismo dominio técnico ni reemplaza la evaluación individual por disciplina. Tampoco se debe escribir a los supervivientes de desafíos previos como indefensos o como principiantes absolutos ante cualquier amenaza.
+- Los registros de Damián, Iván y Sara no se modifican con esta revisión: sus especialidades previas y experiencias confirmadas se mantienen, pero no se atribuyen avances adicionales en Pisos 3 sin evidencia individual narrada suficiente.
+
