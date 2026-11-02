@@ -37,3 +37,10 @@ Durante el encuentro con Saltadores de cantera, Nuria se mantuvo atenta a la seg
 ## Piso 3C — La élite y sus acompañantes
 
 En la Cantera Escalonada, Nuria se mantuvo atenta al estado de los integrantes del contingente durante el enfrentamiento con el Rompecrestas. Cuando un participante cayó de rodillas, avanzó un paso y pidió que le dieran espacio; más tarde comprobó si podía continuar, sin presionarlo para volver al frente de inmediato. No se confirma una lesión concreta del participante ni fue descrito un tratamiento. La actuación aplica prudencia y observación inicial; no acredita técnica clínica nueva ni rango de combate. No se confirma lesión propia ni uso de Recuperación.
+
+
+### Piso 3F — Superación general y salida (APROBADO)
+
+- Cruzó la puerta blanca junto a Gabriel, Bruno y Maia como integrante de La Cuadrilla y entró al Piso Principal 4.
+- Recibió restauración corporal al entrar al nuevo Piso Principal. No se detallan cambios de equipo ni de pertenencias.
+- No consta elección ni recepción de la recompensa por completar el Piso 3. Sin técnica nueva ni aumento de rango.
