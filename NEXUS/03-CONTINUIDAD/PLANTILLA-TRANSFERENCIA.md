@@ -71,3 +71,18 @@ Marcar cada ámbito como **actualizado**, **revisado sin cambios** o **pendiente
 - Archivos modificados y verificados:
 
 **Regla:** esta transferencia es un índice operativo. Si un dato necesita precisión, consultar su documento propietario. No utilizar esta plantilla para convertir propuestas en hechos.
+
+
+## Transferencia vigente — cierre del Piso Principal 3
+
+- **Piso:** 3.
+- **Etapa:** desafío iniciado; pendiente Etapa A — Distribución y reconocimiento.
+- **Último hecho aprobado:** tras 24 horas de preparación, los participantes fueron trasladados al área del desafío. Último aviso: «DISTRIBUCIÓN DE CONTINGENTES OPERATIVOS EN PROCESO».
+- **Parties:** Los Cruzados (Kevin, Lucía, Tomás); La Cuadrilla (Gabriel, Nuria, Bruno, Maia). No hay alianza formal entre ambas.
+- **Objetivo y plazo:** despejar los tres sectores y derrotar en cada uno una élite y todas las hostiles asociadas; 120 horas. Fracaso por vencimiento: persecución de participantes dentro del área y salida bloqueada cuatro horas.
+- **Recompensas:** Kevin recibió guía Principiante de coordinación de combate en equipo por el Piso 2. Lucía y Tomás eligieron y recibieron contenidos de sus oportunidades pendientes; opciones concretas desconocidas/no detalladas.
+- **Progresión:** todos los personajes recurrentes que han sobrevivido a desafíos previos tienen base práctica de combate en distinto grado. No equivale a rango formal ni especialización. Registrar aprendizajes y evidencia individual; no asumir que solo Kevin entrena.
+- **Preparación:** Kevin practicó lanza y revisó guía; Tomás practicó maza; Lucía trabajó familiarización con equipo y criterio de atención/Recuperación; los Cruzados practicaron comunicación y distancias. La Cuadrilla también practicó según sus perfiles.
+- **Recuperación:** Kevin, Lucía y Tomás disponen de una activación para Piso 3; no se confirma uso. Los integrantes de La Cuadrilla también cuentan con la activación correspondiente a este Piso Principal; sin uso narrado.
+- **Desconocido:** asignación de contingentes, composición de cada contingente, ubicación inicial exacta de La Cuadrilla y demás participantes, primer contacto con criaturas y cualquier lesión o baja.
+- **Siguiente paso permitido:** narrar Piso 3A sin anticipar resultados ni revelar información que los personajes todavía no han observado.
