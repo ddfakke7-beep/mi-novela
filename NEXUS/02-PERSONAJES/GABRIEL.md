@@ -15,8 +15,8 @@ Sereno y claro al comunicar. Tiene experiencia coordinando equipos de trabajo. E
 
 ## Capacidades y límites
 - Coordinación laboral y comunicación clara.
-- No posee dominio formal de combate establecido. Como participante que ha sobrevivido a desafíos anteriores, cuenta con una base práctica elemental para defenderse y utilizar equipo en situaciones de peligro; no es experto ni combatiente especializado.
-- No se han establecido rangos de dominio ni técnicas de combate concretas.
+- Como participante que ha superado desafíos anteriores, cuenta con una base práctica elemental de combate y supervivencia: no es indefenso ni un principiante absoluto frente al peligro. No se ha establecido todavía una disciplina de arma con rango formal; su experiencia de coordinación laboral no equivale a dominio técnico de combate.
+- No se han establecido rangos de dominio ni técnicas de combate concretas. La evaluación formal de un arma concreta queda pendiente de evidencia individual.
 - Su capacidad de coordinación no garantiza que sus decisiones sean correctas ni que los demás las sigan.
 
 ## Progresión — Piso 3
@@ -49,3 +49,17 @@ En la Cantera Escalonada, Gabriel intentó distribuir funciones ante el Rompecre
 
 - En la Cantera ajustó la distribución del contingente, delegó la vigilancia de niveles y evitó concentrar a todos en una sola amenaza. La comunicación y respuesta mejoraron, aunque no fueron perfectas.
 - Es una aplicación más eficaz de coordinación bajo presión, no dominio táctico estable ni liderazgo infalible. No se confirma lesión propia ni uso de Recuperación.
+
+
+### Piso 3F — Superación general y salida (APROBADO)
+
+- Cruzó la puerta blanca junto a Nuria, Bruno y Maia como integrante de La Cuadrilla y entró al Piso Principal 4.
+- Recibió restauración corporal al entrar al nuevo Piso Principal. No se detallan cambios de equipo ni de pertenencias.
+- No consta elección ni recepción de la recompensa por completar el Piso 3. Su experiencia práctica de combate y coordinación se conserva; no se asigna rango de arma sin evidencia específica.
+
+## Revisión de progresión — cierre del Piso 3 (APROBADO)
+
+Gabriel no debe tratarse como alguien sin experiencia ante el peligro: ha sobrevivido a desafíos previos y participó en varios enfrentamientos reales durante el Piso 3. Su desarrollo más claro está en coordinación bajo presión: pasó de dar indicaciones que podían confundirse a usar referencias espaciales concretas, delegar y ajustar la distribución cuando el plan inicial falló. Es una mejora situacional demostrada, todavía imperfecta; no equivale a dominio de combate ni a liderazgo infalible.
+
+No se asigna un rango formal de arma porque la narración no identifica una disciplina personal practicada ni evidencia suficiente de ejecución técnica repetible.
+
