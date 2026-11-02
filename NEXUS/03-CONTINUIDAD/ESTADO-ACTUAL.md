@@ -1,6 +1,6 @@
 # Continuidad — estado actual
 
-**Estado: narración en curso. Último tramo aprobado: Piso 3C — La élite y sus acompañantes.**
+**Estado: narración en curso. Último tramo aprobado: Piso 3D — Coordinación y corrección.**
 
 - **Piso actual:** Piso 3; desafío activo.
 - **Objetivo:** despejar los tres sectores designados (Bosque de Columnas, Cantera Escalonada y Cuenca de Juncos), derrotando en cada uno una élite y todas las criaturas hostiles asociadas.
@@ -20,7 +20,7 @@
 - **Participantes anónimos:** en el Bosque, el hombre del escudo fue empujado varios pasos; en la Cantera, un participante cayó de rodillas y se levantó; en la Cuenca, uno cayó sobre una rodilla y se levantó. No hay lesión concreta confirmada. No atribuir estas incidencias a personajes con ficha.
 - **Recuperación y equipo:** no se confirma uso de Recuperación, lesión propia de los siete personajes nombrados, daño estructural de equipo ni cambio de equipo.
 - **Progresión:** no se acredita técnica nueva, ejecución fiable ni aumento de rango para ningún personaje.
-- **Siguiente etapa:** Piso 3D — Coordinación y corrección. Mantener separados los estados de los tres frentes; no asumir que avanzarán al mismo ritmo.
+- **Siguiente etapa:** Piso 3E — Despeje de cada sector. Mantener separados los estados de los tres frentes; ningún sector está despejado.
 
 
 ---
