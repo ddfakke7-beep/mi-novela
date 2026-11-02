@@ -27,3 +27,8 @@ Integrante de La Cuadrilla junto a Gabriel, Nuria y Maia.
 
 ## Desconocidos
 Equipo exacto, disciplina de combate, rango, técnicas, elección concreta de recompensa y alcance de su experiencia en mantenimiento.
+
+
+## Piso 3B — Primeros contactos
+
+Durante el contacto con Saltadores de cantera, Bruno observó que los cambios de altura impedían vigilar todas las plataformas desde una sola posición. Comunicó esa limitación al contingente, aportando una lectura práctica del terreno. No se acredita reparación, técnica nueva ni rango de combate. Sin lesión confirmada ni uso de Recuperación.
