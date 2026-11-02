@@ -15,8 +15,8 @@ Comunicativa, perspicaz y sociable sin ser ingenua. Su experiencia atendiendo al
 
 ## Capacidades y límites
 - Comunicación interpersonal y experiencia atendiendo al público.
-- Como participante que ha sobrevivido a desafíos anteriores, cuenta con una base práctica elemental de combate y uso defensivo de equipo; no es combatiente experta.
-- No se han establecido rangos de dominio ni técnicas concretas.
+- Como participante que ha superado desafíos anteriores, cuenta con una base práctica elemental de combate y supervivencia: no es indefensa ni una principiante absoluta ante el peligro. No es combatiente especializada.
+- No se han establecido rangos de dominio ni técnicas concretas. No se asigna rango formal a un arma sin evidencia individual suficiente.
 - La habilidad social no garantiza que pueda mediar en cualquier situación ni leer correctamente todas las intenciones.
 
 ## Progresión — Piso 3
@@ -56,3 +56,11 @@ En la Cantera Escalonada, Maia avisó de los movimientos de Saltadores de canter
 - Cruzó la puerta blanca junto a Gabriel, Nuria y Bruno como integrante de La Cuadrilla y entró al Piso Principal 4.
 - Recibió restauración corporal al entrar al nuevo Piso Principal. No se detallan cambios de equipo ni de pertenencias.
 - No consta elección ni recepción de la recompensa por completar el Piso 3. Sin técnica nueva ni aumento de rango.
+
+
+## Revisión de progresión — cierre del Piso 3 (APROBADO)
+
+Maia conserva una base práctica elemental de combate y supervivencia por haber superado desafíos anteriores. Durante el Piso 3 comunicó movimientos de criaturas desde distintos niveles y corrigió sus avisos cuando el grupo estableció referencias espaciales más claras. Su capacidad de comunicación bajo presión mejoró de forma situacional, aunque al principio sus mensajes simultáneos contribuyeron a confundir prioridades. Esto no equivale a dominio táctico ni a mediación infalible.
+
+No se asigna un rango formal de arma porque las escenas aprobadas no muestran una disciplina individual ni ejecución técnica repetible suficiente. No debe escribirse como indefensa o ajena a la experiencia de combate.
+
