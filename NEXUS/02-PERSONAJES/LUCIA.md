@@ -106,3 +106,8 @@ Su experiencia acumulada en los desafíos anteriores le da una base práctica de
 ## Piso 3B — Primeros contactos
 
 Durante el encuentro con los Rastreros de tronco, Lucía avisó de movimientos y cambios de flanco y pidió que no perdieran de vista a los laterales. Después comprobó brevemente el estado de un participante anónimo que refería molestia en el brazo y conservaba movilidad; recomendó vigilar si empeoraba. No hizo diagnóstico ni tratamiento. La actuación demuestra comunicación y criterio inicial de apoyo en una situación de combate, no técnica clínica nueva ni aumento de rango. Sin lesión propia ni uso de Recuperación.
+
+
+## Piso 3C — La élite y sus acompañantes
+
+En el Bosque de Columnas, Lucía avisó de la aparición y los movimientos de los Rastreros de tronco mientras el contingente enfrentaba al Quebrantahileras. Mantuvo atención sobre los flancos y apoyó la decisión de retroceder juntos para evitar quedar divididos. Su contribución fue de observación, comunicación y apoyo situacional; no se acredita técnica sanitaria nueva, dominio táctico ni aumento de rango. No se confirma lesión propia ni uso de Recuperación.
