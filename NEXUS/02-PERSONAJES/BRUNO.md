@@ -15,8 +15,8 @@ Paciente, observador y de pocas palabras. Tiene experiencia en mantenimiento, qu
 
 ## Capacidades y límites
 - Observación práctica y experiencia de mantenimiento.
-- Como participante que ha sobrevivido a desafíos anteriores, cuenta con una base práctica elemental de combate y uso defensivo de equipo; no es combatiente experto.
-- No se han establecido rangos de dominio ni técnicas concretas.
+- Como participante que ha superado desafíos anteriores, cuenta con una base práctica elemental de combate y supervivencia: no es indefenso ni un principiante absoluto ante el peligro. No es combatiente especializado.
+- No se han establecido rangos de dominio ni técnicas concretas. No se asigna rango formal a un arma sin evidencia individual suficiente.
 - No puede asumirse que pueda reparar cualquier equipo, estructura o mecanismo.
 
 ## Progresión — Piso 3
@@ -49,3 +49,17 @@ En la Cantera Escalonada, Bruno señaló que la distribución de plataformas dif
 
 - Durante el enfrentamiento en la Cantera señaló los límites de posición y los accesos, advirtiendo contra perseguir a las criaturas y perder la plataforma controlable.
 - Su observación contribuyó a mantener la posición del contingente; no acredita capacidad de ingeniería, técnica de combate nueva ni aumento de rango. No se confirma lesión propia ni uso de Recuperación.
+
+
+### Piso 3F — Superación general y salida (APROBADO)
+
+- Cruzó la puerta blanca junto a Gabriel, Nuria y Maia como integrante de La Cuadrilla y entró al Piso Principal 4.
+- Recibió restauración corporal al entrar al nuevo Piso Principal. No se detallan cambios de equipo ni de pertenencias.
+- No consta elección ni recepción de la recompensa por completar el Piso 3. Su experiencia práctica de supervivencia y observación se conserva; no se asigna rango de arma sin evidencia específica.
+
+## Revisión de progresión — cierre del Piso 3 (APROBADO)
+
+Bruno conserva una base práctica elemental de combate y supervivencia por haber atravesado desafíos anteriores. En el Piso 3 aportó observación concreta del terreno, las plataformas, los accesos y las posiciones controlables. Estas capacidades apoyaron la seguridad del contingente, pero no constituyen dominio de ingeniería ni prueban una disciplina de combate especializada.
+
+No se asigna un rango formal de arma porque no hay evidencia suficiente de práctica individual y ejecución técnica repetible. No debe escribirse como alguien indefenso ante una amenaza.
+
