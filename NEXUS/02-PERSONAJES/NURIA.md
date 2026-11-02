@@ -27,3 +27,8 @@ Integrante de La Cuadrilla junto a Gabriel, Bruno y Maia. Conversó con Lucía d
 
 ## Desconocidos
 Equipo exacto, disciplina de combate, rango, técnicas, elección concreta de recompensa y límites de su experiencia práctica más allá de primeros auxilios básicos.
+
+
+## Piso 3B — Primeros contactos
+
+Durante el encuentro con Saltadores de cantera, Nuria se mantuvo atenta a la seguridad del grupo y comprobó si alguien había recibido un golpe importante. Un participante anónimo tenía una marca en la protección de la pierna, podía caminar y afirmó que no recibió impacto directo; no se confirmó lesión ni fue necesario un tratamiento. No se acredita técnica clínica nueva ni rango de combate. Sin lesión propia ni uso de Recuperación.
