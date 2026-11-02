@@ -1,26 +1,25 @@
 # Continuidad — estado actual
 
-**Estado: narración en curso. Último tramo aprobado: Piso 3D — Coordinación y corrección.**
+**Estado: narración en curso. Último tramo aprobado: Piso 3E — Despeje de cada sector.**
 
-- **Piso actual:** Piso 3; desafío activo.
-- **Objetivo:** despejar los tres sectores designados (Bosque de Columnas, Cantera Escalonada y Cuenca de Juncos), derrotando en cada uno una élite y todas las criaturas hostiles asociadas.
-- **Plazo y salida:** 120 horas desde el inicio. Si vence sin cumplir el objetivo, las criaturas perseguirán a quienes permanezcan en el área y la salida quedará bloqueada cuatro horas. La puerta blanca está al norte.
-- **Contingente 1 — Bosque de Columnas:** Kevin, Lucía y Tomás más siete participantes anónimos. Han encontrado al **Quebrantahileras**, acompañado por Rastreros de tronco. La élite y los Rastreros siguen activos. El contingente retrocedió junto hacia un claro más amplio.
-- **Contingente 2 — Cantera Escalonada:** Gabriel, Nuria, Bruno y Maia más seis participantes anónimos. Han encontrado al **Rompecrestas**, acompañado por Saltadores de cantera. La élite y los Saltadores siguen activos. El contingente se reorganizó en una plataforma más amplia.
-- **Contingente 3 — Cuenca de Juncos:** diez participantes anónimos. Han encontrado a la **Mandíbula de la Cuenca**, acompañada por Mordedores de ribera. La élite y los Mordedores siguen activos. El contingente retrocedió a terreno firme.
-- **Parties:** Los Cruzados (Kevin, Lucía y Tomás) y La Cuadrilla (Gabriel, Nuria, Bruno y Maia) siguen siendo parties independientes. Los contingentes son responsabilidades temporales, no nuevas parties. No existe alianza formal entre ambas.
-- **Estado del desafío:** ninguna élite ha sido derrotada y ningún sector está despejado. No se confirma muerte, baja ni eliminación de criaturas.
-- **Kevin:** la punta de su lanza tocó el costado del Quebrantahileras, sin daño confirmado. Pidió mantener espacio, cubrir al participante del escudo y retroceder juntos. La guía de coordinación sigue siendo conocimiento en desarrollo, no dominio.
-- **Lucía:** avisó de los movimientos de los Rastreros y vigiló los flancos. Sin lesión propia confirmada.
-- **Tomás:** golpeó con la maza una extremidad del Quebrantahileras; la criatura cambió ligeramente el apoyo, pero no cayó. Sin lesión propia confirmada.
-- **Gabriel:** intentó distribuir funciones y reorganizar al contingente de la Cantera; la coordinación fue imperfecta.
-- **Nuria:** vigiló el estado del grupo y comprobó al participante que cayó de rodillas, sin tratamiento ni lesión concreta confirmados.
-- **Bruno:** señaló las limitaciones de visibilidad entre plataformas y apoyó la reorganización.
-- **Maia:** avisó movimientos de Saltadores desde distintos niveles; los avisos simultáneos generaron una breve confusión.
-- **Participantes anónimos:** en el Bosque, el hombre del escudo fue empujado varios pasos; en la Cantera, un participante cayó de rodillas y se levantó; en la Cuenca, uno cayó sobre una rodilla y se levantó. No hay lesión concreta confirmada. No atribuir estas incidencias a personajes con ficha.
-- **Recuperación y equipo:** no se confirma uso de Recuperación, lesión propia de los siete personajes nombrados, daño estructural de equipo ni cambio de equipo.
-- **Progresión:** no se acredita técnica nueva, ejecución fiable ni aumento de rango para ningún personaje.
-- **Siguiente etapa:** Piso 3E — Despeje de cada sector. Mantener separados los estados de los tres frentes; ningún sector está despejado.
+- **Piso actual:** Piso 3; los tres sectores del desafío están despejados, pero la prueba aún no ha sido declarada completada.
+- **Objetivo:** los tres contingentes derrotaron en sus respectivos sectores a la élite y a todas las criaturas hostiles designadas.
+- **Plazo y salida:** plazo anunciado de 120 horas; puerta blanca al norte. Aún no aparece «Prueba completada» ni la instrucción final de dirigirse a la salida.
+- **Bosque de Columnas:** Kevin, Lucía y Tomás más siete anónimos eliminaron al Quebrantahileras y a todos los Rastreros designados. Sistema confirmó el sector despejado.
+- **Cantera Escalonada:** Gabriel, Nuria, Bruno y Maia más seis anónimos eliminaron al Rompecrestas y a todos los Saltadores designados. Sistema confirmó el sector despejado.
+- **Cuenca de Juncos:** diez anónimos eliminaron a la Mandíbula de la Cuenca y a todos los Mordedores designados. Sistema confirmó el sector despejado.
+- **Parties:** Los Cruzados y La Cuadrilla siguen siendo parties independientes. Los contingentes fueron responsabilidades temporales; no existe alianza formal entre ambas.
+- **Kevin:** intervino contra el Quebrantahileras con la lanza, buscando aperturas laterales y retirándose ante sus respuestas. Coordinación y ejecución siguen en desarrollo; sin técnica nueva ni aumento de rango.
+- **Lucía:** avisó de un Rastrero lateral y vigiló flancos. Sin lesión propia confirmada.
+- **Tomás:** atacó repetidamente al Quebrantahileras con la maza, aprovechando cambios de apoyo. Experiencia práctica ampliada; sin técnica nueva ni aumento de rango.
+- **Gabriel:** ajustó la distribución y delegó la vigilancia de niveles ante el Rompecrestas. Sin dominio táctico estable.
+- **Nuria:** vigiló y comprobó el estado de participantes antes de continuar; sin diagnóstico, tratamiento ni técnica clínica nueva.
+- **Bruno:** señaló límites de posición y accesos de la Cantera.
+- **Maia:** comunicó movimientos con referencias espaciales claras.
+- **Participantes anónimos:** participaron en los tres despejes; no se establecen identidades, lesiones concretas ni bajas humanas.
+- **Recuperación y equipo:** no se confirma uso de Recuperación, lesión propia de personajes nombrados, daño estructural ni cambio de equipo.
+- **Progresión:** no se acredita técnica nueva, ejecución fiable ni aumento de rango. Sí experiencia práctica y coordinación situacional, sin dominio estable.
+- **Siguiente etapa:** Piso 3F — finalización de la prueba y salida. No asumir transición automática.
 
 
 ---
