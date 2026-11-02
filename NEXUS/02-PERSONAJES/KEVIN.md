@@ -109,3 +109,9 @@ Kevin participó en dos intentos de caza de cérvidos. En el segundo, interpuso 
 ## Piso 2D — Adaptación de la cacería
 
 Participó en dos acercamientos a cérvidos. En el primero, la party retrocedió cuando el animal adoptó una postura defensiva. En el segundo, un cérvido cargó; Kevin se desplazó en diagonal e interpuso su lanza, cuyo asta recibió un roce de cuerno. Después alcanzó el costado del animal con la punta del arma. El cérvido fue abatido y el Sistema registró una presa válida para Los Cruzados. Fue una aplicación improvisada bajo presión; no acredita técnica funcional o fiable ni aumento de rango. No se confirma lesión propia, daño estructural de la lanza ni uso de Recuperación. Cuota de Los Cruzados: 1/3.
+
+## Piso 3 — Piso Principal: formación y preparación
+
+Kevin recibió la guía Principiante **Coordinación de combate en equipo** como recompensa del Piso 2. El contenido abarca comunicación, distribución de funciones, posicionamiento y apoyo mutuo. Comenzó a revisarlo, sin que ello equivalga a dominio táctico. Continuó practicando con la lanza: agarre, equilibrio, control del asta, desplazamientos y recuperación de posición. La ejecución sigue en desarrollo; no se acredita técnica nueva ni aumento de rango. Practicó con Lucía y Tomás avisos, distancias y prevención de interferencias. Entra al desafío del Piso 3 con su lanza marcada, sin daño estructural confirmado, y una activación de Recuperación disponible, no utilizada durante la preparación.
+
+Su experiencia en los desafíos anteriores le proporciona una base práctica de combate y supervivencia: ha utilizado la lanza bajo presión y ha participado en enfrentamientos reales. Esto no lo convierte en combatiente experto ni significa que domine todas las técnicas de lanza.
