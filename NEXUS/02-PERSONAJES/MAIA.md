@@ -49,3 +49,10 @@ En la Cantera Escalonada, Maia avisó de los movimientos de Saltadores de canter
 
 - Comunicó los movimientos de Saltadores con referencias espaciales más claras durante el enfrentamiento de la Cantera, facilitando que el contingente respondiera sin la confusión anterior.
 - Es una mejora situacional de comunicación bajo presión, no dominio táctico ni capacidad automática de mediación. No se confirma lesión propia ni uso de Recuperación.
+
+
+### Piso 3F — Superación general y salida (APROBADO)
+
+- Cruzó la puerta blanca junto a Gabriel, Nuria y Bruno como integrante de La Cuadrilla y entró al Piso Principal 4.
+- Recibió restauración corporal al entrar al nuevo Piso Principal. No se detallan cambios de equipo ni de pertenencias.
+- No consta elección ni recepción de la recompensa por completar el Piso 3. Sin técnica nueva ni aumento de rango.
