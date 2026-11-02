@@ -26,3 +26,14 @@ No crear una ficha por cada cooperación ocasional. No se debe asumir que el Sis
 - **Situación al inicio del desafío del Piso 2:** convocados como unidad y asignados a una cuota de tres presas válidas: un cérvido de espolón, un verraco de carrizo y un treparrocas cenizo.
 - **Relación con Los Cruzados:** competitiva; no se establece enemistad ni hostilidad obligatoria.
 - **Dinámica y límites:** no se ha establecido líder obligatorio, bonificación, penalización ni garantía por pertenecer al grupo. La cohesión, distribución de funciones y resultados deben demostrarse en la narración.
+
+
+### La Cuadrilla
+
+- **Estado:** party reconocida por el Sistema.
+- **Formalización:** durante las 24 horas de preparación del Piso 3, mediante invitación y aceptación expresa.
+- **Integrantes confirmados:** Gabriel, Nuria, Bruno y Maia.
+- **Inicio de reconocimiento:** Piso 3.
+- **Situación al inicio del desafío del Piso 3:** convocados como party de cuatro; aparecen juntos según las reglas generales de party.
+- **Identidad y dinámica:** formación orientada a comunicación, coordinación y apoyo mutuo. Gabriel aporta experiencia coordinando equipos de trabajo; Nuria, conocimientos básicos de primeros auxilios; Bruno, observación práctica relacionada con mantenimiento; Maia, comunicación y resolución de problemas entre personas. Estas fortalezas no garantizan coordinación perfecta ni dominio de combate.
+- **Límites:** no se establece líder obligatorio, bonificación, penalización ni alianza formal con Los Cruzados. Cada integrante conserva desarrollo y capacidades individuales.
