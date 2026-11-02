@@ -122,3 +122,13 @@ Marcar cada ámbito como **actualizado**, **revisado sin cambios** o **pendiente
 - Las caídas y molestias descritas corresponden a participantes anónimos; no atribuirlas a fichas individuales.
 - La coordinación sigue siendo inicial e imperfecta. Las criaturas menores y las élites permanecen activas; no asumir que los tres sectores avanzarán al mismo ritmo.
 - **Siguiente paso:** Etapa D — Coordinación y corrección, manteniendo los tres frentes y sus estados diferenciados.
+
+## Transferencia vigente — cierre de Piso 3D
+
+- **Piso/etapa:** Piso 3, Etapa D aprobada. Siguiente: Etapa E — Despeje de cada sector.
+- **Bosque de Columnas:** Los Cruzados (Kevin, Lucía y Tomás) más siete anónimos. Un Rastrero de tronco abatido; el Quebrantahileras y otros Rastreros siguen activos. Kevin propuso apoyo al participante del escudo y corrección de posiciones; Lucía avisó del Rastrero lateral; Tomás lo abatió con dos golpes de maza. No se confirma daño al Quebrantahileras.
+- **Cantera Escalonada:** La Cuadrilla (Gabriel, Nuria, Bruno y Maia) más seis anónimos. Un Saltador abatido; Rompecrestas y otros Saltadores siguen activos. Gabriel corrigió las referencias de comunicación; Bruno advirtió no perseguir fuera de la plataforma; Maia ajustó sus avisos. No se confirma lesión propia de personajes nombrados.
+- **Cuenca de Juncos:** diez anónimos. Un Mordedor abatido; Mandíbula de la Cuenca y otros Mordedores siguen activos.
+- **Estado general:** una criatura menor abatida en cada sector. Ninguna élite derrotada, ningún sector despejado ni aviso del Sistema de sector despejado. No se fijan cantidades exactas de criaturas restantes.
+- No se confirman bajas humanas, lesiones concretas, uso de Recuperación, daño estructural de equipo, técnicas nuevas ni aumento de rango. La coordinación mejoró situacionalmente, sin demostrar dominio estable.
+- Los Cruzados y La Cuadrilla siguen siendo parties independientes; los contingentes no se convierten en parties ni hay alianza formal.
