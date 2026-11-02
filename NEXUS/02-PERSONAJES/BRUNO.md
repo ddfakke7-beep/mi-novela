@@ -43,3 +43,9 @@ En la Cantera Escalonada, Bruno señaló que la distribución de plataformas dif
 - Advirtió que el contingente no debía abandonar la plataforma amplia para perseguir a las criaturas de la Cantera.
 - Su observación contribuyó a mantener una posición más controlable; no demuestra capacidades de ingeniería ni técnica de combate nueva.
 - No se confirma lesión propia ni uso de Recuperación.
+
+
+### Piso 3E — Despeje de cada sector (APROBADO)
+
+- Durante el enfrentamiento en la Cantera señaló los límites de posición y los accesos, advirtiendo contra perseguir a las criaturas y perder la plataforma controlable.
+- Su observación contribuyó a mantener la posición del contingente; no acredita capacidad de ingeniería, técnica de combate nueva ni aumento de rango. No se confirma lesión propia ni uso de Recuperación.
