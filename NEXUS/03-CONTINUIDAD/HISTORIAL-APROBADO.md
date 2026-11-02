@@ -341,3 +341,16 @@ Los tres sectores siguen activos y sus criaturas menores observadas continúan d
 - Los tres sectores están despejados. No se narran cantidades exactas ni bajas humanas. No se confirman lesiones concretas de personajes nombrados, uso de Recuperación, daño estructural de equipo, técnicas nuevas ni aumentos de rango.
 - La prueba aún no está declarada completada: no apareció «Prueba completada», no se narró la instrucción final de dirigirse a la salida ni se confirmó llegada o transición por la puerta blanca. Siguiente: Etapa F.
 - Los Cruzados y La Cuadrilla siguen siendo parties independientes; los contingentes fueron asignaciones temporales, sin alianza formal.
+
+
+## Piso 3F — Superación general y salida (APROBADO)
+
+- Con los tres sectores despejados, el Sistema anunció «Los tres sectores han sido despejados», «Objetivo general cumplido» y «Prueba completada». Después indicó: «Diríjanse a la salida del piso para realizar la transición».
+- Los participantes no fueron transportados automáticamente. Debían alcanzar la puerta blanca y aceptar la transición.
+- Los treinta participantes convocados llegaron a la zona de salida. No se narran bajas humanas. Los contingentes llegaron en momentos cercanos, pero no todos alcanzaron la puerta ni cruzaron al mismo instante.
+- Kevin, Lucía y Tomás cruzaron juntos como Los Cruzados. Gabriel, Nuria, Bruno y Maia cruzaron juntos como La Cuadrilla. Los demás participantes realizaron la transición individualmente o con sus parties reconocidas; no se establecen identidades ni composiciones adicionales.
+- La interfaz confirmó «Prueba del Piso 3: superada» y «Participantes vivos: transición disponible».
+- Los participantes que cruzaron entraron al Piso Principal 4. Recibieron restauración corporal conforme a las reglas; en Kevin, Lucía y Tomás se mostró el efecto de restauración y alivio del cansancio físico acumulado. La restauración no reparó ni reemplazó equipo o pertenencias: las marcas de la lanza de Kevin permanecieron.
+- No se narran lesiones concretas nuevas, usos de Recuperación, cambios de equipo, elecciones/recepciones de recompensas del Piso 3, técnicas nuevas ni aumentos de rango.
+- Los Cruzados y La Cuadrilla conservan sus composiciones y siguen siendo parties independientes; no se establece alianza formal.
+- Piso 3 queda completado. Siguiente escenario narrativo: Piso Principal 4, según su diseño aprobado.
