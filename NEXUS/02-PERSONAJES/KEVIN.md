@@ -119,3 +119,8 @@ Su experiencia en los desafíos anteriores le proporciona una base práctica de 
 ## Piso 3B — Primeros contactos
 
 Durante el primer contacto con tres Rastreros de tronco, Kevin comunicó que no debían perseguir a una criatura y pidió vigilar los flancos. Mantuvo la lanza para controlar distancia, pero el espacio entre árboles limitó el movimiento del asta; tuvo que corregir ángulos para no interferir con Tomás. No se confirma que alcanzara a una criatura. La experiencia refuerza su comprensión inicial de posicionamiento y comunicación bajo presión, pero no demuestra una técnica nueva ni ejecución fiable. Sin lesión confirmada ni uso de Recuperación.
+
+
+## Piso 3C — La élite y sus acompañantes
+
+En el Bosque de Columnas, Kevin sostuvo la lanza para controlar la distancia ante el Quebrantahileras. Durante el cambio de apoyo de la criatura, alcanzó a tocar su costado con la punta, pero tuvo que corregir el ángulo y no pudo confirmar que causara daño. Evitó intentar detener la carga de frente y pidió mantener espacio, cubrir al participante del escudo y retroceder juntos hacia un claro. También valoró el riesgo de dividir la atención entre la élite y los Rastreros de tronco. La guía principiante de coordinación le aporta conceptos útiles, pero su ejecución sigue en desarrollo: no se acredita técnica nueva, ejecución fiable ni aumento de rango. Sin lesión propia ni uso de Recuperación confirmados.
