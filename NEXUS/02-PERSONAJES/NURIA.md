@@ -32,3 +32,8 @@ Equipo exacto, disciplina de combate, rango, técnicas, elección concreta de re
 ## Piso 3B — Primeros contactos
 
 Durante el encuentro con Saltadores de cantera, Nuria se mantuvo atenta a la seguridad del grupo y comprobó si alguien había recibido un golpe importante. Un participante anónimo tenía una marca en la protección de la pierna, podía caminar y afirmó que no recibió impacto directo; no se confirmó lesión ni fue necesario un tratamiento. No se acredita técnica clínica nueva ni rango de combate. Sin lesión propia ni uso de Recuperación.
+
+
+## Piso 3C — La élite y sus acompañantes
+
+En la Cantera Escalonada, Nuria se mantuvo atenta al estado de los integrantes del contingente durante el enfrentamiento con el Rompecrestas. Cuando un participante cayó de rodillas, avanzó un paso y pidió que le dieran espacio; más tarde comprobó si podía continuar, sin presionarlo para volver al frente de inmediato. No se confirma una lesión concreta del participante ni fue descrito un tratamiento. La actuación aplica prudencia y observación inicial; no acredita técnica clínica nueva ni rango de combate. No se confirma lesión propia ni uso de Recuperación.
