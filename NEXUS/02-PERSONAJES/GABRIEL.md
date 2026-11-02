@@ -27,3 +27,8 @@ Integrante de La Cuadrilla junto a Nuria, Bruno y Maia. No se establece alianza 
 
 ## Desconocidos
 Equipo exacto, disciplina de combate, rango, técnicas, elección concreta de recompensa y conducta bajo combate real.
+
+
+## Piso 3B — Primeros contactos
+
+En la Cantera Escalonada, Gabriel coordinó inicialmente al contingente ante tres Saltadores de cantera. Avisó que no los persiguieran y pidió mantener la posición, pero reaccionó tarde cuando una criatura cambió de dirección y la distribución se desorganizó brevemente. Ordenó reagruparse en una plataforma más amplia. Es una primera experiencia de coordinación bajo presión con resultados mixtos; no demuestra liderazgo infalible ni dominio táctico. Sin lesión confirmada ni uso de Recuperación.
