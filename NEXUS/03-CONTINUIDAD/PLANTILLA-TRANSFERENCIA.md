@@ -86,3 +86,17 @@ Marcar cada ámbito como **actualizado**, **revisado sin cambios** o **pendiente
 - **Recuperación:** Kevin, Lucía y Tomás disponen de una activación para Piso 3; no se confirma uso. Los integrantes de La Cuadrilla también cuentan con la activación correspondiente a este Piso Principal; sin uso narrado.
 - **Desconocido:** asignación de contingentes, composición de cada contingente, ubicación inicial exacta de La Cuadrilla y demás participantes, primer contacto con criaturas y cualquier lesión o baja.
 - **Siguiente paso permitido:** narrar Piso 3A sin anticipar resultados ni revelar información que los personajes todavía no han observado.
+
+
+## Transferencia vigente — cierre de Piso 3A
+
+- **Piso/etapa:** Piso 3, Etapa A aprobada; siguiente Etapa B — Primeros contactos.
+- **Contingente 1 / Bosque de Columnas:** Kevin, Lucía y Tomás más siete participantes anónimos.
+- **Contingente 2 / Cantera Escalonada:** Gabriel, Nuria, Bruno y Maia más seis participantes anónimos.
+- **Contingente 3 / Cuenca de Juncos:** diez participantes anónimos.
+- Los contingentes son responsabilidades temporales, no parties. Los Cruzados y La Cuadrilla siguen siendo parties separadas; no existe alianza formal.
+- Acordaron avisos concretos y evitar separarse sin necesidad; no hay líderes ni funciones rígidas establecidas.
+- Solo se reconoce el terreno general. No se han observado criaturas ni rastros atribuibles al desafío. Kevin y su contingente llegan al primer tramo del Bosque de Columnas; los otros dos contingentes se dirigen a sus sectores.
+- No se confirman lesiones, bajas, uso de Recuperación, cambios de equipo, técnicas nuevas ni aumento de rango.
+- Los participantes supervivientes de desafíos previos poseen una base práctica de combate desigual, sin que esto implique rango o especialización formal.
+- **Siguiente paso:** primeros contactos con criaturas menores; información parcial y necesidad de mantener cohesión, según el diseño aprobado.
