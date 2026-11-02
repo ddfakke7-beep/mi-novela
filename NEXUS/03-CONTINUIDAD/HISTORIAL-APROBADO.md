@@ -266,3 +266,21 @@ Ninguna party capturó presas. Cuotas: Los Cruzados 0/3; Rastro Gris 0/3. No se 
 ## Piso 2D — Adaptación de la cacería (APROBADO)
 
 Los Cruzados abatieron un cérvido de espolón y el Sistema registró una presa válida. Cuota de Los Cruzados: 1/3; quedan pendientes un verraco de carrizo y un treparroca cenizo. Rastro Gris enfrentó a un verraco en terreno abierto, pero el animal se retiró sin ser capturado; cuota 0/3. Tomás indicó que el dolor del antebrazo había disminuido, aunque persistía; no se confirma lesión concreta ni recuperación completa. La lanza de Kevin presenta marcas, sin daño estructural confirmado. No se confirman lesiones nuevas, uso de Recuperación, cambios de equipo ni progreso de rango o técnica. La siguiente y última etapa es la Etapa E: todas las unidades convocadas deben completar sus cuotas; después, los participantes vivos deben alcanzar físicamente la puerta blanca.
+
+
+## Piso 3 — Piso Principal: Formación y preparación
+
+**Estado: APROBADO.**
+
+- Kevin, Lucía y Tomás entran al Piso Principal 3. La restauración corporal elimina el dolor residual del antebrazo de Tomás; el equipo se conserva y la lanza de Kevin mantiene la marca anterior.
+- El Sistema convoca a 30 participantes. Objetivo: despejar el Bosque de Columnas, la Cantera Escalonada y la Cuenca de Juncos, derrotando en cada sector una criatura de élite y todas las hostiles asociadas. Plazo: 120 horas. Si vence sin completar el objetivo, las criaturas perseguirán a quienes permanezcan en el área y la salida quedará bloqueada cuatro horas. La puerta blanca está al norte.
+- Gabriel, Nuria, Bruno y Maia formalizan expresamente **La Cuadrilla**, party reconocida de cuatro integrantes. Los Cruzados continúan como party independiente; no se formaliza alianza entre ambas.
+- Kevin elige y recibe la recompensa del Piso 2: **Táctica y estrategia → Coordinación de combate en equipo → Principiante**. La guía cubre comunicación, distribución de funciones, posicionamiento y apoyo mutuo; recibirla no equivale a dominarla.
+- Lucía y Tomás atienden y eligen sus oportunidades de recompensa pendientes durante la preparación del Piso 3. Los contenidos concretos no se especifican y no deben inventarse.
+- Durante las 24 horas, los Cruzados practican individualmente y juntos: Kevin continúa con la lanza y revisa su guía; Tomás practica con la maza, trabajando control y recuperación de posición; Lucía se familiariza con su equipo y conversa con Nuria sobre primeros auxilios y criterios prudentes para usar Recuperación. Los tres practican avisos, distancias y prevención de interferencias.
+- La Cuadrilla también aprovecha la preparación según sus perfiles: Gabriel trabaja comunicación y organización; Nuria combina consulta, práctica y revisión de equipo; Bruno revisa herramientas y equipo; Maia practica transmisión clara de información. No se concede dominio experto ni progreso técnico automático.
+- La preparación incluye descanso, alimentación y planificación. No se concede rango ni técnica nueva por estas prácticas.
+- Tras las 24 horas comienza el desafío. Los Cruzados aparecen juntos en el área general; se muestran los tres sectores y la puerta blanca al norte. La asignación de contingentes queda pendiente para la Etapa A. Último aviso: «DISTRIBUCIÓN DE CONTINGENTES OPERATIVOS EN PROCESO».
+
+### Estado al cierre del Piso Principal 3
+Desafío iniciado, plazo de 120 horas. Los Cruzados: Kevin, Lucía y Tomás. La Cuadrilla: Gabriel, Nuria, Bruno y Maia. Kevin recibió su guía principiante de coordinación; Lucía y Tomás eligieron y recibieron contenidos no especificados. Kevin, Lucía y Tomás tienen una activación de Recuperación disponible para el Piso 3, sin uso confirmado. Los participantes tienen una base práctica de combate en distinto grado por sus experiencias de supervivencia y uso de equipo; esto no equivale a dominio formal ni pericia especializada. No se confirman lesiones nuevas, uso de Recuperación, cambios de equipo, rangos ni técnicas nuevas. Siguiente paso: Etapa A — Distribución y reconocimiento.
