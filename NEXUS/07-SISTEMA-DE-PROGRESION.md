@@ -116,3 +116,14 @@ La entrega de una guía o enseñanza se registra como aprendizaje recibido. Su c
 Al cierre de cada piso y al comienzo de uno nuevo, comparar el estado vigente con la evidencia acumulada. Revisar también los objetivos de desarrollo de cada personaje relevante: qué capacidades necesitará más adelante, qué oportunidades de práctica tuvo, qué avances demostró y qué fundamentos siguen pendientes. Actualizar el documento propietario del dato y registrar en el historial el acontecimiento que justifica el cambio.
 
 No hay una cuota de aumentos ni una prohibición práctica de mejorar. El objetivo es que la progresión sea gradual, demostrable y persistente para todo el elenco. La planificación de los pisos posteriores debe tomar en cuenta las capacidades realmente desarrolladas, no tratar los aprendizajes previstos como si ya se hubieran adquirido.
+
+
+## 10. Base práctica derivada de la supervivencia previa
+
+Los participantes que han superado desafíos anteriores y han llegado a un nuevo Piso Principal no deben tratarse como personas completamente indefensas ni como principiantes absolutos en toda forma de combate. La exposición real a amenazas, el uso de armas y protecciones, la necesidad de defenderse y las decisiones tomadas durante desafíos previos les proporcionan cierta base práctica de combate y supervivencia.
+
+Esta base es desigual y depende de la experiencia concreta de cada individuo. Puede incluir familiaridad con su equipo, reacción ante una amenaza, comprensión elemental de distancia y peligro, capacidad para defenderse o ejecutar acciones sencillas bajo presión. No implica que todos sepan luchar igual, que tengan entrenamiento formal, que dominen una disciplina o que posean técnicas registradas.
+
+La especialidad principal de una persona no elimina esa base general. Un participante centrado en primeros auxilios, observación, mantenimiento o comunicación puede saber defenderse en un nivel básico sin convertirse por ello en combatiente especializado. Del mismo modo, contar con una guía o equipo no garantiza que pueda utilizarlo con eficacia.
+
+No asignar automáticamente rangos ni técnicas por haber sobrevivido o completado un piso. Registrar en cada ficha qué experiencia concreta sustenta la base individual y evaluar cualquier dominio formal mediante el Sistema de Combate. El progreso posterior puede ser paralelo entre personajes y variar según sus capacidades, decisiones, práctica, oportunidades y experiencia real.
