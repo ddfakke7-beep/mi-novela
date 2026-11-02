@@ -123,3 +123,10 @@ En el Bosque de Columnas, Lucía avisó de la aparición y los movimientos de lo
 
 - Durante el enfrentamiento final en el Bosque, avisó de la aproximación lateral de un Rastrero y mantuvo vigilancia sobre los flancos mientras el contingente atendía al Quebrantahileras.
 - Su contribución fue de observación y comunicación situacional; no acredita técnica sanitaria nueva ni aumento de rango. No se confirma lesión propia ni uso de Recuperación.
+
+
+### Piso 3F — Superación general y salida (APROBADO)
+
+- Cruzó la puerta blanca junto a Kevin y Tomás como integrante de Los Cruzados y entró al Piso Principal 4.
+- Recibió restauración corporal al entrar al nuevo Piso Principal. Sus pertenencias no fueron reemplazadas; no se detallan cambios de equipo.
+- No consta elección ni recepción de la recompensa por completar el Piso 3. Sin técnica nueva ni aumento de rango.
