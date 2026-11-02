@@ -104,3 +104,7 @@ El dolor del antebrazo había disminuido desde 2C, aunque persistía. Conservaba
 Al entrar al Piso Principal del Piso 3, la restauración corporal eliminó el dolor residual del antebrazo. Durante la preparación, Tomás atendió y eligió sus oportunidades de recompensa pendientes; la narración no especifica los contenidos concretos. Practicó con la maza, trabajando control del arma, equilibrio y recuperación de posición después de los golpes. También practicó con Kevin y Lucía avisos, distancias y prevención de interferencias. No se acredita técnica nueva ni aumento de rango de maza.
 
 Su experiencia previa de boxeo y los enfrentamientos/cacerías de los Pisos 1 y 2 le proporcionan una base práctica de combate, superior a la de un principiante absoluto en combate sin armas. Esa experiencia no se transfiere automáticamente al manejo de la maza ni lo convierte en experto frente a criaturas. Entra al Piso 3 con una activación de Recuperación disponible; no se confirma uso ni lesión nueva.
+
+## Piso 3B — Primeros contactos
+
+Durante el encuentro con tres Rastreros de tronco, Tomás golpeó a uno desde un ángulo lateral con la maza para obligarlo a cambiar de trayectoria. El impacto no derribó a la criatura y esta se retiró. La acción demuestra aplicación práctica de su arma en una situación móvil y con espacio limitado, pero no acredita técnica nueva, ejecución fiable ni aumento de rango. No se confirma lesión propia ni uso de Recuperación.
