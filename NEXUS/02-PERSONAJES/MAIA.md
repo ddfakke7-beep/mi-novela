@@ -27,3 +27,8 @@ Integrante de La Cuadrilla junto a Gabriel, Nuria y Bruno.
 
 ## Desconocidos
 Equipo exacto, disciplina de combate, rango, técnicas, elección concreta de recompensa y límites de su experiencia social.
+
+
+## Piso 3B — Primeros contactos
+
+Durante el encuentro con Saltadores de cantera, Maia detectó y comunicó movimientos laterales y cambios de dirección de las criaturas. Sus avisos ayudaron al grupo a reconocer amenazas desde distintos niveles, aunque no siempre llegaron con suficiente antelación para evitar una breve desorganización. Es una aplicación inicial de comunicación bajo presión, no dominio táctico. Sin lesión confirmada ni uso de Recuperación.
