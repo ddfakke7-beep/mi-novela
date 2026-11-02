@@ -1,6 +1,6 @@
 # Kevin — ficha individual
 
-**Estado:** personaje central; ficha vigente al inicio del desafío del Piso 2.  
+**Estado:** personaje central; ficha actualizada tras completar el Piso 3 e ingresar al Piso Principal 4.  
 **Base:** diseño aprobado del Piso 1, narración aprobada de los tramos 1.1 y 1A–1E, y sistemas oficiales vigentes.
 
 ## Identidad y punto de partida
@@ -28,13 +28,19 @@ Su tendencia inicial es observar, valorar el riesgo y evitar exponerse sin una r
 
 ### Combate
 
-- **Dominio inicial:** sin dominio funcional en las disciplinas de combate conocidas al comenzar.
-- **Arma elegida en el Piso 1:** lanza sencilla.
-- **Equipo inicial adicional:** cuchillo corto, chaqueta de cuero ligero y protectores de antebrazo.
-- Realizó prácticas iniciales con la lanza en el Piso 1, sin acreditar dominio nuevo.
-- Durante la preparación del Piso 2 recibió una guía principiante de manejo de lanza y practicó postura, equilibrio, agarre, control y desplazamiento, además de principios básicos ofensivos y defensivos. La ejecución mostró errores y todavía es irregular. La guía y la práctica inicial no acreditan rango nuevo ni técnicas funcionales o fiables.
-- Durante el enfrentamiento final utilizó la lanza como apoyo para impedir que Tomás y otro participante quedaran expuestos a un acercamiento del Acechador. No realizó el golpe decisivo.
-- No se ha demostrado dominio fiable de la lanza ni experiencia suficiente para considerarse combatiente.
+- **Disciplina principal:** manejo de lanza.
+- **Rango actual de lanza: 2 — Competente.** Este rango reconoce que Kevin ya puede repetir fundamentos en situaciones conocidas, conservar una distancia y un manejo funcionales, y corregir parte de sus errores bajo cierta presión. Ya no corresponde describirlo como alguien sin dominio funcional o como un principiante que apenas está aprendiendo a sostener el arma.
+- **Fundamentos y manejo:** base funcional adquirida mediante la guía principiante y práctica acumulada: agarre, equilibrio, control del asta, desplazamiento y recuperación de posición. Puede cometer errores, especialmente cuando el espacio es reducido o debe reaccionar a cambios bruscos.
+- **Ofensiva:** puede aprovechar aperturas y ejecutar ataques básicos con intención. Ha alcanzado objetivos en combate real, incluido el costado de un cérvido durante la cacería del Piso 2. La precisión y la elección del momento todavía varían; no posee combinaciones avanzadas ni una ofensiva fiable contra cualquier tipo de adversario.
+- **Defensa y distancia:** sabe utilizar el alcance de la lanza, interponer el asta y desplazarse para evitar una trayectoria directa. Ha aplicado estas respuestas ante cargas y amenazas móviles. No debe confundirse con capacidad para bloquear de frente ataques de criaturas mucho más fuertes.
+- **Adaptación y aplicación:** empieza a ajustar ángulos y posiciones según el terreno, el movimiento del adversario y la ubicación de sus compañeros. En espacios estrechos y ante enemigos de gran tamaño todavía puede perder oportunidades o necesitar corregir la ejecución.
+- **Técnicas concretas:** no se registra todavía una técnica especializada con nombre propio. Sus estocadas, golpes básicos, control de distancia, interposición y desplazamientos son fundamentos de la disciplina, no técnicas avanzadas desbloqueadas.
+- La guía Principiante de manejo de lanza recibida como recompensa del Piso 1 fue practicada durante la preparación del Piso 2 y en oportunidades posteriores. La progresión no procede solo de recibir la guía: se sostiene en la práctica y en su uso repetido durante los enfrentamientos de los Pisos 2 y 3.
+- En el Piso 1 utilizó la lanza para apoyar y proteger a compañeros ante el Acechador, sin realizar el golpe decisivo.
+- En el Piso 2 interpuso la lanza ante una carga de cérvido, se desplazó en diagonal y alcanzó el costado de otro durante una cacería válida.
+- En el Piso 3 mantuvo distancia ante los Rastreros y el Quebrantahileras, corrigió ángulos en un espacio complicado, buscó aperturas laterales y utilizó la lanza para forzar un cambio de trayectoria que protegiera a Tomás.
+- **Límites actuales:** no es avanzado ni experto; no domina el combate con lanza en todos los terrenos, no garantiza impactos limpios contra objetivos rápidos o superiores y todavía necesita mejorar la precisión, la defensa ante presión sostenida y la adaptación táctica. Su rango competente no garantiza vencer a un adversario de mayor fuerza o tamaño.
+- **Otras disciplinas:** no se acredita dominio de espada, arco, cuchillo como disciplina especializada ni combate sin armas. La experiencia con la lanza no se transfiere automáticamente a ellas.
 
 ### Conocimiento y criterio
 
@@ -144,3 +150,13 @@ En el Bosque de Columnas, Kevin sostuvo la lanza para controlar la distancia ant
 - Cruzó la puerta blanca junto a Lucía y Tomás y entró al Piso Principal 4 como integrante de Los Cruzados.
 - Recibió restauración corporal al entrar al nuevo Piso Principal. Sus pertenencias no fueron restauradas ni reemplazadas; su lanza conserva las marcas del Piso 3.
 - No consta elección ni recepción de la recompensa por completar el Piso 3. Sin técnica nueva ni aumento de rango.
+
+
+## Revisión de dominio — cierre del Piso 3 (APROBADO)
+
+La evaluación acumulada de la preparación del Piso 2 y de los enfrentamientos de los Pisos 2 y 3 corrige el registro anterior, que había mantenido a Kevin demasiado tiempo en una descripción de principiante. Su manejo de lanza alcanza el **rango 2 — Competente** conforme al Sistema de Combate.
+
+La evidencia no es una victoria aislada: recibió y practicó una guía de fundamentos; utilizó repetidamente la lanza en situaciones reales; controló distancias, interpuso el asta, se desplazó ante cargas, conectó un ataque efectivo contra un cérvido y corrigió ángulos y posiciones ante criaturas móviles y una élite. En varias ocasiones actuó junto a sus compañeros sin interferir en sus movimientos.
+
+El avance reconoce ejecución básica repetible y corrección bajo cierta presión. No acredita rango avanzado, técnicas especializadas ni dominio fiable en situaciones muy variables. Debe escribirse como un combatiente funcional con una base real de lanza, todavía limitado frente a enemigos superiores, terrenos desfavorables y presión sostenida.
+
