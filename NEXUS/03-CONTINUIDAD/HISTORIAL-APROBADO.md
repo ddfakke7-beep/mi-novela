@@ -331,3 +331,13 @@ Los tres sectores siguen activos y sus criaturas menores observadas continúan d
 - **Cuenca:** el contingente distribuye la atención entre Mandíbula y Mordedores, vigilando flancos. Un Mordedor que sale del agua y se lanza hacia una pierna es golpeado y deja de moverse tras un segundo impacto. Se confirma un Mordedor abatido. Mandíbula y otros Mordedores siguen activos.
 - En total, una criatura menor abatida en cada sector. Ninguna élite ha sido derrotada, ningún sector está despejado y no hay aviso de sector despejado.
 - No se confirman bajas humanas, lesiones concretas, uso de Recuperación, daño estructural de equipo, técnicas nuevas ni aumento de rango. No establecer cantidades exactas de criaturas restantes.
+
+
+## Piso 3E — Despeje de cada sector (APROBADO)
+
+- Bosque de Columnas: Los Cruzados y siete anónimos eliminaron al Quebrantahileras y a todos los Rastreros hostiles designados. Sistema confirmó el sector despejado. Kevin intervino con la lanza buscando aperturas laterales; Tomás atacó con la maza aprovechando cambios de apoyo; Lucía avisó de un Rastrero lateral y vigiló flancos.
+- Cantera Escalonada: La Cuadrilla y seis anónimos eliminaron al Rompecrestas y a todos los Saltadores designados. Sistema confirmó el sector despejado. Gabriel ajustó la distribución y delegó; Bruno señaló accesos y límites de posición; Maia comunicó movimientos con referencias claras; Nuria comprobó el estado de participantes.
+- Cuenca de Juncos: diez anónimos eliminaron a la Mandíbula de la Cuenca y a todos los Mordedores designados. Sistema confirmó el sector despejado. El contingente mantuvo el combate desde terreno firme.
+- Los tres sectores están despejados. No se narran cantidades exactas ni bajas humanas. No se confirman lesiones concretas de personajes nombrados, uso de Recuperación, daño estructural de equipo, técnicas nuevas ni aumentos de rango.
+- La prueba aún no está declarada completada: no apareció «Prueba completada», no se narró la instrucción final de dirigirse a la salida ni se confirmó llegada o transición por la puerta blanca. Siguiente: Etapa F.
+- Los Cruzados y La Cuadrilla siguen siendo parties independientes; los contingentes fueron asignaciones temporales, sin alianza formal.
