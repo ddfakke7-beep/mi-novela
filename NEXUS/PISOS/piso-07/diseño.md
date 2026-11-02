@@ -1,0 +1,261 @@
+# Piso 7 — Supervivencia avanzada: «La mina de los kobolds»
+
+**Estado:** DISEÑO APROBADO POR EL USUARIO (31/10/2026). Este documento constituye el diseño aprobado del Piso 7 y puede utilizarse como referencia canónica para su desarrollo, respetando las reglas y la continuidad vigentes.
+
+## 1. Función del piso en el arco global
+
+El Piso 7 lleva la supervivencia a un entorno subterráneo ocupado por una población hostil organizada. El desafío no consiste en derrotar a todos los enemigos ni en conquistar la mina: consiste en explorar, localizar objetivos, recuperarlos y transportarlos hasta una salida común mientras se administra el ruido, la exposición y el riesgo de persecución.
+
+La dificultad surge de la relación entre exploración y combate. Un enfrentamiento breve puede ser manejable; uno prolongado, ruidoso o mal resuelto puede alertar a otras patrullas y convertir una situación controlable en una amenaza creciente. Recuperar un tótem también provoca una respuesta de los kobolds, que pueden intentar localizarlo y recuperarlo.
+
+El piso pone a prueba la lectura del entorno, la orientación, el control del ruido, la observación de rastros, la elección de rutas, la protección de quien transporta un objeto y la capacidad de retirarse antes de quedar rodeado. Kevin puede aprender de participantes con más experiencia, pero no se convierte automáticamente en explorador, rastreador ni estratega experto.
+
+## 2. Piso Principal
+
+El Piso Principal adopta la forma de una antigua estación minera construida dentro de una enorme cavidad subterránea. Es una zona segura, iluminada y preparada para las 24 horas comunes de descanso y preparación. No forma parte de la mina ocupada por los kobolds.
+
+### 2.1. Instalaciones
+
+- **Vestíbulo central:** punto de aparición y reunión de los participantes convocados.
+
+- **Salas de descanso:** dormitorios y espacios tranquilos para dormir y recuperarse.
+
+- **Zona de equipo:** acceso al Sistema de Combate y al catálogo disponible para revisar o elegir armas, protecciones y equipo compatible.
+
+- **Área de práctica:** espacio para familiarizarse con el equipo, ensayar desplazamientos en espacios estrechos y practicar señales o coordinación básica. No reproduce a los kobolds ni concede dominio automático.
+
+- **Salas de planificación:** mesas, pizarras, papel y material para que los participantes anoten información, dibujen sus propios esquemas y comparen observaciones.
+
+- **Zona de suministros:** provisiones ordinarias compatibles con las reglas generales del Sistema.
+
+### 2.2. Información disponible durante la preparación
+
+El Piso Principal **no contiene un mapa de la mina**, ni un plano parcial que revele la distribución de sus galerías, la ubicación de los tótems, las rutas convenientes o las patrullas. Las mesas y pizarras están vacías o contienen material genérico de planificación. Los participantes tendrán que construir sus propias referencias conforme exploren y compartan información durante el desafío.
+
+Durante las 24 horas pueden descansar, practicar, revisar equipo, conversar y organizarse. No pueden abandonar el Piso Principal por su cuenta.
+
+## 3. Participantes y grupos
+
+### 3.1. Convocatoria de trabajo
+
+Para dimensionar el desafío se utiliza una convocatoria provisional de **42 participantes**. Es una cifra de planificación, no una regla universal ni un número obligatorio. La composición definitiva deberá comprobarse con las fichas, parties y continuidad vigentes cuando se prepare la narración.
+
+Como orientación de planificación, se prevé que alrededor de siete personajes tengan importancia narrativa y que entre trece y quince participantes puedan tener presencia recurrente o relevante. Estas cifras no son cuotas y no obligan a introducir personajes todavía no establecidos.
+
+### 3.2. Parties y cooperación
+
+El Sistema puede convocar parties reconocidas completas y participantes individuales conforme a las reglas generales. Los integrantes de una party convocada juntos aparecen en el mismo punto inicial; los participantes independientes aparecen separados. La cooperación temporal entre personas no crea una party ni modifica su estado formal.
+
+Los participantes pueden explorar solos, mantenerse con su party, formar equipos operativos temporales, separarse para cubrir rutas y reunirse después. Ninguna distribución inicial obliga a mantener un equipo durante todo el piso.
+
+### 3.3. Perfil de rastreo y exploración
+
+El diseño contempla la posible incorporación de un personaje recurrente con experiencia práctica interpretando rastros y señales de actividad: huellas, marcas en paredes y suelo, restos desplazados, cambios en el tránsito y señales de patrullas. No es infalible, no conoce la mina de antemano y sus conclusiones pueden ser parciales. Su nombre, historia, capacidades exactas y relaciones quedan pendientes de la planificación del elenco y no se fijan aquí.
+
+## 4. Objetivo y desafío global
+
+**Objetivo común:** recuperar seis tótems distribuidos por la mina y transportarlos hasta la zona de entrega situada delante de la única salida común.
+
+### 4.1. Los tótems
+
+- Hay **seis tótems** físicos que forman parte del objetivo común.
+
+- Cada uno es una pieza de piedra tallada de aproximadamente 35 centímetros de altura y entre 8 y 10 kilogramos.
+
+- Una persona puede transportarlo, pero debe ocupar una mano o sujetarlo de una forma que puede dificultar el uso de armas, herramientas o apoyos durante el desplazamiento.
+
+- No se presupone que tengan poderes, efectos especiales ni una función que los participantes deban comprender.
+
+- Pueden dejarse en el suelo, cambiar de portador o ser abandonados temporalmente. Permanecen físicamente donde se hayan dejado hasta que alguien los recoja o los kobolds los recuperen.
+
+### 4.2. Condición de superación
+
+El objetivo se completa cuando los seis tótems han sido transportados físicamente a la zona de entrega situada delante de la salida común. Encontrarlos, tocarlos o reunirlos en otra parte de la mina no basta. Cuando el último tótem llega a la zona de entrega, el Sistema anuncia «Objetivo completado» y «Prueba completada».
+
+La condición es compartida por todos los participantes convocados que sigan vivos. No existen cuotas individuales, asignaciones exclusivas por party ni recompensas adicionales por ser quien encuentra o transporta un tótem concreto. Después de la confirmación, los participantes todavía deben alcanzar físicamente la puerta blanca y cruzarla para completar la transición.
+
+### 4.3. Información que comunica el Sistema
+
+Antes de comenzar, el Sistema informa:
+
+- El número real de participantes convocados.
+
+- Que el desafío se desarrolla en una mina ocupada por criaturas hostiles.
+
+- Que deben recuperar seis tótems y llevarlos a la zona de entrega de la salida común.
+
+- La condición exacta para considerar completado el objetivo.
+
+- La ubicación general de la salida y de la zona de entrega.
+
+- Las restricciones particulares relevantes que deban conocer antes de entrar.
+
+El Sistema **no revela** el plano de la mina, la distribución de sus sectores, la ubicación de los tótems, las rutas, las posiciones de las patrullas, la población exacta de kobolds ni sus patrones de actividad. Los participantes saben qué deben conseguir, pero deben descubrir cómo llegar hasta ello.
+
+### 4.4. Plazo
+
+No se establece un plazo especial para este piso. La presión procede de la actividad de los kobolds, las patrullas, las alarmas, la persecución y la dificultad de transportar los tótems, no de una cuenta atrás inventada.
+
+## 5. Área del desafío: Mina de Kharzug
+
+La mina es una red subterránea extensa, excavada en roca y ampliada durante generaciones. Sus galerías conectan sectores de extracción, almacenamiento, cámaras profundas y una zona habitada por los kobolds. No todas las rutas tienen la misma anchura ni permiten transportar un tótem con la misma facilidad. Los sonidos pueden propagarse entre galerías conectadas, aunque no todas las zonas reciben cada ruido con la misma intensidad.
+
+### 5.1. Galerías de acceso
+
+Corredores relativamente amplios con restos de raíles, carros mineros, herramientas y ramificaciones. Son una primera zona de reconocimiento y permiten encontrar señales de tránsito, pero no ofrecen una vista completa del interior.
+
+### 5.2. Red de extracción
+
+Conjunto de galerías de anchura variable, ramales y antiguos soportes. Varias rutas conectan con otros sectores. El sonido puede viajar por algunas conexiones y alertar a patrullas que no estén a la vista.
+
+### 5.3. Cámaras de almacenamiento
+
+Varias salas de depósito separadas entre sí. Aquí se encuentran dos de los tótems, en ubicaciones distintas. Puede haber kobolds vigilando, utilizando o transitando por las cámaras, pero no se establece una guardia inmóvil e idéntica para todos los participantes.
+
+### 5.4. Galerías profundas
+
+Túneles más estrechos y oscuros, con menos infraestructura de transporte y conexiones que obligan a elegir entre rodeos y pasos reducidos. Aquí se encuentran otros dos tótems, en cámaras diferentes. La actividad de patrullas es más difícil de anticipar y algunas rutas complican el traslado de una pieza voluminosa.
+
+### 5.5. Núcleo habitado
+
+Zona de mayor actividad kobold, con cámaras de descanso, espacios de almacenamiento cotidiano, puestos de vigilancia y conexiones entre galerías. Los dos tótems restantes se encuentran en sectores distintos de esta zona. No es necesario exterminar a sus habitantes ni conquistar el núcleo: los participantes pueden buscar oportunidades, evitar enfrentamientos, distraer patrullas o retirarse.
+
+### 5.6. Galería de evacuación y salida
+
+Varias conexiones conducen hacia una galería que termina en la cámara de salida. No constituye una ruta completamente segura ni está garantizado que permanezca despejada. La zona de entrega está delante de la puerta blanca; el objetivo se completa al dejar allí los seis tótems.
+
+## 6. Kobolds y comportamiento de la población
+
+### 6.1. Características generales
+
+Los kobolds son humanoides pequeños, de aproximadamente 1 a 1,3 metros, cuerpo compacto o delgado, piel escamosa, rostro alargado y manos con garras. Están adaptados a desplazarse por túneles y espacios estrechos. Individualmente no destacan por una fuerza extraordinaria; su peligro procede de la familiaridad con la mina, la coordinación, la cantidad y la capacidad de alertar a otras patrullas.
+
+### 6.2. Equipo y organización
+
+- Utilizan lanzas cortas, cuchillos, herramientas, hachas pequeñas, escudos ligeros y hondas o piedras.
+
+- Las patrullas habituales tienen aproximadamente entre cuatro y siete integrantes.
+
+- Algunas patrullas recorren galerías; otras vigilan accesos, transportan objetos, investigan ruidos, protegen depósitos o intentan recuperar elementos sustraídos.
+
+- Se comunican mediante gritos, silbidos, golpes sobre metal o piedra y mensajeros que se desplazan físicamente entre sectores.
+
+- No conocen automáticamente la posición de los participantes. Para detectarlos necesitan verlos, oírlos, encontrar rastros o recibir información de otros kobolds.
+
+### 6.3. Población y límites
+
+Se propone una población finita aproximada de **55 a 65 kobolds**, distribuida por la mina. No están todos reunidos ni patrullan simultáneamente cada galería. No aparecen reemplazos infinitos cuando alguno muere o queda incapacitado. La actividad y distribución de la población cambian según los desplazamientos, las pérdidas, las alarmas y las tareas que los kobolds estén realizando.
+
+### 6.4. Escalada de alerta
+
+- **Actividad normal:** patrullas que recorren sus rutas, vigilan zonas y realizan tareas habituales. No conocen la presencia de participantes sin señales.
+
+- **Sospecha local:** una patrulla oye un ruido extraño, encuentra rastros o ve movimiento. Investiga, modifica su recorrido o avisa a otros si confirma algo.
+
+- **Alarma sectorial:** la presencia de intrusos queda identificada en una zona. Las patrullas cercanas pueden reunirse, vigilar conexiones, buscar a los participantes y proteger depósitos.
+
+- **Alarma extendida:** enfrentamientos prolongados, ruidos repetidos o actividad visible pueden extender la alerta a sectores conectados. Otras patrullas pueden interceptar rutas, perseguir a los participantes o intentar alcanzar a quien transporta un tótem.
+
+La alerta no transmite conocimiento instantáneo a toda la mina. Los kobolds deben comunicar la información y desplazarse por rutas físicas. No conocen automáticamente el número, identidad, equipo ni ubicación exacta de los participantes, y no coordinan de manera perfecta.
+
+### 6.5. Respuesta ante la pérdida de un tótem
+
+Cuando los kobolds descubren que falta un tótem, los que estén cerca pueden investigar y comunicarlo. Si identifican a los responsables o la dirección de huida, pueden perseguirlos, intentar interceptar al portador, atacar a quienes lo protegen o recuperar la pieza si queda abandonada. El portador puede convertirse en un objetivo prioritario para quienes conocen la pérdida, pero los kobolds no adquieren su ubicación de forma sobrenatural.
+
+Si un tótem se abandona, permanece en el lugar hasta que otro participante o un kobold lo recoja. Si los kobolds lo recuperan, pueden devolverlo a un depósito o trasladarlo a otra ubicación razonable dentro de la mina. No se teletransporta ni desaparece.
+
+## 7. Distribución de los tótems y exploración
+
+La distribución de referencia es la siguiente:
+
+- **Dos tótems:** en cámaras de almacenamiento separadas.
+
+- **Dos tótems:** en cámaras distintas de las galerías profundas.
+
+- **Dos tótems:** en sectores diferentes del núcleo habitado.
+
+No hay un orden obligatorio para recuperarlos. Cada ubicación presenta una combinación distinta de accesos, tránsito y vigilancia. La dificultad no debe consistir en una única secuencia obligatoria ni en seis combates idénticos. Deben existir varias rutas viables, con ventajas y riesgos diferentes, y la información descubierta puede cambiar qué ruta conviene utilizar.
+
+Los participantes pueden dibujar mapas propios a partir de lo que recorren, marcar bifurcaciones, registrar señales, anotar patrullas observadas y compartir información. Un mapa elaborado por un grupo puede ser incompleto, contener errores o quedar desactualizado si cambian los recorridos de los kobolds. La información debe distinguir lo observado de lo supuesto.
+
+## 8. Desarrollo del desafío y etapas
+
+### 8.1. Entrada y primeras señales
+
+Los participantes aparecen en distintos puntos de la mina conforme a las reglas de convocatoria y parties. No aparecen junto a los tótems ni reciben una ruta directa garantizada. Encuentran señales de que el lugar está ocupado: rastros, herramientas, sonidos lejanos, marcas y actividad reciente. El primer reto es orientarse sin conocer el plano general.
+
+### 8.2. Exploración y localización
+
+Los grupos exploran ramales, reconocen conexiones y buscan señales de los depósitos. Pueden compartir información, construir mapas parciales y comparar observaciones. La exploración no garantiza que encuentren un tótem en el primer recorrido ni que una ruta permanezca despejada.
+
+### 8.3. Primeras recuperaciones
+
+Los tótems pueden encontrarse en ubicaciones con niveles distintos de vigilancia. Recuperar una pieza no significa que el grupo haya completado una etapa segura: transportarla ocupa capacidad física, puede limitar el uso del equipo y hace más difícil desplazarse o combatir. Los kobolds pueden descubrir la ausencia y comenzar a investigar.
+
+### 8.4. Presión y persecución
+
+Si los participantes prolongan un enfrentamiento, hacen ruido repetidamente o dejan rastros evidentes, las patrullas pueden investigar y elevar la alerta. Los grupos deben decidir si continúan, cambian de ruta, se reúnen, solicitan apoyo, esconden temporalmente un tótem o se retiran. No todas las patrullas reaccionan de la misma manera ni llegan al mismo tiempo.
+
+### 8.5. Reagrupamiento y transporte
+
+Los participantes pueden organizarse para proteger a quienes transportan los tótems, intercambiar portadores, cubrir intersecciones y despejar temporalmente rutas. No se exige que todos se reúnan en un único equipo ni que formalicen parties. La pérdida o eliminación de un grupo no elimina los tótems pendientes ni cancela el objetivo compartido.
+
+### 8.6. Aproximación a la salida
+
+La galería de evacuación ofrece varias conexiones, pero puede estar vigilada o recibir patrullas que hayan sido alertadas. No hay un jefe obligatorio ni una oleada final infinita. El riesgo depende de la situación que los participantes hayan generado y de las patrullas que realmente puedan llegar a la zona.
+
+### 8.7. Entrega
+
+Los seis tótems deben llegar a la zona de entrega delante de la puerta blanca. El Sistema confirma el objetivo cuando el último se deposita allí. Después, los participantes vivos todavía deben cruzar físicamente la salida.
+
+## 9. Progresión y aprendizaje
+
+- **Kevin:** puede aprender a distinguir señales recientes de antiguas, controlar el ruido, evaluar rutas, proteger a un portador y reconocer cuándo un enfrentamiento deja de ser conveniente. No se convierte de golpe en rastreador ni experto en exploración.
+
+- **Participantes con experiencia:** pueden desarrollar procedimientos para explorar, marcar rutas, compartir información y evitar que los grupos se desorienten o repitan recorridos innecesarios.
+
+- **Cooperación:** el piso permite practicar apoyo entre grupos, protección de cargas, relevos y retirada organizada sin convertir toda cooperación en una party formal.
+
+- **Combate:** los participantes pueden mejorar la resolución de encuentros en espacios estrechos, la defensa de un compañero que transporta una carga y la decisión de no prolongar un combate desfavorable.
+
+- **Observación:** reconocer rastros y patrones requiere práctica y contraste de información. Una interpretación puede ser incorrecta y debe tratarse como hipótesis hasta contar con más evidencia.
+
+La participación no concede dominio técnico automático ni garantiza que todos aprendan las mismas cosas.
+
+## 10. Recursos, equipo y consecuencias
+
+Los participantes utilizan el equipo que realmente tengan disponible según sus fichas, continuidad y Sistema de Combate. La mina contiene herramientas y objetos ordinarios que podrían servir en determinadas circunstancias, pero encontrarlos no concede automáticamente capacidad para utilizarlos con eficacia.
+
+Los tótems no son recompensas individuales ni otorgan habilidades por transportarlos. No se establece una recompensa por cada kobold, tótem o depósito. Las recompensas y el Sistema de Recuperación se rigen por sus documentos oficiales; este diseño no inventa activaciones, tiempos de tratamiento ni efectos nuevos.
+
+Las heridas deben surgir de amenazas, enfrentamientos o decisiones físicamente significativas. El terreno puede afectar la visibilidad, el sonido, las rutas, la movilidad, el transporte y el alcance de las armas, pero no provoca lesiones arbitrarias por resbalones o tropiezos sin una causa relevante.
+
+## 11. Continuidad y transición
+
+El diseño no fija qué personaje encuentra, recupera o transporta cada tótem; quién se reúne con quién; qué rutas elige cada grupo; quién resulta herido, muere o es eliminado; qué kobolds concretos son derrotados; ni qué recompensas recibe cada participante.
+
+La presencia de Kevin y de cualquier personaje recurrente debe comprobarse con las fichas, parties y continuidad vigentes. La posible incorporación de un rastreador u otro personaje nuevo debe concretarse al cerrar la planificación del elenco, sin asignarle capacidades extraordinarias no justificadas.
+
+Los kobolds de este piso son una población propia de la Mina de Kharzug. No se presupone que sean los mismos individuos que criaturas de otros pisos ni que reaparezcan después. Su estado final dependerá de los hechos narrados.
+
+La transición al siguiente piso ocurre conforme a las reglas generales una vez que el objetivo se ha completado y los participantes alcanzan la salida.
+
+## 12. Riesgos, contradicciones y cuestiones abiertas
+
+- Confirmar si se mantienen los seis tótems como cantidad definitiva.
+
+- Ajustar la población propuesta de 55 a 65 kobolds a la escala final de la mina y a la distribución de patrullas.
+
+- Definir las ubicaciones concretas y las condiciones de vigilancia de cada tótem al preparar la narración, conservando varias rutas viables.
+
+- Concretar el personaje con experiencia de rastreo solo cuando el elenco y su ficha estén definidos.
+
+- Comprobar parties, convocatorias y presencia de personajes con la continuidad vigente.
+
+- Validar cualquier detalle de recuperación y recompensas con sus documentos oficiales.
+
+- Evitar que la alarma funcione como conocimiento instantáneo, que las patrullas aparezcan sin desplazarse o que la población se regenere infinitamente.
+
+- Evitar que la mina tenga una única ruta correcta o que todos los tótems exijan el mismo tipo de enfrentamiento.
+
+**Estado final del documento:** diseño completo y aprobado expresamente por el usuario el 31/10/2026. Puede utilizarse como base canónica para el desarrollo del Piso 7. Los elementos señalados como provisionales o pendientes de definición siguen sujetos a comprobación y concreción durante la planificación, sin alterar los objetivos ni las condiciones aprobadas.
