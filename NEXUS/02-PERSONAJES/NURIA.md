@@ -15,8 +15,8 @@ Atenta y paciente. Tiene experiencia básica de primeros auxilios como voluntari
 
 ## Capacidades y límites
 - Primeros auxilios básicos y atención inicial.
-- Como participante que ha sobrevivido a desafíos anteriores, cuenta con una base práctica elemental de combate y uso defensivo de equipo; no es especialista de combate.
-- No se han establecido rangos de dominio ni técnicas de combate concretas.
+- Como participante que ha superado desafíos anteriores, cuenta con una base práctica elemental de combate y supervivencia: no es indefensa ni una principiante absoluta ante el peligro. Esa base no la convierte en especialista de combate.
+- No se han establecido rangos de dominio ni técnicas de combate concretas. No se asigna rango formal a un arma sin evidencia individual suficiente.
 - Sus conocimientos sanitarios no sustituyen al Sistema de Recuperación ni garantizan que pueda atender lesiones graves.
 
 ## Progresión — Piso 3
@@ -44,3 +44,11 @@ En la Cantera Escalonada, Nuria se mantuvo atenta al estado de los integrantes d
 - Cruzó la puerta blanca junto a Gabriel, Bruno y Maia como integrante de La Cuadrilla y entró al Piso Principal 4.
 - Recibió restauración corporal al entrar al nuevo Piso Principal. No se detallan cambios de equipo ni de pertenencias.
 - No consta elección ni recepción de la recompensa por completar el Piso 3. Sin técnica nueva ni aumento de rango.
+
+
+## Revisión de progresión — cierre del Piso 3 (APROBADO)
+
+Nuria conserva una base práctica elemental de combate y supervivencia adquirida al atravesar desafíos anteriores. Durante el Piso 3 permaneció atenta a los participantes, comprobó su capacidad para continuar después de caídas o golpes y aplicó prudencia al pedir espacio antes de que alguien volviera al frente. Su conocimiento de primeros auxilios básicos y su criterio de atención son fortalezas propias; no deben confundirse con dominio de combate.
+
+No se asigna rango formal a una disciplina de arma porque las escenas aprobadas no muestran práctica individual suficiente ni ejecución técnica repetible. Esto no la convierte en indefensa ni borra su experiencia acumulada.
+
