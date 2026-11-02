@@ -95,3 +95,10 @@ Durante el enfrentamiento con un cérvido, Lucía comprobó brevemente el estado
 ## Piso 2D — Adaptación de la cacería
 
 Participó en dos acercamientos a cérvidos. En el primero respaldó la retirada cuando el animal adoptó una postura defensiva. Durante el segundo enfrentamiento mantuvo distancia y evitó atacar cuando Kevin y Tomás estaban demasiado cerca; ayudó a conservar espacio para que el grupo reaccionara. Después comprobó el estado general de sus compañeros. No se confirma lesión propia, uso de Recuperación, técnica nueva ni avance de rango. Los Cruzados abatieron un cérvido de espolón y su cuota quedó en 1/3.
+
+
+## Piso 3 — Piso Principal: formación y preparación
+
+Durante la preparación del Piso 3, Lucía atendió y eligió sus oportunidades de recompensa pendientes. La narración no especifica los contenidos concretos; no deben registrarse por inferencia. Se familiarizó con su equipo y practicó junto a Kevin y Tomás aspectos básicos de comunicación, distancias y prevención de interferencias. Conversó con Nuria sobre primeros auxilios y criterios prudentes para utilizar la activación de Recuperación: distinguir molestias tolerables de lesiones que comprometan el movimiento o la capacidad de continuar. No se acredita técnica clínica nueva ni rango de combate.
+
+Su experiencia acumulada en los desafíos anteriores le da una base práctica de combate y supervivencia: ha portado y utilizado equipo en situaciones peligrosas y ha participado en cacerías y enfrentamientos. No equivale a dominio especializado de lanza, cuchillo ni combate sin armas. Entra al Piso 3 con una activación de Recuperación disponible; no se confirma uso ni lesión nueva.
