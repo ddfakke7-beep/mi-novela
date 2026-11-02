@@ -1,21 +1,27 @@
 # Continuidad — estado actual
 
-**Estado: narración en curso. Último tramo aprobado: Piso 3 — Piso Principal: Formación y preparación.**
+**Estado: narración en curso. Último tramo aprobado: Piso 3C — La élite y sus acompañantes.**
 
-- **Piso actual:** Piso 3; desafío iniciado.
-- **Diseño vigente:** Piso 3 — Formación. Objetivo general: despejar tres sectores (Bosque de Columnas, Cantera Escalonada y Cuenca de Juncos), derrotando en cada uno una criatura de élite y todas las criaturas hostiles asociadas.
-- **Plazo:** 120 horas desde el inicio. Si vence sin cumplir el objetivo, las criaturas perseguirán a quienes permanezcan en el área y la salida quedará bloqueada cuatro horas. Salida: puerta blanca al norte.
-- **Punto exacto:** terminó la preparación común de 24 horas y comenzó el desafío. Los Cruzados aparecen juntos en el área general. El Sistema anunció «DISTRIBUCIÓN DE CONTINGENTES OPERATIVOS EN PROCESO». La asignación de contingentes aún no se ha mostrado.
-- **Los Cruzados:** Kevin, Lucía y Tomás; party reconocida y convocada como unidad.
-- **La Cuadrilla:** Gabriel, Nuria, Bruno y Maia; party formalizada durante la preparación del Piso 3.
-- **Kevin:** eligió y recibió por recompensa del Piso 2 la guía **Táctica y estrategia → Coordinación de combate en equipo → Principiante**. Contenido: comunicación, distribución de funciones, posicionamiento y apoyo mutuo. No equivale a dominio. Continúa practicando con lanza y revisando su guía; no se acredita rango ni técnica nueva.
-- **Lucía y Tomás:** atendieron y eligieron sus oportunidades de recompensa pendientes durante la preparación del Piso 3. Los contenidos concretos no se especificaron; no registrarlos por inferencia. Ambos participaron en prácticas individuales y conjuntas.
-- **Preparación de los Cruzados:** Tomás practicó con la maza, trabajando control y recuperación de posición; Lucía se familiarizó con su equipo y conversó con Nuria sobre primeros auxilios y criterios prudentes para usar Recuperación. Los tres practicaron avisos, distancias y prevención de interferencias al moverse juntos.
-- **Preparación de La Cuadrilla:** Gabriel trabajó comunicación y organización; Nuria combinó consulta, práctica y revisión de equipo; Bruno revisó herramientas y equipo; Maia practicó transmisión clara de información.
-- **Combate de los participantes:** quienes han sobrevivido a desafíos anteriores cuentan con una base práctica de combate en distinto grado, por experiencia real, uso de equipo y exposición a amenazas. No son expertos ni necesariamente combatientes especializados. Esta base no concede automáticamente un rango o técnica formal. Mantener diferencias individuales y evaluar con evidencia.
-- **Condición física y Recuperación:** Kevin, Lucía y Tomás entraron con restauración corporal completa y disponen de una activación de Recuperación para el Piso 3. No se confirma uso durante la preparación ni lesión nueva. La Cuadrilla tiene también la disponibilidad que corresponde a este Piso Principal, sin usos narrados.
-- **Equipo:** Kevin conserva la lanza marcada; no se confirma daño estructural ni sustitución. No se narran cambios de equipo para los demás.
-- **Siguiente paso:** Piso 3A — Distribución y reconocimiento. Mantener desconocidas la asignación de contingentes, la posición inicial exacta de las demás parties y las amenazas observadas hasta que se narren.
+- **Piso actual:** Piso 3; desafío activo.
+- **Objetivo:** despejar los tres sectores designados (Bosque de Columnas, Cantera Escalonada y Cuenca de Juncos), derrotando en cada uno una élite y todas las criaturas hostiles asociadas.
+- **Plazo y salida:** 120 horas desde el inicio. Si vence sin cumplir el objetivo, las criaturas perseguirán a quienes permanezcan en el área y la salida quedará bloqueada cuatro horas. La puerta blanca está al norte.
+- **Contingente 1 — Bosque de Columnas:** Kevin, Lucía y Tomás más siete participantes anónimos. Han encontrado al **Quebrantahileras**, acompañado por Rastreros de tronco. La élite y los Rastreros siguen activos. El contingente retrocedió junto hacia un claro más amplio.
+- **Contingente 2 — Cantera Escalonada:** Gabriel, Nuria, Bruno y Maia más seis participantes anónimos. Han encontrado al **Rompecrestas**, acompañado por Saltadores de cantera. La élite y los Saltadores siguen activos. El contingente se reorganizó en una plataforma más amplia.
+- **Contingente 3 — Cuenca de Juncos:** diez participantes anónimos. Han encontrado a la **Mandíbula de la Cuenca**, acompañada por Mordedores de ribera. La élite y los Mordedores siguen activos. El contingente retrocedió a terreno firme.
+- **Parties:** Los Cruzados (Kevin, Lucía y Tomás) y La Cuadrilla (Gabriel, Nuria, Bruno y Maia) siguen siendo parties independientes. Los contingentes son responsabilidades temporales, no nuevas parties. No existe alianza formal entre ambas.
+- **Estado del desafío:** ninguna élite ha sido derrotada y ningún sector está despejado. No se confirma muerte, baja ni eliminación de criaturas.
+- **Kevin:** la punta de su lanza tocó el costado del Quebrantahileras, sin daño confirmado. Pidió mantener espacio, cubrir al participante del escudo y retroceder juntos. La guía de coordinación sigue siendo conocimiento en desarrollo, no dominio.
+- **Lucía:** avisó de los movimientos de los Rastreros y vigiló los flancos. Sin lesión propia confirmada.
+- **Tomás:** golpeó con la maza una extremidad del Quebrantahileras; la criatura cambió ligeramente el apoyo, pero no cayó. Sin lesión propia confirmada.
+- **Gabriel:** intentó distribuir funciones y reorganizar al contingente de la Cantera; la coordinación fue imperfecta.
+- **Nuria:** vigiló el estado del grupo y comprobó al participante que cayó de rodillas, sin tratamiento ni lesión concreta confirmados.
+- **Bruno:** señaló las limitaciones de visibilidad entre plataformas y apoyó la reorganización.
+- **Maia:** avisó movimientos de Saltadores desde distintos niveles; los avisos simultáneos generaron una breve confusión.
+- **Participantes anónimos:** en el Bosque, el hombre del escudo fue empujado varios pasos; en la Cantera, un participante cayó de rodillas y se levantó; en la Cuenca, uno cayó sobre una rodilla y se levantó. No hay lesión concreta confirmada. No atribuir estas incidencias a personajes con ficha.
+- **Recuperación y equipo:** no se confirma uso de Recuperación, lesión propia de los siete personajes nombrados, daño estructural de equipo ni cambio de equipo.
+- **Progresión:** no se acredita técnica nueva, ejecución fiable ni aumento de rango para ningún personaje.
+- **Siguiente etapa:** Piso 3D — Coordinación y corrección. Mantener separados los estados de los tres frentes; no asumir que avanzarán al mismo ritmo.
+
 
 ---
 
