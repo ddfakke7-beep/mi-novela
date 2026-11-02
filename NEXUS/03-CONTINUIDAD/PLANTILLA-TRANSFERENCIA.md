@@ -142,3 +142,14 @@ Marcar cada ámbito como **actualizado**, **revisado sin cambios** o **pendiente
 - No se confirman usos de Recuperación, daño estructural de equipo, técnicas nuevas ni aumentos de rango. La experiencia de combate y coordinación no equivale a dominio estable.
 - Los Cruzados y La Cuadrilla siguen siendo parties independientes; los contingentes fueron asignaciones temporales.
 - Siguiente: Etapa F, conforme al diseño aprobado. No asumir que todos llegan a la salida ni que realizan la transición al mismo tiempo.
+
+
+## Transferencia vigente — cierre de Piso 3F
+
+- Piso 3F aprobado. El Piso 3 está completado: con los tres sectores despejados, el Sistema anunció «Prueba completada» y ordenó dirigirse a la puerta blanca para realizar la transición.
+- Los treinta convocados llegaron a la zona de salida y realizaron la transición. No se narran bajas humanas; no todos llegaron ni cruzaron en el mismo instante.
+- Kevin, Lucía y Tomás cruzaron juntos como Los Cruzados. Gabriel, Nuria, Bruno y Maia cruzaron juntos como La Cuadrilla. Los demás cruzaron individualmente o con sus parties reconocidas, sin identidades ni composiciones nuevas confirmadas.
+- Los participantes que cruzaron entraron al Piso Principal 4 y recibieron restauración corporal. El equipo y las pertenencias no fueron restaurados ni reemplazados; la lanza de Kevin conserva sus marcas.
+- No se narran usos de Recuperación, lesiones nuevas concretas, elecciones o recepciones de recompensas del Piso 3, técnicas nuevas ni aumentos de rango.
+- Los Cruzados y La Cuadrilla mantienen sus composiciones y reconocimiento; no existe alianza formal entre ambas.
+- Siguiente: continuar desde el Piso Principal 4 conforme a su diseño aprobado. La oportunidad de recompensa del Piso 3 debe gestionarse según el Sistema de Recompensas, sin inventar elecciones ni contenidos recibidos.
