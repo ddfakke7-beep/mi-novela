@@ -1,6 +1,6 @@
 # Tomás — ficha individual
 
-**Estado:** personaje recurrente; ficha vigente al inicio del desafío del Piso 2.  
+**Estado:** personaje recurrente; ficha actualizada tras completar el Piso 3 e ingresar al Piso Principal 4.  
 **Base:** diseño aprobado del Piso 1, narración aprobada de los tramos 1.1 y 1A–1E, y sistemas oficiales vigentes.
 
 ## Identidad y punto de partida
@@ -21,14 +21,15 @@ Su impulso de proteger a otros puede llevarlo a exponerse antes de comprender el
 
 ### Combate
 
-- Experiencia previa de varios años en boxeo amateur.
-- Posee una base de golpeo y familiaridad con el combate sin armas; el rango exacto vigente debe evaluarse conforme al Sistema de Combate y a la evidencia narrativa, sin tomar una propuesta provisional como certificación automática.
-- Arma elegida en el Piso 1: maza corta.
-- Equipo inicial adicional: cuchillo corto, protección de cuero reforzado para el torso y protectores de antebrazo.
-- La práctica inicial con la maza durante el Piso 1 solo le permitió familiarizarse parcialmente con su peso y manejo. No equivale a dominio funcional de esa arma.
-- Durante la preparación del Piso 2 trabajó con un arma de entrenamiento, cuyo tipo no queda especificado con precisión en la narración aprobada. Mostró soltura física y coordinación, pero no se le atribuye una técnica concreta ni una mejora certificada de dominio.
-- Tiene poca experiencia con armas en comparación con su práctica de boxeo.
-- Su condición física inicial es mejor que la de Kevin, pero no lo vuelve invulnerable ni garantiza que pueda imponerse a una criatura.
+- **Combate sin armas / boxeo:** rango 2 — Competente. Sus varios años de práctica de boxeo amateur justifican una base técnica real y funcional en su disciplina: golpeo, guardia, desplazamiento y lectura de distancia frente a adversarios humanos. No se le atribuye rango avanzado sin evidencia de adaptación amplia y desempeño fiable bajo presión elevada.
+- **Maza corta:** rango 2 — Competente. Su dominio se ha construido después de familiarizarse con el arma y utilizarla repetidamente en situaciones reales. Puede controlar el peso y la trayectoria de golpes básicos, buscar aperturas y recuperar su posición, aunque su precisión y elección del momento todavía dependen del espacio y del movimiento del objetivo.
+- **Cuchillo corto:** sin rango evaluado; no hay evidencia suficiente de entrenamiento o uso especializado.
+- **Límites:** la experiencia de boxeo no se transfiere automáticamente a la maza. Tampoco garantiza que sus hábitos de golpeo funcionen igual contra criaturas de tamaño, anatomía o fuerza muy distintas. Puede precipitarse cuando intenta proteger a alguien y exponerse por actuar demasiado pronto.
+- En el Piso 2 practicó con un arma de entrenamiento cuyo tipo no quedó especificado. Esa práctica no se usa como prueba independiente de una técnica concreta.
+- Durante el Piso 2 golpeó a un cérvido desde un lateral con la maza y contribuyó a abatirlo.
+- En el Piso 3 golpeó Rastreros y al Quebrantahileras desde ángulos laterales. En 3D conectó dos golpes contra un Rastrero que quedó abatido; en 3E intervino repetidamente contra la élite aprovechando cambios de apoyo y aperturas.
+- La repetición de fundamentos con resultados observables en varios encuentros justifica rango competente con la maza; no acredita técnicas especializadas ni rango avanzado.
+- Su condición física inicial y experiencia previa de boxeo son superiores a las de Kevin, pero no lo hacen invulnerable ni aseguran que venza a una criatura superior.
 
 ### Criterio y experiencia
 
@@ -133,3 +134,16 @@ En el Bosque de Columnas, Tomás esperó a que el Quebrantahileras pasara y golp
 - Cruzó la puerta blanca junto a Kevin y Lucía como integrante de Los Cruzados y entró al Piso Principal 4.
 - Recibió restauración corporal al entrar al nuevo Piso Principal. Sus pertenencias no fueron reemplazadas; no se detallan cambios de equipo.
 - No consta elección ni recepción de la recompensa por completar el Piso 3. Sin técnica nueva ni aumento de rango.
+
+
+## Revisión de dominio — cierre del Piso 3 (APROBADO)
+
+La revisión individual reconoce a Tomás como **Competente (rango 2) en combate sin armas/boxeo y en manejo de maza corta**. El primer rango se apoya en varios años de práctica amateur previa; el segundo, en familiarización, uso repetido y aplicación efectiva de golpes básicos durante los Pisos 2 y 3. Son disciplinas distintas y sus fundamentos no se transfieren automáticamente.
+
+No se le asigna rango avanzado: aún debe demostrar adaptación más amplia, consistencia bajo presión significativa y control de sus impulsos cuando intenta proteger a otros.
+
+### Piso 3F — Superación general y salida (APROBADO)
+
+- Cruzó la puerta blanca junto a Kevin y Lucía como integrante de Los Cruzados y entró al Piso Principal 4.
+- Recibió restauración corporal al entrar al nuevo Piso Principal. Sus pertenencias no fueron reemplazadas; no se detallan cambios de equipo.
+- No consta elección ni recepción de la recompensa por completar el Piso 3. La experiencia acumulada con boxeo y maza se conserva; no se concede un rango adicional por completar la prueba.
