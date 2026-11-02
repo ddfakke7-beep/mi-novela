@@ -32,3 +32,8 @@ Equipo exacto, disciplina de combate, rango, técnicas, elección concreta de re
 ## Piso 3B — Primeros contactos
 
 Durante el encuentro con Saltadores de cantera, Maia detectó y comunicó movimientos laterales y cambios de dirección de las criaturas. Sus avisos ayudaron al grupo a reconocer amenazas desde distintos niveles, aunque no siempre llegaron con suficiente antelación para evitar una breve desorganización. Es una aplicación inicial de comunicación bajo presión, no dominio táctico. Sin lesión confirmada ni uso de Recuperación.
+
+
+## Piso 3C — La élite y sus acompañantes
+
+En la Cantera Escalonada, Maia avisó de los movimientos de Saltadores de cantera desde plataformas laterales y niveles distintos. Sus avisos ayudaron a detectar amenazas que podían aprovechar la atención puesta en el Rompecrestas, aunque la llegada casi simultánea de varios mensajes contribuyó a una breve confusión sobre cuál movimiento atender primero. Es una aplicación inicial de comunicación bajo presión, no dominio táctico ni aumento de rango. No se confirma lesión propia ni uso de Recuperación.
