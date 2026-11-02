@@ -117,3 +117,9 @@ En el Bosque de Columnas, Lucía avisó de la aparición y los movimientos de lo
 - Avisó de la presencia de un Rastrero de tronco por el lateral durante el enfrentamiento del Bosque, permitiendo que el contingente atendiera esa amenaza.
 - Su intervención fue de observación y comunicación situacional; no se confirma técnica sanitaria nueva ni cambio de rango.
 - No se confirma lesión propia ni uso de Recuperación.
+
+
+### Piso 3E — Despeje de cada sector (APROBADO)
+
+- Durante el enfrentamiento final en el Bosque, avisó de la aproximación lateral de un Rastrero y mantuvo vigilancia sobre los flancos mientras el contingente atendía al Quebrantahileras.
+- Su contribución fue de observación y comunicación situacional; no acredita técnica sanitaria nueva ni aumento de rango. No se confirma lesión propia ni uso de Recuperación.
