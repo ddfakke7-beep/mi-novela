@@ -11,7 +11,7 @@
 - **Gabriel, Nuria, Bruno y Maia:** La Cuadrilla cruzó junta al Piso Principal 4. Sus cuerpos recibieron la restauración correspondiente; no se detallan cambios individuales de equipo ni elecciones de recompensa.
 - **Parties:** Los Cruzados y La Cuadrilla siguen reconocidas y mantienen sus composiciones confirmadas. No se establece alianza formal entre ambas ni cambios de integrantes.
 - **Piso 3:** prueba superada y transición completada para los participantes narrados. No quedan objetivos pendientes del desafío.
-- **Progresión:** la experiencia de coordinación y combate del Piso 3 permanece como práctica acumulada; no se acreditan técnicas nuevas ni aumentos de rango por completar la prueba.
+- **Progresión revisada tras el Piso 3:** Kevin tiene rango 2 — Competente en lanza; Tomás, rango 2 — Competente en boxeo/combate sin armas y maza corta. Lucía, Gabriel, Nuria, Bruno y Maia conservan una base práctica elemental de combate y supervivencia adquirida en los desafíos; no se les asigna rango formal de arma sin evidencia individual suficiente. La coordinación, observación, apoyo y comunicación de cada uno se registran según sus aportes demostrados. Estos avances se evalúan por práctica y experiencia acumuladas, no por completar el piso automáticamente.
 - **Siguiente paso narrativo:** desarrollo del Piso Principal 4 conforme a su diseño aprobado. No anticipar el contenido del Piso 4 ni asumir decisiones de recompensa no narradas.
 
 
