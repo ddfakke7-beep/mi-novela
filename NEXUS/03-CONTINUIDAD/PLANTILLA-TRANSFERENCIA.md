@@ -100,3 +100,13 @@ Marcar cada ámbito como **actualizado**, **revisado sin cambios** o **pendiente
 - No se confirman lesiones, bajas, uso de Recuperación, cambios de equipo, técnicas nuevas ni aumento de rango.
 - Los participantes supervivientes de desafíos previos poseen una base práctica de combate desigual, sin que esto implique rango o especialización formal.
 - **Siguiente paso:** primeros contactos con criaturas menores; información parcial y necesidad de mantener cohesión, según el diseño aprobado.
+
+## Transferencia vigente — cierre de Piso 3B
+
+- **Piso/etapa:** Piso 3, Etapa B aprobada; siguiente Etapa C — La élite y sus acompañantes.
+- **Contingente 1 / Bosque de Columnas:** Los Cruzados (Kevin, Lucía y Tomás) más siete anónimos. Tres Rastreros de tronco observados; siguen activos y no han sido eliminados. Kevin mantuvo distancia con la lanza y comunicó cautela; Tomás golpeó uno con la maza sin derribarlo; Lucía avisó movimientos. Un participante anónimo refiere molestia en el brazo tras un impacto sobre arma/protección, conserva movilidad; sin lesión confirmada.
+- **Contingente 2 / Cantera Escalonada:** La Cuadrilla (Gabriel, Nuria, Bruno y Maia) más seis anónimos. Tres Saltadores de cantera observados; siguen activos. Gabriel ordenó reagruparse tras una desorganización breve; Maia avisó cambios; Bruno observó limitaciones de visión; Nuria comprobó al grupo. Marca en protección de pierna de un anónimo, sin impacto directo ni lesión confirmada.
+- **Contingente 3 / Cuenca de Juncos:** diez anónimos. Al menos tres Mordedores de ribera observados; siguen activos. Evitaron perseguirlos al agua y retrocedieron a terreno firme. Un participante evitó una aproximación a su pierna; sin lesión confirmada.
+- No se ha encontrado ni derrotado ninguna élite. Ningún sector despejado. No se confirman muertes, bajas, uso de Recuperación, daño estructural de equipo, técnicas nuevas ni rangos nuevos.
+- La coordinación de los tres contingentes sigue siendo inicial e imperfecta. No convertir observaciones puntuales de criaturas en reglas universales.
+- Las lesiones/molestias mencionadas pertenecen a anónimos; no atribuirlas a personajes con ficha.
