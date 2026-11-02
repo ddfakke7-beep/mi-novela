@@ -69,3 +69,18 @@
 Los Cruzados abatieron un cérvido de espolón y el Sistema registró una presa válida. Cuota: 1/3 (cérvido 1/1, verraco 0/1, treparroca 0/1). Rastro Gris enfrentó a un verraco en terreno abierto, pero se retiró sin captura; cuota 0/3. Tomás informó que el dolor del antebrazo disminuyó, aunque persiste; conserva movilidad y no se confirma lesión concreta ni recuperación completa. La lanza de Kevin presenta marcas visibles, sin daño estructural confirmado. No se confirman lesiones nuevas, uso de Recuperación, cambios de equipo ni progreso de rango o técnica. No hubo observación ni captura de treparrocas en esta etapa.
 
 **Siguiente etapa:** Etapa E, cierre del desafío. Deben completarse las cuotas de todas las unidades convocadas; después, cada participante vivo debe alcanzar físicamente la puerta blanca. Completar la cuota propia no permite salir anticipadamente.
+
+
+## Piso 3A — Distribución y reconocimiento (APROBADO)
+
+- Sistema distribuyó a los 30 participantes en tres contingentes temporales de diez, uno por sector.
+- **Contingente 1 — Bosque de Columnas:** Kevin, Lucía y Tomás más siete participantes no identificados.
+- **Contingente 2 — Cantera Escalonada:** Gabriel, Nuria, Bruno y Maia más seis participantes no identificados.
+- **Contingente 3 — Cuenca de Juncos:** diez participantes no identificados.
+- Los Cruzados y La Cuadrilla permanecen como parties reconocidas e independientes; contingentes no son parties nuevas. No hay alianza formal entre ambas parties.
+- Los contingentes acuerdan avisos concretos, comunicación de movimientos y evitar separarse sin necesidad. No se fijan líderes ni funciones rígidas.
+- Solo se reconoce el terreno de forma general. No conocen criaturas, posiciones enemigas, rutas seguras ni debilidades.
+- Los Cruzados alcanzan el primer tramo del Bosque de Columnas sin observar criaturas ni rastros atribuibles al desafío. La Cuadrilla avanza hacia la cantera; el tercer contingente hacia la cuenca.
+- No se confirman encuentros, lesiones, bajas, uso de Recuperación, cambios de equipo, técnicas nuevas ni rangos nuevos.
+
+**Punto exacto:** contingentes desplazándose a sus sectores; siguiente etapa Etapa B — Primeros contactos.
