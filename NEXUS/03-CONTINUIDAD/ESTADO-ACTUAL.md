@@ -84,3 +84,14 @@ Los Cruzados abatieron un cérvido de espolón y el Sistema registró una presa 
 - No se confirman encuentros, lesiones, bajas, uso de Recuperación, cambios de equipo, técnicas nuevas ni rangos nuevos.
 
 **Punto exacto:** contingentes desplazándose a sus sectores; siguiente etapa Etapa B — Primeros contactos.
+
+## Piso 3B — Primeros contactos (APROBADO)
+
+- Los tres contingentes tienen contacto inicial con criaturas menores. Ninguna élite ha sido encontrada ni derrotada; ningún sector está despejado.
+- **Bosque de Columnas:** tres Rastreros de tronco observados. Buscan flancos y se desplazan entre árboles. Uno golpea arma/protección de un participante anónimo, que refiere molestia en el brazo pero conserva movilidad; sin lesión concreta confirmada. Kevin mantiene distancia con la lanza y comunica que no persigan a las criaturas; el espacio limita su manejo del asta y corrige ángulos para no interferir. Tomás golpea lateralmente a un Rastrero con la maza, sin derribarlo. Lucía avisa movimientos y flancos. Los tres Rastreros se alejan, siguen dentro del sector.
+- **Cantera Escalonada:** tres Saltadores de cantera observados. Cambian de plataforma y nivel; un participante interpone su arma y una criatura gana distancia. Maia avisa movimientos; Gabriel tarda en reaccionar a un cambio y ordena reagruparse. Bruno señala la dificultad de vigilar todas las plataformas. Nuria comprueba al grupo; un participante tiene una marca en la protección de la pierna, camina y niega impacto directo. Sin lesión confirmada. Saltadores siguen activos.
+- **Cuenca de Juncos:** al menos tres Mordedores de ribera observados en agua poco profunda y juncos. Se aproximan desde distintos lados; un participante evita una embestida hacia su pierna. El contingente retrocede a terreno firme y no los persigue al agua. Un participante golpea el agua para mantener a uno a distancia; retrocede. Los Mordedores siguen en el sector.
+- Los tres contingentes evitan dispersarse por completo, aunque la coordinación es inicial e imperfecta. Se obtienen observaciones situacionales, no reglas universales de comportamiento.
+- No se confirman muertes, bajas, lesiones concretas, uso de Recuperación, daño estructural de equipo, técnicas nuevas ni aumento de rango. Las molestias/marcas descritas corresponden a participantes anónimos y no se atribuyen a fichas individuales.
+
+**Punto exacto:** Los Cruzados continúan en el Bosque de Columnas; La Cuadrilla en la Cantera Escalonada; el tercer contingente en la Cuenca de Juncos. Criaturas menores observadas siguen activas; las tres élites siguen sin aparecer. Siguiente etapa funcional: Etapa C — La élite y sus acompañantes.
