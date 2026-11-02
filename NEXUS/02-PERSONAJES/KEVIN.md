@@ -124,3 +124,10 @@ Durante el primer contacto con tres Rastreros de tronco, Kevin comunicó que no 
 ## Piso 3C — La élite y sus acompañantes
 
 En el Bosque de Columnas, Kevin sostuvo la lanza para controlar la distancia ante el Quebrantahileras. Durante el cambio de apoyo de la criatura, alcanzó a tocar su costado con la punta, pero tuvo que corregir el ángulo y no pudo confirmar que causara daño. Evitó intentar detener la carga de frente y pidió mantener espacio, cubrir al participante del escudo y retroceder juntos hacia un claro. También valoró el riesgo de dividir la atención entre la élite y los Rastreros de tronco. La guía principiante de coordinación le aporta conceptos útiles, pero su ejecución sigue en desarrollo: no se acredita técnica nueva, ejecución fiable ni aumento de rango. Sin lesión propia ni uso de Recuperación confirmados.
+
+### Piso 3D — Coordinación y corrección (APROBADO)
+
+- Propuso que el participante del escudo no volviera a recibir una carga del Quebrantahileras sin apoyo, contribuyendo a ajustar posiciones y apoyos.
+- Usó la lanza para forzar una corrección de trayectoria de la élite cuando esta se dirigía hacia Tomás. No se confirma daño ni una ejecución técnica nueva.
+- Su aportación fue una decisión táctica concreta apoyada por la guía de coordinación que está estudiando; no demuestra liderazgo estable ni dominio táctico.
+- No se confirma lesión propia, uso de Recuperación, cambio de equipo, técnica nueva ni aumento de rango.
