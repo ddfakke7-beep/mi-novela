@@ -212,3 +212,27 @@ Los Cazadores Antiguos eran criaturas dominantes con territorios y motivaciones 
 **Supervivientes y destinos:** Ivara, Serek, Maraith, Tarek y Ossu sobrevivieron a los últimos hechos narrados, aunque sus destinos posteriores no están confirmados. Eldra sobrevivió gravemente dañada. Vaor murió; Azhur, Nyr, Orrak y el Varkh murieron o quedaron destruidos según los últimos enfrentamientos, sin recuperación de todos los cuerpos. Sahra se retiró para proteger a sus crías; su destino posterior es desconocido.
 
 El planeta permaneció físicamente intacto. La civilización de las rutas, los pactos de rastro y los territorios compartidos dejó de funcionar como sistema común.
+
+
+## Mundo 8 — Naereth
+
+**Título del capítulo:** *Naereth, el reino que encerró la noche*.
+
+Naereth era un mundo de cielo oscuro atravesado por la Vía Alta, una corriente de luces estelares. Sus pueblos —entre ellos los habitantes de piel cenicienta de los Dominios de Cal, los Varkai de las Ciudades de Bronce y las comunidades de los Pueblos de la Máscara— mantenían el equilibrio de la noche mediante nueve grandes campanas. Los Monasterios del Umbral custodiaban pasos y regiones donde descendían estrellas errantes. El Concilio de las Nueve Campanas coordinaba los pactos, pero no era un gobierno imperial.
+
+**Sistema local:** las campanas consagradas mantenían separados los estratos de la noche y sostenían una red de resonancias. El sonido, sus frecuencias y la capacidad de absorber, desviar o devolver vibraciones tenían funciones físicas y sobrenaturales. Las reglas pertenecían a Naereth y no definen el poder de Kevin.
+
+**Acontecimientos:** Kevin llegó a la ciudad mayor y las nueve campanas respondieron a su presencia. Un Mudo lo atacó directamente. Fue trasladado a la Cámara Sorda, una prisión de piedra muda y nueve capas de sellos, donde permaneció aproximadamente 25 horas y 20 minutos. La prisión logró contenerlo durante ese periodo. El Oyente, una presencia antigua que percibía la ausencia de eco en Kevin, despertó y se dirigió hacia la Cámara. La llegada del Oyente anuló los sellos y liberó a Kevin.
+
+Las custodias y los guardianes intentaron contener al Oyente. Mael defendió el monasterio del Umbral; Dhoran atacó con la resonancia acumulada en su martillo; Odria utilizó la Campana Vacía para atraer al Oyente; Yssara sostuvo la frecuencia de Hierro; Asha Vey mantuvo el centro de la red. Kevin fue atacado directamente por el Oyente y sufrió heridas. Una manifestación involuntaria contribuyó a fracturar la esfera central de la criatura, que murió.
+
+**Colapso civilizatorio:** día 4, 04:50.  
+**Duración desde la llegada hasta el colapso:** 61 horas y 30 minutos.  
+**Salida de Kevin:** día 4, 11:05.  
+**Duración total de la estancia:** 67 horas y 45 minutos.
+
+**Balance provisional:** 18.700 muertos confirmados, 29.300 desaparecidos, 47.600 heridos y 186.000 evacuados. Daños: nueve campanarios mayores destruidos o mudos, 38 monasterios del Umbral destruidos o abandonados, 12 Ciudades de Bronce parcialmente inhabitables, 74 pueblos de los Dominios de Cal incomunicados y 163 puentes de resonancia perdidos. El registro es incompleto por la pérdida de comunicaciones; heridos y evacuados pueden solaparse.
+
+**Supervivientes y destinos:** Sereth sobrevivió y abandonó la ciudad mayor con refugiados; Iven sobrevivió al primer ataque, pero sus destinos posteriores no están confirmados. Odria, Mael, Dhoran, Yssara y Asha Vey murieron durante la defensa. El Oyente murió tras la fractura de su esfera central. Uno de los Mudos fue destruido; el destino de los demás es desconocido.
+
+Naereth no fue destruido físicamente. El sistema de las nueve campanas y el Concilio dejaron de funcionar, los territorios perdieron sus defensas comunes y las comunidades se dispersaron.
