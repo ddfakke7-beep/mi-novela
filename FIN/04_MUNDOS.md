@@ -166,3 +166,27 @@ Hay dos mundos confirmados como visitados: Veyra (capítulo 1) y Cangyuan (capí
 - **Colapso civilizatorio:** día 4, 16:40.
 - **Duración desde la llegada hasta el colapso:** 81 horas y 58 minutos.
 - **Salida de Kevin:** día 4, 18:03.
+
+
+## 10. Mundo 6 — Ilyr
+
+- **Nombre:** Ilyr, el mundo que dormía bajo sus raíces.
+- **Capítulo:** 6 — Ilyr, el mundo que dormía bajo sus raíces.
+- **Género:** fantasía sobrenatural no humana, cultivo de savia de sueño y civilización simbiótica con criaturas colosales.
+- **Estado:** civilización de los Pozos y los pueblos de las huellas colapsada; planeta físicamente intacto; supervivientes dispersos.
+- **Geografía y naturaleza:** continentes bajo los que duermen los Durmientes, seres colosales cuyos cuerpos se confunden con cordilleras, llanuras y mares interiores. Sus respiraciones y movimientos lentos alteran corrientes profundas, abren valles y alimentan fuentes.
+- **Pueblos:** Aruun, seres de cuatro brazos y placas minerales; Sethri, pueblos serpentinos de ríos subterráneos; Vey, criaturas pequeñas y aladas que transmiten mensajes mediante pulsos de luz.
+- **Organización:** no existe un reino ni una capital común. Las comunidades se organizan alrededor de nueve Pozos de Aliento, vinculados a los Durmientes y a la obtención de savia de sueño. Los pactos entre Pozos permiten rutas, refugios y recursos compartidos.
+- **Sistema de poder:** cultivo y disciplinas vinculadas a la savia de sueño, las raíces profundas, el agua subterránea, los filamentos y la relación con los Durmientes. No se establece una escala numérica ni equivalencia con otros mundos.
+- **Figuras supremas:** Vaeshra, guardiana ancestral de Urdan; Tharuun, guardián de las Aguas Hondas; Oruun, maestra de los ríos profundos; Ishkar, ancestro de escamas negras; Kharum, Ancestro de las Mandíbulas; Eshkar, último de los Tejedores de Sueño.
+- **Llegada de Kevin:** día 1, 09:10, en el valle de Urdan.
+- **Incidente:** una manifestación espontánea fracturó el valle y dañó viviendas y raíces sin que Kevin fuera atacado ni intentara defenderse.
+- **Contención:** el Nudo del Primer Sueño lo mantuvo consciente e inmóvil desde el día 1 a las 13:20 hasta el día 2 a las 02:42: **13 horas y 22 minutos**. Nueve anclas vinculadas a distintos Durmientes sostenían el lugar que ocupaba Kevin. La técnica tenía un coste progresivo para sus portadores y permitió evacuaciones e investigaciones; no lo mató ni anuló el fenómeno.
+- **Investigación:** Ishkar observó que las fracturas continuaban mientras Kevin estaba contenido. Los Ancestros propusieron hipótesis distintas sobre la relación entre Kevin, las raíces profundas y el despertar de los Durmientes; ninguna quedó demostrada como explicación definitiva.
+- **Enfrentamientos:** Tharuun combatió para apartar a Kevin de una garganta sin destruirla; Kharum, Oruun, Eshkar y Vaeshra coordinaron defensas y formaciones. Kharum murió durante la defensa; Vaeshra y Eshkar murieron al intentar separar el núcleo de Urdan de las raíces. Oruun murió sosteniendo una ruta de evacuación.
+- **Resultado:** el despertar de los Durmientes se propagó a los nueve Pozos. Las raíces, rutas, refugios y pactos que sostenían la convivencia entre pueblos dejaron de funcionar. La civilización de Ilyr colapsó, aunque el planeta siguió existiendo.
+- **Colapso civilizatorio:** día 3, 07:16.
+- **Duración desde la llegada hasta el colapso:** 46 horas y 6 minutos.
+- **Salida de Kevin:** día 3, 09:10.
+- **Supervivientes:** comunidades dispersas en mesetas y refugios; no existe un recuento fiable.
+- **Aprendizaje de Kevin:** no obtuvo control fiable ni una técnica nueva. Experimentó una contención sobrenatural prolongada y presenció cómo los habitantes aprovecharon el tiempo para evacuar y preparar defensas.
