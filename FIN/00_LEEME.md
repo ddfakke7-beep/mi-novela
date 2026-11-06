@@ -1,7 +1,7 @@
 # FIN — Guía principal del proyecto
 
 **Tipo:** ficción · multiverso · destrucción · desesperación · batallas épicas  
-**Estado:** narración en curso; siete capítulos completos.  
+**Estado:** narración en curso; ocho capítulos completos.  
 **Ubicación:** carpeta `FIN/` en el repositorio `mi-novela`.
 
 ## Identidad e independencia
@@ -106,7 +106,7 @@ FIN cuenta con cuatro capítulos completos: Veyra, Cangyuan, Ithrak y Orthea. El
 
 ## Estado actualizado tras el capítulo 5
 
-FIN cuenta con seis capítulos completos: Veyra, Cangyuan, Ithrak, Orthea, Namar e Ilyr. El último mundo fue Ilyr; la civilización de los Pozos y los pueblos de las huellas colapsó el día 3 a las 07:16, 46 horas y 6 minutos después de la llegada de Kevin. Kevin desapareció a las 09:10. Consultar `07_CONTINUIDAD.md` para el punto exacto de reanudación.
+FIN cuenta con ocho capítulos completos: Veyra, Cangyuan, Ithrak, Orthea, Namar e Ilyr. El último mundo fue Ilyr; la civilización de los Pozos y los pueblos de las huellas colapsó el día 3 a las 07:16, 46 horas y 6 minutos después de la llegada de Kevin. Kevin desapareció a las 09:10. Consultar `07_CONTINUIDAD.md` para el punto exacto de reanudación.
 
 ## Protocolo obligatorio antes de escribir un capítulo nuevo
 
@@ -129,3 +129,10 @@ Antes de redactar cualquier capítulo de FIN, no basta con confiar en recuerdos 
 FIN cuenta con siete capítulos completos: Veyra, Cangyuan, Ithrak, Orthea, Namar, Ilyr y Orveth. El último mundo fue Orveth. Su civilización colapsó el día 3 a las 21:40, 60 horas y 30 minutos después de la llegada de Kevin. Kevin desapareció el día 4 a las 08:55. Consultar `07_CONTINUIDAD.md` para el punto exacto de reanudación.
 
 El capítulo 7 incorpora ataques directos de criaturas dominantes contra Kevin y balances progresivos y finales de daños y víctimas. Los próximos capítulos deben conservar ambos criterios cuando la naturaleza del mundo lo permita.
+
+
+## Estado actualizado tras el capítulo 8
+
+FIN cuenta con ocho capítulos completos: Veyra, Cangyuan, Ithrak, Orthea, Namar, Ilyr, Orveth y Naereth. El último mundo fue Naereth. Su civilización colapsó el día 4 a las 04:50, 61 horas y 30 minutos después de la llegada de Kevin. Kevin desapareció el día 4 a las 11:05. Consultar `07_CONTINUIDAD.md` para el punto exacto de reanudación.
+
+Naereth introdujo una contención prolongada: Kevin permaneció en la Cámara Sorda aproximadamente 25 horas y 20 minutos. Las defensas locales consiguieron mantenerlo aislado durante ese periodo, pero la llegada del Oyente y la caída de las nueve campanas cambiaron la situación. El balance de víctimas y daños quedó registrado como provisional por la pérdida de comunicaciones.
