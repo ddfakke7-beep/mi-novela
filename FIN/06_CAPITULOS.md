@@ -34,7 +34,7 @@ El capítulo 1 ya está escrito y guardado en FIN/CAPITULOS/01_VEYRA_EL_MUNDO_QU
 
 | N.º | Título | Mundo | Estado |
 |---|---|---|---|
-| 1 | Veyra, el mundo que sostenía el cielo | Veyra | Completo |
+| 1 | Veyra, el mundo que sostenía el cielo | Veyra | Completo |\n| 2 | Cangyuan, el mundo de las diez mil sectas | Cangyuan | Completo |
 
 ## 5. Desarrollo y responsabilidad creativa
 
@@ -51,4 +51,15 @@ Los campos aún no narrados son decisiones creativas pendientes de desarrollo, n
 - **Personajes centrales:** Kevin, Maera Voss, Serevan, Ilyra Sen, Rhal Teren, Dovar Kesh, Vael, Neris, Yara Venn y Veyr Kall.
 - **Poder:** manifestaciones involuntarias de fuerza descomunal; Kevin logró contener parcialmente una manifestación y dirigir una caída durante unos segundos, sin control fiable.
 - **Desenlace:** destrucción de los siete anillos y colapso de la civilización de Veyra. El planeta permaneció físicamente intacto y hubo supervivientes dispersos.
+- **Estado:** capítulo completo, registrado en Markdown.
+
+## 7. Resumen del capítulo 2
+
+- **Mundo:** Cangyuan, planeta Murim de cinco continentes y miles de sectas, clanes, imperios y organizaciones.
+- **Cronología:** Kevin llega a las 06:14 a las montañas de Lian y desaparece a las 22:19.
+- **Perspectivas:** Kevin, guardias y discípulos locales, autoridades imperiales, líderes de sectas y maestros supremos de los cinco continentes.
+- **Acontecimientos:** primera manifestación en las montañas; destrucción parcial de Qingshui y Lin'an; informes que viajan entre regiones; movilización de poderes distantes; formación de aislamiento en Tianheng; batalla de los grandes maestros; ruptura de la red de venas espirituales.
+- **Personajes centrales:** Kevin, Shen Rui, Patriarca de la Montaña Silente, Señora de los Cien Venenos, Señor de las Mareas, Rey de las Dunas, líder del Cielo Rojo y Mo Zhen.
+- **Poder:** manifestaciones desproporcionadas ante intentos de captura, heridas y contención. Los intentos de defenderse o apartar ataques pueden empeorar los daños. Kevin no consigue control fiable.
+- **Desenlace:** colapso de las grandes organizaciones, rutas, centros de gobierno y redes de cultivo. El planeta permanece físicamente intacto; hay supervivientes dispersos.
 - **Estado:** capítulo completo, registrado en Markdown.
