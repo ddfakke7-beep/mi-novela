@@ -271,3 +271,21 @@ Los defensores no deben limitarse a golpear a Kevin o a retrasarlo unos instante
 - La regeneración física de Kevin no debe anular automáticamente sellos, prisiones, dominios ni restricciones sobrenaturales. Son cuestiones distintas.
 
 La finalidad no es hacer que Kevin pierda siempre, sino permitir que cada mundo tenga victorias tácticas reales y métodos propios para enfrentarlo. Un mundo debe poder sorprenderlo y cambiar el curso de los acontecimientos antes de que la catástrofe continúe.
+
+## 19. Interpretaciones locales sobre la regeneración de Kevin
+
+Cada mundo puede interpretar la muerte y regeneración de Kevin desde sus propias creencias, disciplinas y conocimientos. Sus personajes poderosos no tienen que llegar todos a la misma explicación ni utilizar las mismas pruebas.
+
+- Un mundo puede interpretar la regeneración como un proceso por etapas, una reconstrucción progresiva, una restauración del alma, una propiedad corporal, una maldición, una técnica desconocida o un fenómeno que no encaja en sus teorías.
+- Algunos pueden creer que hay un plazo máximo para que Kevin vuelva, que ciertas partes deben reconstruirse en determinado orden, que existe una condición que interrumpe el proceso o que el cuerpo necesita permanecer en un estado concreto. Esas ideas son hipótesis locales, no reglas universales.
+- Las teorías pueden nacer de observaciones reales, conocimientos previos, doctrinas, magia, cultivo, medicina, nigromancia, técnicas espirituales o errores de interpretación.
+- Distinguir siempre entre lo observado directamente, la explicación propuesta, la conclusión provisional y lo que todavía no se sabe.
+- Una teoría equivocada también puede ser útil, peligrosa o producir una estrategia eficaz por razones distintas de las que sus autores imaginan.
+- Los personajes pueden diseñar pruebas para comprobar sus hipótesis. Las pruebas deben tener riesgos, costes y consecuencias acordes con el mundo.
+- Los descubrimientos pueden transmitirse a otras personas y modificar sus planes, pero solo si existe una vía de comunicación y tiempo para hacerlo.
+- No dar a todos los mundos el mismo conocimiento, vocabulario o método de investigación. Un cultivador, un nigromante, una bestia ancestral y un sanador pueden interpretar el mismo hecho de maneras radicalmente distintas.
+- Ninguna teoría local debe convertirse automáticamente en una regla real de Kevin. La regeneración mantiene las reglas generales establecidas por el proyecto, salvo que el usuario decida modificarlas expresamente.
+- No fijar por adelantado un tiempo máximo, etapas obligatorias, puntos vulnerables definitivos ni una condición universal para detener la regeneración.
+
+La diversidad de interpretaciones permite que los defensores desarrollen estrategias propias sin que el relato revele prematuramente el mecanismo verdadero. Sus teorías pueden ayudarles a contener a Kevin, aprovechar el tiempo en que permanece muerto o regenerándose, o intentar impedir su regreso; el éxito dependerá de los hechos y de las reglas particulares de cada mundo.
+
