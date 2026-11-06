@@ -2,18 +2,20 @@
 
 ## 1. Identidad inicial
 
-- **Nombre:** Andrés Vega.
+- **Nombre:** Kevin. No se establece apellido.
 - **Edad:** 27 años.
-- **Apariencia:** aspecto completamente corriente; estatura media, complexión común, cabello oscuro y ojos marrones. No posee rasgos físicos extraordinarios ni una apariencia que anuncie su importancia futura.
+- **Apariencia:** aspecto corriente y agradable; estatura media, complexión común, cabello oscuro y ojos marrones. Se conserva la apariencia visual de referencia que el usuario aprobó.
 - **Procedencia:** Tierra.
-- **Ocupación anterior:** trabajador corriente de una empresa. Su vida laboral puede situarse en un empleo ordinario de oficina o atención al cliente, como un call center. No tiene un pasado secreto, una posición especial ni una conexión previa con los mundos que visitará.
+- **Ocupación anterior:** trabajador corriente de una empresa, en un empleo ordinario como atención al cliente o call center. No tiene un pasado secreto, una posición especial ni una conexión previa con los mundos que visitará.
 
-Estos datos son decisiones creativas iniciales de ChatGPT para poder comenzar la historia; pueden ajustarse si el usuario lo pide.
+Estos datos son el punto de partida de la historia. El nombre confirmado es únicamente Kevin.
 
 ## 2. Punto de partida y personalidad
 
 - Es un humano común, bastante normal y sedentario.
-- Su personalidad inicial toma como referencia al protagonista de NEXUS, tal como indicó el usuario. La referencia sirve para mantener una base humana y corriente, sin copiarlo literalmente ni exagerar sus rasgos.
+- Su personalidad inicial toma como referencia al protagonista de NEXUS, tal como indicó el usuario, sin copiarlo literalmente ni exagerar sus rasgos.
+- Es **algo precavido**: suele tener cierta cautela antes de actuar, pero no hasta el punto de paralizarse o desconfiar de todo.
+- Es **algo observador**: se fija en detalles y puede darse cuenta de ciertas cosas, pero sus observaciones son normales. No es un genio, un detective excepcional ni alguien especialmente inteligente.
 - No es un combatiente, atleta, estratega experto ni alguien preparado para afrontar situaciones extraordinarias.
 - Es transportado involuntariamente entre diferentes mundos.
 - Conserva sus recuerdos y su personalidad inicial.
@@ -23,7 +25,7 @@ Estos datos son decisiones creativas iniciales de ChatGPT para poder comenzar la
 
 ## 3. Control creativo y evolución
 
-El usuario establece la personalidad inicial del protagonista y puede corregir sus rasgos personales fundamentales. ChatGPT se encarga de desarrollar su evolución a partir de las experiencias narradas: cómo madura, cambia, se adapta, se quiebra o aprende a afrontar lo que vive.
+El usuario establece la personalidad inicial de Kevin: una persona corriente, moderadamente precavida y observadora, sin convertir esos rasgos en extremos ni atribuirle una inteligencia extraordinaria. ChatGPT se encarga de desarrollar su evolución a partir de las experiencias narradas: cómo madura, cambia, se adapta, se quiebra o aprende a afrontar lo que vive.
 
 No volver a pedir al usuario que defina la personalidad inicial ni tratarla como pendiente. Tampoco cambiarla arbitrariamente: cada transformación debe surgir de acontecimientos concretos y conservar una continuidad psicológica reconocible.
 
