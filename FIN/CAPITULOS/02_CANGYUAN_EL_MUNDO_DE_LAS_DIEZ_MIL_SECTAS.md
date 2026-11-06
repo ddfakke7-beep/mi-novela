@@ -504,7 +504,7 @@ En la cuenca de Tianheng, los maestros que preparaban la formación sintieron el
 
 —Ya viene —dijo el Patriarca.
 
-## 04:50 — Los que llegaron primero
+## Día siguiente, 04:50 — Los que llegaron primero
 
 La cuenca de Tianheng estaba rodeada por montañas y atravesada por una antigua vena espiritual. Era uno de los pocos lugares donde las grandes sectas podían reunir fuerzas sin entrar en el territorio directo de otra.
 
@@ -524,7 +524,7 @@ La Gran Preceptora Shen Rui inspeccionó los sellos.
 
 Shen Rui no respondió.
 
-## 07:22 — El primer gran maestro
+## Día siguiente, 07:22 — El primer gran maestro
 
 Kevin llegó a la entrada de la cuenca.
 
@@ -570,7 +570,7 @@ Kevin retrocedió.
 
 Los estandartes se encendieron.
 
-## 07:29 — La formación de aislamiento
+## Día siguiente, 07:29 — La formación de aislamiento
 
 Los treinta y seis estandartes se elevaron y rodearon la cuenca. Los nueve espejos reflejaron a Kevin desde ángulos distintos. Las tres espadas ancestrales se clavaron en la tierra, cada una en un punto donde la vena espiritual se acercaba a la superficie.
 
@@ -608,7 +608,7 @@ El Patriarca de la Montaña Silente apareció junto a Shen Rui.
 
 Bajo sus pies, la tierra comenzó a brillar.
 
-## 07:34 — La espada que partió el valle
+## Día siguiente, 07:34 — La espada que partió el valle
 
 El Patriarca desenvainó.
 
@@ -658,7 +658,7 @@ La onda lo alcanzó.
 
 El Patriarca de la Montaña Silente murió sin soltar la empuñadura.
 
-## 07:41 — Las nueve montañas caen
+## Día siguiente, 07:41 — Las nueve montañas caen
 
 La formación se quebró.
 
@@ -706,7 +706,7 @@ La señora recibió su propio veneno multiplicado por la presión que atravesó 
 
 La cuenca se abrió.
 
-## 08:03 — El emperador marcha
+## Día siguiente, 08:03 — El emperador marcha
 
 En la capital, el emperador recibió la noticia de que la formación había caído.
 
@@ -724,7 +724,7 @@ Shen Rui había sido su maestra. La Señora de los Cien Venenos había salvado a
 
 No podía abandonar la capital antes de saber si quedaba alguien a quien rescatar.
 
-## 09:17 — Dongling llega tarde
+## Día siguiente, 09:17 — Dongling llega tarde
 
 El Señor de las Mareas alcanzó la costa de Zhongzhou con una flota de ciento veinte barcos.
 
@@ -748,7 +748,7 @@ La marea se partió.
 
 El Señor de las Mareas desapareció bajo el agua que había levantado.
 
-## 10:02 — Los que todavía podían luchar
+## Día siguiente, 10:02 — Los que todavía podían luchar
 
 La cuenca de Tianheng ya no existía como lugar reconocible.
 
@@ -780,7 +780,7 @@ El líder del Cielo Rojo desenvainó su espada.
 
 —Entonces que cada uno use lo que tenga.
 
-## 10:19 — La última alianza
+## Día siguiente, 10:19 — La última alianza
 
 Los cuatro maestros atacaron desde direcciones distintas.
 
@@ -814,7 +814,7 @@ No llegó a cortarlo.
 
 La fuerza lo golpeó a quemarropa. El maestro desapareció junto con la espada.
 
-## 11:00 — El continente se quiebra
+## Día siguiente, 11:00 — El continente se quiebra
 
 La energía de la cuenca no se disipó.
 
@@ -828,7 +828,7 @@ No era una invasión que pudiera detenerse en una frontera.
 
 Era el mundo entero respondiendo a una herida que se extendía bajo sus continentes.
 
-## 12:26 — La capital imperial
+## Día siguiente, 12:26 — La capital imperial
 
 El emperador fue evacuado del palacio cuando la primera muralla se partió.
 
@@ -852,7 +852,7 @@ La capital se hundió.
 
 El palacio, los archivos, las tumbas imperiales y la plaza donde se coronaba a los emperadores desaparecieron bajo una grieta que atravesó la ciudad.
 
-## 14:40 — El último maestro
+## Día siguiente, 14:40 — El último maestro
 
 Kevin había abandonado la cuenca sin saber hacia dónde iba.
 
@@ -920,7 +920,7 @@ El aislamiento se quebró.
 
 El anciano desapareció en la luz que siguió.
 
-## 16:08 — El mundo de las diez mil sectas
+## Día siguiente, 16:08 — El mundo de las diez mil sectas
 
 Las sectas dejaron de existir como organizaciones.
 
@@ -938,7 +938,7 @@ No había una formación que pudiera repararse.
 
 Cangyuan seguía siendo un planeta, pero el mundo de las diez mil sectas había terminado.
 
-## 19:33 — Los supervivientes
+## Día siguiente, 19:33 — Los supervivientes
 
 En las ruinas de una ciudad de Nanyue, una mujer encontró a su hijo debajo de una viga.
 
@@ -954,7 +954,7 @@ Los maestros que habían jurado proteger Cangyuan habían muerto en la cuenca, e
 
 La mayoría de quienes habían sobrevivido a la primera catástrofe no sobrevivió a las que siguieron.
 
-## 22:17 — Después de Cangyuan
+## Día siguiente, 22:17 — Después de Cangyuan
 
 Kevin estaba sentado sobre una roca.
 
