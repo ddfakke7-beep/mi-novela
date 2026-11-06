@@ -303,3 +303,19 @@ Cuando una contención prolongada funcione:
 
 La regeneración física de Kevin no rompe por sí sola una prisión, un sello o un dominio sobrenatural. Tampoco implica que pueda morir o que los defensores hayan descubierto cómo hacerlo. Cada enfrentamiento debe respetar las reglas particulares del mundo y producir resultados tácticos reales.
 
+
+
+## Precisión narrativa: Kevin puede morir y regresar mediante regeneración
+
+Kevin no es inmortal en el sentido de que no pueda morir. Puede ahogarse, asfixiarse, morir por calor o lava, sufrir heridas letales o quedar físicamente destruido. Su cuerpo puede alcanzar un estado de muerte real; la diferencia es que su regeneración no permite que esa muerte sea definitiva.
+
+La narración debe respetar estos puntos:
+- Mostrar las consecuencias físicas y el tiempo de recuperación de acuerdo con el daño. No hacerlo volver de inmediato.
+- Mientras está muerto o regenerándose, Kevin está completamente incapacitado. No piensa, lucha ni se defiende como si siguiera consciente.
+- Los enemigos pueden confirmar su muerte si tienen pruebas suficientes y luego enfrentarse a la sorpresa de su regreso. No todos deben conocer esta propiedad de antemano.
+- La regeneración puede reconstruir daños extremos, pero no anula automáticamente sellos, prisiones, dominios ni otras formas sobrenaturales de contención.
+- No llamar «muerte» a cualquier herida grave o desmayo. Distinguir inconsciencia, incapacitación, muerte física y recuperación.
+- No afirmar que Kevin ya fue decapitado, destruido o asesinado en capítulos anteriores si la narración no lo mostró.
+- No fijar una duración estándar ni una explicación definitiva para la regeneración.
+
+La muerte y el regreso de Kevin no deben convertirse en un truco repetido en cada mundo. Son posibilidades que los defensores pueden descubrir y poner a prueba cuando la historia lo justifique.
