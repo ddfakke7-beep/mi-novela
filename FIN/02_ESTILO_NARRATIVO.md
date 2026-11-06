@@ -211,3 +211,39 @@ La tensión nace de la distancia entre lo que esos personajes esperan y lo que K
 
 Estas figuras pueden coexistir con quienes odian a Kevin, quieren vengarse o consideran que debe morir. Un mismo mundo puede contener rechazo absoluto y una pequeña esperanza obstinada, sin que una postura invalide a la otra.
 
+
+## 17. Prioridad narrativa: mundo vivo y evolución interior de Kevin
+
+El centro de cada capítulo es el mundo que Kevin visita y la respuesta de sus habitantes, no una sucesión de combates alrededor del protagonista. El lector debe sentir que esa civilización existía antes de su llegada y que seguirá teniendo historia, relaciones y consecuencias después de su desaparición.
+
+- **El mundo tiene vida propia:** presentar sus costumbres, tensiones, instituciones, territorios, conflictos previos, vínculos y formas de poder mediante escenas y decisiones, no mediante bloques enciclopédicos.
+- **Los poderosos son protagonistas de su propia crisis:** darles objetivos, relaciones, responsabilidades, desacuerdos, historia y decisiones que no dependan exclusivamente de Kevin. Sus alianzas, sacrificios y enfrentamientos deben tener sentido para ellos y para su mundo.
+- **La respuesta es colectiva y diversa:** alternar, cuando aporte valor, defensas locales, autoridades, facciones, civiles, evacuaciones, comunidades lejanas, supervivientes y potencias. Mostrar cómo la catástrofe cambia la sociedad y sus conflictos.
+- **Kevin es el hilo de continuidad:** cada mundo también debe dejar una huella en él. Desarrollar poco a poco cómo experimenta lo extraño de su situación: pasar de una vida terrestre ordinaria a ser tratado como amenaza mundial, encontrarse con culturas incomprensibles, hablar con personas que quieren matarlo o ayudarlo y descubrir que sus acciones tienen consecuencias que no sabe reparar.
+- **Evolución mental por experiencia:** construir cambios mediante escenas, decisiones, vínculos, pérdidas, contradicciones, alivios y errores. No declarar que Kevin ha cambiado sin mostrar por qué; tampoco repetir en cada mundo la misma culpa, miedo o desconcierto.
+- **Mantener la proporción:** no convertir cada capítulo en un estudio psicológico de Kevin ni relegar su perspectiva a un detalle. El mundo debe tener espacio para existir y luchar; Kevin debe conservar una experiencia interior reconocible que evoluciona entre capítulos.
+- **La extrañeza puede ser cotidiana:** permitir momentos en que Kevin no entienda una costumbre, se sorprenda por una tecnología o sistema desconocido, eche de menos aspectos simples de la Tierra o no sepa cómo responder a alguien que lo considera un monstruo. No hacer que cada interacción sea solemne.
+
+## 18. Simpatizantes, protección y oposición a la ejecución de Kevin
+
+Puede haber personajes que apoyen a Kevin, intenten protegerlo o se opongan a las facciones que quieren matarlo. Esta posibilidad debe surgir de motivos concretos y no de una postura absurda de «que el mundo se destruya».
+
+Motivos narrativos posibles, no una lista obligatoria:
+- Han visto que Kevin intenta evitar daños, ayuda a alguien o se muestra asustado y concluyen que no actúa con maldad.
+- Creen que es una víctima de una fuerza o fenómeno que nadie comprende y que ejecutarlo sería injusto o inútil.
+- Sospechan que sus autoridades quieren capturarlo o matarlo para ocultar errores, conservar poder o apropiarse de algo.
+- Han sufrido abusos de las instituciones que lideran la defensa y se oponen a concederles poder absoluto, aunque también teman a Kevin.
+- Creen que Kevin podría ayudar a salvar a su comunidad, detener una amenaza adicional o cambiar una situación que ya era desesperada.
+- Tienen un vínculo personal con él o recibieron su ayuda, y ese vínculo los lleva a defenderlo pese al riesgo.
+- Quieren utilizarlo como arma, símbolo o ventaja política; su aparente simpatía puede ser interesada y peligrosa.
+
+Al narrarlos:
+- Darles razones, información y límites. Pueden desconocer parte de la destrucción, equivocarse sobre Kevin o subestimar el peligro, pero la narración no debe fingir que las víctimas no existen.
+- No hacer que todos los simpatizantes sean ingenuos, niños o personas débiles. Puede haber adultos, estrategas, autoridades, disidentes o incluso combatientes capaces.
+- No hacer que todos los simpatizantes estén de acuerdo. Unos pueden querer esconder a Kevin, otros negociar, otros intentar que controle su poder y otros utilizarlo.
+- Su postura puede cambiar al presenciar una nueva manifestación, recibir noticias de víctimas o descubrir que Kevin sí intentó salvar a alguien.
+- Los defensores pueden tener motivos legítimos para perseguirlos: temen que proteger a Kevin exponga a más personas o destruya una oportunidad de detenerlo.
+- La oposición puede ser clandestina, local, política, religiosa, personal o simplemente una decisión individual. No inventar automáticamente un gran culto o ejército de seguidores.
+- No todos los mundos necesitan simpatizantes. Su presencia debe enriquecer el conflicto particular del mundo y no convertirse en una fórmula repetida.
+
+Evitar una división moral sencilla. Una persona puede simpatizar con Kevin y seguir lamentando a las víctimas; un defensor puede querer matarlo y ser alguien admirable; un simpatizante puede ser oportunista; y alguien que empezó protegiéndolo puede acabar rechazándolo. La historia debe permitir esas contradicciones sin declarar que una postura cancela las demás.
