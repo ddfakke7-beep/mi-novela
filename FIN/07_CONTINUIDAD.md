@@ -178,3 +178,19 @@ Las potencias de cada mundo intentarán comprender a Kevin además de combatirlo
 - La investigación no debe resolver prematuramente el origen ni la naturaleza definitiva del poder de Kevin.
 
 Esta regla se aplicará a los próximos mundos y no exige reescribir los capítulos anteriores.
+
+## 12. Regla narrativa: rechazo, rencor e intentos de control
+
+Las reacciones ante Kevin no se reducen a investigar su poder o intentar comprender sus intenciones. Los habitantes pueden odiarlo, rechazarlo, buscar venganza o considerarlo una amenaza que no debe seguir existiendo, incluso si descubren que no quería destruir su mundo.
+
+- Comprender cómo funciona su poder no implica querer conocerlo como persona, perdonarlo ni justificarlo. Una facción puede investigar exclusivamente para encontrar cómo matarlo o incapacitarlo.
+- Algunos personajes pueden intentar hablar con Kevin, comprender sus motivos o reconocer que no actúa con maldad y aun así decidir que debe morir por el peligro que representa.
+- Otros pueden odiarlo por las personas y los lugares que ha destruido, buscar venganza o rechazar cualquier negociación.
+- También pueden existir intentos de capturarlo, contenerlo, alejarlo de zonas pobladas o imponerle restricciones.
+- Algunos personajes pueden intentar ayudarlo a controlar su poder o enseñarle a manejarlo. Sus motivos pueden ser compasión, protección, pragmatismo, desesperación o el deseo de utilizar esa fuerza.
+- Los intentos de control pueden ser voluntarios o forzados, y pueden fracasar, causar daños, conseguir resultados parciales o cambiar la relación entre Kevin y quienes lo intentan.
+- Un mismo personaje puede sentir compasión y rencor, querer ayudarlo y estar dispuesto a matarlo si no consigue detenerlo.
+- No todos los mundos ni todos los poderosos deben reaccionar igual. Las posturas dependen de las pérdidas, responsabilidades, cultura, carácter e información disponible.
+
+La ausencia de malicia de Kevin no borra las consecuencias de sus actos ni obliga a las víctimas a perdonarlo. Registrar en cada capítulo las posturas relevantes y sus cambios cuando afecten a decisiones, alianzas, enfrentamientos o relaciones. Esta regla no convierte el control del poder en el objetivo obligatorio de la historia ni garantiza que Kevin pueda aprender de quien lo intente.
+
