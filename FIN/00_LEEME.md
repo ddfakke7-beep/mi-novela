@@ -1,7 +1,7 @@
 # FIN — Guía principal del proyecto
 
 **Tipo:** ficción · multiverso · destrucción · desesperación · batallas épicas  
-**Estado:** narración en curso; seis capítulos completos.  
+**Estado:** narración en curso; siete capítulos completos.  
 **Ubicación:** carpeta `FIN/` en el repositorio `mi-novela`.
 
 ## Identidad e independencia
@@ -122,3 +122,10 @@ Antes de redactar cualquier capítulo de FIN, no basta con confiar en recuerdos 
 
 **Regla de seguridad de continuidad:** si no se puede confirmar que un acontecimiento ocurrió, no afirmarlo como pasado. Es preferible omitirlo o presentarlo como posibilidad futura que inventar un antecedente. Los resúmenes ayudan a localizar la información; el capítulo original es la referencia definitiva para comprobar qué sucedió realmente.
 
+
+
+## Estado actualizado tras el capítulo 7
+
+FIN cuenta con siete capítulos completos: Veyra, Cangyuan, Ithrak, Orthea, Namar, Ilyr y Orveth. El último mundo fue Orveth. Su civilización colapsó el día 3 a las 21:40, 60 horas y 30 minutos después de la llegada de Kevin. Kevin desapareció el día 4 a las 08:55. Consultar `07_CONTINUIDAD.md` para el punto exacto de reanudación.
+
+El capítulo 7 incorpora ataques directos de criaturas dominantes contra Kevin y balances progresivos y finales de daños y víctimas. Los próximos capítulos deben conservar ambos criterios cuando la naturaleza del mundo lo permita.
