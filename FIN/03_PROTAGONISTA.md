@@ -151,3 +151,13 @@ Fue inmovilizado mediante el Nudo del Primer Sueño durante **13 horas y 22 minu
 Tras la caída del Nudo, Kevin quedó expuesto a las consecuencias del despertar de los Durmientes. Los Ancestros de Ilyr lograron contenerlo o apartarlo en momentos concretos, pero sus esfuerzos principales terminaron orientándose a proteger a los refugiados y separar el fenómeno de las raíces profundas. Kevin sufrió golpes y heridas en el costado y un brazo; no murió en escena ni se mostró una regeneración posterior durante este capítulo.
 
 No obtuvo una nueva técnica ni control fiable. Su experiencia confirmó que un mundo puede detener físicamente sus movimientos durante muchas horas sin anular su poder ni resolver el desastre. También presenció sacrificios de defensores que no luchaban por venganza personal, sino para dar tiempo a sus pueblos.
+
+
+## Experiencia confirmada al cierre del capítulo 7 — Orveth
+
+- Kevin llegó a Orveth el día 1 a las 09:10 y desapareció el día 4 a las 08:55.
+- Fue perseguido y atacado directamente por varios Cazadores Antiguos: Varkh, Azhur, Nyr, Orrak y Vaor, entre otros. Sus motivaciones no eran idénticas: caza, protección territorial y temor a que su presencia alterara sus dominios.
+- Sufrió heridas en el costado, hombro y pecho, además de golpes e incapacitación temporal. No murió en escena ni se mostró una regeneración posterior.
+- Una manifestación ocurrió mientras dormía, durante el ataque del Varkh a Aruun-Tel. Kevin no obtuvo control fiable ni comprendió por qué las criaturas lo perseguían.
+- Presenció la muerte de Vaor y la caída de otros Cazadores Antiguos. No debe afirmarse que conoce el destino de cada criatura cuyo cuerpo no pudo recuperarse.
+- Su estancia en Orveth duró 71 horas y 45 minutos. La civilización colapsó 60 horas y 30 minutos después de su llegada.
