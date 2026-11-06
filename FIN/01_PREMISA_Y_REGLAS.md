@@ -289,3 +289,15 @@ Cada mundo puede interpretar la muerte y regeneración de Kevin desde sus propia
 
 La diversidad de interpretaciones permite que los defensores desarrollen estrategias propias sin que el relato revele prematuramente el mecanismo verdadero. Sus teorías pueden ayudarles a contener a Kevin, aprovechar el tiempo en que permanece muerto o regenerándose, o intentar impedir su regreso; el éxito dependerá de los hechos y de las reglas particulares de cada mundo.
 
+
+
+## 14. Criaturas y fuerzas dominantes como amenazas activas
+
+Las criaturas, bestias, depredadores antiguos, espíritus, dioses y demás entidades dominantes de un mundo no deben quedar reducidos a paisaje, fauna o fenómenos ambientales. Cuando su naturaleza, territorio, instinto, inteligencia o intereses lo justifiquen, pueden detectar a Kevin, perseguirlo y atacarlo directamente con intención de matarlo, devorarlo, expulsarlo, sellarlo o eliminar la amenaza que representa.
+
+- No asumir que todas las criaturas reaccionan igual. Algunas pueden ignorarlo, huir, proteger a sus crías, defender territorios, investigar, negociar o atacar por motivos distintos.
+- Las criaturas poderosas deben tener capacidades, experiencia, objetivos y criterios propios. No tienen que comportarse como monstruos irracionales que cargan sin pensar.
+- Sus ataques pueden herir, incapacitar, contener o matar físicamente a Kevin si las circunstancias lo permiten. La regeneración no debe usarse para quitar peso a esos resultados.
+- La hostilidad puede surgir aunque Kevin no ataque ni haga nada: una criatura puede detectarlo mientras duerme o permanecer cazándolo por una razón que él desconoce.
+- Los ataques de estas entidades también deben tener consecuencias para los habitantes, ecosistemas, territorios y otras criaturas. Pueden proteger su mundo y a la vez agravar la catástrofe.
+- No convertir a todas las criaturas en enemigas automáticas ni repetir la misma cacería en cada mundo. La reacción debe nacer de la identidad y las reglas locales.
