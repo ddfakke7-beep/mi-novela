@@ -247,3 +247,36 @@ Al narrarlos:
 - No todos los mundos necesitan simpatizantes. Su presencia debe enriquecer el conflicto particular del mundo y no convertirse en una fórmula repetida.
 
 Evitar una división moral sencilla. Una persona puede simpatizar con Kevin y seguir lamentando a las víctimas; un defensor puede querer matarlo y ser alguien admirable; un simpatizante puede ser oportunista; y alguien que empezó protegiéndolo puede acabar rechazándolo. La historia debe permitir esas contradicciones sin declarar que una postura cancela las demás.
+
+
+## Informes de daños y consecuencias materiales
+
+La catástrofe debe tener escala legible y verificable dentro del mundo. No basta con decir que una ciudad fue destruida o que murieron miles.
+
+- Mostrar informes de situación, recuentos de víctimas, listas de desaparecidos, mapas, comunicaciones, partes médicos o registros de evacuación cuando encajen con la cultura y tecnología del mundo.
+- Nombrar los lugares afectados y concretar daños: barrios inhabitables, puertos cerrados, murallas partidas, rutas cortadas, cosechas perdidas, refugios saturados, estaciones inutilizadas o gobiernos incomunicados.
+- Separar siempre muertos confirmados, desaparecidos, heridos, evacuados y desplazados. Evitar la suma engañosa de categorías.
+- Mantener coherencia aritmética en balances acumulados. Si una cifra cambia, mostrar que se trata de una actualización y explicar la causa narrativa (rescate, identificación, nuevos registros, pérdida de comunicación).
+- Utilizar rangos y estimaciones cuando la información sea incompleta. No fingir precisión estadística que las autoridades no podrían tener.
+- Dar contexto humano a las cifras: un registro con nombres, una familia que busca a alguien, un equipo que no regresó, una autoridad que recibe la noticia o una comunidad que pierde un servicio esencial.
+- Los informes son recursos narrativos, no relleno. Deben modificar decisiones, revelar errores, mostrar el alcance de la crisis o contrastar la percepción de Kevin con la realidad social.
+
+## Cómo los personajes conocen a Kevin
+
+- No usar su nombre antes de que exista una vía plausible para conocerlo. Si Kevin se presenta, alguien lo escucha o un registro lo recoge, se puede usar a partir de entonces. Antes, usar descripciones o designaciones locales.
+- Incluir preguntas naturales cuando haya oportunidad: identidad, procedencia, modo de llegada, intención, otros mundos visitados, duración de sus estancias, posibilidad de marcharse, conocimiento de las catástrofes y capacidad de controlar o detener el poder.
+- Las conversaciones deben tener tensión y objetivos. Un interrogador puede buscar contradicciones, un gobernante puede evaluar riesgos, un médico puede preguntar por su regeneración y un combatiente puede exigir respuestas mientras lo amenaza.
+- Kevin no debe saber más de lo que ha experimentado. Puede explicar que viene de la Tierra y relatar los mundos anteriores que recuerda, pero no conoce el mecanismo de los viajes ni la naturaleza profunda del poder.
+- Los personajes pueden no creerle. También pueden creerle sin perdonarlo. Las respuestas pueden llevar a una negociación, vigilancia, intento de captura, retirada o decisión de eliminarlo.
+
+## Inteligencia bajo presión: odio, retirada y adaptación
+
+- Escribir a los poderosos como veteranos capaces de pensar incluso cuando están furiosos. Pueden odiar a Kevin y decidir no atacarlo todavía porque la probabilidad de empeorar el desastre es demasiado alta.
+- Mostrar planes concretos: preservar fuerzas, evacuar por sectores, establecer observación a distancia, trasladar centros de mando, pedir refuerzos, analizar restos, probar hipótesis con cautela, preparar rutas alternativas o reservar una técnica para el momento adecuado.
+- Un enemigo puede retirarse hoy y volver mañana con información nueva, aliados y una táctica distinta. No hacerlo regresar siempre con una fuerza mayor sin explicación: justificar qué aprendió, qué recursos reunió y qué coste tuvo prepararse.
+- Las decisiones racionales no tienen que ser moralmente buenas. Un comandante puede abandonar un barrio para salvar una flota; una gobernante puede sacrificar una fortaleza para evacuar una provincia; un vengador puede aceptar una retirada porque quiere tener otra oportunidad de matar a Kevin.
+- No convertir a todos en estrategas infalibles. La información es incompleta, las órdenes pueden fallar y las decisiones pueden ser discutidas. La competencia se demuestra al evaluar y corregir, no al acertar siempre.
+
+## Tiempo propio de cada mundo
+
+No imponer una cuenta atrás idéntica ni un límite fijo a todos los capítulos. La duración de cada mundo debe surgir de sus circunstancias y de la respuesta de su sociedad. Al cierre, incluir una nota clara con la hora de llegada, el momento en que la civilización colapsó, el tiempo total transcurrido y la hora de salida de Kevin. Si el colapso ocurre gradualmente, distinguir el hito que marca el fin de la civilización organizada de los daños anteriores y posteriores.
