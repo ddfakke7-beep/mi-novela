@@ -184,3 +184,30 @@ También pueden aparecer personas —jóvenes, niños, adultos o incluso figuras
 
 La confianza de alguien no demuestra que Kevin ya controle su poder ni que el peligro haya desaparecido. Del mismo modo, que otros lo odien no significa que nadie pueda acercarse a él. La esperanza, el miedo, el rechazo y la determinación pueden coexistir dentro de un mismo mundo e incluso dentro de una misma persona.
 
+
+## 18. Centro narrativo: el mundo y la experiencia de Kevin
+
+La historia no debe reducirse a Kevin, a su poder ni a la pregunta de cómo controlarlo. **Cada capítulo pertenece primero al mundo que está viviendo la catástrofe:** su geografía, civilización, historia, conflictos internos, instituciones, culturas, habitantes y, especialmente, las máximas potencias que intentan protegerlo.
+
+- Dar espacio a las vidas, relaciones, responsabilidades, rivalidades y decisiones de los habitantes antes y durante la crisis. Los poderosos no son solo una colección de enemigos que esperan a Kevin: tienen historias, objetivos y conflictos propios.
+- Mostrar cómo responde el mundo completo: autoridades, facciones, defensores, civiles, comunidades lejanas, aliados, rivales y supervivientes. La amenaza de Kevin puede alterar conflictos que ya existían, unir enemigos o abrir nuevas fracturas.
+- En paralelo, desarrollar gradualmente la experiencia mental de Kevin. Cada mundo debe añadir algo a su manera de percibir la realidad, relacionarse con otros, interpretar sus propias acciones y comprender lo extraña que se ha vuelto su existencia.
+- Su evolución debe nacer de experiencias concretas: conversaciones, pérdidas, alivios, miedo, culpa, desconcierto, vínculos, decisiones y consecuencias. No convertirla en monólogos repetitivos ni en una transformación instantánea.
+- La rareza de su situación debe sentirse desde su perspectiva cotidiana: es un trabajador común arrancado de su vida y colocado en civilizaciones que lo ven como una calamidad. Puede no comprender sus costumbres, sus sistemas, la escala de sus conflictos ni por qué su presencia provoca semejantes respuestas.
+- Mantener el equilibrio: el mundo y sus habitantes conservan protagonismo propio; Kevin sigue siendo el hilo que conecta los capítulos y cuya experiencia interior evoluciona. Ninguno de los dos planos debe borrar al otro.
+
+### Simpatizantes y oposición a los defensores
+
+Pueden existir personas o facciones que simpatizan con Kevin, se opongan a quienes intentan matarlo o incluso quieran protegerlo. No deben aparecer simplemente porque deseen que el mundo sea destruido. Sus motivos tienen que ser verosímiles dentro de la cultura, política, historia y circunstancias del mundo.
+
+- Algunos pueden creer que Kevin no es malvado, que está siendo utilizado, que es una víctima de una fuerza desconocida o que matarlo no resolverá la catástrofe.
+- Otros pueden desconfiar de sus gobernantes, órdenes o poderosos por abusos anteriores y oponerse a que tengan autoridad ilimitada para ejecutarlo. Su oposición puede nacer de conflictos políticos previos, no de admiración por la destrucción.
+- Algunos pueden creer que Kevin es la única posibilidad de detener una amenaza distinta, salvar a un grupo o cambiar un sistema injusto. Pueden querer protegerlo por una razón concreta sin aprobar lo que ha ocurrido.
+- Otros pueden buscar aprovecharlo, manipularlo, convertirlo en símbolo, arma o instrumento contra sus propios enemigos. Simpatía pública y motivación egoísta pueden coexistir.
+- Puede haber individuos que lo ayuden por compasión, gratitud, vínculo personal o porque presenciaron un acto en el que Kevin intentó salvar a alguien.
+- La simpatía no tiene que ser mayoritaria ni organizada. Puede ser una persona, un pequeño grupo, una facción dividida o una corriente clandestina; tampoco tiene que sobrevivir a la presión del desastre.
+- Los simpatizantes deben reconocer, negar, minimizar o debatir las consecuencias de la catástrofe de maneras coherentes con lo que saben. No convertirlos en defensores irracionales que ignoran a las víctimas.
+- Los poderosos pueden perseguirlos, utilizarlos, intentar convencerlos o tener razones legítimas para temer que proteger a Kevin provoque más muertes. Los propios simpatizantes pueden discutir entre sí y cambiar de postura.
+- No hacer que todos los mundos tengan simpatizantes ni repetir una misma organización. Si no existe una razón convincente para que alguien lo apoye, no introducirla artificialmente.
+
+La existencia de simpatizantes no invalida el rechazo de las víctimas ni convierte el conflicto en una división simple entre buenos y malos. En un mismo mundo pueden coexistir odio legítimo, deber de defensa, compasión, oportunismo, oposición política, esperanza y miedo.
