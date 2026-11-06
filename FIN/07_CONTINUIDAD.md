@@ -152,3 +152,15 @@ Archivo: `FIN/CAPITULOS/03_ITHRAK_EL_MUNDO_QUE_NO_RETROCEDIO.md`.
 ## 9. Observación narrativa incorporada tras el capítulo 2
 
 Las figuras supremas deben tener presencia, combate desarrollado y consecuencias humanas. No deben caer como personajes anónimos. Los enfrentamientos pueden comenzar con intercambios equilibrados y ventajas reales para ambos lados cuando la lógica del mundo lo permita. Las muertes destacadas deben mostrar decisión, esfuerzo y reacción de quienes quedan. La resistencia debe continuar mediante nuevas estrategias, alianzas, evacuaciones y sacrificios; la desesperación no equivale a pasividad.
+## 10. Regla permanente: regeneración y manifestaciones del poder
+
+**Regeneración confirmada por el usuario:** Kevin no puede morir definitivamente por daño físico. Si es decapitado, pierde partes del cuerpo, sufre heridas mortales o una pérdida extrema de sangre, queda inconsciente o incapacitado y su cuerpo reconstruye lo perdido. La regeneración necesita tiempo; no es instantánea. Al terminar, Kevin vuelve a levantarse con normalidad.
+
+- La duración de la recuperación depende del daño y de las circunstancias; no se ha fijado un tiempo universal.
+- Mientras se regenera, Kevin puede permanecer fuera de combate. Los enemigos pueden aprovechar ese intervalo para actuar o completar sus objetivos.
+- Esta propiedad no equivale a invulnerabilidad. Kevin puede ser herido, incapacitado y apartado de una batalla durante un tiempo importante.
+- No asumir que los habitantes de los mundos conocen esta capacidad ni que Kevin la comprende desde el comienzo.
+
+**Manifestación del poder destructivo:** es independiente de la regeneración y queda a criterio narrativo. Puede descontrolarse, crear un fenómeno destructivo alrededor de Kevin, afectar un área, propagarse por el entorno, reaccionar ante ataques o surgir de un intento de defensa. No existe una fórmula fija: cada manifestación debe responder a la situación y evitar repetirse mecánicamente.
+
+No se ha establecido el origen, mecanismo definitivo, límite ni duración universal de la regeneración o del poder.
