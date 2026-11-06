@@ -190,3 +190,25 @@ Hay dos mundos confirmados como visitados: Veyra (capítulo 1) y Cangyuan (capí
 - **Salida de Kevin:** día 3, 09:10.
 - **Supervivientes:** comunidades dispersas en mesetas y refugios; no existe un recuento fiable.
 - **Aprendizaje de Kevin:** no obtuvo control fiable ni una técnica nueva. Experimentó una contención sobrenatural prolongada y presenció cómo los habitantes aprovecharon el tiempo para evacuar y preparar defensas.
+
+
+## Mundo 7 — Orveth
+
+**Título del capítulo:** *Orveth, el mundo donde cazaban los dioses*.
+
+Orveth era un mundo de bosques vivos, llanuras de migración, tierras de ceniza, pantanos, montañas y extensas redes subterráneas. Sus pueblos no humanos —Kharai, Vaari y Oth— mantenían comunidades y pactos alrededor de rutas migratorias, refugios, nidos y madrigueras. No existía un gobierno único. Las Asambleas de Rastro coordinaban decisiones que afectaban a varias comunidades, sin ejercer soberanía sobre todo el planeta.
+
+Los Cazadores Antiguos eran criaturas dominantes con territorios y motivaciones propios. Algunos podían perseguir a Kevin como presa o amenaza; otros defendían crías, dominios y zonas de caza. No constituían un ejército ni obedecían a una autoridad común.
+
+**Acontecimientos y resultado:** Kevin apareció en el corredor de migración de Aruun-Tel. El Varkh lo identificó y lo persiguió directamente. Más tarde intervinieron Azhur, Nyr, Orrak y Vaor; sus ataques y la respuesta involuntaria de Kevin destruyeron refugios, rutas y territorios. Los pueblos intentaron evacuar hacia las tierras de ceniza y acabaron disgregándose cuando las rutas y pactos dejaron de funcionar.
+
+**Colapso civilizatorio:** día 3, 21:40.  
+**Duración desde la llegada hasta el colapso:** 60 horas y 30 minutos.  
+**Salida de Kevin:** día 4, 08:55.  
+**Duración total de la estancia:** 71 horas y 45 minutos.
+
+**Balance final disponible:** 38.600 muertos confirmados, 71.400 desaparecidos, 96.200 heridos y 410.000 evacuados. Son cifras parciales, limitadas a comunidades que todavía podían transmitir registros; las categorías pueden solaparse y no deben sumarse como población única. Se registraron 1.870 refugios destruidos o inhabitables, 64 rutas migratorias principales perdidas, 119 madrigueras Oth destruidas o incomunicadas, 306 nidos Vaari abandonados o arrasados y 52 comunidades Kharai separadas de sus territorios tradicionales.
+
+**Supervivientes y destinos:** Ivara, Serek, Maraith, Tarek y Ossu sobrevivieron a los últimos hechos narrados, aunque sus destinos posteriores no están confirmados. Eldra sobrevivió gravemente dañada. Vaor murió; Azhur, Nyr, Orrak y el Varkh murieron o quedaron destruidos según los últimos enfrentamientos, sin recuperación de todos los cuerpos. Sahra se retiró para proteger a sus crías; su destino posterior es desconocido.
+
+El planeta permaneció físicamente intacto. La civilización de las rutas, los pactos de rastro y los territorios compartidos dejó de funcionar como sistema común.
