@@ -53,7 +53,7 @@ No convertirlo automáticamente en alguien frío, cruel, arrogante, indiferente,
 
 - No comienza dominando el poder.
 - Las primeras manifestaciones pueden ser involuntarias, imprecisas o mayores de lo que pretendía.
-- Aprende mediante experiencia, presión, errores, observación e intentos de control.
+- Su experiencia puede cambiar su comprensión, pero no garantiza que pueda controlar el poder.\n- Intentar contener, desviar o defenderse puede provocar efectos secundarios y aumentar la destrucción.
 - El progreso debe ser visible y gradual: comprender qué activa el poder, contenerlo, dirigirlo, ajustar su intensidad y usarlo con intención, según lo que la historia vaya estableciendo.
 - Aprender a utilizarlo no significa que comprenda su origen ni que alcance un control perfecto.
 - No fijar de antemano límites, costes, técnicas o explicaciones definitivas que todavía no hayan aparecido en la narración.
