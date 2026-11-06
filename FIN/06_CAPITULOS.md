@@ -158,3 +158,18 @@ Si existe cualquier duda, consultar el capítulo original. Si el texto no confir
 - **Resultado:** las rutas migratorias, refugios, madrigueras, nidos y pactos de rastro dejaron de funcionar como red civilizatoria. Orveth permaneció físicamente intacto; sus pueblos quedaron dispersos.
 - **Estado de Kevin:** sufrió heridas en el costado, hombro y pecho, además de golpes e incapacitación temporal. No murió en escena ni se mostró una regeneración posterior. No comprendió por qué los Cazadores lo perseguían.
 - **Estado:** capítulo completo, guardado en Markdown.
+
+
+## 14. Resumen del capítulo 8
+
+- **Mundo:** Naereth, mundo de cielo oscuro y Vía Alta, donde nueve grandes campanas mantenían separados los estratos de la noche. Sus pueblos y territorios incluían los Dominios de Cal, las Ciudades de Bronce, los Monasterios del Umbral y los Pueblos de la Máscara.
+- **Cronología:** Kevin llegó el día 1 a las 15:20 y desapareció el día 4 a las 11:05. La civilización colapsó el día 4 a las 04:50.
+- **Duración desde la llegada hasta el colapso:** 61 horas y 30 minutos. **Duración total de la estancia:** 67 horas y 45 minutos.
+- **Contención:** Kevin fue encerrado en la Cámara Sorda el día 2 a la 01:30. Permaneció contenido aproximadamente 25 horas y 20 minutos, hasta que el silencio del Oyente anuló los sellos y abrió la cámara el día 3 a las 02:50. La prisión no fue destruida por Kevin.
+- **Acontecimientos:** las nueve campanas respondieron a la llegada de Kevin. Un Mudo lo atacó. El Oyente despertó y lo persiguió porque percibía la ausencia de eco que lo rodeaba. Las custodias y los guardianes organizaron una defensa coordinada mediante el Círculo de la Última Voz.
+- **Batallas y muertes:** Mael murió defendiendo el monasterio; Dhoran murió tras liberar la resonancia de su martillo; Odria murió al atraer al Oyente con la Campana Vacía; Yssara murió sosteniendo la frecuencia de Hierro; Asha Vey murió manteniendo el centro de la red. Sus sacrificios tuvieron funciones distintas en la defensa.
+- **Desenlace:** el Oyente atacó directamente a Kevin y lo hirió. Una manifestación involuntaria de Kevin contribuyó a fracturar la esfera central del Oyente, que murió. Las nueve campanas quedaron destruidas o mudas y el Concilio dejó de funcionar.
+- **Balance provisional:** 18.700 muertos confirmados, 29.300 desaparecidos, 47.600 heridos y 186.000 evacuados. Daños: nueve campanarios mayores destruidos o mudos, 38 monasterios del Umbral destruidos o abandonados, 12 Ciudades de Bronce parcialmente inhabitables, 74 pueblos de los Dominios de Cal incomunicados y 163 puentes de resonancia perdidos. Registros incompletos; heridos y evacuados pueden solaparse.
+- **Supervivientes:** Sereth sobrevivió y salió con refugiados; Iven sobrevivió al primer ataque. Destinos posteriores no confirmados.
+- **Estado de Kevin:** heridas en pecho y costado, golpes y dificultad para respirar y moverse. No murió en escena ni se mostró una regeneración posterior. No obtuvo control fiable ni comprendió qué buscaba el Oyente.
+- **Estado:** capítulo completo, guardado en Markdown.
