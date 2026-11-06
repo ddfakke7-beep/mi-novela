@@ -117,3 +117,17 @@ Cada capítulo llevará una cronología temporal coherente. Se usarán horas con
 ## 14. Principio rector
 
 La historia no trata únicamente de cuánto puede destruir Kevin. Trata de cómo una civilización entera intenta comprender, resistir y sobrevivir a una fuerza que no sabe interpretar, mientras sus mayores guerreros se juegan la vida para detenerla y él aprende lentamente qué es capaz de hacer.
+## 15. Regeneración y supervivencia física de Kevin
+
+Kevin no puede morir definitivamente por daño físico. Esta regla es independiente de la naturaleza, el control o la manifestación de su poder.
+
+- Si sufre heridas mortales, pierde una extremidad, es decapitado, pierde una cantidad extrema de sangre o su cuerpo queda gravemente destruido, no permanece muerto de forma definitiva.
+- El daño puede dejarlo inconsciente o completamente incapacitado. No se recupera de inmediato ni continúa luchando como si nada hubiera ocurrido.
+- Su cuerpo reconstruye las partes perdidas y repara los daños, pero la regeneración necesita tiempo. La duración depende de la gravedad y las circunstancias; no hay una duración fija universal.
+- Durante ese intervalo puede quedar fuera del combate y los adversarios pueden aprovecharlo para completar objetivos, retirarse, reorganizarse o continuar sus planes.
+- Cuando la regeneración termina, Kevin puede volver a levantarse y funcionar con normalidad.
+- Esta capacidad no equivale a invulnerabilidad: puede ser herido, incapacitado, contenido o apartado de una batalla durante un periodo significativo.
+- Los habitantes de cada mundo no conocen automáticamente esta propiedad. Pueden creer que ha muerto hasta presenciar su recuperación.
+- No establecer un límite definitivo ni explicar el origen de esta regeneración antes de que la historia lo justifique.
+
+La regeneración es una propiedad constante de Kevin; la forma en que su poder destructivo se manifiesta es otra cuestión y puede variar libremente.
