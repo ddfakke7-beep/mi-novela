@@ -235,3 +235,27 @@ Registrar solo los simpatizantes y sus motivaciones que efectivamente aparezcan 
 - El odio, el rencor, la venganza, el deber, la compasión, el oportunismo y la simpatía pueden coexistir dentro de una misma civilización.
 - Los simpatizantes deben tener motivos concretos; no basta con que quieran que el mundo sea destruido ni con que nieguen todo el daño.
 - No todos los mundos necesitan los mismos tipos de personajes o reacciones. La variedad debe surgir de cada mundo y de sus circunstancias.
+
+
+## 17. Capítulo 4 — Orthea
+
+**Archivo:** `FIN/CAPITULOS/04_ORthea_EL_MUNDO_QUE_APRENDIO_A_ESCUCHAR.md`
+
+- **Llegada:** 05:20, plaza de Auralia.
+- **Colapso civilizatorio:** 13:51 del día siguiente.
+- **Duración desde la llegada hasta el colapso:** 32 horas y 31 minutos.
+- **Salida:** Kevin desapareció a las 14:05.
+- **Mundo:** Orthea, civilización de nueve Cuencas conectadas por resonancia, estaciones de pulso, canales y puentes.
+- **Incidente inicial:** el poder se manifestó espontáneamente mientras Kevin estaba quieto, sin recibir un ataque ni intentar defenderse. La plaza se fracturó y la señal apareció simultáneamente en los sensores.
+- **Investigación:** los Afinadores descubrieron que no podían identificar un origen convencional ni tratar las manifestaciones como ondas normales. La contención de doce estaciones agravó el fenómeno. Los informes se transmitieron a distintas regiones con grados diferentes de integridad y cambiaron las tácticas posteriores.
+- **Intento de control:** Lira y Eren ayudaron a Kevin a seguir una vibración. Se estabilizaron objetos pequeños durante instantes. Fue un resultado real pero limitado, no control general.
+- **Esperanza:** Lira creyó que Kevin podía aprender a controlar lo que llevaba dentro y ayudar a salvarlos. Su confianza produjo un alivio genuino en Kevin y lo llevó a intentar quedarse y ayudar. El fracaso posterior no convierte aquella esperanza en una mentira: la pequeña estabilización sí ocurrió, pero no bastaba para detener una catástrofe mayor.
+- **Simpatía y rechazo:** Nara protegió a Kevin por desconfianza hacia las autoridades, aunque reconocía el peligro. Ressa Tal quiso eliminarlo después de perder a su hijo y su ciudad. Ninguna postura anuló la otra.
+- **Defensa:** los Dos Compases intentaron desviar la fuerza; Oren y Vaela cambiaron de ofensiva a protección y evacuación; Yoren intentó escuchar el fenómeno; Sareth abrió rutas de distancia y buscó apartar a Kevin de zonas habitadas.
+- **Bajas destacadas:** Amara Vey, Oren Dhal, Vaela Neris, Yoren Kall, Miro y Sareth Il murieron. Aven, Eren, Khar, Ilyen, Sovan, Talia, Nara, Lira, Ressa y otros tienen destino posterior no confirmado, salvo que Nara y Lira consiguieron salir de Auralia.
+- **Resultado:** el colapso de las estaciones y las fracturas regionales destruyeron la red que conectaba las nueve Cuencas. El planeta siguió existiendo físicamente; la civilización dejó de funcionar como sistema común.
+- **Estado de Kevin:** no obtuvo control fiable. Comprendió que el desastre podía comenzar sin que nadie lo atacara y sin que él hiciera nada. También experimentó por primera vez una estabilización pequeña y una confianza externa que le permitió imaginar que podía ayudar.
+- **Último punto confirmado:** Kevin fue trasladado fuera de Orthea a las 14:05. El siguiente mundo aún no ha aparecido en escena. El origen del poder y el mecanismo de los viajes siguen sin explicación.
+
+### Registro de criterios narrativos aplicados
+El capítulo muestra una manifestación espontánea sin ataque, una prueba de control pequeña y limitada, una persona joven que confía genuinamente en Kevin y le ofrece un alivio real, una simpatizante con motivos políticos y humanos, y defensores que lo rechazan o quieren eliminarlo por pérdidas concretas. Las reacciones no son universales y la investigación no equivale a perdón.
