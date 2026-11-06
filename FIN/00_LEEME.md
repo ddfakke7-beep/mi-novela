@@ -23,6 +23,16 @@ FIN es un proyecto narrativo independiente. Sus documentos, personajes, mundos, 
 
 El paso o llegada al siguiente mundo puede insinuarse en el cierre o dejarse para el capítulo siguiente. La destrucción de un mundo debe tener su propio capítulo completo. No dividir automáticamente un mundo en varios capítulos ni comprimir varios mundos en uno.
 
+## Mundos completos, geografía y defensas distribuidas
+
+Los mundos deben sentirse como planetas o realidades completas, no como mapas pequeños construidos alrededor de una sola ciudad. Cuando corresponda, incluir continentes, océanos, países, imperios, reinos, regiones, ciudades, rutas, pueblos y territorios remotos. Las organizaciones y las máximas potencias estarán repartidas por el mundo; no se concentrarán todas en el lugar donde aparece Kevin.
+
+La respuesta a una amenaza puede desarrollarse a escala mundial: informes que viajan, regiones que reaccionan por separado, evacuaciones, alianzas entre rivales y desplazamientos de figuras poderosas desde lugares lejanos. Algunas potencias llegarán tarde, otras combatirán en sus propios territorios y otras morirán antes de reunirse con las demás. No todos los mundos deben tener la misma estructura, género ni tipo de defensor.
+
+## Tierra y potencias propias
+
+La Tierra no será necesariamente un mundo indefenso ni estará limitada a la humanidad corriente y sus gobiernos. ChatGPT puede crear para ella una historia oculta y potencias de escala global, como dioses, entidades antiguas, guardianes o fuerzas vinculadas a territorios y civilizaciones. Su existencia, intereses, alianzas y conflictos se desarrollarán de forma coherente cuando la Tierra tenga protagonismo. No se establece que todos sean benevolentes ni que gobiernen abiertamente. No revelar prematuramente estos elementos si la historia todavía no los ha mostrado.
+
 ## Batallas a muerte y potencias de cada mundo
 
 Las batallas importantes deben ser épicas porque serán enfrentamientos a muerte. Las máximas potencias de cada mundo no son aficionados ni figuras decorativas: han acumulado una enorme experiencia de combate, conocen sus capacidades y saben lo que significa enfrentarse a una amenaza que puede acabar con su mundo.
@@ -67,7 +77,7 @@ Si dos documentos se contradicen, resolverlo respetando los hechos narrados y la
 
 - No revelar prematuramente el origen del poder ni la razón de los viajes.
 - No imponer una escala de poder universal.
-- No reducir a los habitantes de cada mundo a espectadores.
+- No reducir a los habitantes de cada mundo a espectadores.\n- No repetir la reacción, estructura defensiva ni composición de potencias de Veyra en todos los mundos.\n- Mostrar la geografía amplia y la dispersión de las organizaciones y figuras supremas; las movilizaciones y respuestas deben tener distancias y tiempos creíbles.
 - Dar consecuencias humanas y sociales a las catástrofes.
 - Mantener la personalidad inicial de Kevin y desarrollar sus cambios de forma progresiva y justificada.
 - No atribuirle intención destructiva si sus acciones no la demuestran.
@@ -86,4 +96,4 @@ Si dos documentos se contradicen, resolverlo respetando los hechos narrados y la
 
 ## Estado inicial
 
-El canon fundacional está establecido. El protagonista es Kevin, de 27 años, un trabajador corriente de la Tierra, de apariencia normal y agradable. Es moderadamente precavido y observador, sin ser un genio ni alguien extraordinariamente inteligente. Su vida anterior no contiene nada extraordinario. ChatGPT desarrolla su evolución y crea el primer mundo, sus potencias y el resto de la historia. El capítulo 1, dedicado a Veyra, está guardado en FIN/CAPITULOS/01_VEYRA_EL_MUNDO_QUE_SOSTENIA_EL_CIELO.md.
+El canon fundacional está establecido. El protagonista es Kevin, de 27 años, un trabajador corriente de la Tierra, de apariencia normal y agradable. Es moderadamente precavido y observador, sin ser un genio ni alguien extraordinariamente inteligente. Su vida anterior no contiene nada extraordinario. ChatGPT desarrolla su evolución y crea el primer mundo, sus potencias y el resto de la historia. Los capítulos 1 y 2, dedicados a Veyra y Cangyuan, están guardados en FIN/CAPITULOS/01_VEYRA_EL_MUNDO_QUE_SOSTENIA_EL_CIELO.md.
