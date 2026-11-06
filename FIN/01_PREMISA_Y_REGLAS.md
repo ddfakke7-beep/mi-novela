@@ -242,3 +242,29 @@ Cada mundo debe sentirse como una sociedad real que intenta comprender y sobrevi
 - La información obtenida en un combate o investigación debe afectar a quienes la reciben; no todos empiezan desde cero si existen comunicaciones y tiempo para prepararse.
 - No existe un límite temporal universal para destruir cada mundo. La duración dependerá de la geografía, el tipo de civilización, la velocidad de propagación del desastre, las defensas, las comunicaciones, las evacuaciones y las decisiones de sus habitantes.
 - Registrar al final de cada capítulo el tiempo transcurrido desde la llegada de Kevin hasta el colapso de la civilización y la hora de su salida. El colapso civilizatorio no implica necesariamente la destrucción física del planeta.
+
+## 18. Variedad real entre mundos y contención sobrenatural
+
+La variedad de FIN no debe limitarse a cambiar nombres, gobiernos o niveles tecnológicos dentro de sociedades que siguen pareciéndose a civilizaciones humanas contemporáneas. La fantasía, el murim, el cultivo y lo sobrenatural deben tener una presencia sustancial y recurrente, junto con mundos tecnológicos, extraños, híbridos u originales.
+
+- Crear mundos con identidades radicalmente distintas: sectas de cultivo, imperios mágicos, reinos de fantasía, civilizaciones de espíritus, territorios de bestias inteligentes, dimensiones vivientes, mundos gobernados por entidades, ecosistemas sobrenaturales y otras posibilidades.
+- Incorporar, cuando corresponda, cultivadores, maestros de secta, ancestros, dragones, demonios, dioses, espíritus, magos, criaturas antiguas, artefactos conscientes, órdenes mágicas, dominios, formaciones y técnicas propias.
+- No convertir cada mundo en una sociedad humana con tecnología futurista, sensores, informes y estructuras administrativas reconocibles. Esos recursos solo aparecerán cuando pertenezcan naturalmente a la civilización.
+- Las culturas, especies, formas de vida, arquitectura, geografía, instituciones, conflictos y sistemas de poder deben diferenciarse de verdad. No todos los habitantes tienen que ser humanos ni todas las sociedades deben organizarse como reinos, países o gobiernos.
+- La escala de poder y las reglas de cada mundo serán propias. Un sello, dominio, formación, juramento, artefacto o entidad puede tener capacidades que no existan en ningún otro mundo.
+
+### Contenciones que consiguen detener a Kevin
+
+Los defensores no deben limitarse a golpear a Kevin o a retrasarlo unos instantes. Algunos mundos tendrán recursos capaces de capturarlo, inmovilizarlo, sellarlo, aislarlo o mantenerlo encerrado durante periodos significativos.
+
+- Una contención puede durar horas o más si los recursos, la preparación y la lógica del mundo lo justifican. No hacer que todas las prisiones, sellos o formaciones se rompan inmediatamente.
+- La contención puede depender de varios maestros, sectas, dioses, artefactos, sacrificios, territorios, reglas dimensionales o condiciones específicas.
+- Mantener a Kevin encerrado puede exigir un coste creciente: desgaste de los defensores, pérdida de territorios, sacrificios, daños al sello o riesgo para quienes lo sostienen.
+- Mientras Kevin está contenido, el mundo debe seguir viviendo y actuando: evacuar, investigar, discutir, preparar una ofensiva, negociar entre facciones, reforzar el sello o intentar encontrar una solución definitiva.
+- La contención no equivale automáticamente a comprender el poder de Kevin, dominarlo o poder matarlo. Puede funcionar por una regla local que los defensores conocen y que solo neutraliza ciertas posibilidades.
+- Kevin puede intentar escapar, resistirse, provocar daños involuntarios o descubrir una debilidad, pero no debe romper toda contención de inmediato por conveniencia narrativa.
+- Algunas contenciones pueden fallar, otras conseguir una liberación parcial y otras mantenerlo detenido durante gran parte de la crisis. No existe un resultado obligatorio.
+- La regeneración física de Kevin no debe anular automáticamente sellos, prisiones, dominios ni restricciones sobrenaturales. Son cuestiones distintas.
+
+La finalidad no es hacer que Kevin pierda siempre, sino permitir que cada mundo tenga victorias tácticas reales y métodos propios para enfrentarlo. Un mundo debe poder sorprenderlo y cambiar el curso de los acontecimientos antes de que la catástrofe continúe.
+
