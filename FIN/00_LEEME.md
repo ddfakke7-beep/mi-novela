@@ -1,7 +1,7 @@
 # FIN — Guía principal del proyecto
 
 **Tipo:** ficción · multiverso · destrucción · desesperación · batallas épicas  
-**Estado:** preparación inicial; canon fundacional establecido.  
+**Estado:** narración en curso; primer capítulo completo.  
 **Ubicación:** carpeta `FIN/` en el repositorio `mi-novela`.
 
 ## Identidad e independencia
@@ -30,6 +30,12 @@ Las batallas importantes deben ser épicas porque serán enfrentamientos a muert
 Cuando comprendan que el fin de su mundo se acerca, lucharán con la determinación de quienes saben que probablemente no sobrevivirán. El objetivo será detener la amenaza, aunque eso les cueste la vida. La gran mayoría de esas potencias puede morir en el intento; sus muertes deben sentirse ganadas y tener peso, no ser bajas intercambiables.
 
 Cada mundo tendrá sus propias escalas, estilos, técnicas, estrategias y formas de medir el poder. Sus máximas figuras deben demostrar por qué ocupan la cima mediante decisiones inteligentes, habilidades distintivas, coordinación, sacrificios y consecuencias visibles. Pueden sorprender, herir, contener o hacer retroceder al protagonista. No deben ser derrotadas todas de la misma manera.
+
+## Cronología y referencias horarias
+
+Cada capítulo mantendrá una cronología interna coherente. Se indicarán horas locales concretas en escenas y cambios de perspectiva cuando ayuden a ubicar los acontecimientos, sincronizar sucesos y medir el tiempo transcurrido.
+
+No es una cuenta regresiva ni un límite temporal. No hace falta etiquetar cada escena: se usarán horas en momentos relevantes y referencias naturales como «veinte minutos después» o «al amanecer». El registro conservará las horas de llegada, descubrimiento de la amenaza, avisos, movilizaciones, enfrentamientos y desenlace. Nunca se mostrará una hora incompatible con acontecimientos ya narrados.
 
 ## Registro de continuidad y enfrentamientos
 
@@ -80,4 +86,4 @@ Si dos documentos se contradicen, resolverlo respetando los hechos narrados y la
 
 ## Estado inicial
 
-El canon fundacional está establecido. El protagonista es Kevin, de 27 años, un trabajador corriente de la Tierra, de apariencia normal y agradable. Es moderadamente precavido y observador, sin ser un genio ni alguien extraordinariamente inteligente. Su vida anterior no contiene nada extraordinario. ChatGPT desarrolla su evolución y crea el primer mundo, sus potencias y el resto de la historia. Aún no hay capítulos narrados.
+El canon fundacional está establecido. El protagonista es Kevin, de 27 años, un trabajador corriente de la Tierra, de apariencia normal y agradable. Es moderadamente precavido y observador, sin ser un genio ni alguien extraordinariamente inteligente. Su vida anterior no contiene nada extraordinario. ChatGPT desarrolla su evolución y crea el primer mundo, sus potencias y el resto de la historia. El capítulo 1, dedicado a Veyra, está guardado en FIN/CAPITULOS/01_VEYRA_EL_MUNDO_QUE_SOSTENIA_EL_CIELO.md.
