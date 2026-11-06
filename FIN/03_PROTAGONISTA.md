@@ -104,3 +104,20 @@ En Orthea, Kevin experimentó por primera vez una manifestación espontánea mie
 Con ayuda de Lira y Eren, siguió una pauta de resonancia y consiguió estabilizar objetos pequeños durante unos instantes. Fue una experiencia concreta que le permitió sentir alivio y considerar que quizá podría ayudar a otros, pero no equivale a control fiable ni a una nueva capacidad dominada.
 
 La confianza de Lira lo llevó a intentar quedarse y ayudar en lugar de limitarse a escapar. El fracaso posterior profundizó la distancia entre su deseo de proteger y lo que realmente puede conseguir. No establecer que haya perdido toda esperanza ni que haya aprendido una técnica reproducible para futuras situaciones: solo consta lo ocurrido en Orthea.
+
+
+## 9. Información que Kevin ha revelado en Namar
+
+Durante el capítulo 5, Kevin se presentó por primera vez ante autoridades locales como **Kevin**, sin apellido, y dijo que procedía de la Tierra. No afirmó conocer el mecanismo de los traslados.
+
+Ante Mara Sen y Ysolde Marr, confirmó que había visitado anteriormente Veyra, Cangyuan, Ithrak y Orthea, y que las civilizaciones de esos mundos terminaron destruidas. Reconoció que sus acciones estuvieron relacionadas con esas catástrofes, aunque no siempre las quiso ni entiende cómo se producen.
+
+También explicó, con el conocimiento limitado que posee:
+- No sabe cómo llega a los mundos ni cómo se marcha.
+- No puede elegir el destino ni conoce cuánto tiempo permanecerá.
+- Las manifestaciones pueden ocurrir sin que lo ataquen y mientras está quieto o dormido.
+- No sabe activar o detener el poder de manera fiable.
+- Su cuerpo puede regenerarse de daños extremos, pero queda incapacitado durante un tiempo.
+- No sabe si existe una forma definitiva de matarlo.
+
+Estas respuestas pertenecen a la conversación concreta con representantes de Namar. Otros mundos no las conocen automáticamente: cualquier transmisión futura necesita una vía narrativa.
