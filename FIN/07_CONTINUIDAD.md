@@ -388,3 +388,35 @@ No todos los mundos deben estudiar la regeneración, ni todos deben llegar a una
 - No se ha demostrado que los Durmientes fueran creados por Kevin ni que su despertar tuviera una única causa.
 - Ningún personaje de Ilyr conocía automáticamente los mundos anteriores de Kevin ni la conversación mantenida en Namar.
 - Kevin no ha muerto en escena en ninguno de los seis capítulos ni ha sido decapitado. La capacidad general de morir físicamente y regenerarse sigue sin demostrarse mediante una muerte narrada.
+
+
+## 23. Capítulo 7 — Orveth
+
+**Archivo:** `FIN/CAPITULOS/07_ORVETH_EL_MUNDO_DONDE_CAZABAN_LOS_DIOSES.md`.
+
+- **Llegada:** día 1, 09:10, corredor de migración de Aruun-Tel.
+- **Colapso civilizatorio:** día 3, 21:40.
+- **Duración desde la llegada hasta el colapso:** 60 horas y 30 minutos.
+- **Salida:** día 4, 08:55.
+- **Duración total de la estancia:** 71 horas y 45 minutos.
+- **Mundo:** Orveth, con pueblos no humanos Kharai, Vaari y Oth, comunidades migratorias, refugios de copa y madrigueras subterráneas. No había gobierno único.
+- **Incidente inicial:** el Varkh detectó a Kevin y lo persiguió directamente como presa. La hostilidad de las criaturas no dependió de que Kevin las atacara primero.
+- **Cazadores Antiguos:** Azhur, Nyr, Orrak y Vaor participaron en la cacería. Sahra atacó a Kevin porque lo consideraba una amenaza para sus crías. Sus motivaciones y tácticas fueron distintas; no actuaron como una facción unificada.
+- **Manifestación espontánea:** el día 2 a las 02:17, mientras Kevin dormía, una manifestación se produjo durante el ataque del Varkh a Aruun-Tel. Kevin no la provocó conscientemente.
+- **Otros enfrentamientos:** Kevin fue herido por el Varkh, Azhur, Nyr, Orrak y Sahra. La manifestación en el valle de las raíces desnudas mató a Vaor. Azhur y Nyr cayeron durante los enfrentamientos finales; Orrak y el Varkh desaparecieron en fracturas, sin recuperación de sus cuerpos. Sahra se retiró para proteger a sus crías.
+- **Otras defensas:** Serek e Ivara intentaron proteger Aruun-Tel; Eldra se enfrentó a Azhur en el Bosque de las Campanas; las Asambleas de Rastro organizaron evacuaciones y después se disolvieron al perder las rutas.
+- **Balance final disponible:** 38.600 muertos confirmados, 71.400 desaparecidos, 96.200 heridos y 410.000 evacuados. Registros parciales, sin cobertura de todas las regiones; las categorías pueden solaparse.
+- **Daños materiales y territoriales:** 1.870 refugios destruidos o inhabitables; 64 rutas migratorias principales perdidas; 119 madrigueras Oth destruidas o incomunicadas; 306 nidos Vaari abandonados o arrasados; 52 comunidades Kharai separadas de sus territorios tradicionales.
+- **Supervivientes conocidos:** Ivara, Serek, Maraith, Tarek y Ossu sobrevivieron a los últimos hechos narrados; sus destinos posteriores no están confirmados. Eldra sobrevivió gravemente dañada.
+- **Estado físico de Kevin:** heridas en costado, hombro y pecho; golpes e incapacitación temporal. No murió en escena, no fue decapitado y no se mostró una regeneración posterior. No obtuvo control fiable.
+- **Conocimiento:** Kevin no sabe por qué las criaturas lo perseguían ni conoce la naturaleza de los Cazadores Antiguos. Los supervivientes no conocen los mundos anteriores de Kevin ni la conversación de Namar, salvo que exista una transmisión futura narrada.
+
+### Punto exacto de reanudación
+
+Kevin desapareció de Orveth el día 4 a las 08:55. El siguiente mundo todavía no ha aparecido en escena. Continúa sin conocer el origen de su poder ni el mecanismo de los traslados. Hasta el cierre del capítulo 7, Kevin no ha muerto en escena en ninguno de los siete capítulos ni se ha mostrado una resurrección después de una muerte física.
+
+### Criterio incorporado tras el capítulo 7
+
+Las criaturas dominantes pueden ser amenazas activas y perseguir a Kevin por motivos propios, incluso cuando él está quieto o dormido. No todas reaccionan igual ni tienen que unirse en una sola facción. Sus enfrentamientos deben afectar también a los habitantes y al ecosistema.
+
+Los capítulos deben mostrar balances progresivos y finales de víctimas y daños cuando la escala de la crisis lo justifique. Separar muertos confirmados, desaparecidos, heridos, evacuados y desplazados; distinguir cifras parciales de finales; explicar actualizaciones y no sumar categorías que se solapan como si fueran población única. Registrar también pérdidas materiales, territoriales y ecológicas.
