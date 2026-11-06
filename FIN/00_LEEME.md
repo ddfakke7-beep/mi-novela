@@ -1,7 +1,7 @@
 # FIN — Guía principal del proyecto
 
 **Tipo:** ficción · multiverso · destrucción · desesperación · batallas épicas  
-**Estado:** narración en curso; primer capítulo completo.  
+**Estado:** narración en curso; cuatro capítulos completos.  
 **Ubicación:** carpeta `FIN/` en el repositorio `mi-novela`.
 
 ## Identidad e independencia
@@ -97,3 +97,8 @@ Si dos documentos se contradicen, resolverlo respetando los hechos narrados y la
 ## Estado inicial
 
 El canon fundacional está establecido. El protagonista es Kevin, de 27 años, un trabajador corriente de la Tierra, de apariencia normal y agradable. Es moderadamente precavido y observador, sin ser un genio ni alguien extraordinariamente inteligente. Su vida anterior no contiene nada extraordinario. ChatGPT desarrolla su evolución y crea el primer mundo, sus potencias y el resto de la historia. Los capítulos 1 y 2, dedicados a Veyra y Cangyuan, están guardados en FIN/CAPITULOS/01_VEYRA_EL_MUNDO_QUE_SOSTENIA_EL_CIELO.md.
+
+
+## Estado actualizado tras el capítulo 4
+
+FIN cuenta con cuatro capítulos completos: Veyra, Cangyuan, Ithrak y Orthea. El último mundo visitado fue Orthea; Kevin desapareció a las 14:05, después de que la civilización colapsara a las 13:51. La duración desde su llegada hasta el colapso fue de 32 horas y 31 minutos. Consultar `07_CONTINUIDAD.md` para el punto exacto de reanudación.
