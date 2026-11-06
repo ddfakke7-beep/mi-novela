@@ -10,18 +10,19 @@ Su llegada y sus acciones desencadenan catástrofes que pueden acabar con la civ
 
 ## 2. El protagonista
 
+- El protagonista se llama **Kevin**; no se establece apellido.
+- Tiene 27 años, es de apariencia corriente y agradable, cabello oscuro y ojos marrones. Procede de la Tierra y antes de los viajes era un trabajador común de una empresa.
 - Es bastante normal y sedentario; no convertirlo en un prodigio físico, combatiente experto ni estratega excepcional desde el comienzo.
-- La referencia general es el punto de partida del protagonista de NEXUS, consultado solo como inspiración. No copiarlo de forma literal ni llevar sus rasgos al extremo.
-- Su personalidad inicial toma esa referencia como base. El usuario establece esa personalidad de partida; ChatGPT desarrolla su evolución psicológica a través de las experiencias narradas.
-- Para comenzar, su identidad es Andrés Vega, 27 años, apariencia corriente y empleo ordinario en una empresa de la Tierra. No tiene un pasado secreto ni una importancia especial.
+- Su personalidad inicial toma como referencia el punto de partida del protagonista de NEXUS, consultado solo como inspiración. No copiarlo literalmente ni llevar sus rasgos al extremo.
+- Es algo precavido y algo observador. Puede fijarse en detalles y darse cuenta de ciertas cosas, pero sin convertirlo en un genio, detective o persona excepcionalmente inteligente. La cautela tampoco debe llevarlo a paralizarse o desconfiar de todo.
+- El usuario establece esta personalidad inicial; ChatGPT desarrolla su evolución psicológica a través de las experiencias narradas.
 - Conserva sus recuerdos y su personalidad inicial.
 - No necesariamente tiene intención de destruir.
 - Al principio no comprende el alcance de su poder ni sabe controlarlo bien.
 - Su poder es desproporcionadamente grande y puede provocar consecuencias catastróficas incluso cuando no busca destruir.
 - A lo largo de la historia aprende gradualmente a entender, controlar y utilizar ese poder. La mejora debe verse en escenas, errores, intentos y enfrentamientos; no aparece dominado de golpe.
-- Los habitantes más poderosos pueden perseguirlo, intentar matarlo y obligarlo a luchar. Esos encuentros son especialmente importantes para que aprenda a usar su poder, aunque no todos los enfrentamientos deben producir el mismo resultado.
 - No convertirlo automáticamente en villano consciente ni en héroe. Sus decisiones deben ser coherentes con lo que sabe, percibe, desea y siente en cada momento.
-- El usuario establece la personalidad inicial; ChatGPT se encarga de su desarrollo y evolución, sin cambiarla arbitrariamente.
+- ChatGPT se encarga de su evolución y desarrollo, sin alterar arbitrariamente su personalidad de partida.
 
 ## 3. Regla de capítulos: un mundo por capítulo
 
@@ -64,17 +65,20 @@ Los mundos pueden ser de Murim, cultivo, fantasía, ciencia ficción, tecnológi
 - Las personas comunes también deben experimentar las consecuencias.
 - Los supervivientes no son un simple dato estadístico: pueden conservar memoria, cultura, resentimiento, miedo y esperanza.
 
-## 8. Batallas contra las máximas potencias
+## 8. Batallas a muerte contra las máximas potencias
 
-Las batallas principales deben ser épicas y estar construidas alrededor de las fuerzas más poderosas que cada mundo pueda movilizar: sus soberanos, campeones, maestros, generales, entidades, armas supremas o equivalentes propios de su ambientación.
+Las batallas principales serán enfrentamientos a muerte. La razón de su carácter épico no será solo la magnitud de los poderes, sino que quienes combaten serán las máximas potencias de cada mundo: individuos y entidades que han sobrevivido a incontables conflictos, dominan sus disciplinas y conocen de primera mano el precio de una guerra.
 
-- Cada potencia debe tener identidad, personalidad, estilo de combate, recursos y capacidades distintivas.
-- Su fuerza debe demostrarse en acciones, estrategias, decisiones y consecuencias concretas, no solo en títulos o afirmaciones grandilocuentes.
-- Pueden coordinarse, formar alianzas improbables, preparar trampas, explotar información, proteger objetivos o sacrificar recursos para detenerlo.
-- Deben poder representar una amenaza real: sorprenderlo, herirlo, contenerlo, obligarlo a retroceder o forzarlo a descubrir nuevas formas de usar su poder.
-- El protagonista no debe ganar automáticamente todos los enfrentamientos ni dominar su capacidad de golpe. La tensión nace también de su falta de control y de la inteligencia de quienes lo enfrentan.
+Cuando comprendan que el fin de su mundo se aproxima, sabrán que la amenaza no busca necesariamente acabar solo con ellos: el mundo entero está en peligro. Lucharán para detenerla aunque sepan que probablemente no sobrevivirán. La gran mayoría de esas potencias puede morir en el intento.
+
+- Cada potencia tendrá identidad, personalidad, estilo de combate, recursos y capacidades distintivas.
+- Su experiencia debe notarse en la lectura del rival, la toma de decisiones, el dominio técnico, la adaptación y el uso inteligente del entorno.
+- Pueden coordinarse, formar alianzas improbables, preparar trampas, explotar información, proteger objetivos o sacrificar recursos y sus propias vidas para detener a Kevin.
+- Deben representar una amenaza real: sorprenderlo, herirlo, contenerlo, obligarlo a retroceder o forzarlo a descubrir nuevas formas de usar su poder.
+- Kevin no debe ganar automáticamente todos los enfrentamientos ni dominar su capacidad de golpe. Su falta de comprensión y control debe importar.
 - No repetir la misma fórmula de combate en todos los mundos. Cada civilización debe luchar según su propia cultura, tecnología, sistema y comprensión de la amenaza.
-- Los combates deben tener escala y espectáculo, pero también claridad táctica y consecuencias para el mundo y sus habitantes.
+- Los combates deben tener escala y espectáculo, pero también claridad táctica, tensión, decisiones irreversibles y consecuencias.
+- Las muertes de las máximas potencias deben tener peso narrativo. No serán bajas anónimas ni simples escalones para demostrar que Kevin es fuerte.
 
 ## 9. Autonomía creativa
 
@@ -82,8 +86,8 @@ ChatGPT crea los mundos, sus habitantes, sus conflictos, los antagonistas, los s
 
 ## 10. Límites de información
 
-No explicar innecesariamente los sistemas de poder. No revelar el origen definitivo de las capacidades del protagonista ni la razón de los viajes. Las explicaciones deben surgir cuando la historia las necesite y exista información suficiente para sostenerlas.
+No explicar innecesariamente los sistemas de poder. No revelar el origen definitivo de las capacidades de Kevin ni la razón de los viajes. Las explicaciones deben surgir cuando la historia las necesite y exista información suficiente para sostenerlas.
 
 ## 11. Principio rector
 
-La historia no trata únicamente de cuánto puede destruir el protagonista. Trata de cómo una civilización entera intenta comprender, resistir y sobrevivir a una fuerza que no sabe interpretar, mientras el propio protagonista aprende lentamente qué es capaz de hacer.
+La historia no trata únicamente de cuánto puede destruir Kevin. Trata de cómo una civilización entera intenta comprender, resistir y sobrevivir a una fuerza que no sabe interpretar, mientras sus mayores guerreros se juegan la vida para detenerla y él aprende lentamente qué es capaz de hacer.
