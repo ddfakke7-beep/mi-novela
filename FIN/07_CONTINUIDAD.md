@@ -164,3 +164,17 @@ Las figuras supremas deben tener presencia, combate desarrollado y consecuencias
 **Manifestación del poder destructivo:** es independiente de la regeneración y queda a criterio narrativo. Puede descontrolarse, crear un fenómeno destructivo alrededor de Kevin, afectar un área, propagarse por el entorno, reaccionar ante ataques o surgir de un intento de defensa. No existe una fórmula fija: cada manifestación debe responder a la situación y evitar repetirse mecánicamente.
 
 No se ha establecido el origen, mecanismo definitivo, límite ni duración universal de la regeneración o del poder.
+## 11. Regla narrativa: investigación y transmisión de información
+
+Las potencias de cada mundo intentarán comprender a Kevin además de combatirlo. Pueden investigar sus manifestaciones, probar hipótesis, averiguar qué lo hiere, estudiar su regeneración y preguntarse si puede morir o ser incapacitado.
+
+- Los resultados pueden ser parciales, erróneos, contradictorios o imposibles de obtener.
+- Las pruebas pueden exigir sacrificios, recursos, instalaciones, combatientes o vidas.
+- Las observaciones confirmadas deben distinguirse de las hipótesis y las conclusiones provisionales.
+- La información descubierta debe influir en las estrategias posteriores cuando pueda transmitirse.
+- Los grupos que reciban informes pueden prepararse y adaptar sus tácticas; los aislados o quienes reciban información incompleta tendrán que improvisar.
+- Registrar qué sabe cada facción, cómo lo descubrió, qué transmitió y qué interpretaciones siguen sin confirmar.
+- No permitir que un personaje conozca descubrimientos a los que no tuvo acceso.
+- La investigación no debe resolver prematuramente el origen ni la naturaleza definitiva del poder de Kevin.
+
+Esta regla se aplicará a los próximos mundos y no exige reescribir los capítulos anteriores.
