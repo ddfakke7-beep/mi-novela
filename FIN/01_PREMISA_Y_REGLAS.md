@@ -56,7 +56,19 @@ Cada mundo conserva su propia lógica, estética, historia, jerarquías, título
 
 Los mundos pueden ser de Murim, cultivo, fantasía, ciencia ficción, tecnológicos, contemporáneos, sobrenaturales o completamente originales. Ninguna lista de géneros limita la creación.
 
-## 7. Los habitantes deben importar
+## 7. Mundos completos y defensas distribuidas
+
+Los mundos deben sentirse como lugares vastos y completos, no como escenarios pequeños limitados a una ciudad, una arena o un mapa reducido. Según su naturaleza, pueden contener continentes, océanos, países, imperios, reinos, regiones, ciudades, pueblos, rutas comerciales, territorios salvajes y lugares aislados.
+
+Las organizaciones, sectas, clanes, gobiernos y figuras supremas estarán distribuidos geográficamente. No es necesario que Kevin conozca a todos ni que todos estén cerca de él. Cuando la amenaza alcance escala mundial, los informes deberán viajar y las potencias reaccionarán desde sus territorios: algunas movilizarán ejércitos, otras evacuarán, otras prepararán defensas y otras se desplazarán para combatir. Las distancias, comunicaciones y tiempos de llegada deben tener consecuencias reales.
+
+No repetir la estructura de Veyra. Un mundo Murim puede tener miles de sectas repartidas entre continentes; otro puede tener imperios mágicos, dioses territoriales, ciudades-estado, civilizaciones tecnológicas o sistemas originales. Cada mundo tendrá una identidad propia y una respuesta distinta a Kevin.
+
+### La Tierra
+
+La Tierra también puede poseer potencias ocultas de escala global. ChatGPT puede crear dioses, entidades antiguas, guardianes, fuerzas sobrenaturales u organizaciones que influyan en el equilibrio del planeta. No todos tienen que ser protectores de la humanidad: pueden tener intereses propios, pactos, rivalidades y agendas. La Tierra no debe reducirse automáticamente a gobiernos, ejércitos y seres humanos corrientes. Estos elementos se introducirán cuando la narración llegue a la Tierra y sin revelar antes de tiempo su historia oculta.
+
+## 8. Los habitantes deben importar
 
 - Los enemigos deben sentirse poderosos dentro de su propio mundo.
 - Pueden sorprender, herir, contener o hacer retroceder al protagonista cuando la situación lo permita.
@@ -65,7 +77,7 @@ Los mundos pueden ser de Murim, cultivo, fantasía, ciencia ficción, tecnológi
 - Las personas comunes también deben experimentar las consecuencias.
 - Los supervivientes no son un simple dato estadístico: pueden conservar memoria, cultura, resentimiento, miedo y esperanza.
 
-## 8. Batallas a muerte contra las máximas potencias
+## 9. Batallas a muerte contra las máximas potencias
 
 Las batallas principales serán enfrentamientos a muerte. La razón de su carácter épico no será solo la magnitud de los poderes, sino que quienes combaten serán las máximas potencias de cada mundo: individuos y entidades que han sobrevivido a incontables conflictos, dominan sus disciplinas y conocen de primera mano el precio de una guerra.
 
@@ -80,15 +92,15 @@ Cuando comprendan que el fin de su mundo se aproxima, sabrán que la amenaza no 
 - Los combates deben tener escala y espectáculo, pero también claridad táctica, tensión, decisiones irreversibles y consecuencias.
 - Las muertes de las máximas potencias deben tener peso narrativo. No serán bajas anónimas ni simples escalones para demostrar que Kevin es fuerte.
 
-## 9. Autonomía creativa
+## 10. Autonomía creativa
 
 ChatGPT crea los mundos, sus habitantes, sus conflictos, los antagonistas, los sistemas de poder, las catástrofes y la estructura de los capítulos. Debe hacerlo de forma autónoma y coherente, sin pedir aprobación para cada elemento. El usuario no tiene que diseñar los mundos ni decidir quién aparece en ellos.
 
-## 10. Límites de información
+## 11. Límites de información
 
 No explicar innecesariamente los sistemas de poder. No revelar el origen definitivo de las capacidades de Kevin ni la razón de los viajes. Las explicaciones deben surgir cuando la historia las necesite y exista información suficiente para sostenerlas.
 
-## 11. Cronología y referencias horarias
+## 12. Cronología y referencias horarias
 
 Cada capítulo llevará una cronología temporal coherente. Se usarán horas concretas en los momentos relevantes para seguir cuándo llega Kevin, cuándo se descubre la amenaza, cuándo se informa a las autoridades, cuándo se movilizan las potencias y cuánto tiempo transcurre hasta el desenlace.
 
@@ -98,6 +110,6 @@ Cada capítulo llevará una cronología temporal coherente. Se usarán horas con
 - Se pueden combinar horas exactas con referencias naturales como «poco después», «veinte minutos más tarde» o «al amanecer».
 - La continuidad debe impedir contradicciones entre perspectivas simultáneas y sucesos ya establecidos.
 - Registrar los hitos horarios importantes en 07_CONTINUIDAD.md.
-## 12. Principio rector
+## 13. Principio rector
 
 La historia no trata únicamente de cuánto puede destruir Kevin. Trata de cómo una civilización entera intenta comprender, resistir y sobrevivir a una fuerza que no sabe interpretar, mientras sus mayores guerreros se juegan la vida para detenerla y él aprende lentamente qué es capaz de hacer.
