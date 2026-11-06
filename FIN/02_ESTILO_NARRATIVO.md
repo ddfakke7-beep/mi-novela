@@ -280,3 +280,26 @@ La catástrofe debe tener escala legible y verificable dentro del mundo. No bast
 ## Tiempo propio de cada mundo
 
 No imponer una cuenta atrás idéntica ni un límite fijo a todos los capítulos. La duración de cada mundo debe surgir de sus circunstancias y de la respuesta de su sociedad. Al cierre, incluir una nota clara con la hora de llegada, el momento en que la civilización colapsó, el tiempo total transcurrido y la hora de salida de Kevin. Si el colapso ocurre gradualmente, distinguir el hito que marca el fin de la civilización organizada de los daños anteriores y posteriores.
+
+## 18. Diversidad fantástica y contenciones prolongadas
+
+No repetir como modelo dominante civilizaciones humanas con gobiernos, ejércitos, tecnología avanzada y sistemas administrativos reconocibles. FIN debe alternar de verdad entre murim, cultivo, fantasía clásica, mundos mágicos, sobrenaturales, extraños, tecnológicos, híbridos y civilizaciones completamente originales.
+
+- Dar a cada mundo una identidad visible desde sus primeras escenas: habitantes, especies, arquitectura, geografía, costumbres, instituciones, conflictos y formas de poder.
+- Usar sectas, clanes, cultivadores, ancestros, maestros supremos, dragones, dioses, demonios, espíritus, magos, bestias, artefactos, dominios, formaciones y dimensiones cuando encajen con el mundo.
+- No introducir tecnología, sensores, laboratorios, comunicaciones o estructuras políticas modernas por inercia. La respuesta a Kevin debe surgir de los recursos reales de esa civilización.
+- Variar también la manera de narrar sus defensas: una secta puede movilizar a sus ancestros; un bosque consciente puede cerrar sus caminos; una orden mágica puede levantar un sello; una entidad puede alterar un dominio; un reino puede recurrir a pactos antiguos.
+- Los mundos no tienen que ser exclusivamente humanos ni estar organizados en países, reinos o gobiernos convencionales.
+
+**Las contenciones deben poder funcionar de verdad.** En algunos capítulos, los defensores conseguirán encerrar, sellar, inmovilizar o aislar a Kevin durante horas o más. No reducir cada intento a una barrera que se rompe en el siguiente párrafo.
+
+Cuando una contención prolongada funcione:
+- Mostrar cómo se consiguió y qué capacidades o condiciones la hacen posible.
+- Establecer qué mantiene el encierro y cuáles son sus límites conocidos, sin convertirlos en reglas universales.
+- Desarrollar lo que sucede mientras Kevin permanece detenido: evacuaciones, investigaciones, conflictos entre facciones, preparación de refuerzos, sacrificios, negociaciones y decisiones sobre qué hacer con él.
+- Mostrar el coste de mantener el sello o prisión y cómo los defensores responden a su desgaste.
+- Permitir que Kevin intente escapar sin garantizar que lo consiga enseguida.
+- Distinguir entre contenerlo, neutralizar una manifestación, incapacitarlo y comprender su poder. Una de esas cosas no implica automáticamente las demás.
+
+La regeneración física de Kevin no rompe por sí sola una prisión, un sello o un dominio sobrenatural. Tampoco implica que pueda morir o que los defensores hayan descubierto cómo hacerlo. Cada enfrentamiento debe respetar las reglas particulares del mundo y producir resultados tácticos reales.
+
