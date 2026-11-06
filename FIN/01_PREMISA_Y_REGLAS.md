@@ -88,6 +88,16 @@ ChatGPT crea los mundos, sus habitantes, sus conflictos, los antagonistas, los s
 
 No explicar innecesariamente los sistemas de poder. No revelar el origen definitivo de las capacidades de Kevin ni la razón de los viajes. Las explicaciones deben surgir cuando la historia las necesite y exista información suficiente para sostenerlas.
 
-## 11. Principio rector
+## 11. Cronología y referencias horarias
+
+Cada capítulo llevará una cronología temporal coherente. Se usarán horas concretas en los momentos relevantes para seguir cuándo llega Kevin, cuándo se descubre la amenaza, cuándo se informa a las autoridades, cuándo se movilizan las potencias y cuánto tiempo transcurre hasta el desenlace.
+
+- Las horas corresponden al horario local y calendario del mundo narrado.
+- No son límites de tiempo ni una cuenta regresiva obligatoria.
+- No todas las escenas necesitan una marca horaria; se usarán cuando aporten orientación.
+- Se pueden combinar horas exactas con referencias naturales como «poco después», «veinte minutos más tarde» o «al amanecer».
+- La continuidad debe impedir contradicciones entre perspectivas simultáneas y sucesos ya establecidos.
+- Registrar los hitos horarios importantes en 07_CONTINUIDAD.md.
+## 12. Principio rector
 
 La historia no trata únicamente de cuánto puede destruir Kevin. Trata de cómo una civilización entera intenta comprender, resistir y sobrevivir a una fuerza que no sabe interpretar, mientras sus mayores guerreros se juegan la vida para detenerla y él aprende lentamente qué es capaz de hacer.
