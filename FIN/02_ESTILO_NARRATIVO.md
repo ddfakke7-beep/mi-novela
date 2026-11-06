@@ -168,3 +168,28 @@ No dar omnisciencia a los defensores. Un mundo puede llegar a comprender cómo s
 Los poderosos deben conservar iniciativa intelectual: comparar testimonios, discutir teorías, diseñar contramedidas, cambiar planes y transmitir lo aprendido. No todos tienen que ser científicos; un guerrero veterano puede deducir un patrón durante el combate y un sanador, artesano, estratega o entidad antigua puede interpretarlo de otra manera.
 
 La investigación debe variar según la civilización y sus recursos. No repetir en todos los mundos una sala de laboratorio, un consejo y una prueba idéntica.
+
+## 15. Rechazo, rencor y distintas respuestas ante Kevin
+
+La investigación y la comprensión táctica de Kevin no deben confundirse con simpatía, perdón o aceptación. Los personajes de un mundo devastado tienen motivos para odiarlo, rechazarlo o considerarlo una existencia intolerable. No suavizar automáticamente sus reacciones porque descubran que Kevin no comprende su propio poder.
+
+Mostrar una gama de respuestas, sin convertirla en una lista mecánica:
+
+- Algunos lo odiarán y querrán matarlo sin escuchar explicaciones.
+- Otros buscarán venganza por familiares, discípulos, compañeros, ciudades o pueblos perdidos.
+- Algunos lucharán por deber, incluso si personalmente no sienten odio.
+- Otros tratarán de comprender su intención o hablar con él, pero podrán concluir que debe morir de todos modos.
+- Algunos intentarán capturarlo, contenerlo o mantenerlo lejos de zonas habitadas.
+- Otros pueden intentar enseñarle a controlar el poder, guiarlo o ayudarlo a evitar nuevas catástrofes. Sus motivos pueden ser compasión, pragmatismo, protección, desesperación o el deseo de aprovechar esa fuerza.
+- También puede haber quienes intenten imponerle control mediante técnicas, sellos, restricciones, entrenamiento forzado o procedimientos crueles.
+
+**Comprender no es perdonar.** Un personaje puede creer que Kevin no quería causar la destrucción y aun así odiarlo por lo que ha perdido. Puede reconocer que es una persona asustada y decidir que el riesgo de dejarlo vivir es demasiado grande. Puede intentar ayudarlo y estar dispuesto a matarlo si fracasa. Las contradicciones emocionales deben surgir de su historia y sus decisiones, no de cambios arbitrarios.
+
+**Investigar no es necesariamente querer conocerlo.** Los defensores pueden estudiar su poder exclusivamente para encontrar cómo herirlo, incapacitarlo, contenerlo o matarlo. Distinguir el análisis de sus capacidades de la curiosidad por su identidad, recuerdos o sentimientos.
+
+**Los intentos de control deben tener consecuencias y límites.** Si alguien trata de enseñarle, guiarlo o restringirlo, no asumir que Kevin acepta ni que el método funciona. Puede no entender las instrucciones, resistirse, cooperar por necesidad, provocar un accidente o lograr apenas un avance parcial. No convertir a un personaje secundario en instructor infalible ni transformar el control del poder en la solución automática de la historia.
+
+Las reacciones deben depender de la personalidad, las pérdidas, la cultura, las responsabilidades y la información disponible de cada personaje. No todos tienen que hablar con Kevin, escucharlo o reconocer su humanidad. Algunos pueden rechazarlo desde el primer encuentro; otros pueden cambiar de postura después de presenciar sus actos o conocer nueva información.
+
+Al narrar una decisión, dejar claro qué sabe el personaje y qué no. No hacer que conozca la intención de Kevin sin pruebas, ni que confunda automáticamente una explicación de Kevin con una verdad demostrada. La ausencia de intención destructiva no elimina el daño ni obliga a las víctimas a perdonarlo.
+
