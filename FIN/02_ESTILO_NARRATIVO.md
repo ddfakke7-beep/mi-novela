@@ -337,3 +337,12 @@ Al narrarlo:
 
 La incertidumbre debe enriquecer los conflictos: los defensores pueden actuar con información incompleta y aun así tomar decisiones inteligentes.
 
+
+
+## Amenazas activas de criaturas y entidades
+
+Las criaturas dominantes no deben limitarse a producir terremotos, mover el terreno o funcionar como decoración espectacular. Cuando encaje con su naturaleza, pueden convertirse en adversarios activos de Kevin y perseguirlo deliberadamente.
+
+Mostrar qué perciben, qué desean proteger o conseguir, por qué lo consideran una presa o amenaza y cómo adaptan sus ataques. Sus capacidades deben ser distintas de las de los habitantes civilizados y entre sí. Pueden atacar cuando Kevin está quieto o dormido; no es necesario que él provoque cada encuentro. También pueden herirse entre ellas, competir por la presa, retirarse, proteger crías o cambiar de objetivo. Evitar que todas actúen como una sola mente o que todas ataquen sin criterio.
+
+Los enfrentamientos con criaturas deben tener consecuencias materiales y ecológicas: territorios destruidos, rutas alteradas, refugios perdidos, especies desplazadas, crías en peligro y comunidades obligadas a cambiar sus decisiones. Las criaturas pueden ser una amenaza para Kevin y para el mundo al mismo tiempo.
