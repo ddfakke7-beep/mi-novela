@@ -1,7 +1,7 @@
 # FIN — Guía principal del proyecto
 
 **Tipo:** ficción · multiverso · destrucción · desesperación · batallas épicas  
-**Estado:** narración en curso; cinco capítulos completos.  
+**Estado:** narración en curso; seis capítulos completos.  
 **Ubicación:** carpeta `FIN/` en el repositorio `mi-novela`.
 
 ## Identidad e independencia
@@ -106,7 +106,7 @@ FIN cuenta con cuatro capítulos completos: Veyra, Cangyuan, Ithrak y Orthea. El
 
 ## Estado actualizado tras el capítulo 5
 
-FIN cuenta con cinco capítulos completos: Veyra, Cangyuan, Ithrak, Orthea y Namar. Kevin ha revelado por primera vez a autoridades de un mundo su procedencia terrestre y los cuatro mundos anteriores que visitó. El último mundo fue Namar; el Pacto de las Mareas colapsó el día 4 a las 16:40, 81 horas y 58 minutos después de su llegada. Kevin desapareció a las 18:03. Consultar `07_CONTINUIDAD.md` para el punto exacto de reanudación.
+FIN cuenta con seis capítulos completos: Veyra, Cangyuan, Ithrak, Orthea, Namar e Ilyr. El último mundo fue Ilyr; la civilización de los Pozos y los pueblos de las huellas colapsó el día 3 a las 07:16, 46 horas y 6 minutos después de la llegada de Kevin. Kevin desapareció a las 09:10. Consultar `07_CONTINUIDAD.md` para el punto exacto de reanudación.
 
 ## Protocolo obligatorio antes de escribir un capítulo nuevo
 
