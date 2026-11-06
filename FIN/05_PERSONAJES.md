@@ -226,3 +226,125 @@ Maestro de una técnica de presión y contención. Participó en los intentos de
 ## 10. Criterio general para nuevos registros
 
 Los personajes y facciones de Veyra y Cangyuan ya están registrados en sus apartados. A partir de los próximos capítulos, añadir aquí las figuras relevantes de cada mundo sin asumir que todos los destinos quedan confirmados durante la catástrofe. El protagonista es la excepción: sus rasgos personales fundamentales permanecen bajo control del usuario.
+
+
+## 11. Personajes y facciones del mundo 4 — Orthea
+
+### Amara Vey
+- **Mundo:** Orthea.
+- **Afiliación/cargo:** Primera Voz del Consejo de Resonancia.
+- **Personalidad:** paciente, política y responsable; prioriza la coordinación y la evacuación.
+- **Objetivos:** comprender el fenómeno, evitar una respuesta precipitada y mantener unida a la civilización.
+- **Decisiones:** autorizó investigación y contención limitada; al comprobar que la crisis superaba al Consejo, transmitió una orden general de abrir refugios y ayudar a los evacuados.
+- **Estado:** muerta durante el derrumbe del Palacio de las Cuencas.
+
+### Ivara Sen
+- **Mundo:** Orthea.
+- **Afiliación/cargo:** directora de la Sala de Resonancia Central de Auralia.
+- **Personalidad:** rigurosa y pragmática.
+- **Decisiones:** detectó que la señal no procedía de ninguna estación y coordinó la primera investigación.
+- **Estado:** desconocido tras el colapso de Auralia.
+
+### Eren Voss
+- **Mundo:** Orthea.
+- **Afiliación/cargo:** Afinador de Pulso, uno de los Siete Afinadores.
+- **Personalidad:** cuidadoso, paciente y consciente de los límites de sus conocimientos.
+- **Capacidades:** lectura y modulación de ritmos y vibraciones.
+- **Decisiones:** trabajó con Lira y Kevin en una prueba de resonancia; observó una estabilización limitada; advirtió que no equivalía a control general.
+- **Estado:** desaparecido durante la ruptura de las defensas de Mereth; destino no confirmado.
+
+### Oren Dhal
+- **Mundo:** Orthea.
+- **Afiliación/cargo:** Afinador de Piedra.
+- **Personalidad:** orgulloso, veterano y obstinado en proteger las ciudades.
+- **Capacidades:** refuerzo, separación y distribución de tensiones en piedra.
+- **Decisiones:** sostuvo defensas y adaptó su técnica cuando descubrió que las ondas no seguían un patrón convencional.
+- **Estado:** muerto durante la defensa de Mereth.
+
+### Vaela Neris
+- **Mundo:** Orthea.
+- **Afiliación/cargo:** Afinadora de Agua.
+- **Personalidad:** disciplinada y protectora.
+- **Capacidades:** conducción y contención de grandes masas de agua.
+- **Decisiones:** abandonó el intento de atacar a Kevin y utilizó su poder para mantener abierta una ruta de evacuación.
+- **Estado:** desaparecida bajo la corriente durante la defensa de Mereth; presumiblemente muerta.
+- **Relaciones:** mentora de Rima, a quien entregó su anillo de cobre.
+
+### Khar Venn
+- **Mundo:** Orthea.
+- **Afiliación/cargo:** Afinador de Metal.
+- **Personalidad:** directo, crítico con el uso político de la resonancia y responsable de sus subordinados.
+- **Capacidades:** metal y campanas de transmisión a larga distancia.
+- **Decisiones:** ayudó a transmitir órdenes, intentó salvar a Oren y organizó la retirada por sectores.
+- **Estado:** supervivencia no confirmada tras la desintegración de la red de Cuencas.
+
+### Ilyen Rusk, Sovan Mer y Talia Or
+- **Mundo:** Orthea.
+- **Afiliación/cargo:** Afinadores de Aire, Memoria y Distancia, respectivamente.
+- **Decisiones:** participaron en la investigación inicial y en el diseño de las respuestas de resonancia.
+- **Estado:** destinos no confirmados después de la caída de las estaciones.
+
+### Sareth Il
+- **Mundo:** Orthea.
+- **Afiliación/cargo:** Custodia de Distancia.
+- **Personalidad:** disciplinada, cautelosa y responsable de sus tropas y de los civiles.
+- **Capacidades:** alterar distancias y abrir corredores espaciales.
+- **Decisiones:** rechazó convertir el barrio de Hornos Bajos en una trampa; intentó trasladar a Kevin lejos de las zonas habitadas y después abrió una ruta hacia terreno vacío.
+- **Estado:** muerta durante su último intento de separar a Kevin de las ciudades.
+
+### Yoren Kall
+- **Mundo:** Orthea.
+- **Afiliación/cargo:** antiguo maestro de pulso, expulsado del Consejo por negarse a participar en una represalia contra una provincia.
+- **Personalidad:** sereno, firme y capaz de sostener convicciones incluso ante la pérdida personal.
+- **Objetivos:** detener el desastre sin convertir la defensa en una matanza indiscriminada.
+- **Decisiones:** intentó escuchar las tensiones de la fuerza de Kevin; descubrió que no encontraba un único centro y murió al recibir la respuesta del fenómeno.
+- **Estado:** muerto en Mereth.
+- **Relaciones:** había perdido a su hija y tenía un nieto desaparecido.
+
+### Aven y Miro — Los Dos Compases
+- **Mundo:** Orthea.
+- **Afiliación/cargo:** maestros combatientes de las Cuencas.
+- **Personalidad:** veteranos unidos por décadas de combate.
+- **Capacidades:** alternar impulsos y transferir fuerza entre ambos.
+- **Decisiones:** intentaron desviar las descargas de Kevin; cambiaron el ritmo al comprobar que la fuerza surgía desde lugares inesperados.
+- **Estado:** Miro murió durante la primera ruptura de la formación; Aven murió o desapareció después de regresar al combate, destino final no confirmado.
+
+### Nara Olt
+- **Mundo:** Orthea.
+- **Afiliación/cargo:** ceramista de los Hornos Bajos; mantenía una red informal de refugio.
+- **Personalidad:** desconfiada de las autoridades, práctica y protectora.
+- **Objetivos:** impedir que el Consejo utilizara la crisis como pretexto para repetir abusos contra los barrios pobres.
+- **Decisiones:** escondió a Kevin para averiguar qué ocurría, sin negar el peligro que representaba; después priorizó evacuar a Lira y a los demás.
+- **Estado:** supervivencia posterior no confirmada.
+
+### Lira
+- **Mundo:** Orthea.
+- **Afiliación/cargo:** niña criada por Nara; aprendiz informal de resonancia.
+- **Personalidad:** curiosa, franca y obstinada, sin ser una prodigio.
+- **Objetivos:** ayudar a Kevin a comprender lo que ocurría y proteger a quienes vivían en su barrio.
+- **Capacidades:** conocimientos básicos de ritmo y escucha de vibraciones, insuficientes para controlar una fuerza de escala catastrófica.
+- **Decisiones:** se acercó a Kevin, lo ayudó a seguir una vibración y creyó sinceramente que podía aprender a controlar lo que llevaba dentro. Lo acompañó durante parte de la evacuación.
+- **Relación con Kevin:** su confianza le dio un alivio real y lo llevó a intentar quedarse para ayudar, en lugar de limitarse a escapar.
+- **Estado:** salió de Auralia con Nara; destino posterior desconocido.
+
+### Ressa Tal
+- **Mundo:** Orthea.
+- **Afiliación/cargo:** gobernadora de Vard.
+- **Personalidad:** resolutiva, endurecida por la guerra y por la pérdida de su hijo.
+- **Objetivos:** detener a Kevin y evitar que otras familias sufrieran la misma pérdida.
+- **Decisiones:** ordenó disparar cañones de resonancia y después, ante el fracaso, aceptó priorizar la evacuación.
+- **Posición ante Kevin:** rechazo y deseo de eliminarlo; no lo perdonó ni consideró suficiente conocer su intención.
+- **Estado:** supervivencia posterior no confirmada.
+
+### Rima
+- **Mundo:** Orthea.
+- **Afiliación/cargo:** discípula de Vaela Neris.
+- **Decisiones:** evacuó a los supervivientes siguiendo la última orden de su maestra y recibió el anillo de cobre.
+- **Estado:** supervivencia posterior no confirmada.
+
+### Facciones y estructuras de Orthea
+- **Consejo de Resonancia de las nueve Cuencas:** autoridad coordinadora; dejó de funcionar con la caída de sus estaciones y del Palacio.
+- **Los Siete Afinadores:** especialistas supremos de las siete disciplinas de resonancia; varios murieron y otros quedaron desaparecidos.
+- **Custodios de las Cuencas:** defensores regionales, entre ellos Sareth Il; estructura desarticulada.
+- **Red de refugios de Nara:** red informal que protegía a personas perseguidas; su destino posterior no está confirmado.
+- **Comunidades de las islas de Teren:** grupos marítimos que evacuaron habitantes cuando las rutas terrestres colapsaron.
