@@ -169,3 +169,18 @@ Si alguien intenta enseñarle o imponerle control, el resultado no está garanti
 
 La narración debe mantener separadas cuatro cuestiones: qué es Kevin, qué intención tiene, qué daño ha causado y qué peligro representa. Para una persona que ha perdido a su familia, la ausencia de malicia no borra las consecuencias.
 
+### Esperanza, confianza e intentos de hacer recapacitar a Kevin
+
+También pueden aparecer personas —jóvenes, niños, adultos o incluso figuras importantes— que, por lo que han visto o por lo que Kevin les cuenta, crean sinceramente que todavía hay una salida. Pueden intentar hacerlo recapacitar, convencerlo de que no se rinda, ayudarlo a comprender lo que ocurre dentro de él o enseñarle a usar su poder para proteger en vez de destruir.
+
+- Algunas personas pueden sentir alivio al conocerlo y descubrir que no parece cruel ni disfruta del daño. Pueden creer que, si consigue controlar aquello que lleva dentro, todo puede mejorar.
+- Otras pueden aferrarse a la idea de que Kevin será capaz de salvarlos: que podrá detener la catástrofe, proteger su hogar o enfrentarse a una amenaza que nadie más puede vencer.
+- Un niño o joven puede confiar en él de una forma que los adultos ya no se permiten, intentar hablarle cuando otros solo quieren atacarlo o convertirse en una voz que le recuerde que todavía puede elegir qué hacer.
+- Esa esperanza no debe reducir a esos personajes a ingenuos o instrumentos para entristecer al lector. Deben tener personalidad, deseos, vínculos, razones para creer y capacidad de tomar decisiones propias. Pueden equivocarse, tener miedo, discutir, perder la fe o sostenerla incluso cuando los demás la abandonan.
+- Su confianza puede darle a Kevin alivio, motivación, culpa, responsabilidad o temor a decepcionarlos. También puede cambiar la manera en que él interpreta sus propias acciones.
+- La esperanza puede ser acertada en parte, equivocada o insuficiente. Kevin podría conseguir un avance real, salvar a algunas personas o contener un peligro y aun así no poder evitar la destrucción del mundo.
+- No garantizar que la persona esperanzada muera ni que la esperanza termine siempre en una traición o tragedia. El desenlace debe surgir de la historia concreta; evitar convertirlo en un truco repetido.
+- Si ocurre una pérdida o un fracaso, darle peso a la relación construida, a lo que esa persona intentó y a las consecuencias para Kevin y quienes la conocían.
+
+La confianza de alguien no demuestra que Kevin ya controle su poder ni que el peligro haya desaparecido. Del mismo modo, que otros lo odien no significa que nadie pueda acercarse a él. La esperanza, el miedo, el rechazo y la determinación pueden coexistir dentro de un mismo mundo e incluso dentro de una misma persona.
+
