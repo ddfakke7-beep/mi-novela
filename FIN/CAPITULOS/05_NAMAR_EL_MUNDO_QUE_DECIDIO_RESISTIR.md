@@ -1365,10 +1365,10 @@ La Cámara publicó una segunda evaluación general.
 
 **BALANCE PROVISIONAL DE ASTER Y NERAL**
 
-- Muertos confirmados en ambos territorios: 2.104.
-- Desaparecidos: 2.936.
-- Heridos registrados: 9.772.
-- Personas desplazadas: 138.500.
+- Muertos confirmados en ambos territorios: 1.405.
+- Desaparecidos: 1.969.
+- Heridos registrados: 7.020.
+- Personas desplazadas: 115.100.
 - Viviendas destruidas o inhabitables: 19.600.
 - Instalaciones portuarias fuera de servicio: 41 %.
 - Estaciones de marea inutilizadas: 9 de 14.
@@ -1449,7 +1449,7 @@ El almirante lo observó.
 
 Kevin no respondió.
 
-—Más de dos mil confirmadas. Casi tres mil desaparecidas. Y todavía no sabemos qué ha pasado aquí.
+—Mil cuatrocientas cinco muertes confirmadas y mil novecientas sesenta y nueve personas desaparecidas. Y todavía no sabemos qué ha pasado aquí.
 
 Kevin miró el agua.
 
