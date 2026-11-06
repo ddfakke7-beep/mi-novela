@@ -154,7 +154,7 @@ Archivo: `FIN/CAPITULOS/03_ITHRAK_EL_MUNDO_QUE_NO_RETROCEDIO.md`.
 Las figuras supremas deben tener presencia, combate desarrollado y consecuencias humanas. No deben caer como personajes anónimos. Los enfrentamientos pueden comenzar con intercambios equilibrados y ventajas reales para ambos lados cuando la lógica del mundo lo permita. Las muertes destacadas deben mostrar decisión, esfuerzo y reacción de quienes quedan. La resistencia debe continuar mediante nuevas estrategias, alianzas, evacuaciones y sacrificios; la desesperación no equivale a pasividad.
 ## 10. Regla permanente: regeneración y manifestaciones del poder
 
-**Regeneración confirmada por el usuario:** Kevin no puede morir definitivamente por daño físico. Si es decapitado, pierde partes del cuerpo, sufre heridas mortales o una pérdida extrema de sangre, queda inconsciente o incapacitado y su cuerpo reconstruye lo perdido. La regeneración necesita tiempo; no es instantánea. Al terminar, Kevin vuelve a levantarse con normalidad.
+**Regeneración confirmada por el usuario:** Kevin no puede morir definitivamente por daño físico. Si llegara a ser decapitado, perdiera partes del cuerpo, sufre heridas mortales o una pérdida extrema de sangre, queda inconsciente o incapacitado y su cuerpo reconstruye lo perdido. La regeneración necesita tiempo; no es instantánea. Al terminar, Kevin vuelve a levantarse con normalidad.
 
 - La duración de la recuperación depende del daño y de las circunstancias; no se ha fijado un tiempo universal.
 - Mientras se regenera, Kevin puede permanecer fuera de combate. Los enemigos pueden aprovechar ese intervalo para actuar o completar sus objetivos.
@@ -284,3 +284,24 @@ El capítulo muestra una manifestación espontánea sin ataque, una prueba de co
 
 ### Registro de criterios narrativos aplicados
 El capítulo muestra interrogatorios con consecuencias, identificación del protagonista por una vía explícita, informes acumulativos con categorías separadas, cambios estratégicos, retirada racional de enemigos que siguen odiándolo, operaciones de rescate y una regeneración observada sin convertirla en invulnerabilidad.
+
+## 19. Criterio permanente: diversidad de mundos y contenciones reales
+
+Los próximos mundos deben ampliar de forma visible la variedad de FIN. No limitarse a sociedades humanas futuristas, contemporáneas o con instituciones reconocibles. Incorporar de manera sustancial murim, cultivo, fantasía clásica, magia, criaturas, entidades, dioses, espíritus, dimensiones y civilizaciones con formas de vida y organización radicalmente distintas. La tecnología y las estructuras humanas conocidas son opciones, no el modelo predeterminado.
+
+La identidad de cada mundo debe reflejarse en su geografía, habitantes, especies, cultura, arquitectura, conflictos, jerarquías y sistema de poder. No reutilizar la misma estructura de gobierno, ejército, investigación y defensa con nombres diferentes.
+
+### Contenciones prolongadas de Kevin
+
+- Algunos mundos deben disponer de métodos capaces de capturar, sellar, inmovilizar o aislar a Kevin durante horas o más, si la lógica del mundo lo permite.
+- No hacer que toda barrera o prisión se rompa inmediatamente. Una contención puede cambiar el ritmo del capítulo y dar tiempo a evacuaciones, investigación, alianzas, preparativos y decisiones difíciles.
+- Registrar qué permite la contención, quién la sostiene, cuánto dura, qué coste exige, qué daños produce y qué información obtienen los defensores mientras funciona.
+- La regeneración de Kevin no anula automáticamente sellos, dominios, prisiones ni restricciones sobrenaturales.
+- No confundir contención con muerte, invulnerabilidad, control del poder o comprensión de su naturaleza.
+- Kevin puede resistirse o intentar escapar, pero el resultado y el tiempo necesario deben depender de las reglas y circunstancias del mundo.
+- Una contención exitosa debe tener consecuencias reales en la estrategia y en la vida de los habitantes; no ser solo una pausa para volver a la misma batalla.
+
+### Precisión sobre la regeneración y los hechos narrados
+
+La regla general de regeneración establece qué ocurriría si Kevin sufriera daños físicos extremos, pero no convierte esos supuestos en acontecimientos ya ocurridos. Hasta el cierre del capítulo 5, Kevin no ha sido decapitado ni ha muerto en escena. Ningún personaje debe afirmar que presenció una decapitación, una muerte o una resurrección si la narración no lo ha mostrado. Los personajes solo pueden hablar de la regeneración a partir de las heridas y recuperaciones que realmente hayan observado, y sus conclusiones deben mantenerse dentro de esa evidencia.
+
