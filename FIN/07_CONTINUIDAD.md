@@ -259,3 +259,28 @@ Registrar solo los simpatizantes y sus motivaciones que efectivamente aparezcan 
 
 ### Registro de criterios narrativos aplicados
 El capítulo muestra una manifestación espontánea sin ataque, una prueba de control pequeña y limitada, una persona joven que confía genuinamente en Kevin y le ofrece un alivio real, una simpatizante con motivos políticos y humanos, y defensores que lo rechazan o quieren eliminarlo por pérdidas concretas. Las reacciones no son universales y la investigación no equivale a perdón.
+
+
+## 18. Capítulo 5 — Namar
+
+**Archivo:** `FIN/CAPITULOS/05_NAMAR_EL_MUNDO_QUE_DECIDIO_RESISTIR.md`
+
+- **Llegada:** día 1, 06:42, sobre un barco en el puerto de Aster.
+- **Colapso del Pacto de las Mareas:** día 4, 16:40.
+- **Duración desde la llegada hasta el colapso:** 81 horas y 58 minutos.
+- **Salida:** día 4, 18:03.
+- **Mundo:** Namar, planeta oceánico con cinco grandes masas continentales, un mar interior, miles de islas y seis dominios unidos por el Pacto de las Mareas.
+- **Identidad:** Kevin dijo su nombre cuando un guardia se lo preguntó. No fue conocido por todos automáticamente.
+- **Información revelada:** ante Mara Sen y Ysolde Marr dijo que procede de la Tierra y que visitó Veyra, Cangyuan, Ithrak y Orthea. Reconoció que las civilizaciones de esos mundos terminaron destruidas y que sus acciones estuvieron relacionadas con las catástrofes, aunque no las quiso ni comprende su mecanismo. Dijo que no puede elegir destino o duración de los traslados y que no controla el poder de forma fiable.
+- **Interrogatorio:** se le preguntó por identidad, procedencia, otros mundos, duración de estancias, regeneración, activadores, capacidad de marcharse y posibilidad de detener las manifestaciones. Las respuestas influyeron en la política del Pacto.
+- **Investigación:** se registró una perturbación inicial en Aster, una segunda mientras Kevin dormía y una tercera en Neral cuando él estaba lejos. No se confirmó que todas compartieran una única causa.
+- **Informes:** los balances separaron muertos confirmados, desaparecidos, heridos y desplazados. El balance provisional conjunto de Aster y Neral fue de 1.405 muertos, 1.969 desaparecidos, 7.020 heridos y 115.100 desplazados. Los registros podían cambiar con nuevos rescates e identificaciones.
+- **Estrategia:** el Pacto evitó una ofensiva inmediata. Rovan recomendó retirada parcial; Neris organizó observación y corredores; Ysolde priorizó evacuación; Torven, pese a querer matar a Kevin por la desaparición de su hija, aceptó conservar fuerzas y actuar con propósito.
+- **Varda:** Kevin fue llevado a una isla como zona de observación. Una manifestación dañó la isla, destruyó el faro y un transporte, y lo dejó gravemente herido e incapacitado. Su recuperación fue observada por médicos; tardó horas y no fue instantánea.
+- **Bajas:** Dema Or murió en una operación de rescate; Ysolde Marr murió manteniendo la transmisión de evacuación desde Keral. La hija de Torven quedó desaparecida. Los destinos de Mara, Rovan, Sava, Neris, Torven y Eda no están confirmados.
+- **Resultado:** los puertos, rutas, diques, estaciones y coordinación entre dominios dejaron de funcionar como sistema común. Hubo evacuaciones y supervivientes; Namar no fue destruido físicamente.
+- **Estado de Kevin:** comprendió que las manifestaciones pueden aparecer mientras duerme y también en lugares donde no está presente, aunque no sabe si todos los fenómenos tienen el mismo origen. Reveló por primera vez a autoridades locales información de sus mundos anteriores.
+- **Último punto confirmado:** Kevin fue trasladado fuera de Namar a las 18:03 del día 4. El siguiente mundo aún no ha aparecido en escena.
+
+### Registro de criterios narrativos aplicados
+El capítulo muestra interrogatorios con consecuencias, identificación del protagonista por una vía explícita, informes acumulativos con categorías separadas, cambios estratégicos, retirada racional de enemigos que siguen odiándolo, operaciones de rescate y una regeneración observada sin convertirla en invulnerabilidad.
