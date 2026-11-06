@@ -77,3 +77,19 @@ Los campos aún no narrados son decisiones creativas pendientes de desarrollo, n
 - **Desenlace:** las fracturas regionales destruyeron ciudades, fortalezas, rutas y costas. La alianza continental colapsó; el planeta permaneció físicamente intacto.
 - **Supervivientes:** grupos dispersos en los tres continentes.
 - **Estado:** capítulo completo, registrado en Markdown.
+
+
+## 9. Resumen del capítulo 4
+
+- **Mundo:** Orthea, planeta de dos grandes masas continentales, un océano interior y nueve Cuencas conectadas mediante una red de resonancia.
+- **Cronología:** Kevin llegó a Auralia a las 05:20; la civilización colapsó a las 13:51 del día siguiente; Kevin desapareció a las 14:05.
+- **Duración del mundo desde la llegada hasta el colapso:** 32 horas y 31 minutos.
+- **Perspectivas:** Kevin, la Primera Voz, los Siete Afinadores, Custodios, autoridades regionales, habitantes, Nara y Lira.
+- **Acontecimientos:** una manifestación espontánea dañó Auralia sin que Kevin fuera atacado ni intentara defenderse; la ciudad y las estaciones investigaron una señal sin origen identificable; Lira y Eren consiguieron una estabilización pequeña siguiendo una vibración; una contención de doce estaciones concentró el fenómeno y agravó los daños; los informes cambiaron algunas estrategias, aunque no llegaron a todas las regiones; las Cuencas organizaron una defensa y después una retirada para proteger a los refugiados.
+- **Personajes centrales:** Kevin, Amara Vey, Ivara Sen, Eren Voss, Oren Dhal, Vaela Neris, Khar Venn, Sareth Il, Yoren Kall, Aven y Miro, Nara Olt, Lira y Ressa Tal.
+- **Poder:** se manifestó espontáneamente sin ataque. Una pauta de resonancia ayudó a estabilizar objetos pequeños durante unos segundos, pero no se convirtió en control fiable. Los intentos de contención y las defensas posteriores provocaron respuestas imprevisibles.
+- **Esperanza y simpatía:** Lira creyó que Kevin podía aprender a controlar lo que llevaba dentro y ayudar a salvar a otros; esa confianza produjo un alivio genuino y llevó a Kevin a intentar quedarse y ayudar. Nara lo protegió por desconfianza hacia los abusos del Consejo, sin negar el peligro. Ressa quiso eliminarlo tras perder a su hijo.
+- **Enfrentamientos y bajas:** los Dos Compases intentaron desviar la fuerza; Oren adaptó su técnica de piedra; Vaela sostuvo una ruta de evacuación; Yoren intentó escuchar el fenómeno; Sareth intentó separar a Kevin de las zonas habitadas. Oren, Vaela, Yoren, Miro, Sareth y Amara murieron; otros destinos quedaron sin confirmar.
+- **Resultado:** las manifestaciones dañaron las estaciones de pulso, fracturaron regiones y destruyeron ciudades, rutas y la red que conectaba las nueve Cuencas. El planeta permaneció físicamente intacto, pero la civilización de Orthea dejó de funcionar como una estructura conectada.
+- **Supervivientes:** grupos dispersos; Nara y Lira salieron de Auralia, y varias comunidades organizaron evacuaciones locales.
+- **Estado:** capítulo completo, guardado en Markdown.
