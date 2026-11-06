@@ -75,3 +75,23 @@ Al narrar su perspectiva, distinguir:
 - **Lo que ignora:** causas, consecuencias o capacidades que todavía no comprende.
 
 El lector puede conocer consecuencias que él desconoce mediante las perspectivas de habitantes y poderosos.
+## 6. Regeneración y supervivencia física
+
+Kevin no puede morir definitivamente por daño físico. Esta condición es permanente y no depende de que comprenda o controle su poder destructivo.
+
+- Las heridas mortales no lo matan de forma definitiva. Si es decapitado, pierde una extremidad, sufre daños corporales extremos o pierde demasiada sangre, queda inconsciente o incapacitado.
+- Su cuerpo regenera las partes perdidas y repara las heridas. La reconstrucción no ocurre al instante: necesita tiempo, que variará según el daño y las circunstancias.
+- Mientras se recupera, puede permanecer completamente fuera de combate. Los enemigos pueden aprovechar ese intervalo para actuar, completar sus planes o preparar una nueva ofensiva.
+- Una vez terminada la regeneración, Kevin vuelve a levantarse y puede funcionar con normalidad.
+- Esto no lo hace invulnerable ni impide que sufra dolor, miedo, desconcierto o las consecuencias de quedar incapacitado.
+- No asumir que Kevin comprende esta capacidad desde el principio ni que los habitantes de cada mundo la conocen.
+
+## 7. Manifestaciones del poder destructivo
+
+La regeneración y el poder destructivo son aspectos distintos. La primera es una propiedad constante; el segundo puede expresarse de formas diferentes según la situación.
+
+ChatGPT decide autónomamente cómo se manifiesta el poder en cada escena. Puede descontrolarse, formar un fenómeno destructivo alrededor de Kevin, afectar un área concreta, propagarse por el entorno, reaccionar ante un ataque o producir una defensa involuntaria. También puede ocurrir que Kevin intente protegerse o escapar y empeore el desastre.
+
+No existe una fórmula obligatoria. No todas las heridas provocan una descarga, no todos los intentos de defensa producen el mismo efecto y no todos los fenómenos tienen que destruir una región entera. La manifestación debe tener sentido dentro de la escena, mantener variedad entre mundos y dejar consecuencias reales.
+
+La regeneración tampoco elimina la tensión: Kevin puede volver, pero no necesariamente a tiempo para impedir una derrota, una muerte o la destrucción de aquello que intentaba proteger.
