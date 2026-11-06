@@ -55,7 +55,12 @@ Un capítulo puede organizarse alrededor de estos momentos:
 
 No es obligatorio utilizar todos los apartados ni respetar siempre este orden. Son herramientas, no una fórmula rígida. **Todo el recorrido hasta la destrucción corresponde a un único mundo.**
 
-## 5. Acción y enfrentamientos épicos a muerte
+## 5. Cronología temporal
+
+Usar horas concretas en los momentos relevantes del capítulo, especialmente al cambiar de perspectiva. La cronología debe permitir seguir simultáneamente la llegada de Kevin, los primeros incidentes, el descubrimiento de la amenaza, la transmisión de informes, las decisiones de las autoridades, la movilización de las potencias y el desenlace.
+
+No convertirlo en un registro mecánico: no todas las escenas necesitan una hora visible. Alternar marcas horarias con referencias naturales al tiempo transcurrido. Las horas deben ser coherentes con el horario local del mundo y con todos los acontecimientos ya narrados.
+## 6. Acción y enfrentamientos épicos a muerte
 
 Las batallas decisivas deben sentirse como acontecimientos históricos para el mundo que las presencia: choques a muerte entre las fuerzas más experimentadas y poderosas de una civilización y una amenaza que puede acabar con todo lo que conocen.
 
