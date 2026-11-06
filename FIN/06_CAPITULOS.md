@@ -109,3 +109,20 @@ Los campos aún no narrados son decisiones creativas pendientes de desarrollo, n
 - **Resultado:** el Pacto de las Mareas dejó de funcionar como sistema coordinado. Hubo supervivientes y territorios que resistieron; el planeta permaneció físicamente intacto.
 - **Estado de Kevin:** reveló a representantes de Namar que procede de la Tierra y que ya había visitado cuatro mundos. Confirmó que no conoce el mecanismo de los traslados ni controla las manifestaciones. Su regeneración fue observada tras quedar gravemente herido e incapacitado.
 - **Estado:** capítulo completo, guardado en Markdown.
+
+## 12. Registro de hechos confirmados y control de continuidad
+
+Los resúmenes de este índice son una guía de consulta, no sustituyen el texto completo de los capítulos. Antes de escribir un capítulo nuevo se deben revisar los resúmenes de todos los capítulos anteriores y consultar el capítulo original correspondiente cuando un detalle concreto vaya a utilizarse como antecedente.
+
+Para evitar inventar acontecimientos, registrar y comprobar por separado:
+
+- **Hechos que sí ocurrieron:** acciones, heridas, muertes, regeneraciones, conversaciones, técnicas, descubrimientos y decisiones mostrados en el texto.
+- **Hechos que no han ocurrido:** posibilidades contempladas por las reglas, ejemplos hipotéticos o acontecimientos que todavía no aparecen en la narración.
+- **Hipótesis de personajes:** explicaciones que una persona o facción propone, sin convertirlas en verdad objetiva.
+- **Conocimiento por personaje/facción:** qué vio cada uno, qué le contaron, qué informes recibió y qué sigue ignorando.
+- **Reglas generales:** capacidades y límites establecidos por el proyecto, diferenciados de los sucesos concretos ya narrados.
+
+Un resumen no debe transformar un «si Kevin fuera decapitado» en «Kevin fue decapitado». Tampoco puede convertir una posibilidad de muerte en una muerte ocurrida, una teoría en una verdad confirmada o una recuperación de heridas en una resurrección presenciada.
+
+Si existe cualquier duda, consultar el capítulo original. Si el texto no confirma el hecho, no narrarlo como antecedente. Corregir los resúmenes cuando se detecte una formulación que confunda una regla hipotética con un suceso real.
+
