@@ -4,9 +4,9 @@
 
 **Fase:** narración en curso.  
 **Canon fundacional:** establecido.  
-**Capítulos completos:** 2.  
-**Mundos visitados:** Veyra y Cangyuan. Ambas civilizaciones quedaron destruidas; ambos planetas permanecen físicamente intactos y tienen supervivientes dispersos.  
-**Último acontecimiento:** Kevin desapareció de Cangyuan a las 22:19, después del colapso de las venas espirituales y de la estructura civilizatoria.
+**Capítulos completos:** 3.  
+**Mundos visitados:** Veyra, Cangyuan e Ithrak. Las tres civilizaciones quedaron destruidas; los planetas permanecen físicamente intactos y tienen supervivientes dispersos.  
+**Último acontecimiento:** Kevin desapareció de Ithrak a las 08:40 del día siguiente, después del colapso de la alianza continental y de sus principales centros civilizatorios.
 
 ## 2. Capítulo 1 — Veyra
 
@@ -134,3 +134,21 @@ Después de cada capítulo:
 7. Reemplazar el punto de continuación por el último acontecimiento confirmado.
 
 **Límite de modificación:** todas las actualizaciones de este trabajo se realizan dentro de `FIN/`. No modificar ningún archivo de `NEXUS/` ni de `UMBRAL/`.
+
+
+## 8. Capítulo 3 — Ithrak
+
+Archivo: `FIN/CAPITULOS/03_ITHRAK_EL_MUNDO_QUE_NO_RETROCEDIO.md`.
+
+- **Llegada:** 08:11, plaza de las campanas de Ordal.
+- **Desenlace:** fracturas regionales destruyeron ciudades, fortalezas, rutas y costas de los tres continentes. La alianza defensiva dejó de operar.
+- **Salida:** 08:40 del día siguiente.
+- **Personajes destacados:** Edria Sol, Dain Arvek, Maelis, Veyr, Odran, Salia y el anciano de la máscara de cobre.
+- **Combates:** Dain y Veyr consiguieron herir a Kevin. Dain sostuvo varios intercambios y dejó una observación táctica que cambió la respuesta. Maelis y los juramentados lograron contenerlo brevemente. La formación de Edras fracasó, pero permitió evacuar a cientos. Salia reorganizó la retirada y después realizó un último intento junto al río.
+- **Bajas destacadas:** Dain, Maelis, Veyr, Odran, Salia y el anciano de cobre murieron. Edria sobrevivió al primer incidente; su destino final no está confirmado.
+- **Estado de Kevin:** herido en hombro, brazo, costado y pierna. No obtuvo control fiable. Sus intentos de apartarse y defenderse produjeron nuevas manifestaciones.
+- **Supervivientes:** grupos dispersos en Arven, Nareth y Vhal. La hija de Maelis asumió la apertura de las puertas de Kharven para recibir refugiados.
+
+## 9. Observación narrativa incorporada tras el capítulo 2
+
+Las figuras supremas deben tener presencia, combate desarrollado y consecuencias humanas. No deben caer como personajes anónimos. Los enfrentamientos pueden comenzar con intercambios equilibrados y ventajas reales para ambos lados cuando la lógica del mundo lo permita. Las muertes destacadas deben mostrar decisión, esfuerzo y reacción de quienes quedan. La resistencia debe continuar mediante nuevas estrategias, alianzas, evacuaciones y sacrificios; la desesperación no equivale a pasividad.
