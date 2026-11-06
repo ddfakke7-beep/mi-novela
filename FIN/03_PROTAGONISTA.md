@@ -95,3 +95,12 @@ ChatGPT decide autónomamente cómo se manifiesta el poder en cada escena. Puede
 No existe una fórmula obligatoria. No todas las heridas provocan una descarga, no todos los intentos de defensa producen el mismo efecto y no todos los fenómenos tienen que destruir una región entera. La manifestación debe tener sentido dentro de la escena, mantener variedad entre mundos y dejar consecuencias reales.
 
 La regeneración tampoco elimina la tensión: Kevin puede volver, pero no necesariamente a tiempo para impedir una derrota, una muerte o la destrucción de aquello que intentaba proteger.
+
+
+## 8. Experiencia acumulada tras Orthea
+
+En Orthea, Kevin experimentó por primera vez una manifestación espontánea mientras permanecía quieto y nadie lo atacaba. Esto reforzó su comprensión de que el peligro no depende únicamente de los ataques que recibe ni de sus intentos de defensa.
+
+Con ayuda de Lira y Eren, siguió una pauta de resonancia y consiguió estabilizar objetos pequeños durante unos instantes. Fue una experiencia concreta que le permitió sentir alivio y considerar que quizá podría ayudar a otros, pero no equivale a control fiable ni a una nueva capacidad dominada.
+
+La confianza de Lira lo llevó a intentar quedarse y ayudar en lugar de limitarse a escapar. El fracaso posterior profundizó la distancia entre su deseo de proteger y lo que realmente puede conseguir. No establecer que haya perdido toda esperanza ni que haya aprendido una técnica reproducible para futuras situaciones: solo consta lo ocurrido en Orthea.
