@@ -14,7 +14,7 @@ La historia alternará entre tres perspectivas principales. No es necesario usar
 
 Mostrar sus pensamientos, acciones, reacciones, interpretación de lo que sucede, objetivos inmediatos y desconocimiento inicial del alcance real de su poder.
 
-Su punto de partida es el de una persona bastante normal y sedentaria, no un combatiente ni un estratega experto. Su aprendizaje del poder debe ser progresivo. Al comienzo puede actuar por instinto, equivocarse, provocar efectos que no entiende y descubrir poco a poco cómo dirigirlos. Los ataques y persecuciones de los poderosos pueden forzarlo a experimentar y aprender.
+Su punto de partida es el de Andrés Vega, un trabajador común de 27 años, de apariencia corriente y vida anterior ordinaria. Su personalidad inicial toma como referencia al protagonista de NEXUS, sin copiarlo literalmente ni exagerarlo. El usuario fija esa base; ChatGPT desarrolla su evolución psicológica a través de las experiencias.
 
 No darle conocimientos que todavía no posee. Su perspectiva no debe explicar artificialmente los misterios del mundo.
 
@@ -53,15 +53,21 @@ Un capítulo puede organizarse alrededor de estos momentos:
 
 No es obligatorio utilizar todos los apartados ni respetar siempre este orden. Son herramientas, no una fórmula rígida. **Todo el recorrido hasta la destrucción corresponde a un único mundo.**
 
-## 5. Acción y enfrentamientos
+## 5. Acción y enfrentamientos épicos
 
-- Los combates deben comunicar diferencias de capacidad mediante acciones y consecuencias, no solo mediante cifras o títulos.
-- Los adversarios pueden sorprender, herir, contener o hacer retroceder al protagonista.
-- Los poderosos deben intentar soluciones acordes con sus recursos e inteligencia; algunos pueden decidir que matarlo es la única salida.
-- Las estrategias deben responder a la información y recursos disponibles para cada facción.
-- Los enfrentamientos deben influir en el aprendizaje del protagonista, sin convertirlo de inmediato en alguien que domina su poder.
-- No todos los conflictos deben resolverse con una demostración idéntica de fuerza.
-- Evitar que todos los personajes poderosos ataquen de frente sin pensar.
+Las batallas decisivas deben sentirse como acontecimientos históricos para el mundo que las presencia: no simples intercambios de golpes, sino choques entre fuerzas que representan la cúspide de una civilización y una amenaza que nadie sabe interpretar.
+
+- Enfrentar al protagonista con las máximas potencias reales del mundo: figuras supremas, campeones, ejércitos especiales, entidades, armas definitivas o equivalentes.
+- Dar a cada combatiente poderoso una presencia memorable, un estilo propio y una razón para entrar en la batalla.
+- Construir escalada: preparación, primer choque, adaptación, contraataques, revelación de recursos, coordinación y consecuencias.
+- Mostrar la escala mediante el entorno y sus efectos: ciudades, territorios, barreras, fenómenos, estructuras o sistemas afectados. La espectacularidad debe ser comprensible, no una sucesión confusa de explosiones.
+- Permitir que los adversarios sean inteligentes y peligrosos. Pueden estudiar al protagonista, engañarlo, tender trampas, coordinar técnicas, sacrificar ventajas o aprovechar su falta de control.
+- Los poderosos pueden sorprenderlo, herirlo, contenerlo, hacerlo retroceder o forzarlo a descubrir una aplicación nueva de su poder.
+- No hacer que el protagonista venza automáticamente por tener una capacidad potencialmente superior. Su falta de comprensión y control debe importar.
+- Las batallas deben ser distintas de un mundo a otro: sus sistemas de poder, cultura, tecnología y doctrina militar determinarán cómo combaten.
+- Evitar que todos los enemigos ataquen de frente o repitan la misma estrategia.
+- Mantener legibles las posiciones, objetivos, decisiones y cambios de ventaja durante el combate.
+- El espectáculo nunca debe borrar el peso emocional ni las consecuencias para quienes viven en ese mundo.
 
 ## 6. Consecuencias
 
