@@ -87,7 +87,27 @@ Hay dos mundos confirmados como visitados: Veyra (capítulo 1) y Cangyuan (capí
 - **Supervivientes:** grupos dispersos en los cinco continentes; cantidad y destino posterior desconocidos.
 - **Salida:** Kevin desapareció a las 22:19. El mecanismo sigue sin explicación.
 
-## 7. Continuidad entre mundos
+
+## 7. Mundo 3 — Ithrak
+
+- **Nombre:** Ithrak, el mundo que no retrocedió.
+- **Capítulo:** 3 — Ithrak, el mundo que no retrocedió.
+- **Género:** fantasía de reinos, juramentos de poder y órdenes militares.
+- **Estado:** civilización continental destruida; planeta físicamente intacto; supervivientes dispersos.
+- **Geografía:** tres continentes habitados: Arven, Nareth y Vhal. Reinos independientes conectados por tratados y una antigua alianza de defensa.
+- **Sociedad:** ciudades amuralladas, fortalezas, órdenes de juramentados, ejércitos regionales y casas gobernantes.
+- **Sistema de poder:** juramentos que conceden capacidades específicas a sus portadores. La protección, el vínculo, la presión, el filo y la coordinación son expresiones distintas; no hay una escala universal.
+- **Figuras centrales:** Edria Sol, capitana de la Guardia de la Corona; Dain Arvek, Primer Juramentado de Ordal; Maelis, reina de Nareth; Veyr, espadachín de Vhal; Odran, Muro de Vhal; Salia, Maestra de los Hilos; el anciano de la máscara de cobre.
+- **Llegada de Kevin:** 08:11 en la plaza de las campanas de Ordal.
+- **Incidente:** una manifestación involuntaria destruyó la plaza y causó cientos de víctimas.
+- **Respuesta:** Ordal cerró puentes y evacuó distritos; el Consejo solicitó ayuda a los otros continentes. Las potencias llegaron en momentos distintos y formaron una defensa conjunta en la llanura de Edras.
+- **Enfrentamientos:** Dain consiguió herir a Kevin y obligarlo a retroceder en varios intercambios antes de morir; Maelis y otros tres juramentados lograron contenerlo durante unos segundos; Veyr consiguió herirlo; Odran, Salia y el anciano de cobre participaron en la formación de Edras.
+- **Resultado:** la formación se quebró y las manifestaciones posteriores de Kevin abrieron fracturas regionales, destruyeron rutas, ciudades, fortalezas y costas. La alianza de los tres continentes dejó de funcionar y la civilización de Ithrak colapsó.
+- **Supervivientes:** grupos dispersos en los tres continentes; destinos individuales de muchos habitantes desconocidos.
+- **Salida:** Kevin desapareció a las 08:40 del día siguiente.
+- **Consecuencia narrativa:** las potencias demostraron capacidad real de combate y adaptación; las muertes de figuras supremas provocaron cambios de estrategia y una resistencia que continuó incluso después de perder la batalla principal.
+
+## 8. Continuidad entre mundos
 
 - Registrar el orden real de visita y el capítulo único de cada mundo.
 - No comenzar la destrucción de un segundo mundo dentro del capítulo del mundo anterior.
