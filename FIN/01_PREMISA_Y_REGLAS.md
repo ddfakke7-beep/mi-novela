@@ -146,3 +146,26 @@ Las máximas potencias de cada mundo no se limitarán a combatir a Kevin. Cuando
 - Los adversarios pueden comprender aspectos reales del peligro sin llegar a entender su naturaleza profunda. Incluso las mentes más brillantes de un mundo pueden enfrentarse a algo que sus teorías no consiguen explicar.
 
 La investigación no debe convertirse en una pausa académica ni repetirse como una lista de experimentos. Debe surgir de la urgencia, el carácter de los personajes y las decisiones que están dispuestos a tomar. El misterio de Kevin puede resistir todos esos intentos.
+
+## 17. Reacciones ante Kevin: rechazo, odio, comprensión y voluntad de control
+
+Comprender el poder de Kevin no significa comprenderlo como persona, perdonarlo, justificarlo ni aceptar que siga existiendo. Los habitantes de un mundo que está perdiendo a su gente y su civilización pueden rechazarlo por completo y decidir que debe morir, incluso si llegan a creer que no actúa con maldad.
+
+Las reacciones no serán uniformes:
+
+- **Odio y rechazo:** algunos lo considerarán una aberración, una calamidad o una amenaza que no debería existir. No querrán escuchar explicaciones; su objetivo será eliminarlo.
+- **Venganza personal:** otros lucharán por las personas que Kevin mató, por sus familias, discípulos, compañeros o pueblos. Pueden querer matarlo con sus propias manos.
+- **Deber y protección:** habrá quienes actúen porque su responsabilidad es proteger a su gente, aunque sientan miedo, rabia o desesperación y sepan que probablemente morirán.
+- **Comprensión sin perdón:** algunos intentarán averiguar si Kevin entiende lo que hace o si puede razonar. Pueden reconocer que no es malicioso y aun así concluir que debe morir porque el peligro que representa es inaceptable.
+- **Comunicación o negociación:** ciertos personajes pueden intentar hablar con él, pedirle que se detenga o conseguir una tregua. Otros rechazarán cualquier negociación.
+- **Contención y ayuda para controlar el poder:** algunos pueden intentar enseñarle, guiarlo o ayudarlo a controlar sus manifestaciones, no necesariamente por compasión. Pueden hacerlo para evitar más muertes, proteger su mundo, ganar tiempo, utilizar su poder contra otra amenaza o encontrar una forma de neutralizarlo. Otros intentarán imponerle ese control mediante sellos, restricciones, entrenamiento forzado o métodos crueles.
+- **Posturas contradictorias:** un personaje puede sentir compasión por Kevin y odiarlo al mismo tiempo; intentar ayudarlo y estar dispuesto a matarlo si pierde el control.
+
+La investigación sobre Kevin puede tener como único propósito encontrar la manera de matarlo. Saber qué lo activa, cómo se manifiesta su poder, si puede regenerarse o qué lo incapacita no implica curiosidad afectiva ni empatía. Del mismo modo, intentar ayudarlo a controlar su poder no supone perdonarlo ni confiar en él.
+
+Ninguna reacción será obligatoria para todos los mundos. La cultura, las pérdidas, las responsabilidades, las creencias y las experiencias personales determinarán las decisiones de cada personaje. No convertir a todos los poderosos en investigadores comprensivos ni a todos en enemigos irracionales.
+
+Si alguien intenta enseñarle o imponerle control, el resultado no está garantizado: Kevin puede no comprender, resistirse, cooperar parcialmente, empeorar la situación o conseguir un avance limitado. No convertir estos intentos en una solución rápida ni en la obligación de que Kevin domine su poder.
+
+La narración debe mantener separadas cuatro cuestiones: qué es Kevin, qué intención tiene, qué daño ha causado y qué peligro representa. Para una persona que ha perdido a su familia, la ausencia de malicia no borra las consecuencias.
+
