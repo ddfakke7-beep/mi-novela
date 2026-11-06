@@ -141,3 +141,28 @@ Hay dos mundos confirmados como visitados: Veyra (capítulo 1) y Cangyuan (capí
 - **Colapso civilizatorio:** 13:51 del día siguiente.
 - **Duración desde la llegada hasta el colapso:** 32 horas y 31 minutos.
 - **Salida de Kevin:** 14:05 del día siguiente.
+
+
+## 9. Mundo 5 — Namar
+
+- **Nombre:** Namar, el mundo que decidió resistir.
+- **Capítulo:** 5 — Namar, el mundo que decidió resistir.
+- **Geografía:** planeta oceánico con cinco grandes masas continentales, un mar interior y miles de islas.
+- **Organización:** seis dominios marítimos unidos por el Pacto de las Mareas. No existe una capital única; las rutas navales, puertos, diques y estaciones costeras sostienen el comercio y la coordinación.
+- **Centro inicial:** Aster, ciudad portuaria de casi nueve millones de habitantes en su región urbana, principal centro del Pacto.
+- **Sistema de poder:** técnicas de marea y presión vinculadas a corrientes, navegación, estructuras costeras y control de masas de agua. Los rangos y disciplinas son propios de Namar; no se equiparan a los sistemas de otros mundos.
+- **Autoridades:** Consejo del Pacto de las Mareas, presidido por la Primera Almirante Ysolde Marr; seis dominios y sus flotas.
+- **Figuras centrales:** Ysolde Marr, Mara Sen, Rovan Kest, Sava Rel, Neris Olan, Torven Hal, Eda Rusk y Dema Or.
+- **Llegada de Kevin:** día 1, 06:42, sobre la cubierta de un barco en el puerto de Aster.
+- **Identidad revelada:** Kevin dijo su nombre cuando un guardia se lo preguntó. Después informó a Mara Sen y Ysolde Marr de que procedía de la Tierra y había visitado Veyra, Cangyuan, Ithrak y Orthea. Explicó que no conoce el mecanismo de los traslados ni controla de forma fiable las manifestaciones.
+- **Interrogatorio:** Mara y Ysolde preguntaron por su procedencia, los mundos anteriores, la destrucción de sus civilizaciones, la regeneración, las condiciones de activación, la duración de sus estancias y su capacidad para marcharse. Kevin respondió solo lo que sabía.
+- **Investigación:** las autoridades registraron una perturbación espontánea en Aster, otra mientras Kevin dormía y una tercera en Neral cuando él estaba lejos. No pudieron demostrar que todas tuvieran el mismo origen.
+- **Respuesta estratégica:** el Pacto evitó una ofensiva inmediata, evacuó barrios, retiró tropas, mantuvo observadores, preparó corredores y cambió sus planes con los informes. Torven Hal quería matar a Kevin, pero aceptó retirarse y preservar fuerzas para no sacrificar a sus soldados inútilmente.
+- **Informes de daños:** Aster sufrió daños portuarios, fallos en estaciones de marea y pérdidas humanas; Neral perdió diques, compuertas y puentes. Los balances diferenciaron muertos confirmados, desaparecidos, heridos y desplazados.
+- **Balance acumulado registrado:** 1.405 muertos confirmados, 1.969 desaparecidos, 7.020 heridos y 115.100 desplazados en Aster y Neral, según el balance provisional del capítulo. Las cifras pueden requerir revisión si se recuperan registros posteriores.
+- **Personajes y bajas:** Dema Or murió durante una operación de rescate en Aster; Ysolde Marr murió manteniendo la transmisión de evacuación desde Keral. Otros destinos quedaron sin confirmar.
+- **Varda:** isla utilizada como zona de observación y estancia temporal. Una manifestación destruyó el faro, dañó la isla y destruyó un transporte. Kevin quedó herido e incapacitado antes de recuperarse.
+- **Resultado:** el Pacto de las Mareas dejó de funcionar como sistema civilizatorio conectado. Las ciudades y territorios no fueron todos físicamente destruidos; hubo evacuaciones y supervivientes dispersos.
+- **Colapso civilizatorio:** día 4, 16:40.
+- **Duración desde la llegada hasta el colapso:** 81 horas y 58 minutos.
+- **Salida de Kevin:** día 4, 18:03.
