@@ -1,7 +1,7 @@
 # FIN — Guía principal del proyecto
 
 **Tipo:** ficción · multiverso · destrucción · desesperación · batallas épicas  
-**Estado:** narración en curso; cuatro capítulos completos.  
+**Estado:** narración en curso; cinco capítulos completos.  
 **Ubicación:** carpeta `FIN/` en el repositorio `mi-novela`.
 
 ## Identidad e independencia
@@ -102,3 +102,8 @@ El canon fundacional está establecido. El protagonista es Kevin, de 27 años, u
 ## Estado actualizado tras el capítulo 4
 
 FIN cuenta con cuatro capítulos completos: Veyra, Cangyuan, Ithrak y Orthea. El último mundo visitado fue Orthea; Kevin desapareció a las 14:05, después de que la civilización colapsara a las 13:51. La duración desde su llegada hasta el colapso fue de 32 horas y 31 minutos. Consultar `07_CONTINUIDAD.md` para el punto exacto de reanudación.
+
+
+## Estado actualizado tras el capítulo 5
+
+FIN cuenta con cinco capítulos completos: Veyra, Cangyuan, Ithrak, Orthea y Namar. Kevin ha revelado por primera vez a autoridades de un mundo su procedencia terrestre y los cuatro mundos anteriores que visitó. El último mundo fue Namar; el Pacto de las Mareas colapsó el día 4 a las 16:40, 81 horas y 58 minutos después de su llegada. Kevin desapareció a las 18:03. Consultar `07_CONTINUIDAD.md` para el punto exacto de reanudación.
