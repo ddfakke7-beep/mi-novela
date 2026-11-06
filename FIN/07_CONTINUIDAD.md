@@ -420,3 +420,38 @@ Kevin desapareció de Orveth el día 4 a las 08:55. El siguiente mundo todavía 
 Las criaturas dominantes pueden ser amenazas activas y perseguir a Kevin por motivos propios, incluso cuando él está quieto o dormido. No todas reaccionan igual ni tienen que unirse en una sola facción. Sus enfrentamientos deben afectar también a los habitantes y al ecosistema.
 
 Los capítulos deben mostrar balances progresivos y finales de víctimas y daños cuando la escala de la crisis lo justifique. Separar muertos confirmados, desaparecidos, heridos, evacuados y desplazados; distinguir cifras parciales de finales; explicar actualizaciones y no sumar categorías que se solapan como si fueran población única. Registrar también pérdidas materiales, territoriales y ecológicas.
+
+
+## 24. Capítulo 8 — Naereth
+
+**Archivo:** `FIN/CAPITULOS/08_NAERETH_EL_REINO_QUE_ENCERRO_LA_NOCHE.md`.
+
+- **Llegada:** día 1, 15:20, plaza de la ciudad mayor.
+- **Colapso civilizatorio:** día 4, 04:50.
+- **Duración desde la llegada hasta el colapso:** 61 horas y 30 minutos.
+- **Salida:** día 4, 11:05.
+- **Duración total de la estancia:** 67 horas y 45 minutos.
+- **Mundo:** Naereth, con los Dominios de Cal, las Ciudades de Bronce, los Monasterios del Umbral y los Pueblos de la Máscara. Nueve grandes campanas mantenían separados los estratos de la noche; el Concilio coordinaba sus pactos, sin ser un gobierno imperial.
+- **Primer ataque:** un Mudo atacó a Kevin en el túnel el día 1 a las 19:40.
+- **Contención prolongada:** Kevin ingresó en la Cámara Sorda el día 2 a las 01:30 y permaneció aislado hasta el día 3 a las 02:50, aproximadamente 25 horas y 20 minutos. La Cámara era una prisión de piedra muda con nueve capas de sellos. No fue destruida por Kevin; el silencio del Oyente anuló sus capas.
+- **El Oyente:** presencia antigua que percibía los sonidos de Naereth. Detectó la ausencia de eco alrededor de Kevin, despertó y lo persiguió. Lo atacó directamente con presión y vibraciones, hiriéndolo.
+- **Defensas:** Mael organizó la barrera de los nueve puentes; Dhoran rompió un anillo del Oyente con resonancia almacenada; Odria utilizó la Campana Vacía para atraerlo; Yssara sostuvo la frecuencia de Hierro; Asha Vey diseñó y mantuvo el Círculo de la Última Voz.
+- **Muertes confirmadas de personajes principales:** Mael, Dhoran, Odria, Yssara y Asha Vey. Cada uno murió durante una acción defensiva distinta. El Oyente murió cuando una manifestación de Kevin fracturó su esfera central.
+- **Manifestación:** Kevin emitió una manifestación involuntaria que contribuyó a destruir la esfera central del Oyente. No obtuvo control fiable.
+- **Balance provisional:** 18.700 muertos confirmados, 29.300 desaparecidos, 47.600 heridos y 186.000 evacuados. Datos incompletos por pérdida de comunicaciones; las categorías de heridos y evacuados pueden solaparse.
+- **Daños:** nueve campanarios mayores destruidos o mudos; 38 monasterios del Umbral destruidos o abandonados; 12 Ciudades de Bronce parcialmente inhabitables; 74 pueblos de los Dominios de Cal incomunicados; 163 puentes de resonancia perdidos.
+- **Supervivientes conocidos:** Sereth sobrevivió y salió con refugiados; Iven sobrevivió al primer ataque. Destinos posteriores no confirmados.
+- **Estado físico de Kevin:** golpes y heridas en pecho y costado, dificultad para respirar y moverse. No murió en escena, no fue decapitado y no se mostró regeneración posterior.
+- **Conocimiento:** Kevin no conoce el origen del Oyente ni entiende por qué percibía la ausencia de eco a su alrededor. Los habitantes de Naereth no conocen los mundos anteriores de Kevin ni las conversaciones de Namar, salvo que exista una transmisión futura narrada.
+
+### Punto exacto de reanudación
+
+Kevin desapareció de Naereth el día 4 a las 11:05. El siguiente mundo todavía no ha aparecido en escena. Continúa sin conocer el origen de su poder ni el mecanismo de los traslados. Hasta el cierre del capítulo 8, Kevin no ha muerto en escena en ninguno de los ocho capítulos ni se ha mostrado una resurrección después de una muerte física.
+
+### Criterios de continuidad incorporados
+
+Naereth demostró que una contención local puede mantener a Kevin aislado durante muchas horas y alterar sustancialmente el desarrollo de un capítulo. La regeneración no debe confundirse con la ruptura de una prisión; una contención puede fallar por una fuerza externa, una regla local o un coste acumulado.
+
+Las entidades que detectan a Kevin pueden perseguirlo por razones propias y atacarlo directamente. Sus capacidades y motivaciones deben tener lógica local. Las defensas de los mundos pueden coordinarse, sacrificarse y obtener victorias tácticas sin garantizar la salvación de su civilización.
+
+Los balances de daños y víctimas deben aparecer durante la crisis y en el desenlace cuando la escala lo justifique. Mantener separados muertos confirmados, desaparecidos, heridos y evacuados; señalar registros incompletos y solapamientos; incluir daños materiales y pérdida de infraestructuras.
