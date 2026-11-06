@@ -35,6 +35,7 @@ El capítulo 1 ya está escrito y guardado en FIN/CAPITULOS/01_VEYRA_EL_MUNDO_QU
 | N.º | Título | Mundo | Estado |
 |---|---|---|---|
 | 1 | Veyra, el mundo que sostenía el cielo | Veyra | Completo |\n| 2 | Cangyuan, el mundo de las diez mil sectas | Cangyuan | Completo |
+| 3 | Ithrak, el mundo que no retrocedió | Ithrak | Completo |
 
 ## 5. Desarrollo y responsabilidad creativa
 
@@ -62,4 +63,17 @@ Los campos aún no narrados son decisiones creativas pendientes de desarrollo, n
 - **Personajes centrales:** Kevin, Shen Rui, Patriarca de la Montaña Silente, Señora de los Cien Venenos, Señor de las Mareas, Rey de las Dunas, líder del Cielo Rojo y Mo Zhen.
 - **Poder:** manifestaciones desproporcionadas ante intentos de captura, heridas y contención. Los intentos de defenderse o apartar ataques pueden empeorar los daños. Kevin no consigue control fiable.
 - **Desenlace:** colapso de las grandes organizaciones, rutas, centros de gobierno y redes de cultivo. El planeta permanece físicamente intacto; hay supervivientes dispersos.
+- **Estado:** capítulo completo, registrado en Markdown.
+
+
+## 8. Resumen del capítulo 3
+
+- **Mundo:** Ithrak, mundo de tres continentes, reinos independientes y órdenes de juramentados.
+- **Cronología:** Kevin llega a Ordal a las 08:11 y desaparece a las 08:40 del día siguiente.
+- **Perspectivas:** Kevin, Guardia de la Corona, Consejo, campeones de los tres continentes, soldados y supervivientes.
+- **Acontecimientos:** destrucción de la plaza de las campanas; Dain Arvek se enfrenta a Kevin y consigue herirlo; la noticia moviliza a Nareth y Vhal; Maelis y los campeones llegan desde regiones lejanas; una defensa coordinada intenta contener a Kevin en Edras; los supervivientes cambian a operaciones de evacuación y rescate.
+- **Personajes centrales:** Kevin, Edria Sol, Dain Arvek, Maelis, Veyr, Odran, Salia y el anciano de la máscara de cobre.
+- **Poder:** manifestaciones involuntarias que respondieron a ataques, presión y contención. Kevin sufrió heridas y fue obligado a retroceder; no obtuvo control fiable.
+- **Desenlace:** las fracturas regionales destruyeron ciudades, fortalezas, rutas y costas. La alianza continental colapsó; el planeta permaneció físicamente intacto.
+- **Supervivientes:** grupos dispersos en los tres continentes.
 - **Estado:** capítulo completo, registrado en Markdown.
