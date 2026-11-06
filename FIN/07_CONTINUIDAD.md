@@ -194,3 +194,18 @@ Las reacciones ante Kevin no se reducen a investigar su poder o intentar compren
 
 La ausencia de malicia de Kevin no borra las consecuencias de sus actos ni obliga a las víctimas a perdonarlo. Registrar en cada capítulo las posturas relevantes y sus cambios cuando afecten a decisiones, alianzas, enfrentamientos o relaciones. Esta regla no convierte el control del poder en el objetivo obligatorio de la historia ni garantiza que Kevin pueda aprender de quien lo intente.
 
+## 13. Regla narrativa: esperanza y confianza en Kevin
+
+Además del rechazo, el odio y los intentos de control, pueden existir personajes que crean sinceramente que Kevin puede recapacitar, aprender a controlar su poder o utilizarlo para salvarlos. Pueden ser niños, jóvenes, adultos o figuras importantes.
+
+- Pueden acercarse a Kevin porque descubren que no parece disfrutar de la destrucción, porque lo escuchan disculparse o porque presencian sus intentos de evitar más daños.
+- Pueden sentir alivio y aferrarse a la posibilidad de que Kevin controle lo que lleva dentro y todavía consiga proteger su hogar.
+- Pueden intentar convencerlo de que no se rinda, pedirle que los ayude, enseñarle algo, acompañarlo o recordarle que aún puede elegir cómo actuar.
+- No deben ser personajes ingenuos sin profundidad ni existir únicamente para animar a Kevin o morir trágicamente. Necesitan personalidad, vínculos, objetivos y decisiones propias.
+- La confianza puede aliviar a Kevin, motivarlo, darle responsabilidad o aumentar su temor a decepcionarlos.
+- La esperanza no garantiza resultados: Kevin puede lograr avances parciales, salvar a algunas personas y aun así no poder impedir la destrucción. También puede fracasar por completo.
+- No determinar de antemano que estos personajes morirán ni que todos los vínculos esperanzadores terminarán en tragedia. Sus destinos deben surgir de cada historia.
+- Si su confianza se rompe o la persona se pierde, mostrar el peso de la relación y las consecuencias, no solo anunciar el hecho.
+
+La esperanza puede coexistir con el odio y el rechazo dentro del mismo mundo. La confianza de alguien no demuestra que Kevin controle su poder ni obliga a los demás a perdonarlo. Registrar los vínculos y cambios de postura cuando tengan consecuencias para Kevin, sus decisiones o la respuesta del mundo.
+
