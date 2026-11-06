@@ -305,3 +305,22 @@ La identidad de cada mundo debe reflejarse en su geografía, habitantes, especie
 
 La regla general de regeneración establece qué ocurriría si Kevin sufriera daños físicos extremos, pero no convierte esos supuestos en acontecimientos ya ocurridos. Hasta el cierre del capítulo 5, Kevin no ha sido decapitado ni ha muerto en escena. Ningún personaje debe afirmar que presenció una decapitación, una muerte o una resurrección si la narración no lo ha mostrado. Los personajes solo pueden hablar de la regeneración a partir de las heridas y recuperaciones que realmente hayan observado, y sus conclusiones deben mantenerse dentro de esa evidencia.
 
+
+
+## 20. Precisión definitiva: muerte física y regeneración
+
+Kevin **sí puede morir físicamente**. Su cuerpo y sus funciones vitales pueden fallar como los de una persona normal ante circunstancias letales: puede ahogarse o asfixiarse, morir por exposición a lava o calor extremo, sufrir heridas mortales, perder sangre hasta morir o quedar destruido por completo. No es inmortal ni está protegido de experimentar la muerte.
+
+La diferencia es que esa muerte no es definitiva. Su capacidad regenerativa reconstruye y repara su cuerpo y, cuando el proceso termina, lo devuelve a la vida.
+
+- No confundir «puede morir» con «puede permanecer muerto». Puede llegar a estar realmente muerto durante el proceso, pero la regeneración acaba revirtiendo ese estado.
+- La regeneración no es instantánea. El tiempo depende de la gravedad y naturaleza del daño, de cuánto cuerpo deba reconstruirse y de las circunstancias. No fijar una duración universal.
+- Mientras está muerto o regenerándose, Kevin no puede actuar, defenderse, escapar ni continuar combatiendo como si nada. Queda completamente fuera de juego.
+- La reconstrucción puede requerir que el cuerpo repare daños extremos o vuelva a formarse. No imponer una mecánica visual única si la escena todavía no la ha establecido.
+- Los adversarios pueden aprovechar ese intervalo para completar objetivos, evacuar, preparar sellos, retirarse, reorganizarse o intentar impedir que Kevin vuelva a levantarse.
+- La regeneración no lo hace inmune al dolor, a la asfixia, al calor, a la destrucción corporal, al daño ni a la contención. Tampoco rompe automáticamente prisiones, sellos o dominios sobrenaturales.
+- Los habitantes solo pueden concluir que Kevin murió y volvió si presencian hechos que lo demuestren. Una recuperación de heridas no basta para afirmar que lo vieron morir.
+- No asumir que Kevin conoce desde el principio el alcance de esta capacidad ni que comprende cómo funciona.
+- No establecer un límite definitivo, una fuente ni el mecanismo último de la regeneración.
+
+La regeneración física es independiente del poder destructivo de Kevin. Morir y regenerarse no tiene por qué provocar una manifestación catastrófica, y una manifestación destructiva no tiene por qué matarlo.
