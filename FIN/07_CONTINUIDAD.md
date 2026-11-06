@@ -56,7 +56,7 @@ Las batallas de las máximas potencias serán enfrentamientos a muerte. Esos com
 
 Cuando comience la narración, desarrollar un único mundo y destruirlo dentro de ese mismo capítulo, que puede ser extenso. No destruir un segundo mundo en ese capítulo.
 
-## 3. Hechos establecidos
+## 4. Hechos establecidos
 
 - El protagonista se llama **Kevin**; no se establece apellido.
 - Tiene 27 años y es un humano común procedente de la Tierra.
@@ -87,7 +87,7 @@ Cuando comience la narración, desarrollar un único mundo y destruirlo dentro d
 - Cada capítulo mantendrá una cronología con horas locales en los hitos importantes, sincronizando las distintas perspectivas sin marcar mecánicamente todas las escenas.
 - El primer mundo visitado fue Veyra; su civilización cayó en el capítulo 1. No confundir la destrucción de su civilización con la destrucción física del planeta.
 
-## 4. Decisiones y desarrollo pendientes
+## 5. Decisiones y desarrollo pendientes
 
 - Primer mundo, que será creado por ChatGPT.
 - Primer incidente y consecuencias concretas.
@@ -95,7 +95,7 @@ Cuando comience la narración, desarrollar un único mundo y destruirlo dentro d
 - Desarrollo gradual del control del poder y evolución psicológica de Kevin.
 - Orden de los mundos posteriores, decidido por la progresión narrativa.
 
-## 5. Registro de cambios
+## 6. Registro de cambios
 
 | Momento | Cambio |
 |---|---|
@@ -110,7 +110,7 @@ Cuando comience la narración, desarrollar un único mundo y destruirlo dentro d
 | Cronología horaria | Se establece el uso de horas locales en hitos importantes y cambios de perspectiva para mantener sincronizados los acontecimientos. |
 | Capítulo 1 — Veyra | Kevin llega a las 20:00; la civilización de Veyra cae; Kevin sale del mundo a las 07:26. Se registran potencias, enfrentamientos, muertes y supervivientes. |
 
-## 6. Instrucción de actualización
+## 7. Instrucción de actualización
 
 Después de cada capítulo o avance aprobado:
 1. Actualizar el índice de `06_CAPITULOS.md`.
@@ -125,7 +125,7 @@ Después de cada capítulo o avance aprobado:
 **Límite de modificación:** todas las actualizaciones de este trabajo se realizan dentro de `FIN/`. No modificar ningún archivo de `NEXUS/` ni de `UMBRAL/`.
 
 
-## 4. Capítulo 2: Cangyuan
+## 8. Capítulo 2: Cangyuan
 
 ### Cronología confirmada
 - **06:14:** Kevin aparece en las montañas de Lian, al norte de Zhongzhou.
@@ -167,7 +167,7 @@ Cangyuan era un planeta de cinco continentes: Zhongzhou, Beihan, Nanyue, Xihai y
 ### Estado de Kevin al salir de Cangyuan
 Kevin sigue sin conocer el origen de su poder ni el mecanismo de los viajes. Ha sufrido heridas de flechas, espadas y técnicas de maestros supremos. Sus manifestaciones de fuerza respondieron de forma desproporcionada a ataques, contenciones y esfuerzos por apartarse. No obtuvo control fiable. Su intención siguió siendo escapar y encontrar el camino a casa, no conquistar Cangyuan.
 
-## 5. Reglas y decisiones añadidas después del capítulo 2
+## 9. Reglas y decisiones añadidas después del capítulo 2
 
 - Los mundos deben sentirse completos y extensos, con geografía y estructuras sociales propias; no como mapas pequeños alrededor de una sola ciudad.
 - Las figuras supremas, sectas, clanes y organizaciones estarán dispersas. Las noticias, distancias y movilizaciones deben afectar al desarrollo de la crisis.
