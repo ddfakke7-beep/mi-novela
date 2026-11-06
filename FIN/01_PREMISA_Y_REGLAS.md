@@ -211,3 +211,34 @@ Pueden existir personas o facciones que simpatizan con Kevin, se opongan a quien
 - No hacer que todos los mundos tengan simpatizantes ni repetir una misma organización. Si no existe una razón convincente para que alguien lo apoye, no introducirla artificialmente.
 
 La existencia de simpatizantes no invalida el rechazo de las víctimas ni convierte el conflicto en una división simple entre buenos y malos. En un mismo mundo pueden coexistir odio legítimo, deber de defensa, compasión, oportunismo, oposición política, esperanza y miedo.
+
+
+## Registro de daños, investigación y respuesta racional de los mundos
+
+Cada mundo debe sentirse como una sociedad real que intenta comprender y sobrevivir a una catástrofe, no como un escenario que se rompe sin dejar registros ni consecuencias administrativas.
+
+- Cuando la escala del desastre lo permita, mostrar informes, balances, mapas de daños, comunicaciones de emergencia, listas de desaparecidos, partes médicos, registros militares o evaluaciones de infraestructura.
+- Identificar ciudades, distritos, puertos, fortalezas, rutas, estaciones y regiones afectadas. Explicar qué función cumplían y qué significa perderlas.
+- Distinguir muertos confirmados, desaparecidos, heridos, evacuados, desplazados y población afectada. No sumar desaparecidos como muertos ni presentar estimaciones como cifras exactas.
+- Las cifras deben ser coherentes entre informes sucesivos. Pueden cambiar cuando llegan nuevos datos, se recuperan cuerpos o se localizan supervivientes; explicar por qué cambia el balance.
+- Las autoridades no tienen conocimiento omnisciente. Sus cifras pueden ser parciales, tardías o contradictorias, pero la narración debe señalar qué se sabe y qué sigue sin confirmarse.
+- Las muertes de personajes identificados deben tener identidad y contexto: quién era, qué decisión tomó, qué hizo para sobrevivir o proteger a otros y quién recibe la noticia. No reducir a los personajes importantes a una cifra agregada.
+- El alcance del daño debe ser específico de cada mundo: sistemas de agua, puertos, redes, rutas, cosechas, defensas, gobiernos, comunicaciones, refugios, comercio o estructuras culturales. No repetir siempre el mismo tipo de informe.
+
+## Identidad de Kevin, interrogatorios y conocimiento entre mundos
+
+- Los habitantes no conocen automáticamente el nombre Kevin. Solo pueden usarlo después de escucharlo de él, leerlo en un registro fiable o recibirlo de alguien que lo haya oído. Si Kevin no se presenta o no pueden preguntarle, pueden llamarlo desconocido, intruso, sujeto, viajero u otro término local.
+- La narración debe permitir que los personajes pregunten quién es, de dónde viene, cómo llegó, qué pretende, si conoce otros mundos, qué ocurrió en ellos, cuánto tiempo permanece, si puede marcharse voluntariamente, qué activa el poder y si puede detenerlo.
+- Kevin puede responder con lo que realmente sabe, equivocarse, omitir información o admitir que no entiende su situación. No convertirlo en una fuente de explicaciones que todavía no posee.
+- Desde Orthea, Kevin ya ha contado a representantes de Namar que procede de la Tierra y que estuvo en Veyra, Cangyuan, Ithrak y Orthea, mundos cuyas civilizaciones terminaron destruidas. Los habitantes de otros mundos futuros no conocen esta conversación automáticamente; la información debe transmitirse de forma verosímil.
+- Los interrogatorios no deben ser una formalidad vacía. Las respuestas, silencios y contradicciones deben influir en decisiones reales: custodia, negociación, vigilancia, evacuación, investigación, alianzas o combate.
+- No todos los personajes tienen que interrogarlo. Algunos pueden negarse a escucharlo, otros pueden intentar hablar antes de luchar y otros pueden hacerlo bajo presión o durante un enfrentamiento.
+
+## Resistencia estratégica, retirada y tiempo
+
+- El odio, el duelo y el deseo de venganza no vuelven irracionales a todos los defensores. Los personajes experimentados pueden estar furiosos y aun así calcular riesgos, retirarse, conservar fuerzas, reunir información, reorganizar tropas y volver con otro plan.
+- Una retirada no equivale a cobardía ni a rendición. Puede ser una decisión táctica para salvar civiles, preservar fuerzas, proteger una capital, esperar refuerzos o evitar repetir un error.
+- Las estrategias deben tener objetivos concretos y consecuencias. Algunas pueden fracasar, otras lograr rescates o retrasos parciales, y otras cambiar la dirección de la crisis.
+- La información obtenida en un combate o investigación debe afectar a quienes la reciben; no todos empiezan desde cero si existen comunicaciones y tiempo para prepararse.
+- No existe un límite temporal universal para destruir cada mundo. La duración dependerá de la geografía, el tipo de civilización, la velocidad de propagación del desastre, las defensas, las comunicaciones, las evacuaciones y las decisiones de sus habitantes.
+- Registrar al final de cada capítulo el tiempo transcurrido desde la llegada de Kevin hasta el colapso de la civilización y la hora de su salida. El colapso civilizatorio no implica necesariamente la destrucción física del planeta.
