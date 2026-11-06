@@ -131,3 +131,18 @@ Kevin no puede morir definitivamente por daño físico. Esta regla es independie
 - No establecer un límite definitivo ni explicar el origen de esta regeneración antes de que la historia lo justifique.
 
 La regeneración es una propiedad constante de Kevin; la forma en que su poder destructivo se manifiesta es otra cuestión y puede variar libremente.
+## 16. Investigación, comprensión y transmisión de información sobre Kevin
+
+Las máximas potencias de cada mundo no se limitarán a combatir a Kevin. Cuando comprendan que están ante una amenaza extraordinaria, intentarán averiguar qué es, cómo funciona lo que hace, qué lo activa, qué puede dañarlo, si puede morir y qué opciones existen para detenerlo.
+
+- La investigación puede incluir observación, análisis de residuos o fenómenos, interrogatorios, registros históricos, técnicas de detección, experimentos controlados y pruebas directas.
+- Los investigadores pueden formular hipótesis razonables a partir de lo que observan, pero no deben acertar automáticamente. Algunas serán erróneas, otras parcialmente correctas y otras quedarán sin resolver.
+- Las pruebas pueden fallar, resultar peligrosas, costar recursos, destruir instalaciones o provocar víctimas. No todos los mundos dispondrán de tiempo ni medios para investigar.
+- Algunos poderosos pueden arriesgar su cuerpo, posición, discípulos, ejércitos, artefactos o incluso su vida para obtener una respuesta que permita salvar a los demás.
+- La pregunta de si Kevin puede morir debe ser importante. Una aparente muerte, una regeneración o una recuperación pueden cambiar por completo la interpretación de los acontecimientos.
+- Lo descubierto debe tener consecuencias prácticas: modificar formaciones, distancias, armas, barreras, protocolos, evacuaciones o decisiones de combate.
+- La información debe circular de manera verosímil según las comunicaciones y distancias de cada mundo. Quienes reciban informes podrán prepararse antes de enfrentarlo; quienes estén aislados tendrán que descubrir las cosas por su cuenta.
+- Cada nuevo grupo no debe empezar necesariamente desde cero, pero tampoco conocer datos que nunca recibió. Los informes pueden ser incompletos, tardíos, contradictorios o malinterpretados.
+- Los adversarios pueden comprender aspectos reales del peligro sin llegar a entender su naturaleza profunda. Incluso las mentes más brillantes de un mundo pueden enfrentarse a algo que sus teorías no consiguen explicar.
+
+La investigación no debe convertirse en una pausa académica ni repetirse como una lista de experimentos. Debe surgir de la urgencia, el carácter de los personajes y las decisiones que están dispuestos a tomar. El misterio de Kevin puede resistir todos esos intentos.
