@@ -107,3 +107,18 @@ FIN cuenta con cuatro capítulos completos: Veyra, Cangyuan, Ithrak y Orthea. El
 ## Estado actualizado tras el capítulo 5
 
 FIN cuenta con cinco capítulos completos: Veyra, Cangyuan, Ithrak, Orthea y Namar. Kevin ha revelado por primera vez a autoridades de un mundo su procedencia terrestre y los cuatro mundos anteriores que visitó. El último mundo fue Namar; el Pacto de las Mareas colapsó el día 4 a las 16:40, 81 horas y 58 minutos después de su llegada. Kevin desapareció a las 18:03. Consultar `07_CONTINUIDAD.md` para el punto exacto de reanudación.
+
+## Protocolo obligatorio antes de escribir un capítulo nuevo
+
+Antes de redactar cualquier capítulo de FIN, no basta con confiar en recuerdos generales ni en una lista breve de reglas. Hay que reconstruir el estado real de la historia:
+
+1. Leer 00_LEEME.md, 01_PREMISA_Y_REGLAS.md, 02_ESTILO_NARRATIVO.md, 03_PROTAGONISTA.md y 07_CONTINUIDAD.md.
+2. Leer los resúmenes de todos los capítulos anteriores en 06_CAPITULOS.md, en orden. Sirven para orientarse, no para reemplazar los hechos narrados.
+3. Consultar el texto completo de los capítulos anteriores cuando una escena, afirmación, capacidad, herida, muerte, regeneración, conversación o conocimiento de los personajes dependa de un detalle concreto. Si hay duda sobre si algo ocurrió, comprobar el capítulo original antes de escribirlo.
+4. Contrastar cada hecho que se quiera mencionar como antecedente con el texto narrado. No transformar ejemplos hipotéticos, reglas condicionales, posibilidades, teorías o escenarios de prueba en acontecimientos que ya sucedieron.
+5. Distinguir en las notas de trabajo: hecho narrado, hecho no ocurrido, hipótesis de un personaje, regla general del proyecto e idea todavía no canonizada.
+6. Mantener separado lo que sabe el autor, lo que sabe Kevin y lo que sabe cada personaje o facción. Nadie puede conocer una muerte, regeneración, conversación, técnica o descubrimiento que no haya presenciado o recibido por una vía narrativa válida.
+7. Al terminar el capítulo, actualizar 06_CAPITULOS.md y 07_CONTINUIDAD.md con hechos concretos, consecuencias, conocimientos y cuestiones aún sin resolver.
+
+**Regla de seguridad de continuidad:** si no se puede confirmar que un acontecimiento ocurrió, no afirmarlo como pasado. Es preferible omitirlo o presentarlo como posibilidad futura que inventar un antecedente. Los resúmenes ayudan a localizar la información; el capítulo original es la referencia definitiva para comprobar qué sucedió realmente.
+
