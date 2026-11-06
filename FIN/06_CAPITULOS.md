@@ -36,6 +36,9 @@ El capítulo 1 ya está escrito y guardado en FIN/CAPITULOS/01_VEYRA_EL_MUNDO_QU
 |---|---|---|---|
 | 1 | Veyra, el mundo que sostenía el cielo | Veyra | Completo |\n| 2 | Cangyuan, el mundo de las diez mil sectas | Cangyuan | Completo |
 | 3 | Ithrak, el mundo que no retrocedió | Ithrak | Completo |
+| 4 | Orthea, el mundo que aprendió a escuchar | Orthea | Completo |
+| 5 | Namar, el mundo que decidió resistir | Namar | Completo |
+| 6 | Ilyr, el mundo que dormía bajo sus raíces | Ilyr | Completo |
 
 ## 5. Desarrollo y responsabilidad creativa
 
@@ -108,6 +111,20 @@ Los campos aún no narrados son decisiones creativas pendientes de desarrollo, n
 - **Personajes centrales y bajas:** Ysolde Marr murió manteniendo la transmisión de evacuación desde Keral; Dema Or murió durante un rescate en Aster. La hija de Torven quedó desaparecida; otros destinos permanecen sin confirmar.
 - **Resultado:** el Pacto de las Mareas dejó de funcionar como sistema coordinado. Hubo supervivientes y territorios que resistieron; el planeta permaneció físicamente intacto.
 - **Estado de Kevin:** reveló a representantes de Namar que procede de la Tierra y que ya había visitado cuatro mundos. Confirmó que no conoce el mecanismo de los traslados ni controla las manifestaciones. Su regeneración fue observada tras quedar gravemente herido e incapacitado.
+- **Estado:** capítulo completo, guardado en Markdown.
+
+## 11. Resumen del capítulo 6
+
+- **Mundo:** Ilyr, civilización no humana organizada alrededor de nueve Pozos de Aliento y de la convivencia con los Durmientes, criaturas colosales bajo los continentes.
+- **Cronología:** Kevin llegó al valle de Urdan el día 1 a las 09:10. La civilización de los Pozos y los pueblos de las huellas colapsó el día 3 a las 07:16. Kevin desapareció a las 09:10.
+- **Duración desde la llegada hasta el colapso:** 46 horas y 6 minutos.
+- **Perspectivas:** Kevin, habitantes Aruun, Sethri y Vey, guardianes de los Pozos, Ancestros y comunidades refugiadas.
+- **Acontecimientos:** una manifestación espontánea fracturó el valle de Urdan; las comunidades evacuaron; Tharuun combatió para apartar a Kevin sin derrumbar la garganta; los nueve Pozos discutieron explicaciones y prepararon una contención antigua.
+- **Contención:** el Nudo del Primer Sueño mantuvo a Kevin consciente e inmóvil desde el día 1 a las 13:20 hasta el día 2 a las 02:42, durante 13 horas y 22 minutos. Nueve anclas sostenían el lugar que ocupaba. La técnica tuvo un coste progresivo para sus portadores y permitió evacuaciones, análisis y preparativos. Kevin no murió ni se regeneró durante la contención.
+- **Investigación:** Ishkar observó que las fracturas continuaban mientras Kevin estaba contenido. Las teorías sobre la relación entre Kevin, las raíces y los Durmientes permanecieron como hipótesis locales, no como explicaciones confirmadas.
+- **Enfrentamientos y bajas:** Kharum, Oruun, Eshkar y Vaeshra participaron en defensas coordinadas. Kharum murió durante la defensa de la cámara; Vaeshra y Eshkar murieron al separar el núcleo de Urdan de las raíces; Oruun murió sosteniendo una ruta de evacuación. El destino de Tharuun e Ishkar no quedó confirmado.
+- **Resultado:** el despertar de los Durmientes se propagó y destruyó la red de convivencia, refugios, rutas y pactos de los nueve Pozos. El planeta permaneció físicamente intacto; quedaron comunidades dispersas.
+- **Estado de Kevin:** no obtuvo control fiable ni una técnica nueva. Sufrió golpes y heridas en el costado y un brazo. No murió en escena ni se mostró una regeneración posterior.
 - **Estado:** capítulo completo, guardado en Markdown.
 
 ## 12. Registro de hechos confirmados y control de continuidad
