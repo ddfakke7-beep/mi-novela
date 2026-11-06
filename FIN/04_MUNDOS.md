@@ -38,11 +38,33 @@ Cuando se establezca un mundo, registrar:
 - **Supervivientes y estado posterior:**
 - **Conexión con el siguiente mundo:**
 
-## 4. Registro actual
+## 4. Mundo 1 — Veyra
+
+- **Nombre:** Veyra, el mundo que sostenía el cielo.
+- **Capítulo:** 1 — Veyra, el mundo que sostenía el cielo.
+- **Género:** fantasía de civilización aérea, ciudades suspendidas y tecnología de anclaje energético.
+- **Estado:** civilización destruida; planeta físicamente intacto; supervivientes dispersos.
+- **Ambientación:** ciudades de piedra clara y metal oscuro, plataformas elevadas, puentes suspendidos, siete anillos monumentales y mesetas bajo un mar de nubes.
+- **Historia:** Veyra dependía de siete grandes anillos y una red de columnas para mantener sus ciudades en altura. Los Custodios de Anillo protegían la red y habían sobrevivido a guerras anteriores.
+- **Sociedad y gobierno:** Consejo de los Siete Anillos, Guardia de Altura, Custodios de Anillo y facciones independientes.
+- **Sistema de poder:** anclajes, cadenas, barreras y conducción de energía a través de los anillos y las columnas. No se estableció una escala numérica de rangos.
+- **Facciones:** Consejo de los Siete Anillos; Guardia de Altura; Custodios de Anillo; Hijos del Vacío.
+- **Figuras supremas:** Serevan, Maera Voss, Rhal Teren, Ilyra Sen, Dovar Kesh, Vael, Neris y Yara Venn.
+- **Tecnología:** plataformas de transporte, visores de traducción, armas de energía y redes de anclaje.
+- **Llegada de Kevin:** 20:00, 17 de octubre del calendario veyrano, sobre una terraza de la ciudad.
+- **Incidente:** una manifestación involuntaria de la fuerza de Kevin dañó una columna de sostén y desencadenó fallos en la red.
+- **Respuesta:** vigilancia, aislamiento de sectores, intento de captura, movilización de los Custodios y defensa final para salvar a la población.
+- **Enfrentamientos:** Guardia de Altura; Kevin contra las formaciones de los siete Custodios; última defensa del anillo superior.
+- **Aprendizaje de Kevin:** consiguió contener parcialmente una manifestación durante unos segundos y alterar la dirección de una caída. No obtuvo control fiable ni comprendió el origen del poder.
+- **Resultado:** colapso de los siete anillos, caída de las ciudades y desaparición de la civilización veyrana tal como existía.
+- **Supervivientes:** dispersos en las mesetas inferiores. Maera Voss sobrevivió al desenlace inmediato; otros destinos quedaron sin confirmar.
+- **Salida:** Kevin fue trasladado a las 07:26. El destino y el mecanismo siguen sin explicación.
+
+## 5. Registro anterior
 
 Todavía no hay mundos confirmados como visitados ni capítulos narrados. El primer mundo será creado por ChatGPT cuando comience la narración, sin necesidad de que el usuario lo elija.
 
-## 5. Continuidad entre mundos
+## 6. Continuidad entre mundos
 
 - Registrar el orden real de visita y el capítulo único de cada mundo.
 - No comenzar la destrucción de un segundo mundo dentro del capítulo del mundo anterior.
