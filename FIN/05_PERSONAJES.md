@@ -348,3 +348,75 @@ Los personajes y facciones de Veyra y Cangyuan ya están registrados en sus apar
 - **Custodios de las Cuencas:** defensores regionales, entre ellos Sareth Il; estructura desarticulada.
 - **Red de refugios de Nara:** red informal que protegía a personas perseguidas; su destino posterior no está confirmado.
 - **Comunidades de las islas de Teren:** grupos marítimos que evacuaron habitantes cuando las rutas terrestres colapsaron.
+
+
+## 12. Personajes y facciones del mundo 5 — Namar
+
+### Ysolde Marr
+- **Mundo:** Namar.
+- **Afiliación/cargo:** Primera Almirante y presidenta del Consejo del Pacto de las Mareas.
+- **Personalidad:** veterana, disciplinada y pragmática; no confunde prudencia con perdón.
+- **Historia:** sirvió treinta y siete años en la flota y dirigió la defensa de los estrechos de Keral durante una invasión de once meses.
+- **Objetivos:** proteger la población de los seis dominios y comprender la amenaza antes de ordenar una ofensiva.
+- **Decisiones:** interrogó a Kevin, escuchó lo que sabía de los mundos anteriores y organizó evacuaciones y retiradas escalonadas.
+- **Posición ante Kevin:** no lo perdonó ni descartó eliminarlo; se negó a sacrificar fuerzas sin una estrategia.
+- **Estado:** muerta al mantener la transmisión de evacuación desde la estación de señales de Keral.
+
+### Mara Sen
+- **Mundo:** Namar.
+- **Afiliación/cargo:** interrogadora del Consejo de Navegación.
+- **Personalidad:** metódica, directa y cuidadosa con las conclusiones.
+- **Decisiones:** preguntó a Kevin por su identidad, procedencia, otros mundos, regeneración, control y traslados. Sus respuestas quedaron registradas y fueron elevadas a las autoridades.
+- **Estado:** destino posterior no confirmado.
+
+### Rovan Kest
+- **Mundo:** Namar.
+- **Afiliación/cargo:** comandante del puerto de Aster.
+- **Personalidad:** firme, práctico y responsable de sus tropas.
+- **Decisiones:** recomendó una retirada parcial y conservar fuerzas en lugar de intentar una ofensiva improvisada.
+- **Estado:** destino posterior no confirmado.
+
+### Sava Rel
+- **Mundo:** Namar.
+- **Afiliación/cargo:** inspectora de daños portuarios de Aster.
+- **Personalidad:** rigurosa y desconfiada de conclusiones prematuras.
+- **Decisiones:** coordinó el primer recuento, distinguió daños confirmados de hipótesis y advirtió que los registros eran incompletos.
+- **Estado:** destino posterior no confirmado.
+
+### Neris Olan
+- **Mundo:** Namar.
+- **Afiliación/cargo:** estratega del Círculo de Defensa.
+- **Personalidad:** analítica, paciente y dispuesta a corregir planes.
+- **Decisiones:** se opuso a atribuir automáticamente a Kevin toda perturbación; preparó observación a distancia, corredores de evacuación y planes adaptativos. Suspendió rescates directos cuando las condiciones podían causar más víctimas.
+- **Posición ante Kevin:** considera que debe ser detenido si es necesario, pero exige que las decisiones se apoyen en información y no solo en rabia.
+- **Estado:** destino posterior no confirmado.
+
+### Torven Hal
+- **Mundo:** Namar.
+- **Afiliación/cargo:** almirante de las Islas Grises.
+- **Personalidad:** orgulloso, endurecido por la pérdida y capaz de priorizar objetivos aun con deseos de venganza.
+- **Historia:** su hija desapareció durante la catástrofe de Aster.
+- **Objetivos:** quiere matar a Kevin, pero también conservar a sus fuerzas y proteger a los habitantes de los dominios.
+- **Decisiones:** aceptó la retirada, evitó lanzar una ofensiva inútil y participó en el rescate de Kevin desde Varda para conocer su estado y no perder hombres sin propósito.
+- **Posición ante Kevin:** odio y deseo de eliminarlo, sin renunciar al cálculo táctico.
+- **Estado:** destino posterior no confirmado.
+
+### Eda Rusk
+- **Mundo:** Namar.
+- **Afiliación/cargo:** capitana de rescate.
+- **Personalidad:** resolutiva, flexible y protectora de sus equipos.
+- **Decisiones:** cambió rutas de evacuación cuando los puentes fallaron, abandonó posiciones insostenibles y organizó rescates por canales secundarios.
+- **Estado:** destino posterior no confirmado.
+
+### Dema Or
+- **Mundo:** Namar.
+- **Afiliación/cargo:** capitana de rescate portuario.
+- **Decisiones:** regresó a una dársena para liberar a cuatro trabajadores atrapados; consiguió sacar a tres antes de que cediera la compuerta.
+- **Estado:** muerta durante la operación de rescate en Aster.
+
+### Facciones y estructuras de Namar
+- **Pacto de las Mareas:** alianza de seis dominios marítimos; dejó de funcionar como sistema civilizatorio coordinado tras la destrucción de rutas, puertos y estaciones.
+- **Consejo de Navegación:** autoridad de coordinación y defensa.
+- **Círculo de Defensa:** estructura estratégica que elaboró respuestas escalonadas.
+- **Flotas de los seis dominios:** se retiraron de puertos vulnerables y priorizaron evacuaciones.
+- **Equipos de rescate de Aster y Neral:** sostuvieron operaciones locales pese a la pérdida de infraestructura.
