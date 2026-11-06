@@ -193,3 +193,21 @@ Las reacciones deben depender de la personalidad, las pérdidas, la cultura, las
 
 Al narrar una decisión, dejar claro qué sabe el personaje y qué no. No hacer que conozca la intención de Kevin sin pruebas, ni que confunda automáticamente una explicación de Kevin con una verdad demostrada. La ausencia de intención destructiva no elimina el daño ni obliga a las víctimas a perdonarlo.
 
+## 16. Esperanza, confianza y quienes creen que Kevin puede cambiar
+
+No todos los habitantes deben acercarse a Kevin para estudiarlo, detenerlo o matarlo. También puede haber personajes que crean sinceramente que todavía es posible evitar la catástrofe y que Kevin puede aprender a controlar su poder, recapacitar o utilizarlo para salvarlos.
+
+Pueden ser niños, jóvenes, adultos, líderes, sanadores, compañeros circunstanciales o personas que hayan perdido tanto como los demás. La edad no determina por sí sola su ingenuidad ni su lucidez.
+
+- **Construir la confianza en escenas:** mostrar qué ve esa persona en Kevin, qué conversación o gesto la lleva a confiar, qué teme y por qué decide acercarse cuando otros se alejan.
+- **Esperanza concreta:** puede creer que Kevin logrará controlar lo que lleva dentro, que juntos encontrarán una forma de detener las manifestaciones o que su poder todavía puede salvar una ciudad, una familia o el mundo.
+- **Intentar hacerlo recapacitar:** puede pedirle que no se rinda, confrontarlo por el daño causado, recordarle a quién puede proteger o insistir en que todavía tiene capacidad de elegir. No todas las conversaciones tienen que ser dulces; alguien que confía en él también puede enfadarse y exigirle responsabilidad.
+- **No convertirlos en accesorios:** darles personalidad, relaciones, objetivos y decisiones propias. No hacer que existan únicamente para admirar a Kevin, enseñarle una lección o morir delante de él.
+- **Efecto en Kevin:** esa confianza puede aliviarlo, darle una razón para intentar algo, hacerlo sentir responsable o aumentar su miedo a fallar. No implica que cambie de personalidad de golpe.
+- **Esperanza con límites:** creer en Kevin no hace que su poder obedezca. Puede lograr un control parcial, salvar a algunas personas o evitar un desastre local y aun así fracasar ante una amenaza mayor. También puede no conseguir ningún avance.
+- **Desenlaces no predeterminados:** no matar siempre al personaje esperanzado ni convertir cada vínculo en una tragedia idéntica. Puede sobrevivir, perder la fe, mantenerla, alejarse, enfrentarse a Kevin o cambiar de postura según lo vivido.
+
+La tensión nace de la distancia entre lo que esos personajes esperan y lo que Kevin realmente puede hacer. Su confianza puede ofrecer un respiro genuino en medio del desastre sin garantizar un final feliz. Si la esperanza se rompe, desarrollar el impacto mediante la relación que se construyó, no solo mediante el acontecimiento de la pérdida.
+
+Estas figuras pueden coexistir con quienes odian a Kevin, quieren vengarse o consideran que debe morir. Un mismo mundo puede contener rechazo absoluto y una pequeña esperanza obstinada, sin que una postura invalide a la otra.
+
