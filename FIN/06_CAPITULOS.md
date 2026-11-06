@@ -93,3 +93,19 @@ Los campos aún no narrados son decisiones creativas pendientes de desarrollo, n
 - **Resultado:** las manifestaciones dañaron las estaciones de pulso, fracturaron regiones y destruyeron ciudades, rutas y la red que conectaba las nueve Cuencas. El planeta permaneció físicamente intacto, pero la civilización de Orthea dejó de funcionar como una estructura conectada.
 - **Supervivientes:** grupos dispersos; Nara y Lira salieron de Auralia, y varias comunidades organizaron evacuaciones locales.
 - **Estado:** capítulo completo, guardado en Markdown.
+
+
+## 10. Resumen del capítulo 5
+
+- **Mundo:** Namar, planeta oceánico con cinco grandes masas continentales, un mar interior y miles de islas. Su civilización se organizaba en seis dominios unidos por el Pacto de las Mareas.
+- **Cronología:** Kevin llegó a Aster el día 1 a las 06:42. El Pacto dejó de funcionar como civilización coordinada el día 4 a las 16:40. Kevin desapareció a las 18:03.
+- **Duración desde la llegada hasta el colapso:** 81 horas y 58 minutos.
+- **Perspectivas:** Kevin, Mara Sen, Ysolde Marr, Sava Rel, Rovan Kest, Neris Olan, Torven Hal y equipos de rescate.
+- **Identidad e interrogatorio:** un guardia preguntó su nombre y Kevin se presentó como Kevin. Mara y Ysolde le preguntaron por su procedencia, los mundos anteriores, la destrucción de sus civilizaciones, su regeneración, el control del poder y los traslados. Kevin dijo que procedía de la Tierra y nombró Veyra, Cangyuan, Ithrak y Orthea.
+- **Acontecimientos:** una manifestación espontánea destruyó parte del puerto de Aster; una segunda se produjo mientras Kevin dormía; una tercera afectó Neral cuando Kevin estaba lejos; el Pacto organizó evacuaciones y retiradas; Kevin fue trasladado a Varda, donde otra manifestación destruyó el faro y el transporte; quedó incapacitado y después fue rescatado.
+- **Respuesta estratégica:** Ysolde, Neris y Rovan evitaron una ofensiva improvisada. Torven quería matar a Kevin, pero aceptó retirarse y conservar fuerzas. Los defensores cambiaron rutas, preservaron flotas y priorizaron civiles.
+- **Informes de daños:** Aster y Neral registraron muertos, desaparecidos, heridos, desplazados y pérdidas de infraestructura en categorías separadas. El balance provisional conjunto fue de 1.405 muertos confirmados, 1.969 desaparecidos, 7.020 heridos y 115.100 desplazados.
+- **Personajes centrales y bajas:** Ysolde Marr murió manteniendo la transmisión de evacuación desde Keral; Dema Or murió durante un rescate en Aster. La hija de Torven quedó desaparecida; otros destinos permanecen sin confirmar.
+- **Resultado:** el Pacto de las Mareas dejó de funcionar como sistema coordinado. Hubo supervivientes y territorios que resistieron; el planeta permaneció físicamente intacto.
+- **Estado de Kevin:** reveló a representantes de Namar que procede de la Tierra y que ya había visitado cuatro mundos. Confirmó que no conoce el mecanismo de los traslados ni controla las manifestaciones. Su regeneración fue observada tras quedar gravemente herido e incapacitado.
+- **Estado:** capítulo completo, guardado en Markdown.
