@@ -56,7 +56,7 @@ Un capítulo puede organizarse alrededor de estos momentos:
 2. Primer incidente o manifestación del poder.
 3. Reacción de habitantes, autoridades y facciones.
 4. Intentos de comprender, detener o eliminar a Kevin.
-5. Escalada de enfrentamientos y aprendizaje gradual de Kevin.
+5. Escalada de enfrentamientos y consecuencias crecientes para Kevin y el mundo.
 6. Últimas estrategias y esperanzas del mundo.
 7. Desenlace: destrucción del mundo o colapso de su civilización.
 8. Cierre y posible indicio de la siguiente transición.
@@ -68,7 +68,7 @@ No es obligatorio utilizar todos los apartados ni respetar siempre este orden. S
 Usar horas concretas en los momentos relevantes del capítulo, especialmente al cambiar de perspectiva. La cronología debe permitir seguir simultáneamente la llegada de Kevin, los primeros incidentes, el descubrimiento de la amenaza, la transmisión de informes, las decisiones de las autoridades, la movilización de las potencias y el desenlace.
 
 No convertirlo en un registro mecánico: no todas las escenas necesitan una hora visible. Alternar marcas horarias con referencias naturales al tiempo transcurrido. Las horas deben ser coherentes con el horario local del mundo y con todos los acontecimientos ya narrados.
-## 6. Acción y enfrentamientos épicos a muerte
+## 7. Acción y enfrentamientos épicos a muerte
 
 Las batallas decisivas deben sentirse como acontecimientos históricos para el mundo que las presencia: choques a muerte entre las fuerzas más experimentadas y poderosas de una civilización y una amenaza que puede acabar con todo lo que conocen.
 
@@ -81,22 +81,22 @@ Las batallas decisivas deben sentirse como acontecimientos históricos para el m
 - Mostrar la escala mediante el entorno y sus efectos: ciudades, territorios, barreras, fenómenos, estructuras o sistemas afectados. La espectacularidad debe ser comprensible, no una sucesión confusa de explosiones.
 - Permitir que los adversarios sean inteligentes y peligrosos. Pueden estudiar a Kevin, engañarlo, tender trampas, coordinar técnicas, sacrificar ventajas o aprovechar su falta de control.
 - Los poderosos pueden sorprenderlo, herirlo, contenerlo, hacerlo retroceder o forzarlo a descubrir una aplicación nueva de su poder.
-- No hacer que Kevin venza automáticamente por tener una capacidad potencialmente superior. Su falta de comprensión y control debe importar.
+- No hacer que Kevin venza automáticamente por tener una capacidad potencialmente superior. Su falta de comprensión puede importar, pero intentar contener o dirigir la fuerza no debe convertirse en el eje obligatorio de cada capítulo.
 - Las batallas deben ser distintas de un mundo a otro: sus sistemas de poder, cultura, tecnología y doctrina militar determinarán cómo combaten.
 - Mantener legibles las posiciones, objetivos, decisiones y cambios de ventaja durante el combate.
 - El espectáculo nunca debe borrar el peso emocional ni las consecuencias para quienes viven en ese mundo.
 
-## 6. Registro de continuidad de combate
+## 8. Registro de continuidad de combate
 
 Al terminar cada capítulo, registrar en los documentos de FIN los combatientes relevantes, sus capacidades y técnicas mostradas, estrategias, enfrentamientos, resultados, muertes y supervivientes. Usar ese registro para conservar continuidad y evitar repetir accidentalmente personajes, técnicas o estructuras de batalla. El registro sirve como herramienta interna de consistencia, no como una lista que deba aparecer dentro de la narración.
 
-## 8. Consecuencias
+## 9. Consecuencias
 
 Mostrar tanto el acontecimiento como sus efectos: qué destruyó o alteró, quiénes lo presenciaron, qué decisiones tomaron las autoridades, qué perdió la población y qué cambió para los supervivientes.
 
 No es necesario describir cada muerte. El impacto puede transmitirse mediante escenas concretas y personajes reconocibles.
 
-## 8. Voz y claridad
+## 10. Voz y claridad
 
 - Mantener una prosa clara, fluida y visual.
 - Diferenciar las voces de personajes importantes.
@@ -104,6 +104,6 @@ No es necesario describir cada muerte. El impacto puede transmitirse mediante es
 - No convertir a los habitantes en una masa anónima cuando una escena necesita un punto de vista humano.
 - No explicar al lector algo que la escena ya comunica con claridad.
 
-## 9. Misterio
+## 11. Misterio
 
 El origen del poder y la razón de los viajes permanecen sin resolver. No introducir respuestas definitivas por conveniencia. Las pistas, si aparecen, deben ser compatibles con la posibilidad de que todavía no se conozca la verdad.
