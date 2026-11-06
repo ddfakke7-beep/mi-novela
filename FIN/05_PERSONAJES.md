@@ -192,6 +192,6 @@ Protagonista. Llegó a Cangyuan a las 06:14 en las montañas de Lian y desaparec
 - **Escuelas marítimas de Dongling:** organizaciones que protegían puertos y rutas; gravemente afectadas por la catástrofe.
 - **Señores de los oasis de Xihai:** autoridades de rutas desérticas; estructura desarticulada.
 
-## 8. Registro inicial
+## 8. Criterio general para nuevos registros
 
-Todavía no hay personajes individuales ni facciones nombrados como canon. Todos los personajes de los mundos serán creados por ChatGPT durante el desarrollo de FIN. El protagonista es la excepción: sus rasgos personales fundamentales permanecen bajo control del usuario.
+Los personajes y facciones de Veyra y Cangyuan ya están registrados en sus apartados. A partir de los próximos capítulos, añadir aquí las figuras relevantes de cada mundo sin asumir que todos los destinos quedan confirmados durante la catástrofe. El protagonista es la excepción: sus rasgos personales fundamentales permanecen bajo control del usuario.
