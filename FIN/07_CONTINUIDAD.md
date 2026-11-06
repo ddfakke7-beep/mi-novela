@@ -324,3 +324,41 @@ La diferencia es que esa muerte no es definitiva. Su capacidad regenerativa reco
 - No establecer un límite definitivo, una fuente ni el mecanismo último de la regeneración.
 
 La regeneración física es independiente del poder destructivo de Kevin. Morir y regenerarse no tiene por qué provocar una manifestación catastrófica, y una manifestación destructiva no tiene por qué matarlo.
+
+## 21. Protocolo de continuidad y teorías locales sobre la regeneración
+
+### Comprobación de capítulos anteriores
+
+Antes de redactar un capítulo nuevo:
+- Revisar los documentos maestros y el estado actual de continuidad.
+- Leer en 06_CAPITULOS.md los resúmenes de todos los capítulos anteriores.
+- Consultar el capítulo completo original siempre que se vaya a mencionar un acontecimiento específico, en especial heridas, muertes, regeneraciones, pruebas, interrogatorios, diálogos, técnicas y conocimientos adquiridos.
+- No tratar un ejemplo hipotético de las reglas como un suceso ya ocurrido.
+- Si no se puede verificar que algo ocurrió, no afirmarlo como hecho.
+- Mantener una distinción explícita entre hechos narrados, posibilidades futuras, hipótesis de personajes y reglas generales.
+- Registrar qué sabe Kevin y qué sabe cada personaje o facción, junto con la vía por la que obtuvo esa información.
+
+### Estado físico confirmado de Kevin al cierre del capítulo 5
+
+- Kevin sufrió heridas graves e incapacitantes en Varda, Namar.
+- Su recuperación fue observada por médicos y tardó horas.
+- **No ha sido decapitado en ninguno de los cinco capítulos.**
+- **No ha muerto en escena en ninguno de los cinco capítulos.**
+- Por tanto, ningún personaje ha presenciado todavía su muerte física ni su regreso después de morir.
+- La capacidad de morir físicamente y regenerarse está establecida como regla del proyecto, pero todavía no ha sido demostrada mediante una muerte narrada.
+- No convertir los ejemplos de ahogamiento, lava, asfixia, destrucción corporal o decapitación en antecedentes de la historia.
+
+### Teorías locales sobre la regeneración
+
+Cada mundo puede desarrollar una interpretación distinta a partir de sus propios conocimientos. Pueden existir teorías sobre etapas de reconstrucción, plazos máximos, vínculo entre cuerpo y alma, restauración espiritual, condiciones de interrupción o cualquier explicación coherente con la cultura y el sistema de poder local.
+
+Estas explicaciones son hipótesis de los personajes, no reglas nuevas del protagonista. Registrar:
+- quién propone la teoría;
+- qué observación la originó;
+- qué parte es un hecho y cuál es interpretación;
+- qué prueba o estrategia deriva de ella;
+- si fue comunicada a otros y por qué vía;
+- qué resultados la apoyan, contradicen o dejan sin resolver.
+
+No todos los mundos deben estudiar la regeneración, ni todos deben llegar a una conclusión. Sus teorías pueden ser incompatibles y aun así razonables desde sus conocimientos. No establecer un tiempo máximo ni etapas universales para la regeneración.
+
