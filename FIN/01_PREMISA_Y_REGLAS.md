@@ -117,20 +117,24 @@ Cada capítulo llevará una cronología temporal coherente. Se usarán horas con
 ## 14. Principio rector
 
 La historia no trata únicamente de cuánto puede destruir Kevin. Trata de cómo una civilización entera intenta comprender, resistir y sobrevivir a una fuerza que no sabe interpretar, mientras sus mayores guerreros se juegan la vida para detenerla y él aprende lentamente qué es capaz de hacer.
-## 15. Regeneración y supervivencia física de Kevin
+## Regla precisa: muerte física y regeneración de Kevin
 
-Kevin no puede morir definitivamente por daño físico. Esta regla es independiente de la naturaleza, el control o la manifestación de su poder.
+Kevin **sí puede morir físicamente**. Su cuerpo y sus funciones vitales pueden fallar como los de una persona normal ante circunstancias letales: puede ahogarse o asfixiarse, morir por exposición a lava o calor extremo, sufrir heridas mortales, perder sangre hasta morir o quedar destruido por completo. No es inmortal ni está protegido de experimentar la muerte.
 
-- Si sufre heridas mortales, pierde una extremidad, es decapitado, pierde una cantidad extrema de sangre o su cuerpo queda gravemente destruido, no permanece muerto de forma definitiva.
-- El daño puede dejarlo inconsciente o completamente incapacitado. No se recupera de inmediato ni continúa luchando como si nada hubiera ocurrido.
-- Su cuerpo reconstruye las partes perdidas y repara los daños, pero la regeneración necesita tiempo. La duración depende de la gravedad y las circunstancias; no hay una duración fija universal.
-- Durante ese intervalo puede quedar fuera del combate y los adversarios pueden aprovecharlo para completar objetivos, retirarse, reorganizarse o continuar sus planes.
-- Cuando la regeneración termina, Kevin puede volver a levantarse y funcionar con normalidad.
-- Esta capacidad no equivale a invulnerabilidad: puede ser herido, incapacitado, contenido o apartado de una batalla durante un periodo significativo.
-- Los habitantes de cada mundo no conocen automáticamente esta propiedad. Pueden creer que ha muerto hasta presenciar su recuperación.
-- No establecer un límite definitivo ni explicar el origen de esta regeneración antes de que la historia lo justifique.
+La diferencia es que esa muerte no es definitiva. Su capacidad regenerativa reconstruye y repara su cuerpo y, cuando el proceso termina, lo devuelve a la vida.
 
-La regeneración es una propiedad constante de Kevin; la forma en que su poder destructivo se manifiesta es otra cuestión y puede variar libremente.
+- No confundir «puede morir» con «puede permanecer muerto». Puede llegar a estar realmente muerto durante el proceso, pero la regeneración acaba revirtiendo ese estado.
+- La regeneración no es instantánea. El tiempo depende de la gravedad y naturaleza del daño, de cuánto cuerpo deba reconstruirse y de las circunstancias. No fijar una duración universal.
+- Mientras está muerto o regenerándose, Kevin no puede actuar, defenderse, escapar ni continuar combatiendo como si nada. Queda completamente fuera de juego.
+- La reconstrucción puede requerir que el cuerpo repare daños extremos o vuelva a formarse. No imponer una mecánica visual única si la escena todavía no la ha establecido.
+- Los adversarios pueden aprovechar ese intervalo para completar objetivos, evacuar, preparar sellos, retirarse, reorganizarse o intentar impedir que Kevin vuelva a levantarse.
+- La regeneración no lo hace inmune al dolor, a la asfixia, al calor, a la destrucción corporal, al daño ni a la contención. Tampoco rompe automáticamente prisiones, sellos o dominios sobrenaturales.
+- Los habitantes solo pueden concluir que Kevin murió y volvió si presencian hechos que lo demuestren. Una recuperación de heridas no basta para afirmar que lo vieron morir.
+- No asumir que Kevin conoce desde el principio el alcance de esta capacidad ni que comprende cómo funciona.
+- No establecer un límite definitivo, una fuente ni el mecanismo último de la regeneración.
+
+La regeneración física es independiente del poder destructivo de Kevin. Morir y regenerarse no tiene por qué provocar una manifestación catastrófica, y una manifestación destructiva no tiene por qué matarlo.
+
 ## 16. Investigación, comprensión y transmisión de información sobre Kevin
 
 Las máximas potencias de cada mundo no se limitarán a combatir a Kevin. Cuando comprendan que están ante una amenaza extraordinaria, intentarán averiguar qué es, cómo funciona lo que hace, qué lo activa, qué puede dañarlo, si puede morir y qué opciones existen para detenerlo.
@@ -267,4 +271,3 @@ Los defensores no deben limitarse a golpear a Kevin o a retrasarlo unos instante
 - La regeneración física de Kevin no debe anular automáticamente sellos, prisiones, dominios ni restricciones sobrenaturales. Son cuestiones distintas.
 
 La finalidad no es hacer que Kevin pierda siempre, sino permitir que cada mundo tenga victorias tácticas reales y métodos propios para enfrentarlo. Un mundo debe poder sorprenderlo y cambiar el curso de los acontecimientos antes de que la catástrofe continúe.
-
