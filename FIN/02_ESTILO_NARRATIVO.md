@@ -142,3 +142,29 @@ La regeneración física de Kevin es una regla constante, no una habilidad que d
 - No usar la regeneración para quitar tensión: Kevin puede sobrevivir, pero otros pueden morir, los objetivos pueden perderse y el mundo puede sufrir consecuencias irreversibles.
 
 No fijar de antemano el mecanismo último, el origen ni los límites definitivos de estas capacidades.
+## 14. Investigación del fenómeno Kevin y aprendizaje entre defensores
+
+Los poderosos deben intentar comprender a Kevin además de enfrentarlo. Para ellos, la primera pregunta no será únicamente cómo derrotarlo, sino qué tienen delante y qué reglas —si es que existen— gobiernan sus manifestaciones.
+
+Pueden investigar:
+- Qué provoca una manifestación: movimiento, intención, miedo, dolor, contacto, ataques recibidos, proximidad u otros factores observables.
+- Si el fenómeno es energía, fuerza, alteración del entorno, defensa automática u otra cosa; estas son hipótesis de los personajes, no explicaciones obligatorias del narrador.
+- Si Kevin resulta herido, si puede recuperarse y si existe una forma real de matarlo o incapacitarlo.
+- Qué alcance, dirección, duración o condiciones parecen tener las manifestaciones.
+- Si las defensas, armas, sellos, técnicas o sistemas de ese mundo pueden interactuar con ellas.
+
+**Las pruebas deben ser dramáticas y tener precio.** Un personaje puede exponerse para medir una reacción, sacrificar un artefacto, usar una técnica prohibida, permitir que una barrera reciba el impacto o arriesgar una unidad para descubrir el alcance de un fenómeno. Las pruebas pueden fallar, dar resultados ambiguos o empeorar la situación. Evitar experimentos gratuitos que entreguen respuestas perfectas.
+
+**La información cambia las batallas.** Un combatiente que descubre una característica debe intentar comunicarla. Los aliados pueden recibir mapas, advertencias, patrones observados, hipótesis y recomendaciones. Los que lleguen después pueden adaptar su estrategia y evitar errores ya cometidos. La transmisión depende de las comunicaciones, distancias, confianza y tiempo disponibles; un mensaje puede llegar tarde, incompleto o deformado.
+
+Distinguir siempre:
+- **Hecho observado:** lo que ocurrió y pudo comprobarse.
+- **Hipótesis:** la explicación que un personaje propone.
+- **Conclusión provisional:** lo que el grupo decide hacer con esa información.
+- **Error:** una interpretación que el siguiente enfrentamiento puede desmentir.
+
+No dar omnisciencia a los defensores. Un mundo puede llegar a comprender cómo sobrevivir unos segundos más sin entender qué es Kevin. Puede descubrir que una estrategia funciona una vez y fallar al intentar repetirla. Puede averiguar que Kevin se regenera y seguir sin saber si existe alguna forma de matarlo.
+
+Los poderosos deben conservar iniciativa intelectual: comparar testimonios, discutir teorías, diseñar contramedidas, cambiar planes y transmitir lo aprendido. No todos tienen que ser científicos; un guerrero veterano puede deducir un patrón durante el combate y un sanador, artesano, estratega o entidad antigua puede interpretarlo de otra manera.
+
+La investigación debe variar según la civilización y sus recursos. No repetir en todos los mundos una sala de laboratorio, un consejo y una prueba idéntica.
