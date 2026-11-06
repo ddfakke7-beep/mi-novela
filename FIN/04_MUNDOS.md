@@ -116,3 +116,28 @@ Hay dos mundos confirmados como visitados: Veyra (capítulo 1) y Cangyuan (capí
 - Conservar las consecuencias de cada mundo cuando tengan relevancia posterior.
 - No asumir que el siguiente mundo conoce lo ocurrido en el anterior.
 - Mantener sin resolver el mecanismo definitivo de los viajes.
+
+
+## 8. Mundo 4 — Orthea
+
+- **Nombre:** Orthea, el mundo que aprendió a escuchar.
+- **Capítulo:** 4 — Orthea, el mundo que aprendió a escuchar.
+- **Género:** fantasía civilizatoria de resonancia, infraestructura acústica y ciudades conectadas.
+- **Estado:** civilización de las nueve Cuencas destruida; planeta físicamente intacto; supervivientes dispersos.
+- **Geografía:** dos grandes masas continentales, un océano interior y una cadena de islas en el hemisferio oriental. Nueve Cuencas con gobiernos y tradiciones propias.
+- **Sociedad:** ciudades conectadas mediante estaciones de pulso, canales, puentes y redes de resonancia. La infraestructura compartida facilitaba la coordinación, el transporte y la gestión del agua.
+- **Sistema de poder:** resonancia. Los practicantes utilizan sonidos, ritmos y vibraciones para alterar materiales, reforzar estructuras, coordinar movimientos y modificar distancias. Los Siete Afinadores dominaban las disciplinas de piedra, agua, metal, aire, memoria, distancia y pulso. No hay equivalencia con sistemas de otros mundos.
+- **Facciones y autoridades:** Consejo de Resonancia de las nueve Cuencas; fuerzas regionales; estaciones de pulso; red de refugios y comunidades autónomas.
+- **Figuras centrales:** Amara Vey, Primera Voz; Ivara Sen, directora de la Sala de Resonancia Central; los Siete Afinadores Oren Dhal, Vaela Neris, Khar Venn, Ilyen Rusk, Sovan Mer, Talia Or y Eren Voss; Sareth Il, Custodia de Distancia; Yoren Kall, antiguo maestro de pulso; Aven y Miro, los Dos Compases; Nara Olt, Lira y la gobernadora Ressa Tal.
+- **Llegada de Kevin:** 05:20, en una plaza de Auralia.
+- **Incidente:** sin recibir ningún ataque, sin que Kevin intentara defenderse y mientras permanecía prácticamente quieto, una manifestación espontánea fracturó la plaza, dañó edificios y provocó víctimas. Los sensores registraron una señal simultánea sin origen identificable.
+- **Respuesta:** investigación de la señal; evacuaciones; pruebas limitadas de resonancia; intento de contención en una cantera; transmisión de observaciones entre Cuencas; intentos de traslado y posterior defensa en la llanura de Mereth.
+- **Intentos de comprender y controlar:** Eren y Lira ayudaron a Kevin a seguir una vibración y consiguieron estabilizar objetos pequeños durante instantes. La contención de doce estaciones concentró la manifestación y provocó una onda mayor. La información cambió las tácticas de varias regiones, aunque no llegó completa a todas.
+- **Simpatía y rechazo:** Nara escondió a Kevin para impedir que el Consejo lo utilizara como excusa para abusos, sin negar el peligro. Lira creyó sinceramente que podía aprender a controlar lo que llevaba dentro y que todavía podía ayudar a salvar a otros. Ressa Tal, tras perder a su hijo y su ciudad, exigió su eliminación.
+- **Enfrentamientos:** la formación de los Dos Compases; defensa de Oren; contención de agua de Vaela; intervención de Yoren; intento de separación de Sareth. Los defensores descubrieron que no podían tratar la fuerza como una onda común ni asumir que existía un único punto de origen.
+- **Aprendizaje de Kevin:** por primera vez tuvo una experiencia pequeña y reproducible de estabilización al seguir una vibración con Lira y Eren. No obtuvo control fiable. La manifestación final ocurrió sin ataque ni contención, confirmando para Kevin que el desastre también podía aparecer espontáneamente.
+- **Resultado:** las manifestaciones dañaron las estaciones de pulso, fracturaron regiones, destruyeron ciudades y rompieron la infraestructura que conectaba las nueve Cuencas. Los gobiernos y la coordinación continental dejaron de funcionar.
+- **Supervivientes:** grupos dispersos en los continentes y las islas. Nara y Lira consiguieron salir de Auralia; el destino posterior de muchos personajes no está confirmado.
+- **Colapso civilizatorio:** 13:51 del día siguiente.
+- **Duración desde la llegada hasta el colapso:** 32 horas y 31 minutos.
+- **Salida de Kevin:** 14:05 del día siguiente.
