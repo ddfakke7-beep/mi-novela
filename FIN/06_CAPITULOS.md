@@ -30,14 +30,25 @@ Por cada capítulo, anotar:
 
 ## 4. Índice actual
 
-**No hay capítulos escritos todavía.**
+El capítulo 1 ya está escrito y guardado en FIN/CAPITULOS/01_VEYRA_EL_MUNDO_QUE_SOSTENIA_EL_CIELO.md.
 
 | N.º | Título | Mundo | Estado |
 |---|---|---|---|
-| — | Sin capítulos registrados | — | Preparación inicial |
+| 1 | Veyra, el mundo que sostenía el cielo | Veyra | Completo |
 
 ## 5. Desarrollo y responsabilidad creativa
 
 ChatGPT crea los mundos, personajes, conflictos, acontecimientos y capítulos de manera autónoma, respetando el control del usuario sobre el protagonista. No se requiere que el usuario elija el mundo, los enemigos o los giros narrativos.
 
 Los campos aún no narrados son decisiones creativas pendientes de desarrollo, no preguntas que deban trasladarse automáticamente al usuario.
+
+## 6. Resumen del capítulo 1
+
+- **Mundo:** Veyra, civilización de ciudades suspendidas sostenidas por siete anillos.
+- **Cronología:** llegada de Kevin a las 20:00 del 17 de octubre; traslado fuera de Veyra a las 07:26 del día siguiente.
+- **Perspectivas:** Kevin, habitantes, Guardia de Altura, Consejo y Custodios.
+- **Acontecimientos:** aparición de Kevin; daños involuntarios en la red de sostén; investigación y movilización; enfrentamientos con la Guardia y las máximas potencias; intento final de separar a Kevin de la red.
+- **Personajes centrales:** Kevin, Maera Voss, Serevan, Ilyra Sen, Rhal Teren, Dovar Kesh, Vael, Neris, Yara Venn y Veyr Kall.
+- **Poder:** manifestaciones involuntarias de fuerza descomunal; Kevin logró contener parcialmente una manifestación y dirigir una caída durante unos segundos, sin control fiable.
+- **Desenlace:** destrucción de los siete anillos y colapso de la civilización de Veyra. El planeta permaneció físicamente intacto y hubo supervivientes dispersos.
+- **Estado:** capítulo completo, registrado en Markdown.
