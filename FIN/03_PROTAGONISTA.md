@@ -1,32 +1,43 @@
 # FIN — Protagonista
 
-## 1. Estado de identidad
+## 1. Identidad inicial
 
-El protagonista todavía no tiene nombre, edad ni descripción física fijados en el canon. No asignarlos como hechos hasta que el usuario los establezca.
+- **Nombre:** Andrés Vega.
+- **Edad:** 27 años.
+- **Apariencia:** aspecto completamente corriente; estatura media, complexión común, cabello oscuro y ojos marrones. No posee rasgos físicos extraordinarios ni una apariencia que anuncie su importancia futura.
+- **Procedencia:** Tierra.
+- **Ocupación anterior:** trabajador corriente de una empresa. Su vida laboral puede situarse en un empleo ordinario de oficina o atención al cliente, como un call center. No tiene un pasado secreto, una posición especial ni una conexión previa con los mundos que visitará.
 
-## 2. Punto de partida
+Estos datos son decisiones creativas iniciales de ChatGPT para poder comenzar la historia; pueden ajustarse si el usuario lo pide.
 
-- Es un humano común procedente de la Tierra.
-- Su referencia general es el protagonista de NEXUS, consultado únicamente para orientar el punto de partida: alguien bastante normal y sedentario, sin experiencia extraordinaria de combate. No copiarlo literalmente ni exagerar sus rasgos.
+## 2. Punto de partida y personalidad
+
+- Es un humano común, bastante normal y sedentario.
+- Su personalidad inicial toma como referencia al protagonista de NEXUS, tal como indicó el usuario. La referencia sirve para mantener una base humana y corriente, sin copiarlo literalmente ni exagerar sus rasgos.
+- No es un combatiente, atleta, estratega experto ni alguien preparado para afrontar situaciones extraordinarias.
 - Es transportado involuntariamente entre diferentes mundos.
-- Conserva sus recuerdos y personalidad.
+- Conserva sus recuerdos y su personalidad inicial.
 - Posee un poder ridículamente grande y catastrófico que al principio no comprende ni sabe manejar correctamente.
 - No es un héroe elegido, una maldición ni un error del universo, según la premisa establecida.
 - No conoce la razón definitiva de sus viajes ni el origen último de sus capacidades.
 
-## 3. Control creativo del protagonista
+## 3. Control creativo y evolución
 
-El usuario conserva el control de su identidad y de sus rasgos personales: nombre, apariencia, personalidad, historia previa, preferencias, comportamiento y cualquier corrección que quiera establecer.
+El usuario establece la personalidad inicial del protagonista y puede corregir sus rasgos personales fundamentales. ChatGPT se encarga de desarrollar su evolución a partir de las experiencias narradas: cómo madura, cambia, se adapta, se quiebra o aprende a afrontar lo que vive.
 
-ChatGPT puede narrar sus reacciones y decisiones inmediatas de manera coherente con lo que el usuario haya definido y con los acontecimientos vividos, pero no debe alterar unilateralmente sus rasgos fundamentales ni inventar una biografía personal como si el usuario la hubiera confirmado.
+No volver a pedir al usuario que defina la personalidad inicial ni tratarla como pendiente. Tampoco cambiarla arbitrariamente: cada transformación debe surgir de acontecimientos concretos y conservar una continuidad psicológica reconocible.
 
-## 4. Personalidad y comportamiento
+ChatGPT desarrolla autónomamente:
+- Su evolución emocional y psicológica.
+- Su relación con la violencia, el peligro y la destrucción.
+- Sus reacciones ante las víctimas y los supervivientes.
+- La manera en que afronta que las potencias de cada mundo intenten matarlo.
+- Su aprendizaje, comprensión y control progresivo del poder.
+- Sus decisiones y cambios de perspectiva conforme acumula experiencias.
 
-Debe sentirse como una persona normal enfrentada a circunstancias absurdas. No convertirlo desde el principio en un genio táctico, guerrero, atleta, arrogante, cruel o indiferente. Su poder no determina automáticamente su personalidad.
+No convertirlo automáticamente en alguien frío, cruel, arrogante, indiferente, héroe o villano. La evolución debe ganarse en la historia.
 
-Sus pensamientos y reacciones deben responder a su carácter, experiencias e información disponible. Los detalles personales no establecidos permanecen abiertos.
-
-## 5. Poder y progresión
+## 4. Poder y progresión
 
 ### Confirmado
 
@@ -54,7 +65,7 @@ Sus pensamientos y reacciones deben responder a su carácter, experiencias e inf
 - Si existe un control perfecto o un techo definitivo.
 - Relación entre el poder y los viajes.
 
-## 6. Conocimiento y percepción
+## 5. Conocimiento y percepción
 
 Al narrar su perspectiva, distinguir:
 - **Lo que sabe:** hechos que ha presenciado o que le han comunicado.
@@ -62,20 +73,3 @@ Al narrar su perspectiva, distinguir:
 - **Lo que ignora:** causas, consecuencias o capacidades que todavía no comprende.
 
 El lector puede conocer consecuencias que él desconoce mediante las perspectivas de habitantes y poderosos.
-
-## 7. Desarrollo
-
-El protagonista cambia a través de sus experiencias. Su evolución en el uso del poder es una línea central de la historia, pero debe ser gradual y coherente. Ser perseguido o atacado por quienes intentan matarlo puede obligarlo a descubrir aplicaciones nuevas, defenderse y responder con mayor intención.
-
-El aprendizaje del poder no debe convertirlo automáticamente en una persona distinta. Mantener la diferencia entre capacidad destructiva, control técnico, personalidad e intención.
-
-## 8. Datos pendientes
-
-- Nombre.
-- Edad.
-- Apariencia.
-- Vida y circunstancias concretas en la Tierra.
-- Rasgos concretos de personalidad que el usuario quiera precisar.
-- Objetivos personales iniciales.
-- Primer acontecimiento que provoca una catástrofe.
-- Primer mundo de destino.
