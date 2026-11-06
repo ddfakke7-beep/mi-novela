@@ -143,3 +143,18 @@ Un resumen no debe transformar un «si Kevin fuera decapitado» en «Kevin fue d
 
 Si existe cualquier duda, consultar el capítulo original. Si el texto no confirma el hecho, no narrarlo como antecedente. Corregir los resúmenes cuando se detecte una formulación que confunda una regla hipotética con un suceso real.
 
+
+
+## 13. Resumen del capítulo 7
+
+- **Mundo:** Orveth, mundo de bosques vivos, llanuras migratorias, pantanos, montañas y redes subterráneas. Sus pueblos no humanos eran Kharai, Vaari y Oth.
+- **Cronología:** Kevin llegó el día 1 a las 09:10 y desapareció el día 4 a las 08:55. La civilización colapsó el día 3 a las 21:40.
+- **Duración desde la llegada hasta el colapso:** 60 horas y 30 minutos. **Duración total de la estancia:** 71 horas y 45 minutos.
+- **Acontecimientos:** el Varkh detectó y persiguió directamente a Kevin. La cacería atrajo a otros Cazadores Antiguos: Azhur, Nyr, Orrak y Vaor. Sahra lo atacó para proteger a sus crías. Las comunidades intentaron evacuar mediante rutas alternativas y la Asamblea de Rastro terminó disolviéndose.
+- **Criaturas como amenazas activas:** los Cazadores no fueron simples fenómenos ambientales. Atacaron deliberadamente a Kevin, con motivaciones distintas y tácticas adaptativas. Algunos resultaron heridos o murieron; otros se retiraron o quedaron sin destino confirmado.
+- **Manifestaciones:** una ocurrió mientras Kevin dormía, durante el ataque del Varkh a Aruun-Tel. Otras se produjeron durante enfrentamientos. Kevin no consiguió control fiable.
+- **Personajes:** Ivara y Serek ayudaron a evacuar; Maraith, Tarek y Ossu participaron en la Asamblea; Eldra defendió el Bosque de las Campanas. Vaor murió. Los destinos de Ivara, Serek, Maraith, Tarek, Ossu y Eldra después de los últimos hechos no están confirmados.
+- **Balance final disponible:** 38.600 muertos confirmados, 71.400 desaparecidos, 96.200 heridos y 410.000 evacuados. Los datos son parciales y las categorías pueden solaparse. Daños: 1.870 refugios destruidos o inhabitables, 64 rutas migratorias principales perdidas, 119 madrigueras Oth destruidas o incomunicadas, 306 nidos Vaari abandonados o arrasados y 52 comunidades Kharai separadas de sus territorios.
+- **Resultado:** las rutas migratorias, refugios, madrigueras, nidos y pactos de rastro dejaron de funcionar como red civilizatoria. Orveth permaneció físicamente intacto; sus pueblos quedaron dispersos.
+- **Estado de Kevin:** sufrió heridas en el costado, hombro y pecho, además de golpes e incapacitación temporal. No murió en escena ni se mostró una regeneración posterior. No comprendió por qué los Cazadores lo perseguían.
+- **Estado:** capítulo completo, guardado en Markdown.
