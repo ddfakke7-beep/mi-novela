@@ -6,7 +6,15 @@ La narración debe priorizar la destrucción, la desesperación y las consecuenc
 
 Cada capítulo cuenta la historia de un único mundo y termina con su destrucción o colapso civilizatorio. Puede ser un texto largo y continuo; no debe contener la destrucción de otro mundo.
 
-## 2. Perspectivas narrativas
+## 2. Escala geográfica y movilización
+
+Los mundos deben sentirse extensos. No concentrar a todos los personajes importantes en el escenario donde aparece Kevin. Mostrar, cuando aporte valor, regiones lejanas que reciben noticias, líderes que toman decisiones, ejércitos que se movilizan, evacuaciones, defensas locales y potencias que viajan desde otros continentes.
+
+Las distancias importan: no todos pueden llegar al mismo tiempo. Algunos personajes lucharán en sus territorios, otros se reunirán más tarde y otros no conseguirán llegar. La respuesta puede ser caótica, fragmentada y desesperada, incluso cuando exista una alianza mundial.
+
+No repetir la misma estructura de defensa en todos los capítulos. La geografía, las comunicaciones, la política, la cultura y el sistema de poder de cada mundo deben determinar cómo responde.
+
+## 3. Perspectivas narrativas
 
 La historia alternará entre tres perspectivas principales. No es necesario usarlas todas en cada capítulo.
 
@@ -30,17 +38,17 @@ Puede incluir reuniones de emergencia, alianzas entre enemigos y facciones rival
 
 Las figuras poderosas deben tener criterio, iniciativa y personalidad. No deben limitarse a reaccionar con miedo: pueden intentar comprenderlo, engañarlo, contenerlo, capturarlo o matarlo.
 
-## 3. Ritmo
+## 4. Ritmo
 
 - El ritmo general debe ser ágil, pero con espacio suficiente para que cada mundo se sienta real.
 - Alternar tensión, acción, desconcierto y consecuencias.
 - Evitar explicaciones largas que interrumpan escenas importantes.
-- No prolongar artificialmente una situación solo para alcanzar una estructura predeterminada.
+- No prolongar artificialmente una situación solo para alcanzar una estructura predeterminada. La destrucción puede ser caótica, simultánea en regiones distintas y difícil de comprender incluso para los propios habitantes.
 - Un capítulo puede ser extenso y contener muchas escenas o saltos de perspectiva, siempre dentro del mismo mundo.
 - La destrucción puede ser rápida, pero sus consecuencias pueden recibir espacio narrativo.
 - No comprimir la historia de un mundo por intentar llegar pronto al siguiente.
 
-## 4. Estructura orientativa de cada capítulo
+## 5. Estructura orientativa de cada capítulo
 
 Un capítulo puede organizarse alrededor de estos momentos:
 
@@ -55,7 +63,7 @@ Un capítulo puede organizarse alrededor de estos momentos:
 
 No es obligatorio utilizar todos los apartados ni respetar siempre este orden. Son herramientas, no una fórmula rígida. **Todo el recorrido hasta la destrucción corresponde a un único mundo.**
 
-## 5. Cronología temporal
+## 6. Cronología temporal
 
 Usar horas concretas en los momentos relevantes del capítulo, especialmente al cambiar de perspectiva. La cronología debe permitir seguir simultáneamente la llegada de Kevin, los primeros incidentes, el descubrimiento de la amenaza, la transmisión de informes, las decisiones de las autoridades, la movilización de las potencias y el desenlace.
 
@@ -82,7 +90,7 @@ Las batallas decisivas deben sentirse como acontecimientos históricos para el m
 
 Al terminar cada capítulo, registrar en los documentos de FIN los combatientes relevantes, sus capacidades y técnicas mostradas, estrategias, enfrentamientos, resultados, muertes y supervivientes. Usar ese registro para conservar continuidad y evitar repetir accidentalmente personajes, técnicas o estructuras de batalla. El registro sirve como herramienta interna de consistencia, no como una lista que deba aparecer dentro de la narración.
 
-## 7. Consecuencias
+## 8. Consecuencias
 
 Mostrar tanto el acontecimiento como sus efectos: qué destruyó o alteró, quiénes lo presenciaron, qué decisiones tomaron las autoridades, qué perdió la población y qué cambió para los supervivientes.
 
