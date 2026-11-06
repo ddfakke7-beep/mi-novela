@@ -140,3 +140,14 @@ La diferencia es que esa muerte no es definitiva. Su capacidad regenerativa reco
 - No establecer un límite definitivo, una fuente ni el mecanismo último de la regeneración.
 
 La regeneración física es independiente del poder destructivo de Kevin. Morir y regenerarse no tiene por qué provocar una manifestación catastrófica, y una manifestación destructiva no tiene por qué matarlo.
+
+
+## 10. Experiencia acumulada tras Ilyr
+
+En Ilyr, Kevin llegó a un mundo de pueblos no humanos y criaturas colosales que dormían bajo los continentes. Su primera manifestación ocurrió sin que nadie lo atacara ni él intentara defenderse. Vio daños y víctimas desde su llegada, y los habitantes no conocían su nombre hasta que él se presentó como Kevin.
+
+Fue inmovilizado mediante el Nudo del Primer Sueño durante **13 horas y 22 minutos**. Permaneció consciente, podía respirar y hablar, pero no podía mover el cuerpo ni escapar. La técnica fijaba el lugar que ocupaba; no lo mató, no fue una regeneración y no demostró que el mundo comprendiera su poder. Los defensores aprovecharon ese intervalo para evacuar comunidades, examinar las fracturas y preparar nuevas medidas.
+
+Tras la caída del Nudo, Kevin quedó expuesto a las consecuencias del despertar de los Durmientes. Los Ancestros de Ilyr lograron contenerlo o apartarlo en momentos concretos, pero sus esfuerzos principales terminaron orientándose a proteger a los refugiados y separar el fenómeno de las raíces profundas. Kevin sufrió golpes y heridas en el costado y un brazo; no murió en escena ni se mostró una regeneración posterior durante este capítulo.
+
+No obtuvo una nueva técnica ni control fiable. Su experiencia confirmó que un mundo puede detener físicamente sus movimientos durante muchas horas sin anular su poder ni resolver el desastre. También presenció sacrificios de defensores que no luchaban por venganza personal, sino para dar tiempo a sus pueblos.
