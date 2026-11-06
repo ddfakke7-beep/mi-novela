@@ -4,9 +4,9 @@
 
 **Fase:** narración en curso.  
 **Canon fundacional:** establecido.  
-**Capítulos completos:** 3.  
-**Mundos visitados:** Veyra, Cangyuan e Ithrak. Las tres civilizaciones quedaron destruidas; los planetas permanecen físicamente intactos y tienen supervivientes dispersos.  
-**Último acontecimiento:** Kevin desapareció de Ithrak a las 08:40 del día siguiente, después del colapso de la alianza continental y de sus principales centros civilizatorios.
+**Capítulos completos:** 6.  
+**Mundos visitados:** Veyra, Cangyuan, Ithrak, Orthea, Namar e Ilyr. Las seis civilizaciones colapsaron; los planetas permanecen físicamente intactos y hay supervivientes dispersos.  
+**Último acontecimiento:** Kevin desapareció de Ilyr el día 3 a las 09:10, después del colapso de la civilización de los Pozos y los pueblos de las huellas.
 
 ## 2. Capítulo 1 — Veyra
 
@@ -362,3 +362,29 @@ Estas explicaciones son hipótesis de los personajes, no reglas nuevas del prota
 
 No todos los mundos deben estudiar la regeneración, ni todos deben llegar a una conclusión. Sus teorías pueden ser incompatibles y aun así razonables desde sus conocimientos. No establecer un tiempo máximo ni etapas universales para la regeneración.
 
+
+
+## 22. Capítulo 6 — Ilyr
+
+**Archivo:** `FIN/CAPITULOS/06_ILYR_EL_MUNDO_QUE_DORMIA_BAJO_SUS_RAICES.md`.
+
+- **Llegada:** día 1, 09:10, valle de Urdan.
+- **Colapso civilizatorio:** día 3, 07:16.
+- **Duración desde la llegada hasta el colapso:** 46 horas y 6 minutos.
+- **Salida:** día 3, 09:10.
+- **Mundo:** Ilyr, mundo de pueblos no humanos que habitan las huellas de criaturas colosales llamadas Durmientes. Nueve Pozos de Aliento sostienen pactos, rutas y recursos compartidos.
+- **Pueblos:** Aruun, Sethri y Vey. No hay un gobierno único ni una capital común.
+- **Incidente:** una manifestación espontánea fracturó el valle de Urdan sin que Kevin fuera atacado ni intentara defenderse.
+- **Contención prolongada:** el Nudo del Primer Sueño lo mantuvo consciente e inmóvil durante 13 horas y 22 minutos (día 1, 13:20 a día 2, 02:42). Nueve anclas vinculadas a distintos Durmientes fijaban el lugar que ocupaba. Los portadores pagaron un coste progresivo. Kevin no murió, no quedó dormido y no se regeneró durante ese intervalo.
+- **Investigación local:** Ishkar observó que las fracturas continuaban mientras Kevin estaba contenido. Los Ancestros mantuvieron hipótesis distintas sobre la relación entre Kevin, las raíces profundas y los Durmientes. No hubo una explicación definitiva.
+- **Combates:** Tharuun intentó apartar a Kevin sin destruir la garganta; Kharum, Oruun, Eshkar y Vaeshra coordinaron defensas y operaciones de evacuación. Kharum murió sosteniendo la defensa de la cámara; Vaeshra y Eshkar murieron al separar el núcleo de Urdan; Oruun murió manteniendo una ruta abierta. Tharuun e Ishkar tienen destino posterior no confirmado.
+- **Resultado:** el despertar de los Durmientes se propagó a las nueve huellas. Los Pozos, las rutas y los pactos que sostenían la convivencia entre pueblos dejaron de funcionar. El planeta permaneció físicamente intacto; hubo supervivientes dispersos.
+- **Estado de Kevin:** sufrió golpes y heridas en el costado y un brazo. No murió en escena ni se mostró una regeneración posterior. No obtuvo control fiable ni una técnica nueva.
+- **Punto exacto de reanudación:** Kevin desapareció de Ilyr a las 09:10 del día 3. El siguiente mundo todavía no ha aparecido en escena. El origen del poder y el mecanismo de los viajes siguen sin explicación.
+
+### Registro de continuidad física y conocimiento
+- Kevin fue inmovilizado y permaneció consciente durante el Nudo; no se trató de una muerte, sueño o regeneración.
+- El Nudo dejó de funcionar cuando sus anclas perdieron capacidad. No se demostró que Kevin lo rompiera mediante control del poder.
+- No se ha demostrado que los Durmientes fueran creados por Kevin ni que su despertar tuviera una única causa.
+- Ningún personaje de Ilyr conocía automáticamente los mundos anteriores de Kevin ni la conversación mantenida en Namar.
+- Kevin no ha muerto en escena en ninguno de los seis capítulos ni ha sido decapitado. La capacidad general de morir físicamente y regenerarse sigue sin demostrarse mediante una muerte narrada.
