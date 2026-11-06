@@ -420,3 +420,61 @@ Los personajes y facciones de Veyra y Cangyuan ya están registrados en sus apar
 - **Círculo de Defensa:** estructura estratégica que elaboró respuestas escalonadas.
 - **Flotas de los seis dominios:** se retiraron de puertos vulnerables y priorizaron evacuaciones.
 - **Equipos de rescate de Aster y Neral:** sostuvieron operaciones locales pese a la pérdida de infraestructura.
+
+
+## 13. Personajes y facciones del mundo 6 — Ilyr
+
+### Vaeshra
+- **Mundo:** Ilyr.
+- **Afiliación/cargo:** guardiana ancestral del Pozo de Aliento de Urdan; Aruun de más de cuatro siglos.
+- **Personalidad:** paciente, firme y consciente del coste de las decisiones. No permite que el miedo o la rabia sustituyan a la evaluación.
+- **Historia:** sostuvo el paso de Khor durante nueve días en la Guerra de las Mandíbulas.
+- **Capacidades:** dominio de las raíces minerales y participación en el Nudo del Primer Sueño y en la separación del núcleo de Urdan.
+- **Decisiones:** ordenó evacuar el valle, autorizó la contención de Kevin y después se sacrificó para cortar temporalmente la conexión del núcleo con las raíces.
+- **Estado:** muerta en la cámara de Urdan.
+
+### Tharuun
+- **Mundo:** Ilyr.
+- **Afiliación/cargo:** guardián de las Aguas Hondas; Sethri.
+- **Personalidad:** severo, experimentado y táctico. Evita destruir el terreno que intenta proteger.
+- **Capacidades:** control de corrientes subterráneas y cintas de presión de agua.
+- **Decisiones:** combatió a Kevin para apartarlo de la garganta y de los guardianes, adaptando sus técnicas para no derrumbar el paso.
+- **Estado:** destino posterior no confirmado.
+
+### Oruun
+- **Mundo:** Ilyr.
+- **Afiliación/cargo:** maestra de los ríos profundos; una de las figuras supremas de los Pozos.
+- **Personalidad:** disciplinada, pragmática y protectora de las comunidades.
+- **Capacidades:** dividir corrientes en miles de hilos, sostener estructuras, cortar roca y desviar impactos.
+- **Decisiones:** participó en las defensas contra Kevin y los Durmientes; abandonó una ofensiva para sostener una ruta de evacuación.
+- **Estado:** murió cuando la ladera cubrió el paso que mantenía abierto.
+
+### Ishkar
+- **Mundo:** Ilyr.
+- **Afiliación/cargo:** ancestro de escamas negras del Pozo de Sava.
+- **Personalidad:** observador, prudente y dispuesto a distinguir una evidencia de una explicación.
+- **Capacidades:** lectura de residuos en piedra y conocimiento antiguo de los Durmientes.
+- **Decisiones:** examinó las fracturas y sostuvo que no seguían el comportamiento de una presión convencional. Su hipótesis fue que el fenómeno no podía atribuirse automáticamente a Kevin.
+- **Estado:** destino posterior no confirmado.
+
+### Kharum
+- **Mundo:** Ilyr.
+- **Afiliación/cargo:** Ancestro de las Mandíbulas; veterano de la Guerra de las Mandíbulas.
+- **Personalidad:** frontal, orgulloso y dispuesto a colocarse entre el peligro y los refugiados.
+- **Capacidades:** placas de combate, embestidas y anclaje físico contra movimientos de los Durmientes.
+- **Decisiones:** combatió a Kevin en una formación coordinada y después sostuvo una ladera para proteger a los demás Ancestros.
+- **Estado:** murió tras recibir una placa de roca en el pecho durante la defensa de la cámara.
+
+### Eshkar
+- **Mundo:** Ilyr.
+- **Afiliación/cargo:** último de los Tejedores de Sueño.
+- **Personalidad:** reservado, antiguo y consciente del coste de su disciplina.
+- **Capacidades:** filamentos de sueño y técnicas de separación entre raíces profundas y núcleos de los Durmientes.
+- **Decisiones:** participó en el Segundo Nudo y sacrificó su vida y memoria para ayudar a separar el núcleo de Urdan.
+- **Estado:** murió junto a Vaeshra en la cámara de Urdan.
+
+### Facciones y estructuras de Ilyr
+- **Nueve Pozos de Aliento:** comunidades y pactos regionales vinculados a los Durmientes y a la savia de sueño; su coordinación colapsó.
+- **Guardianes de los Pozos:** linajes y combatientes encargados de proteger refugios, rutas y cámaras; sufrieron pérdidas graves.
+- **Pueblos Aruun, Sethri y Vey:** civilizaciones no humanas que vivían en las huellas de los Durmientes; quedaron dispersas.
+- **Durmientes:** criaturas colosales bajo los continentes. No son una facción política; su despertar alteró las condiciones que sostenían la civilización.
