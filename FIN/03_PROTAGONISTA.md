@@ -161,3 +161,14 @@ No obtuvo una nueva técnica ni control fiable. Su experiencia confirmó que un 
 - Una manifestación ocurrió mientras dormía, durante el ataque del Varkh a Aruun-Tel. Kevin no obtuvo control fiable ni comprendió por qué las criaturas lo perseguían.
 - Presenció la muerte de Vaor y la caída de otros Cazadores Antiguos. No debe afirmarse que conoce el destino de cada criatura cuyo cuerpo no pudo recuperarse.
 - Su estancia en Orveth duró 71 horas y 45 minutos. La civilización colapsó 60 horas y 30 minutos después de su llegada.
+
+
+## Experiencia confirmada al cierre del capítulo 8 — Naereth
+
+- Kevin llegó a Naereth el día 1 a las 15:20 y desapareció el día 4 a las 11:05.
+- Fue atacado por un Mudo y después perseguido por el Oyente, una presencia antigua que percibía aquello que no encontraba eco en Kevin.
+- Permaneció contenido en la Cámara Sorda desde el día 2 a las 01:30 hasta el día 3 a las 02:50, aproximadamente 25 horas y 20 minutos. La prisión no fue destruida por Kevin: perdió sus sellos cuando el silencio del Oyente alcanzó la montaña.
+- El Oyente lo atrapó mediante presión y vibraciones; Kevin sufrió golpes y heridas en el pecho y el costado, además de dificultad para respirar y moverse.
+- La manifestación final de Kevin contribuyó a fracturar la esfera central del Oyente. No fue un acto de control fiable ni una victoria comprendida por Kevin.
+- No murió en escena ni se mostró una regeneración posterior. No comprendió qué buscaba el Oyente ni por qué podía percibirlo.
+- Su estancia duró 67 horas y 45 minutos. La civilización de Naereth colapsó 61 horas y 30 minutos después de su llegada.
