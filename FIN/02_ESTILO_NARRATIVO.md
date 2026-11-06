@@ -86,17 +86,33 @@ Las batallas decisivas deben sentirse como acontecimientos históricos para el m
 - Mantener legibles las posiciones, objetivos, decisiones y cambios de ventaja durante el combate.
 - El espectáculo nunca debe borrar el peso emocional ni las consecuencias para quienes viven en ese mundo.
 
-## 8. Registro de continuidad de combate
+
+## 8. Construcción de las grandes batallas y peso de las potencias
+
+Las máximas potencias no son nombres en una lista ni obstáculos desechables. Su autoridad, reputación y capacidad deben sentirse antes, durante y después de sus enfrentamientos.
+
+- **Presentación antes de la caída:** establecer quiénes son, qué han protegido, qué han conquistado o defendido, qué relaciones tienen con discípulos, rivales, pueblos o aliados y por qué su mundo los considera excepcionales.
+- **Demostrar el nivel en combate:** no resumir su intervención con una línea ni hacer que mueran en el primer intercambio. Cuando la lógica del mundo lo permita, los primeros choques deben ser disputados: pueden igualar a Kevin durante un tramo, anticiparse a él, herirlo, obligarlo a retroceder o conseguir una ventaja temporal.
+- **Combate con fases:** construir intercambios legibles de iniciativa, lectura, adaptación, contraataque, recursos ocultos, coordinación y cambio de estrategia. Cada combatiente debe usar su experiencia y aprender del resultado.
+- **No regalar equivalencias:** que puedan combatir de igual a igual al principio no significa que todos tengan el mismo nivel ni que Kevin deba ser vencido. La relación de fuerzas se decide según el mundo y lo que ocurra en escena.
+- **La muerte debe ser una escena, no una anotación:** mostrar la decisión que conduce a ella, el esfuerzo final, el precio pagado y el efecto inmediato. No hace falta recrearse en gore, pero sí transmitir la magnitud humana y emocional de perder a alguien irreemplazable.
+- **Reacción de los demás:** discípulos, familias, rivales, subordinados, aliados y pueblos deben responder de forma concreta. La caída puede quebrar una defensa, provocar una decisión desesperada, unir enemigos o encender una última resistencia.
+- **La resistencia continúa:** la muerte de una figura no termina automáticamente la respuesta. Quienes sobrevivan deben analizar lo ocurrido, cambiar de táctica, combinar recursos, evacuar, proteger objetivos o preparar una nueva ofensiva. Algunas estrategias fallarán; otras conseguirán resultados parciales.
+- **La desesperación no es pasividad:** incluso cuando la derrota parezca inevitable, los personajes deben seguir tomando decisiones con objetivos concretos.
+- **Escala emocional además de física:** alternar el impacto de los grandes enfrentamientos con escenas de quienes esperan noticias, sostienen una defensa, reciben a los heridos o comprenden que su protector no regresará.
+- **Evitar el efecto NPC:** ningún personaje presentado como una de las mayores potencias debe caer sin que el lector haya visto su carácter, capacidad, decisión y alguna consecuencia de su pérdida.
+
+## 9. Registro de continuidad de combate
 
 Al terminar cada capítulo, registrar en los documentos de FIN los combatientes relevantes, sus capacidades y técnicas mostradas, estrategias, enfrentamientos, resultados, muertes y supervivientes. Usar ese registro para conservar continuidad y evitar repetir accidentalmente personajes, técnicas o estructuras de batalla. El registro sirve como herramienta interna de consistencia, no como una lista que deba aparecer dentro de la narración.
 
-## 9. Consecuencias
+## 10. Consecuencias
 
 Mostrar tanto el acontecimiento como sus efectos: qué destruyó o alteró, quiénes lo presenciaron, qué decisiones tomaron las autoridades, qué perdió la población y qué cambió para los supervivientes.
 
 No es necesario describir cada muerte. El impacto puede transmitirse mediante escenas concretas y personajes reconocibles.
 
-## 10. Voz y claridad
+## 11. Voz y claridad
 
 - Mantener una prosa clara, fluida y visual.
 - Diferenciar las voces de personajes importantes.
@@ -104,6 +120,6 @@ No es necesario describir cada muerte. El impacto puede transmitirse mediante es
 - No convertir a los habitantes en una masa anónima cuando una escena necesita un punto de vista humano.
 - No explicar al lector algo que la escena ya comunica con claridad.
 
-## 11. Misterio
+## 12. Misterio
 
 El origen del poder y la razón de los viajes permanecen sin resolver. No introducir respuestas definitivas por conveniencia. Las pistas, si aparecen, deben ser compatibles con la posibilidad de que todavía no se conozca la verdad.
