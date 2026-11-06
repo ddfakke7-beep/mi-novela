@@ -574,3 +574,73 @@ Los personajes y facciones de Veyra y Cangyuan ya están registrados en sus apar
 - **Pueblos Kharai, Vaari y Oth:** comunidades migratorias, de copa y subterráneas, respectivamente.
 - **Cazadores Antiguos:** criaturas dominantes independientes, con territorios y motivaciones diferentes. No constituían una facción unificada.
 - **Bosque de las Campanas:** territorio sagrado protegido por Eldra; quedó dañado y perdió parte de sus campanas.
+
+
+## 15. Personajes y entidades del mundo 8 — Naereth
+
+### Sereth
+- **Mundo:** Naereth.
+- **Función:** afinadora de campanas de la ciudad mayor.
+- **Capacidades:** detectaba sonidos y resonancias que no pertenecían al mundo.
+- **Decisiones:** acompañó a Kevin, participó en su traslado a la Cámara Sorda y después intentó mantenerlo con vida durante el ataque del Oyente. No lo perdonó ni lo consideró inocuo.
+- **Estado:** sobrevivió y abandonó la ciudad mayor con otros refugiados; destino posterior no confirmado.
+
+### Iven
+- **Mundo:** Naereth.
+- **Función:** monje del Umbral, guía ciego que se orientaba mediante vibraciones.
+- **Decisiones:** acompañó el traslado de Kevin y ayudó a defenderlo del primer Mudo.
+- **Estado:** sobrevivió al primer ataque; destino posterior no confirmado.
+
+### Odria
+- **Mundo:** Naereth.
+- **Función:** una de las tres custodias del sonido mayor; anciana con máscara de cobre.
+- **Conocimiento:** estudió la ausencia de eco que percibía en Kevin.
+- **Decisiones:** utilizó la Campana Vacía para atraer al Oyente y marcar el centro de la formación defensiva.
+- **Estado:** murió al atraer al Oyente.
+
+### Mael
+- **Mundo:** Naereth.
+- **Función:** maestro del Umbral; había custodiado los pasos durante ciento veinte años.
+- **Capacidades:** dominio de resonancias y barreras de sonido.
+- **Decisiones:** organizó la defensa de los nueve puentes del monasterio para retrasar al Oyente y evacuar heridos.
+- **Estado:** murió cuando el Oyente anuló la barrera y lo alcanzó.
+
+### Dhoran
+- **Mundo:** Naereth.
+- **Pueblo:** Varkai.
+- **Función:** custodio de la Campana de Hierro y forjador de campanas consagradas.
+- **Capacidades:** almacenaba y liberaba resonancia mediante un martillo especial.
+- **Decisiones:** atacó los espacios entre los anillos del Oyente, logró romper uno y liberó toda la resonancia de su arma para abrir una grieta en la esfera central.
+- **Estado:** murió por el esfuerzo y el contraataque del Oyente.
+
+### Yssara
+- **Mundo:** Naereth.
+- **Función:** custodia que ocupó el lugar de la Campana de Hierro después de la muerte de Dhoran.
+- **Decisiones:** sostuvo la frecuencia con las manos desnudas para completar la red de las nueve campanas.
+- **Estado:** murió manteniendo la frecuencia.
+
+### Asha Vey
+- **Mundo:** Naereth.
+- **Función:** guardiana de la Campana del Alba y figura central del Concilio.
+- **Capacidades:** sincronización y conducción de la red de resonancia.
+- **Decisiones:** diseñó el Círculo de la Última Voz, coordinó las campanas desde territorios separados y sacrificó su vida para inmovilizar al Oyente durante unos segundos y permitir la evacuación.
+- **Estado:** murió manteniendo el centro de la red.
+
+### El Oyente
+- **Mundo:** Naereth.
+- **Naturaleza:** presencia antigua que dormía bajo una montaña hueca y percibía cada sonido pronunciado en el mundo.
+- **Motivación observada:** fue atraído por la ausencia de eco que percibía en Kevin; lo persiguió y atacó directamente. No se conoce su origen último.
+- **Capacidades:** anulación del sonido, presión y vibraciones que podían deformar piedra y cuerpos; anillos concéntricos y cavidades sensibles a la resonancia.
+- **Estado:** murió tras la fractura de su esfera central por una manifestación de Kevin.
+
+### Los Mudos
+- **Mundo:** Naereth.
+- **Naturaleza:** criaturas segmentadas de cuerpos formados por pequeñas bocas cerradas, capaces de anular el sonido a su alrededor.
+- **Estado:** uno fue destruido en el túnel durante el primer ataque. El destino de los demás no está confirmado.
+
+### Facciones y estructuras de Naereth
+- **Concilio de las Nueve Campanas:** custodios que coordinaban los pactos de resonancia; dejó de existir tras la caída de sus miembros y de las campanas.
+- **Monasterios del Umbral:** comunidades que custodiaban los pasos entre regiones peligrosas.
+- **Ciudades de Bronce:** asentamientos Varkai con tradición de forja de campanas y armas resonantes.
+- **Dominios de Cal:** territorios de jardines de vidrio y pueblos de piel cenicienta.
+- **Pueblos de la Máscara:** aldeas móviles que conservaban nombres prohibidos.
