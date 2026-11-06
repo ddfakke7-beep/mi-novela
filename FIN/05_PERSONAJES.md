@@ -192,6 +192,37 @@ Protagonista. Llegó a Cangyuan a las 06:14 en las montañas de Lian y desaparec
 - **Escuelas marítimas de Dongling:** organizaciones que protegían puertos y rutas; gravemente afectadas por la catástrofe.
 - **Señores de los oasis de Xihai:** autoridades de rutas desérticas; estructura desarticulada.
 
-## 8. Criterio general para nuevos registros
+
+## 9. Personajes y facciones del mundo 3 — Ithrak
+
+### Edria Sol
+Capitana de la Guardia de la Corona de Ordal y veterana de la guerra de los tres estuarios. Intentó evitar un ataque precipitado contra Kevin. Su destino posterior no está confirmado.
+
+### Dain Arvek
+Primer Juramentado de Ordal durante diecisiete años. Veterano de dos guerras. Su juramento reforzaba su espada y le permitió resistir las primeras manifestaciones de Kevin. Consiguió herirlo y advirtió que no debían atacarlo como a un duelista ordinario. Murió tras el segundo enfrentamiento; su muerte cambió la estrategia de defensa.
+
+### Maelis
+Reina de Nareth, de sesenta y dos años, vencedora de la Guerra de las Fronteras. Su juramento le permitía compartir el daño recibido por quienes protegía. Viajó a Ordal y sostuvo un corredor de evacuación. Murió manteniendo el camino abierto.
+
+### Veyr
+Espadachín de Vhal, conocido como el Espadachín del Ojo Vacío. Consiguió herir a Kevin con su espada y un cuchillo. Murió en el segundo duelo; su combate aportó información para la siguiente estrategia.
+
+### Odran
+Campeón de Vhal, conocido como el Muro de Vhal. Defendió las fortalezas costeras durante treinta años. Recibió una manifestación de Kevin y sostuvo la línea para que Salia retirara a cientos de soldados. Murió en Edras.
+
+### Salia
+Maestra de los Hilos y campeona de Vhal. Coordinaba cientos de combatientes mediante una formación enlazada. Salvó a parte de la primera línea al convertir la contención en retirada coordinada. Murió tras una última intervención junto al río.
+
+### Anciano de la máscara de cobre
+Maestro de una técnica de presión y contención. Participó en los intentos de Ordal y Edras. Murió durante la ruptura de la formación.
+
+### Facciones
+- **Guardia de la Corona:** defensa de Ordal, severamente diezmada.
+- **Consejo de la Corona:** perdió capacidad de coordinación durante el colapso.
+- **Alianza de los tres continentes:** unión defensiva entre reinos de Arven, Nareth y Vhal; dejó de operar como estructura común.
+- **Nueve Fortalezas:** red de fortalezas y campeones de Vhal; estructura quebrada.
+- **Escuelas de juramentos:** órdenes de formación y transmisión de juramentos; muchas sedes fueron destruidas o aisladas.
+
+## 10. Criterio general para nuevos registros
 
 Los personajes y facciones de Veyra y Cangyuan ya están registrados en sus apartados. A partir de los próximos capítulos, añadir aquí las figuras relevantes de cada mundo sin asumir que todos los destinos quedan confirmados durante la catástrofe. El protagonista es la excepción: sus rasgos personales fundamentales permanecen bajo control del usuario.
