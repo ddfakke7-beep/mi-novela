@@ -319,3 +319,21 @@ La narración debe respetar estos puntos:
 - No fijar una duración estándar ni una explicación definitiva para la regeneración.
 
 La muerte y el regreso de Kevin no deben convertirse en un truco repetido en cada mundo. Son posibilidades que los defensores pueden descubrir y poner a prueba cuando la historia lo justifique.
+
+## Interpretaciones de cada mundo sobre la regeneración
+
+Los personajes pueden construir explicaciones propias sobre cómo Kevin muere y regresa. La narración debe hacer que esas explicaciones nazcan de la cultura y los conocimientos de cada mundo, no de una plantilla repetida.
+
+Unos pueden creer que la reconstrucción avanza por etapas; otros, que existe un plazo límite; otros, que el cuerpo se reconstruye porque el alma permanece vinculada, que una fuerza exterior lo restaura o que el proceso depende de una condición específica. Pueden realizar pruebas para comprobarlo y diseñar estrategias basadas en sus conclusiones.
+
+Al narrarlo:
+- Mostrar qué hecho concreto observó el personaje y cómo llegó a su interpretación.
+- Marcar si se trata de una hipótesis, una deducción provisional o algo comprobado en ese mundo.
+- Permitir desacuerdos entre expertos, errores y cambios de opinión cuando aparezcan nuevas pruebas.
+- No hacer que todos los personajes poderosos conozcan la regeneración ni que entiendan sus causas sin haberla observado o recibido información fiable.
+- Las teorías no cambian las reglas reales de Kevin. Una creencia sobre etapas, plazos o condiciones puede ser falsa.
+- No repetir siempre la misma secuencia de muerte, observación, laboratorio y conclusión. La investigación debe adoptar formas propias de cada mundo.
+- Si una hipótesis produce una estrategia eficaz, dejar claro si funcionó por la explicación propuesta o si sus resultados admiten otra interpretación.
+
+La incertidumbre debe enriquecer los conflictos: los defensores pueden actuar con información incompleta y aun así tomar decisiones inteligentes.
+
