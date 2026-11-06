@@ -123,6 +123,75 @@ Protagonista. Humano de 27 años procedente de la Tierra. Llegó a Veyra a las 2
 - **Custodios de Anillo:** siete combatientes veteranos encargados de defender la red; la mayoría murió o quedó desaparecida.
 - **Hijos del Vacío:** facción que intentó capturar a Kevin; estado posterior desconocido.
 
-## 7. Registro inicial
+## 7. Personajes y facciones del mundo 2 — Cangyuan
+
+### Kevin
+Protagonista. Llegó a Cangyuan a las 06:14 en las montañas de Lian y desapareció a las 22:19. Sobrevivió con heridas en el hombro, brazo y costado. Sus manifestaciones de fuerza causaron daños crecientes pese a que no buscaba destruir el mundo. No obtuvo control fiable.
+
+### Shen Rui
+- **Mundo:** Cangyuan.
+- **Afiliación/cargo:** Gran Preceptora de la corte imperial de Zhongzhou.
+- **Personalidad:** sobria, firme y estratégica.
+- **Objetivo:** coordinar una respuesta que redujera las pérdidas y detuviera a Kevin.
+- **Capacidades:** cultivo supremo y dirección de barreras y formaciones.
+- **Decisiones:** impulsó la coordinación entre regiones y participó en la formación de aislamiento de Tianheng.
+- **Estado:** desconocido tras el colapso de la cuenca.
+
+### Patriarca de la Montaña Silente
+- **Mundo:** Cangyuan.
+- **Afiliación/cargo:** líder retirado de la Montaña Silente, Beihan.
+- **Personalidad:** reservado, disciplinado y consciente de su deber.
+- **Capacidades:** espada capaz de cortar a distancia y dividir ondas de fuerza.
+- **Decisiones:** abandonó su retiro, combatió directamente a Kevin y murió en la cuenca de Tianheng.
+- **Estado:** muerto.
+
+### Señora de los Cien Venenos
+- **Mundo:** Cangyuan.
+- **Afiliación/cargo:** máxima autoridad de las casas medicinales de Nanyue.
+- **Personalidad:** pragmática y protectora pese a su reputación temible.
+- **Capacidades:** venenos, agujas y redes de sellos.
+- **Decisiones:** abrió depósitos de antídotos, marchó hacia Zhongzhou y atacó a Kevin cuando la formación cayó.
+- **Estado:** presumiblemente muerta o incapacitada durante la ruptura de la cuenca.
+
+### Señor de las Mareas
+- **Mundo:** Cangyuan.
+- **Afiliación/cargo:** uno de los grandes maestros marítimos de Dongling.
+- **Personalidad:** responsable de sus islas y rutas.
+- **Capacidades:** control de mareas y grandes masas de agua.
+- **Decisiones:** movilizó una flota y levantó una marea para proteger las llanuras de Zhongzhou.
+- **Estado:** presumiblemente muerto cuando la marea se partió.
+
+### Rey de las Dunas
+- **Mundo:** Cangyuan.
+- **Afiliación/cargo:** señor de los oasis de Xihai.
+- **Capacidades:** manipulación de arena y prisión de terreno.
+- **Decisiones:** participó en la última alianza de maestros.
+- **Estado:** gravemente herido; destino posterior desconocido.
+
+### Líder de la Secta del Cielo Rojo
+- **Mundo:** Cangyuan.
+- **Afiliación/cargo:** líder de una gran secta de Zhongzhou.
+- **Capacidades:** espada y técnicas de fuego.
+- **Decisiones:** participó en la última alianza y atacó directamente a Kevin.
+- **Estado:** muerto.
+
+### Mo Zhen
+- **Mundo:** Cangyuan.
+- **Afiliación/cargo:** antiguo primer maestro de la Alianza de las Nueve Montañas; último superviviente de una orden extinta.
+- **Personalidad:** sereno y decidido.
+- **Capacidades:** aislamiento espacial/local mediante una vara de madera y técnicas antiguas.
+- **Decisiones:** intentó aislar a Kevin de las corrientes de energía.
+- **Estado:** presumiblemente muerto durante la ruptura del aislamiento.
+
+### Facciones y estructuras de Cangyuan
+- **Alianza de las Nueve Montañas:** coordinación de sectas de Zhongzhou; quedó desarticulada.
+- **Secta de la Espada del Alba:** organización local de las montañas de Lian; sede destruida o abandonada.
+- **Secta del Cielo Rojo:** gran secta de Zhongzhou; estado desconocido tras la catástrofe.
+- **Casas medicinales de Nanyue:** red de casas y escuelas de medicina y venenos; dispersas.
+- **Clanes de Beihan:** poderes regionales de las fortalezas heladas; destinos desconocidos.
+- **Escuelas marítimas de Dongling:** organizaciones que protegían puertos y rutas; gravemente afectadas por la catástrofe.
+- **Señores de los oasis de Xihai:** autoridades de rutas desérticas; estructura desarticulada.
+
+## 8. Registro inicial
 
 Todavía no hay personajes individuales ni facciones nombrados como canon. Todos los personajes de los mundos serán creados por ChatGPT durante el desarrollo de FIN. El protagonista es la excepción: sus rasgos personales fundamentales permanecen bajo control del usuario.
