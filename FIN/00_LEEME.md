@@ -1,6 +1,6 @@
 # FIN — Guía principal del proyecto
 
-**Tipo:** ficción · multiverso · destrucción · desesperación  
+**Tipo:** ficción · multiverso · destrucción · desesperación · batallas épicas  
 **Estado:** preparación inicial; canon fundacional establecido.  
 **Ubicación:** carpeta `FIN/` en el repositorio `mi-novela`.
 
@@ -10,17 +10,26 @@ FIN es un proyecto narrativo independiente. Sus documentos, personajes, mundos, 
 
 ## División de responsabilidades
 
-- **El usuario controla al protagonista:** puede definir o corregir su identidad, apariencia, personalidad, historia previa, preferencias y cualquier rasgo personal. No cambiar esos rasgos por iniciativa propia.
-- **ChatGPT desarrolla todo lo demás de forma autónoma:** mundos, civilizaciones, sistemas de poder, historia, conflictos, personajes, facciones, autoridades, enemigos, acontecimientos, enfrentamientos, consecuencias, viajes y capítulos.
+- **El usuario establece la personalidad inicial del protagonista**, tomando como referencia al protagonista de NEXUS. Esa referencia orienta su carácter y punto de partida corriente; no debe copiarse literalmente ni exagerarse.
+- **ChatGPT decide y desarrolla la evolución del protagonista**: cambios psicológicos, maduración, adaptación, reacciones a las catástrofes y aprendizaje del poder. Todo cambio debe surgir de experiencias concretas y mantener continuidad con su personalidad inicial.
+- **Identidad inicial decidida para comenzar:** Andrés Vega, 27 años, apariencia corriente, procedente de la Tierra. Antes de los viajes era un trabajador común de una empresa, en un empleo ordinario como atención al cliente o call center. No tiene pasado secreto ni importancia especial.
+- ChatGPT desarrolla autónomamente mundos, civilizaciones, sistemas de poder, historia, conflictos, personajes, facciones, autoridades, enemigos, acontecimientos, enfrentamientos, consecuencias, viajes y capítulos.
 - No pedir al usuario que elija cada mundo, enemigo, personaje o giro. Tomar decisiones creativas coherentes y avanzar sin convertir cada detalle en una consulta.
-- La referencia de personalidad y punto de partida es el protagonista de NEXUS: una persona bastante normal y sedentaria, sin convertirlo en una copia exacta ni exagerar esos rasgos. NEXUS se puede consultar únicamente como referencia. **Nunca modificar archivos de la carpeta NEXUS como parte del trabajo de FIN.**
-- Los rasgos personales concretos que el usuario no haya definido no deben presentarse como datos confirmados.
+- NEXUS se puede consultar únicamente como referencia. **Nunca modificar archivos de la carpeta NEXUS como parte del trabajo de FIN.**
 
 ## Regla estructural inamovible: un mundo por capítulo
 
 **Cada capítulo corresponde a un único mundo y culmina con la destrucción de ese mundo/civilización.** El capítulo puede ser un texto largo, extenso y continuo, con muchas escenas y cambios de perspectiva, pero no debe narrar la destrucción de dos mundos distintos en el mismo capítulo.
 
 El paso o llegada al siguiente mundo puede insinuarse en el cierre o dejarse para el capítulo siguiente. La destrucción de un mundo debe tener su propio capítulo completo. No dividir automáticamente un mundo en varios capítulos ni comprimir varios mundos en uno.
+
+## Batallas y potencias de cada mundo
+
+Las batallas importantes deben sentirse épicas y estar a la altura de las máximas potencias del mundo correspondiente. Los enemigos principales no serán figuras decorativas ni espectadores: serán las autoridades máximas, guerreros supremos, entidades, campeones o fuerzas más temibles que esa civilización pueda reunir.
+
+Cada mundo tendrá sus propias escalas, estilos, técnicas, estrategias y formas de medir el poder. Las potencias deben demostrar por qué ocupan la cima mediante decisiones inteligentes, habilidades distintivas, coordinación, sacrificios y consecuencias visibles. Pueden sorprender, herir, contener o hacer retroceder al protagonista. No deben ser derrotadas todas de la misma manera ni convertirse en simples víctimas pasivas.
+
+El contraste central es que para ese mundo el fin parece haber llegado de la nada, mientras el protagonista todavía no comprende del todo qué es ni qué provoca. Sus enfrentamientos pueden obligarlo a aprender a usar su poder.
 
 ## Cómo retomar el proyecto
 
@@ -50,7 +59,7 @@ Si dos documentos se contradicen, resolverlo respetando los hechos narrados y la
 - No imponer una escala de poder universal.
 - No reducir a los habitantes de cada mundo a espectadores.
 - Dar consecuencias humanas y sociales a las catástrofes.
-- Mantener la personalidad y los recuerdos del protagonista.
+- Mantener la personalidad inicial del protagonista y desarrollar sus cambios de forma progresiva y justificada.
 - No atribuirle intención destructiva si sus acciones no la demuestran.
 - Diferenciar con claridad lo que el protagonista sabe, lo que cree y lo que realmente ocurre.
 - Mantener los documentos organizados y centrados exclusivamente en FIN.
@@ -67,4 +76,4 @@ Si dos documentos se contradicen, resolverlo respetando los hechos narrados y la
 
 ## Estado inicial
 
-El concepto general está establecido. El protagonista todavía no tiene nombre ni ficha personal completa; su referencia general de carácter y punto de partida está fijada. Aún no hay primer mundo confirmado ni capítulos narrados. ChatGPT se encarga de crear el primer mundo y el resto del desarrollo narrativo, respetando el control del usuario sobre el protagonista.
+El canon fundacional está establecido. El protagonista inicial es Andrés Vega, de 27 años, un trabajador corriente de la Tierra, de apariencia normal y con una personalidad inspirada en el punto de partida del protagonista de NEXUS. Su vida anterior no contiene nada extraordinario. ChatGPT desarrolla su evolución y crea el primer mundo, sus potencias y el resto de la historia. Aún no hay capítulos narrados.
