@@ -209,3 +209,29 @@ Además del rechazo, el odio y los intentos de control, pueden existir personaje
 
 La esperanza puede coexistir con el odio y el rechazo dentro del mismo mundo. La confianza de alguien no demuestra que Kevin controle su poder ni obliga a los demás a perdonarlo. Registrar los vínculos y cambios de postura cuando tengan consecuencias para Kevin, sus decisiones o la respuesta del mundo.
 
+
+## 14. Enfoque narrativo: mundos, poderosos y evolución de Kevin
+
+La prioridad de FIN es contar cada mundo como una civilización viva que responde a una catástrofe. Los mundos no son escenarios desechables ni los poderosos una sucesión de adversarios. Deben conservar protagonismo sus historias, conflictos, culturas, relaciones, autoridades, defensores, habitantes y supervivientes.
+
+En paralelo, Kevin evoluciona mentalmente a partir de lo que experimenta. Su recorrido debe reflejar lo extraño de pasar de una vida terrestre ordinaria a viajar involuntariamente entre mundos donde puede ser visto como amenaza, monstruo, víctima, posible salvación o arma. Los cambios se construyen mediante escenas, decisiones, relaciones, pérdidas, alivios y contradicciones, sin convertir el control del poder ni la psicología de Kevin en el único eje de la historia.
+
+## 15. Posibilidad narrativa: simpatizantes de Kevin
+
+No se ha establecido una facción simpatizante permanente ni se exige que aparezca en cada mundo. Pueden surgir individuos, grupos pequeños o facciones que intenten proteger a Kevin, ayudarlo o impedir que los defensores lo ejecuten, siempre que sus motivos sean verosímiles para ese mundo.
+
+Posibles motivaciones: creer que Kevin no actúa con maldad; considerarlo víctima de un fenómeno desconocido; desconfiar de autoridades o poderosos por abusos anteriores; creer que puede ayudar a detener otra amenaza; tener un vínculo personal con él; o querer utilizarlo como arma, símbolo o ventaja política. La simpatía también puede ser parcial, interesada, contradictoria o temporal.
+
+No confundir simpatía con aprobación de la destrucción. Quienes lo apoyen pueden reconocer el daño, debatirlo, equivocarse sobre su alcance o cambiar de postura al conocer nuevas víctimas. Los defensores pueden tener razones legítimas para oponerse a ellos, por temor a que proteger a Kevin exponga a más personas. No convertir el conflicto en una división simple entre buenos y malos ni inventar automáticamente cultos o ejércitos de seguidores.
+
+Registrar solo los simpatizantes y sus motivaciones que efectivamente aparezcan en cada capítulo. No crear una organización recurrente ni establecer que Kevin tendrá seguidores en todos los mundos.
+
+## 16. Registro de criterio para próximos capítulos
+
+- Cada mundo debe tener identidad, vida y conflictos propios, con atención especial a sus máximas potencias y a la respuesta de la civilización.
+- La evolución mental de Kevin debe avanzar de forma gradual y estar vinculada a lo que vive, sin desplazar el protagonismo de los mundos.
+- La esperanza y la confianza en Kevin pueden ofrecer alivio genuino, pero no garantizan que consiga controlar su poder ni salvar el mundo.
+- Los intentos de enseñarle, ayudarlo o forzarlo a controlar el poder son posibilidades, no soluciones obligatorias.
+- El odio, el rencor, la venganza, el deber, la compasión, el oportunismo y la simpatía pueden coexistir dentro de una misma civilización.
+- Los simpatizantes deben tener motivos concretos; no basta con que quieran que el mundo sea destruido ni con que nieguen todo el daño.
+- No todos los mundos necesitan los mismos tipos de personajes o reacciones. La variedad debe surgir de cada mundo y de sus circunstancias.
