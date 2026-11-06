@@ -123,3 +123,22 @@ No es necesario describir cada muerte. El impacto puede transmitirse mediante es
 ## 12. Misterio
 
 El origen del poder y la razón de los viajes permanecen sin resolver. No introducir respuestas definitivas por conveniencia. Las pistas, si aparecen, deben ser compatibles con la posibilidad de que todavía no se conozca la verdad.
+## 13. Regeneración de Kevin y manifestaciones variables del poder
+
+La regeneración física de Kevin es una regla constante, no una habilidad que dependa de que su poder se descontrole ni de las características del mundo que visita.
+
+- Kevin no puede morir definitivamente por daño físico. Si es decapitado, pierde partes del cuerpo, sufre heridas mortales o una pérdida extrema de sangre, queda inconsciente o incapacitado y su cuerpo reconstruye lo perdido.
+- La regeneración no es instantánea. Debe transcurrir un tiempo acorde con el daño y las circunstancias. Mientras tanto, Kevin puede permanecer fuera del combate y los enemigos pueden aprovechar esa ventana.
+- Al completar la regeneración, vuelve a levantarse con normalidad. No narrar que ignora heridas graves ni que se recupera en el mismo instante en que las recibe.
+- Los adversarios no tienen por qué conocer esta propiedad. La pueden descubrir, interpretar mal o aprovecharla después de observarla.
+
+**La regeneración no determina cómo se expresa el poder destructivo.** Esa manifestación queda abierta a la creatividad narrativa y debe adaptarse a cada situación. Puede ser una descarga involuntaria, un fenómeno que se forma alrededor de Kevin, un área que empieza a destruir todo lo que contiene, una fuerza que se propaga por el terreno, una reacción defensiva, una alteración localizada u otra expresión original. No hay una única forma obligatoria ni un catálogo cerrado.
+
+- El poder puede descontrolarse, activarse parcialmente o reaccionar ante peligro, dolor, miedo, ataques o intentos de defensa; no es necesario que ocurra siempre por el mismo motivo.
+- Kevin también puede intentar defenderse, apartar un ataque o escapar y provocar involuntariamente una manifestación peor que el peligro inicial.
+- Algunas manifestaciones pueden quedar concentradas en un área; otras pueden extenderse o producir efectos indirectos. La escala y duración se deciden según la escena y el mundo.
+- Los enemigos pueden ganar tiempo, contener una manifestación, evacuar, proteger objetivos o atacar durante la recuperación de Kevin. No todas las estrategias deben funcionar.
+- No convertir cada herida en una explosión ni hacer que cada regeneración provoque una catástrofe. La variedad y la causalidad de cada escena importan.
+- No usar la regeneración para quitar tensión: Kevin puede sobrevivir, pero otros pueden morir, los objetivos pueden perderse y el mundo puede sufrir consecuencias irreversibles.
+
+No fijar de antemano el mecanismo último, el origen ni los límites definitivos de estas capacidades.
