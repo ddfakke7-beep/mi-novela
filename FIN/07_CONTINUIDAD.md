@@ -4,9 +4,9 @@
 
 **Fase:** narración en curso.  
 **Canon fundacional:** establecido; cronología horaria añadida.  
-**Capítulos narrados:** 1 completo.  
-**Mundo visitado:** Veyra — civilización destruida; planeta intacto; supervivientes dispersos.  
-**Último acontecimiento narrativo:** Kevin fue trasladado fuera de Veyra a las 07:26, después del colapso de los siete anillos.
+**Capítulos narrados:** 2 completos.  
+**Mundos visitados:** Veyra y Cangyuan — ambas civilizaciones destruidas; ambos planetas físicamente intactos; supervivientes dispersos.  
+**Último acontecimiento narrativo:** Kevin desapareció de Cangyuan a las 22:19, después del colapso de las venas espirituales y de la estructura civilizatoria.
 
 ## 2. Último capítulo: Veyra
 
@@ -123,3 +123,55 @@ Después de cada capítulo o avance aprobado:
 8. Anotar claramente qué queda pendiente para la siguiente sesión.
 
 **Límite de modificación:** todas las actualizaciones de este trabajo se realizan dentro de `FIN/`. No modificar ningún archivo de `NEXUS/` ni de `UMBRAL/`.
+
+
+## 4. Capítulo 2: Cangyuan
+
+### Cronología confirmada
+- **06:14:** Kevin aparece en las montañas de Lian, al norte de Zhongzhou.
+- **06:19:** el puesto de la Puerta Norte registra el derrumbe de la ladera.
+- **06:43:** Kevin se encuentra con discípulos de la Secta de la Espada del Alba; una manifestación mata a dos.
+- **07:30:** llega el primer informe a la Alianza de las Nueve Montañas.
+- **10:20–11:40:** la secta local retira sus intentos de captura; la corte imperial recibe los informes y convoca a las potencias.
+- **13:15–20:30:** Beihan, Nanyue, Dongling y Xihai comienzan a movilizar sus defensas y máximas figuras.
+- **15:36:** Kevin alcanza Lin'an; las defensas de la ciudad provocan una manifestación que destruye parte de ella.
+- **17:45:** la Alianza de las Nueve Montañas convoca una reunión de emergencia.
+- **23:12:** Kevin se refugia en un granero; una nueva manifestación recorre las venas subterráneas.
+- **04:50:** los primeros grandes maestros llegan a la cuenca de Tianheng y preparan una formación de aislamiento.
+- **07:22:** Kevin alcanza la cuenca y se enfrenta a Shen Rui y a la formación.
+- **07:34:** muere el Patriarca de la Montaña Silente.
+- **07:41:** la formación cae; la Señora de los Cien Venenos interviene.
+- **09:17:** el Señor de las Mareas intenta proteger las llanuras desde la costa y presumiblemente muere.
+- **10:19:** una alianza de maestros ataca a Kevin; mueren o quedan gravemente heridos varios de ellos.
+- **11:00:** la ruptura de la vena de Tianheng desencadena fallos en los cinco continentes.
+- **12:26:** la capital imperial se hunde.
+- **14:40:** Mo Zhen intenta aislar a Kevin y desaparece con la ruptura del aislamiento.
+- **16:08:** Cangyuan ha perdido su estructura civilizatoria.
+- **19:33:** se muestran supervivientes dispersos en varios continentes.
+- **22:19:** Kevin desaparece de Cangyuan.
+
+### Resultado y supervivientes
+Cangyuan era un planeta de cinco continentes: Zhongzhou, Beihan, Nanyue, Xihai y Dongling. La civilización dependía de una extensa red de venas espirituales, sectas, clanes, imperios, ciudades y rutas. La ruptura en Tianheng propagó el colapso por el mundo. El planeta sigue existiendo físicamente, pero las grandes estructuras civilizatorias quedaron destruidas o dispersas. Hay supervivientes en los cinco continentes, sin cifras fiables.
+
+### Personajes y bajas
+- **Kevin:** vivo; desapareció de Cangyuan a las 22:19. Herido en hombro, brazo y costado.
+- **Shen Rui:** destino desconocido tras el colapso de la formación.
+- **Patriarca de la Montaña Silente:** muerto en combate.
+- **Señora de los Cien Venenos:** presumiblemente muerta o incapacitada.
+- **Señor de las Mareas:** presumiblemente muerto.
+- **Rey de las Dunas:** gravemente herido; destino desconocido.
+- **Líder de la Secta del Cielo Rojo:** muerto.
+- **Mo Zhen:** presumiblemente muerto.
+- **Emperador de Zhongzhou:** destino desconocido tras el hundimiento de la capital.
+
+### Estado de Kevin al salir de Cangyuan
+Kevin sigue sin conocer el origen de su poder ni el mecanismo de los viajes. Ha sufrido heridas de flechas, espadas y técnicas de maestros supremos. Sus manifestaciones de fuerza respondieron de forma desproporcionada a ataques, contenciones y esfuerzos por apartarse. No obtuvo control fiable. Su intención siguió siendo escapar y encontrar el camino a casa, no conquistar Cangyuan.
+
+## 5. Reglas y decisiones añadidas después del capítulo 2
+
+- Los mundos deben sentirse completos y extensos, con geografía y estructuras sociales propias; no como mapas pequeños alrededor de una sola ciudad.
+- Las figuras supremas, sectas, clanes y organizaciones estarán dispersas. Las noticias, distancias y movilizaciones deben afectar al desarrollo de la crisis.
+- No repetir la estructura, las reacciones ni la composición de potencias de Veyra.
+- La Tierra puede tener potencias ocultas de escala global, como dioses, entidades antiguas o guardianes, con intereses propios. No será automáticamente un mundo indefenso.
+- El poder de Kevin no debe reducirse a una progresión lineal de control. Intentar contenerlo, defenderse o alterar una manifestación puede empeorar la destrucción.
+
