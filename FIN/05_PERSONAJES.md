@@ -478,3 +478,99 @@ Los personajes y facciones de Veyra y Cangyuan ya están registrados en sus apar
 - **Guardianes de los Pozos:** linajes y combatientes encargados de proteger refugios, rutas y cámaras; sufrieron pérdidas graves.
 - **Pueblos Aruun, Sethri y Vey:** civilizaciones no humanas que vivían en las huellas de los Durmientes; quedaron dispersas.
 - **Durmientes:** criaturas colosales bajo los continentes. No son una facción política; su despertar alteró las condiciones que sostenían la civilización.
+
+
+## 14. Personajes y entidades del mundo 7 — Orveth
+
+### Ivara
+- **Mundo:** Orveth.
+- **Pueblo:** Vaari.
+- **Función:** observadora y guía de Aruun-Tel; podía escuchar vibraciones a través de las raíces.
+- **Personalidad y decisiones:** prudente, compasiva sin ignorar el peligro. Ayudó a evacuar y a sacar a Kevin del alcance de los Cazadores, no porque negara el daño, sino para proteger las rutas y comunidades.
+- **Estado:** sobrevivió; quedó con un ala gravemente dañada. Destino posterior no confirmado.
+
+### Serek
+- **Mundo:** Orveth.
+- **Pueblo:** Kharai.
+- **Función:** rastreador de migraciones con treinta y seis estaciones de experiencia.
+- **Decisiones:** intentó desviar la primera embestida del Varkh para proteger Aruun-Tel.
+- **Estado:** sobrevivió al primer ataque con una pata lesionada; destino posterior no confirmado.
+
+### Talen
+- **Mundo:** Orveth.
+- **Pueblo:** Kharai.
+- **Función:** joven habitante de Aruun-Tel.
+- **Estado:** destino posterior no confirmado.
+
+### Maraith
+- **Mundo:** Orveth.
+- **Pueblo:** Oth.
+- **Función:** anciana representante en la Asamblea de Rastro.
+- **Personalidad:** rigurosa con las pruebas, consciente de que una hipótesis no es un hecho.
+- **Decisiones:** impulsó evacuaciones y registros de víctimas; defendió que las comunidades no confundieran sospechas con certezas.
+- **Estado:** sobrevivió a la última Asamblea conocida; destino posterior no confirmado.
+
+### Tarek
+- **Mundo:** Orveth.
+- **Pueblo:** Kharai.
+- **Función:** jefe de una manada.
+- **Decisiones:** exigió inicialmente expulsar a Kevin, después aceptó dividir la migración. Perdió a dos hijos durante el traslado.
+- **Estado:** destino posterior no confirmado.
+
+### Ossu
+- **Mundo:** Orveth.
+- **Pueblo:** Vaari.
+- **Función:** representante de alas oscuras en la Asamblea.
+- **Decisiones:** defendió no entrar en una ofensiva improvisada y propuso rutas de evacuación separadas.
+- **Estado:** sobrevivió herida; destino posterior no confirmado.
+
+### Eldra
+- **Mundo:** Orveth.
+- **Naturaleza:** guardiana de la Corteza Blanca, entidad arbórea del Bosque de las Campanas.
+- **Capacidades:** raíces vivas, fuerza física y control de los árboles sagrados.
+- **Decisiones:** se enfrentó a Azhur para impedir que convirtiera el bosque en terreno de caza.
+- **Estado:** sobrevivió gravemente dañada; destino posterior no confirmado.
+
+### Azhur
+- **Mundo:** Orveth.
+- **Naturaleza:** Cazador Antiguo alado.
+- **Motivación:** consideraba a Kevin una presa y amenaza para los territorios de caza.
+- **Capacidades:** vuelo, garras y ataques de presión.
+- **Estado:** cayó durante los enfrentamientos finales; su cuerpo no fue recuperado.
+
+### Nyr
+- **Mundo:** Orveth.
+- **Naturaleza:** Cazador Antiguo de la Niebla.
+- **Capacidades:** descomponer y recomponer su cuerpo entre bancos de niebla, atacar desde varios ángulos.
+- **Estado:** se dispersó durante una manifestación de Kevin; no volvió a reunirse.
+
+### Orrak
+- **Mundo:** Orveth.
+- **Naturaleza:** Cazador Antiguo de las Astas Huecas.
+- **Capacidades:** vibraciones destructivas transmitidas por sus cuernos.
+- **Estado:** cayó en una fractura durante la crisis final; destino exacto no confirmado.
+
+### Vaor
+- **Mundo:** Orveth.
+- **Naturaleza:** el más antiguo de los Cazadores reunidos, con cuerpo de ciervo y rostro de ave.
+- **Capacidades:** astas luminosas, lectura del territorio y coordinación de cacerías.
+- **Decisiones:** organizó una emboscada conjunta y propuso llevar a Kevin al valle de las raíces desnudas.
+- **Estado:** murió al recibir de frente una manifestación de Kevin.
+
+### Varkh
+- **Mundo:** Orveth.
+- **Naturaleza:** depredador subterráneo de cuatro patas, con astas negras y percepción sin ojos visibles.
+- **Motivación:** persiguió directamente a Kevin como presa.
+- **Estado:** cayó en una grieta durante los enfrentamientos finales; sus rugidos cesaron, pero el cuerpo no fue recuperado.
+
+### Sahra
+- **Mundo:** Orveth.
+- **Naturaleza:** Madre de los Pozos, criatura subterránea que protegía sus crías.
+- **Decisiones:** atacó a Kevin porque lo consideraba una amenaza para sus descendientes; se retiró cuando la manifestación puso en peligro a las crías.
+- **Estado:** destino posterior no confirmado.
+
+### Facciones y estructuras de Orveth
+- **Asambleas de Rastro:** reuniones de representantes de distintas comunidades; no eran un gobierno planetario.
+- **Pueblos Kharai, Vaari y Oth:** comunidades migratorias, de copa y subterráneas, respectivamente.
+- **Cazadores Antiguos:** criaturas dominantes independientes, con territorios y motivaciones diferentes. No constituían una facción unificada.
+- **Bosque de las Campanas:** territorio sagrado protegido por Eldra; quedó dañado y perdió parte de sus campanas.
