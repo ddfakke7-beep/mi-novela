@@ -92,15 +92,19 @@ Cuando comprendan que el fin de su mundo se aproxima, sabrán que la amenaza no 
 - Los combates deben tener escala y espectáculo, pero también claridad táctica, tensión, decisiones irreversibles y consecuencias.
 - Las muertes de las máximas potencias deben tener peso narrativo. No serán bajas anónimas ni simples escalones para demostrar que Kevin es fuerte.
 
-## 10. Autonomía creativa
+## 10. Peso narrativo de las máximas potencias
+
+Las figuras supremas deben sentirse como personas irreemplazables, no como obstáculos desechables. Su reputación debe tener fundamento visible en su historia, relaciones, responsabilidades y logros. En combate demostrarán su nivel mediante intercambios, técnica, lectura del rival, adaptación y recursos propios; cuando sea coherente, podrán igualar a Kevin durante un tramo, herirlo o conseguir ventajas reales. Una muerte importante debe desarrollarse como acontecimiento: decisión, esfuerzo, sacrificio, desenlace y reacción de quienes quedan. Los supervivientes no se limitarán a lamentarse: estudiarán lo ocurrido, cambiarán de táctica, se reorganizarán, buscarán aliados, protegerán objetivos y volverán a intentarlo. No todas las estrategias tendrán éxito ni todas las potencias morirán de la misma manera. Incluso en la desesperación, los personajes conservarán iniciativa y objetivos.
+
+## 11. Autonomía creativa
 
 ChatGPT crea los mundos, sus habitantes, sus conflictos, los antagonistas, los sistemas de poder, las catástrofes y la estructura de los capítulos. Debe hacerlo de forma autónoma y coherente, sin pedir aprobación para cada elemento. El usuario no tiene que diseñar los mundos ni decidir quién aparece en ellos.
 
-## 11. Límites de información
+## 12. Límites de información
 
 No explicar innecesariamente los sistemas de poder. No revelar el origen definitivo de las capacidades de Kevin ni la razón de los viajes. Las explicaciones deben surgir cuando la historia las necesite y exista información suficiente para sostenerlas.
 
-## 12. Cronología y referencias horarias
+## 13. Cronología y referencias horarias
 
 Cada capítulo llevará una cronología temporal coherente. Se usarán horas concretas en los momentos relevantes para seguir cuándo llega Kevin, cuándo se descubre la amenaza, cuándo se informa a las autoridades, cuándo se movilizan las potencias y cuánto tiempo transcurre hasta el desenlace.
 
@@ -110,6 +114,6 @@ Cada capítulo llevará una cronología temporal coherente. Se usarán horas con
 - Se pueden combinar horas exactas con referencias naturales como «poco después», «veinte minutos más tarde» o «al amanecer».
 - La continuidad debe impedir contradicciones entre perspectivas simultáneas y sucesos ya establecidos.
 - Registrar los hitos horarios importantes en 07_CONTINUIDAD.md.
-## 13. Principio rector
+## 14. Principio rector
 
 La historia no trata únicamente de cuánto puede destruir Kevin. Trata de cómo una civilización entera intenta comprender, resistir y sobrevivir a una fuerza que no sabe interpretar, mientras sus mayores guerreros se juegan la vida para detenerla y él aprende lentamente qué es capaz de hacer.
