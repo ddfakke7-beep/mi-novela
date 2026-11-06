@@ -121,3 +121,22 @@ También explicó, con el conocimiento limitado que posee:
 - No sabe si existe una forma definitiva de matarlo.
 
 Estas respuestas pertenecen a la conversación concreta con representantes de Namar. Otros mundos no las conocen automáticamente: cualquier transmisión futura necesita una vía narrativa.
+
+
+## Muerte física y regeneración
+
+Kevin **sí puede morir físicamente**. Su cuerpo y sus funciones vitales pueden fallar como los de una persona normal ante circunstancias letales: puede ahogarse o asfixiarse, morir por exposición a lava o calor extremo, sufrir heridas mortales, perder sangre hasta morir o quedar destruido por completo. No es inmortal ni está protegido de experimentar la muerte.
+
+La diferencia es que esa muerte no es definitiva. Su capacidad regenerativa reconstruye y repara su cuerpo y, cuando el proceso termina, lo devuelve a la vida.
+
+- No confundir «puede morir» con «puede permanecer muerto». Puede llegar a estar realmente muerto durante el proceso, pero la regeneración acaba revirtiendo ese estado.
+- La regeneración no es instantánea. El tiempo depende de la gravedad y naturaleza del daño, de cuánto cuerpo deba reconstruirse y de las circunstancias. No fijar una duración universal.
+- Mientras está muerto o regenerándose, Kevin no puede actuar, defenderse, escapar ni continuar combatiendo como si nada. Queda completamente fuera de juego.
+- La reconstrucción puede requerir que el cuerpo repare daños extremos o vuelva a formarse. No imponer una mecánica visual única si la escena todavía no la ha establecido.
+- Los adversarios pueden aprovechar ese intervalo para completar objetivos, evacuar, preparar sellos, retirarse, reorganizarse o intentar impedir que Kevin vuelva a levantarse.
+- La regeneración no lo hace inmune al dolor, a la asfixia, al calor, a la destrucción corporal, al daño ni a la contención. Tampoco rompe automáticamente prisiones, sellos o dominios sobrenaturales.
+- Los habitantes solo pueden concluir que Kevin murió y volvió si presencian hechos que lo demuestren. Una recuperación de heridas no basta para afirmar que lo vieron morir.
+- No asumir que Kevin conoce desde el principio el alcance de esta capacidad ni que comprende cómo funciona.
+- No establecer un límite definitivo, una fuente ni el mecanismo último de la regeneración.
+
+La regeneración física es independiente del poder destructivo de Kevin. Morir y regenerarse no tiene por qué provocar una manifestación catastrófica, y una manifestación destructiva no tiene por qué matarlo.
