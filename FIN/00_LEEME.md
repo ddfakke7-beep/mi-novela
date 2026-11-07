@@ -257,3 +257,9 @@ Antes de cada capítulo, decidir qué papel causal tendrá Kevin. Puede ser el f
 ## Estado actualizado tras el capítulo 14
 
 FIN cuenta con catorce capítulos completos. El último mundo visitado es Tiravel, donde Kevin participó voluntariamente en la destrucción de Nhal-Kor y ayudó a salvar las civilizaciones de los cuatro continentes. Desapareció el día 3 a las 21:48, tras una estancia de 60 horas y 42 minutos. Consultar `07_CONTINUIDAD.md` para el punto exacto de reanudación.
+
+## Estado actualizado tras el capítulo 15
+
+FIN cuenta con quince capítulos completos. El último mundo visitado fue Serekh, una realidad planetaria que ya había sido destruida antes de la llegada de Kevin. Kevin permaneció allí 79 horas y 30 minutos, murió físicamente tres veces y destruyó el núcleo de una defensa planetaria que seguía produciendo criaturas cazadoras después de la desaparición de sus habitantes. Serekh no fue restaurado y no se confirmó la existencia de supervivientes.
+
+Los registros de Serekh muestran por primera vez a una figura humanoide que intervino deliberadamente en la estructura central antes de la caída del mundo. Su identidad, propósito y relación con los viajes de Kevin siguen sin conocerse. Consultar `07_CONTINUIDAD.md` para el punto exacto de reanudación.
