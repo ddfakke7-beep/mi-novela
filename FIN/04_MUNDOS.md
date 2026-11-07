@@ -236,3 +236,22 @@ Las custodias y los guardianes intentaron contener al Oyente. Mael defendió el 
 **Supervivientes y destinos:** Sereth sobrevivió y abandonó la ciudad mayor con refugiados; Iven sobrevivió al primer ataque, pero sus destinos posteriores no están confirmados. Odria, Mael, Dhoran, Yssara y Asha Vey murieron durante la defensa. El Oyente murió tras la fractura de su esfera central. Uno de los Mudos fue destruido; el destino de los demás es desconocido.
 
 Naereth no fue destruido físicamente. El sistema de las nueve campanas y el Concilio dejaron de funcionar, los territorios perdieron sus defensas comunes y las comunidades se dispersaron.
+
+
+## Criterio ampliado para mundos futuros — realidades activas y desenlaces variados
+
+Los próximos mundos no deben diseñarse únicamente como escenarios que Kevin destruye. Cada uno tiene una historia previa, conflictos propios, personajes con agendas incompatibles y recursos capaces de actuar sobre él. Sus habitantes pueden intentar salvarse, aprovecharlo, manipularlo, engañarlo, matarlo, contenerlo, expulsarlo o convertirlo en instrumento de sus planes. Algunos pueden aceptar sacrificios masivos para conseguirlo. Otros pueden oponerse a esos planes, incluso si también están dispuestos a luchar contra Kevin.
+
+La variedad de realidades incluye mundos murim y de cultivo, dominios divinos, mundos demoníacos, territorios de dragones, planos infernales, reinos espirituales, realidades caóticas, mundos tecnológicos e híbridos, así como civilizaciones y especies que no encajen en categorías conocidas. Estas formas pueden coexistir dentro de un mismo mundo. No repetir una misma estructura de gobierno, defensa o sistema de poder con nombres diferentes.
+
+### Desenlaces posibles
+
+Un mundo futuro puede terminar destruido, sufrir el colapso de su civilización, sobrevivir con pérdidas enormes, expulsar a Kevin, mantenerlo encerrado durante un periodo prolongado, desviarlo a otra realidad o conseguir una victoria parcial. Estos resultados no son una lista que haya que completar ni una distribución obligatoria. Cada uno debe surgir de las capacidades, reglas, conflictos, costes y decisiones de ese mundo.
+
+### Lugares hostiles y mundos que no colapsan por la llegada de Kevin
+
+Una trampa o expulsión puede enviar a Kevin a una realidad que ya era peligrosa: un plano infernal, un dominio demoníaco, un mundo de muerte, una dimensión caótica o un territorio donde la destrucción es parte de la vida cotidiana. No diseñar esos lugares como vacíos ni asumir que Kevin será la mayor amenaza que hayan conocido. Sus habitantes, criaturas y poderes deben tener sus propios objetivos y capacidad de enfrentarlo. La catástrofe que él provoque puede ser habitual para ellos, alterar su equilibrio o abrir oportunidades a ciertas facciones.
+
+### Continuidad de supervivientes y viajeros
+
+Registrar personajes y entidades que sobrevivan y puedan reaparecer. Si viajan, establecer el medio, el coste, las limitaciones y lo que saben. Otros pueden quedar atrapados, ser expulsados o cruzar realidades por causas distintas. No dar a todos capacidad de viajar ni conocimiento automático de otros mundos. Los personajes persistentes deben conservar memoria y consecuencias, no ser reiniciados al reaparecer.
