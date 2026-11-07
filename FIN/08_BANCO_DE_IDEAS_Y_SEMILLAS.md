@@ -139,6 +139,18 @@ Al conocerlo, no tiene por qué atacarlo de inmediato ni declararlo culpable. Pu
 
 La evaluación puede ser fría y estricta: la ausencia de malicia no garantiza que Kevin sea seguro. A la vez, el restaurador no debe confundir automáticamente capacidad destructiva con intención criminal. Kevin podría ser el primer caso que ponga verdaderamente a prueba su criterio.
 
+**Poner a Kevin a prueba antes de juzgarlo:**
+
+El restaurador puede decidir que todavía no tiene pruebas suficientes para condenar a Kevin. En lugar de atacarlo o confiar en él, puede someterlo a pruebas deliberadas y observar cómo responde bajo presión. No serían necesariamente combates para medir quién es más fuerte: podrían ser situaciones donde Kevin tenga que elegir, contenerse, proteger algo, afrontar una provocación o actuar sin conocer toda la información. El restaurador buscaría distinguir intención, capacidad, reacción, límites y posibilidad de convivencia. Las pruebas deben tener consecuencias reales y no convertirse en experimentos crueles sin propósito; el propio restaurador puede equivocarse al diseñarlas o interpretar sus resultados.
+
+**Otros desastres y la reputación de Kevin:**
+
+Kevin no es el único ser de su clase amplia ni el único capaz de devastar mundos. Existen otros desastres y destructores con naturalezas, objetivos y niveles de amenaza diferentes. Algunos pueden haber oído hablar de Kevin, haber encontrado rastros de sus acciones o incluso reconocer qué clase de ruptura deja.
+
+Es posible que ciertos desastres eviten enfrentarse a Kevin, pero no por cobardía ni porque lo consideren automáticamente superior. Pueden abstenerse porque entienden que combatirlo sería peligroso para ellos mismos, pondría en riesgo sus planes, dañaría aquello que intentan conservar o provocaría consecuencias que no pueden controlar. Algunos podrían considerar que Kevin es una amenaza genuina para su propia existencia o naturaleza; otros simplemente juzgarían que no vale la pena asumir ese coste. También puede haber quienes quieran estudiarlo, utilizarlo, provocarlo o eliminarlo.
+
+Esto permite que el restaurador descubra que Kevin ya está llamando la atención de otros desastres y que su clasificación no depende solo de los daños conocidos. La reacción de esos seres será información útil, pero no una prueba definitiva: que un destructor evite a Kevin no demuestra por sí solo que Kevin sea más poderoso, invencible o inevitablemente hostil. Cada uno tendrá sus propios motivos y cálculos.
+
 **Posibles tensiones dramáticas:**
 - La organización puede querer clasificar y controlar a Kevin, mientras el restaurador prefiere observar antes de emitir un juicio.
 - Su deber de proteger mundos puede enfrentarse a la posibilidad de que eliminar a Kevin sea injusto, imposible o incluso cause un daño mayor.
