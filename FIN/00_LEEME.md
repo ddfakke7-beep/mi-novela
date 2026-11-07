@@ -1,7 +1,7 @@
 # FIN — Guía principal del proyecto
 
 **Tipo:** ficción · multiverso · destrucción · desesperación · batallas épicas  
-**Estado:** narración en curso; diecisiete capítulos completos.  
+**Estado:** narración en curso; dieciocho capítulos completos.  
 **Ubicación:** carpeta `FIN/` en el repositorio `mi-novela`.
 
 ## Identidad e independencia
@@ -282,3 +282,9 @@ El capítulo 17, **Nereth, el mundo que no dejaba ir a sus muertos**, está comp
 FIN cuenta con dieciocho capítulos completos. El último mundo visitado fue Odrava, donde Kevin llegó el día 1 a las 04:52 y desapareció el día 4 a las 18:31, tras 85 horas y 39 minutos. Odrava sobrevivió, pero el Nudo de las Siete Rutas quedó dividido y las migraciones de los vaur alteraron de forma permanente el sistema estacional. Kevin no murió ni se regeneró. Consultar `07_CONTINUIDAD.md` para el punto exacto de reanudación.
 
 El capítulo 18 mostró una manifestación del poder de Kevin que alteró rutas atmosféricas y corrientes entre regiones, con consecuencias indirectas y simultáneas en varios continentes. No obtuvo control fiable. Los habitantes no supieron adónde desapareció; no asumieron que viajara a otro mundo.
+
+## Criterio de autoría vigente tras la revisión del capítulo 18
+
+Kevin debe sentirse como una anomalía caótica que puede alterar sistemas y reglas locales, no como un personaje de poder destructivo convencional. Mantener separadas capacidad destructiva, dirección voluntaria imperfecta e intención/personality. Puede aprender a orientar algunas manifestaciones sin dominarlas ni prever sus consecuencias completas. Su progreso debe notarse en decisiones y acciones; no reiniciar su aprendizaje en cada mundo.
+
+Los mundos conservan autonomía: sus habitantes pueden luchar, ganar, fracasar, protegerse y resolver conflictos sin depender de Kevin. Si una facción necesita su poder, la razón debe estar desarrollada. La identificación de Kevin como amenaza puede provocar ataques inmediatos, intentos de asesinato, captura o expulsión; el miedo a las consecuencias no impide que algunos decidan arriesgarse. La cooperación no equivale a perdón. Las disculpas no son una respuesta automática del protagonista.
