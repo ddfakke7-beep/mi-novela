@@ -486,3 +486,88 @@ Estos ejes no deben combinarse automáticamente en un único número. Un ser inv
 - Los altos mandos pueden utilizar categorías como justificación política para perseguir, encerrar o expulsar a alguien, incluso cuando los datos no sostienen una conclusión tan segura.
 
 **Estado:** ampliación provisional de la semilla 2. No están fijados nombres oficiales, símbolos, rangos, protocolos ni una escala numérica. La clasificación debe servir para organizar información y decisiones, no para sustituir la complejidad de cada desastre.
+
+
+## 13. El desastre amigable: el aliado que salva un mundo para después destruirlo
+
+**Origen de la idea:** propuesta del usuario sobre un desastre que se integra en una historia como aliado de Kevin y de los habitantes, participa en la salvación del mundo y después provoca deliberadamente su destrucción.
+
+Un desastre llega a un mundo poco antes que Kevin. No forma parte de la historia original de ese mundo ni necesita haber nacido allí, pero consigue integrarse con naturalidad. Cuando Kevin aparece, el desastre reconoce que hay algo extraño en él y decide acercarse. En vez de atacarlo, lo guía, le explica lo necesario, se presenta como alguien dispuesto a ayudar y lo incorpora a una lucha que parece tener un objetivo legítimo: derrotar una amenaza y salvar el mundo.
+
+La amistad debe sentirse real durante el tiempo que dura. El desastre puede compartir peligros con Kevin, combatir a su lado, proteger habitantes, salvar ciudades, arriesgarse, hacer bromas, conversar y cumplir promesas. No debe dejar pistas obvias en cada escena ni comportarse como un villano teatral que espera impaciente para revelar su plan. Kevin y el lector deben tener motivos razonables para creer que han encontrado un aliado. Puede incluso disfrutar de verdad de ciertos momentos y sentir simpatía por Kevin, sin que eso cambie lo que está dispuesto a hacer después.
+
+### Naturaleza y personalidad del desastre
+
+Su relación con la destrucción es sencilla, caprichosa y aterradora. No necesita odiar un mundo, vengarse de sus habitantes ni perseguir una ideología. Puede decidir que un mundo merece seguir existiendo y ayudarlo; puede cambiar de opinión cuando se aburre, cuando siente que la historia ya terminó o simplemente porque ese día quiere destruirlo. Si decide hacerlo, no se detiene por súplicas, alianzas, gratitud ni por haber sido tratado como amigo.
+
+No es necesariamente un mentiroso en todo momento. Puede haber disfrutado genuinamente de la compañía de Kevin y de la batalla compartida. La traición funciona precisamente porque la amistad, las bromas y los actos de ayuda ocurrieron de verdad, aunque el significado que Kevin les atribuyó no fuera el mismo que el desastre les daba.
+
+Su relación con otros desastres también es imprevisible:
+- Puede jugar, conversar o colaborar con algunos.
+- Puede salvar a uno porque le cae bien, porque le parece interesante o porque todavía quiere verlo actuar.
+- Puede matar a otro porque le resulta desagradable, aburrido o molesto.
+- Puede provocar a un desastre más peligroso solo para ver qué ocurre.
+- No tiene por qué considerar a todos los desastres aliados naturales ni enemigos obligatorios.
+
+La idea no es convertirlo en alguien que siempre destruye por diversión de la misma manera. Puede pasar largos períodos sin destruir nada, ayudar de verdad y mantener objetivos propios. Pero cuando toma la decisión de acabar con un mundo, su voluntad es firme y la destrucción no se detiene con una conversación.
+
+### La traición y la destrucción final
+
+Cuando la amenaza principal del mundo ha sido derrotada y sus habitantes empiezan a creer que sobrevivieron, el desastre revela su verdadera decisión. Puede hacerlo sin una transformación exagerada ni un discurso explicativo: la calma con la que comienza a destruir lo que ayudó a salvar debe ser más inquietante que una rabia repentina.
+
+La destrucción debe ser completa en su impacto narrativo y material, no una frase que diga que el mundo desapareció. Mostrar cómo se deshacen las defensas que los personajes levantaron juntos, cómo caen lugares que Kevin ayudó a proteger, cómo los supervivientes intentan comprender el cambio y cómo los héroes locales continúan luchando aunque ya estén perdiendo. Las personas que conocieron al supuesto aliado deben recordar actos concretos de ayuda y preguntarse qué significaron. No convertir a todos los habitantes en extras anónimos ni reducir la caída a una cifra de muertos.
+
+El desastre puede haber preparado el desenlace desde antes, pero no debe haber controlado absolutamente cada detalle ni conocer cada resultado. Su intervención debe tener límites y la resistencia del mundo debe seguir siendo auténtica.
+
+### El héroe que no consiguió salvar su mundo
+
+El mundo puede tener un héroe local auténtico: alguien que luchó por proteger a su gente, combatió la amenaza original y también intenta detener al desastre cuando comprende lo que está ocurriendo. No debe ser un ingenuo que nunca sospechó nada ni un personaje creado solo para fracasar. Puede haber salvado ciudades, organizado evacuaciones, derrotado enemigos y sostenido la resistencia durante años.
+
+Cuando el desastre muestra su intención, el héroe se enfrenta a él junto con Kevin. Ambos pueden conseguir herirlo, demostrar que no es intocable y obligarlo a responder en serio. Pero no logran detenerlo. El héroe puede morir, quedar herido o sobrevivir a la caída; la decisión debe depender de la historia y no de una obligación de matarlo. Si sobrevive, tendrá que cargar con el fracaso de haber luchado hasta el final y no haber podido salvar su mundo.
+
+La relación entre el héroe y Kevin también debe desarrollarse: el héroe puede desconfiar de Kevin al principio, reconocer después que ambos están intentando salvar a la gente y finalmente combatir a su lado. Su derrota no debe convertirlo en incompetente ni hacer que el desastre lo humille gratuitamente.
+
+### Kevin y el último enfrentamiento
+
+Kevin intenta matar al desastre o hacerlo pagar por la traición. No se limita a gritarle: lucha con intención real, aunque no comprenda del todo a su adversario. Puede conseguir herirlo, destruir parte de su cuerpo, obligarlo a retroceder o interrumpir temporalmente la destrucción. El desastre también puede herir a Kevin y demostrar que la diferencia entre ambos no se resuelve con un golpe más fuerte.
+
+Hay dos variantes posibles para el final de Kevin, todavía sin elegir:
+
+1. **Desaparición durante el enfrentamiento:** Kevin sigue atacando cuando comienza el fenómeno de transición. El desastre advierte que está a punto de marcharse y se ríe, como si aquello fuera una pausa en un juego que sabe que continuará. Kevin desaparece sin saber si el mundo terminó de caer ni qué ocurrió con el héroe.
+2. **Muerte física antes de la transición:** el desastre consigue matar físicamente a Kevin durante el enfrentamiento. Kevin ya ha muerto y regresado antes, por lo que el otro desastre conoce esa particularidad o la descubre durante la pelea. La transición comienza mientras Kevin está muerto o justo después de su muerte, y su cuerpo aparece en el siguiente mundo sin haber completado la regeneración. Allí podría despertar más tarde. Esta variante requiere respetar que Kevin permanece completamente incapacitado durante la regeneración; no decidir todavía cómo interactúa el traslado con ese proceso.
+
+El desastre no debe saberlo todo por conveniencia. Si conoce que Kevin puede regresar, debe existir una razón narrativa para que lo haya descubierto. Puede haber observado una muerte anterior, investigado sus rastros o presenciado una regeneración.
+
+### La despedida y la frase final
+
+Cuando Kevin desaparece, el desastre no necesita perseguirlo ni intentar detener el traslado. Puede reírse, observar el lugar donde estaba y dejar una frase que revele que considera el encuentro inconcluso, no terminado. La frase debe ser memorable y propia del personaje, sin explicar toda su naturaleza ni anunciar una persecución automática.
+
+Una posibilidad de tono —no frase definitiva— sería:
+
+> «Corre, Kevin. Todavía no hemos decidido si esta amistad termina aquí».
+
+O una despedida más juguetona y amenazante, que sugiera que espera volver a encontrarlo porque para él todo esto ha sido un juego. La frase definitiva debe nacer de la personalidad y de lo ocurrido en el capítulo, no parecer una cita genérica de villano.
+
+### Qué clase de desastre es
+
+No se ha decidido si debe ser un desastre que disfruta especialmente jugando con otros desastres, una entidad que juzga los mundos con criterios caprichosos o un ser cuya voluntad puede pasar de preservar a destruir sin una causa moral reconocible. Lo importante es que tenga una naturaleza y capacidades propias, no solo el rasgo de «ser impredecible». Su forma de destruir debe ser reconocible y distinta de la de Kevin: método, alcance, ritmo, señales, condiciones y límites que puedan descubrirse en la historia.
+
+Puede tener nombre o título conocido entre otros desastres, como una figura con reputación propia. «Desastre andante» es una posible descripción informal, no un nombre oficial decidido.
+
+### Mundo y género posibles
+
+Un mundo de héroes, villanos y poderes ofrece un contraste especialmente fértil: Kevin y el supuesto aliado podrían colaborar con héroes locales, salvar ciudades y derrotar amenazas reconocibles antes de que la traición destruya la confianza en todo el sistema. También podría funcionar en un mundo de fantasía, cultivación o cualquier otra sociedad con defensores propios. No asignar todavía el mundo ni el género; escogerlos cuando la historia pueda aprovechar mejor la traición.
+
+### Principios para que funcione
+
+- La amistad debe sentirse auténtica durante el desarrollo, no como una actuación obvia.
+- El desastre no necesita ser malvado en todo momento; puede ayudar y disfrutar genuinamente de la compañía.
+- La traición no debe convertir retrospectivamente cada acto bueno en una mentira. Puede haber sido real, aunque no implicara compromiso moral con el mundo.
+- La destrucción final debe tener proceso, resistencia, consecuencias y víctimas con identidad.
+- El héroe local debe ser competente y haber hecho una diferencia real, aunque no consiga salvar el mundo.
+- Kevin puede herir al desastre, pero no necesariamente vencerlo. No convertir al antagonista en invencible ni a Kevin en alguien que siempre llega tarde sin lograr nada.
+- La frase final debe tener peso por la relación construida, no por grandilocuencia vacía.
+- No conectar automáticamente a este personaje con el restaurador, la organización de desastres, la caminante que rechaza la vida o la realidad-prisión. Puede conocer a otros desastres, pero su lugar en el panorama multiversal queda abierto.
+- La variante de Kevin muerto y trasladado debe respetar las reglas de muerte y regeneración ya establecidas; su interacción con el fenómeno de viaje sigue sin resolverse.
+
+**Estado:** semilla aceptada para conservar, sin capítulo asignado. El desastre no tiene todavía nombre, apariencia, origen, poderes concretos, método de destrucción ni motivación definitiva. El mundo, el héroe, el desenlace exacto y la frase final quedan abiertos. No convertirlo todavía en canon ni introducirlo automáticamente en el capítulo siguiente.
