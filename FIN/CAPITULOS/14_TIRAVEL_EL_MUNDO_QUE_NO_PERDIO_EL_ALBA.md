@@ -238,7 +238,7 @@ Mientras los siete ardieran, la noche que dormía bajo el mar septentrional no p
 
 Pero dos fuegos habían caído.
 
-El de Vaelor, en el extremo norte de Arel, se había apagado tres días antes. El de Thessa había desaparecido esa misma mañana.
+El de Vaelor, en el extremo norte de Arel, se había apagado tres días antes. Orsenn, su guardián, conservaba una brasa viva en el pecho. El de Thessa había desaparecido esa misma mañana.
 
 —¿El Consejo de las Alas? —preguntó Maereth.
 
