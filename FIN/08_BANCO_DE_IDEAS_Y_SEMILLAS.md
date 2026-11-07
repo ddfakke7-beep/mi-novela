@@ -376,3 +376,46 @@ La estancia de Kevin puede provocar fugas o debilitar sectores de contención. L
 Los fugitivos deben conservar sus diferencias, historias y motivaciones. No todos tienen que convertirse en antagonistas de Kevin ni todos tienen que perseguirlo. Sus trayectorias pueden cruzarse con él mucho después, cuando ya estén desarrollando sus propios planes en otros mundos.
 
 **Principio de continuidad:** la fuga no debe borrar la historia de la prisión ni resolver automáticamente sus problemas. Cada fugitivo que escape puede convertirse en una consecuencia duradera del caos que Kevin dejó atrás, pero su destino debe desarrollarse de forma independiente y no todos necesitan reaparecer.
+
+
+## 11. Mundos de héroes, superhumanos y sociedades de poderes
+
+**Origen de la idea:** aclaración del usuario sobre los tipos de mundos que esperaba encontrar en FIN desde su concepción.
+
+FIN también debe explorar mundos inspirados en los grandes géneros de héroes de anime, manga, novelas ligeras y web novels, sin incorporar sus personajes ni copiar sus tramas. La referencia es el tipo de mundo, sus convenciones y posibilidades narrativas; cada mundo debe tener historia, personajes, instituciones, conflictos y reglas originales.
+
+**Familias de mundos posibles:**
+- Sociedades de héroes y villanos, con generaciones de protectores, organizaciones, academias, reputaciones públicas, rivalidades y amenazas.
+- Mundos de cazadores, portales, mazmorras, gremios, rangos y monstruos, donde la aparición de poderes cambió la estructura social.
+- Civilizaciones de superhumanos, con individuos extraordinarios, facciones, gobiernos, vigilantes, criminales y figuras que operan fuera de cualquier autoridad.
+- Mundos de héroes legendarios, sucesores, linajes, poderes heredados, amenazas históricas y defensores que han protegido su sociedad durante generaciones.
+- Sociedades de poderes sobrenaturales, habilidades individuales, clanes, organizaciones ocultas, conspiraciones y reglas particulares para cada capacidad.
+
+No convertir estas familias en una lista de clichés. Un mundo puede mezclar géneros o subvertirlos, y debe tener una historia autónoma que no exista únicamente para recibir a Kevin. Sus héroes pueden ser auténticos protectores, figuras imperfectas, personas manipuladas, celebridades, tiranos o individuos con objetivos incompatibles. Sus villanos tampoco tienen que ser malvados de forma simple.
+
+**Kevin dentro de esos mundos:** no pertenece automáticamente al bando de los héroes, aunque tampoco sea intrínsecamente malvado. Puede ser considerado amenaza, enemigo, aliado circunstancial, víctima, salvador o algo que las categorías locales no consiguen describir. Los habitantes y héroes tienen motivos legítimos para defenderse de él si sus actos los ponen en peligro. Los sistemas de poder locales deben conservar sus propias reglas y pueden incluir individuos capaces de herirlo, matarlo físicamente, contenerlo o expulsarlo.
+
+**Originalidad:** tomar inspiración de géneros y estructuras, nunca importar personajes, nombres, poderes distintivos, instituciones o acontecimientos concretos de una obra existente. Los mundos de FIN deben sostenerse por sí mismos.
+
+**Estado:** línea creativa aceptada para ampliar la variedad de mundos. No hay mundo ni capítulo asignado.
+
+## 12. Kevin no pertenece necesariamente al bando de los buenos: voluntad y destrucción deliberada
+
+**Origen de la idea:** aclaración fundamental del usuario sobre la naturaleza moral y la voluntad de Kevin.
+
+Kevin no es inherentemente malo, pero tampoco debe quedar encasillado como héroe, salvador o aliado natural de quienes defienden un mundo. La forma en que una civilización entiende la vida, el orden, la justicia, la supervivencia o el futuro puede ser profundamente incompatible con lo que Kevin llega a sentir o considerar aceptable. Puede enfrentarse a quienes protegen ese mundo sin que la narración tenga que convertirlos en villanos ni a Kevin en un héroe incomprendido.
+
+**La destrucción puede ser deliberada:**
+- Kevin no solo puede destruir mundos por accidentes, manifestaciones involuntarias, defensa o falta de control. En determinadas circunstancias puede decidir conscientemente destruir un mundo.
+- Esa decisión no debe explicarse siempre por odio, crueldad, ambición, locura o deseo de poder. Puede surgir de una convicción íntima: llegar a sentir que ese mundo, su forma de existir o aquello que sostiene no debería continuar.
+- La historia debe construir el motivo con peso narrativo. No basta con que Kevin diga que un mundo no merece existir: el lector debe comprender qué vio, vivió, descubrió o concluyó, aunque no esté de acuerdo con él.
+- Su juicio puede ser acertado, equivocado, parcial, emocional, contradictorio o producto de información incompleta. No convertir sus convicciones en verdades morales automáticas.
+- También puede conocer a personas valiosas dentro de ese mundo, quererlas o intentar protegerlas y, aun así, terminar decidiendo que el mundo como conjunto no debería seguir existiendo. Esa contradicción debe tener consecuencias emocionales y narrativas.
+- Los habitantes pueden resistirse con plena legitimidad. Sus héroes pueden luchar contra Kevin para salvar su hogar, aunque él no los considere malvados. Kevin puede comprender sus razones y aun así no cambiar de decisión.
+- La capacidad destructiva, la intención, la personalidad y el juicio moral de Kevin son dimensiones distintas. No asumir que porque pueda destruir, quiera hacerlo; tampoco asumir que porque no sea malvado, siempre elegirá preservar.
+
+**Responsabilidad del autor:** esta posibilidad no debe usarse como giro arbitrario ni como una nueva fórmula repetida. El autor debe construir el contexto, la experiencia y el conflicto interno que hagan comprensible la decisión concreta de Kevin. No es necesario que llegue a esa conclusión en todos los mundos ni que la destrucción deliberada se vuelva su objetivo habitual. Debe ser una posibilidad real, rara cuando corresponda y con consecuencias irreversibles.
+
+**Principio central:** Kevin no está obligado a salvar un mundo por ser el protagonista, ni un mundo está obligado a ser condenado porque Kevin llegue a él. Cada caso debe ganarse su desenlace mediante la historia, las decisiones y los conflictos de quienes lo habitan.
+
+**Estado:** principio creativo aceptado para FIN. No determina todavía qué mundo destruirá Kevin deliberadamente ni cuándo ocurrirá; eso deberá surgir de una historia concreta.
