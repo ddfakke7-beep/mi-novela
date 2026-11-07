@@ -348,3 +348,31 @@ No tiene que ser una fuga voluntaria ni una habilidad que Kevin controle. Puede 
 La desaparición debe sentirse como un giro desconcertante, no como una solución que borra el caos. Kevin se va, pero las consecuencias de su estancia permanecen.
 
 **Estado:** ampliación provisional de la semilla 10. No están fijados el mundo de origen de la captura, la identidad de quienes lo denuncian, la autoridad que ordena el traslado, el mecanismo de expulsión ni la causa exacta de la desaparición.
+
+
+### Orden narrativo y preparación: no introducir la prisión demasiado pronto
+
+La realidad-prisión no debe aparecer antes de que el lector conozca al restaurador de mundos y la historia haya establecido que existen otros desastres con objetivos, naturalezas y trayectorias propias. Este arco requiere preparación multiversal.
+
+**Orden orientativo, no una escaleta rígida:**
+1. Kevin acumula más experiencias y un historial mixto de mundos salvados, devastados, abandonados, y enfrentamientos ganados o perdidos.
+2. El restaurador aparece y se desarrolla como personaje: investiga a Kevin, tiene criterios propios, conoce amenazas anteriores y empieza a formar una opinión que todavía puede cambiar.
+3. La narración amplía gradualmente el panorama de otros desastres y viajeros. Algunos pueden evitar a Kevin, otros enfrentarlo, aprovecharse de él o perseguir objetivos que no tienen relación con destruir mundos.
+4. La existencia de la prisión se anticipa mediante rastros, informes, fugitivos, advertencias, historias o consecuencias. No hace falta explicar de inmediato quién la administra ni todos sus mecanismos.
+5. Solo cuando ese contexto tenga peso suficiente, Kevin puede ser capturado y enviado allí.
+
+La prisión no tiene que ser una institución controlada directamente por el restaurador ni él tiene que ser quien ordene el traslado. La relación entre ambos queda abierta. Puede conocerla, haber participado en decisiones relacionadas con ella, desconfiar de sus métodos o tener una historia propia con algunos de sus prisioneros.
+
+### Los desastres que podrían escapar y sus destinos
+
+La estancia de Kevin puede provocar fugas o debilitar sectores de contención. Los fugitivos no deben comportarse todos igual ni convertirse automáticamente en un grupo unido contra Kevin:
+- Algunos pueden perseguirlo por venganza, porque atribuyen a Kevin la pérdida de su territorio, libertad, aliados o posición dentro de la prisión.
+- Otros pueden salir y desaparecer, vagando por distintas realidades para recuperar algo que perdieron o buscar un lugar donde vivir sin ser perseguidos.
+- Algunos tendrán objetivos concretos pendientes: terminar una conquista, recuperar un artefacto, encontrar a alguien, completar una transformación, cumplir una promesa o ajustar cuentas.
+- Otros solo quieren escapar y vivir tranquilos, aunque su mera existencia siga siendo peligrosa.
+- Algunos sí buscarán destruir mundos, extender su dominio o alcanzar un poder que antes no podían conseguir.
+- Puede haber quienes no quieran salir: la prisión quizá contiene enemigos, secretos o amenazas que consideran peores que el encierro.
+
+Los fugitivos deben conservar sus diferencias, historias y motivaciones. No todos tienen que convertirse en antagonistas de Kevin ni todos tienen que perseguirlo. Sus trayectorias pueden cruzarse con él mucho después, cuando ya estén desarrollando sus propios planes en otros mundos.
+
+**Principio de continuidad:** la fuga no debe borrar la historia de la prisión ni resolver automáticamente sus problemas. Cada fugitivo que escape puede convertirse en una consecuencia duradera del caos que Kevin dejó atrás, pero su destino debe desarrollarse de forma independiente y no todos necesitan reaparecer.
