@@ -1,7 +1,7 @@
 # FIN — Guía principal del proyecto
 
 **Tipo:** ficción · multiverso · destrucción · desesperación · batallas épicas  
-**Estado:** narración en curso; once capítulos completos.  
+**Estado:** narración en curso; doce capítulos completos.  
 **Ubicación:** carpeta `FIN/` en el repositorio `mi-novela`.
 
 ## Identidad e independencia
@@ -198,3 +198,19 @@ Kevin desapareció de Taurak el día 4 a las 16:12, después de una estancia de 
 FIN cuenta con once capítulos completos. El capítulo 11 transcurre en Yunluo, un mundo de cultivo con cinco continentes, océano interior, venas espirituales, sectas, clanes de bestias y cultivadores que alcanzaron la inmortalidad mediante la Escalera del Cielo. La Escalera cayó y el Río Invertido entró en las venas principales. Yunluo sobrevivió, pero el antiguo orden de cultivo quedó quebrado.
 
 Kevin llegó al Valle de las Campanas el día 1 a las 07:20 y salió de Yunluo el día 4 a las 18:02. Su estancia duró 82 horas y 42 minutos. Zhao Wenyuan lo manipuló mediante verdades parciales, omisiones y una situación preparada para que Kevin eligiera acercarse a la raíz por voluntad propia. Jin Suyin murió abriendo una salida para los habitantes del valle. Kevin no murió ni obtuvo control fiable de su poder.
+
+
+## Ampliación cosmológica y de escala de poder — tras el capítulo 12
+
+FIN no tiene un único ser extraordinario ni una cima universal ocupada por Kevin. Pueden existir individuos y entidades comparables, superiores o radicalmente distintos a él. Algunos han desarrollado sus capacidades mediante eras de práctica, cultivo, investigación, sacrificios, técnicas propias, evolución o conquista consciente. Otros poseen una naturaleza anterior a las civilizaciones. Sus métodos, experiencia y control pueden ser muy superiores a los de Kevin, aunque eso no los haga omnipotentes.
+
+La cosmología puede contener mundos inferiores, intermedios y superiores, planos conectados, capas de realidad, territorios exteriores y regiones cuya posición no sea conocida. No imponer una jerarquía lineal universal: la relación entre mundos depende de sus leyes y de los caminos que conectan sus realidades. Un mundo aparentemente inferior puede contener algo temido por los superiores; un ser de una esfera elevada puede estar limitado fuera de ella.
+
+Los seres poderosos deben tener objetivos independientes: escapar de su mundo, ascender, impedir una salida, exterminar una civilización, conquistar, sobrevivir, buscar algo desconocido o cumplir proyectos de eras. Algunos pueden ser comparables a Kevin sin compartir su origen ni su naturaleza. Kevin no debe convertirse automáticamente en el centro de sus conflictos ni en la mayor amenaza que conocen.
+
+El capítulo 12, Vael Taar, establece como hecho narrado una realidad de cinco cielos con tránsito entre capas, Avar Keth (un mortal que construyó su poder mediante decenas de miles de años de práctica) y Oruun (una entidad que intentaba escapar). No se confirmó la muerte de ninguno. La jerarquía y la naturaleza de otros mundos siguen abiertas.
+
+
+## Estado actualizado tras el capítulo 12
+
+FIN cuenta con doce capítulos completos. El último mundo fue Vael Taar, una realidad de cinco cielos. Kevin salió el día 3 a las 18:06. Avar Keth desapareció al cerrar la Cámara de los Nombres y Oruun quedó inmovilizado en el quinto cielo; no se confirmó la muerte de ninguno. Consultar `07_CONTINUIDAD.md` para el punto exacto.
