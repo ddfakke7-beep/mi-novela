@@ -4,9 +4,9 @@
 
 **Fase:** narración en curso.  
 **Canon fundacional:** establecido.  
-**Capítulos completos:** 10.  
-**Mundos visitados:** Veyra, Cangyuan, Ithrak, Orthea, Namar, Ilyr, Orveth, Naereth, Nharos y Taurak. Ocho civilizaciones colapsaron; Nharos y Taurak sobrevivieron a sus respectivas crisis.  
-**Último acontecimiento:** Kevin fue expulsado de Taurak el día 4 a las 16:12. El mundo sobrevivió, pero perdió tres rutas de migración y varias conexiones entre regiones.
+**Capítulos completos:** 11.  
+**Mundos visitados:** Veyra, Cangyuan, Ithrak, Orthea, Namar, Ilyr, Orveth, Naereth, Nharos, Taurak y Yunluo. Ocho civilizaciones colapsaron; Nharos, Taurak y Yunluo sobrevivieron a sus respectivas crisis.  
+**Último acontecimiento:** Kevin dejó Yunluo el día 4 a las 18:02. El mundo sobrevivió, pero la Escalera del Cielo cayó y el antiguo orden de cultivo quedó quebrado.
 
 ## 2. Capítulo 1 — Veyra
 
