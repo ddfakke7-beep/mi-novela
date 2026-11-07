@@ -4,9 +4,9 @@
 
 **Fase:** narración en curso.  
 **Canon fundacional:** establecido.  
-**Capítulos completos:** 9.  
-**Mundos visitados:** Veyra, Cangyuan, Ithrak, Orthea, Namar, Ilyr, Orveth, Naereth y Nharos. Ocho civilizaciones colapsaron; Nharos sobrevivió a la crisis del capítulo 9.  
-**Último acontecimiento:** Kevin desapareció de Nharos el día 4 a las 14:06. La prisión de Akh-Mor quedó dañada y una frontera desconocida permanece parcialmente abierta.
+**Capítulos completos:** 10.  
+**Mundos visitados:** Veyra, Cangyuan, Ithrak, Orthea, Namar, Ilyr, Orveth, Naereth, Nharos y Taurak. Ocho civilizaciones colapsaron; Nharos y Taurak sobrevivieron a sus respectivas crisis.  
+**Último acontecimiento:** Kevin fue expulsado de Taurak el día 4 a las 16:12. El mundo sobrevivió, pero perdió tres rutas de migración y varias conexiones entre regiones.
 
 ## 2. Capítulo 1 — Veyra
 
@@ -518,7 +518,7 @@ Estas posibilidades no deben narrarse como antecedentes. El siguiente mundo toda
 
 ### Punto exacto de reanudación
 
-Kevin desapareció de Nharos el día 4 a las 14:06. El siguiente mundo todavía no ha aparecido en escena. Kevin sabe que murió y volvió, pero no comprende cómo funciona su regeneración ni qué la provoca. No conoce la naturaleza de la frontera que quedó abierta ni qué hay al otro lado. El origen de su poder y el mecanismo de los traslados siguen sin explicación.
+Kevin fue expulsado de Taurak el día 4 a las 16:12, tras 78 horas y 30 minutos en ese mundo. El siguiente destino todavía no ha aparecido en escena. Kevin sabe que murió y volvió en Nharos, pero no comprende cómo funciona su regeneración. No sabe cómo Taurak consiguió expulsarlo, dónde terminó ni si podría regresar. El origen de su poder y el mecanismo general de los traslados siguen sin explicación.
 
 ### Continuidad abierta de Nharos
 
@@ -555,3 +555,42 @@ En los siguientes mundos:
 - La supervivencia, expulsión o contención de Kevin son desenlaces posibles; no convertir la destrucción del mundo en fórmula obligatoria.
 
 El mundo debe sentirse vivo antes de Kevin, durante su presencia y después de su partida. La narración no tiene que mostrarlo todo, pero sí dejar claro que hay mucho más que el escenario que Kevin alcanza a conocer.
+
+
+## 26. Capítulo 10 — Taurak
+
+**Archivo:** `FIN/CAPITULOS/10_TAURAK_EL_MUNDO_QUE_EXPULSO_AL_DESASTRE.md`.
+
+- **Llegada:** día 1, 09:42, Paso de las Alas, región oriental de Varkesh.
+- **Expulsión y salida:** día 4, 16:12.
+- **Duración total:** 78 horas y 30 minutos.
+- **Colapso civilizatorio:** no ocurrió. Taurak conservó sus civilizaciones y sus grandes regiones.
+- **Escala:** mundo de nueve grandes rutas migratorias que atraviesan continentes, océanos y galerías subterráneas. Las rutas moldean ecosistemas y civilizaciones.
+- **Pueblos y especies:** Veyr, Aruun, Sair, Namarai, Khar y nueve estirpes dracónicas. Los centros de poder están repartidos entre Varkesh, Theryn, el océano de Vael, Othuun y otros territorios.
+- **Conflicto previo:** las nueve migraciones se debilitaban. Khevar y sus partidarios querían abrir la Cámara del Primer Aliento y provocar una renovación; Vaeruun quería impedir que la entidad primordial despertara. Los pueblos de Taurak mantenían conflictos propios que no dependían de Kevin.
+- **Primera manifestación:** una marca de migración se apagó y una ruta aérea se desvió cuando Kevin llegó. Una prueba de Khevar con una pieza de nueve ranuras provocó una reacción destructiva y dañó una fortaleza.
+- **Perspectivas alejadas:** hubo escenas en el océano, Theryn y Othuun. Los habitantes de esas regiones tenían objetivos propios y no recibieron todos la noticia al mismo tiempo.
+- **Manipulación:** Khevar quiso utilizar a Kevin como llave. Después fingió haber cambiado de postura para acercarse a él. Kevin rechazó ayudarlo a abrir la Cámara.
+- **Expulsión:** Vaeruun, Rhaum, Dhur-Khal, Othra y otros guardianes activaron las nueve rutas desde puntos distintos del mundo. La operación exigió coordinación a gran distancia y sacrificios irreversibles. Kevin se resistió y no eligió el destino.
+- **Resultado:** tres rutas de migración quedaron inutilizadas; dos nidos dracónicos mayores se derrumbaron; seis ciudades de raíces quedaron aisladas; catorce arrecifes habitables fueron desplazados o abandonados; nueve galerías profundas quedaron selladas.
+- **Balance provisional:** 24.600 muertos confirmados, 11.800 desaparecidos, 39.000 heridos y 208.000 evacuados. No es un censo mundial; heridos y evacuados pueden solaparse.
+- **Personajes:** Seyra sobrevivió; Vaeruun sobrevivió envejecida y debilitada; Khevar desapareció en las fosas del norte; Rhaum sobrevivió herido; Othra fue rescatada; Dhur-Khal sobrevivió con una pérdida sensorial; Neyra tiene destino no confirmado. El Primer Aliento continúa dormido.
+- **Conocimiento:** nadie en Taurak sabe dónde terminó Kevin. No se ha demostrado que el método local pueda repetirse ni que esté conectado con el mecanismo general de los traslados.
+
+### Punto exacto de reanudación tras el capítulo 10
+
+Kevin acaba de desaparecer de Taurak. El próximo mundo todavía no ha aparecido en escena. No eligió la expulsión ni conoce su destino. No sabe cómo se activaron las nueve rutas ni si el mecanismo de Taurak podría devolverlo. Su primera muerte física sigue siendo la ocurrida en Nharos; no murió en Taurak.
+
+### Continuidad abierta de Taurak
+
+- Seyra continúa en Varkesh y presenció la expulsión. No conoce el destino de Kevin.
+- Vaeruun sobrevivió, pero sacrificó la memoria ancestral de la Primera Estirpe y quedó debilitada.
+- Khevar sobrevivió al enfrentamiento con Rhaum, pero desapareció en las fosas del norte. No afirmar que murió.
+- Rhaum regresó herido al océano.
+- Othra fue rescatada; Dhur-Khal perdió la capacidad de escuchar las capas profundas de la piedra.
+- Neyra tiene destino posterior no confirmado.
+- El Primer Aliento sigue dormido. La Cámara continúa siendo un conflicto abierto.
+- Las nueve estirpes siguen divididas; los partidarios de la Muda no han sido derrotados.
+- Tres rutas de migración quedaron destruidas o inutilizadas. La recuperación de las conexiones y las consecuencias para los pueblos de Taurak siguen abiertas.
+- No se conoce el destino al que fue enviado Kevin. No asumir que los personajes de Taurak pueden seguirlo o comunicarse con él.
+
