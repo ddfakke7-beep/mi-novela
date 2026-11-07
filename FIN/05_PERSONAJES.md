@@ -1198,3 +1198,30 @@ Los personajes de Nereth no conocen el origen de Kevin ni la causa de sus viajes
 - **Nima:** hija menor de Asha. Quedó atrapada en el refugio de compuertas y fue rescatada. Sobrevivió.
 - **Aruva:** hembra adulta de vaur conocida como Madre del Paso Occidental. Sobrevivió a las heridas de los arpones, pero no volverá a guiar la antigua ruta.
 - **Cría de Aruva:** murió durante la primera alteración de las corrientes. No se estableció un nombre.
+
+## Personajes del capítulo 19 — Mairen
+
+### Ivara
+- **Mundo y capítulo:** Mairen, capítulo 19.
+- **Naturaleza:** caminante cuya existencia está ligada a una contaminación que deteriora los procesos que sostienen la vida. El fenómeno puede extenderse por territorios, aguas, ecosistemas y redes vivas.
+- **Historia:** llegó a Mairen ciento dieciséis años antes del capítulo. La contaminación contribuyó al colapso de la civilización original y devastó enormes regiones. Cuando los habitantes descubrieron la relación, intentaron aislarla y eliminarla. La Médula también atacó su cuerpo, la hirió gravemente y no consiguió detener el fenómeno.
+- **Personalidad:** experimentada, curiosa, directa, paciente y con iniciativa. Tiene interés por la información, las historias y lo que existe fuera de su aislamiento. No es ingenua ni pasiva; puede probar hipótesis, observar y hacer preguntas incómodas.
+- **Objetivos:** permanecer en la Cuenca de la Ceniza sin trasladar la contaminación a otros mundos; conservar el acceso a los archivos que aún funcionan; comprender la anomalía que representa Kevin.
+- **Acuerdo:** aceptó permanecer en la cuenca y no intentar trasladar el fenómeno a otros mundos a cambio de recibir registros, mapas, música, historias y conocimientos. El acuerdo fue negociado con una civilización que ya no mantiene comunicación activa. Un sistema automático sigue entregando archivos antiguos.
+- **Capacidades y límites:** la contaminación no es un simple aura de corto alcance; deteriora sistemas vivos y puede propagarse por redes ambientales. No se ha establecido que Ivara sea inmortal ni invulnerable. La Médula la ha herido gravemente. Su contaminación sigue activa y es peligrosa para otros seres.
+- **Relación con Kevin:** la contaminación se debilitó temporalmente alrededor de él, permitiéndole acercarse sin deteriorar de inmediato las muestras vivas. Ni Ivara ni Kevin comprenden el mecanismo. Ivara siente curiosidad por su existencia y quiere investigar cuánto puede soportar su proximidad.
+- **Decisión:** permanece en Mairen. No acompaña a Kevin porque trasladar la contaminación podría provocar otra catástrofe.
+- **Estado:** viva, herida en el costado. No se conoce su origen ni si volverá a encontrarse con Kevin.
+
+### Dema
+- **Mundo y capítulo:** Mairen, capítulo 19.
+- **Afiliación:** comunidad varel de las cámaras de Ordal.
+- **Personalidad y posición:** anciana práctica, consciente de la historia de las incursiones y de los costes de las respuestas de la Médula.
+- **Decisiones:** reconoció la reactivación de la exéresis y ordenó cortar conexiones y aislar las cámaras de Ordal.
+- **Estado:** sobrevivió; el destino posterior de su comunidad no está completamente registrado.
+
+### Mensajero joven de Ordal
+- **Mundo y capítulo:** Mairen, capítulo 19.
+- **Afiliación:** comunidad varel de Ordal.
+- **Decisiones:** transmitió el aviso de la Médula y ejecutó las órdenes de aislamiento.
+- **Estado:** sobrevivió al cierre inmediato. Su nombre no quedó registrado.
