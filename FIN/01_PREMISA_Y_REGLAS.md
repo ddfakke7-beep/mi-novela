@@ -26,7 +26,7 @@ Su llegada y sus acciones desencadenan catástrofes que pueden acabar con la civ
 
 ## 3. Regla de capítulos: un mundo por capítulo
 
-**Un capítulo, un mundo destruido.** Cada capítulo desarrolla la llegada, los acontecimientos, la respuesta y el desenlace catastrófico de un único mundo.
+**Un capítulo, un mundo, un desenlace propio.** Cada capítulo desarrolla la llegada, los acontecimientos, la respuesta y una resolución decisiva de un único mundo. El desenlace puede ser catastrófico o permitir que el mundo sobreviva; no se exige destruirlo.
 
 - El capítulo puede ser muy largo, con múltiples escenas, personajes, perspectivas, conflictos y enfrentamientos.
 - No se destruye un segundo mundo dentro del mismo capítulo.
@@ -254,7 +254,7 @@ Cada mundo debe sentirse como una sociedad real que intenta comprender y sobrevi
 - Las estrategias deben tener objetivos concretos y consecuencias. Algunas pueden fracasar, otras lograr rescates o retrasos parciales, y otras cambiar la dirección de la crisis.
 - La información obtenida en un combate o investigación debe afectar a quienes la reciben; no todos empiezan desde cero si existen comunicaciones y tiempo para prepararse.
 - No existe un límite temporal universal para destruir cada mundo. La duración dependerá de la geografía, el tipo de civilización, la velocidad de propagación del desastre, las defensas, las comunicaciones, las evacuaciones y las decisiones de sus habitantes.
-- Registrar al final de cada capítulo el tiempo transcurrido desde la llegada de Kevin hasta el colapso de la civilización y la hora de su salida. El colapso civilizatorio no implica necesariamente la destrucción física del planeta.
+- Registrar al final de cada capítulo la hora de llegada, los hitos principales, la duración de la estancia y la hora de salida. Si el mundo colapsa, registrar también cuánto tardó en hacerlo; si sobrevive, dejar claro qué estructuras, territorios y conflictos permanecen.
 
 ## 18. Variedad real entre mundos y contención sobrenatural
 
