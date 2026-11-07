@@ -750,3 +750,59 @@ Los personajes relevantes no deben aparecer todos en el mismo lugar ni existir �
 - No convertir cada personaje remoto en refuerzo que viaja a la batalla final. Puede proteger su territorio, aprovechar la crisis, negociar con rivales, evacuar, investigar por su cuenta o perseguir un objetivo incompatible.
 - Las escenas alejadas del protagonista deben mostrar decisiones y consecuencias propias, no ser únicamente informes sobre él.
 - Si la historia continúa después de la salida de Kevin, conservar las relaciones, deudas, guerras y planes pendientes de los supervivientes.
+
+
+## 8. Personajes del mundo 10 — Taurak
+
+### Seyra
+- **Mundo y capítulo:** Taurak, capítulo 10.
+- **Pueblo y función:** Veyr; medidora de corrientes y rutas migratorias del Paso de las Alas.
+- **Personalidad y objetivos:** práctica, cautelosa y directa. Su prioridad es mantener seguras las rutas y a las comunidades que dependen de ellas.
+- **Relación con Kevin:** lo encontró después de su llegada. Desconfió de él, pero se negó a tratarlo como una herramienta y lo acompañó durante la crisis.
+- **Estado:** sobrevivió; continúa en Varkesh. Presenció la expulsión y no conoce el destino de Kevin.
+
+### Vaeruun
+- **Mundo y capítulo:** Taurak, capítulo 10.
+- **Naturaleza y afiliación:** dragona antigua, guardiana de la Primera Estirpe.
+- **Objetivos:** impedir que Khevar despertara al Primer Aliento y evitar que las nueve migraciones se deshicieran.
+- **Relación con Kevin:** lo consideró una anomalía peligrosa y participó en la decisión de expulsarlo, sin afirmar que conociera su naturaleza.
+- **Estado:** sobrevivió, pero sacrificó la memoria ancestral de su estirpe y quedó envejecida y debilitada.
+
+### Khevar
+- **Mundo y capítulo:** Taurak, capítulo 10.
+- **Naturaleza y afiliación:** príncipe dracónico de las estirpes negras; líder de partidarios de la Muda.
+- **Objetivos:** abrir la Cámara del Primer Aliento, provocar una renovación y quebrar el orden que mantenían las estirpes antiguas. Quería aprovechar la reacción de las marcas ante Kevin.
+- **Relación con Kevin:** intentó usarlo como llave; después fingió cambiar de postura para acercarse a él. Adaptó sus tácticas después de la primera prueba fallida.
+- **Estado:** sobrevivió al enfrentamiento con Rhaum, pero desapareció en las fosas del norte. No se confirmó su muerte.
+
+### Rhaum
+- **Mundo y capítulo:** Taurak, capítulo 10.
+- **Naturaleza y afiliación:** dragón marino sin alas, Guardián de la Fosa Azul.
+- **Objetivos:** proteger las corrientes oceánicas y las ciudades de arrecife. No quería intervenir en una disputa de estirpes hasta comprender el peligro para su territorio.
+- **Relación con Kevin:** participó en la expulsión para impedir que la crisis alterara el océano.
+- **Estado:** sobrevivió herido y regresó al océano.
+
+### Othra
+- **Mundo y capítulo:** Taurak, capítulo 10.
+- **Pueblo y función:** Aruun; guardiana de savia de un bosque de cristal.
+- **Objetivos:** proteger las raíces, las ciudades arbóreas y la memoria de su bosque. Se opuso a que Khevar utilizara a Kevin.
+- **Relación con Kevin:** no confió plenamente en él, pero le ofreció un lugar donde permanecer sin cadenas mientras observaban los efectos de su presencia.
+- **Estado:** quedó atrapada durante la expulsión, fue rescatada y sobrevivió.
+
+### Dhur-Khal
+- **Mundo y capítulo:** Taurak, capítulo 10.
+- **Pueblo y función:** Khar; representante de las galerías profundas.
+- **Objetivos:** proteger las ciudades subterráneas y recuperar las galerías perdidas, sin liberar algo que no pudiera volver a contener.
+- **Relación con Kevin:** consideró su posible relación con la Cámara como una hipótesis, no como una certeza.
+- **Estado:** sobrevivió, pero perdió la capacidad de escuchar las capas profundas de la piedra.
+
+### Neyra
+- **Mundo y capítulo:** Taurak, capítulo 10.
+- **Pueblo y función:** Namarai; anciana capaz de escuchar memorias de organismos marinos.
+- **Acción:** detectó una ausencia en las corrientes oceánicas y alertó a Rhaum.
+- **Estado:** destino posterior no confirmado.
+
+### Primer Aliento
+- **Mundo y capítulo:** Taurak, capítulo 10.
+- **Naturaleza:** entidad primordial bajo la corteza de Taurak, anterior a las nueve estirpes dracónicas.
+- **Estado:** continúa dormido. No se confirmó que despertara ni que hablara.
