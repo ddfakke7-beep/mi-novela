@@ -744,3 +744,49 @@ Kevin sabe que ayudó a destruir a Nhal-Kor, pero no entiende por qué su poder 
 - Las costas del norte y las galerías de Vord requieren reconstrucción.
 - No se conoce el origen de Nhal-Kor ni si existen entidades semejantes bajo otros mares.
 - Kevin dejó Tiravel sin conocer el mecanismo de su traslado ni el origen de su poder.
+
+## Capítulo 15 — Serekh
+
+### Llegada, salida y resultado
+- Kevin llegó a Serekh el día 1 a las 06:32, en una llanura de ceniza al oeste de la cordillera.
+- Desapareció el día 4 a las 14:02.
+- Estancia total: 79 horas y 30 minutos.
+- Serekh ya estaba destruido antes de la llegada de Kevin. No se confirmó la existencia de supervivientes.
+- Kevin destruyó el núcleo de defensa planetaria que seguía produciendo cazadores. El mundo no fue restaurado.
+
+### El mundo y la destrucción anterior
+Serekh era una realidad planetaria con tres grandes continentes, mares interiores, una cadena de islas polares, bosques-columna ecuatoriales y ciudades subterráneas. Sus registros muestran varias especies inteligentes y rutas que conectaban regiones muy distantes. Los mares se retiraron, las ciudades quedaron vacías y los ecosistemas se inmovilizaron antes de la llegada de Kevin.
+
+Una figura humanoide aparece en registros dañados. Llegó a la estructura central y apagó los siete anillos regionales antes de marcharse. La secuencia precede a la desaparición de las ciudades y al descontrol de la defensa. No se conoce la identidad de la figura, su propósito ni si provocó directamente la muerte de los habitantes.
+
+### Cazadores y núcleo
+- Los cazadores subterráneos detectaban vibraciones y perseguían bajo la costra.
+- Los cazadores de señal emitían pulsos para coordinarse y marcar presas.
+- Los sembradores acorazados depositaban polvo vivo que producía formas menores.
+- Los alados de señal localizaban objetivos desde el aire y conducían a otros cazadores hacia ellos.
+- Las bestias de cuchillas modificaban el terreno para cerrar rutas y acorralar.
+- Los custodios de garganta inmovilizaban y aplastaban objetivos para transportarlos.
+- El núcleo orgánico estaba conectado a siete anillos regionales. Originalmente coordinaba las defensas y los refugios de Serekh. Después de perder sus conexiones, siguió generando criaturas y dejó de distinguir entre invasores y habitantes.
+
+### Muertes y regeneración de Kevin
+- Día 1, 17:03: aplastado por un sembrador acorazado. Regresó aproximadamente cuatro horas después.
+- Día 2, 08:17: estrangulado e inmovilizado por cazadores. Despertó a las 13:46, tras aproximadamente cinco horas y veintinueve minutos.
+- Día 3, 11:50: aplastado por un custodio de garganta durante el descenso al núcleo. Despertó a las 17:32, tras aproximadamente cinco horas y cuarenta y dos minutos.
+- Durante los tres intervalos estuvo completamente muerto e incapacitado. La regeneración no provocó por sí misma manifestaciones destructivas.
+
+### Destrucción del núcleo
+El día 3, entre las 19:12 y las 19:46, Kevin desató varias manifestaciones destructivas contra los soportes y el centro del núcleo. No fue un uso preciso ni un control fiable. El núcleo dejó de funcionar, la producción cesó y las criaturas conectadas al sistema se detuvieron. Kevin no sabe explicar cómo consiguió destruirlo.
+
+### Estado de Kevin al salir
+Kevin sabe que alguien llegó antes que él a Serekh y actuó deliberadamente sobre su estructura central. No conoce su identidad ni sabe si viaja entre mundos. La experiencia reforzó su comprensión de que puede morir físicamente durante horas y que la regeneración no elimina el dolor ni la incapacidad. También comprendió que huir no siempre basta cuando una amenaza puede localizarlo de múltiples maneras.
+
+### Continuidad abierta
+- No se confirmó que ningún habitante de Serekh sobreviviera.
+- Se desconoce qué buscaba la figura humanoide en el núcleo y por qué apagó los siete anillos.
+- No se sabe si la figura causó directamente la muerte de los habitantes o si el colapso de la defensa y la cacería fueron consecuencias no previstas.
+- No se conoce si existen otros núcleos similares fuera de Serekh ni si su destrucción tuvo efectos en otras realidades.
+- La marca recta hallada por Kevin no se vinculó con certeza a la figura del registro.
+- Kevin abandonó Serekh sin conocer quién había llegado antes que él ni si volverá a encontrarlo.
+
+### Punto exacto de reanudación
+Kevin desapareció de Serekh el día 4 a las 14:02. No sabe si la figura humanoide continúa viajando, si tuvo intención de destruir la civilización o si buscaba algo concreto en el núcleo. No conoce otros viajeros ni sabe si existe una organización que los persiga o vigile. No ha obtenido control fiable de su poder. El siguiente mundo todavía no ha aparecido en escena.
