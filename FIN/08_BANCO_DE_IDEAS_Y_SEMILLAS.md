@@ -274,3 +274,51 @@ La prisión del dios no debe caer en el cliché de una entidad absoluta que solo
 **Escala y resistencia del mundo:** que una entidad sea llamada dios, destructor o amenaza mundial no significa que el mundo sea débil ni que nadie pueda oponérsele. Puede haber héroes, cultivadores, guardianes, especies antiguas, campeones, armas, órdenes o seres locales capaces de matar viajeros poderosos, expulsarlos a otras realidades o contener amenazas que llegan de fuera. Algunos mundos han sobrevivido precisamente porque desarrollaron defensas contra seres como estos. No existe una escala universal que garantice que Kevin o el prisionero estén por encima de los habitantes de cada mundo.
 
 **Estado:** ampliación provisional de la semilla 9. Ninguna de estas naturalezas queda elegida como canon. Evitar que el prisionero sea simplemente «el ser más poderoso» o que su liberación tenga como único resultado la destrucción automática del mundo.
+
+
+## 10. Una realidad-prisión para contener destructores y viajeros peligrosos
+
+**Origen de la idea:** propuesta del usuario sobre la posibilidad de que Kevin sea capturado por una fuerza multiversal y enviado a un mundo que funciona como prisión absoluta.
+
+Podría existir una realidad destinada a recibir seres que los mundos normales no pueden mantener bajo control: destructores de mundos, viajeros capaces de alterar las leyes locales, entidades difíciles de matar, amenazas involuntarias o individuos demasiado peligrosos para dejarlos circular libremente. No sería necesariamente una cárcel convencional ni un lugar diseñado solo para criminales. Su función sería contener amenazas que otros mundos no pueden gestionar.
+
+### Naturaleza de la prisión
+
+- Puede ser un mundo entero adaptado como prisión, una dimensión cerrada o una realidad artificial. Su geografía podría incluir continentes sellados, océanos imposibles, regiones con leyes distintas, capas dimensionales y zonas de contención especializadas.
+- No todos los prisioneros tienen que estar en celdas. Algunos podrían permanecer en territorios aislados, bajo condiciones ambientales o metafísicas que limitan sus capacidades.
+- La prisión debe tener sistemas de mantenimiento, vigilancia y contención con reglas y costes. No es infalible: puede sufrir fugas, fallos, rebeliones, sabotajes o sectores que ya no obedecen a sus administradores.
+- Los prisioneros no forman un grupo homogéneo. Hay destructores deliberados, amenazas cuya naturaleza es peligrosa sin intención, conquistadores, seres capturados por temor o conveniencia y condenados injustamente.
+- La vida dentro puede haber generado sociedades, alianzas, jerarquías, mercados, guerras, territorios y pactos entre los propios prisioneros. No reducirla a una sucesión de monstruos esperando en sus celdas.
+
+### Quién envía a los prisioneros
+
+La autoridad responsable queda abierta. Algunas posibilidades:
+- Una organización multiversal que captura amenazas y las traslada allí.
+- Una civilización antiquísima que construyó la prisión y aún la administra.
+- Una entidad o mecanismo autónomo que detecta ciertas amenazas y las expulsa a esa realidad.
+- Un pacto entre mundos mediante el cual distintas civilizaciones pueden solicitar el confinamiento de alguien, bajo condiciones y costes específicos.
+
+No asumir que la autoridad es omnisciente, justa o todopoderosa. Puede equivocarse al clasificar a alguien, abusar de su poder, ocultar los motivos de una condena o mantener prisioneros por razones políticas. También puede haber desacuerdos entre quienes administran el sistema.
+
+### Kevin como prisionero
+
+Kevin podría ser capturado después de que alguna fuerza investigue sus manifestaciones y concluya que no puede dejarlo libre en mundos habitados. Su traslado no requeriría que haya destruido deliberadamente un mundo: la decisión podría basarse en el riesgo que representa, en miedo, en información incompleta o en una interpretación equivocada de sus acciones.
+
+Su llegada no lo convierte automáticamente en el ser dominante de la prisión:
+- Algunos prisioneros pueden tener experiencia enfrentándose a entidades como él.
+- Otros pueden poseer técnicas específicas para neutralizarlo, contenerlo o expulsarlo.
+- Puede haber individuos capaces de matarlo físicamente, aunque eso no resuelva su regeneración posterior.
+- Su regeneración no rompe automáticamente las barreras ni las condiciones de confinamiento. Durante una muerte y regeneración permanece incapacitado, y la prisión puede seguir funcionando.
+- Si sus manifestaciones dañan la estructura, puede activar defensas, poner en peligro a otros prisioneros o empeorar su propia situación.
+
+Kevin podría encontrarse con prisioneros que quieran matarlo, utilizarlo, estudiarlo, evitarlo o negociar con él. No todos necesitan conocer su reputación ni reaccionar igual.
+
+### Potencial narrativo
+
+La prisión puede ser un arco completo centrado en supervivencia, alianzas, conflictos entre prisioneros, investigación de la autoridad y búsqueda de salida. También permite mostrar seres que Kevin nunca habría encontrado en mundos ordinarios y revelar gradualmente cómo algunas realidades gestionan amenazas externas.
+
+No convertirla en un torneo de poder ni en una excusa para presentar una lista de enemigos cada vez más fuertes. Los prisioneros deben tener objetivos, historias y relaciones propias. La tensión puede surgir de recursos escasos, territorios, pactos, secretos de la prisión, traiciones, sistemas de contención y decisiones morales.
+
+La pregunta central no tiene que ser solo cómo escapa Kevin, sino quién decidió que debía estar allí, con qué pruebas, qué ocurre con quienes son enviados a esa realidad y si la prisión protege a los mundos o también perpetúa injusticias.
+
+**Estado:** semilla provisional, sin capítulo asignado. No está decidido quién administra la prisión, cómo funciona exactamente, si es una sola realidad o varias capas, ni si Kevin llegará allí por una captura legítima, una clasificación equivocada o una maniobra interesada.
