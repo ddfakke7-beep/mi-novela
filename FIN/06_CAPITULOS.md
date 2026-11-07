@@ -283,3 +283,20 @@ No se exige mostrar todos los territorios ni introducir escenas remotas por obli
 - **Personajes y destinos:** Osha y Teren sobrevivieron; la Madre sobrevivió herida y perdió tres mandíbulas; el Pastor sobrevivió con la máscara fracturada y perdió varios territorios; Vela sobrevivió; el marido de Vela continúa desaparecido.
 - **Kevin:** no murió ni se regeneró. Su intervención cambió el desenlace, pero no solucionó la infección. No obtuvo control fiable. No sabe qué estructura respondió bajo la corteza.
 - **Continuidad abierta:** la infección sigue activa en regiones exteriores; el Nudo perdió recuerdos; la estructura olvidada bajo la corteza respondió después de la crisis. No se conoce su naturaleza ni su relación con Kevin.
+## 22. Resumen del capítulo 14
+
+- **Archivo:** `FIN/CAPITULOS/14_TIRAVEL_EL_MUNDO_QUE_NO_PERDIO_EL_ALBA.md`.
+- **Mundo:** Tiravel, mundo de fantasía épica con cuatro continentes: Arel, Thessa, Vord y Nym. Humanos, pueblos de raíz, nacidos de piedra y dragones mantenían una alianza histórica mediante los siete fuegos del alba.
+- **Llegada y salida:** Kevin llegó a Aram, Arel, el día 1 a las 09:06. Desapareció el día 3 a las 21:48. Estancia total: 60 horas y 42 minutos.
+- **Conflicto:** Nhal-Kor, entidad dormida bajo el océano septentrional, comenzó a consumir la luz. Sus criaturas de escarcha atacaron los cuatro continentes. Dos fuegos se apagaron y antiguas disputas entre los pueblos impidieron una respuesta inmediata.
+- **Personajes centrales:** Sered, caballero de Leth; Talia, sanadora; Eren y su madre; la duquesa Maereth; Azhara, reina dragón de Nym; Dhoram, rey de las galerías de Vord; Orsenn, guardián del fuego de Vaelor; y la Madre Raíz de Thessa.
+- **Kevin en Aram:** al salvar a Eren destruyó a un desollador de escarcha, pero su manifestación dañó tres casas y parte del puente de las campanas. Ayudó después a retirar escombros y rescatar heridos.
+- **Crisis mundial:** Nhal-Kor emergió bajo el océano septentrional. Los cuatro continentes combatieron simultáneamente: dragones en Nym, gigantes de basalto en Vord, bosques móviles y pueblos de raíz en Thessa, y ejércitos de Arel.
+- **Decisión de Kevin:** después de ver a las potencias y habitantes luchar por su mundo, aceptó ayudar voluntariamente. En el bastión de Leth abrió una herida en la coraza de una criatura, demostrando que su anomalía podía dañar la protección de Nhal-Kor.
+- **Victoria:** los cinco fuegos restantes se conectaron. Kevin abrió una grieta hacia el núcleo de Nhal-Kor y Azhara, junto con la luz de los fuegos, atravesó su corazón. Nhal-Kor fue destruido y la sombra se deshizo.
+- **Resultado:** Tiravel sobrevivió. Sus cuatro civilizaciones conservaron sus territorios principales y su futuro. El pacto de los siete fuegos se renovó. Hubo daños en costas, galerías y bosques, pero no colapso civilizatorio.
+- **Consecuencias humanas:** Aram reconstruyó el puente; Eren sobrevivió y regaló una figura de madera a Kevin; los habitantes regresaron de los refugios. Se mostraron pérdidas y daños sin anular la victoria.
+- **Balance provisional:** 18.400 muertos confirmados, 3.700 desaparecidos, 27.600 heridos y 146.000 desplazados o evacuados. Registros incompletos; categorías pueden solaparse.
+- **Personajes y destinos:** Sered, Talia, Eren, su madre, Maereth, Azhara, Dhoram y la Madre Raíz sobrevivieron. Orsenn murió sosteniendo el fuego de Vaelor. Dos dragones siguen desaparecidos.
+- **Estado de Kevin:** no murió ni se regeneró. Decidió intervenir para salvar Tiravel y su intervención fue decisiva, aunque la victoria dependió de la resistencia y coordinación de sus habitantes. No obtuvo control perfecto ni conoce el mecanismo de su poder. Se marchó con una figura de madera que Eren le regaló.
+- **Estado:** capítulo completo, guardado en Markdown. Primer mundo que Kevin ayuda a salvar mediante una decisión consciente y una victoria auténtica.
