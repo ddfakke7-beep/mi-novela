@@ -204,3 +204,16 @@ Al cierre del capítulo 8, Kevin no ha muerto en escena, no ha sido decapitado y
 - Kevin oyó a Akh-Mor hablar de una frontera que la prisión también mantenía cerrada. Vio símbolos desconocidos y una cicatriz oscura parcialmente abierta. No sabe qué hay al otro lado ni qué relación tiene con sus traslados.
 - Nharos no colapsó. Sus siete dominios siguen existiendo, aunque la prisión perdió cuatro anclajes, tres fortalezas suspendidas cayeron y varias minas y asentamientos quedaron dañados o evacuados.
 - Kevin no obtuvo una técnica nueva ni control estable. La experiencia confirmó que puede morir durante un intervalo y que su regeneración no lo libera automáticamente de una situación ni evita que otros aprovechen su incapacidad.
+
+
+## Experiencia confirmada al cierre del capítulo 10 — Taurak
+
+- Kevin llegó a Taurak el día 1 a las 09:42, en el Paso de las Alas, región oriental de Varkesh.
+- Taurak es un mundo extenso articulado por nueve grandes rutas de migración. Sus pueblos y civilizaciones incluyen a los Veyr de los cañones, los Aruun de los bosques de cristal, los Sair de las ciudades arbóreas, los Namarai de los arrecifes oceánicos, los Khar de las galerías profundas y nueve estirpes dracónicas. Sus territorios y centros de poder están distribuidos entre continentes, océanos y regiones subterráneas.
+- Una manifestación involuntaria dañó una marca de migración y desvió una ruta aérea. Khevar intentó utilizar a Kevin para abrir la Cámara del Primer Aliento; una prueba con una pieza de nueve ranuras provocó una reacción destructiva y dañó una fortaleza.
+- Kevin conoció a Seyra, medidora de corrientes Veyr, y a Othra, guardiana de savia Aruun. Ambas desconfiaban de él, pero no lo trataron como una herramienta. Khevar fingió ofrecerle ayuda después de intentar utilizarlo.
+- Kevin no murió durante este capítulo. No se confirmó una lesión letal ni una nueva regeneración.
+- Vaeruun, Rhaum, Dhur-Khal, Othra y otros guardianes coordinaron un mecanismo repartido por varias regiones para expulsarlo. Kevin se resistió y no eligió el destino.
+- Kevin desapareció de Taurak el día 4 a las 16:12. Su estancia duró 78 horas y 30 minutos.
+- No sabe cómo funciona la expulsión, qué destino se abrió ni si podría regresar a Taurak. No obtuvo control fiable de su poder ni comprendió la relación entre su presencia y las marcas de migración.
+- Taurak sobrevivió. La expulsión dañó tres rutas de migración, dos nidos dracónicos mayores y varias conexiones entre regiones. Sus conflictos internos continúan.
