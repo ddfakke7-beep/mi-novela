@@ -1046,3 +1046,27 @@ Los personajes relevantes no deben aparecer todos en el mismo lugar ni existir �
 - **Mundo y capítulo:** Tiravel, capítulo 14.
 - **Naturaleza:** criaturas desprendidas de la presencia de Nhal-Kor.
 - **Destino:** se detuvieron y deshicieron después de la destrucción de su núcleo.
+
+## Serekh — capítulo 15
+
+### Figura humanoide desconocida
+- **Mundo y capítulo:** Serekh, capítulo 15.
+- **Naturaleza:** figura erguida de proporciones semejantes a las de una persona, visible únicamente en registros antiguos dañados.
+- **Hechos observados en los registros:** llegó a la estructura central de Serekh, actuó sobre ella y se marchó mientras los siete anillos regionales se apagaban. La secuencia precede a la desaparición de las ciudades y a la actividad descontrolada de la defensa planetaria.
+- **Destino y propósito:** desconocidos. No se confirmó que sea un viajero entre mundos ni que tenga relación con Kevin. No se conoce si su intervención buscaba destruir a los habitantes, extraer algo del núcleo o conseguir otro objetivo.
+
+### Núcleo de defensa de Serekh
+- **Mundo y capítulo:** Serekh, capítulo 15.
+- **Naturaleza:** estructura orgánica central conectada a siete anillos regionales y a las defensas distribuidas del planeta.
+- **Función original:** coordinar los sistemas defensivos y las rutas hacia los refugios de Serekh.
+- **Estado posterior a la destrucción del mundo:** perdió sus conexiones y continuó generando criaturas cazadoras, sin distinguir entre invasores y habitantes.
+- **Destino:** destruido por Kevin el día 3, entre las 19:12 y las 19:46. La producción y coordinación de los cazadores cesó.
+
+### Criaturas cazadoras de Serekh
+- **Cazadores subterráneos:** seis patas; detectaban vibraciones y perseguían objetivos bajo la costra.
+- **Cazadores de señal:** cuerpos altos y estrechos; emitían pulsos para coordinarse y marcar la posición de una presa.
+- **Sembradores acorazados:** masas de múltiples extremidades que depositaban polvo vivo y producían formas menores para rastrear y rodear objetivos.
+- **Alados de señal:** depredadores aéreos capaces de marcar la posición de una presa para otros cazadores.
+- **Bestias de cuchillas:** levantaban placas del terreno y cerraban rutas para acorralar objetivos.
+- **Custodios de garganta:** criaturas de cuatro brazos que inmovilizaban y aplastaban objetivos antes de transportarlos hacia el núcleo.
+- **Destino común:** dejaron de moverse después de la destrucción del núcleo. No se confirmó que quedaran ejemplares activos fuera de la red.
