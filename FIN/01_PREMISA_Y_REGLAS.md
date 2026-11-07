@@ -382,3 +382,27 @@ La amplitud de un mundo no se demuestra solo con cifras, nombres de continentes 
 - No concentrar a todos los personajes relevantes en una ciudad, prisión, capital o arena. La crisis puede tener frentes simultáneos y respuestas independientes.
 - Un mundo puede resistir, expulsar o contener a Kevin, negociar con él, manipularlo, utilizarlo o fracasar. La destrucción no es un resultado obligatorio.
 - El capítulo 9, Nharos, no se modifica retroactivamente. La escala insuficientemente visible de ese capítulo queda registrada como aprendizaje de construcción para los siguientes mundos.
+
+## Regla reforzada: las consecuencias deben sentirse, no solo contabilizarse
+
+Una cifra de muertos, heridos o desplazados no sustituye a la experiencia narrativa de la catástrofe. Los balances son útiles para mostrar escala y continuidad, pero no generan por sí solos impacto emocional.
+
+- Mostrar comunidades concretas antes, durante o después de la crisis, cuando sea posible: sus rutinas, necesidades, vínculos, lugares y aquello que pueden perder.
+- Hacer que el lector vea consecuencias en escenas: una evacuación que se rompe, una familia que busca a alguien, un refugio que no puede recibir más personas, una comunidad que pierde el agua, una ruta que deja de existir o una persona que regresa y descubre que su hogar ya no está.
+- Dar continuidad a algunos habitantes secundarios para que sus pérdidas no sean intercambiables. No hace falta nombrar a miles; bastan personajes y comunidades bien construidos que representen vidas distintas.
+- Mostrar también consecuencias no mortales: pérdida de territorio, cultura, memoria, técnicas, medios de subsistencia, protección, autonomía o formas de vida.
+- Las escenas deben sostener los balances posteriores. No introducir decenas de miles de víctimas sin haber mostrado cómo se propagó el daño, qué regiones fueron alcanzadas y por qué las cifras son plausibles.
+- Separar siempre muertos confirmados, desaparecidos, heridos, evacuados y desplazados. Señalar las limitaciones de los registros y los posibles solapamientos.
+- No convertir cada capítulo en una sucesión de escenas trágicas. La vida cotidiana, los rescates, las decisiones, las pequeñas victorias y las personas que sobreviven también dan peso a lo que se pierde.
+
+## Regla reforzada: manipulación inteligente y conflicto de voluntades
+
+Los manipuladores importantes no deben limitarse a fingir amistad, hacer una oferta evidente o revelar demasiado pronto que desean utilizar a Kevin.
+
+- Pueden ganarse credibilidad mediante acciones útiles y verificables, ofrecer información verdadera, reconocer abiertamente una parte de sus intereses y permitir que Kevin crea que conserva la decisión.
+- Las mentiras más eficaces pueden consistir en omisiones, verdades incompletas, contexto cuidadosamente seleccionado, alternativas diseñadas para favorecer al manipulador o consecuencias que el personaje conoce pero no explica.
+- El manipulador debe entender algo de la personalidad, las necesidades y los límites de Kevin, sin convertirlo en un genio omnisciente ni suponer que puede controlarlo por completo.
+- Kevin puede desconfiar, hacer preguntas y aun así ser engañado por una asimetría de información razonable. No hacerlo parecer ingenuo ni convertir cada conversación en una trampa perfecta.
+- Los manipuladores pueden equivocarse, perder el control de sus planes, sentir culpa, tener objetivos legítimos junto a métodos inaceptables o descubrir que Kevin no reacciona como esperaban.
+- Una manipulación debe cambiar acontecimientos y tener consecuencias; no basta con revelar al final que alguien mentía.
+- Distinguir lo que el personaje dijo, lo que ocultó, lo que Kevin entendió y lo que realmente estaba intentando conseguir.
