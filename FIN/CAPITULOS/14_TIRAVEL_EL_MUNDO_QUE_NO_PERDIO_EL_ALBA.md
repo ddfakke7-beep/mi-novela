@@ -362,7 +362,7 @@ No fue una amenaza. Sered parecía tan cansado que ni siquiera tenía fuerzas pa
 
 ## Día 2 — 02:10 — La caída de Vaelor
 
-El fuego de Vaelor se apagó por completo a las 02:10.
+A las 02:10, la última llama de la torre de Vaelor se extinguió. La brasa que Orsenn conservaba era ya el único resto del antiguo fuego.
 
 La torre no explotó. No se derrumbó. Simplemente dejó de emitir luz.
 
@@ -666,7 +666,7 @@ Parecían personas que ya habían decidido luchar.
 
 El plan era sencillo de explicar y casi imposible de ejecutar.
 
-Los cinco fuegos restantes debían encenderse al mismo tiempo. Azhara llevaría la llama de Nym hacia el centro. Dhoram abriría las galerías de Vord para que el fuego de piedra alcanzara la red inferior. La Madre Raíz movería su bosque hasta la frontera de Thessa. Maereth reuniría las fuerzas de Arel en la llanura de Edras. Orsenn, herido, sostendría el fuego de Vaelor desde su torre caída.
+Los cinco fuegos que aún podían conectarse debían encenderse al mismo tiempo. La brasa de Vaelor, conservada por Orsenn, serviría de puente para devolver el fuego a la red. Azhara llevaría la llama de Nym hacia el centro. Dhoram abriría las galerías de Vord para que el fuego de piedra alcanzara la red inferior. La Madre Raíz movería su bosque hasta la frontera de Thessa. Maereth reuniría las fuerzas de Arel en la llanura de Edras. Orsenn, herido, sostendría el fuego de Vaelor desde su torre caída.
 
 No era una alianza cómoda. Los dragones desconfiaban de los humanos. Los señores de piedra no olvidaban las guerras por las minas. La Madre Raíz no aceptaba que las ciudades siguieran construyéndose sobre sus raíces. Pero todos sabían qué ocurriría si fracasaban.
 
@@ -760,7 +760,7 @@ Pero el corazón había quedado expuesto.
 
 —¡AHORA! —gritó Azhara.
 
-Los cinco fuegos se unieron.
+Los cinco fuegos activos se unieron, mientras Orsenn entregaba la brasa de Vaelor para cerrar la conexión.
 
 La llama de Arel subió desde las torres. La de Thessa brotó de las raíces. La de Vord salió de las montañas. La de Nym descendió de los dragones. La de Vaelor, sostenida por Orsenn, cruzó el mar.
 
