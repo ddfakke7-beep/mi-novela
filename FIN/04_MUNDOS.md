@@ -505,3 +505,35 @@ Nereth sobrevivió, pero la crisis dejó 4.820 muertos confirmados, 2.140 desapa
 - **Balance provisional:** 12.600 muertos confirmados, 8.300 desaparecidos, 31.000 heridos y 214.000 evacuados o desplazados. Los registros son provisionales y las categorías pueden solaparse.
 - **Salida de Kevin:** día 4, 18:31. Ilyra no supo si había muerto, sido expulsado o trasladado.
 - **Continuidad abierta:** la grieta permanece sobre el Nudo; los vaur deben adaptarse a rutas nuevas; Aruva sobrevivió pero no volverá a guiar el corredor occidental; Suth debe reorganizar el agua; Hadran, Veyr y Namar deben reconstruir infraestructuras dañadas.
+## 19. Mairen — capítulo 19
+
+**Tipo:** mundo vivo, regenerativo y con defensas planetarias autónomas.  
+**Estado:** visitado; la civilización original colapsó por una contaminación de escala ambiental, pero sobreviven comunidades aisladas en regiones desconectadas.
+
+### Geografía y estructura
+Mairen posee cinco grandes masas continentales, dos océanos principales y mares interiores de savia mineralizada. Bajo su corteza existe una red orgánica llamada **la Médula**, que conecta regiones, transporta nutrientes y participa en la regeneración del planeta. La Médula puede levantar barreras, cerrar fracturas, aislar zonas contaminadas y construir estructuras defensivas. No es una conciencia humana ni una autoridad que razone como una persona.
+
+- **Varda:** continente de la antigua civilización y de la Cuenca de la Ceniza, el territorio más afectado por la contaminación.
+- **Ordal:** mesetas de basalto y cámaras minerales donde sobreviven comunidades varel aisladas de la red orgánica.
+- **Neth:** cordilleras huecas y galerías profundas, con rutas minerales que pueden desconectarse de la Médula.
+- **Ura:** archipiélagos de tejido endurecido y jardines suspendidos. Sus cuidadores protegen semillas y especies resistentes.
+- **Kelar:** regiones polares y mares de savia fría, con asentamientos escasos y poca conexión con los otros continentes.
+
+Las distancias entre continentes requieren meses de viaje. No existe un gobierno mundial. Las comunidades supervivientes toman decisiones propias y pueden cortar sus conexiones con la Médula cuando detectan una amenaza.
+
+### Historia y crisis
+Ivara llegó a Mairen ciento dieciséis años antes del capítulo 19. Su existencia está ligada a una contaminación que deteriora los procesos que sostienen la vida y puede extenderse por territorios, aguas, ecosistemas y redes vivas. La contaminación devastó enormes regiones y contribuyó al colapso de la civilización original. La Médula aisló la Cuenca de la Ceniza para impedir que el daño alcanzara el resto del mundo.
+
+Los archivos registran seis incursiones anteriores. La Médula mató algunas amenazas, expulsó otras y mantuvo al menos una encerrada durante siglos hasta que dejó de emitir señales. No todas eran viajeros conscientes ni compartían naturaleza. La experiencia de esas incursiones dio lugar a protocolos de aislamiento, cámaras minerales y rutas que podían cortarse sin depender de la red orgánica.
+
+### Capítulo 19 — acontecimientos y resultado
+- **Llegada de Kevin:** día 1, 02:14, en una cavidad orgánica de la Médula. Una manifestación involuntaria deshizo parte de las fibras que lo sujetaban y activó una respuesta mayor del sistema.
+- **Encuentro con Ivara:** día 1, 03:05. Ivara confirmó que su existencia estaba relacionada con la contaminación de Mairen. Aceptó permanecer en la cuenca y no trasladar el fenómeno a otros mundos a cambio de recibir información; el acuerdo se hizo con una civilización que ya no mantiene comunicación activa.
+- **Interacción con Kevin:** la contaminación se debilitó temporalmente alrededor de Kevin. Ivara pudo acercarse sin que el deterioro habitual se produjera de inmediato. El mecanismo, alcance y duración siguen sin comprenderse.
+- **Defensa planetaria:** la Médula atacó a ambos y atravesó el costado de Ivara. Al intentar liberar a la mujer de una estructura defensiva, Kevin enfocó su intención en que la soltara. El poder cortó una conexión principal y abrió una ruta secundaria para la contaminación.
+- **Respuesta mundial:** comunidades de Ordal, Neth y Ura cortaron conexiones, protegieron semillas y aislaron sus asentamientos. La Médula sacrificó parte de su red y confinó de nuevo la cuenca.
+- **Consecuencias:** Mairen sobrevivió, pero perdió una raíz principal y varias rutas secundarias que necesitarán décadas para regenerarse. La contaminación de Ivara sigue activa. No se recuperaron las civilizaciones ni especies desaparecidas.
+- **Salida de Kevin:** día 3, 18:02. Estancia total: 63 horas y 48 minutos.
+
+### Estado
+Ivara permanece en Mairen. No es inmortal ni invulnerable; la Médula la ha herido gravemente. No acompaña a Kevin porque trasladar la contaminación podría provocar otra catástrofe. La interacción entre ambos poderes es particular y no establece inmunidad universal. La Médula puede volver a reaccionar ante Kevin si regresa, pero no se sabe cómo lo reconocerá después de la ruptura de la conexión principal.
