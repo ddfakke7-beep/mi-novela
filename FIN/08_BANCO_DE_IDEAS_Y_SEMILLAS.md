@@ -322,3 +322,29 @@ No convertirla en un torneo de poder ni en una excusa para presentar una lista d
 La pregunta central no tiene que ser solo cómo escapa Kevin, sino quién decidió que debía estar allí, con qué pruebas, qué ocurre con quienes son enviados a esa realidad y si la prisión protege a los mundos o también perpetúa injusticias.
 
 **Estado:** semilla provisional, sin capítulo asignado. No está decidido quién administra la prisión, cómo funciona exactamente, si es una sola realidad o varias capas, ni si Kevin llegará allí por una captura legítima, una clasificación equivocada o una maniobra interesada.
+
+
+### Ampliación de la idea 10: la captura, el caos interno y la expulsión fallida
+
+La llegada de Kevin a la realidad-prisión puede ocurrir después de un episodio en otro mundo. Kevin pudo haber salvado una civilización o haber causado una devastación; una fuerza que presencia sus acciones lo considera una amenaza y lo captura, o reúne pruebas y envía un informe a una autoridad superior. Los altos mandos reciben información incompleta y clasifican erróneamente su naturaleza: concluyen que Kevin es un destructor cuya única función o intención es destruir, sin comprender la diferencia entre su capacidad, sus efectos y sus decisiones.
+
+La orden de traslado puede ser una medida de seguridad que quienes la autorizan consideran razonable. No todos tienen que actuar por maldad: algunos pueden estar protegiendo mundos, otros seguir protocolos, y otros aprovechar la clasificación para quitarse de encima un problema.
+
+**La prisión no se destruye, pero sí puede sufrir daños que parecían imposibles:**
+- La realidad-prisión como estructura global no puede ser destruida por Kevin ni por los prisioneros. Su fundamento, continuidad o mecanismo esencial la mantiene existiendo.
+- Eso no vuelve indestructible cada componente interno. Kevin puede romper barreras, mecanismos, sellos secundarios, puertas, sistemas de vigilancia, regiones de contención y estructuras que los administradores consideraban impenetrables.
+- Sus manifestaciones pueden sacudir los cimientos, alterar sectores enteros y provocar fallos en sistemas que llevaban eras funcionando.
+- El daño puede liberar o poner en movimiento a otros prisioneros, permitir rebeliones, romper acuerdos territoriales y desatar conflictos que la administración mantenía contenidos.
+- La prisión sigue en pie, pero su orden interno queda comprometido. Sus responsables deben afrontar daños, fugas, prisioneros que aprovechan la situación y defensas que ya no responden como antes.
+
+**El caos no debe convertir a Kevin automáticamente en líder o salvador de los prisioneros.** Algunos pueden aprovecharlo, otros atacarlo por miedo, otros intentar utilizarlo para escapar y otros odiarlo por poner en peligro sus territorios. Kevin puede estar concentrado en sobrevivir sin comprender la política ni la historia de ese lugar.
+
+**La expulsión y desaparición de Kevin:**
+
+Cuando los administradores comprenden que no pueden mantenerlo allí sin arriesgar la estabilidad de sectores enteros, deciden expulsarlo de la prisión. Pueden movilizar un procedimiento extraordinario, una fuerza especializada o un mecanismo que solo se utiliza en circunstancias extremas. Sin embargo, justo cuando creen que van a ejecutar la expulsión —o mientras intentan hacerlo— Kevin desaparece por un fenómeno propio de sus desplazamientos.
+
+No tiene que ser una fuga voluntaria ni una habilidad que Kevin controle. Puede ser involuntario, inesperado y sin explicación para él o para los administradores. La prisión permanece intacta, pero dañada por dentro; los prisioneros y autoridades deben lidiar con las consecuencias, y queda la incómoda pregunta de si Kevin fue expulsado, si el mecanismo de la prisión interactuó con su anomalía o si simplemente volvió a desaparecer como en otros viajes.
+
+La desaparición debe sentirse como un giro desconcertante, no como una solución que borra el caos. Kevin se va, pero las consecuencias de su estancia permanecen.
+
+**Estado:** ampliación provisional de la semilla 10. No están fijados el mundo de origen de la captura, la identidad de quienes lo denuncian, la autoridad que ordena el traslado, el mecanismo de expulsión ni la causa exacta de la desaparición.
