@@ -11,7 +11,7 @@ Este documento registra la historia narrada en orden, con títulos, acontecimien
 - El capítulo puede ser un texto largo, con muchas escenas, cambios de perspectiva, personajes, conflictos y enfrentamientos.
 - No incluir la destrucción de otro mundo en el mismo capítulo.
 - No dividir automáticamente un mundo en varios capítulos: la intención es desarrollar y cerrar la historia de ese mundo en un capítulo, aunque sea extenso.
-- Puede insinuarse la transición al siguiente mundo al final, pero su llegada narrativa y destrucción pertenecen al capítulo siguiente.
+- Puede insinuarse la transición al siguiente mundo al final, pero su llegada narrativa y el desenlace de ese mundo pertenecen al capítulo siguiente.
 - Un capítulo se considera completo cuando el desenlace de la crisis inmediata y sus consecuencias principales quedan claros, incluso si el mundo sobrevive y mantiene conflictos abiertos.
 
 ## 3. Criterios de registro
@@ -34,11 +34,15 @@ El capítulo 1 ya está escrito y guardado en FIN/CAPITULOS/01_VEYRA_EL_MUNDO_QU
 
 | N.º | Título | Mundo | Estado |
 |---|---|---|---|
-| 1 | Veyra, el mundo que sostenía el cielo | Veyra | Completo |\n| 2 | Cangyuan, el mundo de las diez mil sectas | Cangyuan | Completo |
+| 1 | Veyra, el mundo que sostenía el cielo | Veyra | Completo |
+| 2 | Cangyuan, el mundo de las diez mil sectas | Cangyuan | Completo |
 | 3 | Ithrak, el mundo que no retrocedió | Ithrak | Completo |
 | 4 | Orthea, el mundo que aprendió a escuchar | Orthea | Completo |
 | 5 | Namar, el mundo que decidió resistir | Namar | Completo |
 | 6 | Ilyr, el mundo que dormía bajo sus raíces | Ilyr | Completo |
+| 7 | Orveth, el mundo donde cazaban los dioses | Orveth | Completo |
+| 8 | Naereth, el reino que encerró la noche | Naereth | Completo |
+| 9 | Nharos, el mundo que no podía morir | Nharos | Completo |
 
 ## 5. Desarrollo y responsabilidad creativa
 
