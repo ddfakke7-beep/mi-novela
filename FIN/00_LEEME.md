@@ -1,7 +1,7 @@
 # FIN — Guía principal del proyecto
 
 **Tipo:** ficción · multiverso · destrucción · desesperación · batallas épicas  
-**Estado:** narración en curso; nueve capítulos completos.  
+**Estado:** narración en curso; diez capítulos completos.  
 **Ubicación:** carpeta `FIN/` en el repositorio `mi-novela`.
 
 ## Identidad e independencia
@@ -185,3 +185,10 @@ Las grandes potencias no deben concentrarse todas alrededor de Kevin ni reunirse
 La amenaza de Kevin puede afectar a una parte del mundo, a varias regiones o a toda la realidad, según lo que suceda. No es obligatorio que todas las potencias intervengan, que todo el planeta quede destruido ni que el mundo fracase. Algunos pueden contenerlo, expulsarlo, engañarlo, utilizarlo, encerrarlo o conseguir una victoria parcial. La magnitud de la respuesta debe corresponder a la magnitud real de la amenaza.
 
 Nharos, capítulo 9, permanece exactamente como fue narrado: una crisis concentrada alrededor de la prisión de Akh-Mor que afectó a sus dominios, pero no mostró suficientemente la amplitud y diversidad planetaria. No añadirle retrospectivamente continentes, guerras o personajes. Esta observación sirve como corrección de construcción para los siguientes mundos, no como cambio de los hechos del capítulo.
+
+
+## Estado actualizado tras el capítulo 10
+
+FIN cuenta con diez capítulos completos. El capítulo 10 transcurre en Taurak, un mundo de nueve grandes rutas migratorias, estirpes dracónicas y civilizaciones distribuidas entre continentes, océanos y regiones subterráneas. Taurak no colapsó: sus habitantes consiguieron expulsar deliberadamente a Kevin mediante un mecanismo local que exigió cooperación entre regiones y sacrificios irreversibles.
+
+Kevin desapareció de Taurak el día 4 a las 16:12, después de una estancia de 78 horas y 30 minutos. No eligió el destino ni sabe adónde fue enviado. Khevar sigue desaparecido, Vaeruun sobrevivió debilitada y el Primer Aliento continúa dormido.
