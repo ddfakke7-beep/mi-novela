@@ -242,3 +242,15 @@ Al cierre del capítulo 8, Kevin no ha muerto en escena, no ha sido decapitado y
 - Avar desapareció al fijar el nombre de Oruun en la Cámara de los Nombres. Oruun fue arrojado al quinto cielo y quedó inmovilizado entre las ruinas de la columna de Urd-Vaal. No se confirmó la muerte de ninguno.
 - Kevin comprendió que existen seres extraordinarios que no dependen de él y que pueden tener poder comparable, experiencia y objetivos propios. No aprendió cómo funciona la cosmología ni qué existe más allá de la frontera superior.
 - Kevin no murió ni se regeneró en este capítulo. No se estableció relación entre la Cámara de los Nombres, Avar, Oruun y el mecanismo de sus traslados.
+
+## Experiencia confirmada al cierre del capítulo 15 — Serekh
+
+- Kevin llegó a Serekh el día 1 a las 06:32 y desapareció el día 4 a las 14:02. Su estancia duró 79 horas y 30 minutos.
+- Serekh ya estaba destruido antes de su llegada. Kevin no encontró habitantes vivos ni confirmó que quedaran supervivientes.
+- Fue perseguido por varias clases de criaturas coordinadas: cazadores subterráneos, cazadores de señal, sembradores acorazados, alados de señal, bestias de cuchillas y custodios de garganta.
+- **Murió físicamente tres veces:** el día 1 a las 17:03, aplastado por un sembrador acorazado; el día 2 a las 08:17, estrangulado por un cazador; y el día 3 a las 11:50, aplastado durante el descenso hacia el núcleo. Sus regeneraciones duraron aproximadamente cuatro horas, cinco horas y veintinueve minutos y cinco horas y cuarenta y dos minutos, respectivamente. Permaneció completamente incapacitado durante cada intervalo.
+- Comprendió que huir y esconderse no bastaba porque las criaturas podían rastrearlo, marcar su posición y cerrar sus rutas. Decidió buscar la fuente de los cazadores.
+- Los registros mostraron que la estructura central de Serekh había sido una defensa planetaria conectada a siete regiones. Después de que sus conexiones se apagaran, continuó produciendo criaturas y atacando cualquier señal de vida.
+- Kevin destruyó el núcleo mediante varias manifestaciones destructivas. No consiguió control preciso ni comprendió cómo había producido el efecto.
+- Vio registros de una figura humanoide que llegó a la estructura central antes de la desaparición de las ciudades y se marchó después. Kevin no conoce su identidad, propósito ni naturaleza. No sabe si esa figura viaja entre mundos ni si guarda relación con él.
+- La experiencia no le enseñó a controlar su poder de forma fiable. Sí confirmó que puede verse obligado a combatir para detener una amenaza que no deja de perseguirlo y que la regeneración no elimina el dolor ni el tiempo que permanece muerto.
