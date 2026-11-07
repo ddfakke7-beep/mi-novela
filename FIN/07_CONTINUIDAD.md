@@ -4,9 +4,9 @@
 
 **Fase:** narración en curso.  
 **Canon fundacional:** establecido.  
-**Capítulos completos:** 17.  
-**Mundos visitados:** Veyra, Cangyuan, Ithrak, Orthea, Namar, Ilyr, Orveth, Naereth, Nharos, Taurak, Yunluo, Vael Taar, Ithara, Tiravel, Serekh, Talmera y Nereth. Ocho civilizaciones colapsaron en los primeros once capítulos; Nharos, Taurak, Yunluo, Vael Taar, Ithara, Tiravel, Talmera y Nereth sobrevivieron a sus respectivas crisis. Serekh ya estaba destruido antes de la llegada de Kevin.  
-**Último acontecimiento:** Kevin dejó Nereth el día 4 a las 20:07. La Campana de Oru fue destruida, la corriente funeraria volvió a fluir y Nereth sobrevivió. Kevin eligió intervenir al comprender que los ecos retenidos estaban ocupando cuerpos vivos.
+**Capítulos completos:** 19.  
+**Mundos visitados:** Veyra, Cangyuan, Ithrak, Orthea, Namar, Ilyr, Orveth, Naereth, Nharos, Taurak, Yunluo, Vael Taar, Ithara, Tiravel, Serekh, Talmera, Nereth, Odrava y Mairen. Ocho civilizaciones colapsaron en los primeros once capítulos; Nharos, Taurak, Yunluo, Vael Taar, Ithara, Tiravel, Talmera, Nereth, Odrava y Mairen sobrevivieron a sus respectivas crisis. Serekh ya estaba destruido antes de la llegada de Kevin.  
+**Último acontecimiento:** Kevin desapareció de Mairen el día 3 a las 18:02. La Médula aisló la Cuenca de la Ceniza después de que una manifestación de Kevin cortara una conexión principal y abriera una ruta secundaria para la contaminación de Ivara. Mairen sobrevivió; Ivara permanece en el planeta.
 
 ## 2. Capítulo 1 — Veyra
 
@@ -950,10 +950,43 @@ Kevin sabe que sus manifestaciones alteraron las corrientes atmosféricas y las 
 - No se conoce el destino de todos los cazadores que cayeron durante la expedición.
 - Kevin desapareció sin despedida y los habitantes no saben si murió, fue expulsado o trasladado.
 
-## Criterio actualizado sobre la naturaleza del poder de Kevin — revisión tras los capítulos 1–18
+## Criterio actualizado sobre la naturaleza del poder de Kevin — revisión tras los capítulos 1–19
 
 La revisión conjunta de los dieciocho capítulos y de la ficha del protagonista establece una distinción definitiva: Kevin puede enfocar su intención hacia aquello que quiere que resulte afectado, pero no puede controlar el poder ni dirigir su manifestación. La fuerza actúa según su propia naturaleza destructiva, puede alcanzar conexiones y sistemas que Kevin no ve, propagarse más allá del punto inicial y producir consecuencias que él no eligió. También puede manifestarse sin decisión consciente y reaccionar ante amenazas que perciba dirigidas contra Kevin; no detecta maldad ni distingue el bien del mal.
 
 Los capítulos ya narrados contienen episodios tempranos que parecieron indicar una orientación o reducción momentánea de las manifestaciones: la secuencia de Veyra y la prueba sonora de Orthea. Se conservan como hechos narrados, pero su mecanismo quedó sin comprender y no establecieron una técnica reproducible ni control sobre el poder. No deben utilizarse como base para que Kevin aprenda a regular, dirigir o apagar la fuerza.
 
-Al cierre de Odrava, Kevin ha acumulado experiencia sobre el alcance sistémico de sus manifestaciones, sus reacciones involuntarias y el peligro de intentar intervenir. Ha tomado decisiones conscientes para actuar en varios mundos, pero todavía no puede garantizar que el poder cumpla su propósito. Su progreso futuro debe expresarse en la claridad de su intención, su iniciativa y sus decisiones, nunca en el dominio de la manifestación.
+Al cierre de Mairen, Kevin ha acumulado experiencia sobre el alcance sistémico de sus manifestaciones, sus reacciones involuntarias y el peligro de intentar intervenir. Enfocó su intención en liberar a Ivara de una estructura defensiva, pero el poder cortó una conexión mayor y abrió una ruta para la contaminación. También observó una supresión temporal e incompleta de la contaminación alrededor de su presencia, que no pudo mantener de forma intencional. Su progreso futuro debe expresarse en la claridad de su intención, su iniciativa y sus decisiones, nunca en el dominio de la manifestación.
+
+
+## Continuidad tras el capítulo 19 — Mairen
+
+### Punto exacto de reanudación
+Kevin desapareció de Mairen el día 3 a las 18:02, después de permanecer 63 horas y 48 minutos. No murió ni se regeneró. Conserva el pequeño dragón de madera que Eren le regaló en Tiravel y no se llevó objetos de Mairen. Ivara permanece en la Cuenca de la Ceniza. Kevin no sabe si volverá a verla ni conoce el origen de su condición. El siguiente mundo todavía no ha aparecido en escena.
+
+### Hechos confirmados
+- Mairen es un mundo vivo con cinco grandes masas continentales y una red orgánica planetaria llamada la Médula. Puede regenerar parte de sus estructuras, aislar regiones y construir defensas autónomas.
+- Ivara llegó ciento dieciséis años antes del capítulo 19. Su existencia está ligada a una contaminación que deteriora los procesos que sostienen la vida y se extendió por territorios, aguas, ecosistemas y redes vivas. Contribuyó al colapso de la civilización original.
+- Ivara aceptó permanecer en la Cuenca de la Ceniza y no trasladar la contaminación a otros mundos a cambio de recibir información. La civilización con la que negoció ya no mantiene comunicación activa; un archivo automático continúa entregando registros antiguos.
+- Los archivos registran seis incursiones anteriores. La Médula mató algunas amenazas, expulsó otras y mantuvo al menos una encerrada. No todas eran seres conscientes ni compartían naturaleza.
+- La Médula atacó a Kevin e Ivara. Atravesó el costado de Ivara y atrapó a Kevin. La fuerza de Kevin reaccionó autónomamente y dañó parte de las estructuras.
+- La contaminación se debilitó temporalmente alrededor de Kevin. Ivara pudo acercarse sin deteriorar de inmediato muestras vivas. Kevin intentó mantener el efecto de forma intencional, pero no pudo garantizarlo. No se estableció inmunidad universal ni una cura.
+- Kevin enfocó su intención en que una estructura soltara a Ivara. El poder cortó la conexión principal del nodo defensivo y abrió una ruta secundaria para la contaminación. La Médula sacrificó parte de su red y aisló de nuevo la cuenca.
+- Comunidades de Ordal, Neth y Ura tomaron decisiones propias: cortaron conexiones, protegieron semillas y aislaron asentamientos. Mairen sobrevivió, pero perdió una raíz principal y varias rutas que tardarán décadas en reconstruirse.
+- Ivara permanece en Mairen, herida en el costado. No acompaña a Kevin porque trasladar la contaminación podría provocar otra catástrofe.
+
+### Lo que Kevin sabe al salir
+Kevin sabe que Ivara es otro ser cuya existencia puede devastar un mundo sin que ese sea necesariamente su propósito. Sabe que Mairen ha enfrentado otras incursiones y que la Médula ha logrado matar, expulsar o contener amenazas anteriores. También vio que la Médula pudo herir gravemente a Ivara y sacrificar regiones para proteger el resto del planeta.
+
+Kevin observó que su presencia debilitaba temporalmente la contaminación de Ivara, pero no sabe por qué ni cuánto podría durar. No pudo mantener el efecto a voluntad. Cuando quiso liberar a Ivara de una estructura defensiva, el poder cortó una conexión mucho mayor y permitió que la contaminación se extendiera por una ruta secundaria. No obtuvo control sobre la manifestación.
+
+### Cabos abiertos
+- La contaminación de Ivara sigue activa en la Cuenca de la Ceniza.
+- La Médula aisló la región y comenzó a reconstruir las conexiones dañadas, pero una raíz principal necesitará décadas para regenerarse.
+- Algunas comunidades de Ordal, Neth y Ura quedaron aisladas o perdieron rutas y recursos durante el cierre.
+- No se conoce el estado actual de todos los asentamientos supervivientes ni si quedan comunidades activas en Varda.
+- El archivo de información sigue funcionando de manera automática, aunque solo entrega registros antiguos.
+- Ivara permanece en Mairen y no ha decidido abandonar el planeta.
+- La interacción entre Kevin y la contaminación de Ivara fue particular y no establece inmunidad universal.
+- Las seis incursiones anteriores no están identificadas por completo. Sus orígenes y destinos permanecen desconocidos.
+- La Médula puede volver a reaccionar ante Kevin si regresa, pero no se sabe cómo lo reconocerá después de la ruptura de la conexión principal.
