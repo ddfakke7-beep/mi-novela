@@ -871,3 +871,45 @@ Los personajes relevantes no deben aparecer todos en el mismo lugar ni existir �
 - **Mundo y capítulo:** Yunluo, capítulo 11.
 - **Naturaleza:** corriente primordial encerrada bajo la Montaña Hueca, capaz de devorar las venas espirituales.
 - **Estado:** parcialmente liberada y extendida por las venas principales de Yunluo. Su voluntad, límites y destino final siguen sin comprenderse.
+
+
+## Personajes de Vael Taar — capítulo 12
+
+### Avar Keth
+- **Origen:** quinto cielo de Vael Taar; nació mortal en una familia de artesanos.
+- **Método de poder:** desarrolló sus capacidades durante decenas de miles de años mediante práctica, técnicas propias, lectura y modificación de corrientes, división de conciencia y reconstrucciones corporales. No heredó su poder ni recibió una bendición conocida.
+- **Personalidad y objetivo:** disciplinado, persistente y ambicioso. Buscaba alcanzar el cielo superior, pero consideraba inaceptable que Oruun abriera la frontera arrastrando a los cinco cielos.
+- **Capacidades mostradas:** controlar corrientes, fijar estructuras espaciales, dividir su cuerpo y conciencia, cerrar puertas y fijar nombres en la Cámara.
+- **Destino:** desapareció durante el cierre de la Cámara de los Nombres. No se confirmó su muerte.
+
+### Oruun
+- **Naturaleza:** entidad anterior a los registros actuales de Vael Taar, según sus propias afirmaciones.
+- **Objetivo:** escapar de Vael Taar. Llevaba nueve siglos intentando abrir la frontera superior y no le importaban las consecuencias para los habitantes.
+- **Capacidades mostradas:** abrir puertas entre lugares y fronteras, alterar nombres y atravesar los estratos. Su fuerza y naturaleza no se comparan de forma simple con las de Avar.
+- **Destino:** fue arrojado al quinto cielo y quedó inmovilizado entre las ruinas de la columna central de Urd-Vaal. No se confirmó su muerte.
+
+### Nara de los Jardines de Lumbre
+- **Pueblo:** habitante de los Jardines de Lumbre.
+- **Función:** encontró a Kevin, le explicó las marcas de tránsito y lo acompañó durante parte de su estancia.
+- **Destino:** sobrevivió. No conoce el origen de Kevin ni el mecanismo de sus viajes.
+
+### Eshra Dhal
+- **Cargo:** reina de los Varkai de Urd-Vaal, quinto cielo.
+- **Decisiones:** ordenó abrir las galerías antiguas y evacuó a una parte de la población, aceptando que no podía salvar a todos.
+- **Destino:** sobrevivió. Debe reorganizar su ciudad sin la columna central.
+
+### Tessa
+- **Pueblo:** caravanera de las Llanuras de Hueso, cuarto cielo.
+- **Función:** evacuó junto a su hijo y otros desplazados.
+- **Destino:** sobrevivió; perdió su ruta y su hogar.
+
+### Antiguos aliados de Avar
+- **Mujer de vidrio:** combatió desde el tercer cielo; perdió las alas y ayudó a cerrar la frontera.
+- **Hombre sin sombra:** quedó atrapado durante la crisis y sacrificó su reflejo para fijar la frontera.
+- **Criatura de agua:** dividió su cuerpo entre los mares del segundo y cuarto cielo para sostenerlos.
+- **Niño de hierro:** participó en el cierre de la Cámara; su máscara quedó partida.
+- **Destino conjunto:** sobrevivieron a la operación final, pero sus condiciones y paraderos posteriores no están confirmados.
+
+### Niña vendada de los Jardines
+- **Función:** cayó de una pasarela y fue salvada por Kevin.
+- **Destino:** sobrevivió. Después de la desaparición de Avar dijo escuchar a alguien caminar; no se conoce la causa.
