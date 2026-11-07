@@ -51,6 +51,7 @@ El capítulo 1 ya está escrito y guardado en FIN/CAPITULOS/01_VEYRA_EL_MUNDO_QU
 | 15 | Serekh, el mundo que seguía fabricando la muerte | Serekh | Completo |
 | 16 | Talmera, el mundo que aprendió a ser héroe | Talmera | Completo |
 | 17 | Nereth, el mundo que no dejaba ir a sus muertos | Nereth | Completo |
+| 18 | Odrava, el mundo que seguía a las estaciones | Odrava | Completo |
 
 ## 5. Desarrollo y responsabilidad creativa
 
@@ -372,3 +373,15 @@ No se exige mostrar todos los territorios ni introducir escenas remotas por obli
 - **Balance provisional:** 12.600 muertos confirmados, 8.300 desaparecidos, 31.000 heridos y 214.000 evacuados o desplazados. Las cifras son provisionales y las categorías pueden solaparse.
 - **Estado de Kevin:** no murió ni se regeneró. Vio que su poder podía alterar sistemas atmosféricos y rutas migratorias completas, pero no comprendió ni controló esos efectos. No conoció a otros viajeros, al restaurador ni a una organización multiversal.
 - **Estado:** capítulo completo, guardado en Markdown.
+
+## 26. Capítulo 18 — Odrava
+
+- **Mundo:** Odrava, cuatro grandes regiones continentales conectadas por un océano interior; las migraciones atmosféricas de los vaur sostienen parte del sistema estacional.
+- **Cronología:** Kevin llegó el día 1 a las 04:52 y desapareció el día 4 a las 18:31. Estancia total: 85 horas y 39 minutos.
+- **Crisis:** una grieta en las corrientes altas interrumpía las rutas migratorias y amenazaba el equilibrio estacional de las cuatro regiones. Darem Khol intentó capturar a Aruva para extraer su núcleo y sostener el abastecimiento de Suth.
+- **Hechos de Kevin:** sus manifestaciones alteraron la continuidad de la criatura sobre la que apareció y después las corrientes atmosféricas, las rutas del Nudo y la distribución de humedad. Algunos efectos hicieron retroceder la grieta o abrieron una ruta nueva; otros provocaron inundaciones, pérdidas y daños regionales. Kevin no obtuvo control fiable ni comprendió cómo produjo esos efectos.
+- **Respuesta local:** Ilyra, Orvek, Rovan, Esh, Meyra, Thoren y habitantes de las cuatro regiones actuaron por sus propios medios. Thoren murió sosteniendo la defensa del faro; Darem sobrevivió y perdió su autoridad. Aruva sobrevivió, pero perdió su función como guía de la ruta occidental.
+- **Resultado:** Odrava sobrevivió. El Nudo de las Siete Rutas quedó dividido y las migraciones cambiaron de forma permanente. La grieta dejó de expandirse, pero sigue presente.
+- **Balance provisional:** 12.600 muertos confirmados, 8.300 desaparecidos, 31.000 heridos y 214.000 evacuados o desplazados. Las categorías pueden solaparse.
+- **Salida:** Kevin desapareció sin que los habitantes supieran si había muerto, sido expulsado o trasladado. No hubo despedida ni conocimiento local automático del mecanismo de viaje.
+- **Archivo:** `FIN/CAPITULOS/18_ODRAVA_EL_MUNDO_QUE_SEGUIA_A_LAS_ESTACIONES.md`.
