@@ -1,7 +1,7 @@
 # FIN — Guía principal del proyecto
 
 **Tipo:** ficción · multiverso · destrucción · desesperación · batallas épicas  
-**Estado:** narración en curso; catorce capítulos completos.  
+**Estado:** narración en curso; quince capítulos completos.  
 **Ubicación:** carpeta `FIN/` en el repositorio `mi-novela`.
 
 ## Identidad e independencia
@@ -69,6 +69,7 @@ Cuando el usuario diga **«continuar FIN»**:
 
 1. Leer este documento y los documentos vigentes de FIN.
 2. Consultar especialmente `07_CONTINUIDAD.md` para localizar el punto exacto de reanudación.
+3. Revisar `08_BANCO_DE_IDEAS_Y_SEMILLAS.md` para recuperar propuestas y semillas que puedan encajar. No forzar su uso ni tratarlas como hechos ya ocurridos.
 3. Revisar las reglas de `01_PREMISA_Y_REGLAS.md`, el enfoque de `02_ESTILO_NARRATIVO.md` y el estado del protagonista en `03_PROTAGONISTA.md`.
 4. Comprobar en `04_MUNDOS.md` y `05_PERSONAJES.md` los datos ya establecidos para evitar contradicciones.
 5. Continuar desde el último acontecimiento confirmado, sin reiniciar ni saltarse hechos.
@@ -105,6 +106,7 @@ Si dos documentos se contradicen, resolverlo respetando los hechos narrados y la
 - `05_PERSONAJES.md`: personajes, facciones y figuras relevantes.
 - `06_CAPITULOS.md`: índice y registro de la historia narrada.
 - `07_CONTINUIDAD.md`: último acontecimiento y punto exacto para continuar.
+- `08_BANCO_DE_IDEAS_Y_SEMILLAS.md`: propuestas narrativas reservadas, posibilidades futuras y criterios para conservar la variedad. Sus contenidos no son canon hasta que se narren.
 
 ## Estado inicial
 
