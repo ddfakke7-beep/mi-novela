@@ -191,3 +191,16 @@ Kevin puede conocer personajes que sobreviven a sus mundos, viajeros, inmortales
 ### Hechos no añadidos al pasado
 
 Al cierre del capítulo 8, Kevin no ha muerto en escena, no ha sido decapitado y no ha vivido todavía una expulsión deliberada hacia una trampa o un plano infernal/caótico. Tampoco se ha establecido que haya tenido un acompañante recurrente ni que haya conocido a un viajero multiversal. Estas son posibilidades futuras, no recuerdos ni hechos de su experiencia confirmada.
+
+
+## Experiencia confirmada al cierre del capítulo 9 — Nharos
+
+- Kevin llegó a Nharos el día 1 a las 18:12 y desapareció el día 4 a las 14:06. Su estancia duró 91 horas y 54 minutos.
+- Nharos es un mundo infernal de siete dominios, con guerras recurrentes, fortalezas suspendidas, minas, criaturas y pactos ligados a la muerte. La violencia forma parte de la vida local, pero sus habitantes tienen vidas, relaciones y objetivos distintos.
+- Kevin fue manipulado y sometido a pruebas por Sarith y Othrek, quienes querían utilizarlo para alterar la prisión de Akh-Mor. Veyrahn también quiso aprovechar su presencia. Maraith intentó impedir que lo utilizaran.
+- **Kevin murió físicamente por primera vez en escena** el día 3 a las 02:00, aplastado bajo el derrumbe de la cámara. No respiraba ni tenía pulso. Permaneció completamente inconsciente e incapaz de actuar durante la regeneración.
+- Su cuerpo se reconstruyó durante aproximadamente tres horas. Abrió los ojos alrededor de las 05:10. Sarith y varios guardianes presenciaron la muerte y el regreso. Kevin no tuvo conciencia durante el intervalo y no sabe cómo funciona el proceso.
+- La regeneración no provocó por sí misma una manifestación destructiva. Después de volver, Kevin intentó contener una manifestación bajo presión, pero no obtuvo control fiable; la fuerza rompió anclajes y dañó la prisión.
+- Kevin oyó a Akh-Mor hablar de una frontera que la prisión también mantenía cerrada. Vio símbolos desconocidos y una cicatriz oscura parcialmente abierta. No sabe qué hay al otro lado ni qué relación tiene con sus traslados.
+- Nharos no colapsó. Sus siete dominios siguen existiendo, aunque la prisión perdió cuatro anclajes, tres fortalezas suspendidas cayeron y varias minas y asentamientos quedaron dañados o evacuados.
+- Kevin no obtuvo una técnica nueva ni control estable. La experiencia confirmó que puede morir durante un intervalo y que su regeneración no lo libera automáticamente de una situación ni evita que otros aprovechen su incapacidad.
