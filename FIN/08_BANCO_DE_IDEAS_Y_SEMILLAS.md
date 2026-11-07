@@ -253,3 +253,24 @@ Kevin podría llegar cuando una parte de los sellos se rompe o cuando las faccio
 ## Criterio de uso
 
 Este banco es una reserva flexible, no una escaleta obligatoria. Antes de cada nuevo capítulo, el autor puede revisar estas semillas y escoger una, combinar elementos compatibles o dejarlas reposar. Si una idea cambia durante su desarrollo, actualizar este documento para conservar la versión más reciente sin convertirla retroactivamente en canon.
+
+
+### Ampliación de la idea 9: qué clase de ser está encerrado
+
+La prisión del dios no debe caer en el cliché de una entidad absoluta que solo quiere descansar y cuya liberación destruye automáticamente el mundo. La identidad, naturaleza y motivo del encierro deben ser más particulares y, si conviene, radicalmente extraños.
+
+**Posibles naturalezas, no versiones definitivas:**
+- **Una existencia incompatible:** no fue encerrado por las atrocidades que cometió, sino porque su mera presencia altera o rechaza las condiciones que permiten existir a otros seres. Podría manifestarse como una especie de «lava oscura» de la realidad: algo que se extiende, contamina, desplaza o deshace las reglas de lo que toca. La comparación es una referencia de sensación, no una copia de otra obra.
+- **Un peligro que no comprende su propio efecto:** puede tener conciencia, deseos y personalidad, pero no controlar lo que su existencia provoca. Quizá no quiera matar a nadie y, aun así, acercarse a él sea letal o transforme todo a su alrededor.
+- **Un ser traicionado por los suyos:** su raza, clan, especie o civilización pudo encerrarlo por miedo, conveniencia, ambición o para apropiarse de algo que llevaba consigo. La traición no lo convierte automáticamente en inocente: puede haber razones legítimas para temerlo, versiones enfrentadas de la historia o hechos que él mismo oculta.
+- **Alguien que se mantiene oculto para proteger lo que fue suyo:** podría tener la oportunidad de regresar con su pueblo, pero evitarlo porque su proximidad los pondría en peligro. El vínculo que conserva con ellos puede ser afecto, culpa, responsabilidad, posesividad o una mezcla incómoda.
+- **Un portador o contenedor:** quizá el ser no sea el origen del peligro, sino que guarda, transporta o mantiene dormido un artefacto, sustancia, entidad o fenómeno que forma parte de algo mucho mayor. Liberarlo podría revelar que la prisión también cumplía otra función.
+- **Una catástrofe consciente:** puede que no encaje del todo en la categoría de persona, dios o criatura. Tal vez sea una fuerza que ha desarrollado voluntad, memoria o identidad, y las civilizaciones antiguas tuvieron que tratar con ella como si fuera un individuo.
+
+**La prisión puede tener más de una explicación.** Quizá fue construida para proteger al mundo del prisionero, para proteger al prisionero de su propia naturaleza, para impedir que otros lo usaran o para mantener encerrado algo que depende de él. Incluso quienes lo sellaron pueden haber tenido motivos distintos y contradictorios. No asumir que el relato oficial de la prisión es verdadero.
+
+**Relación con Kevin:** una manifestación de Kevin podría debilitar el sello sin liberarlo por completo. El ser podría beneficiarse de permanecer cerca de él, recuperar gradualmente movilidad o capacidades, o encontrar en Kevin una anomalía que su prisión no puede neutralizar. Si acaba viajando con Kevin, la cercanía debe tener una lógica concreta y límites; no basta con que «se meta en su sombra» porque sí. El ser conserva voluntad y objetivos propios, y su presencia puede ser tanto una ayuda como un riesgo.
+
+**Escala y resistencia del mundo:** que una entidad sea llamada dios, destructor o amenaza mundial no significa que el mundo sea débil ni que nadie pueda oponérsele. Puede haber héroes, cultivadores, guardianes, especies antiguas, campeones, armas, órdenes o seres locales capaces de matar viajeros poderosos, expulsarlos a otras realidades o contener amenazas que llegan de fuera. Algunos mundos han sobrevivido precisamente porque desarrollaron defensas contra seres como estos. No existe una escala universal que garantice que Kevin o el prisionero estén por encima de los habitantes de cada mundo.
+
+**Estado:** ampliación provisional de la semilla 9. Ninguna de estas naturalezas queda elegida como canon. Evitar que el prisionero sea simplemente «el ser más poderoso» o que su liberación tenga como único resultado la destrucción automática del mundo.
