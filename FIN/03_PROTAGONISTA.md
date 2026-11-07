@@ -44,7 +44,7 @@ No convertirlo automáticamente en alguien frío, cruel, arrogante, indiferente,
 ### Confirmado
 
 - Posee un poder de escala monstruosa, ridículamente destructivo.
-- Al principio no comprende plenamente su alcance ni sabe utilizarlo de manera controlada.
+- No comprende plenamente su alcance. Por la naturaleza del fenómeno, nunca podrá utilizarlo de manera controlada.
 - Sus llegadas y acciones pueden desencadenar catástrofes desproporcionadas.
 - Aprenderá gradualmente a reconocer algunos patrones y a enfocar mejor su intención hacia un objetivo o propósito. Eso no le permite dirigir el funcionamiento del poder: nunca podrá controlarlo.
 - Los enfrentamientos con los seres más poderosos de cada mundo pueden obligarlo a luchar para sobrevivir y acelerar ese aprendizaje.
@@ -57,14 +57,14 @@ No convertirlo automáticamente en alguien frío, cruel, arrogante, indiferente,
 - El progreso debe ser visible y gradual: reconocer patrones parciales, identificar mejor qué quiere afectar, decidir cuándo actuar y asumir que el resultado puede exceder o contradecir su propósito. Una coincidencia entre intención y resultado no demuestra obediencia del poder ni garantiza que Kevin pueda repetirlo.
 - Enfocar su intención no significa que pueda dirigir la manifestación, regular su alcance o detenerla a voluntad; tampoco implica que comprenda su origen.
 - No fijar de antemano límites, costes, técnicas o explicaciones definitivas que todavía no hayan aparecido en la narración.
-- Su capacidad destructiva puede superar ampliamente su habilidad inicial para controlarla.
+- Su capacidad destructiva es enorme y su funcionamiento nunca está bajo su control; la experiencia no elimina esa condición.
 
 ### No establecido
 
 - Fuente u origen del poder.
 - Naturaleza exacta y funcionamiento.
 - Límites, condiciones y posibles costes.
-- Si existe un control perfecto o un techo definitivo.
+- Los límites, condiciones y posibles costes definitivos del fenómeno.
 - Relación entre el poder y los viajes.
 
 ## 5. Conocimiento y percepción
