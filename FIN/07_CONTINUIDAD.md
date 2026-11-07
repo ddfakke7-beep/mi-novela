@@ -656,3 +656,37 @@ La cosmología puede contener mundos superiores, intermedios e inferiores, plano
 Los seres poderosos pueden tener objetivos independientes de Kevin: escapar de su mundo, ascender, descender, exterminar una civilización, conquistar, preservar una prisión o perseguir proyectos iniciados eras antes. Sus conflictos deben continuar teniendo sentido sin la presencia de Kevin. No convertir cada capítulo en una escalada de enemigos más fuertes; la variedad también debe estar en los objetivos, los métodos, la experiencia y las consecuencias.
 
 **Hecho narrado en el capítulo 12:** Vael Taar tiene cinco cielos; Avar Keth construyó su poder mediante decenas de miles de años de práctica; Oruun llevaba nueve siglos intentando escapar. Ninguno fue confirmado muerto. Estos hechos no revelan el origen del poder de Kevin ni el mecanismo de sus viajes.
+
+## 21. Capítulo 13 — Ithara
+
+**Archivo:** `FIN/CAPITULOS/13_ITHARA_EL_MUNDO_QUE_SE_ESTABA_MUDANDO.md`.
+
+- **Llegada:** día 1, 04:18, una costilla exterior del Cinturón de Muda.
+- **Salida:** día 3, 22:11.
+- **Duración total:** 65 horas y 53 minutos.
+- **Resultado:** Ithara sobrevivió. El corte de la placa de Namar fue detenido, pero la infección no fue eliminada y el Nudo de la Primera Piel perdió parte de su memoria.
+- **Mundo:** realidad biológica de escala planetaria con cuatro grandes masas continentales, mares de savia, océanos salinos, regiones de tejido mineral y caminantes colosales que transportan ecosistemas y ciudades. La red viva conecta tejidos, rutas y recuerdos de mudas anteriores.
+- **Conflicto previo:** una infección aprendió a imitar las raíces y consumir la memoria de la red. La Madre de las Mandíbulas quería cortar la placa de Namar para proteger el resto de Ithara. El Pastor de los Lugares Perdidos buscaba separar la infección utilizando la anomalía de Kevin.
+- **Detección de Kevin:** la Madre y el Pastor percibieron que Kevin no pertenecía a la red. Ninguno pudo clasificarlo ni medir sus límites. La Madre lo consideró una amenaza que debía aislarse; el Pastor lo consideró una posible herramienta para separar la infección.
+- **Manifestación inicial:** al tocar a Marek, Kevin abrió una ausencia en la zona olvidada. La ausencia no distinguió entre tejido sano e infectado.
+- **Manipulación:** el Pastor condujo a Kevin al Nudo de la Primera Piel para utilizar su anomalía. Admitió que lo estaba utilizando y que no conocía el resultado. Kevin aceptó porque creyó que podía evitar el sacrificio de Namar, pero no conocía la naturaleza ni el alcance del riesgo.
+- **Manifestación decisiva:** Kevin tocó el Nudo. La infección perdió su forma de imitación y dejó de avanzar hacia el centro, pero el Nudo se fracturó y perdió recuerdos de mudas anteriores. Una parte de la infección quedó en las regiones exteriores.
+- **Consecuencias:** la ciudad caminante de Namar perdió su ruta; lagos de savia cambiaron de dirección; una caminante antigua quedó inmóvil; varias especies perdieron rutas o recuerdos. El marido de Vela continúa desaparecido; Marek perdió temporalmente el recuerdo de su familia.
+- **Balance provisional:** 6.200 muertos confirmados, 14.700 desaparecidos, 19.300 heridos y 92.000 desplazados o evacuados. Registros incompletos; categorías pueden solaparse.
+- **Personajes:** Osha sobrevivió y permanece ayudando a las comunidades; Teren sobrevivió y participa en evacuaciones; la Madre de las Mandíbulas sobrevivió herida y perdió tres mandíbulas; el Pastor sobrevivió con la máscara fracturada y perdió territorios; Vela sobrevivió con sus hijas; su marido sigue desaparecido.
+- **Estado de Kevin:** no murió ni se regeneró. Su intervención alteró el desenlace de la crisis, pero no la resolvió. No obtuvo control fiable y no conoce la estructura que respondió bajo la corteza.
+
+### Punto exacto de reanudación tras el capítulo 13
+
+Kevin desapareció de Ithara el día 3 a las 22:11. No sabe que la infección sigue activa en las regiones exteriores, que el Nudo perdió recuerdos ni que una estructura desconocida respondió bajo la corteza. No conoce el destino de Vela ni sabe si su marido será encontrado. El próximo mundo todavía no ha aparecido en escena.
+
+### Continuidad abierta de Ithara
+
+- La infección de memoria sigue activa en regiones exteriores y en territorios que el Nudo ya no recuerda.
+- El Nudo de la Primera Piel perdió parte de sus recuerdos de mudas anteriores. Se desconoce qué rutas, especies o acontecimientos dejará de reconocer.
+- La Madre de las Mandíbulas y el Pastor de los Lugares Perdidos deberán decidir cómo contener la infección sin destruir las regiones habitadas.
+- La ciudad caminante de Namar tendrá que encontrar una ruta alternativa y sostener a sus habitantes durante el desvío.
+- Vela continúa buscando a su marido, desaparecido durante la inclinación de Namar.
+- Marek puede haber perdido recuerdos que no recuperará.
+- La estructura desconocida bajo la corteza respondió después de la crisis. No se sabe si despertó, si fue activada por la infección o si reaccionó a la manifestación de Kevin.
+- Kevin abandonó Ithara sin conocer la naturaleza de esa estructura ni el destino final de la infección.
