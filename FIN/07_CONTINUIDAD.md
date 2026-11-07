@@ -4,9 +4,9 @@
 
 **Fase:** narración en curso.  
 **Canon fundacional:** establecido.  
-**Capítulos completos:** 14.  
-**Mundos visitados:** Veyra, Cangyuan, Ithrak, Orthea, Namar, Ilyr, Orveth, Naereth, Nharos, Taurak, Yunluo, Vael Taar, Ithara y Tiravel. Ocho civilizaciones colapsaron; Nharos, Taurak, Yunluo, Vael Taar, Ithara y Tiravel sobrevivieron a sus respectivas crisis.  
-**Último acontecimiento:** Kevin dejó Tiravel el día 3 a las 21:48. El mundo sobrevivió y Nhal-Kor fue destruido. Kevin ayudó a salvar las civilizaciones de los cuatro continentes.
+**Capítulos completos:** 17.  
+**Mundos visitados:** Veyra, Cangyuan, Ithrak, Orthea, Namar, Ilyr, Orveth, Naereth, Nharos, Taurak, Yunluo, Vael Taar, Ithara, Tiravel, Serekh, Talmera y Nereth. Ocho civilizaciones colapsaron en los primeros once capítulos; Nharos, Taurak, Yunluo, Vael Taar, Ithara, Tiravel, Talmera y Nereth sobrevivieron a sus respectivas crisis. Serekh ya estaba destruido antes de la llegada de Kevin.  
+**Último acontecimiento:** Kevin dejó Nereth el día 4 a las 20:07. La Campana de Oru fue destruida, la corriente funeraria volvió a fluir y Nereth sobrevivió. Kevin eligió intervenir al comprender que los ecos retenidos estaban ocupando cuerpos vivos.
 
 ## 2. Capítulo 1 — Veyra
 
@@ -854,3 +854,66 @@ Kevin desapareció de Talmera el día 3 a las 19:42. El siguiente mundo todavía
 - Vara fue detenida; no se confirmó si tenía cómplices fuera del grupo que participó en la convergencia.
 - La Liga de Tránsito deberá revisar sus protocolos y explicar por qué no impidió la operación clandestina.
 - El puesto número 6 de los Faros quedó vacante tras la muerte de Tavan Rhem.
+
+
+## 25. Capítulo 17 — Nereth
+
+### Llegada, salida y resultado
+- Kevin llegó a Nereth el día 1 a las 06:11, sobre la vela de una barca funeraria que cruzaba el Mar de Ceniza.
+- Desapareció el día 4 a las 20:07.
+- Estancia total: 85 horas y 56 minutos.
+- Nereth sobrevivió. La Campana de Oru fue destruida y la corriente funeraria volvió a conectar las cuatro regiones con el Mar Quieto. Los lúmenes retenidos se disolvieron al completar su recorrido.
+
+### Mundo y especies
+Nereth posee cuatro grandes masas continentales, un océano interior y dos mares exteriores conectados por corrientes profundas. Las distancias entre regiones pueden requerir meses de viaje. Uruun es un delta de caña mineral, canales y ciudades móviles habitado por los oru, seres de cuatro brazos y membranas acuáticas. Khar contiene cordilleras huecas y galerías de cristal habitadas por los kharad, de cuerpos pétreos y clanes de talleres. Eshai está formado por archipiélagos altos y torres naturales donde viven los seyri, seres alados que recorren las corrientes superiores. Moru comprende mares cálidos, arrecifes y ciudades de coral habitadas por los moru, seres anfibios. Los cuatro pueblos conservan autoridades, culturas y ritos propios; no comparten un gobierno ni una religión única.
+
+### Lúmenes y corriente funeraria
+Cuando un ser muere, una huella incompleta de sus últimas memorias puede reunirse en un lúmen, pequeña criatura de luz semejante a una polilla de ceniza. Los lúmenes no son almas completas ni personas que puedan regresar. La corriente funeraria los conduce al Mar Quieto, donde se disuelven.
+
+La Campana de Oru se construyó tres siglos antes para conservar los ecos durante siete noches y permitir despedidas. Con el tiempo se añadieron anillos y depósitos que retuvieron miles de lúmenes durante años o siglos. La costumbre se volvió una dependencia cultural y espiritual. La acumulación mezcló los ecos y permitió que algunos entraran en cuerpos vivos, desplazando recuerdos e identidad.
+
+### Hechos de Kevin
+- Su llegada dañó la barca funeraria que transportaba el cuerpo de Dhor, hermano de Ishra. Una polilla tocó a Kevin y provocó una manifestación que abrió una ausencia en el agua; la barca se partió y el lúmen de Dhor se dispersó.
+- Kevin abrió otro corte en una corriente de lúmenes en una llanura de sal. Los habitantes observaron que su presencia interfería con la corriente, pero no comprendieron el mecanismo.
+- Othar, custodio mayor de la Campana, abrió el anillo interior intentando dar cuerpos a los ecos retenidos. La decisión aceleró la marea y amenazó a las cuatro regiones.
+- Kevin rechazó convertirse en recipiente de los ecos. Conoció a Neris, el eco de la hija fallecida de Othar. Neris explicó que era una huella incompleta, no la persona que había sido, y pidió que la dejaran ir.
+- Kevin decidió intervenir al comprender que los ecos estaban ocupando cuerpos vivos. Una manifestación suya cortó los anillos de resonancia y destruyó la Campana. No fue un uso preciso ni controlado y Kevin no sabe cómo lo consiguió ni si podría repetirlo.
+- Veyra, criatura antigua vinculada a la corriente, abrió el cauce y condujo los lúmenes al Mar Quieto. Los ecos se disolvieron; algunas personas afectadas conservaron lagunas de memoria o perdieron fragmentos de identidad.
+- Kevin no murió ni se regeneró.
+
+### Personajes y destinos
+- **Ishra:** moru, hermana de Dhor. Al principio culpó a Kevin por arruinar la despedida; finalmente aceptó que los vivos debían conservar su identidad. Sobrevivió y guardó una piedra azul de su hermano.
+- **Dhor:** hermano de Ishra, fallecido antes de la llegada de Kevin. Su cuerpo viajaba en la barca funeraria; su eco se dispersó y no fue resucitado.
+- **Oru:** anciana navegante de las corrientes funerarias. Sobrevivió al naufragio.
+- **Khal Ordan:** maestro de las galerías de Khar. Defendió la ruta hacia el núcleo y murió durante el impacto de la figura colectiva de lúmenes. Sus aprendices conservaron su bastón y herramientas.
+- **Seyra:** seyri, guardiana de los caminos altos. Acompañó a Kevin y coordinó evacuaciones. Sobrevivió herida.
+- **Othar:** oru, custodio mayor de la Campana. Retuvo durante décadas el eco de su hija Neris y abrió el anillo interior intentando dar cuerpos a los ecos. Finalmente aceptó que Neris no era su hija y permitió la ruptura. Sobrevivió con heridas graves.
+- **Neris:** eco de la hija fallecida de Othar. Conservaba fragmentos de recuerdos y pidió que la dejaran ir. Se disolvió al regresar la corriente.
+- **Veyra:** criatura antigua vinculada al cauce y al Mar Quieto. Abrió la corriente tras la ruptura; sobrevivió herida.
+- **Veyun y Esha:** Veyun fue afectado por un eco antiguo y sobrevivió, aunque no recuperó todos sus recuerdos. Esha, su pareja, ayudó a los sanadores a separarlo del eco.
+
+### Consecuencias y balance provisional
+- 4.820 muertos confirmados.
+- 2.140 desaparecidos.
+- 17.600 heridos.
+- 68.000 evacuados temporalmente o desplazados.
+
+Los registros son provisionales y las categorías pueden solaparse. La Campana desapareció; la corriente funeraria volvió a fluir. Algunas personas conservaron lagunas de memoria o perdieron fragmentos de identidad. Los cuatro pueblos deben acordar una forma de conservar relatos y registros sin retener lúmenes. Algunas familias rechazan la destrucción de la Campana y culpan a Kevin, Othar o a los representantes que apoyaron la ruptura.
+
+### Estado de Kevin al salir
+Kevin aprendió que los lúmenes eran huellas incompletas de los muertos, no personas que pudieran regresar. Vio que conservar recuerdos puede convertirse en una forma de dañar a los vivos cuando se intenta retener lo que debe seguir su camino. Su poder reaccionó varias veces ante los lúmenes y la corriente, pero no obtuvo control ni explicación fiable. Eligió romper la Campana al comprender que su permanencia amenazaba a los vivos. No sabe si había otra solución.
+
+No conoció al restaurador de mundos, a una organización multiversal ni a otros viajeros. No sabe quién provoca sus traslados ni conoce la naturaleza profunda de la corriente funeraria.
+
+### Punto exacto de reanudación tras el capítulo 17
+Kevin desapareció de Nereth el día 4 a las 20:07. No murió ni se regeneró. Conserva el pequeño dragón de madera que Eren le regaló en Tiravel y no se llevó objetos de Nereth. No sabe si destruir la Campana era la única solución ni si quedan depósitos menores en regiones aisladas. El siguiente mundo todavía no ha aparecido en escena.
+
+### Continuidad abierta de Nereth
+- Los cuatro pueblos deben decidir cómo conservar registros y relatos sin retener lúmenes.
+- Algunas familias rechazan la destrucción de la Campana y culpan a Kevin, Othar o a los representantes que apoyaron la ruptura.
+- Othar sobrevivió y deberá afrontar su responsabilidad por haber abierto el anillo interior.
+- Veyra está herida y necesitará tiempo para recuperar sus placas y estabilizar las corrientes.
+- La muerte de Khal deja un vacío en las galerías de Khar y entre sus aprendices.
+- Veyun y otras personas afectadas conservan lagunas de memoria.
+- No se confirmó el destino de todos los ecos que entraron en cuerpos; algunos se disolvieron y otros dejaron fragmentos persistentes.
+- No se sabe si la corriente funeraria se estabilizará por completo en todas las regiones ni si quedan depósitos menores.
