@@ -172,3 +172,22 @@ No obtuvo una nueva técnica ni control fiable. Su experiencia confirmó que un 
 - La manifestación final de Kevin contribuyó a fracturar la esfera central del Oyente. No fue un acto de control fiable ni una victoria comprendida por Kevin.
 - No murió en escena ni se mostró una regeneración posterior. No comprendió qué buscaba el Oyente ni por qué podía percibirlo.
 - Su estancia duró 67 horas y 45 minutos. La civilización de Naereth colapsó 61 horas y 30 minutos después de su llegada.
+
+
+## Nueva dirección de la evolución de Kevin — defensa, manipulación y moral ajena
+
+La evolución de Kevin no consiste únicamente en aprender a controlar un poder destructivo. Puede aprender a usarlo para protegerse, atacar, escapar, resistir una contención o actuar con intención, pero ese aprendizaje será irregular y puede provocar daños enormes. Una defensa exitosa puede devastar un territorio; una manifestación que Kevin no comprende puede ser exactamente lo que otro personaje esperaba provocar. No convertir el dominio del poder en un objetivo obligatorio ni en una solución segura.
+
+Kevin puede encontrarse con personas que desean utilizarlo como arma, llave, fuente de energía, catalizador o instrumento para cumplir objetivos propios. Algunas pueden fingir ayudarlo, ocultarle información, manipular sus emociones, conducirlo a una trampa o encerrarlo. Otras pueden ser rivales abiertos, enemigos persistentes o aliados temporales. La relación no debe reducirse a confianza o enemistad inmediata: Kevin puede equivocarse al interpretar intenciones y aprender a partir de las consecuencias.
+
+La exposición a seres que consideran aceptable sacrificar ciudades o millones de vidas para alcanzar una meta puede alterar gradualmente su sentido común. Mostrar el efecto de esa convivencia en sus reacciones, decisiones, tolerancia, miedo, culpa, rabia y percepción de lo normal. Puede resistirse a esa mentalidad, acostumbrarse parcialmente, adoptar criterios ajenos o descubrir contradicciones propias. No imponer una transformación predeterminada ni volverlo cruel o indiferente de manera repentina.
+
+La muerte física y la regeneración permiten que Kevin quede fuera de combate y que otros aprovechen ese intervalo. No deben tratarse como una ventaja gratuita ni como una demostración automática de superioridad. Puede ser atrapado, sellado o transportado mientras está incapacitado; regenerarse no significa escapar de una prisión ni recuperar el control de la situación.
+
+### Continuidad y conocimiento
+
+Kevin puede conocer personajes que sobreviven a sus mundos, viajeros, inmortales, seres sellados o entidades antiguas. No todos conocen el mecanismo de los traslados ni tienen respuestas fiables. Kevin puede recibir información parcial, teorías contradictorias o engaños. Registrar qué sabe realmente, quién se lo comunicó y qué parte sigue siendo una hipótesis.
+
+### Hechos no añadidos al pasado
+
+Al cierre del capítulo 8, Kevin no ha muerto en escena, no ha sido decapitado y no ha vivido todavía una expulsión deliberada hacia una trampa o un plano infernal/caótico. Tampoco se ha establecido que haya tenido un acompañante recurrente ni que haya conocido a un viajero multiversal. Estas son posibilidades futuras, no recuerdos ni hechos de su experiencia confirmada.
