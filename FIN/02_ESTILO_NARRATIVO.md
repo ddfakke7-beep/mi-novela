@@ -522,3 +522,24 @@ Cuando la crisis lo justifique, construir acontecimientos simultáneos y frentes
 No confundir intensidad con ruido. Reservar espacio para conocer a las personas antes de ponerlas en peligro, para que el lector entienda qué se protege y qué significa perderlo. Las batallas importantes deben cambiar posiciones, recursos, relaciones u objetivos; no prolongarse con ataques intercambiables.
 
 Incluir pausas, alivio, humor, afecto, asombro o celebraciones cuando sean naturales. La esperanza no debilita la épica: permite que el lector sienta lo que está en juego. Las consecuencias positivas deben mostrarse con la misma concreción que las negativas.
+## Criterio narrativo: la desaparición de Kevin no es una despedida automática
+
+No cerrar todos los capítulos con los habitantes viendo cómo Kevin desaparece y aceptándolo con tranquilidad. El traslado es un misterio para ellos, igual que para Kevin.
+
+- Elegir quién presencia realmente la partida y quién solo descubre después que Kevin ya no está.
+- Si desaparece delante de alguien, escribir la reacción inmediata y las interpretaciones posteriores de acuerdo con lo que esa persona sabe. No hacer que deduzca automáticamente que Kevin viajó a otro mundo.
+- Una despedida requiere una circunstancia concreta: Kevin puede sospechar que se acerca su partida, decidir despedirse o tener tiempo para hacerlo, pero los habitantes no conocen por defecto ese momento.
+- Variar las salidas: desaparición abrupta, partida en mitad de una acción, ausencia descubierta más tarde, desaparición sin testigos o despedida voluntaria cuando esté justificada.
+- La información del registro cronológico no debe filtrarse al conocimiento de los personajes sin una fuente narrativa.
+
+## Criterio narrativo: hacer sentir la naturaleza aterradora del poder
+
+No describir la magnitud del poder de Kevin únicamente mediante cuerpos destruidos, criaturas muertas, edificios rotos o explosiones mayores. Esos resultados pueden aparecer, pero por sí solos transmiten una fuerza destructiva convencional.
+
+- Antes o durante una manifestación importante, establecer qué reglas, defensas, conexiones o estructuras sostienen el fenómeno local. Después mostrar qué cambia cuando el poder de Kevin entra en contacto con ellas.
+- Explorar, cuando la lógica del mundo lo permita, efectos que se extiendan por conexiones remotas, alteren sistemas completos, desorganicen fenómenos sobrenaturales o vuelvan inestables mecanismos que parecían seguros.
+- Mostrar el desconcierto desde perspectivas distintas: combatientes que no reconocen el tipo de ataque, especialistas que ven fallar sus modelos, defensores que descubren que proteger un punto no protege el resto, habitantes que perciben consecuencias lejos del lugar donde Kevin actuó.
+- La propagación no tiene que ser siempre una onda visible ni una explosión. Puede ser una alteración indirecta, una reacción en cadena, una desconexión, una pérdida de función o un cambio en las reglas locales. Cada mundo exige una expresión propia.
+- No resolver la sensación de escala con frases grandilocuentes. Construirla con causalidad legible, efectos concretos, intentos de respuesta y consecuencias que los personajes no puedan ignorar.
+- Mantener límites y resistencia reales. Kevin puede ser herido, morir, quedar contenido o descubrir que un adversario soporta, desvía o aprovecha una manifestación. Que su poder sea aterrador no significa que toda escena deba terminar con él imponiéndose.
+- Evitar que cada capítulo repita el mismo patrón de propagación. A veces el efecto será inmenso; otras, localizado o difícil de percibir hasta que aparecen sus consecuencias.
