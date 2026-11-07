@@ -249,3 +249,19 @@ No se exige mostrar todos los territorios ni introducir escenas remotas por obli
 - **Personajes y destinos:** Jin Suyin murió abriendo una salida para la evacuación; Zhao Wenyuan fue absorbido por el Río Invertido, sin restos recuperados; Han Ruo sobrevivió; Madre Qiao murió; la joven y su hermano sobrevivieron; la maestra de la Garza Roja sobrevivió sin poder cultivar; el Señor de la Cumbre Vacía sobrevivió y se retiró; el Patriarca de la Escalera tiene destino no confirmado.
 - **Estado de Kevin:** no murió ni se regeneró. No obtuvo control fiable de su poder. Comprendió que Zhao lo manipuló mediante verdades parciales y una decisión preparada, pero no sabe si la catástrofe habría podido evitarse sin su intervención.
 - **Estado:** capítulo completo, guardado en Markdown. Yunluo es el tercer mundo que sobrevive a la crisis, aunque pierde su antiguo orden de cultivo.
+
+
+## 19. Resumen del capítulo 12
+
+- **Archivo:** `FIN/CAPITULOS/12_VAEL_TAAR_LOS_CINCO_CIELOS.md`.
+- **Mundo:** Vael Taar, realidad de cinco cielos o estratos conectados, con rutas verticales, mares suspendidos, ciudades flotantes, llanuras de ceniza, caravanas y civilizaciones diferentes en cada nivel.
+- **Cronología:** Kevin llegó el día 1 a las 06:41 y desapareció el día 3 a las 18:06. Estancia total: 59 horas y 25 minutos.
+- **Conflicto anterior a Kevin:** Oruun llevaba nueve siglos intentando escapar de Vael Taar. Avar Keth lo había detenido antes. La guerra y sus consecuencias ya afectaban a los cinco cielos antes de la llegada de Kevin.
+- **Seres extraordinarios:** Avar nació mortal y construyó su poder durante decenas de miles de años mediante práctica, técnicas propias y reconstrucciones. Oruun era una entidad de naturaleza distinta que intentaba escapar. Sus capacidades eran comparables en algunos aspectos, pero no equivalentes.
+- **Kevin:** Nara lo encontró en los Jardines de Lumbre. Kevin salvó a una niña vendada y una manifestación alteró la profundidad del espacio alrededor de su brazo, hundiendo parte del jardín. No participó en el enfrentamiento entre Avar y Oruun.
+- **Batalla decisiva:** Avar fijó el nombre de Oruun en la Cámara de los Nombres y desapareció. Sus antiguos aliados cerraron la frontera y Oruun fue arrojado al quinto cielo. No se confirmó la muerte de ninguno.
+- **Resultado:** Vael Taar sobrevivió, pero perdió parte de sus estrellas y nombres del primer cielo, dos ciudades suspendidas, rutas marítimas, rutas migratorias y la columna central de Urd-Vaal. El quinto cielo evacuó parcialmente la ciudad.
+- **Personajes:** Nara, Eshra Dhal, Tessa y los antiguos aliados de Avar sobrevivieron. Oruun quedó inmovilizado en el quinto cielo; Avar desapareció.
+- **Balance provisional:** 8.400 muertos confirmados, 21.600 desaparecidos, 34.000 heridos y 173.000 desplazados o evacuados. Registros incompletos; las categorías pueden solaparse.
+- **Estado de Kevin:** no murió ni se regeneró; no obtuvo control fiable. Vio seres de escala extraordinaria con historias y objetivos propios. No conoce qué existe más allá de la frontera superior.
+- **Estado:** capítulo completo, guardado en Markdown.
