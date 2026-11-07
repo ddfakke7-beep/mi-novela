@@ -577,3 +577,13 @@ Si los habitantes conocen o sospechan que Kevin está relacionado con catástrof
 Los personajes pueden tomar decisiones impulsivas, desesperadas, vengativas o equivocadas incluso cuando conocen el riesgo. Atacar a Kevin puede ser una decisión terrible y aun así resultar comprensible para quien perdió a su familia o teme perder su mundo. No protegerlo artificialmente para prolongar la trama. Tampoco hacer que todos lo ataquen de inmediato: la respuesta debe surgir de quién sabe qué, qué ha perdido, qué recursos tiene y qué cree que ocurrirá.
 
 La cooperación con Kevin no implica confianza, perdón ni aceptación. Puede ser una tregua táctica, una utilización mutua o una decisión desesperada. Del mismo modo, la culpa de Kevin no exige que cada escena termine en disculpas; puede reconocer un daño y actuar, huir, defenderse, discutir, negarse a ayudar o tomar una decisión moralmente difícil.
+
+## 15. Mundos que se defienden de los desastres
+
+Los mundos no deben funcionar como víctimas pasivas frente a los desastres. Diseñar defensas propias de cada realidad y darles capacidad efectiva de actuar. Algunas pueden ser más antiguas que sus civilizaciones; otras pueden haber sido construidas tras incursiones anteriores. No todas deben tener éxito, pero sus intentos deben producir efectos reales.
+
+La frecuencia de las incursiones varía de mundo en mundo. En algunos lugares, la aparición de un viajero destructivo será desconocida; en otros, será una amenaza histórica que ha moldeado leyes, órdenes, defensas, educación, arquitectura o protocolos. No explicar todos esos casos mediante una misma organización multiversal ni asumir que los habitantes conocen el origen de los intrusos.
+
+Un mundo puede regenerarse por sí mismo, adaptar sus defensas, sellar territorios, sacrificar regiones para contener una amenaza o reconstruir estructuras a lo largo de años. La regeneración nunca debe ser gratuita ni equivaler a restauración perfecta. Mostrar qué se pierde, cuánto tarda, qué recursos consume y qué no puede recuperar.
+
+Los desastres pueden ser heridos, contenidos, expulsados, derrotados o asesinados. Un personaje o una estructura local puede ser capaz de matar a uno, sin que eso establezca que todos los mundos puedan hacerlo ni que todos los desastres tengan la misma vulnerabilidad. Evitar tanto la invencibilidad como la derrota fácil: cada enfrentamiento debe respetar las capacidades, preparación, límites e información de ambos lados.
