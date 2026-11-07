@@ -537,3 +537,12 @@ Los archivos registran seis incursiones anteriores. La Médula mató algunas ame
 
 ### Estado
 Ivara permanece en Mairen. No es inmortal ni invulnerable; la Médula la ha herido gravemente. No acompaña a Kevin porque trasladar la contaminación podría provocar otra catástrofe. La interacción entre ambos poderes es particular y no establece inmunidad universal. La Médula puede volver a reaccionar ante Kevin si regresa, pero no se sabe cómo lo reconocerá después de la ruptura de la conexión principal.
+
+
+## 20. Mundos que pueden resistir, expulsar o matar desastres
+
+No todos los mundos son indefensos ante los desastres. Las defensas pueden proceder de poderes individuales o colectivos, dioses, guardianes, bestias, armas, artefactos, sellos, formaciones, leyes locales, ecosistemas conscientes, sistemas planetarios o civilizaciones que llevan generaciones preparándose.
+
+La frecuencia de las incursiones varía. Algunos mundos nunca han conocido una; otros han sufrido varias y han incorporado esa experiencia a su historia, cultura, arquitectura, instituciones y protocolos. Conocer las incursiones no significa comprender el origen de cada visitante ni poder detenerlo siempre.
+
+Un mundo puede herir, contener, expulsar, derrotar o matar a un desastre. También puede fracasar y ser destruido. La regeneración planetaria puede reconstruir estructuras, adaptar defensas o aislar regiones, pero exige tiempo y recursos; no devuelve a los muertos ni recupera automáticamente especies, culturas o territorios perdidos. No existe una escala universal que determine quién vence.
