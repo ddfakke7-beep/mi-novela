@@ -205,7 +205,7 @@ Al narrar una decisión, dejar claro qué sabe el personaje y qué no. No hacer 
 
 ## 16. Esperanza, confianza y quienes creen que Kevin puede cambiar
 
-No todos los habitantes deben acercarse a Kevin para estudiarlo, detenerlo o matarlo. También puede haber personajes que crean sinceramente que todavía es posible evitar la catástrofe y que Kevin puede aprender a controlar su poder, recapacitar o utilizarlo para salvarlos.
+No todos los habitantes deben acercarse a Kevin para estudiarlo, detenerlo o matarlo. También puede haber personajes que crean sinceramente que todavía es posible evitar la catástrofe y que Kevin puede aprender a enfocar su intención hacia aquello que quiere afectar, recapacitar o intentar utilizar esa capacidad para salvarlos; algunos pueden creer equivocadamente que llegará a controlar el poder.
 
 Pueden ser niños, jóvenes, adultos, líderes, sanadores, compañeros circunstanciales o personas que hayan perdido tanto como los demás. La edad no determina por sí sola su ingenuidad ni su lucidez.
 
@@ -551,12 +551,19 @@ La presencia de Kevin introduce una variable que puede alterar incluso sistemas 
 
 El fenómeno no es aleatoriedad gratuita. Los expertos pueden observar regularidades, formular hipótesis y predecir ciertos resultados bajo condiciones concretas. Algunos acertarán y otros interpretarán mal los datos. Incluso una predicción correcta de un efecto inmediato no garantiza conocer todas sus ramificaciones. Mostrar la diferencia entre observación, cálculo parcial, hipótesis y comprensión real.
 
-## 12. Mostrar progreso práctico de Kevin sin convertirlo en alguien que controla su poder
+## 12. Mostrar el progreso de Kevin mediante la intención, no el control del poder
 
-Kevin no debe permanecer capítulo tras capítulo como alguien a quien simplemente le ocurre algo y que solo reacciona después. Su aprendizaje tiene que darle iniciativa. Puede intentar dirigir una manifestación hacia un enemigo, una barrera, una conexión o una zona; concentrarla, extenderla, desviarla, interrumpir un ataque o proteger a alguien. Puede conseguir el objetivo inmediato sin comprender ni prever todo lo que se desencadena alrededor.
+Kevin no debe permanecer capítulo tras capítulo como alguien a quien simplemente le ocurre algo y que solo reacciona después. Su aprendizaje tiene que darle iniciativa, pero no convertir el poder en una técnica. Puede decidir qué quiere que resulte afectado: un enemigo que lo ataca, una barrera que mantiene cautivas a personas, una conexión que alimenta una catástrofe, una criatura que amenaza a alguien o una estructura que considera necesario destruir.
 
-No exigir éxito constante ni una técnica formal. El progreso puede ser tosco, situacional, difícil de repetir y peligroso. Pero debe notarse que Kevin toma decisiones nuevas a partir de experiencias anteriores. No confundir orientar con controlar, controlar con comprender, ni comprender una parte con conocer el resultado completo. No reiniciar su aprendizaje en cada mundo ni mantenerlo indefinidamente como principiante absoluto.
+Esa decisión es **la intención de Kevin**, no una orden que la fuerza obedezca. Él no elige con precisión cómo se manifestará, qué alcanzará además del objetivo, cómo se propagará el efecto ni cuándo terminará. El poder actúa según su propia naturaleza. Puede alcanzar el objetivo inmediato y provocar consecuencias indirectas mucho mayores; puede interpretar de forma inesperada el propósito, afectar conexiones ocultas o no producir el resultado que Kevin esperaba.
 
+El progreso debe verse en que Kevin comprende mejor el peligro, reconoce algunos patrones, decide con más claridad qué quiere afectar y toma la iniciativa cuando considera necesario actuar. No debe describirse como alguien que concentra, extiende, desvía, regula o apaga una manifestación mediante una técnica aprendida. No existe una técnica fiable ni una curva de dominio: **Kevin nunca podrá controlar el poder**.
+
+Las manifestaciones autónomas también deben conservar su lugar. El poder puede surgir sin que Kevin lo decida, incluso cuando está dormido, distraído o intentando evitar el conflicto; también puede reaccionar por sí mismo ante una amenaza que perciba dirigida contra él. Esa reacción no equivale a detectar maldad ni a protegerlo de todo peligro.
+
+Los episodios tempranos en los que una manifestación pareció reducirse o cambiar de comportamiento deben tratarse como sucesos locales cuyo mecanismo no se comprendió, no como técnicas que Kevin aprendió y puede repetir. Los personajes pueden formular teorías o intentar entrenarlo, pero sus interpretaciones no se convierten automáticamente en verdad narrativa.
+
+No reiniciar su aprendizaje en cada mundo ni mantenerlo como alguien sin iniciativa. Tampoco transformar la intención en precisión sobrenatural, garantía de éxito o dominio encubierto.
 ## 13. Los mundos no deben depender narrativamente de Kevin
 
 Los habitantes no son un coro que espera a que Kevin resuelva su crisis. Deben actuar con sus propios medios y objetivos: organizar defensas, ganar batallas, evacuar, negociar, investigar, cometer errores, salvar regiones o fracasar sin que Kevin intervenga. Los conflictos pueden avanzar fuera de su vista y continuar después de su desaparición.
