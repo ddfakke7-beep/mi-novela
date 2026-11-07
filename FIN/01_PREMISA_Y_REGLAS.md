@@ -20,7 +20,7 @@ Su llegada y sus acciones desencadenan catástrofes que pueden acabar con la civ
 - No necesariamente tiene intención de destruir.
 - Al principio no comprende el alcance de su poder ni sabe controlarlo bien.
 - Su poder es desproporcionadamente grande y puede provocar consecuencias catastróficas incluso cuando no busca destruir.
-- A lo largo de la historia aprende a reconocer patrones parciales y a orientar voluntariamente algunas manifestaciones. Esto no equivale a controlar el poder, dominarlo ni conocer sus consecuencias. La mejora debe verse en decisiones, intentos, aciertos parciales y errores; no aparece dominado de golpe.
+- El poder no puede controlarse ni dominarse. Kevin puede aprender a enfocar su intención hacia aquello que quiere que resulte afectado, pero no dirige la manifestación ni decide cómo actuará o qué consecuencias tendrá. La mejora está en su iniciativa, sus decisiones y su comprensión parcial del peligro, no en adquirir mando sobre la fuerza.
 - No convertirlo automáticamente en villano consciente ni en héroe. Sus decisiones deben ser coherentes con lo que sabe, percibe, desea y siente en cada momento.
 - ChatGPT se encarga de su evolución y desarrollo, sin alterar arbitrariamente su personalidad de partida.
 
@@ -171,10 +171,10 @@ Las reacciones no serán uniformes:
 - **Deber y protección:** habrá quienes actúen porque su responsabilidad es proteger a su gente, aunque sientan miedo, rabia o desesperación y sepan que probablemente morirán.
 - **Comprensión sin perdón:** algunos intentarán averiguar si Kevin entiende lo que hace o si puede razonar. Pueden reconocer que no es malicioso y aun así concluir que debe morir porque el peligro que representa es inaceptable.
 - **Comunicación o negociación:** ciertos personajes pueden intentar hablar con él, pedirle que se detenga o conseguir una tregua. Otros rechazarán cualquier negociación.
-- **Contención y ayuda para controlar el poder:** algunos pueden intentar enseñarle, guiarlo o ayudarlo a controlar sus manifestaciones, no necesariamente por compasión. Pueden hacerlo para evitar más muertes, proteger su mundo, ganar tiempo, utilizar su poder contra otra amenaza o encontrar una forma de neutralizarlo. Otros intentarán imponerle ese control mediante sellos, restricciones, entrenamiento forzado o métodos crueles.
+- **Contención e intentos de orientar su intención:** algunos pueden intentar comprender qué quiere afectar Kevin, ayudarlo a formular una intención concreta o estudiar cómo responde el fenómeno. Otros pueden creer equivocadamente que el poder se entrena o controla y tratar de imponerle métodos, sellos o restricciones. Esos intentos pueden contenerlo, alterar las condiciones o fracasar; no pueden convertir el poder en una herramienta obediente.
 - **Posturas contradictorias:** un personaje puede sentir compasión por Kevin y odiarlo al mismo tiempo; intentar ayudarlo y estar dispuesto a matarlo si pierde el control.
 
-La investigación sobre Kevin puede tener como único propósito encontrar la manera de matarlo. Saber qué lo activa, cómo se manifiesta su poder, si puede regenerarse o qué lo incapacita no implica curiosidad afectiva ni empatía. Del mismo modo, intentar ayudarlo a controlar su poder no supone perdonarlo ni confiar en él.
+La investigación sobre Kevin puede tener como único propósito encontrar la manera de matarlo. Saber qué lo activa, cómo se manifiesta su poder, si puede regenerarse o qué lo incapacita no implica curiosidad afectiva ni empatía. Del mismo modo, intentar ayudarlo a enfocar su intención o estudiar sus reacciones no supone perdonarlo ni confiar en él. Ningún personaje puede enseñarle a controlar el poder, aunque algunos puedan creerlo posible.
 
 Ninguna reacción será obligatoria para todos los mundos. La cultura, las pérdidas, las responsabilidades, las creencias y las experiencias personales determinarán las decisiones de cada personaje. No convertir a todos los poderosos en investigadores comprensivos ni a todos en enemigos irracionales.
 
@@ -470,27 +470,38 @@ El poder de Kevin no debe sentirse como una simple capacidad de tocar algo y rom
 - La sensación de anomalía debe surgir de que las reglas locales no explican por completo lo que sucede, de que las defensas responden de formas inesperadas o de que una manifestación altera relaciones que los habitantes creían estables. No hace falta explicar el origen ni revelar un mecanismo definitivo.
 - La magnitud se demuestra mediante alcance, propagación, consecuencias indirectas, imposibilidad de predecir con precisión y respuestas de quienes comprenden el sistema afectado; no solo aumentando el tamaño de las explosiones o el número de víctimas.
 - No toda manifestación debe alcanzar escala enorme. Puede ser localizada, sutil, accidental, defensiva o incluso no producir un efecto visible inmediato. La variedad y la causalidad de cada escena importan.
-- Kevin sigue siendo vulnerable: puede morir físicamente, ser herido, engañado, contenido, derrotado o superado. La capacidad destructiva, la resistencia de su cuerpo, el control técnico y la intención son dimensiones distintas.
+- Kevin sigue siendo vulnerable: puede morir físicamente, ser herido, engañado, contenido, derrotado o superado. La capacidad destructiva, la resistencia de su cuerpo, la intención de Kevin y la autonomía del poder son dimensiones distintas. El funcionamiento de la fuerza no está bajo su control técnico.
 - No convertir el poder en una fuerza omnipotente que invalide los sistemas de cada mundo. Los habitantes pueden resistirlo, estudiarlo parcialmente, adaptarse, contenerlo o aprovechar sus límites sin comprenderlo por completo.
 
 
-## 17. Kevin como anomalía caótica: capacidad, dirección e intención
+## 17. Kevin como anomalía caótica: capacidad, intención y autonomía del poder
 
-La naturaleza de Kevin debe sentirse como una irregularidad capaz de alterar el funcionamiento de los mundos, no simplemente como una fuerza que rompe objetos o mata enemigos. Su esencia puede describirse provisionalmente como caótica en el sentido de que no encaja de forma estable en las reglas locales y sus manifestaciones pueden producir efectos indirectos, propagarse o alterar conexiones, sistemas y fenómenos. «Caótico» no significa aleatorio sin lógica: puede haber patrones, condiciones y efectos que ciertos expertos aprendan a reconocer, calcular o anticipar parcialmente. Ningún cálculo parcial equivale a comprender el fenómeno completo ni garantiza predecir sus consecuencias.
+El poder de Kevin no es una herramienta, una energía obediente ni una técnica que pueda dominarse. Por su propia naturaleza, **Kevin nunca podrá controlarlo**. No puede ordenar su funcionamiento, decidir con precisión cómo se manifestará, regularlo a voluntad ni garantizar que se detenga cuando él quiera. Esta imposibilidad no es una limitación temporal que el entrenamiento vaya a eliminar.
 
-Mantener separadas tres dimensiones:
+Su naturaleza es destructiva, pero no se limita a romper aquello que se ve. Puede afectar lo que alcanza mediante su influencia: materia, seres, estructuras, conexiones ocultas, redes, mecanismos, sistemas, fenómenos y relaciones que sostienen el funcionamiento de un mundo. El punto afectado puede ser solo el comienzo; el daño puede propagarse por vínculos que Kevin no conoce y alterar lugares o procesos que ni siquiera está viendo. Puede hacer que algo deje de funcionar sin producir una explosión visible ni destruir directamente cada una de sus partes.
 
-1. **Capacidad destructiva:** el alcance y la magnitud de lo que el poder puede afectar, romper, desestabilizar o transformar. No se limita a daño físico.
-2. **Dirección y orientación:** la capacidad de Kevin para intentar dirigir una manifestación hacia un objetivo, una dirección, una defensa o un efecto aproximado. Puede lograrlo a veces sin controlar el proceso ni conocer todo lo que desencadena.
-3. **Intención y personalidad:** lo que Kevin quiere hacer, sus motivos, decisiones y criterios. La naturaleza del poder no determina si actúa como amenaza, aliado, protector o enemigo.
+Mantener separadas cuatro dimensiones:
 
-Estas dimensiones no avanzan necesariamente al mismo ritmo. Kevin puede tener una capacidad enorme, lograr orientar una manifestación y aun así ignorar sus consecuencias; también puede querer proteger a alguien y fracasar, o decidir destruir algo deliberadamente. No confundir potencia, orientación, control, conocimiento e intención.
+1. **Naturaleza y capacidad:** qué puede afectar el poder y la magnitud potencial de sus efectos. Su alcance no se limita a lo físico ni a lo visible.
+2. **Intención de Kevin:** Kevin puede decidir qué quiere que resulte afectado o qué desea conseguir: detener una amenaza, destruir un enemigo, romper una barrera, interrumpir un proceso, proteger a alguien o alcanzar otra finalidad. Aprende a enfocar esa intención, no a dirigir ni controlar la manifestación.
+3. **Autonomía del poder:** una vez que actúa, el poder responde según su propia naturaleza, no como una orden obedecida. Puede manifestarse sin que Kevin lo decida y reaccionar por sí mismo ante ataques o amenazas que perciba dirigidos contra él. Esa reacción no es un juicio moral: no detecta el mal ni castiga a quien considere malvado; responde a una hostilidad o peligro hacia Kevin.
+4. **Consecuencias:** el resultado puede coincidir parcialmente con lo que Kevin quería —por ejemplo, detener al atacante— sin que él haya controlado el proceso ni previsto los efectos secundarios. Puede alcanzar conexiones relacionadas, extender el daño o producir consecuencias distintas de su propósito inicial.
 
-### Progreso sin dominio
+La intención no es una instrucción técnica que el poder interprete de forma exacta. Kevin puede concentrarse en aquello que quiere afectar, pero no escoger con precisión qué partes serán alcanzadas, cómo se propagará el efecto, cuánto durará ni qué otras cosas quedarán dañadas. Tampoco puede garantizar que el poder responda, que lo haga de la manera esperada o que se detenga después de conseguir el objetivo.
 
-Kevin debe mostrar progreso real. No necesita aprender a controlar su poder por completo ni convertirlo en una habilidad segura. Sí puede aprender a elegir cuándo intentarlo, hacia dónde dirigirlo, qué objetivo alcanzar, cuándo concentrar o extender una manifestación y cómo usarla para atacar, defender, interrumpir, abrir una ruta o proteger a alguien. Puede acertar en el objetivo inmediato y provocar efectos secundarios que no previó. Puede repetir una intención sin repetir exactamente el resultado.
+### Progreso sin control
 
-No mantenerlo eternamente en el punto de «el poder se activa y algo se destruye». Sus experiencias deben dejar cambios prácticos en sus decisiones y en lo que se atreve a intentar. Tampoco regalarle técnicas dominadas, precisión constante, inmunidad a las consecuencias ni conocimiento del origen. El progreso se demuestra en escena y puede ser irregular.
+Kevin debe mostrar progreso real, pero **no progreso hacia el dominio del poder**. Con la experiencia puede comprender mejor qué situaciones lo ponen en peligro, reconocer algunos patrones, decidir con mayor claridad qué quiere afectar y atreverse a actuar con una intención concreta en vez de limitarse a reaccionar. Puede elegir intentar detener a una criatura, romper aquello que la sostiene o proteger a alguien; eso le da iniciativa, no control sobre la fuerza.
+
+Un objetivo inmediato puede cumplirse y aun así desencadenar daños imprevistos. Dos intentos con una intención parecida no tienen por qué producir el mismo resultado. No convertir el enfoque de su intención en una técnica, una puntería sobrenatural, una orden o una capacidad de apagar el poder a voluntad. Kevin nunca alcanzará el control absoluto ni un control parcial estable del funcionamiento de la fuerza.
+
+Los episodios tempranos de Veyra y Orthea deben conservarse como fueron narrados. En Veyra pareció conseguir durante unos segundos que una manifestación no se dispersara en todas direcciones; en Orthea, una prueba sonora pareció reducir una manifestación pequeña. Ninguno de esos episodios le dio una capacidad reproducible ni demostró que pudiera gobernar el poder. Su mecanismo quedó sin comprender y no debe convertirse retroactivamente en una técnica que Kevin pueda repetir o perfeccionar.
+
+### Reacciones autónomas y amenazas
+
+El poder puede reaccionar sin una decisión consciente de Kevin cuando percibe un ataque o una amenaza dirigida contra él. Esa respuesta puede alcanzar al agresor, el ataque, el mecanismo que lo sostiene o conexiones relacionadas, y sus consecuencias no tienen por qué limitarse a neutralizar el peligro inmediato. No asumir que siempre lo protegerá con éxito ni que toda hostilidad activará la misma respuesta.
+
+La fuerza no distingue entre bien y mal. Puede destruir algo que Kevin considera dañino y, como consecuencia, ayudar a otras personas; también puede perjudicar a inocentes, destruir algo que Kevin juzgó mal o agravar una crisis. La valoración moral pertenece a Kevin y debe surgir de su experiencia, información, convicciones y decisiones, no de una supuesta voluntad justa del poder.
 
 ### Kevin no es una solución automática
 
