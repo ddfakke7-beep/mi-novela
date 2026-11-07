@@ -1,7 +1,7 @@
 # FIN — Guía principal del proyecto
 
 **Tipo:** ficción · multiverso · destrucción · desesperación · batallas épicas  
-**Estado:** narración en curso; dieciséis capítulos completos.  
+**Estado:** narración en curso; diecisiete capítulos completos.  
 **Ubicación:** carpeta `FIN/` en el repositorio `mi-novela`.
 
 ## Identidad e independencia
@@ -270,3 +270,8 @@ Los registros de Serekh muestran por primera vez a una figura humanoide que inte
 ## Estado actualizado tras el capítulo 16
 
 FIN cuenta con dieciséis capítulos completos. El último mundo visitado fue Talmera; Kevin desapareció el día 3 a las 19:42, después de ayudar a cortar la conexión que superponía la ciudad actual con la ciudad desaparecida. Talmera sobrevivió, aunque perdió una sección de la ciudad antigua y sufrió daños y víctimas. Kevin fue contenido durante aproximadamente 31 horas y 30 minutos antes de aceptar ayudar voluntariamente. Tavan Rhem murió sosteniendo el eje de la convergencia. Consultar `07_CONTINUIDAD.md` para el punto exacto de reanudación.
+
+
+## Estado actualizado tras el capítulo 17
+
+El capítulo 17, **Nereth, el mundo que no dejaba ir a sus muertos**, está completo y guardado en `FIN/CAPITULOS/17_NERETH_EL_MUNDO_QUE_NO_DEJABA_IR_A_SUS_MUERTOS.md`. Kevin llegó el día 1 a las 06:11 y desapareció el día 4 a las 20:07, tras 85 horas y 56 minutos. Nereth sobrevivió. La Campana de Oru fue destruida y la corriente funeraria volvió a fluir; los ecos retenidos se disolvieron y algunas personas conservaron lagunas de memoria. Kevin eligió romper la Campana al comprender que su permanencia estaba haciendo que los ecos ocuparan cuerpos vivos. Khal Ordan murió; Othar sobrevivió herido. Consultar `07_CONTINUIDAD.md` para el estado completo y el punto exacto de reanudación.
