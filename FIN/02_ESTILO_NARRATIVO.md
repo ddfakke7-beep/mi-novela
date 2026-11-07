@@ -432,3 +432,22 @@ Los antagonistas y personajes ambiguos pueden ser más eficaces cuando no parece
 - Una buena revelación retrospectiva debe permitir reconocer las pistas anteriores sin convertirlas en una explicación arbitraria. El lector debe poder entender qué información se ocultó y por qué Kevin no pudo verla.
 - La traición no tiene que ser siempre un giro sorpresivo: puede ser una relación de intereses incompatibles en la que ambos conocen parte del riesgo y aun así continúan.
 - Mostrar el precio de la manipulación para quienes la ejecutan y para quienes quedan atrapados en ella.
+
+
+## 10. Cosmología visible y seres de escala comparable o superior
+
+No tratar a Kevin como el único ser extraordinario. Introducir, cuando la historia lo permita, seres que hayan alcanzado poderes comparables o superiores mediante caminos propios, así como entidades cuya naturaleza no pueda medirse con la escala de Kevin. Mostrar su historia y dominio a través de acciones, técnicas, decisiones y consecuencias, no solo mediante títulos o afirmaciones.
+
+La diferencia entre Kevin y esos seres puede ser el conocimiento: ellos pueden haber pasado eras desarrollando una capacidad y dominarla con precisión, mientras Kevin todavía desconoce la suya. No convertir esta diferencia en una regla absoluta: Kevin puede sorprenderlos y ellos pueden equivocarse.
+
+## 11. Mundos superiores e inferiores sin escalera universal
+
+La cosmología puede contener mundos superiores, inferiores, intermedios, planos, capas y regiones exteriores. Hacer que la relación entre ellos se note en rutas, fronteras, tránsito, comercio, migraciones, invasiones, exilios y restricciones. No basta con enumerar niveles. Evitar una jerarquía rígida en la que todo ser superior sea automáticamente más fuerte que cualquier ser inferior.
+
+Un mismo mundo puede estar compuesto por varios cielos o estratos interconectados. Mantener la regla de un mundo principal por capítulo, aunque su geografía incluya capas de realidad.
+
+## 12. Conflictos que no esperan a Kevin
+
+Dar espacio a guerras, ascensiones, fugas, exterminios, rivalidades, expediciones y proyectos que existían antes de su llegada. Los personajes pueden perseguir objetivos que no giren alrededor de él. Un conflicto puede alcanzar su clímax aunque Kevin no intervenga, y él puede no comprender o ni siquiera conocer todos sus motivos.
+
+La épica de escala extrema debe surgir de objetivos incompatibles, experiencia, técnica, adaptación y consecuencias irreversibles. No convertir cada capítulo en una carrera para crear un enemigo más fuerte que el anterior.
