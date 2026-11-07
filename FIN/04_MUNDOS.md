@@ -466,3 +466,20 @@ Kevin aceptó ayudar a Dalia cuando la convergencia amenazó a ambas poblaciones
 Talmera sobrevivió. Una sección de la ciudad desaparecida no regresó y el destino de muchos de sus habitantes sigue sin confirmarse. Narel fue detenido; Ilen sobrevivió, pero no perdonó de inmediato a su hermano. Vara fue detenida. La crisis dejó 286 muertos confirmados, 94 desaparecidos, 1.720 heridos y 23.400 desplazados o evacuados, con registros provisionales.
 
 **Continuidad abierta:** se desconoce el origen de la Retirada; una sección de Varda no regresó; Narel e Ilen deben afrontar el daño de sus decisiones; Vara puede haber tenido cómplices; la Liga de Tránsito debe revisar sus protocolos; el puesto número 6 de los Faros quedó vacante. Kevin no conoce el origen de su poder ni de sus traslados.
+
+
+## 18. Nereth — capítulo 17
+
+**Archivo:** `FIN/CAPITULOS/17_NERETH_EL_MUNDO_QUE_NO_DEJABA_IR_A_SUS_MUERTOS.md`.
+
+Nereth es un mundo de cuatro grandes masas continentales, un océano interior y dos mares exteriores conectados por corrientes profundas. Las distancias entre regiones requieren meses de viaje y las civilizaciones conservan autoridades y costumbres propias. Uruun es un delta de caña mineral y ciudades móviles habitado por los oru, seres de cuatro brazos y membranas acuáticas. Khar está formado por cordilleras huecas y galerías de cristal habitadas por los kharad, de cuerpos pétreos y clanes de talleres. Eshai es un conjunto de archipiélagos altos y torres naturales donde viven los seyri, seres alados que dominan las corrientes de aire. Moru comprende mares cálidos, arrecifes y ciudades de coral habitadas por los moru, seres anfibios.
+
+Los cuatro pueblos no comparten un gobierno ni una religión única. Cooperan en determinadas rutas y acuerdos de navegación. Una de esas rutas es la corriente funeraria: cuando un ser muere, una huella incompleta de sus últimas memorias puede reunirse en un lúmen, una pequeña criatura de luz semejante a una polilla de ceniza. Los lúmenes no son almas completas ni personas que puedan regresar. La corriente los conduce al Mar Quieto, donde se disuelven.
+
+Tres siglos antes, la ciudad de Oru construyó la Campana para conservar los ecos durante siete noches y permitir despedidas. Con las generaciones, se añadieron anillos y depósitos que retuvieron miles de lúmenes durante años o siglos. La costumbre se volvió una dependencia cultural y espiritual. La acumulación mezcló ecos y permitió que algunos entraran en cuerpos vivos, desplazando recuerdos e identidad.
+
+Othar, custodio mayor de la Campana, abrió el anillo interior para intentar dar cuerpos a los ecos retenidos. La decisión aceleró una marea de nombres que amenazó a las cuatro regiones. Kevin, cuya presencia interfería con los lúmenes y la corriente, acabó cortando los anillos de resonancia. Veyra, criatura antigua vinculada al cauce, abrió la ruta hacia el Mar Quieto y condujo los ecos a su destino. La Campana fue destruida y la corriente volvió a fluir.
+
+Nereth sobrevivió, pero la crisis dejó 4.820 muertos confirmados, 2.140 desaparecidos, 17.600 heridos y 68.000 personas evacuadas temporalmente o desplazadas. Los registros son provisionales y las categorías pueden solaparse. Algunas personas afectadas conservaron lagunas de memoria o perdieron fragmentos de identidad. Khal Ordan murió defendiendo la ruta hacia el núcleo; Othar sobrevivió herido; Veyra quedó dañada.
+
+**Continuidad abierta:** los cuatro pueblos deben decidir cómo conservar registros y relatos sin retener lúmenes; algunas familias rechazan la destrucción de la Campana; Othar deberá afrontar su responsabilidad; Veyra necesita recuperarse; la muerte de Khal deja un vacío en Khar; la corriente debe estabilizarse en todas las regiones. No se sabe si quedan depósitos menores en lugares aislados.
