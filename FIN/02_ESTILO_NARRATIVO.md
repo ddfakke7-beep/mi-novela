@@ -543,3 +543,30 @@ No describir la magnitud del poder de Kevin únicamente mediante cuerpos destrui
 - No resolver la sensación de escala con frases grandilocuentes. Construirla con causalidad legible, efectos concretos, intentos de respuesta y consecuencias que los personajes no puedan ignorar.
 - Mantener límites y resistencia reales. Kevin puede ser herido, morir, quedar contenido o descubrir que un adversario soporta, desvía o aprovecha una manifestación. Que su poder sea aterrador no significa que toda escena deba terminar con él imponiéndose.
 - Evitar que cada capítulo repita el mismo patrón de propagación. A veces el efecto será inmenso; otras, localizado o difícil de percibir hasta que aparecen sus consecuencias.
+
+
+## 11. Kevin debe sentirse como una anomalía, no como un poder destructivo convencional
+
+La presencia de Kevin introduce una variable que puede alterar incluso sistemas que los habitantes consideran comprendidos y estables. No basta con que rompa algo más grande o mate criaturas más poderosas. Sus manifestaciones pueden interferir con reglas locales, conexiones, redes, dominios, técnicas, ecosistemas, rutas o mecanismos; el efecto puede propagarse y producir consecuencias indirectas que nadie anticipó.
+
+El fenómeno no es aleatoriedad gratuita. Los expertos pueden observar regularidades, formular hipótesis y predecir ciertos resultados bajo condiciones concretas. Algunos acertarán y otros interpretarán mal los datos. Incluso una predicción correcta de un efecto inmediato no garantiza conocer todas sus ramificaciones. Mostrar la diferencia entre observación, cálculo parcial, hipótesis y comprensión real.
+
+## 12. Mostrar progreso práctico de Kevin sin convertirlo en alguien que controla su poder
+
+Kevin no debe permanecer capítulo tras capítulo como alguien a quien simplemente le ocurre algo y que solo reacciona después. Su aprendizaje tiene que darle iniciativa. Puede intentar dirigir una manifestación hacia un enemigo, una barrera, una conexión o una zona; concentrarla, extenderla, desviarla, interrumpir un ataque o proteger a alguien. Puede conseguir el objetivo inmediato sin comprender ni prever todo lo que se desencadena alrededor.
+
+No exigir éxito constante ni una técnica formal. El progreso puede ser tosco, situacional, difícil de repetir y peligroso. Pero debe notarse que Kevin toma decisiones nuevas a partir de experiencias anteriores. No confundir orientar con controlar, controlar con comprender, ni comprender una parte con conocer el resultado completo. No reiniciar su aprendizaje en cada mundo ni mantenerlo indefinidamente como principiante absoluto.
+
+## 13. Los mundos no deben depender narrativamente de Kevin
+
+Los habitantes no son un coro que espera a que Kevin resuelva su crisis. Deben actuar con sus propios medios y objetivos: organizar defensas, ganar batallas, evacuar, negociar, investigar, cometer errores, salvar regiones o fracasar sin que Kevin intervenga. Los conflictos pueden avanzar fuera de su vista y continuar después de su desaparición.
+
+Antes de escribir, decidir qué papel causal tiene Kevin en ese mundo. Puede empeorar una crisis, cambiar su equilibrio, abrir una oportunidad, impedir una derrota, ser irrelevante para un conflicto local concreto o convertirse en el enemigo que todos deben detener. Si alguien depende de su poder, justificar exactamente por qué y qué alternativas ha intentado. No convertirlo en solución obligatoria ni hacer que los personajes locales pierdan iniciativa para darle protagonismo.
+
+## 14. Reacciones ante Kevin: hostilidad, cooperación y cálculo
+
+Si los habitantes conocen o sospechan que Kevin está relacionado con catástrofes, sus reacciones deben incluir consecuencias sociales y tácticas reales. Un grupo puede atacarlo para matarlo en cuanto lo identifique; otro puede intentar capturarlo; otro puede expulsarlo, aislarlo o utilizarlo. También puede haber personas que se nieguen a atacarlo por temor a agravar la situación, pero esa cautela no debe convertirse en la respuesta de todos.
+
+Los personajes pueden tomar decisiones impulsivas, desesperadas, vengativas o equivocadas incluso cuando conocen el riesgo. Atacar a Kevin puede ser una decisión terrible y aun así resultar comprensible para quien perdió a su familia o teme perder su mundo. No protegerlo artificialmente para prolongar la trama. Tampoco hacer que todos lo ataquen de inmediato: la respuesta debe surgir de quién sabe qué, qué ha perdido, qué recursos tiene y qué cree que ocurrirá.
+
+La cooperación con Kevin no implica confianza, perdón ni aceptación. Puede ser una tregua táctica, una utilización mutua o una decisión desesperada. Del mismo modo, la culpa de Kevin no exige que cada escena termine en disculpas; puede reconocer un daño y actuar, huir, defenderse, discutir, negarse a ayudar o tomar una decisión moralmente difícil.
