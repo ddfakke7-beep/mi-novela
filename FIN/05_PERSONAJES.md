@@ -644,3 +644,41 @@ Los personajes y facciones de Veyra y Cangyuan ya están registrados en sus apar
 - **Ciudades de Bronce:** asentamientos Varkai con tradición de forja de campanas y armas resonantes.
 - **Dominios de Cal:** territorios de jardines de vidrio y pueblos de piel cenicienta.
 - **Pueblos de la Máscara:** aldeas móviles que conservaban nombres prohibidos.
+
+
+## Criterio ampliado — personajes con agendas propias y continuidad entre mundos
+
+Los personajes de FIN no existen únicamente para ayudar a Kevin, detenerlo o morir durante su llegada. Deben tener proyectos, relaciones, conflictos y objetivos que puedan continuar aunque él no esté presente. Algunos pueden sobrevivir a la destrucción o al colapso de su mundo y reaparecer en capítulos posteriores.
+
+### Motivaciones posibles frente a Kevin
+
+Registrar con precisión qué quiere cada personaje, sin reducirlo a «aliado» o «enemigo». Entre las motivaciones posibles:
+- proteger a su pueblo, especie, territorio o mundo;
+- matar, contener, sellar o expulsar a Kevin;
+- estudiar su poder para comprenderlo o encontrar una forma de neutralizarlo;
+- utilizarlo como arma, llave, catalizador, fuente o instrumento;
+- provocar una manifestación para romper una prisión, liberar a alguien, destruir una barrera o derrotar a un rival;
+- sacrificar poblaciones o territorios para alcanzar un objetivo que considera superior;
+- ayudarlo sinceramente, negociar con él o intentar influir en sus decisiones;
+- fingir una motivación mientras prepara otra cosa.
+
+Una misma persona puede tener varias motivaciones, contradecirse o cambiar de postura. Las intenciones ocultas deben descubrirse mediante acciones, indicios y consecuencias, no por exposición omnisciente.
+
+### Personajes persistentes
+
+Cuando un personaje sobreviva y pueda reaparecer, registrar:
+- mundo de origen y situación actual;
+- cómo sobrevivió o salió de su mundo;
+- método y límites de viaje, si los tiene;
+- qué mundos ha visitado realmente;
+- qué sabe de Kevin y cómo lo averiguó;
+- objetivos, vínculos, deudas, alianzas y enemistades pendientes;
+- cambios físicos, psicológicos y materiales desde su última aparición.
+
+No asumir que todos los supervivientes pueden viajar. Algunos pueden permanecer en su mundo, otros quedar atrapados o desplazados sin control. Un personaje recurrente no debe convertirse automáticamente en acompañante, aliado ni expositor de la verdad.
+
+### Antagonistas, rivales y relaciones duraderas
+
+Los enemigos pueden ser rivales abiertos, manipuladores, falsos aliados, seres que desean utilizar a Kevin o entidades que lo consideran una amenaza para sus planes. Algunos pueden convertirse en enemigos persistentes o mantener una rivalidad a través de varios mundos. Otros pueden cooperar temporalmente con él por conveniencia sin desarrollar afecto ni confianza.
+
+Las relaciones deben conservar memoria: una traición, deuda, sacrificio, engaño o alianza no desaparece cuando Kevin cambia de mundo. Si alguien reaparece, mostrar cómo los acontecimientos anteriores afectan sus decisiones actuales.
