@@ -4,7 +4,7 @@
 
 Cada mundo tiene su propia lógica, estética, historia, jerarquías y escala de poder. No existe una escala universal obligatoria y no se deben equiparar automáticamente títulos o rangos de mundos distintos.
 
-**Cada mundo visitado y destruido ocupa un capítulo completo.** Un capítulo puede ser extenso y contener todas las perspectivas y acontecimientos necesarios, pero nunca debe incluir la destrucción de dos mundos. El registro de mundos debe conservar la correspondencia entre un mundo y su capítulo.
+**Cada mundo visitado ocupa un capítulo completo con un desenlace propio.** Puede ser destruido, sufrir el colapso de su civilización, sobrevivir, expulsar o contener a Kevin, o quedar transformado por una victoria parcial. Un capítulo puede ser extenso y contener todas las perspectivas y acontecimientos necesarios, pero nunca debe incluir la destrucción de dos mundos. El registro de mundos debe conservar la correspondencia entre un mundo y su capítulo.
 
 ## 2. Libertad de creación
 
@@ -255,3 +255,22 @@ Una trampa o expulsión puede enviar a Kevin a una realidad que ya era peligrosa
 ### Continuidad de supervivientes y viajeros
 
 Registrar personajes y entidades que sobrevivan y puedan reaparecer. Si viajan, establecer el medio, el coste, las limitaciones y lo que saben. Otros pueden quedar atrapados, ser expulsados o cruzar realidades por causas distintas. No dar a todos capacidad de viajar ni conocimiento automático de otros mundos. Los personajes persistentes deben conservar memoria y consecuencias, no ser reiniciados al reaparecer.
+
+
+## Mundo 9 — Nharos
+
+**Título:** *Nharos, el mundo que no podía morir*.
+
+Realidad infernal dividida en siete dominios sin autoridad central. Incluye fortalezas suspendidas por cadenas, ciudades excavadas en huesos antiguos, minas, mares de niebla y regiones de guerra recurrente. La Fosa de los Juramentos es una zona de castigo, extracción y tránsito.
+
+Los siete dominios mantenían bajo una prisión antigua a Akh-Mor, el Rey Encadenado. La prisión también sostenía una frontera que separaba Nharos de algo desconocido. Othrek quiso romper los anclajes para dominar los dominios; Sarith quería alterar el equilibrio de las cadenas; Veyrahn buscaba obtener provecho; Maraith defendía que no debía abrirse.
+
+Kevin fue manipulado y utilizado como posible llave. Una manifestación dañó el terreno y otras rompieron anclajes. El día 3 a las 02:00 murió aplastado bajo el derrumbe de la cámara: no respiraba ni tenía pulso. Sarith y guardianes observaron el cuerpo muerto. La regeneración reconstruyó sus daños durante aproximadamente tres horas y Kevin volvió en sí cerca de las 05:10. Esta es la primera muerte y resurrección mostrada en escena.
+
+La frontera quedó parcialmente abierta como una cicatriz oscura. Othrek desapareció sin confirmación de muerte; Akh-Mor continúa encadenado por cuatro de siete cadenas. Nharos no colapsó: los siete dominios siguen existiendo. Tres fortalezas suspendidas cayeron; cuatro anclajes fueron destruidos; 17 minas quedaron clausuradas o inundadas; 26 asentamientos fueron evacuados; 81 puentes de cadena se perdieron.
+
+**Cronología:** llegada día 1, 18:12; primera muerte día 3, 02:00; regreso aproximado día 3, 05:10; salida día 4, 14:06; estancia total 91 horas y 54 minutos.
+
+**Balance provisional:** 9.840 muertos confirmados, 6.200 desaparecidos, 18.500 heridos y 31.000 evacuados. Los registros no cubren todos los frentes y puede haber duplicaciones en traslados de trabajadores; heridos y evacuados pueden solaparse.
+
+**Supervivientes:** Sarith sobrevivió con la mano derecha perdida; Maraith regresó a las Cenizas; Iria se reunió con su hermano; Veyrahn desapareció con registros; Othrek desapareció; Akh-Mor sigue vivo y encadenado. Varkun murió sosteniendo el anclaje oriental.
