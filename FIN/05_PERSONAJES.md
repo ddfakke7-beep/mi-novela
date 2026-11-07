@@ -1182,3 +1182,19 @@ Los personajes de Talmera no conocen a Kevin más allá de lo observado durante 
 
 ### Estado
 Los personajes de Nereth no conocen el origen de Kevin ni la causa de sus viajes. Algunos lo culpan por daños concretos, otros consideran que ayudó a detener la marea. No hay una opinión unánime sobre su intervención.
+
+
+## Personajes del capítulo 18 — Odrava
+
+- **Ilyra Venn:** guardiana de la ruta occidental. Veterana de las corrientes altas, decidida y pragmática. Encontró a Kevin sobre un vaur y lo acompañó durante la crisis. Sobrevivió; no conoce el origen de su poder ni el destino al que fue trasladado.
+- **Orvek:** maestro de señales de Avar. Interpretó los cambios de las corrientes y coordinó comunicaciones. Sobrevivió herido y perdió parte del bastón de anillos.
+- **Rovan:** jinete de vaur menor. Participó en el rescate de Aruva y sostuvo una corriente para evitar su caída. Sobrevivió.
+- **Esh:** cartógrafa de Veyr. Registró la división de las rutas y acompañó a Ilyra. Sobrevivió; sus mapas anteriores dejaron de ser fiables.
+- **Meyra:** antigua integrante de la expedición de Darem. Abandonó la caza y ayudó a liberar a Aruva. Sobrevivió y deberá responder por su participación inicial.
+- **Darem Khol:** dirigente del Pacto de las Cisternas y cazador veterano. Intentó capturar a Aruva para extraer su núcleo y sostener las corrientes de Suth. Abandonó la operación al comprender que la grieta destruiría también el recurso que buscaba. Sobrevivió y perdió su autoridad.
+- **Thoren:** maestro del faro de Khar-Veyr. Atrajo la grieta hacia la torre para permitir que sus aprendices escaparan. Murió cuando el faro se derrumbó.
+- **Asha:** trabajadora de las compuertas de Leth y madre de Talen y Nima. Sobrevivió con lesiones graves y una pierna dañada.
+- **Talen:** hijo de Asha. Ayudó durante la evacuación y sobrevivió.
+- **Nima:** hija menor de Asha. Quedó atrapada en el refugio de compuertas y fue rescatada. Sobrevivió.
+- **Aruva:** hembra adulta de vaur conocida como Madre del Paso Occidental. Sobrevivió a las heridas de los arpones, pero no volverá a guiar la antigua ruta.
+- **Cría de Aruva:** murió durante la primera alteración de las corrientes. No se estableció un nombre.
