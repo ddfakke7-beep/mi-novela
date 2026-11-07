@@ -447,3 +447,22 @@ Tiravel es el primer mundo en el que Kevin decide intervenir de forma consciente
 - **Resultado de la intervención de Kevin:** destruyó el núcleo de defensa entre el día 3 a las 19:12 y las 19:46. Cesó la producción y coordinación de los cazadores. El mundo siguió muerto.
 - **Daños y estado final:** los mares permanecen secos, los bosques-columna inmóviles, las ciudades vacías y las rutas planetarias destruidas. No existe un censo fiable de víctimas y no se confirmó ningún superviviente.
 - **Continuidad abierta:** identidad y propósito de la figura humanoide desconocidos; no se sabe si existen otros núcleos de defensa o si el apagado tuvo efectos fuera de Serekh.
+
+
+## 17. Talmera — capítulo 16
+
+**Archivo:** `FIN/CAPITULOS/16_TALMERA_EL_MUNDO_QUE_APRENDIO_A_SER_HEROE.md`.
+
+Talmera es un mundo de tres continentes y un océano interior. Sarn contiene ciudades verticales construidas alrededor de pilares de basalto; Odria posee llanuras de vidrio y asentamientos móviles; Vhal está formado por plataformas costeras y arrecifes habitados. Cuatrocientos años antes, la fragmentación de una luna provocó la Lluvia de Cobalto. Desde entonces algunas personas nacen con Rasgos individuales que alteran aspectos concretos de la realidad. No existe una escala común para compararlos.
+
+Los Vigías protegen comunidades, rutas y ciudades. Los Faros son los protectores más reconocidos del Pacto, valorados por sus rescates, operaciones, coordinación y confianza pública, no solo por potencia. La protección también depende de guardias, sanadores, técnicos, equipos de rescate y voluntarios sin fama.
+
+La crisis central fue la **Retirada**, fenómeno que superpone sectores de Talmera con versiones anteriores de lugares desaparecidos. La ciudad de Varda había desaparecido once años antes. Narel Venn abrió rutas mediante un Nudo de metal negro para recuperar a su hermana Ilen, que seguía viva al otro lado. Vara Il lo manipuló para provocar una convergencia entre ambas ciudades y acceder a los Rasgos de sus habitantes.
+
+Kevin llegó durante un enfrentamiento entre Dalia Sen y Narel. Su manifestación dañó parte de un edificio y puso civiles en peligro; Dalia los rescató. Los Vigías lo detuvieron y lo mantuvieron inmóvil durante unas 31 horas y 30 minutos mediante un campo de peso de doce columnas. La Retirada alcanzó la cámara y reaccionó a su presencia, pero nadie comprendió el mecanismo.
+
+Kevin aceptó ayudar a Dalia cuando la convergencia amenazó a ambas poblaciones. Una manifestación suya cortó una conexión del Nudo, lo que permitió separar las ciudades. La operación dependió también de las evacuaciones, los anclajes de los Vigías y el sacrificio de Tavan Rhem, Faro número 6, que murió sosteniendo el eje de la convergencia.
+
+Talmera sobrevivió. Una sección de la ciudad desaparecida no regresó y el destino de muchos de sus habitantes sigue sin confirmarse. Narel fue detenido; Ilen sobrevivió, pero no perdonó de inmediato a su hermano. Vara fue detenida. La crisis dejó 286 muertos confirmados, 94 desaparecidos, 1.720 heridos y 23.400 desplazados o evacuados, con registros provisionales.
+
+**Continuidad abierta:** se desconoce el origen de la Retirada; una sección de Varda no regresó; Narel e Ilen deben afrontar el daño de sus decisiones; Vara puede haber tenido cómplices; la Liga de Tránsito debe revisar sus protocolos; el puesto número 6 de los Faros quedó vacante. Kevin no conoce el origen de su poder ni de sus traslados.
