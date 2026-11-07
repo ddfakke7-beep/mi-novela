@@ -806,3 +806,68 @@ Los personajes relevantes no deben aparecer todos en el mismo lugar ni existir �
 - **Mundo y capítulo:** Taurak, capítulo 10.
 - **Naturaleza:** entidad primordial bajo la corteza de Taurak, anterior a las nueve estirpes dracónicas.
 - **Estado:** continúa dormido. No se confirmó que despertara ni que hablara.
+
+## 9. Personajes del mundo 11 — Yunluo
+
+### Jin Suyin
+- **Mundo y capítulo:** Yunluo, capítulo 11.
+- **Naturaleza y función:** cultivador errante; conocía las disputas de las nueve sectas y ayudaba a comunidades rurales.
+- **Personalidad:** franco, prudente y práctico. No fingía una amistad con Kevin ni ocultaba que las sectas podían intentar reclamarlo.
+- **Objetivos:** impedir que las sectas utilizaran la llegada de Kevin como excusa para resolver sus disputas y proteger a los habitantes del valle.
+- **Relación con Kevin:** lo acompañó después de su llegada, le explicó parte de la situación de Yunluo y lo ayudó a comprender los riesgos. No lo trató como una herramienta.
+- **Destino:** murió al abrir una salida bajo la montaña para permitir la evacuación del valle occidental.
+
+### Zhao Wenyuan
+- **Mundo y capítulo:** Yunluo, capítulo 11.
+- **Naturaleza y afiliación:** antiguo cultivador de la Montaña Hueca; su voluntad se mantenía mediante una copia mientras su cuerpo permanecía dentro de la raíz.
+- **Objetivos:** destruir la Escalera del Cielo y acabar con el dominio de las nueve sectas, aunque aceptaba el riesgo de sacrificar regiones enteras.
+- **Método:** manipuló a Kevin mediante verdades parciales, omisiones y una situación de rescate preparada. Le mostró el sufrimiento real de los trabajadores y le permitió creer que se acercaba por decisión propia, sin explicarle el alcance de la reacción de la raíz.
+- **Relación con Kevin:** no fingió afecto ni amistad. Reconoció que quería utilizarlo, pero ocultó hasta qué punto había preparado las circunstancias.
+- **Destino:** su cuerpo fue absorbido por el Río Invertido. No se recuperaron restos; no confirmar destrucción definitiva de su voluntad.
+
+### Han Ruo
+- **Mundo y capítulo:** Yunluo, capítulo 11.
+- **Naturaleza y función:** guardián de la tercera terraza del Valle de las Campanas.
+- **Objetivos:** proteger el valle y evitar que las sectas reclamaran a Kevin sin comprender el fenómeno.
+- **Relación con Kevin:** lo vigiló al principio y después permitió que saliera acompañado por Suyin.
+- **Destino:** sobrevivió, pero perdió su tercera terraza y varios discípulos.
+
+### Madre Qiao
+- **Mundo y capítulo:** Yunluo, capítulo 11.
+- **Función:** anciana encargada de repartir arroz en la Montaña Hueca. Había trabajado allí durante cincuenta y dos años y conocía a las familias de la región.
+- **Relación con la crisis:** representó la vida cotidiana de las comunidades que pagaban el coste de la extracción espiritual. Ayudó a evacuar a tres niños.
+- **Destino:** murió durante la evacuación del camino sur.
+
+### Joven de la cicatriz
+- **Mundo y capítulo:** Yunluo, capítulo 11.
+- **Función:** hermana de uno de los diecisiete trabajadores atrapados en la cantera.
+- **Objetivos:** rescatar a su hermano y encontrar a su madre, desaparecida durante la crisis.
+- **Relación con Kevin:** no lo perdonó ni lo culpó de todo; reconoció que su hermano seguía vivo, pero no sabía si fue gracias a Kevin o a pesar de él.
+- **Destino:** sobrevivió junto a su hermano. Su madre sigue desaparecida.
+
+### Hermano de la joven
+- **Mundo y capítulo:** Yunluo, capítulo 11.
+- **Función:** trabajador de trece años atrapado en la cantera espiritual.
+- **Destino:** fue uno de los diecisiete trabajadores rescatados. Sobrevivió, aunque quedó debilitado.
+
+### Maestra de la Garza Roja
+- **Mundo y capítulo:** Yunluo, capítulo 11.
+- **Función:** maestra de una de las nueve grandes sectas.
+- **Objetivos:** proteger a las comunidades de Luyin y evitar que los inmortales recuperaran el control de las venas.
+- **Destino:** sobrevivió al combate contra el Señor de la Cumbre Vacía, pero perdió su mar interior y ya no puede cultivar.
+
+### Señor de la Cumbre Vacía
+- **Mundo y capítulo:** Yunluo, capítulo 11.
+- **Naturaleza:** inmortal descendido desde la Escalera del Cielo.
+- **Objetivos:** recuperar el control de la Escalera y de las venas espirituales.
+- **Destino:** sobrevivió y se retiró cuando la estructura celeste comenzó a derrumbarse. Paradero posterior no confirmado.
+
+### Patriarca de la Escalera
+- **Mundo y capítulo:** Yunluo, capítulo 11.
+- **Función:** cultivador que había sobrevivido a tres ceremonias de ascensión y encabezaba el antiguo orden.
+- **Destino:** no confirmado tras la caída de los peldaños celestes.
+
+### Río Invertido
+- **Mundo y capítulo:** Yunluo, capítulo 11.
+- **Naturaleza:** corriente primordial encerrada bajo la Montaña Hueca, capaz de devorar las venas espirituales.
+- **Estado:** parcialmente liberada y extendida por las venas principales de Yunluo. Su voluntad, límites y destino final siguen sin comprenderse.
