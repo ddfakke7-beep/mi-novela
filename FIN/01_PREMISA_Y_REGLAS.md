@@ -20,7 +20,7 @@ Su llegada y sus acciones desencadenan catástrofes que pueden acabar con la civ
 - No necesariamente tiene intención de destruir.
 - Al principio no comprende el alcance de su poder ni sabe controlarlo bien.
 - Su poder es desproporcionadamente grande y puede provocar consecuencias catastróficas incluso cuando no busca destruir.
-- A lo largo de la historia aprende gradualmente a entender, controlar y utilizar ese poder. La mejora debe verse en escenas, errores, intentos y enfrentamientos; no aparece dominado de golpe.
+- A lo largo de la historia aprende a reconocer patrones parciales y a orientar voluntariamente algunas manifestaciones. Esto no equivale a controlar el poder, dominarlo ni conocer sus consecuencias. La mejora debe verse en decisiones, intentos, aciertos parciales y errores; no aparece dominado de golpe.
 - No convertirlo automáticamente en villano consciente ni en héroe. Sus decisiones deben ser coherentes con lo que sabe, percibe, desea y siente en cada momento.
 - ChatGPT se encarga de su evolución y desarrollo, sin alterar arbitrariamente su personalidad de partida.
 
@@ -472,3 +472,34 @@ El poder de Kevin no debe sentirse como una simple capacidad de tocar algo y rom
 - No toda manifestación debe alcanzar escala enorme. Puede ser localizada, sutil, accidental, defensiva o incluso no producir un efecto visible inmediato. La variedad y la causalidad de cada escena importan.
 - Kevin sigue siendo vulnerable: puede morir físicamente, ser herido, engañado, contenido, derrotado o superado. La capacidad destructiva, la resistencia de su cuerpo, el control técnico y la intención son dimensiones distintas.
 - No convertir el poder en una fuerza omnipotente que invalide los sistemas de cada mundo. Los habitantes pueden resistirlo, estudiarlo parcialmente, adaptarse, contenerlo o aprovechar sus límites sin comprenderlo por completo.
+
+
+## 17. Kevin como anomalía caótica: capacidad, dirección e intención
+
+La naturaleza de Kevin debe sentirse como una irregularidad capaz de alterar el funcionamiento de los mundos, no simplemente como una fuerza que rompe objetos o mata enemigos. Su esencia puede describirse provisionalmente como caótica en el sentido de que no encaja de forma estable en las reglas locales y sus manifestaciones pueden producir efectos indirectos, propagarse o alterar conexiones, sistemas y fenómenos. «Caótico» no significa aleatorio sin lógica: puede haber patrones, condiciones y efectos que ciertos expertos aprendan a reconocer, calcular o anticipar parcialmente. Ningún cálculo parcial equivale a comprender el fenómeno completo ni garantiza predecir sus consecuencias.
+
+Mantener separadas tres dimensiones:
+
+1. **Capacidad destructiva:** el alcance y la magnitud de lo que el poder puede afectar, romper, desestabilizar o transformar. No se limita a daño físico.
+2. **Dirección y orientación:** la capacidad de Kevin para intentar dirigir una manifestación hacia un objetivo, una dirección, una defensa o un efecto aproximado. Puede lograrlo a veces sin controlar el proceso ni conocer todo lo que desencadena.
+3. **Intención y personalidad:** lo que Kevin quiere hacer, sus motivos, decisiones y criterios. La naturaleza del poder no determina si actúa como amenaza, aliado, protector o enemigo.
+
+Estas dimensiones no avanzan necesariamente al mismo ritmo. Kevin puede tener una capacidad enorme, lograr orientar una manifestación y aun así ignorar sus consecuencias; también puede querer proteger a alguien y fracasar, o decidir destruir algo deliberadamente. No confundir potencia, orientación, control, conocimiento e intención.
+
+### Progreso sin dominio
+
+Kevin debe mostrar progreso real. No necesita aprender a controlar su poder por completo ni convertirlo en una habilidad segura. Sí puede aprender a elegir cuándo intentarlo, hacia dónde dirigirlo, qué objetivo alcanzar, cuándo concentrar o extender una manifestación y cómo usarla para atacar, defender, interrumpir, abrir una ruta o proteger a alguien. Puede acertar en el objetivo inmediato y provocar efectos secundarios que no previó. Puede repetir una intención sin repetir exactamente el resultado.
+
+No mantenerlo eternamente en el punto de «el poder se activa y algo se destruye». Sus experiencias deben dejar cambios prácticos en sus decisiones y en lo que se atreve a intentar. Tampoco regalarle técnicas dominadas, precisión constante, inmunidad a las consecuencias ni conocimiento del origen. El progreso se demuestra en escena y puede ser irregular.
+
+### Kevin no es una solución automática
+
+Los mundos deben conservar capacidad de actuar sin él. Sus habitantes, defensores, facciones y enemigos tienen objetivos, recursos, planes y conflictos propios; pueden estar ganando, perdiendo o resolviendo una crisis antes de su llegada. Kevin puede alterar el curso de esos acontecimientos, pero no debe ser necesario para que todos los conflictos avancen ni convertirse automáticamente en el recurso decisivo de cada mundo.
+
+Los habitantes pueden combatir, evacuar, negociar, investigar, protegerse, vencer o fracasar por sus propios medios. Pueden necesitar a Kevin por una razón concreta, pero esa necesidad debe surgir de la lógica del conflicto y no de la comodidad del argumento.
+
+### Respuestas hostiles creíbles
+
+Cuando una comunidad o autoridad relacione a Kevin con daños y muertes, la hostilidad debe ser una posibilidad inmediata y real. Pueden intentar matarlo, capturarlo, expulsarlo, inmovilizarlo o atacarlo por venganza, miedo, desesperación o cálculo. Saber que atacarlo es peligroso no elimina esas decisiones: algunos actuarán aun conociendo el riesgo, se equivocarán o preferirán asumirlo antes que dejarlo libre. Otros negociarán, observarán, huirán, intentarán utilizarlo o decidirán no intervenir. No imponer una reacción universal ni hacer que todos sean prudentes.
+
+La culpa, las disculpas o el arrepentimiento de Kevin pueden aparecer cuando nazcan de la situación, pero no deben convertirse en su reacción estándar ante cada mundo ni sustituir decisiones y acciones concretas.
