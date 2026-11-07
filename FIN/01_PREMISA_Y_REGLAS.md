@@ -406,3 +406,31 @@ Los manipuladores importantes no deben limitarse a fingir amistad, hacer una ofe
 - Los manipuladores pueden equivocarse, perder el control de sus planes, sentir culpa, tener objetivos legítimos junto a métodos inaceptables o descubrir que Kevin no reacciona como esperaban.
 - Una manipulación debe cambiar acontecimientos y tener consecuencias; no basta con revelar al final que alguien mentía.
 - Distinguir lo que el personaje dijo, lo que ocultó, lo que Kevin entendió y lo que realmente estaba intentando conseguir.
+
+
+## 15. Cosmología abierta: mundos superiores, inferiores y exteriores
+
+La realidad de FIN puede incluir mundos superiores, intermedios e inferiores, planos, estratos, dimensiones conectadas y territorios exteriores. No reducirlos a una escalera universal de poder. La posición cosmológica de un mundo no determina automáticamente la fuerza de todos sus habitantes ni garantiza que pueda dominar a los demás. Puede haber mundos aislados, fronteras que requieren condiciones especiales, rutas de ascenso y descenso, prisiones entre realidades y lugares cuya posición sea desconocida.
+
+Un capítulo sigue centrado en un mundo o realidad principal. Ese mundo puede contener varios cielos, capas o estratos conectados que forman parte de su propia estructura. No contar el destino completo de varios mundos independientes como si fueran uno solo.
+
+## 16. Otros seres extraordinarios y escalas comparables a Kevin
+
+Kevin no es el único ser de escala monstruosa. Pueden existir personajes y entidades que lo igualen, lo superen o representen amenazas que no se comparen mediante fuerza bruta. Algunos habrán alcanzado su poder mediante métodos propios: entrenamiento de eras, cultivo, investigación, técnicas desarrolladas personalmente, evolución, conquista, pactos, sacrificios o procesos que todavía no comprendemos. Otros pueden haber existido antes de las civilizaciones o pertenecer a naturalezas ajenas a las categorías conocidas.
+
+La diferencia esencial con Kevin puede ser la experiencia y el dominio: un ser puede poseer una capacidad comparable y saber utilizarla con precisión porque la construyó durante eras. Otro puede tener un poder superior en su propio dominio, pero estar limitado por condiciones, fronteras o leyes. No asumir que Kevin es la cima, la única anomalía o el ser más destructivo del multiverso.
+
+No escalar cada capítulo por encima del anterior. La fuerza es una dimensión de la historia, no el único criterio de interés. Los combates entre entidades de escalas extremas deben tener claridad táctica, objetivos y consecuencias; no ser una sucesión de cifras o explosiones sin significado.
+
+## 17. Motivaciones independientes y conflictos anteriores a Kevin
+
+Los seres poderosos pueden buscar escapar de su mundo, ascender a planos superiores, descender a mundos inferiores, exterminar una realidad, impedir una fuga, abrir una frontera, conquistar territorios, preservar una prisión o perseguir objetivos que comenzaron eras antes de la llegada de Kevin. Sus decisiones deben continuar teniendo sentido si Kevin no estuviera presente.
+
+Kevin puede irrumpir en esos conflictos como una variable inesperada, un testigo, un obstáculo secundario, una oportunidad que alguien decide aprovechar o alguien que simplemente intenta sobrevivir. No convertir automáticamente a todos los poderosos en defensores de su mundo ni en personas que desean utilizarlo.
+
+## 18. Control, origen y experiencia no son lo mismo
+
+Distinguir entre magnitud del poder, dominio técnico, experiencia, resistencia, conocimiento y objetivos. Kevin puede poseer una capacidad inmensa y carecer de experiencia. Un rival puede tener una fuerza comparable y un control mucho más refinado. Otro puede ser menos destructivo y aun así ser capaz de derrotarlo mediante condiciones, técnicas o preparación. No inferir superioridad total a partir de una sola dimensión.
+
+Los poderes ajenos a Kevin deben tener métodos, historia, límites y costes coherentes con sus usuarios. No revelar todo en una explicación; mostrarlo mediante decisiones, entrenamiento, combates y consecuencias.
+
