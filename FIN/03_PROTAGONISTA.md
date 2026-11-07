@@ -299,3 +299,14 @@ El poder de Kevin no debe reducirse narrativamente a tocar, golpear y destruir o
 Puede afectar conexiones, sistemas, fenómenos o estructuras locales y provocar consecuencias que se propaguen más allá del lugar donde Kevin actuó. Esto no significa que siempre lo haga ni que Kevin comprenda o dirija esos efectos. Cada manifestación debe responder a la lógica particular del mundo y puede ser indirecta, localizada, extensa, involuntaria o difícil de interpretar.
 
 La capacidad destructiva no vuelve a Kevin invulnerable. Puede ser herido, morir, quedar incapacitado, ser contenido o enfrentarse a seres capaces de resistirlo o superarlo. Su poder, su cuerpo, su control y sus decisiones deben narrarse como dimensiones separadas.
+
+
+## Experiencia confirmada al cierre del capítulo 18 — Odrava
+
+Kevin llegó a Odrava el día 1 a las 04:52 y desapareció el día 4 a las 18:31. Su estancia duró 85 horas y 39 minutos. No murió ni se regeneró.
+
+En Odrava, sus manifestaciones afectaron las corrientes atmosféricas y las rutas migratorias de los vaur, criaturas que contribuyen al sistema estacional del mundo. Una primera manifestación alteró la continuidad de la espalda de un vaur y provocó su caída. Otras hicieron que las corrientes perdieran temporalmente sus destinos, cambiaron rutas entre continentes y desviaron humedad hacia regiones distintas. En el Nudo de las Siete Rutas, una manifestación hizo retroceder temporalmente la grieta que estaba consumiendo las corrientes, pero también desvió una masa de agua hacia el océano interior y causó inundaciones en Namar. En un segundo intento, Kevin abrió un corredor temporal que permitió que parte de la migración cruzara, aunque las rutas antiguas quedaron divididas.
+
+Kevin no comprendió ni controló esos efectos. No sabe si su intervención era necesaria, si existía otra solución ni si podría repetirlos. Vio que sus acciones podían alterar un sistema ambiental completo y producir consecuencias en regiones lejanas. También vio que los habitantes podían desconfiar de él y, aun así, cooperar cuando no había alternativas.
+
+Kevin conserva el pequeño dragón de madera que Eren le regaló en Tiravel. No se llevó objetos de Odrava. Desapareció sin que Ilyra ni los demás supieran adónde había ido; no debe asumirse que conocen el traslado entre mundos.
