@@ -43,6 +43,7 @@ El capítulo 1 ya está escrito y guardado en FIN/CAPITULOS/01_VEYRA_EL_MUNDO_QU
 | 7 | Orveth, el mundo donde cazaban los dioses | Orveth | Completo |
 | 8 | Naereth, el reino que encerró la noche | Naereth | Completo |
 | 9 | Nharos, el mundo que no podía morir | Nharos | Completo |
+| 10 | Taurak, el mundo que expulsó al desastre | Taurak | Completo |
 
 ## 5. Desarrollo y responsabilidad creativa
 
@@ -211,3 +212,21 @@ Al registrar cada capítulo futuro, anotar:
 No se exige mostrar todos los territorios ni introducir escenas remotas por obligación. Sí se exige que el mundo tenga una escala real y coherente detrás de lo que se muestra.
 
 **Nota de continuidad:** Nharos, capítulo 9, conserva exactamente los acontecimientos narrados. Su crisis estuvo concentrada alrededor de la prisión de Akh-Mor y no transmitió suficiente amplitud planetaria. No añadir escenas o regiones retroactivas. Los próximos mundos aplicarán el criterio reforzado.
+
+
+## 17. Resumen del capítulo 10
+
+- **Archivo:** `FIN/CAPITULOS/10_TAURAK_EL_MUNDO_QUE_EXPULSO_AL_DESASTRE.md`.
+- **Mundo:** Taurak, una realidad extensa recorrida por nueve grandes rutas migratorias que atraviesan continentes, océanos y galerías subterráneas. Sus civilizaciones y especies tienen estructuras propias y centros de poder distribuidos.
+- **Regiones y pueblos:** Varkesh y los pasos Veyr; los bosques de cristal de los Aruun; las ciudades arbóreas de los Sair en Theryn; los arrecifes Namarai del océano de Vael; las galerías profundas de Othuun y los Khar; nueve estirpes dracónicas.
+- **Cronología:** Kevin llegó el día 1 a las 09:42 y fue expulsado el día 4 a las 16:12. Estancia total: 78 horas y 30 minutos.
+- **Conflicto previo:** las nueve migraciones se debilitaban. Khevar y sus partidarios querían abrir la Cámara del Primer Aliento para provocar una renovación y romper el orden de las estirpes antiguas. Vaeruun quería mantener dormida a la entidad primordial.
+- **Manifestación:** la llegada de Kevin dañó una marca de migración y desvió una ruta aérea. Una prueba de Khevar con una pieza de nueve ranuras provocó una reacción destructiva que dañó una fortaleza.
+- **Perspectivas alejadas:** se mostraron acontecimientos en el océano, Theryn y Othuun. Los pueblos de esas regiones tenían conflictos propios y no todos conocieron inmediatamente la llegada de Kevin ni respondieron del mismo modo.
+- **Manipulación:** Khevar intentó utilizar a Kevin como llave para abrir la Cámara. Después fingió haber cambiado de opinión para acercarse a él. Kevin rechazó colaborar.
+- **Expulsión:** Vaeruun, Rhaum, Dhur-Khal, Othra y otros guardianes activaron las nueve rutas de migración desde puntos distintos del mundo. Kevin se resistió y no eligió el destino. La operación consumió la memoria ancestral de la Primera Estirpe y dañó varias rutas.
+- **Resultado:** Taurak no colapsó. Tres rutas de migración quedaron inutilizadas; dos nidos dracónicos mayores se derrumbaron; seis ciudades de raíces quedaron aisladas; catorce arrecifes habitables fueron desplazados o abandonados; nueve galerías profundas quedaron selladas.
+- **Balance provisional:** 24.600 muertos confirmados, 11.800 desaparecidos, 39.000 heridos y 208.000 evacuados. No es un censo mundial; heridos y evacuados pueden solaparse.
+- **Personajes:** Seyra sobrevivió; Vaeruun sobrevivió debilitada; Khevar desapareció en las fosas del norte; Rhaum sobrevivió herido; Othra fue rescatada; Dhur-Khal sobrevivió con una pérdida sensorial; Neyra tiene destino no confirmado. El Primer Aliento continúa dormido.
+- **Estado de Kevin:** no murió en este capítulo. Fue expulsado deliberadamente y no sabe dónde terminó ni cómo funcionó el mecanismo.
+- **Estado:** capítulo completo, guardado en Markdown. Segundo mundo que no colapsa y primero que consigue expulsar a Kevin.
