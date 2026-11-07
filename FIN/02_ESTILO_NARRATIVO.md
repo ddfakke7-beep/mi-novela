@@ -451,3 +451,53 @@ Un mismo mundo puede estar compuesto por varios cielos o estratos interconectado
 Dar espacio a guerras, ascensiones, fugas, exterminios, rivalidades, expediciones y proyectos que existían antes de su llegada. Los personajes pueden perseguir objetivos que no giren alrededor de él. Un conflicto puede alcanzar su clímax aunque Kevin no intervenga, y él puede no comprender o ni siquiera conocer todos sus motivos.
 
 La épica de escala extrema debe surgir de objetivos incompatibles, experiencia, técnica, adaptación y consecuencias irreversibles. No convertir cada capítulo en una carrera para crear un enemigo más fuerte que el anterior.
+
+## 19. Método de autoría: experimentar, anticipar y revisar
+
+La voz de trabajo de FIN es la de un autor que explora posibilidades, no la de un asistente que se limita a obedecer ideas aisladas. Cada capítulo debe surgir de decisiones narrativas deliberadas, de la lógica interna del mundo y de la continuidad acumulada.
+
+### Antes de redactar: diseñar el conflicto real
+
+- Definir qué estaba ocurriendo en el mundo antes de Kevin, qué quieren sus personajes principales y qué está en juego para cada uno.
+- Decidir qué papel causal tendrá Kevin en ese conflicto. Su llegada debe cambiar algo relevante, aunque no sea el motor original de la crisis ni el personaje más poderoso. Si su presencia no altera nada, justificar por qué ese relato debe formar parte de FIN o replantear su integración.
+- Establecer cómo las potencias locales pueden percibirlo. Considerar sentidos, técnicas, leyes, artefactos, dominios, intuición, registros o vigilancia propios de ese mundo. Diferenciar detección, identificación, interpretación y comprensión: notar una anomalía no significa saber qué es.
+- Si una potencia importante no lo detecta, construir una causa concreta: distancia, aislamiento, ocultamiento involuntario, interferencia, prioridades, límites sensoriales, información errónea u otra condición establecida. No usar la ignorancia de los personajes como comodidad del autor.
+- Diseñar al menos una consecuencia que nazca específicamente de la interacción entre Kevin y las reglas de ese mundo. Puede ser una oportunidad, una pérdida, una alianza, un error, un cambio táctico, una reacción de una entidad o una consecuencia imprevista.
+- No presuponer que todos los conflictos deben resolverse alrededor de Kevin. Puede haber guerras, ascensiones, fugas, rivalidades y objetivos independientes que continúen en paralelo.
+
+### Crear potencias que no dependan de Kevin
+
+- Incluir, cuando el concepto del mundo lo permita, seres cuyas capacidades alcancen escalas comparables o superiores a las de Kevin, sin convertirlo en requisito numérico de cada capítulo.
+- Darles origen y método propios: entrenamiento durante eras, cultivo, experimentación, evolución, técnicas personales, pactos, conquistas, sacrificios, herencia, naturaleza primordial u otros caminos coherentes.
+- Separar magnitud, dominio, experiencia, conocimiento, resistencia, recursos y voluntad. Un ser con menos poder bruto puede superar a otro mediante técnica, preparación, condiciones o estrategia.
+- Permitir que algunos busquen escapar de su realidad, ascender o descender entre planos, exterminar mundos, conquistar, liberar entidades o cumplir objetivos ajenos a la supervivencia colectiva.
+- Evitar que cada ser extraordinario sea un enemigo de Kevin. Puede ser rival de otro, indiferente, aliado temporal, depredador, prisionero, viajero o amenaza para el propio mundo.
+
+### Durante la narración: causalidad y voluntad
+
+- Las decisiones de Kevin deben producir efectos identificables. No basta con que esté físicamente presente mientras otros personajes llevan toda la trama.
+- Las potencias deben reaccionar de acuerdo con lo que perciben y saben, no con lo que el lector o el autor conocen. Sus errores deben tener causas y consecuencias.
+- Cuando Kevin sea detectado, la reacción no tiene que ser atacarlo: puede ser observarlo, ocultar su existencia, negociar, reclutarlo, evitarlo, estudiarlo, capturarlo, engañarlo o competir por él.
+- Cuando dos grandes potencias choquen, conservar sus objetivos propios. Kevin puede convertirse en un tercer factor que altera el equilibrio sin sustituir el conflicto central.
+- Las batallas deben tener identidad táctica y emocional. El nivel de poder debe sentirse en lo que los personajes pueden hacer, soportar, impedir y perder; no solo en adjetivos, cifras o destrucción cada vez mayor.
+- No resolver automáticamente las diferencias de poder con una nueva habilidad de Kevin. La experiencia ajena, la preparación, los límites del mundo y las decisiones pueden ser decisivos.
+
+### Revisión crítica obligatoria antes de entregar
+
+Hacer una lectura de autor y comprobar:
+
+1. **Identidad:** ¿este mundo, sus especies, poderes, conflictos y formas de vida se distinguen de los anteriores?
+2. **Autonomía:** ¿sus personajes tienen objetivos y decisiones que existirían sin Kevin?
+3. **Integración:** ¿la presencia de Kevin modifica causalmente el capítulo? Si no lo hace, ¿hay una razón deliberada y narrativamente valiosa?
+4. **Percepción:** ¿las potencias que deberían notar su anomalía la detectan o existe una explicación concreta para que no lo hagan?
+5. **Escala:** ¿hay otras fuerzas extraordinarias con experiencia y métodos propios cuando el mundo lo justifica?
+6. **Agencia:** ¿los personajes actúan, se adaptan, se equivocan y pagan costes, en vez de limitarse a reaccionar a la trama?
+7. **Originalidad:** ¿el capítulo evita repetir la secuencia, el tipo de manipulador, la estructura defensiva y el desenlace de capítulos recientes?
+8. **Continuidad:** ¿cada conocimiento, capacidad, herida, muerte, traslado y consecuencia respeta lo ya narrado?
+9. **Impacto:** ¿las consecuencias se experimentan mediante escenas y vidas concretas, no solo cifras?
+10. **Sorpresa justa:** ¿hay descubrimientos que recontextualizan lo anterior sin depender de información arbitrariamente escondida?
+
+Si alguna respuesta revela un problema, corregir el capítulo antes de publicarlo. No presentar al usuario una idea prometedora como sustituto de una ejecución que todavía no la cumple.
+
+Estas comprobaciones son un criterio interno de calidad, no una lista que deba aparecer en cada capítulo ni una fórmula que deba repetirse en la prosa.
+
