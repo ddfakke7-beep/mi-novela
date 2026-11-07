@@ -917,3 +917,35 @@ Kevin desapareció de Nereth el día 4 a las 20:07. No murió ni se regeneró. C
 - Veyun y otras personas afectadas conservan lagunas de memoria.
 - No se confirmó el destino de todos los ecos que entraron en cuerpos; algunos se disolvieron y otros dejaron fragmentos persistentes.
 - No se sabe si la corriente funeraria se estabilizará por completo en todas las regiones ni si quedan depósitos menores.
+
+
+## Continuidad tras el capítulo 18 — Odrava
+
+### Punto exacto de reanudación
+Kevin desapareció de Odrava el día 4 a las 18:31. No murió ni se regeneró. Conserva el pequeño dragón de madera que Eren le regaló en Tiravel y no se llevó objetos de Odrava. Ilyra y los demás no supieron adónde fue; no conocen por defecto el mecanismo de sus traslados. El siguiente mundo todavía no ha aparecido en escena.
+
+### Hechos confirmados
+- Odrava sobrevivió. La grieta de las corrientes altas dejó de expandirse, pero sigue existiendo sobre el Nudo de las Siete Rutas.
+- El Nudo quedó dividido. Las rutas antiguas no se recuperaron y las migraciones de los vaur cambiaron de forma permanente.
+- Las estaciones continuarán, pero ya no seguirán el mismo calendario ni las mismas rutas.
+- La hembra adulta Aruva sobrevivió, aunque perdió su función como guía del corredor occidental. Una de sus crías murió; otras crías quedaron separadas y fueron recogidas por adultos de distintas manadas.
+- Darem Khol intentó capturar a Aruva para extraer su núcleo y sostener las corrientes de agua de Suth. Abandonó la operación y perdió su autoridad. Algunos jefes de caravana todavía apoyan su decisión.
+- Meyra abandonó la expedición y ayudó a liberar a Aruva. Debe responder por su participación inicial.
+- Thoren murió al atraer la grieta hacia el faro de Khar-Veyr, permitiendo que sus aprendices escaparan.
+- Orvek sobrevivió herido; Ilyra, Rovan y Esh sobrevivieron.
+- Asha sobrevivió con lesiones graves y una pierna dañada; Talen y Nima sobrevivieron.
+- Las pérdidas regionales incluyeron cosechas, puentes fluviales, observatorios, un faro, rutas de caravanas, pozos exteriores, tres puertos e islas aisladas.
+- Balance provisional: 12.600 muertos confirmados, 8.300 desaparecidos, 31.000 heridos y 214.000 evacuados o desplazados. Las categorías pueden solaparse y los registros son incompletos.
+
+### Lo que Kevin sabe al salir
+Kevin sabe que sus manifestaciones alteraron las corrientes atmosféricas y las rutas migratorias de los vaur. Una de ellas hizo retroceder temporalmente la grieta; otra abrió un corredor hacia el océano interior y causó inundaciones en Namar. No comprende cómo produjo esos efectos ni sabe si su intervención era necesaria o si podría repetirlos. Vio que los habitantes podían desconfiar de él y aun así cooperar por necesidad. No sabe qué era la grieta ni por qué apareció nueve días antes de su llegada.
+
+### Cabos abiertos
+- La grieta sigue presente sobre el Nudo y podría volver a expandirse.
+- Los vaur tendrán que adaptarse a corredores nuevos; algunas manadas y crías siguen separadas.
+- Aruva sobrevivió, pero ya no guiará la ruta occidental.
+- Suth deberá reorganizar el abastecimiento de agua sin depender de la captura de vaur.
+- Darem perdió su autoridad, pero conserva apoyos entre algunos jefes de caravana.
+- Hadran, Veyr y Namar deben reconstruir infraestructuras dañadas y reorganizar sus acuerdos.
+- No se conoce el destino de todos los cazadores que cayeron durante la expedición.
+- Kevin desapareció sin despedida y los habitantes no saben si murió, fue expulsado o trasladado.
