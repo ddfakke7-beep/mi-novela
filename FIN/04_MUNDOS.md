@@ -483,3 +483,25 @@ Othar, custodio mayor de la Campana, abrió el anillo interior para intentar dar
 Nereth sobrevivió, pero la crisis dejó 4.820 muertos confirmados, 2.140 desaparecidos, 17.600 heridos y 68.000 personas evacuadas temporalmente o desplazadas. Los registros son provisionales y las categorías pueden solaparse. Algunas personas afectadas conservaron lagunas de memoria o perdieron fragmentos de identidad. Khal Ordan murió defendiendo la ruta hacia el núcleo; Othar sobrevivió herido; Veyra quedó dañada.
 
 **Continuidad abierta:** los cuatro pueblos deben decidir cómo conservar registros y relatos sin retener lúmenes; algunas familias rechazan la destrucción de la Campana; Othar deberá afrontar su responsabilidad; Veyra necesita recuperarse; la muerte de Khal deja un vacío en Khar; la corriente debe estabilizarse en todas las regiones. No se sabe si quedan depósitos menores en lugares aislados.
+
+
+## Mundo 18 — Odrava
+
+- **Nombre:** Odrava, el mundo que seguía a las estaciones.
+- **Capítulo:** 18 — Odrava, el mundo que seguía a las estaciones.
+- **Género:** fantasía ecológica de migraciones atmosféricas y civilizaciones adaptadas a ciclos vivos.
+- **Estado:** mundo superviviente, con sistema estacional alterado y daños regionales duraderos.
+- **Geografía:** cuatro grandes regiones continentales, un océano interior y mares exteriores: Hadran, llanuras templadas y ciudades de canales; Veyr, cordilleras y observatorios de altura; Suth, desiertos de sal y ciudades de pozo; Namar, arco de islas, arrecifes y puertos.
+- **Pueblos y organización:** consejos de agua y ciudades fluviales en Hadran; clanes de altura y observatorios en Veyr; caravanas y Pacto de las Cisternas en Suth; pueblos costeros y autoridades portuarias en Namar. No existe un gobierno mundial.
+- **Sistema natural:** las migraciones de los vaur, criaturas que nadan en las capas altas de la atmósfera, transportan humedad, calor y partículas que contribuyen a formar nubes y corrientes. Sus rutas participan en el ciclo estacional de Odrava.
+- **Amenaza:** una grieta en las corrientes altas apareció nueve días antes de la llegada de Kevin. Consumía o interrumpía las rutas atmosféricas y hacía que los vaur perdieran orientación. No se confirmó que tuviera conciencia ni que su objetivo fueran las criaturas.
+- **Conflicto local:** Darem Khol, dirigente del Pacto de las Cisternas, intentó capturar a la hembra adulta Aruva y extraer su núcleo para sostener corrientes de agua en Suth. La expedición hirió a Aruva y provocó la muerte de una cría. Darem finalmente abandonó la operación y perdió su autoridad.
+- **Llegada de Kevin:** día 1, 04:52, sobre la espalda de un vaur adulto durante una tormenta.
+- **Manifestaciones:** alteraron la continuidad de la espalda del vaur, hicieron que las corrientes perdieran temporalmente sus destinos, modificaron rutas y desviaron humedad. En el Nudo de las Siete Rutas, una manifestación hizo retroceder temporalmente la grieta; otra abrió un corredor hacia el océano interior y provocó inundaciones en Namar.
+- **Respuesta:** Ilyra Venn y los guardianes de ruta intentaron preservar la migración; los observatorios de Veyr, los consejos de Hadran, las caravanas de Suth y los puertos de Namar reaccionaron desde sus propios territorios. No hubo mando mundial único.
+- **Figuras centrales:** Ilyra Venn, Orvek, Rovan, Esh, Meyra, Darem Khol, Thoren, Asha, Talen, Nima y Aruva.
+- **Bajas relevantes:** Thoren murió al atraer la grieta hacia el faro de Khar-Veyr para permitir que sus aprendices escaparan. Una cría de Aruva murió durante una alteración de las corrientes. Asha sobrevivió con lesiones graves.
+- **Resultado:** la grieta dejó de expandirse, pero no fue destruida. El Nudo quedó dividido y las rutas antiguas no se recuperaron. Odrava sobrevivió con estaciones y migraciones alteradas.
+- **Balance provisional:** 12.600 muertos confirmados, 8.300 desaparecidos, 31.000 heridos y 214.000 evacuados o desplazados. Los registros son provisionales y las categorías pueden solaparse.
+- **Salida de Kevin:** día 4, 18:31. Ilyra no supo si había muerto, sido expulsado o trasladado.
+- **Continuidad abierta:** la grieta permanece sobre el Nudo; los vaur deben adaptarse a rutas nuevas; Aruva sobrevivió pero no volverá a guiar el corredor occidental; Suth debe reorganizar el agua; Hadran, Veyr y Namar deben reconstruir infraestructuras dañadas.
