@@ -377,3 +377,20 @@ Llegada: día 1, 07:20. Salida: día 4, 18:02. Estancia total: 82 horas y 42 min
 
 ### Estado
 Yunluo es el tercer mundo visitado por Kevin que no termina en colapso civilizatorio. El orden de cultivo dominante fue quebrado, pero el planeta y sus pueblos siguen existiendo. No se ha demostrado que el Río Invertido esté conectado con el mecanismo de los traslados.
+
+
+## 12. Vael Taar — los cinco cielos que se devoraban
+
+- **Tipo:** realidad estratificada de fantasía cósmica, compuesta por cinco cielos o estratos conectados. No se ha confirmado si existe un sexto.
+- **Geografía y estructura:** cinco grandes niveles con mares suspendidos, continentes flotantes, llanuras de ceniza, océanos interiores, ciudades sobre criaturas, jardines de raíces y rutas verticales. La antigua Escalera de Sal conectaba los cielos, pero estaba rota.
+- **Pueblos y regiones:** Jardines de Lumbre; ciudades suspendidas del segundo cielo; océano y pueblos costeros del tercero; Llanuras de Hueso, caravanas Kharuun y ciudades Silex del cuarto; Urd-Vaal y los Varkai del quinto.
+- **Conflicto previo:** Oruun llevaba nueve siglos intentando escapar de Vael Taar. Cada intento había destruido puentes y fronteras. Avar Keth había conseguido detenerlo en ocasiones anteriores. La disputa no comenzó con Kevin.
+- **Avar Keth:** nació mortal en el quinto cielo y desarrolló su poder mediante decenas de miles de años de práctica, técnicas propias, reconstrucciones corporales y dominio de corrientes. No era un protector altruista: también buscaba alcanzar el cielo superior, aunque se negó a permitir que Oruun abriera la frontera a costa de todos.
+- **Oruun:** entidad anterior a los registros actuales según sus propias afirmaciones. Quería escapar de Vael Taar, sin importarle qué quedara atrás. Su naturaleza y destino no están confirmados.
+- **Kevin:** llegó el día 1 a las 06:41 a los Jardines de Lumbre. Nara lo encontró. Su manifestación al salvar a una niña alteró el espacio y hundió parte de una plataforma. No participó en la guerra entre Avar y Oruun.
+- **Desenlace:** día 3, 03:15–03:40. Avar fijó el nombre de Oruun en la Cámara de los Nombres y desapareció. Los antiguos aliados cerraron la frontera y Oruun fue arrojado al quinto cielo. No se confirmó la muerte de ninguno.
+- **Consecuencias:** pérdida parcial de nombres y estrellas del primer cielo; dos ciudades suspendidas hundidas; océano del tercer cielo partido; rutas del cuarto cielo interrumpidas; columna central de Urd-Vaal rota; evacuación parcial del quinto cielo. Vael Taar sobrevivió.
+- **Balance provisional:** 8.400 muertos confirmados, 21.600 desaparecidos, 34.000 heridos y 173.000 desplazados o evacuados. Registros incompletos y categorías parcialmente solapadas.
+- **Personajes supervivientes:** Nara, Eshra Dhal, Tessa y los antiguos aliados de Avar (mujer de vidrio, hombre sin sombra, criatura de agua y niño de hierro), con daños o destinos posteriores no confirmados.
+- **Estado de Kevin:** no murió ni se regeneró. No obtuvo control fiable. Salió el día 3 a las 18:06, tras 59 horas y 25 minutos.
+- **Continuidad abierta:** Avar podría seguir existiendo como técnica o haber quedado atrapado en la Cámara; Oruun podría volver a abrir la frontera; la grieta residual de la columna y la presencia escuchada por la niña vendada no tienen explicación confirmada.
