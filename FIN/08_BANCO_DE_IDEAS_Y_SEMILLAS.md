@@ -419,3 +419,36 @@ Kevin no es inherentemente malo, pero tampoco debe quedar encasillado como héro
 **Principio central:** Kevin no está obligado a salvar un mundo por ser el protagonista, ni un mundo está obligado a ser condenado porque Kevin llegue a él. Cada caso debe ganarse su desenlace mediante la historia, las decisiones y los conflictos de quienes lo habitan.
 
 **Estado:** principio creativo aceptado para FIN. No determina todavía qué mundo destruirá Kevin deliberadamente ni cuándo ocurrirá; eso deberá surgir de una historia concreta.
+
+
+### Ampliación de la semilla 1: una soledad que nadie se atreve a atravesar
+
+La caminante no está simplemente aislada porque prefiera vivir lejos de los demás. Su poder actúa de manera involuntaria y mata a cualquier ser vivo que se acerque lo suficiente. No puede apagarlo a voluntad ni garantizar la seguridad de alguien que intente visitarla. Su territorio se ha convertido en un lugar al que nadie se aproxima.
+
+**Por qué nadie va a buscarla:**
+- Otros viajeros y desastres conocen su existencia, pero evitan su territorio porque acercarse significa morir. No es necesariamente miedo a que ella los ataque por voluntad propia: el peligro es su presencia misma.
+- La organización que vigila o captura desastres puede tener registros de ella, haber intentado estudiarla o haber perdido equipos y personas en acercamientos anteriores. No la ignora por falta de interés, sino porque no dispone de un método seguro para intervenir. Puede haber decidido establecer límites y vigilar a distancia en vez de enviar más gente a morir.
+- Ella tampoco puede recibir visitas ni acercarse a asentamientos sin poner en peligro a sus habitantes. Su aislamiento es una condición impuesta por su naturaleza, aunque con el tiempo haya aprendido a vivir dentro de ella.
+
+**Comunicación sin contacto:**
+
+Después de intentos presenciales que terminaron en muertes, la comunicación con ella solo pudo establecerse mediante medios remotos: transmisores, sondas, equipos automáticos, pantallas, señales o sistemas instalados fuera del alcance de su poder. La primera conexión pudo requerir sacrificios para colocar o recuperar dispositivos, pero no convertir el sacrificio humano en un requisito constante para cada conversación. Con el tiempo pudieron diseñar un canal que no exigiera que nadie entrara en su radio mortal.
+
+Esto le permite conocer voces, escuchar noticias y mantener conversaciones ocasionales, pero no compartir presencia física con nadie. Una transmisión puede apagarse; una voz puede despedirse. No sustituye la experiencia de tener a alguien delante.
+
+**El encuentro con Kevin:**
+
+Cuando Kevin llega a su territorio y se aproxima, ella espera el resultado habitual: que muera. Pero él no cae. Su poder lo rechaza, intenta expulsarlo o entra en conflicto con su naturaleza, pero Kevin permanece vivo. La razón exacta no está decidida y no debe explicarse de inmediato como una inmunidad universal. Puede tratarse de una interacción particular entre ambas existencias: su efecto mortal no logra imponerse sobre Kevin, o la propia naturaleza de Kevin lo repele sin destruirlo.
+
+La sorpresa de ella debe ser genuina. Quizá al principio repita pruebas pequeñas porque no comprende lo que está viendo; puede pensar que el canal, los sensores o sus propios sentidos están fallando. La posibilidad de hablar cara a cara con alguien no era algo que esperase volver a tener.
+
+**La relación no debe convertirse en obsesión ni dependencia instantánea:**
+- Su larga soledad puede hacer que la presencia de Kevin le importe mucho, pero no debe reducir toda su personalidad a querer retenerlo.
+- Puede sentir curiosidad, alivio, cautela, vergüenza por no saber relacionarse en persona o temor a que la situación termine.
+- Debe conservar intereses, criterio, recuerdos, humor, límites y objetivos propios. No existe únicamente para acompañar o necesitar a Kevin.
+- Kevin tampoco tiene que convertirse automáticamente en su salvador, terapeuta o compañero permanente. Puede tratarla como una persona y no como un fenómeno, pero la relación se construye con tiempo y decisiones mutuas.
+- Ella puede descubrir que la compañía le gusta y, al mismo tiempo, seguir siendo capaz de aceptar que Kevin tiene que marcharse. Su crecimiento consiste en reconsiderar lo que creía imposible, no en volverse posesiva.
+
+**Contradicción dramática:** la primera persona que puede acercarse a ella sin morir es también un viajero cuya presencia puede causar catástrofes. La oportunidad de dejar de estar sola llega acompañada por alguien que quizá no pueda quedarse, que puede ser peligroso para otros y cuya naturaleza tampoco comprende. La relación no borra el riesgo que ella representa ni el que Kevin representa.
+
+**Estado:** ampliación provisional de la semilla 1, a partir de la propuesta del usuario. Sin nombre, apariencia, mundo, radio o mecanismo exacto del poder, historia de los intentos de comunicación ni explicación definitiva de la interacción con Kevin. No asignar capítulo todavía.
