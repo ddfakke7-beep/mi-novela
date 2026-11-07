@@ -45,6 +45,11 @@ El capítulo 1 ya está escrito y guardado en FIN/CAPITULOS/01_VEYRA_EL_MUNDO_QU
 | 9 | Nharos, el mundo que no podía morir | Nharos | Completo |
 | 10 | Taurak, el mundo que expulsó al desastre | Taurak | Completo |
 | 11 | Yunluo, el mundo que alimentaba a sus inmortales | Yunluo | Completo |
+| 12 | Vael Taar: los cinco cielos que se devoraban | Vael Taar | Completo |
+| 13 | Ithara, el mundo que se estaba mudando | Ithara | Completo |
+| 14 | Tiravel, el mundo que no perdió el alba | Tiravel | Completo |
+| 15 | Serekh, el mundo que seguía fabricando la muerte | Serekh | Completo |
+| 16 | Talmera, el mundo que aprendió a ser héroe | Talmera | Completo |
 
 ## 5. Desarrollo y responsabilidad creativa
 
@@ -314,4 +319,21 @@ No se exige mostrar todos los territorios ni introducir escenas remotas por obli
 - **Desenlace:** Kevin dejó de huir y atacó el núcleo. Varias manifestaciones quebraron los soportes y apagaron la estructura entre las 19:12 y las 19:46 del día 3. Las criaturas dejaron de moverse.
 - **Consecuencias:** no volvió el agua a los mares, no se reconstruyeron las ciudades ni se confirmó la supervivencia de ninguna especie. La intervención de Kevin detuvo una amenaza activa en un mundo que ya estaba muerto.
 - **Estado de Kevin:** no obtuvo control fiable. La experiencia le mostró que la regeneración no evita el dolor ni el tiempo de incapacidad y que huir no siempre es una opción viable. No sabe quién destruyó Serekh ni por qué.
+- **Estado:** capítulo completo, guardado en Markdown.
+
+
+## 24. Resumen del capítulo 16 — Talmera
+
+- **Archivo:** `FIN/CAPITULOS/16_TALMERA_EL_MUNDO_QUE_APRENDIO_A_SER_HEROE.md`.
+- **Mundo:** Talmera, mundo de tres continentes y un océano interior. Sarn posee ciudades verticales alrededor de pilares de basalto; Odria, llanuras de vidrio y asentamientos móviles; Vhal, plataformas costeras y arrecifes habitados.
+- **Sociedad de poderes:** después de la Lluvia de Cobalto, algunas personas nacen con Rasgos individuales. Los Vigías protegen comunidades y rutas. Los Faros son los protectores más reconocidos, clasificados por rescates, operaciones, coordinación y confianza pública, no solo por fuerza.
+- **Llegada y salida:** Kevin llegó a Tersal el día 1 a las 08:14 y desapareció el día 3 a las 19:42. Estancia total: 59 horas y 28 minutos.
+- **Conflicto:** la Retirada superpone sectores de Talmera con versiones anteriores de lugares desaparecidos. Narel Venn abrió rutas mediante un Nudo para recuperar a su hermana Ilen, desaparecida once años antes. Vara Il lo manipuló para provocar una convergencia y acceder a los Rasgos de la población desaparecida.
+- **Kevin:** su manifestación inicial dañó parte de un edificio durante el enfrentamiento entre Dalia Sen y Narel. Los Vigías lo detuvieron. Permaneció contenido mediante un campo de peso de doce columnas desde el día 1 a las 19:05 hasta el día 3 a las 02:35, unas 31 horas y 30 minutos. No podía marcharse por sí mismo.
+- **Decisión:** Dalia explicó a Kevin que las dos ciudades estaban colisionando y le pidió ayuda. Kevin aceptó voluntariamente. Su manifestación cortó una conexión del Nudo, pero no fue un uso preciso ni controlado y no comprendió el mecanismo.
+- **Batalla y desenlace:** los Vigías evacuaron civiles, sostuvieron edificios y contuvieron la convergencia. Tavan Rhem mantuvo el eje central hasta permitir la evacuación y murió por el daño interno de su Rasgo. La Retirada terminó a las 04:40 del día 3.
+- **Resultado:** Talmera sobrevivió. Una sección de la ciudad desaparecida no regresó y no se confirmó el destino de todos sus habitantes. Ilen Venn sobrevivió, pero su relación con Narel quedó dañada. Narel y Vara fueron detenidos.
+- **Personajes:** Dalia Sen, Tavan Rhem, Oren Vask, Iven, Sira Vel, Narel Venn, Ilen Venn, Vara Il, Mira y Nima.
+- **Balance provisional:** 286 muertos confirmados, 94 desaparecidos, 1.720 heridos y 23.400 desplazados o evacuados. Las categorías pueden solaparse y los registros siguen abiertos.
+- **Estado de Kevin:** no murió ni se regeneró. Vio cómo los héroes y equipos locales protegían a la población y cómo Tavan murió sosteniendo la ciudad. No conoce el origen de la Retirada ni la relación exacta entre el Nudo y su poder.
 - **Estado:** capítulo completo, guardado en Markdown.
