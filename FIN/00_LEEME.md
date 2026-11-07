@@ -172,3 +172,16 @@ Los ejemplos de mundos, trampas, acompañantes, inmortales, dragones, demonios, 
 FIN cuenta con nueve capítulos completos. Kevin desapareció de Nharos el día 4 a las 14:06, después de una estancia de 91 horas y 54 minutos. Nharos no colapsó: sus siete dominios continúan existiendo, aunque la prisión de Akh-Mor quedó dañada y una frontera desconocida permanece parcialmente abierta.
 
 El capítulo 9 mostró por primera vez la muerte física de Kevin y su regreso mediante regeneración. Permaneció muerto e incapacitado durante aproximadamente tres horas; Sarith y varios guardianes lo presenciaron. Consultar `07_CONTINUIDAD.md` para el estado exacto.
+
+
+## Regla de escala mundial reforzada
+
+Un mundo no puede sentirse como una ciudad, una región aislada o el escenario de una única crisis local al que se le ha dado un nombre planetario. Debe percibirse como una realidad completa, extensa y autónoma. Su escala se demuestra mediante geografía, diversidad de civilizaciones, distancias, población, culturas, sistemas de poder, conflictos simultáneos y consecuencias que alcanzan lugares que Kevin nunca visita.
+
+No basta con enumerar continentes o dominios: hay que hacerlos existir en la narración. Mostrar, cuando aporte valor, escenas en territorios alejados, personajes con objetivos independientes, potencias que actúan desde sus propios dominios, noticias que tardan en llegar, conflictos que continúan sin Kevin y consecuencias que se propagan de forma desigual. El mundo no se detiene para esperarlo.
+
+Las grandes potencias no deben concentrarse todas alrededor de Kevin ni reunirse siempre en una única ciudad. Pueden existir dioses, dragones, maestros de cultivo, sectas murim, reinos demoníacos, civilizaciones no humanas, entidades antiguas, dimensiones y organizaciones repartidas por el mundo. Sus escalas, intereses y capacidades serán propias de cada ambientación.
+
+La amenaza de Kevin puede afectar a una parte del mundo, a varias regiones o a toda la realidad, según lo que suceda. No es obligatorio que todas las potencias intervengan, que todo el planeta quede destruido ni que el mundo fracase. Algunos pueden contenerlo, expulsarlo, engañarlo, utilizarlo, encerrarlo o conseguir una victoria parcial. La magnitud de la respuesta debe corresponder a la magnitud real de la amenaza.
+
+Nharos, capítulo 9, permanece exactamente como fue narrado: una crisis concentrada alrededor de la prisión de Akh-Mor que afectó a sus dominios, pero no mostró suficientemente la amplitud y diversidad planetaria. No añadirle retrospectivamente continentes, guerras o personajes. Esta observación sirve como corrección de construcción para los siguientes mundos, no como cambio de los hechos del capítulo.
