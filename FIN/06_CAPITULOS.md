@@ -355,3 +355,20 @@ No se exige mostrar todos los territorios ni introducir escenas remotas por obli
 - **Balance provisional:** 4.820 muertos confirmados, 2.140 desaparecidos, 17.600 heridos y 68.000 evacuados temporalmente o desplazados. Registros provisionales; categorías pueden solaparse.
 - **Estado de Kevin:** no murió ni se regeneró. No obtuvo control fiable. Comprendió que retener recuerdos puede dañar a los vivos, pero no sabe si destruir la Campana era la única solución. No conoció al restaurador de mundos ni a una organización multiversal.
 - **Estado:** capítulo completo, guardado en Markdown.
+
+
+## 26. Resumen del capítulo 18
+
+- **Título:** Odrava, el mundo que seguía a las estaciones.
+- **Mundo:** Odrava, con cuatro regiones continentales, un océano interior y mares exteriores. Sus estaciones dependen en parte de la migración de los vaur, criaturas de atmósfera que transportan humedad, calor y partículas que contribuyen a formar nubes y corrientes.
+- **Cronología:** Kevin llegó el día 1 a las 04:52 y desapareció el día 4 a las 18:31. Estancia total: 85 horas y 39 minutos.
+- **Perspectivas:** Kevin, Ilyra Venn, Orvek, Darem Khol, Meyra, Asha, Talen y representantes de las cuatro regiones.
+- **Crisis previa:** una grieta en las corrientes altas apareció nueve días antes de Kevin y comenzó a consumir las rutas atmosféricas. Los vaur perdieron orientación y la estabilidad estacional de Odrava quedó amenazada.
+- **Conflicto local:** Darem Khol, dirigente del Pacto de las Cisternas, intentó capturar a Aruva, una hembra adulta, para extraer su núcleo y sostener las corrientes de agua de Suth. Su expedición hirió a Aruva y causó la muerte de una cría. Meyra abandonó la operación y ayudó a liberar a la hembra.
+- **Manifestaciones de Kevin:** alteraron la continuidad de la espalda de un vaur, hicieron que las corrientes perdieran temporalmente sus destinos, desviaron humedad y cambiaron rutas entre regiones. En el Nudo de las Siete Rutas, una manifestación hizo retroceder temporalmente la grieta, pero otra abrió un corredor hacia el océano interior y provocó inundaciones en Namar. Kevin no obtuvo control ni explicación fiable.
+- **Respuesta del mundo:** Ilyra y los guardianes intentaron preservar la migración. Veyr perdió el faro de Khar-Veyr cuando Thoren atrajo la grieta hacia la torre y murió; Hadran sufrió alteraciones de ríos, pérdidas de cosechas y evacuaciones; Suth perdió rutas y pozos; Namar sufrió la destrucción de tres puertos y daños en islas.
+- **Resultado:** la grieta dejó de expandirse, pero no fue destruida. El Nudo quedó dividido y las rutas antiguas no regresaron. Odrava sobrevivió con estaciones y migraciones alteradas.
+- **Personajes:** Ilyra, Orvek, Rovan, Esh, Meyra, Darem, Thoren, Asha, Talen, Nima y Aruva. Thoren murió; los demás sobrevivieron, aunque algunos quedaron heridos o perdieron autoridad.
+- **Balance provisional:** 12.600 muertos confirmados, 8.300 desaparecidos, 31.000 heridos y 214.000 evacuados o desplazados. Las cifras son provisionales y las categorías pueden solaparse.
+- **Estado de Kevin:** no murió ni se regeneró. Vio que su poder podía alterar sistemas atmosféricos y rutas migratorias completas, pero no comprendió ni controló esos efectos. No conoció a otros viajeros, al restaurador ni a una organización multiversal.
+- **Estado:** capítulo completo, guardado en Markdown.
