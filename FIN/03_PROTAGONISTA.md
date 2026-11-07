@@ -34,7 +34,7 @@ ChatGPT desarrolla autónomamente:
 - Su relación con la violencia, el peligro y la destrucción.
 - Sus reacciones ante las víctimas y los supervivientes.
 - La manera en que afronta que las potencias de cada mundo intenten matarlo.
-- Su aprendizaje, comprensión y control progresivo del poder.
+- Su aprendizaje, comprensión parcial y capacidad progresiva para orientar algunas manifestaciones del poder.
 - Sus decisiones y cambios de perspectiva conforme acumula experiencias.
 
 No convertirlo automáticamente en alguien frío, cruel, arrogante, indiferente, héroe o villano. La evolución debe ganarse en la historia.
@@ -46,7 +46,7 @@ No convertirlo automáticamente en alguien frío, cruel, arrogante, indiferente,
 - Posee un poder de escala monstruosa, ridículamente destructivo.
 - Al principio no comprende plenamente su alcance ni sabe utilizarlo de manera controlada.
 - Sus llegadas y acciones pueden desencadenar catástrofes desproporcionadas.
-- Aprenderá gradualmente a reconocer, controlar y dirigir su poder a lo largo de la historia.
+- Aprenderá gradualmente a reconocer patrones parciales y a orientar algunas manifestaciones, sin llegar por ello a dominar ni controlar el fenómeno completo.
 - Los enfrentamientos con los seres más poderosos de cada mundo pueden obligarlo a luchar para sobrevivir y acelerar ese aprendizaje.
 
 ### Principios para narrar su aprendizaje
@@ -54,7 +54,7 @@ No convertirlo automáticamente en alguien frío, cruel, arrogante, indiferente,
 - No comienza dominando el poder.
 - Las primeras manifestaciones pueden ser involuntarias, imprecisas o mayores de lo que pretendía.
 - Su experiencia puede cambiar su comprensión, pero no garantiza que pueda controlar el poder.\n- Intentar contener, desviar o defenderse puede provocar efectos secundarios y aumentar la destrucción.
-- El progreso debe ser visible y gradual: comprender qué activa el poder, contenerlo, dirigirlo, ajustar su intensidad y usarlo con intención, según lo que la historia vaya estableciendo.
+- El progreso debe ser visible y gradual: reconocer condiciones o patrones parciales, decidir cuándo intentarlo, orientar una manifestación hacia un objetivo o dirección, ajustar aproximadamente su alcance y usarla con intención. Puede acertar en lo inmediato y desconocer o provocar consecuencias secundarias.
 - Aprender a utilizarlo no significa que comprenda su origen ni que alcance un control perfecto.
 - No fijar de antemano límites, costes, técnicas o explicaciones definitivas que todavía no hayan aparecido en la narración.
 - Su capacidad destructiva puede superar ampliamente su habilidad inicial para controlarla.
@@ -310,3 +310,29 @@ En Odrava, sus manifestaciones afectaron las corrientes atmosféricas y las ruta
 Kevin no comprendió ni controló esos efectos. No sabe si su intervención era necesaria, si existía otra solución ni si podría repetirlos. Vio que sus acciones podían alterar un sistema ambiental completo y producir consecuencias en regiones lejanas. También vio que los habitantes podían desconfiar de él y, aun así, cooperar cuando no había alternativas.
 
 Kevin conserva el pequeño dragón de madera que Eren le regaló en Tiravel. No se llevó objetos de Odrava. Desapareció sin que Ilyra ni los demás supieran adónde había ido; no debe asumirse que conocen el traslado entre mundos.
+
+## 11. Estado de evolución: orientación sin dominio (criterio vigente tras el capítulo 18)
+
+La evolución de Kevin debe avanzar desde la pura reacción involuntaria hacia una capacidad imperfecta de iniciativa. No debe quedarse esperando a que el poder se active por sí solo, ni limitarse a tocar algo y provocar su destrucción. Puede decidir intentar una manifestación y darle una orientación aproximada: atacar un objetivo, apartar una amenaza, abrir o interrumpir una conexión, desviar un efecto, crear una oportunidad de escape o proteger a alguien.
+
+Esto no establece que pueda hacerlo siempre, con precisión ni sin consecuencias. Puede fallar, excederse, afectar sistemas relacionados que no conocía o conseguir un resultado inmediato y provocar un daño colateral mayor. Orientar no equivale a controlar; controlar una parte no equivale a comprender; comprender un patrón no equivale a prever todas sus ramificaciones.
+
+### Las tres dimensiones que deben mantenerse separadas
+
+- **Capacidad destructiva:** lo que el poder puede afectar y la magnitud potencial de sus efectos, incluidos sistemas, conexiones, fenómenos y reglas locales, no solo materia o seres vivos.
+- **Dirección/orientación:** cuánto puede Kevin intentar guiar voluntariamente una manifestación hacia un objetivo, dirección o propósito aproximado. Puede mejorar por experiencia sin alcanzar dominio estable.
+- **Intención y personalidad:** qué quiere hacer Kevin y por qué. No deducir su moralidad de su poder ni su intención del resultado.
+
+Ninguna dimensión determina automáticamente las otras. Una manifestación orientada puede ser catastrófica; una manifestación involuntaria puede ayudar; una intención protectora puede causar daños; una decisión destructiva puede ser deliberada.
+
+### Progreso acumulativo y estado actual
+
+Los capítulos ya narrados no deben reescribirse para fingir que Kevin tenía capacidades que no mostró. A partir de su experiencia acumulada, la narración sí debe permitirle dar pasos prácticos nuevos. Al cierre del capítulo 18, Kevin ha visto que sus manifestaciones pueden alterar redes y fenómenos completos, ha intentado intervenir voluntariamente y ha observado que sus decisiones pueden cambiar el curso de una crisis. Todavía no tiene una técnica fiable, no conoce el mecanismo de su poder y no puede garantizar el resultado. El siguiente avance debe partir de esa experiencia, no devolverlo al punto cero.
+
+No convertir cada mundo en una lección de control. El progreso también puede aparecer en cómo Kevin evalúa riesgos, decide actuar, elige objetivos, se niega a ser utilizado o acepta consecuencias. Puede usar deliberadamente su poder para destruir si esa es su decisión.
+
+### Autonomía de Kevin y de los habitantes
+
+Kevin no necesita disculparse automáticamente por cada daño ni asumir que debe salvar a todos. Puede sentir culpa, reconocer responsabilidad y ayudar cuando lo decida, pero también defenderse, atacar, escapar, negociar, negarse o tomar decisiones incompatibles con los habitantes. Su personalidad corriente y moderadamente observadora permanece reconocible; la experiencia no lo convierte de golpe en genio ni estratega infalible.
+
+Los habitantes de cada mundo conservan iniciativa. No necesitan a Kevin para luchar, protegerse, resolver sus conflictos o cometer errores. Pueden considerarlo enemigo inmediato e intentar matarlo incluso si el ataque es arriesgado. La cooperación nunca implica perdón ni confianza automática.
