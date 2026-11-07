@@ -514,3 +514,17 @@ Los habitantes pueden combatir, evacuar, negociar, investigar, protegerse, vence
 Cuando una comunidad o autoridad relacione a Kevin con daños y muertes, la hostilidad debe ser una posibilidad inmediata y real. Pueden intentar matarlo, capturarlo, expulsarlo, inmovilizarlo o atacarlo por venganza, miedo, desesperación o cálculo. Saber que atacarlo es peligroso no elimina esas decisiones: algunos actuarán aun conociendo el riesgo, se equivocarán o preferirán asumirlo antes que dejarlo libre. Otros negociarán, observarán, huirán, intentarán utilizarlo o decidirán no intervenir. No imponer una reacción universal ni hacer que todos sean prudentes.
 
 La culpa, las disculpas o el arrepentimiento de Kevin pueden aparecer cuando nazcan de la situación, pero no deben convertirse en su reacción estándar ante cada mundo ni sustituir decisiones y acciones concretas.
+
+## 22. Los mundos también pueden matar desastres
+
+Los desastres no son infalibles ni ocupan una posición superior automática frente a los mundos que visitan. La capacidad de causar catástrofes no equivale a invulnerabilidad, victoria garantizada ni superioridad universal.
+
+Cada mundo puede poseer defensas propias capaces de detectar, herir, contener, expulsar o incluso matar a un desastre. Estas defensas pueden proceder de poderes individuales o colectivos, dioses y entidades guardianas, sistemas naturales, estructuras antiguas, formaciones, armas, leyes locales, ecosistemas conscientes, mecanismos planetarios o civilizaciones que llevan generaciones preparándose. Algunas sociedades pueden conocer la aparición de viajeros o anomalías destructivas y haber desarrollado protocolos específicos; en otros mundos, su llegada será desconocida y sin precedentes.
+
+La frecuencia también varía. En ciertos mundos, las incursiones de seres o fenómenos externos son acontecimientos raros; en otros, han ocurrido tantas veces que forman parte de su historia, sus instituciones, su cultura o sus sistemas defensivos. No convertir esto en una organización universal ni en una explicación común para todos los mundos.
+
+Algunos mundos son capaces de regenerarse, adaptarse, aislar regiones dañadas, expulsar elementos extraños o reconstruir sus estructuras después de una catástrofe. Esa capacidad debe tener reglas, costes, límites y tiempos propios. La regeneración del mundo no implica que pueda restaurar a los muertos, recuperar todo lo perdido o resistir indefinidamente.
+
+Un desastre puede llegar convencido de que destruir será sencillo y descubrir que el mundo tiene medios para oponerse. Puede ser herido, engañado, atrapado, derrotado, expulsado o muerto. También puede superar las defensas y destruir el mundo. El resultado depende de la naturaleza del desastre, de las capacidades y preparación local, de la información disponible, de las decisiones y de los costes asumidos; no de una escala universal de poder.
+
+No confundir capacidad destructiva con invulnerabilidad. Kevin tampoco es una excepción garantizada: otros mundos y seres pueden dañarlo, contenerlo, expulsarlo o matarlo físicamente, aunque su regeneración pueda devolverlo a la vida después.
