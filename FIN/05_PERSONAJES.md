@@ -739,3 +739,14 @@ Las relaciones deben conservar memoria: una traición, deuda, sacrificio, engañ
 - **Mundo y capítulo:** Nharos, capítulo 9.
 - **Naturaleza:** Rask era recuperador de la Fosa; el Devorador era una criatura acorazada de seis patas que atacó la llanura durante la llegada de Kevin.
 - **Estado:** destinos posteriores no confirmados.
+
+## 7. Distribución geográfica y protagonismo autónomo
+
+Los personajes relevantes no deben aparecer todos en el mismo lugar ni existir únicamente para enfrentarse a Kevin.
+
+- Repartir figuras supremas, líderes, rivales, entidades antiguas y organizaciones por distintas regiones o planos del mundo.
+- Dar a algunos personajes conflictos, responsabilidades y relaciones que continúan aunque Kevin esté lejos.
+- Permitir que facciones poderosas desconozcan inicialmente la llegada de Kevin, la interpreten mal o decidan no intervenir.
+- No convertir cada personaje remoto en refuerzo que viaja a la batalla final. Puede proteger su territorio, aprovechar la crisis, negociar con rivales, evacuar, investigar por su cuenta o perseguir un objetivo incompatible.
+- Las escenas alejadas del protagonista deben mostrar decisiones y consecuencias propias, no ser únicamente informes sobre él.
+- Si la historia continúa después de la salida de Kevin, conservar las relaciones, deudas, guerras y planes pendientes de los supervivientes.
