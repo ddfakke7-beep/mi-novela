@@ -594,3 +594,39 @@ Kevin acaba de desaparecer de Taurak. El próximo mundo todavía no ha aparecido
 - Tres rutas de migración quedaron destruidas o inutilizadas. La recuperación de las conexiones y las consecuencias para los pueblos de Taurak siguen abiertas.
 - No se conoce el destino al que fue enviado Kevin. No asumir que los personajes de Taurak pueden seguirlo o comunicarse con él.
 
+
+## 27. Capítulo 11 — Yunluo
+
+**Archivo:** `FIN/CAPITULOS/11_YUNLUO_EL_MUNDO_QUE_ALIMENTABA_A_SUS_INMORTALES.md`.
+
+- **Llegada:** día 1, 07:20, Valle de las Campanas, continente de Lianshu.
+- **Salida:** día 4, 18:02.
+- **Duración total:** 82 horas y 42 minutos.
+- **Colapso civilizatorio:** no ocurrió. Yunluo conservó sus continentes y comunidades, pero perdió el antiguo orden de cultivo.
+- **Mundo:** cinco continentes, océano interior, venas espirituales, nueve grandes sectas, monasterios itinerantes y clanes de bestias espirituales.
+- **Conflicto previo:** la Escalera del Cielo y los palacios inmortales se alimentaban de la energía extraída de las venas espirituales. Las comunidades bajo las montañas pagaban el coste. Zhao Wenyuan quería destruir la Escalera y terminar con el dominio de las sectas.
+- **Manipulación de Kevin:** Zhao no fingió amistad. Admitió que necesitaba utilizarlo, mostró injusticias verdaderas y lo llevó a una situación de rescate. Omitió deliberadamente el alcance de la reacción de la raíz y preparó las circunstancias para que Kevin se acercara a la válvula por decisión propia. Kevin desconfiaba, hizo preguntas y aun así no tenía información suficiente para comprender el riesgo.
+- **Rescate y primera consecuencia:** Kevin se acercó a la válvula de una cantera para ayudar a rescatar a diecisiete trabajadores. La raíz reaccionó; los diecisiete salieron, pero la presión se extendió por el valle y dañó el territorio.
+- **Crisis mundial:** el Río Invertido entró en las venas principales y la Escalera del Cielo se quebró. Los inmortales descendieron y combatieron a las defensas de Yunluo en distintas regiones. Los clanes de bestias, monasterios y sectas actuaron desde sus propios territorios.
+- **Resultado:** tres grandes sectas dejaron de existir como organizaciones; las otras seis se fracturaron. Las venas espirituales cambiaron en cuatro continentes. El planeta sobrevivió y el antiguo orden de cultivo quedó quebrado.
+- **Consecuencias humanas mostradas:** la evacuación del Valle de las Campanas, la muerte de Madre Qiao, la desaparición de la madre de la joven de la cicatriz, la pérdida de hogares y rutas, el deterioro de comunidades, la pérdida del mar interior de la maestra de la Garza Roja y el sacrificio de Jin Suyin.
+- **Balance provisional:** 31.700 muertos confirmados, 18.900 desaparecidos, 52.000 heridos y 416.000 desplazados o evacuados. Las cifras no son un censo mundial completo; desaparecidos no equivale a muertos y categorías pueden solaparse.
+- **Personajes:** Jin Suyin murió abriendo una salida para evacuar; Zhao Wenyuan fue absorbido por el Río Invertido y no se recuperaron restos; Han Ruo sobrevivió; Madre Qiao murió; la joven de la cicatriz y su hermano sobrevivieron, su madre sigue desaparecida; la maestra de la Garza Roja sobrevivió sin su mar interior; el Señor de la Cumbre Vacía sobrevivió y se retiró; el destino del Patriarca de la Escalera no está confirmado.
+- **Kevin:** no murió ni se regeneró. Su manifestación contribuyó a romper el Nudo de la Raíz, pero no obtuvo control fiable. Comprendió que Zhao lo manipuló mediante verdades parciales, omisiones y una decisión preparada. No sabe si la catástrofe habría podido evitarse sin su intervención.
+
+### Punto exacto de reanudación tras el capítulo 11
+
+Kevin dejó Yunluo el día 4 a las 18:02. No vio quién provocó el traslado ni sabe si el Río Invertido tuvo alguna relación con él. No sabe si Jin Suyin sobrevivió, aunque el desenlace narrado lo da por muerto tras abrir la salida. No sabe qué ocurrió finalmente con Zhao Wenyuan; su cuerpo fue absorbido y no se recuperaron restos. El próximo mundo todavía no ha aparecido en escena.
+
+### Continuidad abierta de Yunluo
+
+- La Escalera del Cielo fue destruida. Las seis sectas restantes están divididas y no hay autoridad capaz de reconstruir de inmediato el antiguo orden.
+- Los inmortales supervivientes pueden intentar recuperar sus palacios o reclamar las venas espirituales.
+- Las regiones que perdieron energía espiritual tendrán que adaptarse a una vida sin cultivo o buscar fuentes nuevas.
+- Las corrientes inestables del Río Invertido siguen recorriendo partes de Yunluo. No se conoce si se estabilizarán, mutarán o consumirán más territorios.
+- La joven de la cicatriz busca a su madre y mantiene a su hermano con vida.
+- Han Ruo conserva el refugio de los supervivientes del Valle de las Campanas.
+- El Señor de la Cumbre Vacía sigue vivo. No se sabe si buscará venganza, restaurar la Escalera o aprovechar el nuevo orden.
+- El Patriarca de la Escalera tiene destino no confirmado.
+- La desaparición de Zhao no confirma que haya sido destruido por completo; no se recuperaron restos y no se sabe si el Río Invertido conserva algo de su voluntad.
+- No se conoce el destino de Kevin ni se ha establecido relación entre el Río Invertido y su mecanismo de traslado.
