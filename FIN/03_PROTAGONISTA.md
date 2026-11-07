@@ -34,7 +34,7 @@ ChatGPT desarrolla autónomamente:
 - Su relación con la violencia, el peligro y la destrucción.
 - Sus reacciones ante las víctimas y los supervivientes.
 - La manera en que afronta que las potencias de cada mundo intenten matarlo.
-- Su aprendizaje, comprensión parcial y capacidad progresiva para orientar algunas manifestaciones del poder.
+- Su aprendizaje y comprensión parcial del fenómeno; puede enfocar su intención hacia aquello que quiere afectar, pero no controlar ni dirigir la manifestación.
 - Sus decisiones y cambios de perspectiva conforme acumula experiencias.
 
 No convertirlo automáticamente en alguien frío, cruel, arrogante, indiferente, héroe o villano. La evolución debe ganarse en la historia.
@@ -46,16 +46,16 @@ No convertirlo automáticamente en alguien frío, cruel, arrogante, indiferente,
 - Posee un poder de escala monstruosa, ridículamente destructivo.
 - Al principio no comprende plenamente su alcance ni sabe utilizarlo de manera controlada.
 - Sus llegadas y acciones pueden desencadenar catástrofes desproporcionadas.
-- Aprenderá gradualmente a reconocer patrones parciales y a orientar algunas manifestaciones, sin llegar por ello a dominar ni controlar el fenómeno completo.
+- Aprenderá gradualmente a reconocer algunos patrones y a enfocar mejor su intención hacia un objetivo o propósito. Eso no le permite dirigir el funcionamiento del poder: nunca podrá controlarlo.
 - Los enfrentamientos con los seres más poderosos de cada mundo pueden obligarlo a luchar para sobrevivir y acelerar ese aprendizaje.
 
 ### Principios para narrar su aprendizaje
 
 - No comienza dominando el poder.
 - Las primeras manifestaciones pueden ser involuntarias, imprecisas o mayores de lo que pretendía.
-- Su experiencia puede cambiar su comprensión, pero no garantiza que pueda controlar el poder.\n- Intentar contener, desviar o defenderse puede provocar efectos secundarios y aumentar la destrucción.
-- El progreso debe ser visible y gradual: reconocer condiciones o patrones parciales, decidir cuándo intentarlo, orientar una manifestación hacia un objetivo o dirección, ajustar aproximadamente su alcance y usarla con intención. Puede acertar en lo inmediato y desconocer o provocar consecuencias secundarias.
-- Aprender a utilizarlo no significa que comprenda su origen ni que alcance un control perfecto.
+- Su experiencia puede cambiar su comprensión, pero el poder no puede controlarse ni dominarse, ni siquiera parcialmente de forma estable.\n- Intentar contener, desviar o defenderse puede provocar efectos secundarios y aumentar la destrucción.
+- El progreso debe ser visible y gradual: reconocer patrones parciales, identificar mejor qué quiere afectar, decidir cuándo actuar y asumir que el resultado puede exceder o contradecir su propósito. Una coincidencia entre intención y resultado no demuestra obediencia del poder ni garantiza que Kevin pueda repetirlo.
+- Enfocar su intención no significa que pueda dirigir la manifestación, regular su alcance o detenerla a voluntad; tampoco implica que comprenda su origen.
 - No fijar de antemano límites, costes, técnicas o explicaciones definitivas que todavía no hayan aparecido en la narración.
 - Su capacidad destructiva puede superar ampliamente su habilidad inicial para controlarla.
 
@@ -313,25 +313,29 @@ Kevin no comprendió ni controló esos efectos. No sabe si su intervención era 
 
 Kevin conserva el pequeño dragón de madera que Eren le regaló en Tiravel. No se llevó objetos de Odrava. Desapareció sin que Ilyra ni los demás supieran adónde había ido; no debe asumirse que conocen el traslado entre mundos.
 
-## 11. Estado de evolución: orientación sin dominio (criterio vigente tras el capítulo 18)
+## 11. Estado de evolución: intención sin control (criterio vigente tras el capítulo 18)
 
-La evolución de Kevin debe avanzar desde la pura reacción involuntaria hacia una capacidad imperfecta de iniciativa. No debe quedarse esperando a que el poder se active por sí solo, ni limitarse a tocar algo y provocar su destrucción. Puede decidir intentar una manifestación y darle una orientación aproximada: atacar un objetivo, apartar una amenaza, abrir o interrumpir una conexión, desviar un efecto, crear una oportunidad de escape o proteger a alguien.
+El poder de Kevin no puede controlarse. No es una energía, herramienta o técnica que pueda dominar mediante práctica. Kevin nunca podrá ordenar su funcionamiento, regular su intensidad, escoger con precisión su recorrido ni garantizar que se detenga. La evolución no debe conducir a un dominio parcial estable ni a una maestría futura.
 
-Esto no establece que pueda hacerlo siempre, con precisión ni sin consecuencias. Puede fallar, excederse, afectar sistemas relacionados que no conocía o conseguir un resultado inmediato y provocar un daño colateral mayor. Orientar no equivale a controlar; controlar una parte no equivale a comprender; comprender un patrón no equivale a prever todas sus ramificaciones.
+Lo que Kevin sí puede desarrollar es la capacidad de **enfocar su intención**: decidir qué quiere que resulte afectado o qué propósito busca alcanzar. Puede querer detener a una criatura, romper una barrera, interrumpir una conexión, destruir una estructura que considera dañina o proteger a alguien. Esa intención pertenece a Kevin; no obliga al poder a obedecer ni determina cómo se manifestará.
 
-### Las tres dimensiones que deben mantenerse separadas
+La fuerza actúa de manera autónoma. Puede afectar el objetivo y también conexiones, sistemas o fenómenos relacionados que Kevin desconoce. Puede propagarse a lugares que él no ve, producir efectos indirectos, exceder su propósito o no conseguir lo que esperaba. También puede manifestarse sin decisión consciente y reaccionar por sí misma ante ataques o amenazas que perciba dirigidas contra Kevin. No es un detector moral y no distingue el bien del mal.
 
-- **Capacidad destructiva:** lo que el poder puede afectar y la magnitud potencial de sus efectos, incluidos sistemas, conexiones, fenómenos y reglas locales, no solo materia o seres vivos.
-- **Dirección/orientación:** cuánto puede Kevin intentar guiar voluntariamente una manifestación hacia un objetivo, dirección o propósito aproximado. Puede mejorar por experiencia sin alcanzar dominio estable.
-- **Intención y personalidad:** qué quiere hacer Kevin y por qué. No deducir su moralidad de su poder ni su intención del resultado.
+### Las dimensiones que deben mantenerse separadas
 
-Ninguna dimensión determina automáticamente las otras. Una manifestación orientada puede ser catastrófica; una manifestación involuntaria puede ayudar; una intención protectora puede causar daños; una decisión destructiva puede ser deliberada.
+- **Naturaleza y capacidad:** el poder es destructivo y puede afectar materia, seres, estructuras, conexiones ocultas, redes, sistemas y fenómenos. El punto inicial no limita necesariamente la propagación.
+- **Intención de Kevin:** qué quiere que resulte afectado y por qué. Puede mejorar al elegir y sostener un propósito, pero no convertirlo en una orden técnica.
+- **Autonomía del poder:** cómo, cuándo y hasta dónde actúa la fuerza. No está bajo el mando de Kevin y puede reaccionar sin que él lo decida.
+- **Consecuencias:** el resultado puede coincidir con el propósito inmediato y aun así causar daños colaterales o alterar elementos que Kevin no conocía.
+- **Juicio moral y personalidad:** el poder no decide qué es bueno o malo. Kevin conserva la responsabilidad de sus decisiones según lo que sabe, cree y considera aceptable.
 
 ### Progreso acumulativo y estado actual
 
-Los capítulos ya narrados no deben reescribirse para fingir que Kevin tenía capacidades que no mostró. A partir de su experiencia acumulada, la narración sí debe permitirle dar pasos prácticos nuevos. Al cierre del capítulo 18, Kevin ha visto que sus manifestaciones pueden alterar redes y fenómenos completos, ha intentado intervenir voluntariamente y ha observado que sus decisiones pueden cambiar el curso de una crisis. Todavía no tiene una técnica fiable, no conoce el mecanismo de su poder y no puede garantizar el resultado. El siguiente avance debe partir de esa experiencia, no devolverlo al punto cero.
+Los capítulos ya narrados no deben reescribirse para fingir que Kevin tenía capacidades que no mostró. En Veyra pareció conseguir durante unos segundos que una manifestación no se dispersara en todas direcciones; en Orthea, una prueba sonora pareció reducir una manifestación pequeña. Son episodios reales de la historia, pero Kevin no comprendió su mecanismo, no obtuvo una capacidad reproducible y no deben convertirse en técnicas disponibles. Las demás experiencias tampoco establecieron control sobre el poder.
 
-No convertir cada mundo en una lección de control. El progreso también puede aparecer en cómo Kevin evalúa riesgos, decide actuar, elige objetivos, se niega a ser utilizado o acepta consecuencias. Puede usar deliberadamente su poder para destruir si esa es su decisión.
+Al cierre del capítulo 18, Kevin ha experimentado manifestaciones involuntarias, reacciones autónomas ante amenazas, efectos que se propagan por sistemas completos y varias decisiones conscientes de intervenir en una crisis. Ha visto que una intención protectora o destructiva puede coincidir parcialmente con el resultado, sin garantizarlo. Todavía no comprende el funcionamiento de la fuerza. Su siguiente avance debe estar en la claridad de sus decisiones y en la disposición a enfocar su intención, no en adquirir control.
+
+No convertir cada mundo en una lección sobre el poder. El progreso también aparece en cómo Kevin evalúa riesgos, decide actuar, elige qué considera necesario detener, se niega a ser utilizado o acepta consecuencias. Puede usar deliberadamente su intención para destruir si esa es su decisión.
 
 ### Autonomía de Kevin y de los habitantes
 
