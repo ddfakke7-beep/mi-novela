@@ -265,3 +265,21 @@ No se exige mostrar todos los territorios ni introducir escenas remotas por obli
 - **Balance provisional:** 8.400 muertos confirmados, 21.600 desaparecidos, 34.000 heridos y 173.000 desplazados o evacuados. Registros incompletos; las categorías pueden solaparse.
 - **Estado de Kevin:** no murió ni se regeneró; no obtuvo control fiable. Vio seres de escala extraordinaria con historias y objetivos propios. No conoce qué existe más allá de la frontera superior.
 - **Estado:** capítulo completo, guardado en Markdown.
+
+## 21. Resumen del capítulo 13 — Ithara
+
+- **Archivo:** `FIN/CAPITULOS/13_ITHARA_EL_MUNDO_QUE_SE_ESTABA_MUDANDO.md`.
+- **Mundo:** Ithara, una realidad biológica de escala planetaria con cuatro grandes masas continentales, mares de savia, océanos salinos, regiones minerales y caminantes colosales que transportan ecosistemas y ciudades.
+- **Llegada y salida:** Kevin llegó el día 1 a las 04:18, en una costilla exterior del Cinturón de Muda. Desapareció el día 3 a las 22:11. Estancia total: 65 horas y 53 minutos.
+- **Conflicto previo:** una infección aprendió a imitar las raíces y consumir la memoria que permite a Ithara reconocer sus regiones y especies. La Madre de las Mandíbulas quería cortar la placa de Namar para salvar la red principal. El Pastor de los Lugares Perdidos buscaba separar la infección utilizando la anomalía de Kevin.
+- **Personajes centrales:** Osha, exploradora del Cinturón de Muda; Teren, transportista de la estación; la Madre de las Mandíbulas, entidad territorial que ejecuta podas; el Pastor de los Lugares Perdidos, que conserva territorios separados; Vela, habitante de Namar.
+- **Detección de Kevin:** tanto la Madre como el Pastor percibieron que Kevin no pertenecía a la red de Ithara. Ninguno pudo clasificar su naturaleza ni determinar sus límites. La Madre lo consideró una amenaza que debía aislarse; el Pastor lo vio como una posibilidad para separar la infección.
+- **Manifestación inicial:** al tocar a Marek, Kevin abrió una ausencia en la zona olvidada. El fenómeno no distinguió entre tejido sano e infectado.
+- **Decisión y manipulación:** el Pastor condujo a Kevin al Nudo de la Primera Piel para utilizar su anomalía. No fingió amistad y admitió que no sabía qué ocurriría. Kevin aceptó porque creyó que podía evitar el sacrificio de la placa de Namar, pero no conocía el riesgo completo.
+- **Manifestación decisiva:** Kevin tocó el Nudo y abrió la memoria infectada. La infección perdió su forma de imitación y dejó de avanzar hacia el centro, pero el Nudo se fracturó y perdió recuerdos de mudas anteriores. Parte de la infección quedó libre en las regiones exteriores.
+- **Resultado:** el corte de Namar se detuvo. Ithara sobrevivió, pero la muda quedó interrumpida y la red perdió parte de su memoria. La crisis no fue resuelta definitivamente.
+- **Consecuencias humanas:** la ciudad caminante de Namar perdió su ruta; Vela sobrevivió con sus dos hijas, pero su marido sigue desaparecido; Marek fue rescatado y perdió temporalmente el recuerdo de su familia; las comunidades tuvieron que evacuar y reorganizar rutas de alimento.
+- **Balance provisional:** 6.200 muertos confirmados, 14.700 desaparecidos, 19.300 heridos y 92.000 desplazados o evacuados. Los registros son incompletos y las categorías pueden solaparse.
+- **Personajes y destinos:** Osha y Teren sobrevivieron; la Madre sobrevivió herida y perdió tres mandíbulas; el Pastor sobrevivió con la máscara fracturada y perdió varios territorios; Vela sobrevivió; el marido de Vela continúa desaparecido.
+- **Kevin:** no murió ni se regeneró. Su intervención cambió el desenlace, pero no solucionó la infección. No obtuvo control fiable. No sabe qué estructura respondió bajo la corteza.
+- **Continuidad abierta:** la infección sigue activa en regiones exteriores; el Nudo perdió recuerdos; la estructura olvidada bajo la corteza respondió después de la crisis. No se conoce su naturaleza ni su relación con Kevin.
