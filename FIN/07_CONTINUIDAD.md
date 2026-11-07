@@ -455,3 +455,43 @@ Naereth demostró que una contención local puede mantener a Kevin aislado duran
 Las entidades que detectan a Kevin pueden perseguirlo por razones propias y atacarlo directamente. Sus capacidades y motivaciones deben tener lógica local. Las defensas de los mundos pueden coordinarse, sacrificarse y obtener victorias tácticas sin garantizar la salvación de su civilización.
 
 Los balances de daños y víctimas deben aparecer durante la crisis y en el desenlace cuando la escala lo justifique. Mantener separados muertos confirmados, desaparecidos, heridos y evacuados; señalar registros incompletos y solapamientos; incluir daños materiales y pérdida de infraestructuras.
+
+
+## Nueva dirección de continuidad — personajes persistentes, agendas y traslados
+
+Esta sección registra criterios aprobados para el desarrollo futuro; no añade acontecimientos a los ocho capítulos existentes.
+
+### 1. Los mundos pueden enfrentarse a Kevin y obtener resultados reales
+
+No asumir que todos los mundos fracasan ni que cada capítulo debe terminar con la destrucción de su civilización. Según sus reglas, personajes, preparación y costes, un mundo puede herir o matar físicamente a Kevin, contenerlo, sellarlo, engañarlo, utilizarlo, expulsarlo, enviarlo a otra realidad o sobrevivir con pérdidas enormes. También puede fracasar y colapsar. Los desenlaces no son cuotas ni una secuencia obligatoria.
+
+### 2. Agendas que no se reducen a salvar el mundo
+
+Algunos personajes pueden querer aprovechar el poder de Kevin para liberarse de cadenas, romper una prisión, despertar a una entidad, alcanzar la inmortalidad, conquistar, vengarse o cambiar las reglas de su realidad. Pueden aceptar sacrificios masivos y ocultar sus intenciones. Otros pueden intentar proteger a Kevin, salvar a su población, matarlo o impedir que alguien lo utilice. Las motivaciones pueden coexistir y cambiar.
+
+### 3. Continuidad de personajes entre mundos
+
+Se permite que personajes y entidades sobrevivan a sus capítulos y continúen en la historia. Pueden viajar por medios propios, ser expulsados, quedar atrapados entre realidades o reaparecer mucho después. Registrar cómo se desplazaron, qué saben, qué recuerdan y qué objetivos mantienen. No dar a todos capacidad de viajar ni conocimiento de mundos que no han conocido.
+
+### 4. Realidades de destino y mundos hostiles
+
+Una trampa o expulsión futura podría enviar a Kevin a un plano infernal, un mundo demoníaco, un territorio de muerte o una realidad caótica. Estos lugares deben existir con sus propias reglas, habitantes, amenazas, jerarquías y conflictos antes de su llegada. Para sus habitantes, los desastres de Kevin pueden ser habituales, tolerables o útiles para ciertos intereses; no asumir que todos desean detenerlo ni que él es la mayor amenaza local.
+
+### 5. Misterio de fondo sobre el mecanismo de los traslados
+
+El origen y funcionamiento del mecanismo que transporta a Kevin continúan sin explicación. Pueden existir otros viajeros, seres desplazados, expulsados o atrapados entre mundos, pero no todos comparten su caso ni pueden viajar libremente. Personajes antiguos pueden conservar profecías, registros, testimonios o teorías parciales. Distinguir indicios, relatos, hipótesis y hechos confirmados. No revelar prematuramente la verdad.
+
+### 6. Evolución psicológica de Kevin
+
+Kevin puede aprender a usar su poder para defenderse o actuar con intención, pero ese aprendizaje puede causar devastación y no será lineal. La exposición a personajes que manipulan, engañan o aceptan sacrificar millones puede alterar gradualmente su sentido común. Registrar cambios a partir de experiencias narradas, sin convertirlos en transformaciones repentinas ni borrar su personalidad inicial.
+
+### 7. Estado de canon y hechos todavía no ocurridos
+
+Al cierre del capítulo 8:
+- Kevin no ha muerto en escena ni se ha mostrado una resurrección después de una muerte física.
+- No ha sido expulsado deliberadamente por un mundo hacia una trampa, un infierno o una realidad caótica.
+- No se ha establecido un acompañante recurrente ni un viajero multiversal conocido por Kevin.
+- No se ha revelado que otros seres utilicen el mismo mecanismo de transporte.
+- No se ha identificado al responsable ni la naturaleza última del mecanismo de los traslados.
+
+Estas posibilidades no deben narrarse como antecedentes. El siguiente mundo todavía no ha aparecido en escena. La continuidad factual sigue siendo la registrada en los capítulos 1 a 8 y en sus resúmenes; esta ampliación orienta el desarrollo futuro sin reescribir el pasado.
