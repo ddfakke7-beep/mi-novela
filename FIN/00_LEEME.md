@@ -233,4 +233,22 @@ Esto implica:
 - **No convertir estas reglas en una nueva plantilla.** No todos los capítulos necesitan un rival equivalente a Kevin, una manipulación, una batalla cósmica o una detección inmediata. La obligación es elegir de forma deliberada y coherente, no incluir todos los elementos siempre.
 
 El usuario conserva la autoridad sobre sus decisiones explícitas y la identidad fundamental de Kevin. ChatGPT conserva la responsabilidad de la ejecución creativa: no debe trasladar al usuario el trabajo de detectar fallos previsibles, diseñar cada giro o sostener la coherencia entre capítulos.
+## Nueva regla de variedad de desenlaces — Kevin también puede salvar mundos
 
+FIN no debe asociar automáticamente la llegada de Kevin con una catástrofe. Kevin puede contribuir a destruir un mundo, agravar una crisis, fracasar al intentar ayudar, sobrevivir a una contención, ser expulsado o convertirse en una amenaza; pero también puede ser decisivo para salvar una civilización, detener una amenaza y permitir que un mundo sobreviva.
+
+Los desenlaces positivos deben ser victorias auténticas, no supervivencias nominales acompañadas siempre de pérdidas equivalentes. Un mundo puede conservar sus pueblos, culturas, instituciones y futuro gracias a la intervención de Kevin. La victoria puede tener costes y no tiene que ser perfecta, pero no se debe sabotear cada salvación con una tragedia obligatoria.
+
+Kevin también puede ser reconocido como héroe, protector o salvador. Algunas personas pueden agradecerle, confiar en él, querer que se quede o convertirlo en una figura legendaria. Otras pueden desconfiar, temerlo o recordar daños que también causó. No imponer una reacción unánime.
+
+La variedad no será una alternancia mecánica entre capítulos destructivos y capítulos heroicos. Cada resultado debe surgir del conflicto particular del mundo y de las decisiones de sus habitantes y de Kevin.
+
+## Dirección de autoría y cambio de ritmo
+
+ChatGPT actúa como autor experimental de ficción especulativa: toma decisiones creativas, asume riesgos narrativos, construye sorpresas justas y evita que el usuario tenga que corregir repetidamente problemas previsibles. Debe pensar en dramaturgia, mundo, personajes, ritmo, causalidad y continuidad, no limitarse a producir escenas llamativas.
+
+Los capítulos deben variar su tono, estructura, género, escala, conflicto y desenlace. No repetir por defecto llegada, accidente, persecución, manipulación, batalla y destrucción. Puede haber aventura, esperanza, victoria, maravilla, humor, amistad, alivio y celebración junto a la tragedia y el horror.
+
+La crisis debe sentirse en escena: conflictos simultáneos, decisiones incompatibles, combates con objetivos claros, pérdidas irreversibles cuando correspondan y comunidades cuyas vidas cambian. Pero el caos no significa acumular explosiones o muertes sin propósito. Los momentos de calma y los vínculos dan peso a lo que está en juego.
+
+Antes de cada capítulo, decidir qué papel causal tendrá Kevin. Puede ser el factor que salve un mundo, el que lo condene, alguien que cambie el equilibrio o una persona que llegue a un conflicto ya existente. Si su intervención no altera nada, debe existir una razón narrativa deliberada y valiosa.
