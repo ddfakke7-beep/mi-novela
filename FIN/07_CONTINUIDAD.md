@@ -537,3 +537,21 @@ Nharos demuestra que un mundo puede sufrir una crisis enorme sin colapsar ni ser
 La primera muerte física de Kevin quedó demostrada. Debe conservarse la distinción entre muerte, intervalo de regeneración y regreso: mientras estuvo muerto no pensó, habló, actuó ni se defendió. La regeneración no causó por sí misma una manifestación destructiva ni lo liberó de la situación.
 
 Un mundo puede mantener conflictos abiertos después de que Kevin se marche. Los supervivientes, las fronteras dañadas, las prisiones, los antagonistas desaparecidos y las consecuencias políticas pueden continuar en capítulos posteriores. No asumir que un personaje puede viajar o que una frontera conecta mundos sin evidencia narrativa.
+
+## Criterio reforzado de escala mundial tras el capítulo 9
+
+La revisión del capítulo 9 señaló una debilidad de representación: Nharos fue descrito como una realidad de siete dominios, pero la acción se concentró demasiado en la Fosa, la fortaleza y la prisión de Akh-Mor. El resultado puede percibirse como una región o ciudad extensa más que como un mundo completo.
+
+Esto no cambia los hechos de Nharos ni autoriza a añadirle retrospectivamente territorios, poblaciones, personajes o acontecimientos. Es una corrección para la creación futura.
+
+En los siguientes mundos:
+- La escala deberá sentirse mediante regiones distintas, culturas, especies, ecosistemas, civilizaciones y centros de poder alejados.
+- Los conflictos locales y antiguos existirán independientemente de Kevin y podrán continuar mientras él está en otro lugar.
+- Las máximas potencias no estarán todas reunidas en el escenario de llegada ni acudirán automáticamente a un enfrentamiento común.
+- Las comunicaciones, distancias, barreras y tiempos de viaje afectarán a la respuesta.
+- Habrá perspectivas fuera del entorno inmediato de Kevin cuando aporten decisiones, conflictos o consecuencias reales.
+- No todos los personajes conocerán su llegada ni todos querrán intervenir. Algunos podrán ignorarlo, manipularlo, aprovecharlo, expulsarlo, encerrarlo o intentar matarlo.
+- La escala puede ser planetaria, dimensional, celestial, infernal o de otra naturaleza. No limitar los mundos a modelos de civilización humana.
+- La supervivencia, expulsión o contención de Kevin son desenlaces posibles; no convertir la destrucción del mundo en fórmula obligatoria.
+
+El mundo debe sentirse vivo antes de Kevin, durante su presencia y después de su partida. La narración no tiene que mostrarlo todo, pero sí dejar claro que hay mucho más que el escenario que Kevin alcanza a conocer.
