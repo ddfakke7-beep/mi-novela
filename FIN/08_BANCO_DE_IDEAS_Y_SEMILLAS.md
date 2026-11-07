@@ -5,6 +5,25 @@
 
 Este banco existe para conservar propuestas del usuario y semillas creativas que merecen seguir disponibles aunque todavía no encajen en el arco inmediato. Antes de diseñar un capítulo nuevo, revisar las ideas que puedan enriquecerlo, sin forzar su inclusión.
 
+
+## Secuencia prioritaria de incorporación — después del capítulo 18
+
+Esta secuencia organiza la entrada de algunas semillas para que las ideas empiecen a formar parte de la novela y no permanezcan indefinidamente en reserva. Es una planificación de autor, no canon: los hechos concretos solo quedarán establecidos cuando aparezcan en los capítulos.
+
+1. **Capítulo 19 — La caminante cuya existencia rechaza la vida (semilla 1).** Esta será la primera presentación clara de otro desastre viajero comparable, en su propia categoría, a Kevin. El usuario dejó al autor decidir su inclusión en el capítulo siguiente y aceptó que su curiosidad y experiencia la llevaran a investigar a Kevin y probar cuánto puede soportar su existencia. No será una niña ingenua, una víctima pasiva ni una compañera automática. Tiene experiencia como desastre, iniciativa y criterio propio. Su contaminación seguirá siendo peligrosa para los demás; la interacción con Kevin podrá suprimir o debilitar parte de sus efectos de forma limitada, temporal e incompleta, sin curarla ni volverla segura. La historia debe explorar tanto a ella como a Kevin y no reducir el capítulo a una explicación de poderes.
+
+2. **Un capítulo de transición después del encuentro.** No introducir otro desastre inmediatamente por obligación. Dar espacio a las consecuencias del encuentro y variar de nuevo el tipo de mundo, el punto de llegada y el conflicto. Puede haber señales indirectas de que existen más viajeros, pero no convertir cada capítulo en una presentación de uno nuevo.
+
+3. **Capítulo posterior — Dos desastres enfrentados (semilla 3).** Introducir un segundo desastre de naturaleza y objetivos claramente distintos. Kevin puede llegar a un mundo ya devastado y quedar atrapado en una persecución o enfrentamiento que no comenzó por él. Los habitantes tendrán sus propias defensas y decisiones; no confiarán automáticamente en Kevin. Este encuentro debe demostrar que los desastres pueden enfrentarse, dañarse, sorprenderse y tener objetivos incompatibles, sin establecer una escala universal ni declarar a Kevin superior.
+
+4. **Después de que Kevin haya conocido más de un desastre — El restaurador y las primeras huellas de la organización (semillas 6 y 2).** El restaurador empezará observando informes, rastros y testimonios contradictorios. La organización puede aparecer mediante señales, registros o agentes, no mediante una explicación enciclopédica. El encuentro personal con el restaurador llegará cuando tenga sentido que haya reunido información suficiente; no debe ser un juez omnisciente ni conocer el origen de Kevin.
+
+5. **Más adelante — El desastre amistoso (semilla 13).** Reservar la alianza genuina con un desastre que ayuda a Kevin y a un mundo antes de decidir destruirlo. Su introducción debe llegar cuando el lector ya conozca más de una forma de ser desastre, para que la amistad real y la decisión posterior tengan peso y no parezcan una repetición del primer encuentro.
+
+6. **Arcos posteriores, sin fecha asignada:** el destructor que decidió proteger un mundo (semilla 8), el ser sellado que podría viajar con Kevin (semilla 7) y la prisión de realidades para viajeros y destructores (semilla 10). La prisión no puede preceder al encuentro y desarrollo del restaurador, ni a que la novela haya mostrado varios desastres y sus consecuencias. No es necesario introducir todas las semillas ni unirlas en una sola trama.
+
+La regla general es dejar de aplazar el multiverso: desde el capítulo 19 deben empezar a aparecer otros desastres de manera efectiva, pero cada uno tendrá una naturaleza, personalidad, objetivo y relación con los mundos distinta. No todos serán enemigos de Kevin, no todos destruirán mundos por la misma razón y no todos aparecerán en capítulos consecutivos.
+
 ---
 
 ## 1. Otro caminante cuya existencia rechaza la vida
@@ -19,7 +38,7 @@ Una caminante que, a diferencia de Kevin, posee una esencia o poder que rechaza 
 - Su relación con Kevin no debe decidirse antes de conocerla. Podría verlo como amenaza, anomalía, semejante o algo que no puede tolerar.
 - Su capítulo de introducción debe darle identidad, historia y motivaciones propias. No presentarla simplemente como «la Kevin mujer» ni reducirla a una rival de poder.
 
-**Estado:** reservada. Sin capítulo ni aparición asignados.
+**Estado:** asignada como primera introducción de otro desastre en el capítulo 19, todavía no narrada. La planificación no establece aún los detalles concretos de su aparición ni la convierte en canon.
 
 ## 2. Una organización que vigila o caza a los destructores de mundos
 
