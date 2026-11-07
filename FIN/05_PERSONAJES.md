@@ -682,3 +682,60 @@ No asumir que todos los supervivientes pueden viajar. Algunos pueden permanecer 
 Los enemigos pueden ser rivales abiertos, manipuladores, falsos aliados, seres que desean utilizar a Kevin o entidades que lo consideran una amenaza para sus planes. Algunos pueden convertirse en enemigos persistentes o mantener una rivalidad a través de varios mundos. Otros pueden cooperar temporalmente con él por conveniencia sin desarrollar afecto ni confianza.
 
 Las relaciones deben conservar memoria: una traición, deuda, sacrificio, engaño o alianza no desaparece cuando Kevin cambia de mundo. Si alguien reaparece, mostrar cómo los acontecimientos anteriores afectan sus decisiones actuales.
+
+
+## Personajes del capítulo 9 — Nharos
+
+### Sarith
+- **Mundo y capítulo:** Nharos, capítulo 9.
+- **Afiliación:** maestro de las ataduras; vinculado a la orden que cuestionaba la prisión antigua.
+- **Objetivo:** romper el equilibrio impuesto por las cadenas y utilizar la presencia de Kevin para alterar la prisión. No comprendía plenamente qué mantenía cerrada.
+- **Relación con Kevin:** lo consideró una posible llave y participó en pruebas que lo sometieron a presión. Después presenció su muerte y regeneración.
+- **Estado:** sobrevivió; perdió la mano derecha y parte de sus cadenas. Permanece en Nharos.
+- **Conocimiento:** sabe que Kevin murió y volvió tras unas tres horas. Vio símbolos desconocidos y una frontera parcialmente abierta. No conoce el origen del transporte.
+
+### Maraith
+- **Mundo y capítulo:** Nharos, capítulo 9.
+- **Afiliación:** guardianes de la prisión; dominio de las Cenizas.
+- **Objetivo:** impedir que Othrek utilizara a Kevin para abrir la prisión y evacuar a quienes quedaran expuestos.
+- **Relación con Kevin:** lo consideró víctima de la manipulación de Othrek, aunque no tenía razones para confiar en él.
+- **Estado:** sobrevivió y regresó a las Cenizas. Destino posterior no confirmado.
+
+### Veyrahn
+- **Mundo y capítulo:** Nharos, capítulo 9.
+- **Afiliación:** compradora de reliquias y contratos.
+- **Objetivo:** obtener provecho de la reacción de las cadenas y de la prisión.
+- **Relación con Kevin:** fingió ofrecerle ayuda y quiso utilizar su presencia sin explicarle el propósito completo.
+- **Estado:** desapareció con parte de los contratos y registros. No se confirmó su muerte ni su salida de Nharos.
+
+### Othrek
+- **Mundo y capítulo:** Nharos, capítulo 9.
+- **Afiliación:** señor de una fortaleza de cadena.
+- **Objetivo:** romper el equilibrio de los siete dominios y convertirse en soberano único aprovechando la prisión de Akh-Mor.
+- **Relación con Kevin:** lo trató como herramienta y llave, sin considerar su voluntad ni el coste humano.
+- **Estado:** desapareció durante la ruptura de la cámara. No se confirmó su muerte.
+
+### Iria
+- **Mundo y capítulo:** Nharos, capítulo 9.
+- **Afiliación:** mensajera de la fortaleza.
+- **Objetivo:** conseguir que su hermano regresara de las minas.
+- **Relación con Kevin:** habló con él cuando intentaba escapar; no lo idealizó ni lo convirtió en salvador.
+- **Estado:** viva en Nharos. Su hermano regresó herido. No se ha establecido que pueda viajar.
+
+### Akh-Mor, el Rey Encadenado
+- **Mundo y capítulo:** Nharos, capítulo 9.
+- **Naturaleza:** ser antiquísimo que permanece sujeto por siete cadenas de juramento.
+- **Objetivo conocido:** pidió que cerraran la frontera y afirmó que la prisión también separaba Nharos de algo que consideraba más peligroso que él. Su verdadera intención sigue sin confirmarse.
+- **Relación con Kevin:** lo llamó una puerta y una herida que caminaba, pero admitió no saber qué era.
+- **Estado:** vivo, sujeto por cuatro cadenas restantes. No ha salido de Nharos.
+
+### Varkun
+- **Mundo y capítulo:** Nharos, capítulo 9.
+- **Afiliación:** guardianes de las Cenizas; custodio del anclaje oriental.
+- **Acción:** sostuvo el mecanismo durante la evacuación de las minas y liberó el anclaje para evitar que los trabajadores quedaran atrapados.
+- **Estado:** murió durante la caída de la fortaleza oriental.
+
+### Rask y el Devorador
+- **Mundo y capítulo:** Nharos, capítulo 9.
+- **Naturaleza:** Rask era recuperador de la Fosa; el Devorador era una criatura acorazada de seis patas que atacó la llanura durante la llegada de Kevin.
+- **Estado:** destinos posteriores no confirmados.
