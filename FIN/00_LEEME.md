@@ -1,7 +1,7 @@
 # FIN — Guía principal del proyecto
 
 **Tipo:** ficción · multiverso · destrucción · desesperación · batallas épicas  
-**Estado:** narración en curso; dieciocho capítulos completos.  
+**Estado:** narración en curso; diecinueve capítulos completos.  
 **Ubicación:** carpeta `FIN/` en el repositorio `mi-novela`.
 
 ## Identidad e independencia
@@ -288,3 +288,14 @@ El capítulo 18 mostró una manifestación del poder de Kevin que alteró rutas 
 Kevin debe sentirse como una anomalía destructiva y autónoma que puede alterar sistemas y reglas locales. Nunca podrá controlar el poder. Su progreso consiste en enfocar mejor su intención hacia aquello que quiere afectar, no en dirigir la manifestación ni dominar una técnica. La fuerza puede actuar sin su decisión, reaccionar ante amenazas dirigidas contra él y producir consecuencias que excedan su propósito. El poder no distingue el bien del mal; esa valoración pertenece a Kevin. Su progreso debe notarse en decisiones y acciones, no en un dominio creciente.
 
 Los mundos conservan autonomía: sus habitantes pueden luchar, ganar, fracasar, protegerse y resolver conflictos sin depender de Kevin. Si una facción necesita su poder, la razón debe estar desarrollada. La identificación de Kevin como amenaza puede provocar ataques inmediatos, intentos de asesinato, captura o expulsión; el miedo a las consecuencias no impide que algunos decidan arriesgarse. La cooperación no equivale a perdón. Las disculpas no son una respuesta automática del protagonista.
+
+
+## Estado actualizado tras el capítulo 19
+
+FIN cuenta con diecinueve capítulos completos. El último mundo visitado fue Mairen. Kevin llegó el día 1 a las 02:14 y desapareció el día 3 a las 18:02, tras 63 horas y 48 minutos. Mairen sobrevivió gracias a la respuesta de la Médula y a las comunidades que cortaron sus propias conexiones. Ivara, otro desastre viajero cuya existencia deteriora la vida, permanece en la Cuenca de la Ceniza. La presencia de Kevin debilitó temporalmente parte de su contaminación, pero no la curó ni volvió segura para otros. Consultar `07_CONTINUIDAD.md` para el estado completo.
+
+El capítulo 19 establece que algunos mundos han sufrido varias incursiones y pueden desarrollar defensas capaces de matar, expulsar o contener desastres. La Médula de Mairen había neutralizado amenazas anteriores y pudo herir gravemente a Ivara. Los mundos no son indefensos y los desastres no son invulnerables. La regeneración de Mairen es lenta, parcial y costosa.
+
+## Criterio de autoría: mundos capaces de resistir desastres
+
+No asumir que los desastres son invencibles ni que todos los mundos desconocen su existencia. Algunas realidades tienen defensas, poderes, estructuras, ecosistemas o mecanismos capaces de herir, contener, expulsar, derrotar o matar a un desastre. En ciertos mundos las incursiones son históricamente conocidas; en otros serán una novedad. Los resultados dependen de cada realidad y no de una escala universal. La regeneración del mundo tiene límites, costes y tiempos, y no resucita a los muertos.
