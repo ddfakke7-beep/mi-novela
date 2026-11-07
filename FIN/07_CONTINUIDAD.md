@@ -790,3 +790,67 @@ Kevin sabe que alguien llegó antes que él a Serekh y actuó deliberadamente so
 
 ### Punto exacto de reanudación
 Kevin desapareció de Serekh el día 4 a las 14:02. No sabe si la figura humanoide continúa viajando, si tuvo intención de destruir la civilización o si buscaba algo concreto en el núcleo. No conoce otros viajeros ni sabe si existe una organización que los persiga o vigile. No ha obtenido control fiable de su poder. El siguiente mundo todavía no ha aparecido en escena.
+
+
+## 24. Capítulo 16 — Talmera
+
+### Llegada, salida y resultado
+- Kevin llegó a Talmera el día 1 a las 08:14, en el distrito de las Agujas de Tersal, continente de Sarn.
+- Desapareció el día 3 a las 19:42.
+- Estancia total: 59 horas y 28 minutos.
+- Talmera sobrevivió. La Retirada dejó de expandirse en Tersal, aunque una sección de la ciudad desaparecida no regresó y el destino de muchos de sus habitantes sigue sin confirmarse.
+
+### Mundo y sociedad
+Talmera tiene tres continentes y un océano interior: Sarn, con ciudades verticales alrededor de pilares de basalto; Odria, con llanuras de vidrio y asentamientos móviles; y Vhal, con plataformas costeras y arrecifes habitados. Cuatrocientos años antes, la fragmentación de una luna provocó la Lluvia de Cobalto. Desde entonces algunas personas nacen con Rasgos individuales. No existe una escala común que permita comparar todas las capacidades.
+
+Los Vigías protegen ciudades, rutas y comunidades. Los Faros son los protectores más reconocidos del Pacto, clasificados por operaciones, rescates, coordinación y confianza pública, no solo por potencia. También trabajan guardias, sanadores, técnicos, rescatistas y voluntarios sin fama.
+
+### La Retirada
+La Retirada superpone sectores de Talmera con versiones anteriores de lugares desaparecidos. La ciudad de Varda desapareció once años antes. El Nudo, una pieza de metal negro, permitía abrir rutas temporales entre ambos lados. Narel Venn utilizó el Nudo para recuperar a su hermana Ilen, que seguía viva en la ciudad desaparecida. Vara Il lo manipuló para provocar una convergencia y acceder a los Rasgos de la población de Varda.
+
+No se conoce el origen de la Retirada ni por qué conecta lugares de épocas distintas. No se confirmó el destino de todos los habitantes de la ciudad desaparecida.
+
+### Hechos de Kevin
+- La manifestación inicial de Kevin dañó parte de un tejado y una plataforma durante el enfrentamiento entre Dalia Sen y Narel. Dalia rescató a las personas que quedaron en peligro.
+- Los Vigías no detectaron un Rasgo local en Kevin. Observaron interferencias entre su presencia, el Nudo y los campos de contención, pero no comprendieron la causa.
+- Kevin fue detenido y mantenido inmóvil mediante un campo de peso sostenido por doce columnas desde el día 1 a las 19:05 hasta el día 3 a las 02:35, aproximadamente 31 horas y 30 minutos. Podía hablar y respirar, pero no podía marcharse por sí mismo. La contención se desactivó gradualmente; no murió ni se regeneró.
+- Dalia le explicó que la convergencia amenazaba a ambas poblaciones y le pidió ayuda. Kevin aceptó voluntariamente.
+- Durante la crisis, una manifestación de Kevin cortó una conexión del Nudo. No fue un uso preciso ni controlado y Kevin no sabe cómo lo consiguió ni si podría repetirlo.
+- Kevin no mató a Tavan Rhem. Tavan sostuvo el eje de la ciudad para permitir la evacuación y murió por el daño interno causado por su propio Rasgo.
+- Kevin no murió ni se regeneró en Talmera.
+
+### Personajes y destinos
+- **Dalia Sen:** Faro número 2 y líder de respuesta. Sobrevivió; no conoce el origen de Kevin ni comprende su manifestación.
+- **Tavan Rhem:** Faro número 6. Murió después de sostener el eje de la convergencia. Su puesto quedó vacante.
+- **Oren Vask:** Guardia de Umbral que detuvo a Kevin y participó en la defensa. Sobrevivió herido.
+- **Iven:** personal de sanidad de campo. Sobrevivió.
+- **Sira Vel:** Faro número 11, responsable de rutas de evacuación. Sobrevivió.
+- **Narel Venn:** antiguo cartógrafo que abrió el Nudo para recuperar a Ilen. Fue detenido; sobrevivió.
+- **Ilen Venn:** hermana de Narel. Seguía viva en la ciudad desaparecida y regresó a Talmera. No perdonó de inmediato a su hermano.
+- **Vara Il:** saboteadora que manipuló a Narel para provocar la convergencia. Fue detenida; sus posibles cómplices no están confirmados.
+- **Mira y Nima:** abuela y nieta del Barrio de los Talleres. Ambas sobrevivieron.
+
+### Consecuencias y balance provisional
+- 286 muertos confirmados.
+- 94 desaparecidos.
+- 1.720 heridos.
+- 23.400 desplazados o evacuados.
+
+Las categorías son provisionales y pueden solaparse. Una sección del Barrio de las Agujas se perdió; tres torres colapsaron, dos plataformas quedaron inutilizables y el corredor norte permanece cerrado. Una parte de la ciudad antigua no regresó. La Liga anunció que la Retirada había sido contenida y deberá revisar sus protocolos y explicar cómo se permitió la operación clandestina.
+
+### Estado de Kevin al salir
+Kevin vio que Talmera posee personas con capacidades extraordinarias que trabajan para proteger a la población. Comprendió que sus héroes no son necesariamente los más poderosos, sino figuras reconocidas por sus operaciones y rescates. También comprobó que los habitantes de un mundo pueden contenerlo durante muchas horas mediante recursos propios. No conoce el origen de la Retirada, el mecanismo del Nudo ni la relación exacta entre ambos y su poder.
+
+No conoce otros viajeros, organizaciones multiversales ni al restaurador de mundos. No sabe quién o qué provoca sus traslados.
+
+### Punto exacto de reanudación tras el capítulo 16
+Kevin desapareció de Talmera el día 3 a las 19:42. El siguiente mundo todavía no ha aparecido en escena. Kevin conserva el pequeño dragón de madera que Eren le regaló en Tiravel. No tiene objetos ni promesas nuevas de Talmera. No conoce el origen de la Retirada ni sabe si el Nudo fue destruido definitivamente o si existen otras piezas. No conoce la identidad ni los objetivos de otros viajeros o de una organización que los vigile.
+
+### Continuidad abierta de Talmera
+- Se desconoce el origen de la Retirada y por qué conecta lugares de épocas distintas.
+- Una sección de la ciudad de Varda no regresó; no se confirmó el destino de todos sus habitantes.
+- Ilen sobrevivió, pero su relación con Narel quedó profundamente dañada.
+- Narel está detenido y deberá responder por haber puesto en peligro a dos poblaciones.
+- Vara fue detenida; no se confirmó si tenía cómplices fuera del grupo que participó en la convergencia.
+- La Liga de Tránsito deberá revisar sus protocolos y explicar por qué no impidió la operación clandestina.
+- El puesto número 6 de los Faros quedó vacante tras la muerte de Tavan Rhem.
