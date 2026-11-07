@@ -356,3 +356,40 @@ Las criaturas dominantes no deben limitarse a producir terremotos, mover el terr
 Mostrar qué perciben, qué desean proteger o conseguir, por qué lo consideran una presa o amenaza y cómo adaptan sus ataques. Sus capacidades deben ser distintas de las de los habitantes civilizados y entre sí. Pueden atacar cuando Kevin está quieto o dormido; no es necesario que él provoque cada encuentro. También pueden herirse entre ellas, competir por la presa, retirarse, proteger crías o cambiar de objetivo. Evitar que todas actúen como una sola mente o que todas ataquen sin criterio.
 
 Los enfrentamientos con criaturas deben tener consecuencias materiales y ecológicas: territorios destruidos, rutas alteradas, refugios perdidos, especies desplazadas, crías en peligro y comunidades obligadas a cambiar sus decisiones. Las criaturas pueden ser una amenaza para Kevin y para el mundo al mismo tiempo.
+
+
+## Mundos con vida propia, agendas incompatibles y continuidad multiversal
+
+La narración no debe tratar cada mundo como una prueba diseñada para Kevin. Antes de su llegada ya existen conflictos, relaciones, rivalidades, proyectos, amenazas y decisiones en marcha. Mostrar escenas y perspectivas que tengan sentido por sí mismas, aunque Kevin no esté presente. Su llegada altera esa realidad, pero no la crea.
+
+Los personajes poderosos deben actuar según sus propios objetivos. Algunos intentarán salvar a su población; otros priorizarán su especie, su territorio, una promesa, una guerra, una liberación o una ambición personal. Puede haber personajes dispuestos a sacrificar a miles o millones para utilizar el poder de Kevin, romper sus cadenas, liberar a un ser sellado, alcanzar la inmortalidad o destruir a sus rivales. Pueden fingir ayudarlo, manipularlo, conducirlo a una trampa o intentar convertirlo en arma. Otros pueden ayudarlo de verdad y seguir siendo adversarios por sus intereses. Evitar dividir el reparto en aliados buenos y enemigos malos.
+
+### Kevin como persona, amenaza y posible instrumento
+
+Kevin no tiene que ocupar siempre la posición dominante. Los habitantes pueden perseguirlo, herirlo, matarlo físicamente, contenerlo, engañarlo, encerrarlo, expulsarlo o utilizarlo como pieza de un plan. Los resultados deben depender de las reglas locales, la preparación, los costes y las decisiones de los personajes. No garantizar que los planes funcionen, pero tampoco hacer que fracasen siempre para devolver la historia a una destrucción inevitable.
+
+Kevin puede aprender a defenderse y usar deliberadamente su poder. Mostrar avances, errores y decisiones concretas; sus intentos de protección o control pueden causar devastación y ser aprovechados por quienes desean esa destrucción. El aprendizaje no debe ser lineal ni convertirlo en dueño absoluto de su capacidad.
+
+### Mundos de destino hostil y realidades que ya eran peligrosas
+
+Una expulsión o trampa puede enviar a Kevin a un plano infernal, un mundo demoníaco, una dimensión de muerte, una realidad caótica o un territorio donde la violencia y la destrucción ya forman parte de su naturaleza. Ese lugar no debe existir únicamente para recibirlo: debe tener habitantes, jerarquías, depredadores, conflictos, reglas, historia y objetivos propios. Para sus habitantes, los desastres de Kevin pueden ser relativamente normales, una amenaza más o incluso una oportunidad. Kevin puede seguir causando estragos y, a la vez, descubrir que allí también existen seres capaces de destruirlo o utilizarlo.
+
+### Personajes persistentes y continuidad entre capítulos
+
+Algunos personajes y entidades pueden sobrevivir a su mundo y continuar en la historia. Pueden viajar por medios propios, ser expulsados, quedar atrapados entre realidades o reaparecer mucho después. Mantener sus recuerdos, objetivos, heridas, vínculos, promesas, rivalidades y cambios. La reaparición debe tener una vía narrativa y consecuencias; no introducir personajes recurrentes solo para explicar el trasfondo.
+
+La información que cruza mundos necesita un canal concreto: viajeros, mensajeros, pactos, artefactos, archivos, visiones, comunicaciones o encuentros. Un personaje no conoce automáticamente lo sucedido en un mundo que nunca visitó.
+
+### El misterio del transporte como hilo de largo recorrido
+
+Los traslados de Kevin deben conservar misterio y no resolverse prematuramente. Pueden existir otros viajeros, desplazados, expulsados o seres atrapados entre mundos, sin que todos compartan su caso ni puedan viajar libremente. Algunos personajes antiguos pueden conocer relatos, rastros, profecías o registros de fenómenos similares. Separar siempre testimonio, observación, teoría y verdad confirmada. Ningún personaje debe convertirse en expositor omnisciente.
+
+### Variedad de géneros y realidades
+
+Alternar y combinar murim, cultivo, fantasía divina, mundos demoníacos, dominios de dragones, planos infernales, reinos espirituales, realidades caóticas, mundos tecnológicos, híbridos y civilizaciones no humanas. No usar estas etiquetas como decoración: deben reflejarse en la cultura, las relaciones, la geografía, las reglas, las instituciones y los conflictos. Un mundo puede mezclar varias tradiciones si la combinación tiene identidad propia.
+
+### Evolución psicológica por exposición a otras morales
+
+El contacto repetido con personas que sacrifican poblaciones enteras, manipulan a Kevin o consideran aceptable utilizarlo puede alterar gradualmente su sentido común. Narrar cómo se acostumbra, se resiste, se confunde, se indigna, negocia o empieza a adoptar criterios que antes habría rechazado. No hacer que cada encuentro produzca el mismo efecto ni transformar su personalidad de golpe. Mantener la base humana y moderadamente precavida/observadora establecida por el usuario.
+
+Los capítulos pueden terminar con destrucción, expulsión, contención, supervivencia o una victoria parcial, según lo que suceda en ese mundo. La variedad no debe convertirse en una cuota mecánica: cada desenlace debe surgir de los personajes y de las reglas locales.
