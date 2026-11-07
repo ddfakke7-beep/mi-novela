@@ -433,4 +433,20 @@ Kevin puede irrumpir en esos conflictos como una variable inesperada, un testigo
 Distinguir entre magnitud del poder, dominio técnico, experiencia, resistencia, conocimiento y objetivos. Kevin puede poseer una capacidad inmensa y carecer de experiencia. Un rival puede tener una fuerza comparable y un control mucho más refinado. Otro puede ser menos destructivo y aun así ser capaz de derrotarlo mediante condiciones, técnicas o preparación. No inferir superioridad total a partir de una sola dimensión.
 
 Los poderes ajenos a Kevin deben tener métodos, historia, límites y costes coherentes con sus usuarios. No revelar todo en una explicación; mostrarlo mediante decisiones, entrenamiento, combates y consecuencias.
+## Regla permanente: variedad real de resultados y mundos salvados
 
+La llegada de Kevin no predetermina el destino de un mundo. FIN incluye catástrofes, colapsos, destrucción física o metafísica, expulsiones, contenciones, fracasos, supervivencias parciales y victorias completas. Kevin puede ser la causa de una tragedia, un factor que agrava un conflicto, alguien incapaz de impedir una pérdida o la pieza decisiva que permite salvar un mundo.
+
+Un mundo salvado debe sentirse verdaderamente salvado. No convertir cada victoria en una destrucción encubierta ni añadir una pérdida equivalente por obligación. Puede haber daños, sacrificios y problemas pendientes, pero también comunidades que sobreviven, instituciones que continúan, amenazas derrotadas y un futuro que antes parecía imposible.
+
+Kevin puede decidir luchar para proteger a personas que ha conocido, defender una comunidad, detener a una entidad o ayudar a quienes intentan salvar su mundo. No necesita convertirse en un héroe perfecto ni dominar por completo su poder. Su intervención puede abrir una oportunidad que los habitantes, con sus propias capacidades, experiencia y sacrificios, convierten en victoria.
+
+También puede experimentar gratitud, confianza, amistad, pertenencia o reconocimiento. Un mundo puede celebrarlo, considerarlo un salvador o pedirle que se quede. Otras personas pueden mantener reservas o recordar daños reales. No imponer unanimidad emocional ni hacer que Kevin acepte automáticamente el papel de héroe.
+
+La variedad no será una secuencia rígida de un capítulo oscuro seguido por uno luminoso. El género, el tono, el conflicto y el desenlace deben surgir de cada mundo. No repetir una fórmula de salvación ni una fórmula de destrucción.
+
+## Regla de caos, drama y esperanza
+
+El caos debe surgir de objetivos incompatibles y acontecimientos simultáneos: defensas que se rompen mientras se evacúa, aliados que discrepan, enemigos que aprovechan una oportunidad, regiones que actúan sin conocer el resultado de otras y decisiones que no pueden deshacerse. Los personajes poderosos deben luchar con experiencia, técnica y voluntad, no limitarse a intercambiar ataques.
+
+El drama requiere vínculos y vidas concretas. Mostrar qué intentan proteger las personas, qué pueden perder, qué eligen y cómo viven después. No depender solo de cifras o de una sucesión de muertes. La esperanza también debe tener consecuencias materiales: personas rescatadas, hogares conservados, amenazas detenidas, rutas abiertas y sociedades que pueden continuar.
