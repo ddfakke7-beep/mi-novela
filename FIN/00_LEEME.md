@@ -275,3 +275,10 @@ FIN cuenta con dieciséis capítulos completos. El último mundo visitado fue Ta
 ## Estado actualizado tras el capítulo 17
 
 El capítulo 17, **Nereth, el mundo que no dejaba ir a sus muertos**, está completo y guardado en `FIN/CAPITULOS/17_NERETH_EL_MUNDO_QUE_NO_DEJABA_IR_A_SUS_MUERTOS.md`. Kevin llegó el día 1 a las 06:11 y desapareció el día 4 a las 20:07, tras 85 horas y 56 minutos. Nereth sobrevivió. La Campana de Oru fue destruida y la corriente funeraria volvió a fluir; los ecos retenidos se disolvieron y algunas personas conservaron lagunas de memoria. Kevin eligió romper la Campana al comprender que su permanencia estaba haciendo que los ecos ocuparan cuerpos vivos. Khal Ordan murió; Othar sobrevivió herido. Consultar `07_CONTINUIDAD.md` para el estado completo y el punto exacto de reanudación.
+
+
+## Estado actualizado tras el capítulo 18
+
+FIN cuenta con dieciocho capítulos completos. El último mundo visitado fue Odrava, donde Kevin llegó el día 1 a las 04:52 y desapareció el día 4 a las 18:31, tras 85 horas y 39 minutos. Odrava sobrevivió, pero el Nudo de las Siete Rutas quedó dividido y las migraciones de los vaur alteraron de forma permanente el sistema estacional. Kevin no murió ni se regeneró. Consultar `07_CONTINUIDAD.md` para el punto exacto de reanudación.
+
+El capítulo 18 mostró una manifestación del poder de Kevin que alteró rutas atmosféricas y corrientes entre regiones, con consecuencias indirectas y simultáneas en varios continentes. No obtuvo control fiable. Los habitantes no supieron adónde desapareció; no asumieron que viajara a otro mundo.
