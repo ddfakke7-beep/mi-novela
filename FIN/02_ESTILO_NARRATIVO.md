@@ -500,4 +500,25 @@ Hacer una lectura de autor y comprobar:
 Si alguna respuesta revela un problema, corregir el capítulo antes de publicarlo. No presentar al usuario una idea prometedora como sustituto de una ejecución que todavía no la cumple.
 
 Estas comprobaciones son un criterio interno de calidad, no una lista que deba aparecer en cada capítulo ni una fórmula que deba repetirse en la prosa.
+## 20. Variedad de ritmo, esperanza y mundos salvados
 
+No orientar FIN exclusivamente hacia la destrucción. El autor debe alternar con libertad tonos y géneros: tragedia, aventura, fantasía épica, misterio, horror, maravilla, camaradería, esperanza, victoria y reconstrucción. No se trata de alternar mecánicamente un capítulo triste y otro feliz, sino de permitir que cada mundo determine su propia historia.
+
+Kevin puede ser el salvador de un mundo. Para que la victoria sea convincente:
+- La amenaza debe existir y tener consecuencias antes de que Kevin pueda intervenir.
+- Los habitantes deben luchar por su mundo con sus propios recursos, conocimientos, historia y decisiones. Kevin no reemplaza a toda la población ni resuelve por sí solo cada frente.
+- Su intervención debe cambiar causalmente el resultado: abrir una oportunidad imposible, romper una condición que mantenía invencible a la amenaza, permitir una alianza, proteger una evacuación decisiva o hacer posible que otros ejecuten la victoria.
+- La solución no necesita demostrar control perfecto del poder. Puede ser una reacción inesperada, una decisión arriesgada o una aplicación parcial que Kevin apenas comprende.
+- La victoria debe tener desarrollo y precio cuando corresponda, pero no añadir una tragedia compensatoria por costumbre. Un mundo puede sobrevivir con sus comunidades, cultura y futuro sustancialmente intactos.
+- Mostrar la reacción posterior: alivio, duelo por quienes sí cayeron, gratitud, incredulidad, celebraciones, desacuerdos y cambios en la relación con Kevin.
+- Kevin puede aceptar, rechazar o no saber cómo responder al reconocimiento. No convertirlo de inmediato en un héroe seguro de sí mismo.
+
+La amenaza no tiene que ser siempre Kevin. Puede ser un enemigo externo, una guerra antigua, una entidad, una plaga, una catástrofe natural sobrenatural o una crisis política. En esos casos, Kevin puede convertirse en un tercer factor decisivo sin que todo el mundo gire mágicamente a su alrededor.
+
+## 21. Caos dramático con causalidad
+
+Cuando la crisis lo justifique, construir acontecimientos simultáneos y frentes que se afecten entre sí. Mientras un personaje negocia, otra región puede caer; mientras una potencia sostiene una defensa, una evacuación puede quedar aislada; una victoria local puede abrir una oportunidad y provocar un coste en otro lugar. Las escenas deben ser legibles y sus conexiones causales comprensibles.
+
+No confundir intensidad con ruido. Reservar espacio para conocer a las personas antes de ponerlas en peligro, para que el lector entienda qué se protege y qué significa perderlo. Las batallas importantes deben cambiar posiciones, recursos, relaciones u objetivos; no prolongarse con ataques intercambiables.
+
+Incluir pausas, alivio, humor, afecto, asombro o celebraciones cuando sean naturales. La esperanza no debilita la épica: permite que el lector sienta lo que está en juego. Las consecuencias positivas deben mostrarse con la misma concreción que las negativas.
