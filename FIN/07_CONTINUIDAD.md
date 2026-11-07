@@ -4,9 +4,9 @@
 
 **Fase:** narración en curso.  
 **Canon fundacional:** establecido.  
-**Capítulos completos:** 12.  
-**Mundos visitados:** Veyra, Cangyuan, Ithrak, Orthea, Namar, Ilyr, Orveth, Naereth, Nharos, Taurak, Yunluo y Vael Taar. Ocho civilizaciones colapsaron; Nharos, Taurak, Yunluo y Vael Taar sobrevivieron a sus respectivas crisis.  
-**Último acontecimiento:** Kevin dejó Vael Taar el día 3 a las 18:06. El mundo sobrevivió; Avar Keth desapareció y Oruun quedó inmovilizado en el quinto cielo, sin que se confirmara la muerte de ninguno.
+**Capítulos completos:** 14.  
+**Mundos visitados:** Veyra, Cangyuan, Ithrak, Orthea, Namar, Ilyr, Orveth, Naereth, Nharos, Taurak, Yunluo, Vael Taar, Ithara y Tiravel. Ocho civilizaciones colapsaron; Nharos, Taurak, Yunluo, Vael Taar, Ithara y Tiravel sobrevivieron a sus respectivas crisis.  
+**Último acontecimiento:** Kevin dejó Tiravel el día 3 a las 21:48. El mundo sobrevivió y Nhal-Kor fue destruido. Kevin ayudó a salvar las civilizaciones de los cuatro continentes.
 
 ## 2. Capítulo 1 — Veyra
 
@@ -91,7 +91,7 @@ Kevin sigue sin conocer el origen de su poder ni el mecanismo de los viajes. Ha 
 - Los mundos deben sentirse completos y extensos. Las organizaciones y potencias estarán dispersas, y las distancias y comunicaciones afectarán a las movilizaciones.
 - La Tierra puede tener potencias ocultas de escala global, como dioses, entidades antiguas o guardianes, con intereses propios. No será automáticamente un mundo indefenso.
 - La narración alterna entre la perspectiva de Kevin, los habitantes y los poderosos.
-- **Un capítulo = un mundo destruido.** Puede ser largo y contener múltiples escenas, pero nunca dos mundos destruidos.
+- **Un capítulo = un mundo.** Cada uno tiene un conflicto y desenlace propios; el mundo puede caer, sobrevivir, ser salvado, quedar contenido o expulsar a Kevin. Puede ser largo y contener múltiples escenas, pero nunca dos mundos destruidos.
 - ChatGPT crea autónomamente mundos, personajes, facciones, conflictos, sistemas de poder, acontecimientos y capítulos.
 - El origen definitivo del poder y la razón de los viajes no deben revelarse todavía.
 - Se llevará un registro de mundos, potencias, enfrentamientos, muertes y supervivientes.
@@ -690,3 +690,57 @@ Kevin desapareció de Ithara el día 3 a las 22:11. No sabe que la infección si
 - Marek puede haber perdido recuerdos que no recuperará.
 - La estructura desconocida bajo la corteza respondió después de la crisis. No se sabe si despertó, si fue activada por la infección o si reaccionó a la manifestación de Kevin.
 - Kevin abandonó Ithara sin conocer la naturaleza de esa estructura ni el destino final de la infección.
+## 23. Capítulo 14 — Tiravel
+
+**Archivo:** `FIN/CAPITULOS/14_TIRAVEL_EL_MUNDO_QUE_NO_PERDIO_EL_ALBA.md`.
+
+### Llegada, salida y resultado
+- Kevin llegó a Aram, ducado de Leth, continente de Arel, el día 1 a las 09:06.
+- Desapareció el día 3 a las 21:48.
+- Estancia total: 60 horas y 42 minutos.
+- Tiravel sobrevivió. Nhal-Kor fue destruido; las civilizaciones de los cuatro continentes conservaron sus territorios principales y su futuro.
+- Es el primer mundo en que Kevin decide participar conscientemente para salvarlo y contribuye de forma decisiva a una victoria auténtica.
+
+### Mundo y conflicto
+Tiravel posee cuatro continentes: Arel (reinos humanos y ciudades fluviales), Thessa (bosques antiguos y pueblos de raíz), Vord (montañas y galerías de los nacidos de piedra) y Nym (islas, dragones y ciudades costeras). El pacto de los siete fuegos del alba mantenía dormida a Nhal-Kor, entidad que habitaba bajo el océano septentrional y consumía la luz. Dos fuegos se apagaron y su sombra se extendió por los cuatro continentes. Las viejas disputas entre humanos, dragones, pueblos de raíz y nacidos de piedra casi impidieron la respuesta conjunta.
+
+### Hechos y manifestaciones de Kevin
+- Al llegar al puente de las campanas de Aram, Kevin vio a Eren y a su madre amenazados por un desollador de escarcha. Su manifestación destruyó a la criatura, pero dañó tres casas y parte del puente.
+- Kevin ayudó a retirar escombros y rescatar heridos; no intentó repetir la manifestación.
+- En el bastión de Leth, Kevin se interpuso cuando otra criatura atacó a los refugiados. Su poder abrió una herida en la coraza y destruyó al desollador, pero también cortó el patio y dañó una torre.
+- Las potencias concluyeron que la anomalía de Kevin podía dañar la coraza de las criaturas vinculadas a Nhal-Kor. Kevin no sabía cómo lo había hecho.
+- Kevin aceptó ayudar voluntariamente después de escuchar los riesgos y ver que los habitantes de Tiravel ya estaban luchando por su mundo.
+- En la batalla final, la luz de los cinco fuegos expuso el núcleo de Nhal-Kor. Kevin abrió una grieta hacia su interior. Azhara y la luz combinada de los fuegos atravesaron el corazón y destruyeron a la entidad.
+- Kevin no murió ni se regeneró. No obtuvo control perfecto ni comprendió por qué su poder pudo abrir la coraza.
+
+### Personajes y destinos
+- Sered, caballero de Leth: sobrevivió y volvió a la guardia.
+- Talia, sanadora de Leth: sobrevivió y organizó la atención de los heridos.
+- Eren: sobrevivió; regaló a Kevin una figura de madera con forma de dragón.
+- Madre de Eren: sobrevivió. Reconoce que Kevin salvó a su hijo, pero también recuerda los daños que causó.
+- Duquesa Maereth: sobrevivió y participó en la renovación del pacto.
+- Azhara, reina dragón de Nym: sobrevivió, perdió parte de un ala y dos de sus hijos no regresaron.
+- Dhoram, rey de las galerías de Vord: sobrevivió; su brazo izquierdo quedó reducido a grava.
+- Orsenn, guardián del fuego de Vaelor: murió sosteniendo la llama hasta el ataque final.
+- Madre Raíz de Thessa: sobrevivió, pero perdió miles de árboles.
+- Nhal-Kor: destruido.
+- Los desolladores de escarcha: se deshicieron tras la destrucción de Nhal-Kor.
+
+### Consecuencias y balance provisional
+- Aram y Leth sufrieron daños; el puente de las campanas fue reconstruido.
+- Las costas septentrionales quedaron parcialmente congeladas; varios puertos deben desplazarse.
+- Una montaña de Vord se fracturó y galerías orientales quedaron inutilizables.
+- En Thessa, miles de árboles murieron durante el desplazamiento del bosque, pero las aldeas fueron evacuadas.
+- En Nym, dos dragones siguen desaparecidos y Azhara quedó herida.
+- Balance provisional: 18.400 muertos confirmados, 3.700 desaparecidos, 27.600 heridos y 146.000 desplazados o evacuados. Los registros son incompletos; desaparecidos no equivale a muertos y categorías pueden solaparse.
+
+### Estado de Kevin al salir
+Kevin sabe que ayudó a destruir a Nhal-Kor, pero no entiende por qué su poder pudo dañar la coraza ni si podría repetir el fenómeno. Fue reconocido por los habitantes de Aram y el bastión de Leth. Eren le regaló una figura de madera con forma de dragón. Kevin se marchó sabiendo que Tiravel conservaba su futuro gracias, en parte, a su intervención.
+
+### Continuidad abierta
+- Los siete fuegos deben reconstruirse y mantenerse bajo el pacto renovado.
+- Los pueblos de Arel, Vord, Thessa y Nym deben resolver las disputas que casi impidieron su cooperación.
+- Azhara debe reorganizar la línea de dragones tras perder a dos de sus hijos; los dos dragones desaparecidos no tienen destino confirmado.
+- Las costas del norte y las galerías de Vord requieren reconstrucción.
+- No se conoce el origen de Nhal-Kor ni si existen entidades semejantes bajo otros mares.
+- Kevin dejó Tiravel sin conocer el mecanismo de su traslado ni el origen de su poder.
