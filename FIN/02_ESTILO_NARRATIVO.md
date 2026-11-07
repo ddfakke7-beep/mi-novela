@@ -190,14 +190,14 @@ Mostrar una gama de respuestas, sin convertirla en una lista mecánica:
 - Algunos lucharán por deber, incluso si personalmente no sienten odio.
 - Otros tratarán de comprender su intención o hablar con él, pero podrán concluir que debe morir de todos modos.
 - Algunos intentarán capturarlo, contenerlo o mantenerlo lejos de zonas habitadas.
-- Otros pueden intentar enseñarle a controlar el poder, guiarlo o ayudarlo a evitar nuevas catástrofes. Sus motivos pueden ser compasión, pragmatismo, protección, desesperación o el deseo de aprovechar esa fuerza.
+- Otros pueden intentar ayudarlo a enfocar su intención, estudiar sus reacciones o contenerlo. Algunos creerán que pueden enseñarle a controlar el poder, pero esa creencia es equivocada; sus métodos no pueden volver obediente la fuerza. Sus motivos pueden ser compasión, pragmatismo, protección, desesperación o el deseo de aprovechar esa fuerza.
 - También puede haber quienes intenten imponerle control mediante técnicas, sellos, restricciones, entrenamiento forzado o procedimientos crueles.
 
 **Comprender no es perdonar.** Un personaje puede creer que Kevin no quería causar la destrucción y aun así odiarlo por lo que ha perdido. Puede reconocer que es una persona asustada y decidir que el riesgo de dejarlo vivir es demasiado grande. Puede intentar ayudarlo y estar dispuesto a matarlo si fracasa. Las contradicciones emocionales deben surgir de su historia y sus decisiones, no de cambios arbitrarios.
 
 **Investigar no es necesariamente querer conocerlo.** Los defensores pueden estudiar su poder exclusivamente para encontrar cómo herirlo, incapacitarlo, contenerlo o matarlo. Distinguir el análisis de sus capacidades de la curiosidad por su identidad, recuerdos o sentimientos.
 
-**Los intentos de control deben tener consecuencias y límites.** Si alguien trata de enseñarle, guiarlo o restringirlo, no asumir que Kevin acepta ni que el método funciona. Puede no entender las instrucciones, resistirse, cooperar por necesidad, provocar un accidente o lograr apenas un avance parcial. No convertir a un personaje secundario en instructor infalible ni transformar el control del poder en la solución automática de la historia.
+**Los intentos de imponer control deben tener consecuencias y límites.** Nadie puede enseñar a Kevin a controlar el poder. Un personaje puede creerlo, intentarlo o confundir una coincidencia con un avance; la narración no debe validar esa hipótesis sin fundamento. Las técnicas y restricciones locales sí pueden contener a Kevin, limitar sus movimientos o alterar las condiciones de una manifestación, pero no convierten la fuerza en una herramienta obediente. No transformar estos intentos en la solución automática de la historia.
 
 Las reacciones deben depender de la personalidad, las pérdidas, la cultura, las responsabilidades y la información disponible de cada personaje. No todos tienen que hablar con Kevin, escucharlo o reconocer su humanidad. Algunos pueden rechazarlo desde el primer encuentro; otros pueden cambiar de postura después de presenciar sus actos o conocer nueva información.
 
