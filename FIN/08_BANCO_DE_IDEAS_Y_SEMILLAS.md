@@ -1,0 +1,116 @@
+# FIN — Banco de ideas y semillas narrativas
+
+**Estado:** documento de ideas provisionales.  
+**Importante:** nada de lo escrito aquí es canon narrativo hasta que aparezca en un capítulo. Las ideas no tienen un número de capítulo asignado salvo que se indique expresamente. ChatGPT, como autor, decide cuándo, cómo y si conviene introducirlas. No es necesario usar todas ni convertirlas en una lista de tareas.
+
+Este banco existe para conservar propuestas del usuario y semillas creativas que merecen seguir disponibles aunque todavía no encajen en el arco inmediato. Antes de diseñar un capítulo nuevo, revisar las ideas que puedan enriquecerlo, sin forzar su inclusión.
+
+---
+
+## 1. Otro caminante cuya existencia rechaza la vida
+
+**Origen de la idea:** conversación sobre posibles figuras semejantes a Kevin.
+
+Una caminante que, a diferencia de Kevin, posee una esencia o poder que rechaza a todo ser vivo. Nada puede coexistir con ella: la vida desaparece o es expulsada de su entorno y solo ella permanece. Su presencia convierte cualquier mundo habitado en un lugar inhabitable.
+
+**Posibilidades dramáticas:**
+- No tiene por qué ser malvada ni buscar conscientemente la muerte de todos; el rechazo puede ser una propiedad de su existencia, una condición que no puede apagar o una decisión que ha aceptado.
+- Puede haber desarrollado una forma de viajar, aislarse o convivir con esa soledad.
+- Su relación con Kevin no debe decidirse antes de conocerla. Podría verlo como amenaza, anomalía, semejante o algo que no puede tolerar.
+- Su capítulo de introducción debe darle identidad, historia y motivaciones propias. No presentarla simplemente como «la Kevin mujer» ni reducirla a una rival de poder.
+
+**Estado:** reservada. Sin capítulo ni aparición asignados.
+
+## 2. Una organización que vigila o caza a los destructores de mundos
+
+**Origen de la idea:** conversación sobre seres que viajan entre realidades y destruyen mundos conscientemente.
+
+Una organización, alianza o estructura de alcance universal —quizá intergaláctico, quizá entre realidades— podría dedicarse a proteger mundos, investigar catástrofes o localizar a quienes destruyen mundos de forma deliberada.
+
+**Líneas posibles:**
+- No tiene por qué ser una organización omnipotente ni estar presente en todas partes.
+- Puede tener recursos desiguales, jurisdicciones, facciones internas, métodos cuestionables y fracasos.
+- Algunos miembros podrían considerar a Kevin un destructor por los rastros que deja, aunque no comprendan su intención ni su naturaleza.
+- Otros podrían distinguir entre Kevin y quienes destruyen deliberadamente, pero no confiar en él.
+- Su existencia puede conocerse primero por rastros, símbolos, expedientes incompletos, advertencias o personas que buscan a alguien. No hace falta presentarla de golpe ni explicar su estructura entera.
+
+**Estado:** reservada. No introducirla automáticamente en el capítulo siguiente; esperar a que la historia necesite ampliar el marco de los viajeros y las amenazas entre mundos.
+
+## 3. Un mundo con dos desastres enfrentados
+
+**Origen de la idea:** propuesta del usuario después de los capítulos de Serekh y Tiravel.
+
+Kevin llega a un mundo que ya está parcialmente destruido. En vez de caer junto a una civilización estable y conocer primero a sus habitantes, puede aparecer directamente cerca de un enemigo de escala catastrófica, incluso en medio de un enfrentamiento. El enemigo reconoce a Kevin como una presencia incompatible con su propia esencia y lo ataca. La primera reacción de Kevin puede ser confusión y supervivencia: no sabe dónde ha llegado, quién es su adversario ni por qué lo persigue.
+
+La llegada de Kevin convierte una crisis de un solo desastre en una situación con dos amenazas monstruosas. Sin embargo, no son iguales:
+- El otro desastre sí busca destruir, consumir, exterminar o imponer su existencia sobre todo lo demás, según la lógica que se decida para ese antagonista.
+- Kevin no desea conquistar el mundo ni matar a sus habitantes. Puede causar destrucción terrible al defenderse y combatir, pero su intención no es exterminar la vida.
+- Los habitantes no tienen que confiar en Kevin, perdonarlo ni considerarlo un héroe. Pueden temerlo y rechazarlo, pero comprender que el otro enemigo los habría destruido de todos modos.
+- La cooperación puede ser circunstancial y práctica: no necesitan confiar en Kevin para aprovechar que el otro desastre también quiere matarlo. Kevin tampoco tiene por qué conocer personalmente a todos ni convertirse en el líder de la resistencia.
+
+### Posible estado del mundo
+
+Una parte importante del mundo ya ha sido devastada, pero no está condenado de forma irreversible. Podría tener hadas, espíritus, criaturas reparadoras o una ecología sobrenatural capaz de regenerar territorios con el tiempo. La recuperación no sería instantánea ni gratuita:
+- bosques y regiones podrían tardar años o generaciones en sanar;
+- rutas, ciudades y ecosistemas podrían reconstruirse de forma desigual;
+- las criaturas reparadoras necesitarían protección, recursos o condiciones específicas;
+- algunas pérdidas serían permanentes aunque el mundo pueda recuperarse.
+
+Así, la destrucción de Kevin y del otro enemigo tendría consecuencias reales sin que el único desenlace posible sea la muerte total del planeta. La capacidad de regeneración del mundo no debe convertirse en un botón que borre los daños.
+
+### Posible dinámica del conflicto
+
+El otro desastre no tiene que lanzarse a matar a Kevin desde el primer segundo sin pensar. Puede reconocer algo en él y actuar con cautela:
+- primero observa, rastrea, prueba o intenta atraparlo;
+- puede preparar trampas, aislarlo, usar criaturas o fuerzas subordinadas y buscar una ocasión segura;
+- intenta eliminarlo porque su esencia o propósito es incompatible con lo que Kevin representa;
+- Kevin no conoce necesariamente la razón. Puede saber únicamente que alguien lo está cazando y que ese alguien no dejará de intentarlo;
+- la escalada llega cuando ambos comprenden que no podrán ignorarse ni continuar huyendo: uno de los dos tendrá que acabar con el otro.
+
+La incompatibilidad no debe explicarse mediante una escala universal ni convertirse automáticamente en una profecía. Puede ser una oposición de naturalezas, propósitos o efectos sobre la realidad, cuya explicación se revele gradualmente.
+
+### Qué lo diferencia de capítulos anteriores
+
+- No es otro mundo donde Kevin llega, conoce a una comunidad, descubre una crisis y decide ayudarla.
+- El antagonista y Kevin pueden encontrarse antes que cualquier habitante importante; el capítulo puede comenzar con una persecución o combate.
+- El conflicto central es la colisión entre dos desastres, mientras las comunidades intentan sobrevivir, contener daños y aprovechar la oportunidad.
+- Los habitantes tienen agencia: combaten, reparan, evacuan, protegen las fuentes de regeneración y pueden atacar a ambos si sus acciones los ponen en peligro.
+- Kevin no necesita conocer todos los nombres, historias ni planes locales. Puede atravesar parte del conflicto sin entender el mundo completo.
+- El desenlace puede permitir una recuperación lenta del mundo, pero no una restauración mágica de todo lo perdido.
+
+**Estado:** semilla prioritaria para un futuro capítulo, sin número asignado. No debe confundirse con la idea de la caminante que rechaza toda vida: pueden ser personajes distintos, y el autor decidirá si existe alguna conexión cuando sea narrativamente conveniente.
+
+## 4. Variar los lugares y circunstancias de llegada de Kevin
+
+**Problema narrativo señalado por el usuario:** Kevin parece llegar con frecuencia cerca de una civilización, lo que facilita que conozca habitantes, autoridades y conflictos locales. Si se repite siempre, los mundos empiezan a sentirse construidos para recibirlo.
+
+**Regla creativa para futuros capítulos:** variar deliberadamente el punto de llegada y la primera situación de Kevin. No asumir que aparecerá en una ciudad, aldea, refugio o comunidad que pueda explicarle el mundo.
+
+Posibilidades que deben alternarse según la historia:
+- aparecer junto al enemigo principal o dentro de su territorio;
+- caer en medio de una batalla ya iniciada entre fuerzas que no lo esperaban;
+- llegar a una región salvaje, deshabitada o considerada imposible de atravesar;
+- aparecer dentro de una prisión, ruina, dimensión cerrada, instalación o estructura viva;
+- llegar en un océano, cielo, subsuelo, territorio remoto o ecosistema no humano;
+- aparecer junto a un grupo pequeño, una sola persona o nadie;
+- ser confundido inmediatamente con un enemigo por una fuerza que no conoce su origen;
+- permanecer una parte sustancial del capítulo sin entender dónde está ni quién controla el lugar.
+
+La variedad no es una cuota mecánica: la llegada debe responder a la historia de ese mundo. No todos los capítulos necesitan una presentación social ni una explicación temprana. Kevin puede combatir, huir, investigar por su cuenta o ignorar buena parte del conflicto local.
+
+## 5. Principios para conservar la variedad
+
+- No convertir cada capítulo en «Kevin llega a una civilización, conoce a alguien, descubre que hay un desastre y termina ayudando o destruyendo».
+- No convertir cada antagonista en otro ser que simplemente quiere destruir el mundo. Sus objetivos, métodos, paciencia y relación con Kevin deben ser distintos.
+- No hacer que todos los mundos tengan hadas, regeneración planetaria, organizaciones de defensa o sistemas similares. Cada recurso pertenece al mundo que lo justifique.
+- Una recuperación sobrenatural debe tener reglas, límites, costes, tiempos y consecuencias. No anula las pérdidas.
+- La desconfianza hacia Kevin puede coexistir con cooperación táctica. No es necesario que los habitantes lo acepten para luchar junto a él.
+- Kevin puede ser protagonista sin conocer a todos ni comprender cada capa del conflicto. La narración puede mostrar sucesos paralelos desde otros puntos de vista.
+- No introducir todas las ideas reservadas en una sola historia. Cada una debe tener espacio para desarrollarse y puede permanecer sin usar si otra solución resulta mejor.
+- Las semillas de este documento no alteran la continuidad oficial. Solo los capítulos narrados establecen lo que realmente ocurrió.
+
+---
+
+## Criterio de uso
+
+Este banco es una reserva flexible, no una escaleta obligatoria. Antes de cada nuevo capítulo, el autor puede revisar estas semillas y escoger una, combinar elementos compatibles o dejarlas reposar. Si una idea cambia durante su desarrollo, actualizar este documento para conservar la versión más reciente sin convertirla retroactivamente en canon.
