@@ -450,3 +450,25 @@ La variedad no será una secuencia rígida de un capítulo oscuro seguido por un
 El caos debe surgir de objetivos incompatibles y acontecimientos simultáneos: defensas que se rompen mientras se evacúa, aliados que discrepan, enemigos que aprovechan una oportunidad, regiones que actúan sin conocer el resultado de otras y decisiones que no pueden deshacerse. Los personajes poderosos deben luchar con experiencia, técnica y voluntad, no limitarse a intercambiar ataques.
 
 El drama requiere vínculos y vidas concretas. Mostrar qué intentan proteger las personas, qué pueden perder, qué eligen y cómo viven después. No depender solo de cifras o de una sucesión de muertes. La esperanza también debe tener consecuencias materiales: personas rescatadas, hogares conservados, amenazas detenidas, rutas abiertas y sociedades que pueden continuar.
+## Regla reforzada: los traslados de Kevin no son conocidos por defecto
+
+Kevin es transportado involuntariamente y no conoce el mecanismo que lo desplaza. Los habitantes de un mundo tampoco saben automáticamente que va a desaparecer, que será trasladado a otra realidad ni cuándo ocurrirá.
+
+- No presentar su partida como un acontecimiento normal, esperado o comprendido por los habitantes. Una despedida solo ocurre si Kevin decide despedirse y existe una razón narrativa para que los personajes sepan que puede marcharse.
+- La desaparición puede ser repentina y ocurrir durante una conversación, un combate, un descanso o cuando nadie lo observa. No es obligatorio mostrarla como una escena de despedida.
+- Quienes la presencien reaccionarán según su carácter, cultura y conocimientos: sorpresa, miedo, confusión, sospecha, alivio, incredulidad o investigación. Pueden creer que murió, escapó, fue teletransportado, lo capturaron o que ocurrió otra cosa.
+- Quienes no la presencien pueden enterarse después, recibir versiones contradictorias o no descubrir nunca qué ocurrió. No todos los habitantes tienen por qué saber que Kevin se marchó.
+- El reconocimiento de su procedencia también depende de cada mundo. Algunos pueden carecer de medios para identificarlo; otros pueden detectar que no pertenece a su población mediante registros, números, marcas, rasgos, sistemas espirituales o mecanismos propios. Eso no les revela automáticamente que procede de la Tierra ni que viaja entre mundos.
+- Los registros de llegada y salida que utiliza la continuidad son información para el autor y el lector, no conocimiento automático de los habitantes.
+
+## Regla reforzada: la magnitud aterradora y anómala del poder de Kevin
+
+El poder de Kevin no debe sentirse como una simple capacidad de tocar algo y romperlo, golpear más fuerte o matar grandes cantidades de criaturas. La destrucción física directa es una de sus posibles expresiones, no una descripción suficiente de su naturaleza.
+
+- Mostrar en ocasiones que sus manifestaciones pueden afectar estructuras, conexiones, sistemas o fenómenos completos del mundo, y que sus consecuencias pueden propagarse más allá del punto donde comenzaron o alcanzar lugares que Kevin no está observando.
+- Adaptar el efecto a las reglas particulares de cada realidad: redes espirituales, dominios, formaciones, leyes mágicas, sistemas tecnológicos, vínculos naturales, estructuras dimensionales u otros principios propios. No imponer una lista universal de efectos ni repetir la misma solución entre mundos.
+- La sensación de anomalía debe surgir de que las reglas locales no explican por completo lo que sucede, de que las defensas responden de formas inesperadas o de que una manifestación altera relaciones que los habitantes creían estables. No hace falta explicar el origen ni revelar un mecanismo definitivo.
+- La magnitud se demuestra mediante alcance, propagación, consecuencias indirectas, imposibilidad de predecir con precisión y respuestas de quienes comprenden el sistema afectado; no solo aumentando el tamaño de las explosiones o el número de víctimas.
+- No toda manifestación debe alcanzar escala enorme. Puede ser localizada, sutil, accidental, defensiva o incluso no producir un efecto visible inmediato. La variedad y la causalidad de cada escena importan.
+- Kevin sigue siendo vulnerable: puede morir físicamente, ser herido, engañado, contenido, derrotado o superado. La capacidad destructiva, la resistencia de su cuerpo, el control técnico y la intención son dimensiones distintas.
+- No convertir el poder en una fuerza omnipotente que invalide los sistemas de cada mundo. Los habitantes pueden resistirlo, estudiarlo parcialmente, adaptarse, contenerlo o aprovechar sus límites sin comprenderlo por completo.
