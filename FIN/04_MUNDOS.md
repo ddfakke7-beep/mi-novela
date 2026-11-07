@@ -394,3 +394,23 @@ Yunluo es el tercer mundo visitado por Kevin que no termina en colapso civilizat
 - **Personajes supervivientes:** Nara, Eshra Dhal, Tessa y los antiguos aliados de Avar (mujer de vidrio, hombre sin sombra, criatura de agua y niño de hierro), con daños o destinos posteriores no confirmados.
 - **Estado de Kevin:** no murió ni se regeneró. No obtuvo control fiable. Salió el día 3 a las 18:06, tras 59 horas y 25 minutos.
 - **Continuidad abierta:** Avar podría seguir existiendo como técnica o haber quedado atrapado en la Cámara; Oruun podría volver a abrir la frontera; la grieta residual de la columna y la presencia escuchada por la niña vendada no tienen explicación confirmada.
+
+## Mundo 13 — Ithara
+
+- **Nombre:** Ithara, el mundo que se estaba mudando.
+- **Capítulo:** 13.
+- **Género:** mundo biológico y ecológico de escala planetaria; sus continentes, rutas, mares y ecosistemas están conectados mediante una red viva de raíces, memoria y organismos territoriales.
+- **Estado:** mundo superviviente; la muda fue interrumpida y la red perdió parte de su memoria.
+- **Geografía:** cuatro grandes masas continentales, mares de savia, océanos salinos, regiones de tejido mineral y caminantes colosales que transportan bosques, lagos y ciudades. Las placas continentales se desplazan durante las mudas.
+- **Civilizaciones y especies:** comunidades organizadas alrededor de rutas de savia, estaciones de muda y pactos con criaturas caminantes. No existe un gobierno central. Hay especies territoriales, organismos de precisión, caminantes y entidades que conservan territorios separados.
+- **Sistema propio:** la red viva de Ithara conecta tejidos, rutas, recuerdos de mudas anteriores y reconocimiento de especies y lugares. La muda renueva partes del mundo; la memoria permite que cada región reconozca su lugar en el conjunto.
+- **Conflicto previo:** una infección aprendió a imitar las raíces y consumir la memoria de la red. La Madre de las Mandíbulas quería cortar la placa de Namar para salvar el resto. El Pastor de los Lugares Perdidos buscó usar la anomalía de Kevin para separar la infección.
+- **Llegada de Kevin:** día 1, 04:18, en una costilla exterior del Cinturón de Muda.
+- **Manifestación:** al tocar a Marek, abrió una ausencia sin borde en la zona olvidada. Después, al tocar el Nudo de la Primera Piel, abrió una separación que expuso la infección, pero fracturó parcialmente el Nudo y borró recuerdos antiguos.
+- **Potencias:** la Madre de las Mandíbulas, entidad territorial que ejecuta podas de Ithara; el Pastor de los Lugares Perdidos, ser que conserva territorios separados de la red. Ambos detectaron la anomalía de Kevin, pero no pudieron clasificarla.
+- **Resultado:** el corte de Namar fue detenido; la infección dejó de avanzar hacia el centro, pero sigue activa en regiones exteriores. El Nudo perdió parte de su memoria. Una estructura desconocida bajo la corteza respondió después de la crisis.
+- **Consecuencias:** la ciudad caminante de Namar perdió su ruta original; lagos de savia cambiaron de dirección; una caminante antigua quedó inmóvil; varias especies perdieron rutas o recuerdos.
+- **Balance provisional:** 6.200 muertos confirmados, 14.700 desaparecidos, 19.300 heridos y 92.000 desplazados o evacuados. Registros incompletos; categorías pueden solaparse.
+- **Personajes:** Osha sobrevivió y permanece ayudando a las comunidades; Teren sobrevivió y participa en evacuaciones; Marek fue rescatado pero perdió recuerdos de su familia; Vela sobrevivió con sus hijas y sigue buscando a su marido; la Madre sobrevivió herida; el Pastor sobrevivió con su máscara fracturada y perdió territorios.
+- **Salida:** Kevin desapareció el día 3 a las 22:11. Estancia total: 65 horas y 53 minutos.
+- **Continuidad abierta:** la infección permanece activa; el Nudo perdió recuerdos; el marido de Vela sigue desaparecido; una estructura desconocida respondió bajo la corteza. No se conoce su naturaleza ni su relación con Kevin.
