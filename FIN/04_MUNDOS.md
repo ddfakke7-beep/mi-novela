@@ -325,3 +325,55 @@ No es necesario mostrar cada elemento en todos los capítulos, pero la construcc
 - **Balance provisional:** 24.600 muertos confirmados, 11.800 desaparecidos, 39.000 heridos y 208.000 evacuados. Los registros no constituyen un censo mundial y pueden contener solapamientos entre heridos y evacuados.
 - **Personajes y destinos:** Seyra sobrevivió; Vaeruun sobrevivió envejecida y debilitada; Khevar sobrevivió a la caída en el océano, pero desapareció en las fosas del norte; Rhaum quedó herido y regresó al océano; Othra fue rescatada; Dhur-Khal sobrevivió, pero perdió su capacidad de escuchar las capas profundas de la piedra; Neyra tiene destino no confirmado. El Primer Aliento continúa dormido.
 - **Estado:** segundo mundo que no termina en colapso civilizatorio y primero que expulsa deliberadamente a Kevin mediante un mecanismo local. No se ha demostrado que el método sea universal ni que esté conectado con el mecanismo de los traslados.
+
+## Mundo 11 — Yunluo
+
+**Título:** *Yunluo, el mundo que alimentaba a sus inmortales*.
+
+Mundo de cultivo con cinco continentes y un océano interior rodeado de cadenas de islas. Las venas espirituales recorren montañas, bosques, mares y regiones subterráneas como corrientes invisibles. Hay nueve grandes sectas, monasterios itinerantes, clanes de bestias espirituales, ciudades construidas alrededor de manantiales y comunidades que viven bajo montañas de cultivo.
+
+### Geografía y formas de vida
+- **Lianshu:** continente del Valle de las Campanas y la Montaña Hueca, con terrazas de cultivo, canteras espirituales y rutas de montaña.
+- **Shouhai:** continente donde se encuentra Luyin, ciudad que perdió parte de su lago cuando las venas cambiaron.
+- Los otros tres continentes y las islas del océano interior mantienen culturas, sectas y ecosistemas propios; la crisis los alcanzó de forma desigual.
+- Los clanes de los Ciervos de Niebla y los zorros de nueve colas son pueblos no humanos con territorios y estructuras propias.
+- Las sectas no son solo escuelas: algunas son ciudades, linajes, monasterios itinerantes o comunidades ligadas a montañas y lagos.
+
+### Sistema de poder
+Los cultivadores aprenden a percibir y conducir la energía de las venas espirituales. Las etapas mencionadas en el capítulo incluyen la apertura de meridianos, la formación de un mar interior, el Palacio del Espíritu y el Umbral Celeste. No establecer equivalencias universales con los rangos de otros mundos.
+
+### Conflicto previo
+La Escalera del Cielo permitía a cultivadores extraordinarios vivir durante siglos en palacios celestes, alimentados por la energía extraída de las venas espirituales. Las nueve grandes sectas mantenían el sistema y la ceremonia de la Gran Ascensión. Las comunidades bajo las montañas pagaban el coste mediante canteras, cosechas debilitadas y pérdida de energía vital.
+
+Zhao Wenyuan, antiguo cultivador de la Montaña Hueca, quería destruir la Escalera y terminar con el dominio de las sectas. La raíz bajo la Montaña Hueca mantenía encerrado el Río Invertido, una corriente primordial capaz de devorar las venas espirituales. Zhao conocía el riesgo, pero aceptaba sacrificar regiones enteras para acabar con el antiguo orden.
+
+### Llegada y crisis
+Kevin llegó el día 1 a las 07:20 al Valle de las Campanas. Una manifestación involuntaria deshizo parte de un canal cuando intentaba rescatar a un niño. Las campanas del valle alertaron a los cultivadores. Jin Suyin lo acompañó y Zhao Wenyuan lo manipuló mediante información verdadera pero incompleta.
+
+Kevin se acercó a la válvula de una cantera para ayudar a rescatar a diecisiete trabajadores. La raíz reaccionó a su presencia y la presión comenzó a propagarse. Zhao había preparado la situación para que Kevin eligiera acercarse, sin explicarle todas las consecuencias.
+
+### Desenlace
+El Río Invertido entró en las venas principales. La Escalera del Cielo se quebró y sus palacios cayeron. Tres grandes sectas dejaron de existir como organizaciones; las otras seis se fracturaron. Yunluo sobrevivió físicamente y sus habitantes conservaron regiones, culturas y comunidades, pero el antiguo orden de cultivo quedó destruido.
+
+### Daños y balance provisional
+- Escalera del Cielo destruida.
+- Tres grandes sectas disueltas como organizaciones; seis fracturadas.
+- La Montaña Hueca perdió galerías y territorio.
+- La vena espiritual central cambió de curso en cuatro continentes.
+- El lago de Luyin perdió la mitad de su agua.
+- Varias ciudades del norte quedaron partidas o abandonadas.
+- Las rutas marítimas de las Islas de Sal quedaron interrumpidas.
+- **Muertos confirmados:** 31.700.
+- **Desaparecidos:** 18.900.
+- **Heridos:** 52.000.
+- **Desplazados y evacuados:** 416.000.
+- Las cifras son provisionales; las regiones del norte y oeste no han enviado todos sus registros. Desaparecidos no equivale a muertos y heridos/desplazados pueden solaparse.
+
+### Personajes y destinos
+Zhao Wenyuan fue absorbido por el Río Invertido; no se recuperaron restos. Jin Suyin murió abriendo una salida para la evacuación. Han Ruo sobrevivió y perdió su tercera terraza. La anciana Qiao murió durante la evacuación. La joven de la cicatriz y su hermano sobrevivieron; su madre sigue desaparecida. La maestra de la Garza Roja sobrevivió, pero perdió su mar interior. El Señor de la Cumbre Vacía sobrevivió y se retiró; el destino del Patriarca de la Escalera no está confirmado.
+
+### Cronología
+Llegada: día 1, 07:20. Salida: día 4, 18:02. Estancia total: 82 horas y 42 minutos.
+
+### Estado
+Yunluo es el tercer mundo visitado por Kevin que no termina en colapso civilizatorio. El orden de cultivo dominante fue quebrado, pero el planeta y sus pueblos siguen existiendo. No se ha demostrado que el Río Invertido esté conectado con el mecanismo de los traslados.
