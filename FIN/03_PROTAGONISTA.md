@@ -75,16 +75,18 @@ Al narrar su perspectiva, distinguir:
 - **Lo que ignora:** causas, consecuencias o capacidades que todavía no comprende.
 
 El lector puede conocer consecuencias que él desconoce mediante las perspectivas de habitantes y poderosos.
-## 6. Regeneración y supervivencia física
+## 6. Muerte física, regeneración y supervivencia
 
-Kevin no puede morir definitivamente por daño físico. Esta condición es permanente y no depende de que comprenda o controle su poder destructivo.
+Kevin puede morir físicamente. Sus funciones vitales pueden detenerse por ahogamiento, asfixia, heridas mortales, pérdida extrema de sangre, calor extremo o destrucción corporal. Esa muerte no es permanente porque su cuerpo se regenera y, cuando el proceso termina, vuelve a la vida.
 
-- Las heridas mortales no lo matan de forma definitiva. Si es decapitado, pierde una extremidad, sufre daños corporales extremos o pierde demasiada sangre, queda inconsciente o incapacitado.
-- Su cuerpo regenera las partes perdidas y repara las heridas. La reconstrucción no ocurre al instante: necesita tiempo, que variará según el daño y las circunstancias.
-- Mientras se recupera, puede permanecer completamente fuera de combate. Los enemigos pueden aprovechar ese intervalo para actuar, completar sus planes o preparar una nueva ofensiva.
-- Una vez terminada la regeneración, Kevin vuelve a levantarse y puede funcionar con normalidad.
-- Esto no lo hace invulnerable ni impide que sufra dolor, miedo, desconcierto o las consecuencias de quedar incapacitado.
-- No asumir que Kevin comprende esta capacidad desde el principio ni que los habitantes de cada mundo la conocen.
+- No es inmortal en el sentido de que no pueda morir: puede estar realmente muerto durante el proceso de regeneración.
+- La regeneración no es instantánea. Su duración depende del daño y de las circunstancias; no existe una duración universal.
+- Mientras está muerto o regenerándose, queda completamente fuera de acción: no puede pensar, actuar, defenderse, escapar ni combatir.
+- La regeneración repara o reconstruye el cuerpo, pero no rompe automáticamente sellos, prisiones, dominios ni mecanismos de contención.
+- Los adversarios pueden aprovechar el intervalo para completar objetivos, evacuar, reorganizarse, retirarse o preparar nuevas medidas.
+- La regeneración no provoca por sí misma una manifestación destructiva. Es independiente del poder de Kevin.
+- No asumir que Kevin conoce desde el principio esta capacidad ni que comprende su mecanismo.
+- No establecer límites definitivos, fuente ni explicación última que la historia todavía no haya revelado.
 
 ## 7. Manifestaciones del poder destructivo
 
