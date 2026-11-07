@@ -433,3 +433,17 @@ Kevin aceptó ayudar voluntariamente. Los habitantes y potencias de Tiravel sost
 **Personajes principales:** Kevin, Sered, Talia, Eren, la madre de Eren, duquesa Maereth, Azhara, Dhoram, Orsenn y la Madre Raíz. Orsenn murió; Azhara y Dhoram sobrevivieron heridos; la Madre Raíz sobrevivió. Los destinos de dos dragones desaparecidos no están confirmados.
 
 Tiravel es el primer mundo en el que Kevin decide intervenir de forma consciente para salvarlo y la operación termina en una victoria auténtica. Su intervención fue decisiva, pero no exclusiva: los habitantes y las potencias del mundo hicieron posible la victoria.
+
+## Mundo 15 — Serekh, el mundo que seguía fabricando la muerte
+
+- **Capítulo:** 15.
+- **Tipo:** realidad planetaria muerta, con restos de civilizaciones no humanas, antiguas redes de transporte y una defensa orgánica distribuida.
+- **Estado:** mundo ya destruido antes de la llegada de Kevin. El núcleo de defensa fue apagado por Kevin; no se restauró la vida ni se confirmó la existencia de supervivientes.
+- **Geografía:** tres grandes continentes, mares interiores retirados, cadena de islas polares, regiones ecuatoriales de bosques-columna y ciudades subterráneas conectadas por rutas de transporte. Las ruinas visibles abarcan extensiones continentales.
+- **Habitantes conocidos por registros:** varias especies y formas de vida inteligentes, entre ellas seres de cuatro brazos, pueblos de piel azul, organismos acuáticos y comunidades vinculadas a estructuras móviles. Kevin no llegó a conocer sus nombres ni sus culturas completas.
+- **Sistema defensivo:** siete anillos regionales conectaban refugios, rutas y una estructura orgánica central. Antes de la catástrofe coordinaban las defensas del planeta. Después de perder sus conexiones, el núcleo siguió produciendo cazadores y dejó de distinguir entre invasores y habitantes.
+- **Destrucción anterior:** los registros muestran una figura humanoide que llegó a la estructura central y apagó los siete anillos. Después se marchó. No se conoce si provocó directamente la muerte de los habitantes, qué buscaba ni si las criaturas fueron una consecuencia prevista o accidental.
+- **Llegada y salida:** Kevin llegó el día 1 a las 06:32 y desapareció el día 4 a las 14:02. Estancia total: 79 horas y 30 minutos.
+- **Resultado de la intervención de Kevin:** destruyó el núcleo de defensa entre el día 3 a las 19:12 y las 19:46. Cesó la producción y coordinación de los cazadores. El mundo siguió muerto.
+- **Daños y estado final:** los mares permanecen secos, los bosques-columna inmóviles, las ciudades vacías y las rutas planetarias destruidas. No existe un censo fiable de víctimas y no se confirmó ningún superviviente.
+- **Continuidad abierta:** identidad y propósito de la figura humanoide desconocidos; no se sabe si existen otros núcleos de defensa o si el apagado tuvo efectos fuera de Serekh.
