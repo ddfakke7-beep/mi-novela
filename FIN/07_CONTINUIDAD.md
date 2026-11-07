@@ -161,7 +161,7 @@ Las figuras supremas deben tener presencia, combate desarrollado y consecuencias
 - Esta propiedad no equivale a invulnerabilidad. Kevin puede ser herido, incapacitado y apartado de una batalla durante un tiempo importante.
 - No asumir que los habitantes de los mundos conocen esta capacidad ni que Kevin la comprende desde el comienzo.
 
-**Manifestación del poder destructivo:** es independiente de la regeneración y queda a criterio narrativo. Puede descontrolarse, crear un fenómeno destructivo alrededor de Kevin, afectar un área, propagarse por el entorno, reaccionar ante ataques o surgir de un intento de defensa. No existe una fórmula fija: cada manifestación debe responder a la situación y evitar repetirse mecánicamente.
+**Manifestación del poder destructivo:** es independiente de la regeneración y no puede ser controlada por Kevin. Puede surgir sin decisión consciente, afectar lo que alcanza y propagarse por conexiones, sistemas o fenómenos relacionados. También puede reaccionar autónomamente ante ataques o amenazas que perciba dirigidas contra él. Kevin puede enfocar su intención hacia aquello que quiere afectar, pero no ordenar cómo actuará la fuerza, regular su alcance ni garantizar el resultado. No existe una fórmula fija: cada manifestación debe responder a la situación y evitar repetirse mecánicamente.
 
 No se ha establecido el origen, mecanismo definitivo, límite ni duración universal de la regeneración o del poder.
 ## 11. Regla narrativa: investigación y transmisión de información
@@ -187,7 +187,7 @@ Las reacciones ante Kevin no se reducen a investigar su poder o intentar compren
 - Algunos personajes pueden intentar hablar con Kevin, comprender sus motivos o reconocer que no actúa con maldad y aun así decidir que debe morir por el peligro que representa.
 - Otros pueden odiarlo por las personas y los lugares que ha destruido, buscar venganza o rechazar cualquier negociación.
 - También pueden existir intentos de capturarlo, contenerlo, alejarlo de zonas pobladas o imponerle restricciones.
-- Algunos personajes pueden intentar ayudarlo a controlar su poder o enseñarle a manejarlo. Sus motivos pueden ser compasión, protección, pragmatismo, desesperación o el deseo de utilizar esa fuerza.
+- Algunos personajes pueden intentar ayudarlo a enfocar su intención, estudiar sus reacciones o contener el fenómeno. Otros pueden creer que es posible controlar el poder y tratar de enseñarle o imponerle métodos, pero esa creencia no es una verdad del mundo. Sus motivos pueden ser compasión, protección, pragmatismo, desesperación o el deseo de utilizar esa fuerza.
 - Los intentos de control pueden ser voluntarios o forzados, y pueden fracasar, causar daños, conseguir resultados parciales o cambiar la relación entre Kevin y quienes lo intentan.
 - Un mismo personaje puede sentir compasión y rencor, querer ayudarlo y estar dispuesto a matarlo si no consigue detenerlo.
 - No todos los mundos ni todos los poderosos deben reaccionar igual. Las posturas dependen de las pérdidas, responsabilidades, cultura, carácter e información disponible.
@@ -196,7 +196,7 @@ La ausencia de malicia de Kevin no borra las consecuencias de sus actos ni oblig
 
 ## 13. Regla narrativa: esperanza y confianza en Kevin
 
-Además del rechazo, el odio y los intentos de control, pueden existir personajes que crean sinceramente que Kevin puede recapacitar, aprender a controlar su poder o utilizarlo para salvarlos. Pueden ser niños, jóvenes, adultos o figuras importantes.
+Además del rechazo, el odio y los intentos de contención, pueden existir personajes que crean sinceramente que Kevin puede recapacitar, enfocar su intención y utilizarla para intentar salvarlos. Algunos pueden creer que también logrará controlar el poder, pero esa esperanza puede estar equivocada. Pueden ser niños, jóvenes, adultos o figuras importantes.
 
 - Pueden acercarse a Kevin porque descubren que no parece disfrutar de la destrucción, porque lo escuchan disculparse o porque presencian sus intentos de evitar más daños.
 - Pueden sentir alivio y aferrarse a la posibilidad de que Kevin controle lo que lleva dentro y todavía consiga proteger su hogar.
@@ -230,8 +230,8 @@ Registrar solo los simpatizantes y sus motivaciones que efectivamente aparezcan 
 
 - Cada mundo debe tener identidad, vida y conflictos propios, con atención especial a sus máximas potencias y a la respuesta de la civilización.
 - La evolución mental de Kevin debe avanzar de forma gradual y estar vinculada a lo que vive, sin desplazar el protagonismo de los mundos.
-- La esperanza y la confianza en Kevin pueden ofrecer alivio genuino, pero no garantizan que consiga controlar su poder ni salvar el mundo.
-- Los intentos de enseñarle, ayudarlo o forzarlo a controlar el poder son posibilidades, no soluciones obligatorias.
+- La esperanza y la confianza en Kevin pueden ofrecer alivio genuino, pero no garantizan que consiga el resultado que busca ni salvar el mundo. El poder no puede controlarse.
+- Los intentos de enseñarle, ayudarlo a enfocar su intención o forzarlo a obedecer son posibilidades narrativas, no soluciones obligatorias. Ninguno puede convertir el poder en una fuerza controlable.
 - El odio, el rencor, la venganza, el deber, la compasión, el oportunismo y la simpatía pueden coexistir dentro de una misma civilización.
 - Los simpatizantes deben tener motivos concretos; no basta con que quieran que el mundo sea destruido ni con que nieguen todo el daño.
 - No todos los mundos necesitan los mismos tipos de personajes o reacciones. La variedad debe surgir de cada mundo y de sus circunstancias.
@@ -949,3 +949,11 @@ Kevin sabe que sus manifestaciones alteraron las corrientes atmosféricas y las 
 - Hadran, Veyr y Namar deben reconstruir infraestructuras dañadas y reorganizar sus acuerdos.
 - No se conoce el destino de todos los cazadores que cayeron durante la expedición.
 - Kevin desapareció sin despedida y los habitantes no saben si murió, fue expulsado o trasladado.
+
+## Criterio actualizado sobre la naturaleza del poder de Kevin — revisión tras los capítulos 1–18
+
+La revisión conjunta de los dieciocho capítulos y de la ficha del protagonista establece una distinción definitiva: Kevin puede enfocar su intención hacia aquello que quiere que resulte afectado, pero no puede controlar el poder ni dirigir su manifestación. La fuerza actúa según su propia naturaleza destructiva, puede alcanzar conexiones y sistemas que Kevin no ve, propagarse más allá del punto inicial y producir consecuencias que él no eligió. También puede manifestarse sin decisión consciente y reaccionar ante amenazas que perciba dirigidas contra Kevin; no detecta maldad ni distingue el bien del mal.
+
+Los capítulos ya narrados contienen episodios tempranos que parecieron indicar una orientación o reducción momentánea de las manifestaciones: la secuencia de Veyra y la prueba sonora de Orthea. Se conservan como hechos narrados, pero su mecanismo quedó sin comprender y no establecieron una técnica reproducible ni control sobre el poder. No deben utilizarse como base para que Kevin aprenda a regular, dirigir o apagar la fuerza.
+
+Al cierre de Odrava, Kevin ha acumulado experiencia sobre el alcance sistémico de sus manifestaciones, sus reacciones involuntarias y el peligro de intentar intervenir. Ha tomado decisiones conscientes para actuar en varios mundos, pero todavía no puede garantizar que el poder cumpla su propósito. Su progreso futuro debe expresarse en la claridad de su intención, su iniciativa y sus decisiones, nunca en el dominio de la manifestación.
