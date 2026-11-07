@@ -4,9 +4,9 @@
 
 **Fase:** narración en curso.  
 **Canon fundacional:** establecido.  
-**Capítulos completos:** 11.  
-**Mundos visitados:** Veyra, Cangyuan, Ithrak, Orthea, Namar, Ilyr, Orveth, Naereth, Nharos, Taurak y Yunluo. Ocho civilizaciones colapsaron; Nharos, Taurak y Yunluo sobrevivieron a sus respectivas crisis.  
-**Último acontecimiento:** Kevin dejó Yunluo el día 4 a las 18:02. El mundo sobrevivió, pero la Escalera del Cielo cayó y el antiguo orden de cultivo quedó quebrado.
+**Capítulos completos:** 12.  
+**Mundos visitados:** Veyra, Cangyuan, Ithrak, Orthea, Namar, Ilyr, Orveth, Naereth, Nharos, Taurak, Yunluo y Vael Taar. Ocho civilizaciones colapsaron; Nharos, Taurak, Yunluo y Vael Taar sobrevivieron a sus respectivas crisis.  
+**Último acontecimiento:** Kevin dejó Vael Taar el día 3 a las 18:06. El mundo sobrevivió; Avar Keth desapareció y Oruun quedó inmovilizado en el quinto cielo, sin que se confirmara la muerte de ninguno.
 
 ## 2. Capítulo 1 — Veyra
 
@@ -630,3 +630,29 @@ Kevin dejó Yunluo el día 4 a las 18:02. No vio quién provocó el traslado ni 
 - El Patriarca de la Escalera tiene destino no confirmado.
 - La desaparición de Zhao no confirma que haya sido destruido por completo; no se recuperaron restos y no se sabe si el Río Invertido conserva algo de su voluntad.
 - No se conoce el destino de Kevin ni se ha establecido relación entre el Río Invertido y su mecanismo de traslado.
+
+
+## 19. Resumen del capítulo 12 — Vael Taar
+
+- **Archivo:** `FIN/CAPITULOS/12_VAEL_TAAR_LOS_CINCO_CIELOS.md`.
+- **Llegada y salida:** día 1, 06:41, Jardines de Lumbre; día 3, 18:06. Estancia total: 59 horas y 25 minutos.
+- **Estructura del mundo:** cinco cielos conectados, con pueblos, geografías, condiciones y rutas distintas. El quinto cielo albergaba a los Varkai y la ciudad de Urd-Vaal; el cuarto tenía caravanas Kharuun y ciudades Silex; el tercero, océanos y pueblos costeros; los superiores contenían ciudades suspendidas, jardines y la Cámara de los Nombres.
+- **Conflicto previo:** Oruun llevaba nueve siglos intentando escapar de Vael Taar. Avar Keth había detenido sus intentos anteriores. El conflicto era anterior a Kevin y tenía consecuencias propias en todos los cielos.
+- **Avar Keth:** nació mortal en el quinto cielo y desarrolló sus capacidades durante decenas de miles de años mediante práctica, técnicas propias, dominio de corrientes y reconstrucciones corporales. Buscaba alcanzar el cielo superior, pero se opuso a la fuga de Oruun porque abriría la frontera y arrastraría a los cinco cielos.
+- **Oruun:** entidad anterior a los registros actuales según sus propias afirmaciones. Quería salir de Vael Taar sin importarle lo que quedara atrás. Fue arrojado al quinto cielo tras el cierre de la Cámara; no se confirmó su muerte.
+- **Kevin:** llegó a los Jardines de Lumbre. Nara lo encontró. Al salvar a una niña vendada, una manifestación alteró la profundidad espacial alrededor de su brazo y hundió parte del jardín. No obtuvo control fiable ni participó en la guerra.
+- **Batalla final:** día 3, 03:15–03:40. Avar fijó el nombre de Oruun en la Cámara de los Nombres y desapareció. Los antiguos aliados de Avar cerraron la frontera. No se confirmó la muerte de Avar.
+- **Consecuencias:** pérdida parcial de estrellas y nombres del primer cielo; dos ciudades suspendidas hundidas; océano del tercer cielo partido; rutas migratorias del cuarto cielo interrumpidas; columna de Urd-Vaal rota y evacuación parcial del quinto cielo.
+- **Pérdidas provisionales:** 8.400 muertos confirmados, 21.600 desaparecidos, 34.000 heridos y 173.000 desplazados o evacuados. Registros incompletos.
+- **Kevin al salir:** no murió ni se regeneró. Vio seres de escala extraordinaria que habían desarrollado sus capacidades por caminos propios y que perseguían objetivos independientes. No sabe qué existe más allá de la frontera superior ni qué ocurrió realmente con Avar y Oruun.
+- **Último acontecimiento confirmado:** Kevin desapareció de Vael Taar el día 3 a las 18:06. No se estableció relación entre su traslado y la Cámara de los Nombres.
+
+## 20. Nueva regla de cosmología y escala de poder — incorporada tras el capítulo 12
+
+Kevin no es el único ser extraordinario de FIN ni se establece que sea el más poderoso. Pueden existir seres comparables, superiores o imposibles de medir en la misma escala. Algunos construyen sus capacidades durante eras mediante práctica, cultivo, investigación, técnicas propias, sacrificios o evolución; otros pertenecen a naturalezas anteriores a las civilizaciones. La magnitud del poder, el dominio técnico, la experiencia, la resistencia y el conocimiento son dimensiones distintas.
+
+La cosmología puede contener mundos superiores, intermedios e inferiores, planos, capas, dimensiones conectadas y territorios exteriores. No imponer una jerarquía universal: la posición cosmológica no determina automáticamente la fuerza de todos sus habitantes. Un mundo puede estar aislado o contener algo que los planos superiores teman. Las rutas y fronteras tienen condiciones propias.
+
+Los seres poderosos pueden tener objetivos independientes de Kevin: escapar de su mundo, ascender, descender, exterminar una civilización, conquistar, preservar una prisión o perseguir proyectos iniciados eras antes. Sus conflictos deben continuar teniendo sentido sin la presencia de Kevin. No convertir cada capítulo en una escalada de enemigos más fuertes; la variedad también debe estar en los objetivos, los métodos, la experiencia y las consecuencias.
+
+**Hecho narrado en el capítulo 12:** Vael Taar tiene cinco cielos; Avar Keth construyó su poder mediante decenas de miles de años de práctica; Oruun llevaba nueve siglos intentando escapar. Ninguno fue confirmado muerto. Estos hechos no revelan el origen del poder de Kevin ni el mecanismo de sus viajes.
