@@ -310,3 +310,58 @@ Las criaturas, bestias, depredadores antiguos, espíritus, dioses y demás entid
 - La hostilidad puede surgir aunque Kevin no ataque ni haga nada: una criatura puede detectarlo mientras duerme o permanecer cazándolo por una razón que él desconoce.
 - Los ataques de estas entidades también deben tener consecuencias para los habitantes, ecosistemas, territorios y otras criaturas. Pueden proteger su mundo y a la vez agravar la catástrofe.
 - No convertir a todas las criaturas en enemigas automáticas ni repetir la misma cacería en cada mundo. La reacción debe nacer de la identidad y las reglas locales.
+
+
+## Ampliación de la premisa: mundos capaces de responder y actuar sobre Kevin
+
+La amenaza que representa Kevin no convierte automáticamente a cada mundo en una víctima indefensa. Cada realidad posee recursos, reglas y habitantes propios. Según su naturaleza, sus defensores y sus conflictos, un mundo puede enfrentarlo directamente, herirlo, matarlo físicamente durante un intervalo, contenerlo, engañarlo, manipularlo, utilizarlo, expulsarlo o sobrevivir a su llegada. También puede fracasar. No existe una tasa fija de éxito ni una escala universal que determine el resultado.
+
+### Mundos con objetivos y conflictos anteriores a Kevin
+
+- Cada mundo debe existir antes de la llegada de Kevin y continuar teniendo intereses propios durante la crisis. Puede haber guerras, disputas sucesorias, rivalidades entre sectas, conflictos entre dioses, invasiones, rebeliones, maldiciones, prisiones antiguas, luchas territoriales, crisis ecológicas o amenazas que no tengan relación con él.
+- Kevin puede irrumpir en medio de esos conflictos y alterar planes ya existentes. No todo el mundo tiene que reorganizarse alrededor de él inmediatamente.
+- Las máximas potencias pueden tener objetivos incompatibles: salvar a la población, preservar su especie, proteger un territorio, liberar a alguien, romper una prisión, conquistar, vengarse, alcanzar la inmortalidad o aprovechar el poder de Kevin.
+- Algunos personajes pueden considerar aceptable sacrificar ciudades, pueblos o millones de habitantes para conseguir un objetivo mayor o personal. Sus decisiones deben tener motivaciones, cálculos y consecuencias; no convertirlos en villanos planos.
+- Un personaje puede fingir ayudar a Kevin, ocultar información, provocar manifestaciones, guiarlo hacia una trampa, intentar convertirlo en arma o usarlo para destruir aquello que lo mantiene encadenado. Otros pueden ayudarlo sinceramente y aun así ser sus rivales o enemigos.
+- No asumir que los personajes que desean aprovecharse de Kevin son más débiles que él, ni que pueden controlarlo sin coste. Sus planes pueden funcionar parcialmente, fracasar o producir consecuencias que no previeron.
+
+### Respuestas posibles de los mundos
+
+Un mundo puede conseguir una victoria táctica o estratégica sin derrotar definitivamente a Kevin. Entre los resultados posibles están: herirlo, obligarlo a retirarse, matarlo físicamente durante el proceso previo a su regeneración, encerrarlo, sellarlo, aislarlo, engañarlo, desviarlo hacia otra realidad, expulsarlo, sobrevivir con pérdidas enormes o fracasar y colapsar. Una misma historia puede combinar varias respuestas: evacuar una región, mantener una contención, sacrificar una potencia y finalmente expulsarlo.
+
+La expulsión no equivale a matar, dominar ni resolver el misterio de Kevin. Puede ser temporal, incompleta o depender de condiciones que el mundo no pueda repetir. El destino al que sea enviado debe tener consecuencias narrativas reales. Una trampa puede transportarlo a un lugar hostil, un plano de muerte o una realidad caótica que ya era peligrosa antes de su llegada. Allí Kevin puede seguir causando daños, pero sus habitantes y amenazas también deben tener vida, historia y capacidad de actuar. No convertir esos lugares en escenarios vacíos creados únicamente para recibirlo.
+
+### Ambición, manipulación y sacrificios
+
+Algunos seres pueden querer el poder de Kevin por motivos egoístas, políticos, religiosos, militares, existenciales o personales. Pueden creer que utilizarlo permitirá liberarlos de una prisión, romper una ley del mundo, derrotar a sus enemigos o alcanzar una forma superior de existencia. Pueden aceptar conscientemente un número enorme de víctimas para conseguirlo.
+
+Distinguir entre:
+- quienes quieren proteger a Kevin;
+- quienes quieren proteger a su mundo;
+- quienes quieren matarlo;
+- quienes quieren contenerlo o expulsarlo;
+- quienes quieren estudiarlo;
+- quienes quieren utilizarlo como arma, llave, fuente o catalizador;
+- quienes fingen una de esas intenciones para ocultar otra.
+
+Estas motivaciones pueden coexistir en una misma persona y cambiar con los acontecimientos. No todos deben explicar sus planes a Kevin ni revelar sus intenciones antes de actuar.
+
+### Continuidad entre mundos y personajes persistentes
+
+La historia puede mantener personajes, entidades, organizaciones e intereses a través de varios mundos y capítulos. Algunos sobreviven al colapso de su realidad; otros viajan mediante técnicas propias, portales, artefactos, pactos, expulsiones o mecanismos desconocidos; otros quedan atrapados en espacios intermedios. Pueden reaparecer mucho después y conservar recuerdos, heridas, objetivos, alianzas, rencores y deudas.
+
+No todos los supervivientes pueden viajar. No todos los viajeros conocen el mecanismo que transporta a Kevin. No todos los seres antiguos conocen otros mundos de primera mano: algunos solo poseen leyendas, registros incompletos o teorías. La información debe transmitirse mediante una vía plausible y con límites claros.
+
+### Diversidad de realidades
+
+Incluir con naturalidad mundos murim, de cultivo, divinos, demoníacos, de dragones, infernales, espirituales, mágicos, tecnológicos, híbridos, no humanos y realidades caóticas o abstractas. Las categorías no son excluyentes: dioses, cultivadores, dragones, demonios, espíritus y otras especies pueden coexistir dentro de una misma realidad. Cada mundo tendrá reglas y conflictos propios; no imponer una escala universal ni repetir la misma estructura política, militar o defensiva.
+
+### Misterio del mecanismo de los traslados
+
+El mecanismo que desplaza a Kevin es una trama de fondo todavía sin explicación. Puede haber otros seres desplazados, viajeros, expulsados o atrapados entre realidades, pero sus casos no tienen por qué ser idénticos al suyo. Los mundos pueden detectar anomalías, conservar profecías, archivos, testimonios o teorías. Los personajes más antiguos pueden reconocer indicios sin conocer la verdad. No revelar prematuramente quién o qué lo transporta, por qué lo hace, cómo elige los destinos ni qué relación existe entre el poder de Kevin y los viajes.
+
+### Evolución de Kevin ante poderes y morales ajenas
+
+Kevin puede aprender a usar su poder para defenderse, atacar o actuar de manera deliberada. El aprendizaje debe ser gradual, irregular y costoso; intentar protegerse puede provocar devastación. No convertir el control en una progresión obligatoria ni en una solución segura.
+
+La convivencia con seres que contemplan sacrificios masivos, manipulan civilizaciones o consideran aceptable utilizarlo como herramienta puede deformar progresivamente su sentido común y su percepción de lo normal. Mostrar esa transformación mediante experiencias, decisiones, vínculos, contradicciones y consecuencias. No cambiarlo de golpe ni convertirlo automáticamente en alguien cruel o indiferente. Su capacidad de morir y regenerarse sigue siendo distinta de su poder destructivo.
