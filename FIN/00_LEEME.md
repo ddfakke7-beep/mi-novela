@@ -1,7 +1,7 @@
 # FIN — Guía principal del proyecto
 
 **Tipo:** ficción · multiverso · destrucción · desesperación · batallas épicas  
-**Estado:** narración en curso; ocho capítulos completos.  
+**Estado:** narración en curso; nueve capítulos completos.  
 **Ubicación:** carpeta `FIN/` en el repositorio `mi-novela`.
 
 ## Identidad e independencia
@@ -19,7 +19,7 @@ FIN es un proyecto narrativo independiente. Sus documentos, personajes, mundos, 
 
 ## Regla estructural inamovible: un mundo por capítulo
 
-**Cada capítulo corresponde a un único mundo y culmina con la destrucción de ese mundo/civilización.** El capítulo puede ser un texto largo, extenso y continuo, con muchas escenas y cambios de perspectiva, pero no debe narrar la destrucción de dos mundos distintos.
+**Cada capítulo corresponde a un único mundo y desarrolla una crisis o arco decisivo en él.** El desenlace puede ser destrucción física, colapso civilizatorio, expulsión de Kevin, contención, victoria parcial o supervivencia del mundo con consecuencias duraderas. No todos los mundos deben destruirse ni todos deben salvarse. El capítulo puede ser un texto largo, extenso y continuo, con muchas escenas y cambios de perspectiva, pero no debe narrar la destrucción de dos mundos distintos.
 
 El paso o llegada al siguiente mundo puede insinuarse en el cierre o dejarse para el capítulo siguiente. La destrucción de un mundo debe tener su propio capítulo completo. No dividir automáticamente un mundo en varios capítulos ni comprimir varios mundos en uno.
 
@@ -165,3 +165,10 @@ El trasfondo del mecanismo que transporta a Kevin debe desarrollarse como mister
 Kevin puede morir físicamente y regresar mediante su regeneración, y puede aprender a usar su poder para defenderse o actuar con intención. Ese aprendizaje no debe ser una progresión limpia ni una solución automática: sus intentos pueden devastar el entorno y algunos personajes pueden desear precisamente esa devastación. La evolución psicológica debe mostrar cómo convivir con seres que normalizan sacrificios masivos, manipulación y crueldad altera gradualmente su sentido común, sin borrar de golpe su personalidad inicial.
 
 Los ejemplos de mundos, trampas, acompañantes, inmortales, dragones, demonios, profecías y expulsiones discutidos durante la planificación son posibilidades creativas, no acontecimientos ya ocurridos ni destinos obligatorios. No modificar el registro de los ocho capítulos existentes para introducir retrospectivamente estos elementos.
+
+
+## Estado actualizado tras el capítulo 9
+
+FIN cuenta con nueve capítulos completos. Kevin desapareció de Nharos el día 4 a las 14:06, después de una estancia de 91 horas y 54 minutos. Nharos no colapsó: sus siete dominios continúan existiendo, aunque la prisión de Akh-Mor quedó dañada y una frontera desconocida permanece parcialmente abierta.
+
+El capítulo 9 mostró por primera vez la muerte física de Kevin y su regreso mediante regeneración. Permaneció muerto e incapacitado durante aproximadamente tres horas; Sarith y varios guardianes lo presenciaron. Consultar `07_CONTINUIDAD.md` para el estado exacto.
