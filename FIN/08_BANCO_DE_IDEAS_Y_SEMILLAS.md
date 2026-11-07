@@ -452,3 +452,37 @@ La sorpresa de ella debe ser genuina. Quizá al principio repita pruebas pequeñ
 **Contradicción dramática:** la primera persona que puede acercarse a ella sin morir es también un viajero cuya presencia puede causar catástrofes. La oportunidad de dejar de estar sola llega acompañada por alguien que quizá no pueda quedarse, que puede ser peligroso para otros y cuya naturaleza tampoco comprende. La relación no borra el riesgo que ella representa ni el que Kevin representa.
 
 **Estado:** ampliación provisional de la semilla 1, a partir de la propuesta del usuario. Sin nombre, apariencia, mundo, radio o mecanismo exacto del poder, historia de los intentos de comunicación ni explicación definitiva de la interacción con Kevin. No asignar capítulo todavía.
+
+
+### Ampliación de la semilla 2: clasificación de desastres sin una escala universal de poder
+
+La organización que vigila o captura desastres puede mantener un sistema de clasificación para registrar qué clase de amenaza tiene delante, cómo se comporta y qué medidas podrían funcionar. No debe reducir a todos los seres a un único rango de fuerza ni establecer una escala universal que permita saber automáticamente quién vencería a quién.
+
+**Ejes de clasificación posibles:**
+
+**Por naturaleza o relación con el daño:**
+- **Involuntario:** su existencia, presencia o funcionamiento provoca daño sin que necesariamente lo desee o pueda evitarlo. La caminante que rechaza la vida sería un caso representativo.
+- **Consciente:** comprende, al menos parcialmente, sus efectos y puede decidir utilizarlos deliberadamente.
+- **Condicional:** se vuelve peligroso bajo determinadas condiciones, activaciones, territorios, objetivos o estímulos.
+- **Reactivo:** responde ante ciertas presencias, amenazas o acciones; la reacción puede ser automática o elegida.
+- **Indeterminado:** no hay información suficiente para clasificar su naturaleza o distinguir intención de efecto.
+
+**Por comportamiento observado:**
+- Hostil, indiferente, cooperativo, evitativo o impredecible. Estas etiquetas describen conductas registradas, no una esencia moral permanente; un mismo ser puede cambiar de comportamiento según el contexto.
+
+**Por capacidad y dificultad de gestión:**
+- Alcance conocido o estimado de sus efectos.
+- Persistencia del fenómeno y duración de sus consecuencias.
+- Tipo de daño que puede provocar: físico, biológico, espiritual, dimensional, social, causal u otros propios de cada realidad.
+- Dificultad y métodos conocidos para detectarlo, contenerlo, expulsarlo, neutralizarlo o negociar con él.
+- Intención y objetivos conocidos, distinguiendo hechos observados de hipótesis.
+
+Estos ejes no deben combinarse automáticamente en un único número. Un ser involuntario puede ser casi imposible de contener sin tener intención hostil; otro puede tener un alcance menor pero ser extremadamente peligroso por su inteligencia, paciencia, manipulación o capacidad para infiltrarse. Un expediente puede contener datos desconocidos, contradictorios o desactualizados.
+
+**Errores y consecuencias de clasificar:**
+- La organización puede confundir capacidad con intención, o interpretar una reacción defensiva como hostilidad deliberada.
+- Los registros de mundos destruidos suelen ser incompletos; los supervivientes pueden discrepar sobre lo ocurrido.
+- La clasificación puede cambiar después de observar nuevas conductas, descubrir límites o sufrir una contención fallida.
+- Los altos mandos pueden utilizar categorías como justificación política para perseguir, encerrar o expulsar a alguien, incluso cuando los datos no sostienen una conclusión tan segura.
+
+**Estado:** ampliación provisional de la semilla 2. No están fijados nombres oficiales, símbolos, rangos, protocolos ni una escala numérica. La clasificación debe servir para organizar información y decisiones, no para sustituir la complejidad de cada desastre.
