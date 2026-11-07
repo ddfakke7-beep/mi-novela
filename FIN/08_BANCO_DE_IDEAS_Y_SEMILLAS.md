@@ -170,6 +170,44 @@ La aparición tardía también permite que Kevin ya tenga un historial mixto: vi
 
 **Estado:** idea reservada, sin capítulo ni aparición asignados. Su pertenencia formal a la organización, su nombre, origen, límites exactos y criterio final sobre Kevin quedan por decidir en la narración. No convertirlo automáticamente en aliado, antagonista o verdugo de Kevin.
 
+## 7. Un ser sellado que termina viajando con Kevin
+
+**Origen de la idea:** propuesta del usuario sobre entidades atrapadas durante eras en mundos distintos, cuyos sellos o maldiciones podrían verse afectados por la presencia de Kevin.
+
+Kevin puede encontrarse con seres que llevan siglos, milenios o períodos inconcebibles atrapados dentro de un mundo. Algunos fueron sellados por civilizaciones desaparecidas; otros, por entidades superiores, pactos, maldiciones, leyes del propio mundo o enemigos que no pudieron destruirlos. No todos tienen que ser malvados: puede haber prisioneros peligrosos, víctimas de una condena injusta, seres olvidados o individuos cuya historia nadie recuerda correctamente.
+
+En uno de esos encuentros, una manifestación de Kevin rompe o debilita parte de un sello. No libera por completo al prisionero, pero altera una prisión que llevaba muchísimo tiempo resistiendo. La entidad descubre que la presencia de Kevin afecta el sello de una manera que no había experimentado antes.
+
+### Cómo se forma el vínculo
+
+- La proximidad de Kevin puede debilitar el sello gradualmente, mantener abierta una fisura o permitir que el prisionero recupere partes de su existencia y capacidades.
+- No tiene que depender de que Kevin lo toque ni de una activación puntual. El efecto puede mantenerse mientras viajan juntos, aunque su alcance y ritmo deben tener límites.
+- Para acompañarlo, el ser podría refugiarse en su cuerpo, adherirse a su sombra, vincularse a su esencia espiritual o manifestarse de forma limitada. La forma concreta queda abierta.
+- El vínculo no debe convertir automáticamente a Kevin en dueño, carcelero o amo de la entidad. Ambos conservan voluntad propia y pueden discrepar.
+- La recuperación de poderes ocurre por etapas y puede traer riesgos: atraer a quienes lo sellaron, revelar su ubicación, provocar efectos secundarios o hacer que la entidad recupere capacidades que Kevin no pueda controlar ni comprender.
+- La entidad no tiene por qué compartir exactamente la regeneración de Kevin. Que no pueda morir, que sobreviva a la destrucción de su cuerpo o que su prisión impida matarla son posibilidades distintas que deben definirse para cada personaje, sin asumir que todos los seres sellados son inmortales de la misma manera.
+
+### Papel junto a Kevin
+
+Puede convertirse en una presencia recurrente que conversa con Kevin, le da opiniones, lo contradice, advierte de peligros y le ofrece orientación sobre mundos o fenómenos que él desconoce. A diferencia de un guía omnisciente, su conocimiento será parcial y situado: sabe mucho de ciertas épocas, entidades, jerarquías o amenazas, pero ignora otras cosas, puede estar desactualizado y también puede equivocarse.
+
+Su experiencia puede abrir gradualmente la existencia de realidades conectadas, entidades superiores, poderes que observan o regulan mundos y amenazas que Kevin todavía no sabe que existen. No debe explicar de golpe la cosmología ni resolver todos los misterios. Sus recuerdos pueden estar incompletos, censurados por el sello o condicionados por sus propios intereses.
+
+La relación puede desarrollarse desde una necesidad práctica —Kevin es la oportunidad de debilitar la prisión y el ser necesita permanecer cerca— hasta una convivencia compleja. Puede haber humor, discusiones, desconfianza, afecto, dependencia mutua y desacuerdos reales. No es obligatorio que se convierta en amigo fiel: podría ocultar información, tener objetivos propios o marcharse si recupera suficiente libertad.
+
+### Potencial narrativo
+
+- Kevin deja de viajar siempre completamente solo, pero no obtiene un compañero que lo resuelva todo.
+- El ser puede reconocer símbolos, técnicas, nombres o amenazas que Kevin encuentra en mundos posteriores, aportando contexto sin conocer necesariamente la respuesta completa.
+- Otros seres podrían detectar su presencia en Kevin y reaccionar con temor, hostilidad, respeto o interés, revelando que el prisionero tenía una historia importante antes de conocer al protagonista.
+- El sello puede tener consecuencias fuera de ambos: quienes lo construyeron podrían seguir vivos, una prisión podría estar conteniendo algo más, o la liberación parcial podría alterar el equilibrio de un mundo.
+- La entidad debe tener identidad, personalidad, deseos y conflictos propios. No reducirla a una voz explicativa dentro de la cabeza de Kevin ni a una herramienta para entregarle poderes.
+- Su conocimiento sobre entidades superiores y amenazas debe ampliar el horizonte de FIN de forma gradual, sin confirmar que exista una única organización que controle todos los mundos ni una jerarquía universal simple.
+
+**Estado:** idea reservada y provisional. No tiene nombre, especie, género, origen, apariencia, personalidad definitiva ni capítulo asignado. Tampoco está decidido si será el único ser que se vincule a Kevin de esta manera o si existen otros casos. No fusionarlo automáticamente con el viajero que busca su hogar ni con el restaurador de mundos.
+
+---
+
 ## Criterio de uso
 
 Este banco es una reserva flexible, no una escaleta obligatoria. Antes de cada nuevo capítulo, el autor puede revisar estas semillas y escoger una, combinar elementos compatibles o dejarlas reposar. Si una idea cambia durante su desarrollo, actualizar este documento para conservar la versión más reciente sin convertirla retroactivamente en canon.
