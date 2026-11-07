@@ -1,7 +1,7 @@
 # FIN — Guía principal del proyecto
 
 **Tipo:** ficción · multiverso · destrucción · desesperación · batallas épicas  
-**Estado:** narración en curso; doce capítulos completos.  
+**Estado:** narración en curso; catorce capítulos completos.  
 **Ubicación:** carpeta `FIN/` en el repositorio `mi-novela`.
 
 ## Identidad e independencia
@@ -252,3 +252,8 @@ Los capítulos deben variar su tono, estructura, género, escala, conflicto y de
 La crisis debe sentirse en escena: conflictos simultáneos, decisiones incompatibles, combates con objetivos claros, pérdidas irreversibles cuando correspondan y comunidades cuyas vidas cambian. Pero el caos no significa acumular explosiones o muertes sin propósito. Los momentos de calma y los vínculos dan peso a lo que está en juego.
 
 Antes de cada capítulo, decidir qué papel causal tendrá Kevin. Puede ser el factor que salve un mundo, el que lo condene, alguien que cambie el equilibrio o una persona que llegue a un conflicto ya existente. Si su intervención no altera nada, debe existir una razón narrativa deliberada y valiosa.
+
+
+## Estado actualizado tras el capítulo 14
+
+FIN cuenta con catorce capítulos completos. El último mundo visitado es Tiravel, donde Kevin participó voluntariamente en la destrucción de Nhal-Kor y ayudó a salvar las civilizaciones de los cuatro continentes. Desapareció el día 3 a las 21:48, tras una estancia de 60 horas y 42 minutos. Consultar `07_CONTINUIDAD.md` para el punto exacto de reanudación.
