@@ -111,6 +111,43 @@ La variedad no es una cuota mecánica: la llegada debe responder a la historia d
 
 ---
 
+
+## 6. El restaurador de mundos: cazador y juez de desastres
+
+**Origen de la idea:** propuesta del usuario sobre la posible organización que vigila o caza a los desastres entre mundos.
+
+Dentro de esa organización —o vinculado a ella sin obedecerla necesariamente— existe un personaje cuya capacidad es opuesta, en cierto sentido, a la de Kevin: puede restaurar mundos dañados. No revive a los muertos, no devuelve a las personas desaparecidas ni borra el sufrimiento o el caos que ya ocurrieron. Su poder permite que el propio mundo se recupere físicamente y vuelva a sostener la vida: territorios devastados, ecosistemas, mares, redes naturales, estructuras mágicas o espirituales y otros componentes fundamentales pueden sanar. La restauración requiere tiempo y puede prolongarse durante años, décadas o más, según la escala del daño.
+
+**Lo que su poder significa —y lo que no significa—:**
+- Puede evitar que un mundo termine muriendo por el daño sufrido y devolverle la posibilidad de recuperarse.
+- No puede deshacer las muertes, reconstruir las vidas personales perdidas ni hacer que los supervivientes olviden lo ocurrido.
+- No convierte una catástrofe en algo sin consecuencias: las comunidades siguen afrontando pérdidas, desplazamientos, conflictos y reconstrucción.
+- La recuperación no es instantánea. Puede necesitar permanecer en el mundo, trabajar por etapas, proteger zonas vulnerables o contar con condiciones y recursos adecuados.
+- Su capacidad no tiene por qué funcionar igual en todos los mundos: cada realidad puede exigirle comprender o adaptarse a sus propias leyes.
+
+**Carácter y trayectoria:**
+
+Es implacable. Ya se ha enfrentado a desastres de naturalezas muy distintas: seres que parecían incapaces de morir, entidades que perseguían el poder absoluto y amenazas que habían sometido o devastado mundos enteros. No siempre logró eliminarlos. A algunos no pudo matarlos; a otros consiguió capturarlos y mantenerlos retenidos. Conoce por experiencia que los desastres no son invencibles ni absolutos: pueden tener límites, cometer errores, ser contenidos o derrotados, aunque el precio sea enorme.
+
+No debe ser un personaje invulnerable ni un juez infalible. Su historial puede ser impresionante, pero también debe cargar con fracasos, decisiones difíciles, prisioneros que exigen vigilancia y amenazas que escaparon o cambiaron. Su implacabilidad puede nacer de haber visto demasiados mundos caer, no de disfrutar la violencia.
+
+**El encuentro con Kevin:**
+
+Kevin representa algo que este personaje no había encontrado de esa manera. No es necesariamente un enemigo cruel, un conquistador ni alguien que busque poder absoluto. Sin embargo, su propia existencia produce ruptura: puede causar daños catastróficos incluso sin intención de hacerlo. Eso desafía las categorías con las que el restaurador ha trabajado hasta ahora.
+
+Al conocerlo, no tiene por qué atacarlo de inmediato ni declararlo culpable. Puede observarlo, seguir sus rastros, registrar sus manifestaciones y estudiar sus decisiones para determinar qué clase de amenaza es. La pregunta que debe resolver no es solo cuánto daño puede causar Kevin, sino si su naturaleza lo convierte en un peligro que debe ser eliminado, contenido, vigilado o tratado de otra manera.
+
+La evaluación puede ser fría y estricta: la ausencia de malicia no garantiza que Kevin sea seguro. A la vez, el restaurador no debe confundir automáticamente capacidad destructiva con intención criminal. Kevin podría ser el primer caso que ponga verdaderamente a prueba su criterio.
+
+**Posibles tensiones dramáticas:**
+- La organización puede querer clasificar y controlar a Kevin, mientras el restaurador prefiere observar antes de emitir un juicio.
+- Su deber de proteger mundos puede enfrentarse a la posibilidad de que eliminar a Kevin sea injusto, imposible o incluso cause un daño mayor.
+- Kevin puede verlo como otro perseguidor y no comprender que este personaje también es capaz de salvar los mundos que él deja dañados.
+- El restaurador puede ser compasivo con los supervivientes y, al mismo tiempo, absolutamente despiadado al detener una amenaza.
+- Sus métodos, sus capturados y las decisiones que tomó en catástrofes anteriores pueden revelar tanto su experiencia como el coste moral de su trabajo.
+
+**Estado:** idea reservada, sin capítulo ni aparición asignados. Su pertenencia formal a la organización, su nombre, origen, límites exactos y criterio final sobre Kevin quedan por decidir en la narración. No convertirlo automáticamente en aliado, antagonista o verdugo de Kevin.
+
 ## Criterio de uso
 
 Este banco es una reserva flexible, no una escaleta obligatoria. Antes de cada nuevo capítulo, el autor puede revisar estas semillas y escoger una, combinar elementos compatibles o dejarlas reposar. Si una idea cambia durante su desarrollo, actualizar este documento para conservar la versión más reciente sin convertirla retroactivamente en canon.
