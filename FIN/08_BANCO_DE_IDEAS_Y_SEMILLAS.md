@@ -151,6 +151,16 @@ Es posible que ciertos desastres eviten enfrentarse a Kevin, pero no por cobard�
 
 Esto permite que el restaurador descubra que Kevin ya está llamando la atención de otros desastres y que su clasificación no depende solo de los daños conocidos. La reacción de esos seres será información útil, pero no una prueba definitiva: que un destructor evite a Kevin no demuestra por sí solo que Kevin sea más poderoso, invencible o inevitablemente hostil. Cada uno tendrá sus propios motivos y cálculos.
 
+**Introducción gradual: el restaurador aprende de Kevin a distancia**
+
+No es necesario que el restaurador aparezca cuando Kevin todavía es desconocido o acaba de comenzar sus viajes. Puede entrar mucho más adelante, cuando Kevin ya haya atravesado varios mundos y se haya enfrentado a otros desastres: algunos a los que consiguió matar, otros que lo derrotaron, lo hicieron huir o sobrevivieron a sus intentos.
+
+Antes de encontrarse cara a cara, el restaurador puede ir reuniendo rastros y reconstruyendo esos episodios. Sus fuentes no serán perfectas: informes de la organización, testimonios de supervivientes, registros de mundos, huellas de manifestaciones y relatos de otros desastres pueden contradecirse o llegar incompletos. A partir de ellos construye hipótesis provisionales sobre Kevin, y las revisa cuando aparece nueva información.
+
+Así, el personaje aprende de Kevin mientras Kevin continúa viajando, aunque todavía no lo conozca personalmente. Cuando finalmente se crucen, el restaurador no llegará con una sentencia cerrada: tendrá una investigación avanzada, preguntas concretas y suficientes dudas para querer observarlo directamente. Puede haber seguido la evolución de sus decisiones y resultados, pero no debe saber lo que Kevin piensa ni comprender automáticamente el origen o funcionamiento de su poder.
+
+La aparición tardía también permite que Kevin ya tenga un historial mixto: victorias, fracasos, muertes y regresos, daños colaterales y ocasiones en que ayudó a salvar un mundo. El restaurador tendrá que valorar el conjunto, no una sola catástrofe ni una reputación construida por terceros. Su primera prueba personal puede ser la culminación de una observación prolongada, no el primer contacto de un cazador que acaba de descubrirlo.
+
 **Posibles tensiones dramáticas:**
 - La organización puede querer clasificar y controlar a Kevin, mientras el restaurador prefiere observar antes de emitir un juicio.
 - Su deber de proteger mundos puede enfrentarse a la posibilidad de que eliminar a Kevin sea injusto, imposible o incluso cause un daño mayor.
