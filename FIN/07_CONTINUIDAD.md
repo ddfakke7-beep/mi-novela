@@ -4,9 +4,9 @@
 
 **Fase:** narración en curso.  
 **Canon fundacional:** establecido.  
-**Capítulos completos:** 6.  
-**Mundos visitados:** Veyra, Cangyuan, Ithrak, Orthea, Namar e Ilyr. Las seis civilizaciones colapsaron; los planetas permanecen físicamente intactos y hay supervivientes dispersos.  
-**Último acontecimiento:** Kevin desapareció de Ilyr el día 3 a las 09:10, después del colapso de la civilización de los Pozos y los pueblos de las huellas.
+**Capítulos completos:** 9.  
+**Mundos visitados:** Veyra, Cangyuan, Ithrak, Orthea, Namar, Ilyr, Orveth, Naereth y Nharos. Ocho civilizaciones colapsaron; Nharos sobrevivió a la crisis del capítulo 9.  
+**Último acontecimiento:** Kevin desapareció de Nharos el día 4 a las 14:06. La prisión de Akh-Mor quedó dañada y una frontera desconocida permanece parcialmente abierta.
 
 ## 2. Capítulo 1 — Veyra
 
@@ -495,3 +495,45 @@ Al cierre del capítulo 8:
 - No se ha identificado al responsable ni la naturaleza última del mecanismo de los traslados.
 
 Estas posibilidades no deben narrarse como antecedentes. El siguiente mundo todavía no ha aparecido en escena. La continuidad factual sigue siendo la registrada en los capítulos 1 a 8 y en sus resúmenes; esta ampliación orienta el desarrollo futuro sin reescribir el pasado.
+
+
+## 25. Capítulo 9 — Nharos
+
+**Archivo:** `FIN/CAPITULOS/09_NHAROS_EL_MUNDO_QUE_NO_PODIA_MORIR.md`.
+
+- **Llegada:** día 1, 18:12, llanura de la Fosa de los Juramentos.
+- **Salida:** día 4, 14:06.
+- **Duración total de la estancia:** 91 horas y 54 minutos.
+- **Colapso civilizatorio:** no ocurrió. Los siete dominios continúan existiendo.
+- **Mundo:** Nharos, realidad infernal dividida en siete dominios, con fortalezas suspendidas por cadenas, ciudades excavadas en huesos antiguos, minas, mares de niebla y guerras recurrentes. La Fosa de los Juramentos es una región de castigo, extracción y tránsito.
+- **Conflicto previo:** los siete dominios mantenían bajo una prisión antigua a Akh-Mor, el Rey Encadenado. La prisión también mantenía cerrada una frontera hacia algo desconocido. Othrek quería romper el equilibrio para dominar Nharos; Sarith quería alterar el orden de las cadenas; Veyrahn buscaba provecho; Maraith defendía la prisión.
+- **Kevin como herramienta:** Sarith y Othrek lo trataron como una llave y lo sometieron a pruebas. Veyrahn intentó aprovechar su presencia. Maraith intentó impedir que lo utilizaran.
+- **Primera muerte física:** el día 3 a las 02:00, Kevin murió aplastado bajo el derrumbe de la cámara. No respiraba ni tenía pulso. Sarith y guardianes presenciaron el cuerpo muerto. La regeneración reconstruyó sus daños durante aproximadamente tres horas; Kevin volvió en sí alrededor de las 05:10. Permaneció completamente inconsciente e incapaz de actuar durante el proceso.
+- **Manifestaciones:** la primera ocurrió durante el avance del Devorador, dañando el terreno. Más tarde Kevin intentó contener una manifestación cuando las cadenas lo sujetaban, pero no obtuvo control fiable. La fuerza rompió anclajes y dañó la prisión.
+- **Akh-Mor y la frontera:** Akh-Mor se levantó parcialmente y afirmó que la prisión también separaba Nharos de algo más peligroso que él. La frontera quedó parcialmente abierta como una cicatriz oscura suspendida sobre la prisión. No se conoce qué existe al otro lado.
+- **Resultado:** Nharos no colapsó. Tres fortalezas suspendidas cayeron; cuatro anclajes de la prisión fueron destruidos; 17 minas quedaron clausuradas o inundadas; 26 asentamientos fueron evacuados; 81 puentes de cadena se perdieron.
+- **Balance provisional:** 9.840 muertos confirmados, 6.200 desaparecidos, 18.500 heridos y 31.000 evacuados. Datos incompletos; puede haber duplicaciones en los traslados de trabajadores y solapamiento entre heridos y evacuados.
+- **Personajes:** Sarith sobrevivió con la mano derecha perdida; Maraith sobrevivió y regresó a las Cenizas; Iria sobrevivió y se reunió con su hermano; Veyrahn desapareció con registros; Othrek desapareció sin confirmación de muerte; Varkun murió sosteniendo el anclaje; Akh-Mor sigue vivo y encadenado. Rask y el Devorador tienen destino no confirmado.
+- **Conocimiento:** Sarith conoce la muerte y el regreso de Kevin. Maraith conoce el intento de abrir la prisión. Los supervivientes no conocen el origen del poder ni el mecanismo de los traslados.
+
+### Punto exacto de reanudación
+
+Kevin desapareció de Nharos el día 4 a las 14:06. El siguiente mundo todavía no ha aparecido en escena. Kevin sabe que murió y volvió, pero no comprende cómo funciona su regeneración ni qué la provoca. No conoce la naturaleza de la frontera que quedó abierta ni qué hay al otro lado. El origen de su poder y el mecanismo de los traslados siguen sin explicación.
+
+### Continuidad abierta de Nharos
+
+- Sarith permanece en Nharos y conoce un hecho que ningún personaje de los mundos anteriores había presenciado: Kevin murió físicamente y regresó.
+- Maraith sobrevivió y puede seguir defendiendo la prisión o los dominios, pero no se ha establecido que pueda viajar.
+- Veyrahn desapareció con registros y contratos; su destino y sus planes permanecen abiertos.
+- Othrek no fue encontrado. No afirmar que murió.
+- Akh-Mor sigue encadenado por cuatro cadenas. No ha salido de Nharos.
+- La frontera permanece parcialmente abierta. Su naturaleza y lo que existe al otro lado son desconocidos.
+- No se ha demostrado que la frontera esté conectada con el mecanismo que transporta a Kevin. Cualquier vínculo es, por ahora, una posibilidad que los personajes podrían investigar.
+
+### Criterios incorporados tras el capítulo 9
+
+Nharos demuestra que un mundo puede sufrir una crisis enorme sin colapsar ni ser destruido. La violencia puede ser parte habitual de la realidad local, pero eso no elimina el valor de sus habitantes ni convierte sus pérdidas en irrelevantes. Los personajes pueden tener objetivos incompatibles y aceptar sacrificios por ambición, liberación o poder.
+
+La primera muerte física de Kevin quedó demostrada. Debe conservarse la distinción entre muerte, intervalo de regeneración y regreso: mientras estuvo muerto no pensó, habló, actuó ni se defendió. La regeneración no causó por sí misma una manifestación destructiva ni lo liberó de la situación.
+
+Un mundo puede mantener conflictos abiertos después de que Kevin se marche. Los supervivientes, las fronteras dañadas, las prisiones, los antagonistas desaparecidos y las consecuencias políticas pueden continuar en capítulos posteriores. No asumir que un personaje puede viajar o que una frontera conecta mundos sin evidencia narrativa.
