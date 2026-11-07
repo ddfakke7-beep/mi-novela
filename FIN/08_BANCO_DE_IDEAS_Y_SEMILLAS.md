@@ -10,7 +10,7 @@ Este banco existe para conservar propuestas del usuario y semillas creativas que
 
 Esta secuencia organiza la entrada de algunas semillas para que las ideas empiecen a formar parte de la novela y no permanezcan indefinidamente en reserva. Es una planificación de autor, no canon: los hechos concretos solo quedarán establecidos cuando aparezcan en los capítulos.
 
-1. **Capítulo 19 — La caminante cuya existencia rechaza la vida (semilla 1).** Esta será la primera presentación clara de otro desastre viajero comparable, en su propia categoría, a Kevin. El usuario dejó al autor decidir su inclusión en el capítulo siguiente y aceptó que su curiosidad y experiencia la llevaran a investigar a Kevin y probar cuánto puede soportar su existencia. No será una niña ingenua, una víctima pasiva ni una compañera automática. Tiene experiencia como desastre, iniciativa y criterio propio. Su contaminación seguirá siendo peligrosa para los demás; la interacción con Kevin podrá suprimir o debilitar parte de sus efectos de forma limitada, temporal e incompleta, sin curarla ni volverla segura. La historia debe explorar tanto a ella como a Kevin y no reducir el capítulo a una explicación de poderes.
+1. **Capítulo 19 — La caminante cuya existencia rechaza la vida (semilla 1). COMPLETADO.** Ivara fue presentada en Mairen como otro desastre viajero. Su existencia deteriora los procesos que sostienen la vida y la contaminación contribuyó al colapso de la civilización original. Tiene experiencia, curiosidad e iniciativa; no es una niña ingenua ni una compañera automática. La interacción con Kevin debilitó temporalmente parte de la contaminación a su alrededor, sin curarla ni volverla segura para los demás. Los hechos establecidos y sus límites están registrados en el capítulo 19 y en la continuidad.
 
 2. **Un capítulo de transición después del encuentro.** No introducir otro desastre inmediatamente por obligación. Dar espacio a las consecuencias del encuentro y variar de nuevo el tipo de mundo, el punto de llegada y el conflicto. Puede haber señales indirectas de que existen más viajeros, pero no convertir cada capítulo en una presentación de uno nuevo.
 
@@ -38,7 +38,7 @@ Una caminante que, a diferencia de Kevin, posee una esencia o poder que rechaza 
 - Su relación con Kevin no debe decidirse antes de conocerla. Podría verlo como amenaza, anomalía, semejante o algo que no puede tolerar.
 - Su capítulo de introducción debe darle identidad, historia y motivaciones propias. No presentarla simplemente como «la Kevin mujer» ni reducirla a una rival de poder.
 
-**Estado:** asignada como primera introducción de otro desastre en el capítulo 19, todavía no narrada. La planificación no establece aún los detalles concretos de su aparición ni la convierte en canon.
+**Estado:** introducida en el capítulo 19. Ivara y Mairen son canon narrativo. Su origen, el mecanismo exacto de su contaminación, el motivo por el que sobrevivió a los intentos de eliminación y los límites de la interacción con Kevin siguen abiertos.
 
 ## 2. Una organización que vigila o caza a los destructores de mundos
 
@@ -473,7 +473,7 @@ Que Kevin pueda acercarse no significa que ella pueda viajar con él. Si la cont
 
 Debe conservar identidad, intereses, criterio, recuerdos, humor y límites propios. Su personalidad no se reduce a la soledad ni a esperar que Kevin la rescate. Tampoco se debe decidir todavía si es muy instruida, socialmente inexperta o una mezcla de ambas; esas características se desarrollarán cuando se diseñe el personaje.
 
-**Estado:** ampliación provisional de la semilla 1. La contaminación de escala ambiental, los intentos de eliminarla, el posible acuerdo de información a cambio de permanecer en el planeta y la supresión parcial por parte de Kevin son líneas de desarrollo, no hechos narrativos establecidos. Sin nombre, apariencia, mundo, alcance exacto, mecanismo de supervivencia, límites de la supresión ni capítulo asignado.
+**Estado:** ampliación parcialmente incorporada al canon en el capítulo 19. Se establecieron el nombre Ivara, el mundo Mairen, la contaminación de escala ambiental, los intentos de eliminación, el acuerdo de información y una supresión parcial e inestable cerca de Kevin. Siguen abiertos el origen de Ivara, el mecanismo exacto de la contaminación, por qué sobrevivió a los intentos de eliminación, el alcance definitivo y los límites de la supresión.
 
 
 ### Ampliación de la semilla 2: clasificación de desastres sin una escala universal de poder
