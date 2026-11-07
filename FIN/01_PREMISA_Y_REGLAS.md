@@ -36,6 +36,15 @@ Su llegada y sus acciones desencadenan catástrofes que pueden acabar con la civ
 
 ## 4. Alcance de las catástrofes
 
+La destrucción no debe quedarse siempre en el colapso de gobiernos, ciudades o civilizaciones. FIN también explorará catástrofes que destruyan físicamente mundos o alteren aquello que los constituye: planetas, dimensiones, planos, territorios sobrenaturales, estructuras cósmicas o las leyes locales que mantienen su realidad.
+
+- La escala no será idéntica en todos los capítulos. Algunos mundos pueden conservar el planeta mientras pierden su civilización; otros pueden sufrir una destrucción física o metafísica mucho más profunda.
+- La destrucción literal de un mundo debe tener causas, desarrollo y consecuencias coherentes con su naturaleza. No será una explosión planetaria gratuita ni una fórmula repetida.
+- Los sistemas de poder y las máximas entidades de cada mundo pueden intervenir en esa escala, ya sea para impedirla, provocarla, contenerla o modificar su resultado.
+- La historia debe mostrar qué significa que ese mundo desaparezca: qué territorios, dimensiones, especies, leyes, vínculos o estructuras dejan de existir y quiénes pueden quedar fuera del desastre.
+
+## 4. Alcance de las catástrofes
+
 - Un mundo puede perder aproximadamente el 99 % de su población, pero esa cifra es orientativa, no una obligación matemática para todos.
 - Pueden quedar supervivientes.
 - La destrucción de una civilización no exige que el planeta sea físicamente destruido.
