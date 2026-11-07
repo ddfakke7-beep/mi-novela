@@ -1,7 +1,7 @@
 # FIN — Guía principal del proyecto
 
 **Tipo:** ficción · multiverso · destrucción · desesperación · batallas épicas  
-**Estado:** narración en curso; quince capítulos completos.  
+**Estado:** narración en curso; dieciséis capítulos completos.  
 **Ubicación:** carpeta `FIN/` en el repositorio `mi-novela`.
 
 ## Identidad e independencia
@@ -265,3 +265,8 @@ FIN cuenta con catorce capítulos completos. El último mundo visitado es Tirave
 FIN cuenta con quince capítulos completos. El último mundo visitado fue Serekh, una realidad planetaria que ya había sido destruida antes de la llegada de Kevin. Kevin permaneció allí 79 horas y 30 minutos, murió físicamente tres veces y destruyó el núcleo de una defensa planetaria que seguía produciendo criaturas cazadoras después de la desaparición de sus habitantes. Serekh no fue restaurado y no se confirmó la existencia de supervivientes.
 
 Los registros de Serekh muestran por primera vez a una figura humanoide que intervino deliberadamente en la estructura central antes de la caída del mundo. Su identidad, propósito y relación con los viajes de Kevin siguen sin conocerse. Consultar `07_CONTINUIDAD.md` para el punto exacto de reanudación.
+
+
+## Estado actualizado tras el capítulo 16
+
+FIN cuenta con dieciséis capítulos completos. El último mundo visitado fue Talmera; Kevin desapareció el día 3 a las 19:42, después de ayudar a cortar la conexión que superponía la ciudad actual con la ciudad desaparecida. Talmera sobrevivió, aunque perdió una sección de la ciudad antigua y sufrió daños y víctimas. Kevin fue contenido durante aproximadamente 31 horas y 30 minutos antes de aceptar ayudar voluntariamente. Tavan Rhem murió sosteniendo el eje de la convergencia. Consultar `07_CONTINUIDAD.md` para el punto exacto de reanudación.
