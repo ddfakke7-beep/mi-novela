@@ -913,3 +913,67 @@ Los personajes relevantes no deben aparecer todos en el mismo lugar ni existir �
 ### Niña vendada de los Jardines
 - **Función:** cayó de una pasarela y fue salvada por Kevin.
 - **Destino:** sobrevivió. Después de la desaparición de Avar dijo escuchar a alguien caminar; no se conoce la causa.
+
+## Personajes del mundo 13 — Ithara
+
+### Osha
+- **Mundo y capítulo:** Ithara, capítulo 13.
+- **Naturaleza y función:** habitante del Cinturón de Muda; exploradora y guía de rutas de raíz.
+- **Personalidad y objetivos:** práctica, directa y protectora con las comunidades que dependen de las estaciones y caminantes.
+- **Relación con Kevin:** lo encontró tras su llegada. Desconfió de él, pero lo acompañó al Nudo para intentar evitar que la Madre cortara la placa de Namar. Le advirtió que no confundiera ayudar con comprender el riesgo.
+- **Destino:** sobrevivió y decidió permanecer en Ithara para ayudar a las comunidades desplazadas.
+
+### Teren
+- **Mundo y capítulo:** Ithara, capítulo 13.
+- **Naturaleza y función:** transportista de alimento de la estación de muda; tiene cuatro brazos.
+- **Objetivos:** abastecer la estación y ayudar a evacuar a los habitantes de Namar.
+- **Relación con Kevin:** estuvo presente en su primer encuentro con Osha y participó en el rescate de Marek y en la evacuación.
+- **Destino:** sobrevivió; continúa ayudando a los habitantes que quedaron atrás.
+
+### Marek
+- **Mundo y capítulo:** Ithara, capítulo 13.
+- **Función:** niño que entró en la zona olvidada buscando a su hermano.
+- **Destino:** fue rescatado, pero perdió temporalmente el recuerdo de su familia. No se sabe si recuperará todos sus recuerdos.
+
+### La anciana sin ojos
+- **Mundo y capítulo:** Ithara, capítulo 13.
+- **Función:** encargada de escuchar las raíces en la estación de muda.
+- **Capacidades:** percibe alteraciones de la memoria de la red a través de las vibraciones.
+- **Destino:** sobrevivió. Percibió la fractura del Nudo, pero no conoce su causa completa.
+
+### Madre de las Mandíbulas
+- **Mundo y capítulo:** Ithara, capítulo 13.
+- **Naturaleza:** entidad territorial colosal de Urdal, conectada a las raíces profundas.
+- **Objetivos:** preservar la continuidad de Ithara mediante podas y separaciones de regiones infectadas. Considera aceptable sacrificar una placa habitada si cree que es la única forma de salvar el resto.
+- **Capacidades:** mandíbulas capaces de cortar tejidos, corrientes y territorios; percepción distribuida por las raíces.
+- **Relación con Kevin:** detectó que su presencia no pertenecía a la red y lo interpretó como una amenaza que debía aislarse. No pudo medirlo ni clasificarlo.
+- **Destino:** sobrevivió, pero perdió tres mandíbulas y parte de su cabeza. Detuvo el corte de Namar. No confía en Kevin, aunque reconoce que no sabe cómo detenerlo.
+
+### Pastor de los Lugares Perdidos
+- **Mundo y capítulo:** Ithara, capítulo 13.
+- **Naturaleza:** ser que recoge y conserva territorios separados de la red de Ithara.
+- **Objetivos:** impedir que la infección de memoria consuma la red principal y conservar regiones que el mundo deja atrás.
+- **Método:** detectó que Kevin no dejaba huella en la red y lo condujo al Nudo de la Primera Piel para utilizar esa anomalía como posible separación de la infección.
+- **Relación con Kevin:** reconoció que lo utilizó sin comprender por completo el riesgo. No fingió amistad ni prometió salvarlo.
+- **Destino:** sobrevivió con la máscara fracturada y perdió varias luces/territorios que conservaba.
+
+### Vela
+- **Mundo y capítulo:** Ithara, capítulo 13.
+- **Función:** habitante de la ciudad caminante de Namar.
+- **Relación con la crisis:** intentó rescatar a su familia durante la inclinación de la ciudad. La infección le hizo olvidar temporalmente el rostro de su hija menor.
+- **Destino:** sobrevivió con sus dos hijas. Su marido sigue desaparecido.
+
+### El marido de Vela
+- **Mundo y capítulo:** Ithara, capítulo 13.
+- **Función:** habitante de Namar, separado de su familia durante la inclinación de la ciudad.
+- **Destino:** desaparecido. No confirmar su muerte.
+
+### La infección de memoria
+- **Mundo y capítulo:** Ithara, capítulo 13.
+- **Naturaleza:** fenómeno infeccioso que aprende a imitar las raíces y consume la memoria de la red.
+- **Estado:** sigue activa en regiones exteriores y territorios que el Nudo ya no recuerda. Origen y límites desconocidos.
+
+### La estructura olvidada
+- **Mundo y capítulo:** Ithara, capítulo 13.
+- **Naturaleza:** estructura o entidad desconocida bajo la corteza, ausente de los registros de las mudas.
+- **Estado:** respondió después de la crisis. No se sabe si despertó, si fue activada por la infección o si reaccionó a la manifestación de Kevin.
