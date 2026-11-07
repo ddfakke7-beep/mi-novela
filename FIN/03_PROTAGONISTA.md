@@ -231,3 +231,14 @@ Al cierre del capítulo 8, Kevin no ha muerto en escena, no ha sido decapitado y
 - Kevin no murió durante el capítulo ni se regeneró. Salió de Yunluo el día 4 a las 18:02, después de 82 horas y 42 minutos.
 - Kevin no sabe si la catástrofe habría podido evitarse sin su intervención. No conoce el destino de Zhao ni el mecanismo del Río Invertido. No sabe quién provocó el traslado ni si existe relación entre el río y los viajes.
 - Su desconfianza hacia quienes ofrecen ayuda interesada tiene ahora una experiencia concreta nueva: Zhao no necesitó fingir afecto; lo manipuló mediante verdades parciales, omisiones y una elección preparada.
+
+
+## Experiencia confirmada al cierre del capítulo 12 — Vael Taar
+
+- Kevin llegó a Vael Taar el día 1 a las 06:41 y desapareció el día 3 a las 18:06. Estancia total: 59 horas y 25 minutos.
+- Vael Taar estaba compuesto por cinco cielos o estratos conectados, con geografías, pueblos, rutas y condiciones distintas. Kevin conoció los Jardines de Lumbre, el quinto cielo a través de relatos y la crisis de Urd-Vaal, pero no recorrió todo el mundo.
+- Nara lo encontró y lo acompañó. Kevin salvó a una niña vendada que cayó de una pasarela. Su manifestación alteró la profundidad del espacio alrededor de su brazo y hundió parte del jardín, dañando tres árboles. No obtuvo control fiable.
+- Kevin observó el enfrentamiento entre Avar Keth y Oruun, pero no participó. Avar había desarrollado su poder mediante decenas de miles de años de práctica, técnicas propias y reconstrucciones corporales. Oruun era una entidad que llevaba nueve siglos intentando escapar de Vael Taar.
+- Avar desapareció al fijar el nombre de Oruun en la Cámara de los Nombres. Oruun fue arrojado al quinto cielo y quedó inmovilizado entre las ruinas de la columna de Urd-Vaal. No se confirmó la muerte de ninguno.
+- Kevin comprendió que existen seres extraordinarios que no dependen de él y que pueden tener poder comparable, experiencia y objetivos propios. No aprendió cómo funciona la cosmología ni qué existe más allá de la frontera superior.
+- Kevin no murió ni se regeneró en este capítulo. No se estableció relación entre la Cámara de los Nombres, Avar, Oruun y el mecanismo de sus traslados.
