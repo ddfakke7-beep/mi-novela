@@ -4,11 +4,11 @@
 
 La narración debe priorizar la destrucción, la desesperación y las consecuencias, sin perder la humanidad de los personajes. El contraste principal surge de que Kevin vive los acontecimientos desde una comprensión limitada, mientras los habitantes pueden percibirlos como el fin de su mundo.
 
-Cada capítulo cuenta la historia de un único mundo y termina con su destrucción o colapso civilizatorio. Puede ser un texto largo y continuo; no debe contener la destrucción de otro mundo.
+Cada capítulo cuenta la historia de un único mundo y culmina en un desenlace decisivo propio: destrucción física, colapso civilizatorio, expulsión, contención, victoria parcial o supervivencia con consecuencias duraderas. No todos los mundos deben caer. Puede ser un texto largo y continuo; no debe resolver el destino de otro mundo.
 
 ## 2. Escala geográfica y movilización
 
-Los mundos deben sentirse extensos. No concentrar a todos los personajes importantes en el escenario donde aparece Kevin. Mostrar, cuando aporte valor, regiones lejanas que reciben noticias, líderes que toman decisiones, ejércitos que se movilizan, evacuaciones, defensas locales y potencias que viajan desde otros continentes.
+Los mundos deben sentirse como realidades completas, no como una ciudad o una región a la que se llama mundo. No basta con mencionar continentes: su diversidad, distancias y autonomía deben sentirse en escenas y consecuencias. No concentrar a todos los personajes importantes en el escenario donde aparece Kevin. Mostrar, cuando aporte valor, regiones lejanas, culturas distintas, conflictos paralelos, líderes que toman decisiones, defensas locales y potencias que actúan desde otros dominios.
 
 Las distancias importan: no todos pueden llegar al mismo tiempo. Algunos personajes lucharán en sus territorios, otros se reunirán más tarde y otros no conseguirán llegar. La respuesta puede ser caótica, fragmentada y desesperada, incluso cuando exista una alianza mundial.
 
@@ -48,14 +48,14 @@ El ritmo debe evitar que todos los capítulos se lean como la misma secuencia de
 - Alternar escenas de Kevin con escenas cuyo centro sean los habitantes y las potencias locales. La perspectiva de estos personajes no es solo un informe de emergencia: también permite vivir sus decisiones y conflictos desde dentro.
 - No retrasar artificialmente la catástrofe ni convertir cada capítulo en una presentación enciclopédica. La vida previa del mundo debe aparecer mediante escenas con tensión, propósito y consecuencias.
 
-## 4. Ritmo
+## 5. Ritmo de escenas
 
 - El ritmo general debe ser ágil, pero con espacio suficiente para que cada mundo se sienta real.
 - Alternar tensión, acción, desconcierto y consecuencias.
 - Evitar explicaciones largas que interrumpan escenas importantes.
 - No prolongar artificialmente una situación solo para alcanzar una estructura predeterminada. La destrucción puede ser caótica, simultánea en regiones distintas y difícil de comprender incluso para los propios habitantes.
 - Un capítulo puede ser extenso y contener muchas escenas o saltos de perspectiva, siempre dentro del mismo mundo.
-- La destrucción puede ser rápida, pero sus consecuencias pueden recibir espacio narrativo.
+- La crisis puede resolverse con rapidez o prolongarse, pero sus consecuencias deben recibir espacio narrativo.
 - No comprimir la historia de un mundo por intentar llegar pronto al siguiente.
 
 ## 5. Estructura orientativa de cada capítulo
@@ -68,10 +68,10 @@ Un capítulo puede organizarse alrededor de estos momentos:
 4. Intentos de comprender, detener o eliminar a Kevin.
 5. Escalada de enfrentamientos y consecuencias crecientes para Kevin y el mundo.
 6. Últimas estrategias y esperanzas del mundo.
-7. Desenlace: destrucción del mundo o colapso de su civilización.
-8. Cierre y posible indicio de la siguiente transición.
+7. Desenlace propio: destrucción, colapso, expulsión, contención, victoria parcial o supervivencia.
+8. Consecuencias, continuidad abierta y posible indicio de la siguiente transición.
 
-No es obligatorio utilizar todos los apartados ni respetar siempre este orden. Son herramientas, no una fórmula rígida. **Todo el recorrido hasta la destrucción corresponde a un único mundo.**
+No es obligatorio utilizar todos los apartados ni respetar siempre este orden. Son herramientas, no una fórmula rígida. **Todo el recorrido y su desenlace corresponden a un único mundo.**
 
 ## 6. Cronología temporal
 
@@ -393,3 +393,17 @@ Alternar y combinar murim, cultivo, fantasía divina, mundos demoníacos, domini
 El contacto repetido con personas que sacrifican poblaciones enteras, manipulan a Kevin o consideran aceptable utilizarlo puede alterar gradualmente su sentido común. Narrar cómo se acostumbra, se resiste, se confunde, se indigna, negocia o empieza a adoptar criterios que antes habría rechazado. No hacer que cada encuentro produzca el mismo efecto ni transformar su personalidad de golpe. Mantener la base humana y moderadamente precavida/observadora establecida por el usuario.
 
 Los capítulos pueden terminar con destrucción, expulsión, contención, supervivencia o una victoria parcial, según lo que suceda en ese mundo. La variedad no debe convertirse en una cuota mecánica: cada desenlace debe surgir de los personajes y de las reglas locales.
+
+
+## 13. El mundo debe existir más allá del escenario de Kevin
+
+La escala mundial se narra, no se declara. Un mapa con varios continentes no basta si toda la acción ocurre alrededor de una sola fortaleza y todos los personajes relevantes están allí.
+
+- Dar al mundo varios centros de vida y poder, con culturas, especies, geografías y formas de organización distinguibles.
+- Incluir, cuando sea narrativamente útil, escenas alejadas del protagonista. Pueden mostrar conflictos anteriores, decisiones independientes, reacciones tardías, disputas entre potencias o consecuencias indirectas.
+- Hacer que los personajes remotos tengan objetivos propios. No deben existir únicamente para enviar refuerzos o reaccionar a Kevin.
+- Mostrar que el mundo sigue funcionando mientras Kevin está en otro lugar: se celebran pactos, se rompen alianzas, nacen disputas, se libran guerras, se comercia, se migra, se conspira y se toman decisiones.
+- La información viaja de acuerdo con las capacidades locales. Puede llegar tarde, deformada, fragmentada o no llegar.
+- Evitar el desfile de nombres y cifras sin escenas. Es preferible conocer tres lugares con identidad y conflictos reales que enumerar veinte territorios vacíos.
+- La respuesta a Kevin no tiene por qué ser mundial ni unificada. Puede haber regiones que lo ignoren, facciones que quieran aprovecharlo, potencias que intenten expulsarlo y otras que decidan no intervenir.
+- El desenlace no debe confundirse con la destrucción obligatoria del mundo. Una expulsión o contención exitosa puede salvarlo, aunque deje daños enormes y conflictos abiertos.
