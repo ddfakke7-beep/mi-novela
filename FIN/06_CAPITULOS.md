@@ -6,13 +6,13 @@ Este documento registra la historia narrada en orden, con títulos, acontecimien
 
 ## 2. Regla principal
 
-**Un capítulo corresponde a un solo mundo, y ese mundo es destruido en ese capítulo.**
+**Un capítulo corresponde a un solo mundo y desarrolla una crisis o arco decisivo en él.** El desenlace puede ser destrucción, colapso civilizatorio, expulsión, contención, supervivencia o victoria parcial. No todos los mundos deben destruirse.
 
 - El capítulo puede ser un texto largo, con muchas escenas, cambios de perspectiva, personajes, conflictos y enfrentamientos.
 - No incluir la destrucción de otro mundo en el mismo capítulo.
 - No dividir automáticamente un mundo en varios capítulos: la intención es desarrollar y cerrar la historia de ese mundo en un capítulo, aunque sea extenso.
 - Puede insinuarse la transición al siguiente mundo al final, pero su llegada narrativa y destrucción pertenecen al capítulo siguiente.
-- Un capítulo no se considera completo hasta que el destino del mundo y las consecuencias principales hayan quedado claros.
+- Un capítulo se considera completo cuando el desenlace de la crisis inmediata y sus consecuencias principales quedan claros, incluso si el mundo sobrevive y mantiene conflictos abiertos.
 
 ## 3. Criterios de registro
 
@@ -173,3 +173,19 @@ Si existe cualquier duda, consultar el capítulo original. Si el texto no confir
 - **Supervivientes:** Sereth sobrevivió y salió con refugiados; Iven sobrevivió al primer ataque. Destinos posteriores no confirmados.
 - **Estado de Kevin:** heridas en pecho y costado, golpes y dificultad para respirar y moverse. No murió en escena ni se mostró una regeneración posterior. No obtuvo control fiable ni comprendió qué buscaba el Oyente.
 - **Estado:** capítulo completo, guardado en Markdown.
+
+
+## 15. Resumen del capítulo 9
+
+- **Archivo:** `FIN/CAPITULOS/09_NHAROS_EL_MUNDO_QUE_NO_PODIA_MORIR.md`.
+- **Mundo:** Nharos, realidad infernal dividida en siete dominios. Sus habitantes conviven con guerras recurrentes, fortalezas suspendidas, minas, criaturas y pactos ligados a la muerte. La Fosa de los Juramentos funciona como zona de castigo, extracción y tránsito.
+- **Cronología:** Kevin llegó el día 1 a las 18:12 y desapareció el día 4 a las 14:06. Estancia total: 91 horas y 54 minutos.
+- **Conflicto previo:** la prisión de Akh-Mor, el Rey Encadenado, sostenía también una frontera que separaba Nharos de algo desconocido. Othrek quiso romperla para dominar los siete dominios; Sarith quería alterar el orden de las cadenas; Veyrahn buscaba obtener provecho; Maraith intentó impedir la apertura.
+- **Manipulación:** Sarith y Othrek trataron a Kevin como llave y lo sometieron a pruebas sin explicarle sus objetivos. Veyrahn también intentó utilizarlo. Kevin empezó a reconocer que algunos personajes podían ayudarlo solo por interés.
+- **Primera muerte física de Kevin:** el día 3 a las 02:00 quedó aplastado bajo el derrumbe de la cámara. No respiraba ni tenía pulso. Sarith y guardianes observaron el cuerpo muerto. Su regeneración reconstruyó los daños durante aproximadamente tres horas y volvió en sí cerca de las 05:10. No tuvo conciencia ni pudo actuar durante el proceso.
+- **Desenlace:** una manifestación involuntaria de Kevin rompió anclajes y dañó la prisión. Akh-Mor se levantó parcialmente y reveló que las cadenas también mantenían cerrada una frontera. La frontera quedó parcialmente abierta como una cicatriz oscura. Othrek desapareció; no se confirmó su muerte. Akh-Mor sigue encadenado por cuatro cadenas.
+- **Resultado del mundo:** Nharos no colapsó. Los siete dominios continúan existiendo, aunque dañados. Tres fortalezas suspendidas cayeron; cuatro anclajes fueron destruidos; 17 minas quedaron clausuradas o inundadas; 26 asentamientos fueron evacuados; 81 puentes de cadena se perdieron.
+- **Balance provisional:** 9.840 muertos confirmados, 6.200 desaparecidos, 18.500 heridos y 31.000 evacuados. Los registros no cubren todos los frentes; puede haber duplicaciones en los traslados de trabajadores y solapamiento entre heridos y evacuados.
+- **Personajes:** Sarith sobrevivió y perdió la mano derecha; Maraith sobrevivió y regresó a las Cenizas; Veyrahn desapareció con registros; Othrek desapareció durante la ruptura; Iria sobrevivió y se reunió con su hermano; Varkun murió sosteniendo el anclaje oriental; Akh-Mor sigue vivo y encadenado.
+- **Estado de Kevin:** murió físicamente por primera vez en escena y regresó mediante regeneración. No conoció el mecanismo ni estuvo consciente durante la recuperación. Intentó contener una manifestación después, sin conseguir control fiable.
+- **Estado:** capítulo completo, guardado en Markdown. Primer capítulo de FIN cuyo mundo no colapsa ni es destruido.
