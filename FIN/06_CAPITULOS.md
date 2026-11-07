@@ -300,3 +300,18 @@ No se exige mostrar todos los territorios ni introducir escenas remotas por obli
 - **Personajes y destinos:** Sered, Talia, Eren, su madre, Maereth, Azhara, Dhoram y la Madre Raíz sobrevivieron. Orsenn murió sosteniendo el fuego de Vaelor. Dos dragones siguen desaparecidos.
 - **Estado de Kevin:** no murió ni se regeneró. Decidió intervenir para salvar Tiravel y su intervención fue decisiva, aunque la victoria dependió de la resistencia y coordinación de sus habitantes. No obtuvo control perfecto ni conoce el mecanismo de su poder. Se marchó con una figura de madera que Eren le regaló.
 - **Estado:** capítulo completo, guardado en Markdown. Primer mundo que Kevin ayuda a salvar mediante una decisión consciente y una victoria auténtica.
+
+## 23. Resumen del capítulo 15 — Serekh
+
+- **Archivo:** `FIN/CAPITULOS/15_SEREKH_EL_MUNDO_QUE_SEGUIA_FABRICANDO_LA_MUERTE.md`.
+- **Llegada y salida:** Kevin llegó el día 1 a las 06:32 y desapareció el día 4 a las 14:02. Estancia total: 79 horas y 30 minutos.
+- **Resultado:** Serekh ya estaba destruido antes de la llegada de Kevin. Él apagó el núcleo de defensa que seguía produciendo criaturas, pero no restauró el mundo ni encontró supervivientes.
+- **Mundo:** realidad planetaria con tres grandes continentes, mares interiores, una cadena de islas polares, bosques-columna ecuatoriales y ciudades subterráneas. Sus registros muestran varias especies inteligentes y una red de transporte de escala planetaria.
+- **Cazadores:** Kevin fue perseguido por cazadores subterráneos, cazadores de señal, sembradores acorazados, alados de señal, bestias de cuchillas y custodios de garganta. Sus métodos eran distintos y se coordinaban para localizar, acorralar e incapacitar a cualquier forma de vida.
+- **Muertes de Kevin:** murió físicamente tres veces: día 1, 17:03; día 2, 08:17; día 3, 11:50. Regresó tras intervalos aproximados de cuatro horas, cinco horas y veintinueve minutos y cinco horas y cuarenta y dos minutos. Permaneció completamente incapacitado durante cada regeneración.
+- **Descubrimiento:** registros antiguos mostraron que la estructura central había sido una defensa planetaria conectada a siete anillos regionales. Tras la destrucción de Serekh y el apagado de sus conexiones, siguió produciendo cazadores y perdió la capacidad de distinguir entre invasores y habitantes.
+- **Figura desconocida:** los registros muestran una figura humanoide que llegó al núcleo, apagó los siete anillos y se marchó antes de que las ciudades desaparecieran. No se conoce su identidad, propósito ni relación con Kevin.
+- **Desenlace:** Kevin dejó de huir y atacó el núcleo. Varias manifestaciones quebraron los soportes y apagaron la estructura entre las 19:12 y las 19:46 del día 3. Las criaturas dejaron de moverse.
+- **Consecuencias:** no volvió el agua a los mares, no se reconstruyeron las ciudades ni se confirmó la supervivencia de ninguna especie. La intervención de Kevin detuvo una amenaza activa en un mundo que ya estaba muerto.
+- **Estado de Kevin:** no obtuvo control fiable. La experiencia le mostró que la regeneración no evita el dolor ni el tiempo de incapacidad y que huir no siempre es una opción viable. No sabe quién destruyó Serekh ni por qué.
+- **Estado:** capítulo completo, guardado en Markdown.
