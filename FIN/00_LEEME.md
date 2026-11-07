@@ -164,7 +164,7 @@ El trasfondo del mecanismo que transporta a Kevin debe desarrollarse como mister
 
 Kevin puede morir físicamente y regresar mediante su regeneración, y puede aprender a usar su poder para defenderse o actuar con intención. Ese aprendizaje no debe ser una progresión limpia ni una solución automática: sus intentos pueden devastar el entorno y algunos personajes pueden desear precisamente esa devastación. La evolución psicológica debe mostrar cómo convivir con seres que normalizan sacrificios masivos, manipulación y crueldad altera gradualmente su sentido común, sin borrar de golpe su personalidad inicial.
 
-Los ejemplos de mundos, trampas, acompañantes, inmortales, dragones, demonios, profecías y expulsiones discutidos durante la planificación son posibilidades creativas, no acontecimientos ya ocurridos ni destinos obligatorios. No modificar el registro de los ocho capítulos existentes para introducir retrospectivamente estos elementos.
+Los ejemplos de mundos, trampas, acompañantes, inmortales, dragones, demonios, profecías y expulsiones discutidos durante la planificación son posibilidades creativas, no acontecimientos ya ocurridos ni destinos obligatorios. No modificar los capítulos existentes para introducir retrospectivamente estos elementos.
 
 
 ## Estado actualizado tras el capítulo 9
