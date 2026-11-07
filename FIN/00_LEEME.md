@@ -1,7 +1,7 @@
 # FIN — Guía principal del proyecto
 
 **Tipo:** ficción · multiverso · destrucción · desesperación · batallas épicas  
-**Estado:** narración en curso; diez capítulos completos.  
+**Estado:** narración en curso; once capítulos completos.  
 **Ubicación:** carpeta `FIN/` en el repositorio `mi-novela`.
 
 ## Identidad e independencia
@@ -192,3 +192,9 @@ Nharos, capítulo 9, permanece exactamente como fue narrado: una crisis concentr
 FIN cuenta con diez capítulos completos. El capítulo 10 transcurre en Taurak, un mundo de nueve grandes rutas migratorias, estirpes dracónicas y civilizaciones distribuidas entre continentes, océanos y regiones subterráneas. Taurak no colapsó: sus habitantes consiguieron expulsar deliberadamente a Kevin mediante un mecanismo local que exigió cooperación entre regiones y sacrificios irreversibles.
 
 Kevin desapareció de Taurak el día 4 a las 16:12, después de una estancia de 78 horas y 30 minutos. No eligió el destino ni sabe adónde fue enviado. Khevar sigue desaparecido, Vaeruun sobrevivió debilitada y el Primer Aliento continúa dormido.
+
+## Estado actualizado tras el capítulo 11
+
+FIN cuenta con once capítulos completos. El capítulo 11 transcurre en Yunluo, un mundo de cultivo con cinco continentes, océano interior, venas espirituales, sectas, clanes de bestias y cultivadores que alcanzaron la inmortalidad mediante la Escalera del Cielo. La Escalera cayó y el Río Invertido entró en las venas principales. Yunluo sobrevivió, pero el antiguo orden de cultivo quedó quebrado.
+
+Kevin llegó al Valle de las Campanas el día 1 a las 07:20 y salió de Yunluo el día 4 a las 18:02. Su estancia duró 82 horas y 42 minutos. Zhao Wenyuan lo manipuló mediante verdades parciales, omisiones y una situación preparada para que Kevin eligiera acercarse a la raíz por voluntad propia. Jin Suyin murió abriendo una salida para los habitantes del valle. Kevin no murió ni obtuvo control fiable de su poder.
