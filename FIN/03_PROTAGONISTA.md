@@ -286,3 +286,16 @@ Al cierre del capítulo 8, Kevin no ha muerto en escena, no ha sido decapitado y
 - Othar sobrevivió herido. Ishra, Seyra y Veyra sobrevivieron; Veyra quedó herida. Nereth sobrevivió y sus rutas funerarias volvieron a funcionar.
 - Kevin no murió ni se regeneró en este capítulo. Comprendió que conservar recuerdos de los muertos puede convertirse en una amenaza para los vivos, pero no sabe si destruir la Campana era la única solución.
 - No conoció al restaurador de mundos, a una organización multiversal ni a otros viajeros. No sabe quién provoca sus traslados ni conoce la naturaleza profunda de la corriente funeraria.
+## Regla permanente: conocimiento limitado de los traslados y percepción de las partidas
+
+Kevin sabe que aparece involuntariamente en mundos distintos, pero no conoce el mecanismo, no elige el destino y no controla cuándo se marcha. Que el lector o el registro de continuidad conozca la hora exacta de su desaparición no significa que Kevin pueda anticiparla ni que los habitantes puedan hacerlo.
+
+No asumir que Kevin siempre tiene ocasión de despedirse. Puede intentar hacerlo si lo considera posible, pero también puede desaparecer sin aviso. Los demás solo saben lo que presencian o lo que una fuente fiable les comunica; no conocen por defecto que ha sido trasladado a otro mundo. Sus interpretaciones pueden ser erróneas.
+
+## Regla permanente: la magnitud del poder no equivale a romper cosas
+
+El poder de Kevin no debe reducirse narrativamente a tocar, golpear y destruir objetos o criaturas. Esas manifestaciones existen, pero su naturaleza puede resultar mucho más extraña y peligrosa cuando interactúa con los principios que sostienen cada mundo.
+
+Puede afectar conexiones, sistemas, fenómenos o estructuras locales y provocar consecuencias que se propaguen más allá del lugar donde Kevin actuó. Esto no significa que siempre lo haga ni que Kevin comprenda o dirija esos efectos. Cada manifestación debe responder a la lógica particular del mundo y puede ser indirecta, localizada, extensa, involuntaria o difícil de interpretar.
+
+La capacidad destructiva no vuelve a Kevin invulnerable. Puede ser herido, morir, quedar incapacitado, ser contenido o enfrentarse a seres capaces de resistirlo o superarlo. Su poder, su cuerpo, su control y sus decisiones deben narrarse como dimensiones separadas.
