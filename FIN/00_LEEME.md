@@ -29,6 +29,18 @@ Los mundos deben sentirse como planetas o realidades completas, no como mapas pe
 
 La respuesta a una amenaza puede desarrollarse a escala mundial: informes que viajan, regiones que reaccionan por separado, evacuaciones, alianzas entre rivales y desplazamientos de figuras poderosas desde lugares lejanos. Algunas potencias llegarán tarde, otras combatirán en sus propios territorios y otras morirán antes de reunirse con las demás. No todos los mundos deben tener la misma estructura, género ni tipo de defensor.
 
+## Enfoque narrativo reforzado: mundos vivos y grandes personajes
+
+FIN no debe reducirse a una sucesión de llegadas de Kevin seguidas por catástrofes. Kevin continúa siendo el hilo central y la fuente de una amenaza extraordinaria, pero cada mundo debe tener vida, historia y conflictos propios. Sus figuras más poderosas deben ser personajes de peso y no simples obstáculos que aparecen cuando Kevin llega.
+
+- Dar protagonismo real a las máximas potencias: personalidad, historia, relaciones, rivalidades, ambiciones, responsabilidades, discípulos, enemigos y conflictos propios.
+- Permitir que sus decisiones y enfrentamientos tengan sentido incluso al margen de Kevin. El mundo no empieza a existir cuando él aparece.
+- Mostrar sus capacidades mediante acciones y combates desarrollados. Pueden sorprenderlo, herirlo, derrotarlo temporalmente, contenerlo o forzarlo a retirarse cuando la lógica del mundo lo permita.
+- No convertir cada capítulo en una sucesión de defensores que se sacrifican sin cambiar nada. Sus victorias tácticas, errores, estrategias y pérdidas deben modificar el curso de los acontecimientos.
+- Kevin sigue siendo el centro de continuidad entre mundos, pero no tiene que ser el único personaje interesante ni ocupar todas las escenas importantes.
+- La catástrofe puede alcanzar distintos niveles: colapso de una civilización, destrucción física del planeta, ruptura de dimensiones, caída de planos o alteración de las estructuras que sostienen ese mundo. No limitar por defecto el desenlace a que la sociedad deje de funcionar.
+- No destruir físicamente todos los mundos por obligación. La escala final debe surgir de la naturaleza del mundo, de las acciones de Kevin y de las fuerzas que intervengan. Sí debe existir variedad real, incluyendo mundos cuya destrucción sea literal y mucho más amplia que la caída de sus civilizaciones.
+
 ## Tierra y potencias propias
 
 La Tierra no será necesariamente un mundo indefenso ni estará limitada a la humanidad corriente y sus gobiernos. ChatGPT puede crear para ella una historia oculta y potencias de escala global, como dioses, entidades antiguas, guardianes o fuerzas vinculadas a territorios y civilizaciones. Su existencia, intereses, alianzas y conflictos se desarrollarán de forma coherente cuando la Tierra tenga protagonismo. No se establece que todos sean benevolentes ni que gobiernen abiertamente. No revelar prematuramente estos elementos si la historia todavía no los ha mostrado.
