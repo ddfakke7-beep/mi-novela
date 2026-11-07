@@ -313,7 +313,7 @@ Kevin no comprendió ni controló esos efectos. No sabe si su intervención era 
 
 Kevin conserva el pequeño dragón de madera que Eren le regaló en Tiravel. No se llevó objetos de Odrava. Desapareció sin que Ilyra ni los demás supieran adónde había ido; no debe asumirse que conocen el traslado entre mundos.
 
-## 11. Estado de evolución: intención sin control (criterio vigente tras el capítulo 18)
+## 11. Estado de evolución: intención sin control (criterio vigente tras el capítulo 19)
 
 El poder de Kevin no puede controlarse. No es una energía, herramienta o técnica que pueda dominar mediante práctica. Kevin nunca podrá ordenar su funcionamiento, regular su intensidad, escoger con precisión su recorrido ni garantizar que se detenga. La evolución no debe conducir a un dominio parcial estable ni a una maestría futura.
 
@@ -333,7 +333,7 @@ La fuerza actúa de manera autónoma. Puede afectar el objetivo y también conex
 
 Los capítulos ya narrados no deben reescribirse para fingir que Kevin tenía capacidades que no mostró. En Veyra pareció conseguir durante unos segundos que una manifestación no se dispersara en todas direcciones; en Orthea, una prueba sonora pareció reducir una manifestación pequeña. Son episodios reales de la historia, pero Kevin no comprendió su mecanismo, no obtuvo una capacidad reproducible y no deben convertirse en técnicas disponibles. Las demás experiencias tampoco establecieron control sobre el poder.
 
-Al cierre del capítulo 18, Kevin ha experimentado manifestaciones involuntarias, reacciones autónomas ante amenazas, efectos que se propagan por sistemas completos y varias decisiones conscientes de intervenir en una crisis. Ha visto que una intención protectora o destructiva puede coincidir parcialmente con el resultado, sin garantizarlo. Todavía no comprende el funcionamiento de la fuerza. Su siguiente avance debe estar en la claridad de sus decisiones y en la disposición a enfocar su intención, no en adquirir control.
+Al cierre del capítulo 19, Kevin ha experimentado manifestaciones involuntarias, reacciones autónomas ante amenazas, efectos que se propagan por sistemas completos y decisiones conscientes de intervenir. En Mairen enfocó su intención en liberar a Ivara de una estructura defensiva; el poder cortó una conexión mucho mayor y permitió que la contaminación se extendiera por una ruta secundaria antes de que el mundo pudiera aislarla. También observó que su presencia debilitaba temporalmente la contaminación de Ivara, pero no pudo mantener ese efecto cuando lo intentó. No comprende el mecanismo ni puede repetirlo a voluntad. Su progreso está en elegir con mayor claridad qué quiere afectar, no en adquirir control.
 
 No convertir cada mundo en una lección sobre el poder. El progreso también aparece en cómo Kevin evalúa riesgos, decide actuar, elige qué considera necesario detener, se niega a ser utilizado o acepta consecuencias. Puede usar deliberadamente su intención para destruir si esa es su decisión.
 
@@ -342,3 +342,19 @@ No convertir cada mundo en una lección sobre el poder. El progreso también apa
 Kevin no necesita disculparse automáticamente por cada daño ni asumir que debe salvar a todos. Puede sentir culpa, reconocer responsabilidad y ayudar cuando lo decida, pero también defenderse, atacar, escapar, negociar, negarse o tomar decisiones incompatibles con los habitantes. Su personalidad corriente y moderadamente observadora permanece reconocible; la experiencia no lo convierte de golpe en genio ni estratega infalible.
 
 Los habitantes de cada mundo conservan iniciativa. No necesitan a Kevin para luchar, protegerse, resolver sus conflictos o cometer errores. Pueden considerarlo enemigo inmediato e intentar matarlo incluso si el ataque es arriesgado. La cooperación nunca implica perdón ni confianza automática.
+
+
+## Experiencia confirmada al cierre del capítulo 19 — Mairen
+
+- Kevin llegó a Mairen el día 1 a las 02:14 y desapareció el día 3 a las 18:02. Su estancia duró 63 horas y 48 minutos.
+- Mairen es un mundo vivo con cinco grandes masas continentales y una red orgánica subterránea llamada la Médula. El planeta puede aislar regiones y regenerar parte de sus estructuras, pero necesita décadas y no recupera especies ni civilizaciones desaparecidas.
+- La Médula intentó inmovilizar a Kevin al detectar su llegada. Una manifestación involuntaria deshizo parte de las fibras que lo sujetaban.
+- Kevin conoció a Ivara, cuya existencia está ligada a una contaminación que deteriora los procesos que sostienen la vida. Ella llegó a Mairen ciento dieciséis años antes y su presencia contribuyó al colapso de la civilización original. Ivara no se considera invulnerable; la Médula la ha herido gravemente en ocasiones anteriores.
+- Ivara aceptó permanecer en la Cuenca de la Ceniza y no trasladar la contaminación a otros mundos a cambio de recibir información. El acuerdo se hizo con una civilización que ya no mantiene comunicación activa; un archivo automático continúa entregando registros antiguos.
+- Los registros de Mairen muestran seis incursiones anteriores. La Médula mató algunas amenazas, expulsó otras y mantuvo al menos una encerrada. No todas eran seres conscientes ni tenían la misma naturaleza.
+- La contaminación de Ivara se debilitó temporalmente alrededor de Kevin. Ella pudo acercarse sin deteriorar de inmediato las muestras vivas. Kevin intentó mantener el efecto de forma intencional, pero no pudo garantizarlo. No se estableció inmunidad universal.
+- La Médula atacó a Ivara y Kevin durante la exéresis. Una fibra atravesó el costado de Ivara y atrapó a Kevin. El poder reaccionó autónomamente y deshizo parte de las estructuras.
+- Kevin enfocó su intención en que una estructura soltara a Ivara. El poder cortó la conexión principal del nodo defensivo y abrió una ruta secundaria para la contaminación. No eligió ni previó esa consecuencia.
+- Las comunidades de Ordal, Neth y Ura tomaron decisiones propias, cortaron conexiones, protegieron semillas y aislaron asentamientos. Mairen sobrevivió, pero perdió una raíz principal y varias rutas que tardarán décadas en reconstruirse.
+- Kevin no murió ni se regeneró. Conserva el pequeño dragón de madera de Eren, de Tiravel.
+- Ivara permanece en Mairen. No acompañó a Kevin porque trasladar la contaminación a otro mundo podría causar una nueva catástrofe. No se sabe si volverán a encontrarse.
