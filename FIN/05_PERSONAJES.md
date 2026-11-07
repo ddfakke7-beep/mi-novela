@@ -1070,3 +1070,58 @@ Los personajes relevantes no deben aparecer todos en el mismo lugar ni existir �
 - **Bestias de cuchillas:** levantaban placas del terreno y cerraban rutas para acorralar objetivos.
 - **Custodios de garganta:** criaturas de cuatro brazos que inmovilizaban y aplastaban objetivos antes de transportarlos hacia el núcleo.
 - **Destino común:** dejaron de moverse después de la destrucción del núcleo. No se confirmó que quedaran ejemplares activos fuera de la red.
+
+
+## Personajes del capítulo 16 — Talmera
+
+### Dalia Sen
+- Faro número 2 y líder de respuesta durante la Retirada en Tersal.
+- Su Rasgo le permite desplegar líneas doradas para fijar, conectar y sostener estructuras y rutas.
+- Priorizó la evacuación y mantuvo la contención de Kevin sin permitir maltrato. Le pidió ayuda cuando la convergencia superó las defensas locales.
+- Sobrevivió. No conoce el origen de Kevin ni comprende su manifestación.
+
+### Tavan Rhem
+- Faro número 6, veterano de operaciones de rescate y defensa.
+- Su Rasgo fija el movimiento de una región a un punto elegido.
+- Sostuvo el eje central de la ciudad durante la convergencia para permitir que otros evacuaran. Murió por el daño interno causado por su propio Rasgo.
+- Su puesto quedó vacante. Su muerte tuvo repercusión pública.
+
+### Oren Vask
+- Guardia de Umbral encargado de asegurar zonas de combate y restringir accesos.
+- Su vara y su Rasgo permiten imponer un campo de peso sobre un área.
+- Detuvo a Kevin al llegar y participó en su contención, traslado y posterior evacuación.
+- Sobrevivió herido.
+
+### Iven
+- Personal de sanidad de campo.
+- Examinó a Kevin y atendió a los heridos; no pudo identificar un Rasgo en él.
+- Sobrevivió.
+
+### Sira Vel
+- Faro número 11.
+- Abre rutas temporales mediante puertas de luz y coordina evacuaciones.
+- Sostuvo el traslado de civiles durante la convergencia.
+- Sobrevivió.
+
+### Narel Venn
+- Antiguo cartógrafo de la Liga de Tránsito.
+- Perdió a su hermana Ilen durante la Retirada de Varda once años antes. Abrió rutas con el Nudo para recuperarla, aunque sus intentos pusieron en peligro dos poblaciones.
+- Se volvió contra Vara al descubrir que pretendía utilizar a los habitantes de la ciudad desaparecida.
+- Fue detenido y sobrevivió.
+
+### Ilen Venn
+- Hermana de Narel, desaparecida en la Retirada de Varda.
+- Seguía viva en la ciudad desaparecida. Regresó a Talmera durante la convergencia.
+- No perdonó de inmediato a Narel ni aceptó que sus acciones quedaran justificadas.
+
+### Vara Il
+- Saboteadora vinculada a operaciones ilegales sobre la Retirada.
+- Manipuló a Narel para provocar la convergencia y acceder a los Rasgos de la población desaparecida.
+- Fue detenida. Sus objetivos posteriores y posibles cómplices no están confirmados.
+
+### Mira y Nima
+- Mira es una habitante del Barrio de los Talleres; sobrevivió y encontró a su nieta durante la evacuación.
+- Nima es su nieta, una niña rescatada del barrio. Sobrevivió y habló durante el homenaje a Tavan.
+
+### Estado
+Los personajes de Talmera no conocen a Kevin más allá de lo observado durante la crisis. Ninguno conoce la causa de sus viajes ni el origen de su poder.
