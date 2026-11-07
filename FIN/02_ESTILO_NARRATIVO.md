@@ -40,6 +40,16 @@ Las figuras poderosas deben tener criterio, iniciativa y personalidad. No deben 
 
 ## 4. Ritmo
 
+El ritmo debe evitar que todos los capítulos se lean como la misma secuencia de llegada, manifestación, movilización, combate y colapso. La variedad también debe venir de quién sostiene el capítulo y de qué conflictos estaban ocurriendo antes de Kevin.
+
+- Reservar espacio para conocer a las grandes figuras del mundo antes de que entren en su enfrentamiento decisivo. Presentarlas en sus territorios, relaciones, disputas, responsabilidades y objetivos.
+- Permitir escenas y conflictos entre personajes poderosos que no giren alrededor de Kevin: rivalidades antiguas, guerras propias, sucesiones, pactos, amenazas internas, disputas entre entidades o problemas que ya estaban transformando el mundo.
+- Kevin puede irrumpir en una historia que ya estaba en marcha y alterar su rumbo; no debe ser siempre el único motor de cada acontecimiento.
+- Alternar escenas de Kevin con escenas cuyo centro sean los habitantes y las potencias locales. La perspectiva de estos personajes no es solo un informe de emergencia: también permite vivir sus decisiones y conflictos desde dentro.
+- No retrasar artificialmente la catástrofe ni convertir cada capítulo en una presentación enciclopédica. La vida previa del mundo debe aparecer mediante escenas con tensión, propósito y consecuencias.
+
+## 4. Ritmo
+
 - El ritmo general debe ser ágil, pero con espacio suficiente para que cada mundo se sienta real.
 - Alternar tensión, acción, desconcierto y consecuencias.
 - Evitar explicaciones largas que interrumpan escenas importantes.
