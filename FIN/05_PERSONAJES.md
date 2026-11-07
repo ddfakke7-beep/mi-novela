@@ -1125,3 +1125,60 @@ Los personajes relevantes no deben aparecer todos en el mismo lugar ni existir �
 
 ### Estado
 Los personajes de Talmera no conocen a Kevin más allá de lo observado durante la crisis. Ninguno conoce la causa de sus viajes ni el origen de su poder.
+
+
+## Personajes del capítulo 17 — Nereth
+
+### Ishra
+- Moru de las ciudades de coral, hermana de Dhor.
+- Su hermano murió antes del inicio del capítulo y su cuerpo viajaba en la barca funeraria que Kevin dañó al llegar.
+- Al principio culpó a Kevin por arruinar la despedida. Quería escuchar el eco de Dhor, aunque sabía que no era su hermano completo.
+- Durante la crisis aceptó que los vivos debían conservar su identidad, incluso si eso significaba dejar ir los ecos.
+- Sobrevivió. Conservó una piedra azul de Dhor como recuerdo material.
+
+### Dhor
+- Moru, hermano de Ishra. Había muerto antes de la llegada de Kevin.
+- Su cuerpo viajaba en una barca funeraria por el Mar de Ceniza. Su lúmen se dispersó cuando la barca se rompió.
+- No regresó ni fue resucitado.
+
+### Oru
+- Anciana navegante de las corrientes funerarias.
+- Acompañaba el traslado del cuerpo de Dhor. Conoce las rutas y los ritos de despedida.
+- Sobrevivió al naufragio y ayudó a llevar el cuerpo al litoral.
+
+### Khal Ordan
+- Kharad, maestro de las galerías de Khar y figura de autoridad entre los clanes de talleres.
+- Cuerpo de placas pétreas, con una grieta blanca en el rostro. Su bastón canalizaba su fuerza y podía levantar o fijar estructuras de piedra.
+- Se opuso a mantener la Campana porque los ecos estaban desplazando a los vivos. Defendió la ruta hacia el núcleo y se enfrentó a los custodios cuando estos intentaron impedir el acceso.
+- Murió en la plaza de Oru al recibir el impacto de la figura colectiva de lúmenes. Sus aprendices conservaron su bastón y sus herramientas.
+
+### Seyra
+- Seyri, guardiana de los caminos altos de Eshai.
+- Ser alado que utiliza una lanza corta y domina corrientes de aire para desplazarse y rescatar personas.
+- Encontró a Kevin después de que este abriera un corte en la corriente de lúmenes. Lo acompañó a Oru y coordinó evacuaciones durante la marea.
+- Sobrevivió herida.
+
+### Othar
+- Oru anciano, custodio mayor de la Campana de Oru.
+- Conservó durante décadas el eco de su hija Neris. La Campana le permitió escuchar voces de familiares y antepasados, y terminó convirtiéndose en su forma de afrontar el duelo.
+- Se negó inicialmente a abrir los anillos porque temía perder los ecos. Después abrió el anillo interior intentando darles cuerpos vivos, lo que aceleró la marea.
+- Finalmente aceptó que Neris no era su hija y permitió que la Campana fuera destruida. Sobrevivió con heridas graves.
+
+### Neris
+- Hija fallecida de Othar, cuyo eco permanecía en la Campana.
+- Su lúmen conservaba fragmentos de recuerdos, voz y emociones, pero no era una conciencia completa ni la persona que había sido.
+- Pidió a Othar que la dejara ir y rechazó que utilizara cuerpos vivos para mantenerla.
+- Su eco se disolvió al regresar la corriente al Mar Quieto.
+
+### Veyra
+- Criatura antigua vinculada a la corriente funeraria y al Mar Quieto.
+- Su cuerpo inmenso recorre los cauces profundos y conduce los lúmenes hacia su destino.
+- La Campana la mantenía atada al cauce. Tras la ruptura de los anillos, abrió la corriente y condujo los ecos al Mar Quieto.
+- Sobrevivió, pero perdió parte de sus placas y quedó herida.
+
+### Veyun y Esha
+- Veyun es un moru afectado por un eco antiguo que comenzó a desplazar sus recuerdos y a hablar con la voz de una mujer muerta hacía ciento veinte años. Sobrevivió, aunque no recuperó todos sus recuerdos.
+- Esha, su pareja, ayudó a los sanadores a separarlo del eco y evitó que la presencia terminara de desplazarlo.
+
+### Estado
+Los personajes de Nereth no conocen el origen de Kevin ni la causa de sus viajes. Algunos lo culpan por daños concretos, otros consideran que ayudó a detener la marea. No hay una opinión unánime sobre su intervención.
