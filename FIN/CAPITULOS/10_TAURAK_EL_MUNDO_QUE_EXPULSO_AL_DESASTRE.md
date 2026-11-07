@@ -100,7 +100,7 @@ Seyra lo miró.
 
 La mujer pareció considerar la palabra.
 
-—Si te refieres a una tierra con una frontera que alguien pueda dibujar, no. Estás en el borde oriental de Varkesh. Detrás de esas montañas empieza el Mar de Ceniza. Más allá está Theryn. Al sur se encuentra el océano de Namar. Bajo nosotros hay regiones que no han visto el cielo en miles de años.
+—Si te refieres a una tierra con una frontera que alguien pueda dibujar, no. Estás en el borde oriental de Varkesh. Detrás de esas montañas empieza el Mar de Ceniza. Más allá está Theryn. Al sur se encuentra el océano de Vael. Bajo nosotros hay regiones que no han visto el cielo en miles de años.
 
 Kevin miró hacia el horizonte.
 
@@ -164,7 +164,7 @@ Al otro lado del Mar de Ceniza, los **Aruun** vivían en bosques de cristal que 
 
 En Theryn, los **Sair** habitaban ciudades suspendidas entre árboles colosales. Sus alas no servían para volar grandes distancias, sino para planear entre las copas. Sus disputas territoriales eran antiguas y sus rutas comerciales dependían de puentes vivos que se cerraban durante las migraciones.
 
-En el océano de Namar, los **Namarai** construían arrecifes habitables alrededor de organismos gigantescos que filtraban minerales y mantenían las corrientes. Sus ciudades cambiaban de forma cuando los grandes animales se movían. No tenían fronteras fijas: tenían acuerdos de paso y de alimentación.
+En el océano de Vael, los **Namarai** construían arrecifes habitables alrededor de organismos gigantescos que filtraban minerales y mantenían las corrientes. Sus ciudades cambiaban de forma cuando los grandes animales se movían. No tenían fronteras fijas: tenían acuerdos de paso y de alimentación.
 
 Bajo la corteza de Taurak existía Othuun, un entramado de cavernas donde los **Khar** escuchaban el crecimiento de las montañas. Sus asentamientos estaban hechos de piedra hueca y minerales que almacenaban vibraciones. No todos los Khar tenían ojos. Algunos podían distinguir una ciudad por el modo en que el suelo transmitía los pasos de sus habitantes.
 
@@ -384,7 +384,7 @@ Seyra miró hacia el horizonte.
 
 ## Día 2 — 11:45 — El océano que decidió no escuchar
 
-A miles de kilómetros del Paso de las Alas, bajo el océano de Namar, una ciudad de arrecife se había partido en dos.
+A miles de kilómetros del Paso de las Alas, bajo el océano de Vael, una ciudad de arrecife se había partido en dos.
 
 Los Namarai no construían sus ciudades sobre el fondo marino. Las cultivaban alrededor de organismos gigantescos que filtraban minerales y mantenían las corrientes. Cuando uno de esos organismos moría, el arrecife entero debía desplazarse.
 
@@ -574,7 +574,7 @@ La guardiana de la Primera Estirpe se levantó.
 
 Al mismo tiempo, en Theryn, los puentes vivos se cerraron sobre tres rutas comerciales. Los Sair enviaron mensajeros a las ciudades de las copas altas. La desviación de las migraciones había alterado el movimiento de las criaturas que transportaban semillas entre los bosques.
 
-En el océano de Namar, Rhaum ordenó a los arrecifes abandonar una región entera. No explicó el motivo a los habitantes. Solo dijo que debían alejarse de la corriente norte.
+En el océano de Vael, Rhaum ordenó a los arrecifes abandonar una región entera. No explicó el motivo a los habitantes. Solo dijo que debían alejarse de la corriente norte.
 
 Bajo la corteza, los Khar cerraron dos galerías y enviaron una expedición hacia la Cámara del Primer Aliento.
 
@@ -1086,7 +1086,7 @@ Kevin la miró.
 
 La guerra no empezó en una sola región.
 
-En Varkesh, los dragones menores abandonaron sus nidos y atacaron las plataformas que protegían las rutas de migración. En Theryn, dos ciudades suspendidas cerraron sus puentes vivos para impedir que los partidarios de Khevar cruzaran el bosque. En el océano de Namar, los Namarai rompieron los acuerdos de paso y comenzaron a hundir las estructuras que conducían hacia la costa norte.
+En Varkesh, los dragones menores abandonaron sus nidos y atacaron las plataformas que protegían las rutas de migración. En Theryn, dos ciudades suspendidas cerraron sus puentes vivos para impedir que los partidarios de Khevar cruzaran el bosque. En el océano de Vael, los Namarai rompieron los acuerdos de paso y comenzaron a hundir las estructuras que conducían hacia la costa norte.
 
 Bajo la corteza, los Khar se dividieron.
 
@@ -1318,7 +1318,7 @@ La corriente lo levantó del suelo.
 
 Durante un instante, Kevin vio el mundo entero desde arriba.
 
-Vio las montañas de Varkesh, los bosques de Theryn, el océano de Namar, las ciudades de raíces y las grietas de Othuun. Vio dragones que cruzaban el cielo, criaturas que huían hacia el mar y miles de luces que se encendían en lugares que nunca había visitado.
+Vio las montañas de Varkesh, los bosques de Theryn, el océano de Vael, las ciudades de raíces y las grietas de Othuun. Vio dragones que cruzaban el cielo, criaturas que huían hacia el mar y miles de luces que se encendían en lugares que nunca había visitado.
 
 Taurak era mucho más grande de lo que había podido imaginar.
 
@@ -1380,7 +1380,7 @@ La noticia de la expulsión tardó en llegar a las regiones más alejadas.
 
 En las ciudades del sur de Theryn, los Sair continuaron su guerra por el bosque de raíces. Algunos comerciantes habían perdido sus rutas, pero todavía no sabían por qué.
 
-En el océano de Namar, tres arrecifes se desplazaron hacia el oeste. Los habitantes abandonaron sus viviendas y se trasladaron a las plataformas más profundas.
+En el océano de Vael, tres arrecifes se desplazaron hacia el oeste. Los habitantes abandonaron sus viviendas y se trasladaron a las plataformas más profundas.
 
 Bajo Othuun, los Khar sellaron las galerías que conducían a la Cámara. No todos aceptaron la decisión. Algunas comunidades comenzaron a excavar rutas nuevas para recuperar los territorios que habían perdido.
 
