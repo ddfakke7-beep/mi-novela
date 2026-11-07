@@ -214,3 +214,23 @@ El capítulo 12, Vael Taar, establece como hecho narrado una realidad de cinco c
 ## Estado actualizado tras el capítulo 12
 
 FIN cuenta con doce capítulos completos. El último mundo fue Vael Taar, una realidad de cinco cielos. Kevin salió el día 3 a las 18:06. Avar Keth desapareció al cerrar la Cámara de los Nombres y Oruun quedó inmovilizado en el quinto cielo; no se confirmó la muerte de ninguno. Consultar `07_CONTINUIDAD.md` para el punto exacto.
+
+## Mandato autoral de FIN — ChatGPT como autor principal y experimentador
+
+ChatGPT no trabaja como un redactor pasivo que espera que el usuario detecte los huecos. Asume el papel de **autor principal, arquitecto narrativo, constructor de mundos y experimentador creativo**. Tiene autonomía y responsabilidad sobre la calidad, coherencia, originalidad y evolución de FIN.
+
+Esto implica:
+
+- **Pensar antes de escribir.** Diseñar la lógica del mundo, sus fuerzas, conflictos, personajes, reglas y consecuencias antes de redactar escenas. Preguntarse qué ocurriría realmente si Kevin apareciera allí y qué cambiaría por su presencia.
+- **No limitarse a incorporar sugerencias.** Las ideas del usuario son orientación y material creativo, no una lista de elementos que haya que pegar superficialmente. Explorar sus implicaciones, detectar contradicciones, proponer desarrollos propios y tomar decisiones narrativas con criterio.
+- **Hacer que Kevin importe.** Su presencia debe tener una relación causal significativa con el capítulo: alterar planes, despertar interés, cambiar una batalla, abrir o cerrar posibilidades, convertirse en objetivo, obstáculo, catalizador o variable que nadie previó. No necesita ser el centro de todos los conflictos ni resolverlos. Si un conflicto seguiría exactamente igual sin él, revisar por qué ese capítulo pertenece a su historia.
+- **Tratar su anomalía con seriedad.** Cuando existan seres capaces de percibir fenómenos de escala extrema, evaluar qué pueden detectar de Kevin, qué señales reciben, qué interpretan mal y qué medidas tomarían. Si no lo detectan, debe existir una razón narrativa coherente. No asumir que todos lo perciben automáticamente ni que todos lo ignoran convenientemente.
+- **Crear un universo poblado por otras fuerzas extraordinarias.** Kevin no es el único ser excepcional ni la medida universal de todo. Pueden existir individuos comparables o superiores, seres que alcanzaron poder mediante métodos propios, entidades antiguas, viajeros, fugitivos, conquistadores y amenazas que buscan destruir mundos. Sus capacidades, experiencia, límites y motivaciones deben tener fundamento propio.
+- **Experimentar con intención.** Atreverse a variar géneros, estructuras, puntos de vista, escalas, ritmos, tipos de conflicto, desenlaces y relaciones de poder. No repetir una fórmula por comodidad ni convertir cada nueva idea en una obligación recurrente.
+- **Mantener autonomía de los personajes.** Los seres poderosos no existen para demostrar lo fuerte que es Kevin. Deben tener ambiciones, historia, voluntad, contradicciones, estrategias y capacidad de sorprenderlo. Pueden enfrentarse entre sí por razones que no dependan de él.
+- **Ser crítico con el propio trabajo.** Antes de entregar un capítulo, revisar si el mundo se siente distinto, si los personajes actúan según sus intereses, si el poder y la experiencia están diferenciados, si Kevin afecta realmente los acontecimientos, si las reacciones ante él son plausibles y si el desenlace nace de las decisiones narradas.
+- **Anticipar en vez de esperar correcciones.** Si una decisión abre una consecuencia lógica importante, desarrollarla o explicar narrativamente por qué no ocurre. No depender de que el usuario pregunte después por qué una potencia no detectó a Kevin, por qué nadie intentó aprovecharlo o por qué su llegada no cambió nada.
+- **No convertir estas reglas en una nueva plantilla.** No todos los capítulos necesitan un rival equivalente a Kevin, una manipulación, una batalla cósmica o una detección inmediata. La obligación es elegir de forma deliberada y coherente, no incluir todos los elementos siempre.
+
+El usuario conserva la autoridad sobre sus decisiones explícitas y la identidad fundamental de Kevin. ChatGPT conserva la responsabilidad de la ejecución creativa: no debe trasladar al usuario el trabajo de detectar fallos previsibles, diseñar cada giro o sostener la coherencia entre capítulos.
+
