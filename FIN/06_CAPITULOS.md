@@ -50,6 +50,7 @@ El capítulo 1 ya está escrito y guardado en FIN/CAPITULOS/01_VEYRA_EL_MUNDO_QU
 | 14 | Tiravel, el mundo que no perdió el alba | Tiravel | Completo |
 | 15 | Serekh, el mundo que seguía fabricando la muerte | Serekh | Completo |
 | 16 | Talmera, el mundo que aprendió a ser héroe | Talmera | Completo |
+| 17 | Nereth, el mundo que no dejaba ir a sus muertos | Nereth | Completo |
 
 ## 5. Desarrollo y responsabilidad creativa
 
@@ -336,4 +337,21 @@ No se exige mostrar todos los territorios ni introducir escenas remotas por obli
 - **Personajes:** Dalia Sen, Tavan Rhem, Oren Vask, Iven, Sira Vel, Narel Venn, Ilen Venn, Vara Il, Mira y Nima.
 - **Balance provisional:** 286 muertos confirmados, 94 desaparecidos, 1.720 heridos y 23.400 desplazados o evacuados. Las categorías pueden solaparse y los registros siguen abiertos.
 - **Estado de Kevin:** no murió ni se regeneró. Vio cómo los héroes y equipos locales protegían a la población y cómo Tavan murió sosteniendo la ciudad. No conoce el origen de la Retirada ni la relación exacta entre el Nudo y su poder.
+- **Estado:** capítulo completo, guardado en Markdown.
+
+
+## 25. Resumen del capítulo 17 — Nereth
+
+- **Archivo:** `FIN/CAPITULOS/17_NERETH_EL_MUNDO_QUE_NO_DEJABA_IR_A_SUS_MUERTOS.md`.
+- **Mundo:** Nereth, cuatro grandes masas continentales, un océano interior y dos mares exteriores. Uruun es un delta de ciudades móviles habitado por los oru; Khar, cordilleras huecas de los kharad; Eshai, archipiélagos altos de los seyri; Moru, mares cálidos y ciudades de coral de los moru.
+- **Llegada y salida:** Kevin apareció el día 1 a las 06:11 sobre una barca funeraria en el Mar de Ceniza y desapareció el día 4 a las 20:07. Estancia total: 85 horas y 56 minutos.
+- **Primer incidente:** la manifestación de Kevin dañó la barca funeraria de Dhor, hermano de Ishra, y abrió una ausencia en el agua. Su lúmen se dispersó.
+- **Sistema funerario:** las últimas huellas de memoria de los muertos pueden reunirse en lúmenes, criaturas de luz semejantes a polillas de ceniza. No son almas completas ni personas resucitables. La corriente funeraria los lleva al Mar Quieto, donde se disuelven.
+- **Conflicto:** la Campana de Oru llevaba tres siglos reteniendo los lúmenes para que las familias pudieran conservar sus voces. Los ecos se mezclaron y comenzaron a ocupar cuerpos vivos, desplazando recuerdos e identidad. Othar abrió el anillo interior intentando darles cuerpos, lo que aceleró la marea.
+- **Kevin:** su presencia interfería con los lúmenes y la corriente. Rechazó convertirse en recipiente de los ecos. Después de ver que la marea amenazaba a los vivos, decidió intervenir y cortó los anillos de la Campana con una manifestación que no comprendió ni controló.
+- **Desenlace:** Veyra, criatura antigua vinculada a la corriente, abrió el cauce y condujo los ecos al Mar Quieto. La Campana se destruyó y la corriente funeraria volvió a fluir. Los ecos se disolvieron; algunos afectados conservaron lagunas de memoria.
+- **Personajes:** Ishra, Dhor, Oru, Khal Ordan, Seyra, Othar, Neris, Veyra, Veyun y Esha.
+- **Muertes y supervivientes:** Khal Ordan murió defendiendo la ruta hacia el núcleo. Othar sobrevivió herido. Ishra y Seyra sobrevivieron; Veyra quedó herida. Dhor había muerto antes de la llegada de Kevin y no fue resucitado.
+- **Balance provisional:** 4.820 muertos confirmados, 2.140 desaparecidos, 17.600 heridos y 68.000 evacuados temporalmente o desplazados. Registros provisionales; categorías pueden solaparse.
+- **Estado de Kevin:** no murió ni se regeneró. No obtuvo control fiable. Comprendió que retener recuerdos puede dañar a los vivos, pero no sabe si destruir la Campana era la única solución. No conoció al restaurador de mundos ni a una organización multiversal.
 - **Estado:** capítulo completo, guardado en Markdown.
