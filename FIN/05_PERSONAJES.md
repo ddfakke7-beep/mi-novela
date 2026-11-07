@@ -977,3 +977,72 @@ Los personajes relevantes no deben aparecer todos en el mismo lugar ni existir �
 - **Mundo y capítulo:** Ithara, capítulo 13.
 - **Naturaleza:** estructura o entidad desconocida bajo la corteza, ausente de los registros de las mudas.
 - **Estado:** respondió después de la crisis. No se sabe si despertó, si fue activada por la infección o si reaccionó a la manifestación de Kevin.
+## Personajes del mundo 14 — Tiravel
+
+### Sered
+- **Mundo y capítulo:** Tiravel, capítulo 14.
+- **Naturaleza y función:** caballero del ducado de Leth, responsable de coordinar parte de la defensa y la evacuación de Aram.
+- **Personalidad:** directo, disciplinado y cansado por una guerra que lleva demasiado tiempo.
+- **Relación con Kevin:** lo encontró después del incidente del puente. Desconfió de él, pero terminó aceptando su ayuda y reconociendo su intervención en la victoria.
+- **Destino:** sobrevivió y regresó a la guardia de Leth.
+
+### Talia
+- **Mundo y capítulo:** Tiravel, capítulo 14.
+- **Naturaleza y función:** sanadora de Leth. Atendió a los heridos de Aram y del bastión.
+- **Personalidad:** práctica, franca y compasiva sin sentimentalismo excesivo.
+- **Relación con Kevin:** lo trató como alguien capaz de ayudar en tareas concretas, no como un arma ni como un salvador automático. Lo acompañó durante la crisis.
+- **Destino:** sobrevivió y organizó la atención de los heridos.
+
+### Eren
+- **Mundo y capítulo:** Tiravel, capítulo 14.
+- **Función:** niño rescatado por Kevin durante el ataque al puente de las campanas.
+- **Destino:** sobrevivió. Regaló a Kevin una pequeña figura de madera con forma de dragón.
+
+### Madre de Eren
+- **Mundo y capítulo:** Tiravel, capítulo 14.
+- **Función:** habitante de Aram y madre de Eren.
+- **Relación con Kevin:** inicialmente lo culpó por los daños que su manifestación causó en el puente y las casas, pero también reconoce que su hijo vive gracias a él.
+- **Destino:** sobrevivió. Su postura hacia Kevin conserva sentimientos contradictorios.
+
+### Duquesa Maereth
+- **Mundo y capítulo:** Tiravel, capítulo 14.
+- **Naturaleza y función:** gobernante del ducado de Leth, en Arel.
+- **Objetivos:** sostener la defensa y reunir a los pueblos para renovar el pacto de los siete fuegos.
+- **Destino:** sobrevivió y participó en la renovación del pacto.
+
+### Azhara
+- **Mundo y capítulo:** Tiravel, capítulo 14.
+- **Naturaleza:** reina dragón de Nym.
+- **Personalidad y objetivos:** orgullosa, responsable de su pueblo y dispuesta a reconocer los errores de los dragones. Decidió abandonar el aislamiento para luchar contra Nhal-Kor.
+- **Capacidades:** vuelo, aliento de fuego y mando sobre los dragones de Nym.
+- **Relación con Kevin:** reconoció que su poder podía abrir una herida en la coraza de Nhal-Kor. No lo obligó a intervenir; le explicó el riesgo y aceptó su decisión.
+- **Destino:** sobrevivió, perdió parte de un ala y dos de sus hijos no regresaron.
+
+### Dhoram
+- **Mundo y capítulo:** Tiravel, capítulo 14.
+- **Naturaleza y función:** rey de las galerías y los nacidos de piedra de Vord.
+- **Objetivos:** proteger las galerías y evitar que las criaturas de Nhal-Kor alcanzaran a su pueblo.
+- **Destino:** sobrevivió, pero su brazo izquierdo quedó reducido a grava al sostener una montaña fracturada.
+
+### Orsenn
+- **Mundo y capítulo:** Tiravel, capítulo 14.
+- **Naturaleza y función:** dragón anciano y guardián del fuego de Vaelor.
+- **Acciones:** mantuvo encendida la llama del norte hasta que los cinco fuegos pudieron atravesar el núcleo de Nhal-Kor.
+- **Destino:** murió junto a la torre de Vaelor.
+
+### La Madre Raíz
+- **Mundo y capítulo:** Tiravel, capítulo 14.
+- **Naturaleza:** entidad protectora de los bosques y pueblos de raíz de Thessa.
+- **Acciones:** desplazó su bosque para evacuar aldeas y sostuvo la conexión del fuego de Thessa durante la batalla.
+- **Destino:** sobrevivió, pero perdió miles de árboles.
+
+### Nhal-Kor
+- **Mundo y capítulo:** Tiravel, capítulo 14.
+- **Naturaleza:** entidad que dormía bajo el océano septentrional y se alimentaba de la luz.
+- **Capacidades:** extender una sombra que absorbía luz y calor, generar espinas colosales y desprender criaturas de escarcha.
+- **Destino:** destruido cuando Kevin abrió una grieta en su núcleo y los cinco fuegos atravesaron su corazón.
+
+### Los desolladores de escarcha
+- **Mundo y capítulo:** Tiravel, capítulo 14.
+- **Naturaleza:** criaturas desprendidas de la presencia de Nhal-Kor.
+- **Destino:** se detuvieron y deshicieron después de la destrucción de su núcleo.
