@@ -217,3 +217,17 @@ Al cierre del capítulo 8, Kevin no ha muerto en escena, no ha sido decapitado y
 - Kevin desapareció de Taurak el día 4 a las 16:12. Su estancia duró 78 horas y 30 minutos.
 - No sabe cómo funciona la expulsión, qué destino se abrió ni si podría regresar a Taurak. No obtuvo control fiable de su poder ni comprendió la relación entre su presencia y las marcas de migración.
 - Taurak sobrevivió. La expulsión dañó tres rutas de migración, dos nidos dracónicos mayores y varias conexiones entre regiones. Sus conflictos internos continúan.
+
+## Experiencia confirmada al cierre del capítulo 11 — Yunluo
+
+- Kevin llegó a Yunluo el día 1 a las 07:20, en el Valle de las Campanas, continente de Lianshu.
+- Jin Suyin lo acompañó fuera del valle y le advirtió que las sectas podían intentar reclamarlo. Kevin le contó que procedía de la Tierra y que aparecía involuntariamente en mundos distintos.
+- Zhao Wenyuan admitió que quería utilizar a Kevin para romper la raíz que sostenía la Escalera del Cielo. No fingió amistad ni prometió una salida: le mostró una injusticia real y una situación de rescate para inducirlo a acercarse a la válvula de la cantera.
+- Kevin se acercó para ayudar a rescatar a diecisiete trabajadores atrapados. La raíz reaccionó a su presencia y la presión comenzó a extenderse por el valle. Kevin no comprendía la válvula, la raíz ni las consecuencias.
+- Kevin descubrió que Zhao había preparado la situación y había omitido deliberadamente el alcance de su plan. Entendió que el anciano había diseñado las circunstancias para que la decisión pareciera de Kevin, aunque no conociera toda la información.
+- Durante la ruptura del Nudo de la Raíz, una manifestación de Kevin se extendió por los anillos y contribuyó a liberar el Río Invertido. No obtuvo control fiable ni dirigió conscientemente la corriente.
+- Jin Suyin abrió una salida a través de la montaña para permitir que los habitantes evacuaran. Kevin no pudo impedir su sacrificio y no presenció una recuperación posterior; Suyin se considera muerto según el desenlace narrado.
+- Kevin vio las consecuencias en el Valle de las Campanas, en la evacuación y en la pérdida de la anciana Qiao. La joven de la cicatriz y su hermano sobrevivieron; la madre de ambos continúa desaparecida.
+- Kevin no murió durante el capítulo ni se regeneró. Salió de Yunluo el día 4 a las 18:02, después de 82 horas y 42 minutos.
+- Kevin no sabe si la catástrofe habría podido evitarse sin su intervención. No conoce el destino de Zhao ni el mecanismo del Río Invertido. No sabe quién provocó el traslado ni si existe relación entre el río y los viajes.
+- Su desconfianza hacia quienes ofrecen ayuda interesada tiene ahora una experiencia concreta nueva: Zhao no necesitó fingir afecto; lo manipuló mediante verdades parciales, omisiones y una elección preparada.
