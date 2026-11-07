@@ -421,37 +421,40 @@ Kevin no es inherentemente malo, pero tampoco debe quedar encasillado como héro
 **Estado:** principio creativo aceptado para FIN. No determina todavía qué mundo destruirá Kevin deliberadamente ni cuándo ocurrirá; eso deberá surgir de una historia concreta.
 
 
-### Ampliación de la semilla 1: una soledad que nadie se atreve a atravesar
+### Ampliación de la semilla 1: la caminante cuya existencia corroe la vida
 
-La caminante no está simplemente aislada porque prefiera vivir lejos de los demás. Su poder actúa de manera involuntaria y mata a cualquier ser vivo que se acerque lo suficiente. No puede apagarlo a voluntad ni garantizar la seguridad de alguien que intente visitarla. Su territorio se ha convertido en un lugar al que nadie se aproxima.
+La caminante no tiene simplemente un aura que mata a quien se acerca unos metros. Su poder se comporta más como una contaminación viviente de escala ambiental: corroe y deteriora los procesos que permiten existir a los seres vivos. La exposición puede empeorar con la proximidad y el tiempo, pero el fenómeno también puede extenderse por el entorno y afectar territorios, aguas, ecosistemas y redes de vida. Su alcance exacto y sus mecanismos quedan abiertos; no convertirlo en una nube radiactiva literal ni fijar todavía una explicación científica.
 
-**Por qué nadie va a buscarla:**
-- Otros viajeros y desastres conocen su existencia, pero evitan su territorio porque acercarse significa morir. No es necesariamente miedo a que ella los ataque por voluntad propia: el peligro es su presencia misma.
-- La organización que vigila o captura desastres puede tener registros de ella, haber intentado estudiarla o haber perdido equipos y personas en acercamientos anteriores. No la ignora por falta de interés, sino porque no dispone de un método seguro para intervenir. Puede haber decidido establecer límites y vigilar a distancia en vez de enviar más gente a morir.
-- Ella tampoco puede recibir visitas ni acercarse a asentamientos sin poner en peligro a sus habitantes. Su aislamiento es una condición impuesta por su naturaleza, aunque con el tiempo haya aprendido a vivir dentro de ella.
+**La caída de su mundo:**
+- La contaminación llegó a extenderse hasta volver inhabitables enormes regiones y quebrar las civilizaciones que dependían de ellas. El planeta no necesita explotar ni quedar absolutamente muerto: pueden persistir zonas aisladas, formas de vida resistentes o comunidades remotas, siempre que su supervivencia tenga una explicación coherente.
+- No basta con decir que la gente murió al acercarse a ella. La destrucción debe mostrar cómo el fenómeno se propagó y cómo afectó la vida del mundo a una escala que superó la capacidad de respuesta de sus habitantes.
+- Al descubrir que ella estaba relacionada con el fenómeno, lo lógico fue intentar detenerla y matarla. Hubo ataques, expediciones y métodos de eliminación; algunos pudieron alcanzarla y herirla gravemente, incluso despedazar partes de su cuerpo. No debe asumirse que es físicamente invulnerable.
+- Esos intentos no consiguieron resolver la contaminación y pudieron empeorarla o demostrar que destruir su cuerpo no bastaba para detener el fenómeno. La razón exacta por la que sobrevivió y la relación entre su cuerpo y el poder siguen sin decidirse. No convertirla en inmortal sin establecerlo.
+- Con el tiempo, acercarse dejó de ofrecer una ganancia razonable: los riesgos eran enormes, las expediciones se perdían y no había recursos ni una solución conocida que justificaran seguir enviando gente.
 
-**Comunicación sin contacto:**
+**Por qué permanece en el planeta y qué intercambio pudo existir:**
 
-Después de intentos presenciales que terminaron en muertes, la comunicación con ella solo pudo establecerse mediante medios remotos: transmisores, sondas, equipos automáticos, pantallas, señales o sistemas instalados fuera del alcance de su poder. La primera conexión pudo requerir sacrificios para colocar o recuperar dispositivos, pero no convertir el sacrificio humano en un requisito constante para cada conversación. Con el tiempo pudieron diseñar un canal que no exigiera que nadie entrara en su radio mortal.
+Una posibilidad es que, cuando todavía quedaba una sociedad organizada, se alcanzara un acuerdo remoto: le proporcionarían información —libros, registros, historias, conocimientos, música, mapas y noticias de otros lugares— a cambio de que permaneciera en el planeta y no intentara trasladar el fenómeno a otros mundos. No sería una prisión ni una garantía de que pudieran controlarla; sería un pacto basado en un interés mutuo y en el peligro que supondría su salida.
 
-Esto le permite conocer voces, escuchar noticias y mantener conversaciones ocasionales, pero no compartir presencia física con nadie. Una transmisión puede apagarse; una voz puede despedirse. No sustituye la experiencia de tener a alguien delante.
+Ella podría aceptar porque siente curiosidad por lo que existe más allá de su mundo y porque entiende, al menos en parte, el riesgo de llevar su contaminación a otros lugares. La información sería algo que desea, no un mecanismo mágico para mantenerla obediente. Este intercambio puede haber terminado con la desaparición de quienes lo negociaron. Si continúa, podría hacerlo mediante sistemas automáticos que quedaron funcionando; no es obligatorio que exista comunicación activa ni que alguien siga supervisándola. También queda abierta la posibilidad de que ella permanezca allí por decisión propia, incluso después de que el acuerdo haya dejado de tener interlocutores.
 
-**El encuentro con Kevin:**
+**Kevin y la supresión parcial:**
 
-Cuando Kevin llega a su territorio y se aproxima, ella espera el resultado habitual: que muera. Pero él no cae. Su poder lo rechaza, intenta expulsarlo o entra en conflicto con su naturaleza, pero Kevin permanece vivo. La razón exacta no está decidida y no debe explicarse de inmediato como una inmunidad universal. Puede tratarse de una interacción particular entre ambas existencias: su efecto mortal no logra imponerse sobre Kevin, o la propia naturaleza de Kevin lo repele sin destruirlo.
+La idea central del encuentro es sencilla: el poder de Kevin podría suprimir o debilitar temporalmente parte del fenómeno que rodea a la caminante. No tiene por qué eliminarlo, curarla ni volverla segura para todos.
 
-La sorpresa de ella debe ser genuina. Quizá al principio repita pruebas pequeñas porque no comprende lo que está viendo; puede pensar que el canal, los sensores o sus propios sentidos están fallando. La posibilidad de hablar cara a cara con alguien no era algo que esperase volver a tener.
+- La supresión podría abrir un margen limitado en el que Kevin pueda acercarse o permanecer junto a ella sin sufrir el efecto habitual.
+- El fenómeno seguiría siendo mortal para otros seres vivos y podría continuar activo en otras zonas del planeta. No se convierte automáticamente en una cura global.
+- La supresión puede ser incompleta, inestable o temporal. No está decidido si Kevin la provoca conscientemente, si ocurre por proximidad o si es una interacción involuntaria entre ambos poderes.
+- No debe establecerse una inmunidad universal de Kevin frente a cualquier contaminación o poder semejante. Esta interacción puede ser particular de ambos.
+- La caminante puede sorprenderse al descubrir que el efecto se debilita a su alrededor, pero ni ella ni Kevin tienen por qué comprender de inmediato qué está ocurriendo.
 
-**La relación no debe convertirse en obsesión ni dependencia instantánea:**
-- Su larga soledad puede hacer que la presencia de Kevin le importe mucho, pero no debe reducir toda su personalidad a querer retenerlo.
-- Puede sentir curiosidad, alivio, cautela, vergüenza por no saber relacionarse en persona o temor a que la situación termine.
-- Debe conservar intereses, criterio, recuerdos, humor, límites y objetivos propios. No existe únicamente para acompañar o necesitar a Kevin.
-- Kevin tampoco tiene que convertirse automáticamente en su salvador, terapeuta o compañero permanente. Puede tratarla como una persona y no como un fenómeno, pero la relación se construye con tiempo y decisiones mutuas.
-- Ella puede descubrir que la compañía le gusta y, al mismo tiempo, seguir siendo capaz de aceptar que Kevin tiene que marcharse. Su crecimiento consiste en reconsiderar lo que creía imposible, no en volverse posesiva.
+**Vínculo sin convertirla en compañera automática:**
 
-**Contradicción dramática:** la primera persona que puede acercarse a ella sin morir es también un viajero cuya presencia puede causar catástrofes. La oportunidad de dejar de estar sola llega acompañada por alguien que quizá no pueda quedarse, que puede ser peligroso para otros y cuya naturaleza tampoco comprende. La relación no borra el riesgo que ella representa ni el que Kevin representa.
+Que Kevin pueda acercarse no significa que ella pueda viajar con él. Si la contaminación sigue activa y puede extenderse con su presencia, abandonar el planeta pondría en peligro cualquier lugar habitado al que llegara. Puede desarrollar curiosidad, confianza o afecto por Kevin y disfrutar de una compañía que nunca había tenido, sin que eso la convierta en su acompañante permanente. Su salida del planeta, si alguna vez ocurre, tendría que ser una decisión excepcional con consecuencias reales, no un paso natural después de conocerlo.
 
-**Estado:** ampliación provisional de la semilla 1, a partir de la propuesta del usuario. Sin nombre, apariencia, mundo, radio o mecanismo exacto del poder, historia de los intentos de comunicación ni explicación definitiva de la interacción con Kevin. No asignar capítulo todavía.
+Debe conservar identidad, intereses, criterio, recuerdos, humor y límites propios. Su personalidad no se reduce a la soledad ni a esperar que Kevin la rescate. Tampoco se debe decidir todavía si es muy instruida, socialmente inexperta o una mezcla de ambas; esas características se desarrollarán cuando se diseñe el personaje.
+
+**Estado:** ampliación provisional de la semilla 1. La contaminación de escala ambiental, los intentos de eliminarla, el posible acuerdo de información a cambio de permanecer en el planeta y la supresión parcial por parte de Kevin son líneas de desarrollo, no hechos narrativos establecidos. Sin nombre, apariencia, mundo, alcance exacto, mecanismo de supervivencia, límites de la supresión ni capítulo asignado.
 
 
 ### Ampliación de la semilla 2: clasificación de desastres sin una escala universal de poder
