@@ -365,3 +365,20 @@ El mecanismo que desplaza a Kevin es una trama de fondo todavía sin explicació
 Kevin puede aprender a usar su poder para defenderse, atacar o actuar de manera deliberada. El aprendizaje debe ser gradual, irregular y costoso; intentar protegerse puede provocar devastación. No convertir el control en una progresión obligatoria ni en una solución segura.
 
 La convivencia con seres que contemplan sacrificios masivos, manipulan civilizaciones o consideran aceptable utilizarlo como herramienta puede deformar progresivamente su sentido común y su percepción de lo normal. Mostrar esa transformación mediante experiencias, decisiones, vínculos, contradicciones y consecuencias. No cambiarlo de golpe ni convertirlo automáticamente en alguien cruel o indiferente. Su capacidad de morir y regenerarse sigue siendo distinta de su poder destructivo.
+
+
+## 12. Escala real y autonomía de los mundos
+
+La amplitud de un mundo no se demuestra solo con cifras, nombres de continentes o mapas. Debe sentirse en la historia. Cada mundo tiene que poseer una vida propia, una geografía extensa y múltiples centros de poder y conflicto.
+
+- Diseñar una escala coherente con su naturaleza: planetaria, dimensional, continental, oceánica, subterránea, espiritual, infernal, celestial o una combinación original. No todos los mundos tienen que ser planetas convencionales.
+- Crear diversidad interna real: pueblos, especies, culturas, ecosistemas, civilizaciones, órdenes, sectas, clanes, dominios, reinos, imperios, ciudades vivientes, territorios salvajes o estructuras que no correspondan a categorías humanas.
+- Distribuir las potencias y organizaciones por regiones distintas. Un mundo de cultivo o Murim puede tener sectas y maestros separados por cordilleras y mares; un mundo de dioses puede contener panteones rivales y dominios divinos; un mundo de dragones puede organizarse por linajes, territorios y jerarquías ancestrales; un mundo demoníaco puede tener sus propias leyes, especies y conflictos. Son ejemplos, no moldes obligatorios.
+- Los conflictos locales y antiguos deben existir antes de Kevin y continuar aunque él no esté presente. Puede irrumpir en una guerra, una sucesión, una disputa entre dioses, una rebelión, una migración o una amenaza que ya estaba en marcha.
+- Mostrar acontecimientos lejos de Kevin cuando ayuden a revelar la escala: decisiones de figuras remotas, guerras paralelas, consecuencias ecológicas, noticias tardías, rutas interrumpidas, movimientos de criaturas o facciones y respuestas que llegan desde otros territorios.
+- Respetar distancias, medios de comunicación, tiempos de viaje y límites de conocimiento. Nadie aparece en el lugar adecuado solo porque la trama lo necesita.
+- No es obligatorio mostrar cada región ni llenar el capítulo de exposición enciclopédica. La escala debe surgir de escenas concretas, consecuencias y perspectivas con propósito.
+- No convertir todos los mundos en civilizaciones humanas con gobiernos, ejércitos y consejos. La forma de organización debe nacer de la naturaleza y cultura de cada realidad.
+- No concentrar a todos los personajes relevantes en una ciudad, prisión, capital o arena. La crisis puede tener frentes simultáneos y respuestas independientes.
+- Un mundo puede resistir, expulsar o contener a Kevin, negociar con él, manipularlo, utilizarlo o fracasar. La destrucción no es un resultado obligatorio.
+- El capítulo 9, Nharos, no se modifica retroactivamente. La escala insuficientemente visible de ese capítulo queda registrada como aprendizaje de construcción para los siguientes mundos.
