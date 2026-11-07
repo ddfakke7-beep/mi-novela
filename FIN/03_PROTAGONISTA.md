@@ -254,3 +254,18 @@ Al cierre del capítulo 8, Kevin no ha muerto en escena, no ha sido decapitado y
 - Kevin destruyó el núcleo mediante varias manifestaciones destructivas. No consiguió control preciso ni comprendió cómo había producido el efecto.
 - Vio registros de una figura humanoide que llegó a la estructura central antes de la desaparición de las ciudades y se marchó después. Kevin no conoce su identidad, propósito ni naturaleza. No sabe si esa figura viaja entre mundos ni si guarda relación con él.
 - La experiencia no le enseñó a controlar su poder de forma fiable. Sí confirmó que puede verse obligado a combatir para detener una amenaza que no deja de perseguirlo y que la regeneración no elimina el dolor ni el tiempo que permanece muerto.
+
+
+## Experiencia confirmada al cierre del capítulo 16 — Talmera
+
+- Kevin llegó a Talmera el día 1 a las 08:14, en el distrito de las Agujas, ciudad de Tersal, continente de Sarn. Desapareció el día 3 a las 19:42. Su estancia duró 59 horas y 28 minutos.
+- Talmera es un mundo donde algunas personas nacen con Rasgos, capacidades individuales surgidas después de la Lluvia de Cobalto. Sus héroes públicos se conocen como Faros; los Vigías, equipos de rescate, guardias y técnicos también protegen a la población. Kevin no conocía este mundo ni sus instituciones al llegar.
+- Su manifestación inicial dañó parte de un tejado y una plataforma cuando una línea del Nudo de la Retirada alcanzó el edificio donde se encontraba. Dalia Sen rescató a las personas que quedaron en peligro.
+- Los Vigías detectaron que Kevin no tenía un Rasgo local identificable, aunque su llegada y su presencia interferían con el Nudo y con los campos de contención. No comprendieron la naturaleza de esa interferencia.
+- Kevin fue detenido y mantenido inmóvil mediante un campo de peso sostenido por doce columnas desde el día 1 a las 19:05 hasta el día 3 a las 02:35, aproximadamente 31 horas y 30 minutos. Podía hablar y respirar, pero no podía marcharse por sí mismo. La contención se desactivó gradualmente; su regeneración no intervino.
+- Kevin aceptó voluntariamente ayudar cuando Dalia le explicó que la convergencia entre la ciudad actual y la ciudad desaparecida amenazaba a ambas poblaciones.
+- Durante la crisis, una manifestación de Kevin cortó una de las conexiones del Nudo. No fue un uso preciso ni controlado; no sabe cómo lo consiguió ni si podría repetirlo.
+- Vio morir a Tavan Rhem, Faro número 6, que sostuvo el eje de la ciudad para permitir la evacuación. Kevin no fue quien lo mató; Tavan murió por el daño interno causado por su propio Rasgo.
+- Talmera sobrevivió. Una sección de la ciudad desaparecida no regresó y no se confirmó el destino de todos sus habitantes. Kevin no murió ni se regeneró en este capítulo.
+- Kevin vio a personas con capacidades extraordinarias que utilizaban sus poderes para rescatar, proteger y coordinar a la población. No concluyó que todos los héroes fueran buenos ni que la fama equivaliera a poder.
+- No conoció ninguna organización multiversal, al restaurador de mundos ni a otros viajeros. No sabe el origen de la Retirada ni su relación exacta con su poder.
