@@ -269,3 +269,20 @@ Al cierre del capítulo 8, Kevin no ha muerto en escena, no ha sido decapitado y
 - Talmera sobrevivió. Una sección de la ciudad desaparecida no regresó y no se confirmó el destino de todos sus habitantes. Kevin no murió ni se regeneró en este capítulo.
 - Kevin vio a personas con capacidades extraordinarias que utilizaban sus poderes para rescatar, proteger y coordinar a la población. No concluyó que todos los héroes fueran buenos ni que la fama equivaliera a poder.
 - No conoció ninguna organización multiversal, al restaurador de mundos ni a otros viajeros. No sabe el origen de la Retirada ni su relación exacta con su poder.
+
+
+## Experiencia confirmada al cierre del capítulo 17 — Nereth
+
+- Kevin llegó a Nereth el día 1 a las 06:11, sobre la vela de una barca funeraria que cruzaba el Mar de Ceniza. Desapareció el día 4 a las 20:07. Su estancia duró 85 horas y 56 minutos.
+- Nereth es un mundo de cuatro grandes masas continentales, un océano interior y dos mares exteriores. Está habitado por pueblos no humanos: oru, kharad, seyri y moru, con culturas, geografías y autoridades distintas.
+- Al llegar, Kevin dañó una barca funeraria que transportaba el cuerpo de Dhor, hermano de Ishra. Una polilla de ceniza —un lúmen, huella incompleta de las últimas memorias de un muerto— lo tocó y provocó una manifestación. La barca se partió y el eco de Dhor se dispersó.
+- Kevin abrió otro corte en una corriente de lúmenes en una llanura de sal. Los habitantes interpretaron que su presencia interfería con la corriente funeraria, pero nadie comprendió el mecanismo.
+- La Campana de Oru llevaba tres siglos reteniendo los lúmenes antes de que alcanzaran el Mar Quieto. Los ecos no eran personas completas ni podían resucitar a los muertos. Su acumulación y mezcla permitió que algunos entraran en cuerpos vivos y desplazaran recuerdos e identidad.
+- Othar, custodio mayor, abrió el anillo interior intentando dar cuerpos a los ecos. La decisión aceleró la marea y puso en peligro a las cuatro regiones de Nereth. Kevin no aceptó convertirse en recipiente ni absorber los ecos.
+- Kevin conoció a Neris, el eco de la hija fallecida de Othar. Neris le explicó que era una huella incompleta, no la persona que había sido, y pidió que la dejaran ir.
+- Durante la crisis, una manifestación de Kevin abrió un corte en la plaza y dañó la base de una torre. En el desenlace, decidió intervenir y cortó los anillos de la Campana. No fue un uso preciso ni controlado; no sabe cómo lo consiguió ni si podría repetirlo.
+- La ruptura permitió que Veyra, criatura antigua vinculada a la corriente, abriera el cauce y condujera los lúmenes hacia el Mar Quieto. Los ecos retenidos se disolvieron. Algunas personas afectadas conservaron lagunas de memoria y otras perdieron fragmentos de identidad.
+- Kevin vio morir a Khal Ordan, maestro de las galerías de Khar, durante la defensa de la plaza. No fue Kevin quien lo mató; Khal recibió el impacto de la figura colectiva de lúmenes.
+- Othar sobrevivió herido. Ishra, Seyra y Veyra sobrevivieron; Veyra quedó herida. Nereth sobrevivió y sus rutas funerarias volvieron a funcionar.
+- Kevin no murió ni se regeneró en este capítulo. Comprendió que conservar recuerdos de los muertos puede convertirse en una amenaza para los vivos, pero no sabe si destruir la Campana era la única solución.
+- No conoció al restaurador de mundos, a una organización multiversal ni a otros viajeros. No sabe quién provoca sus traslados ni conoce la naturaleza profunda de la corriente funeraria.
