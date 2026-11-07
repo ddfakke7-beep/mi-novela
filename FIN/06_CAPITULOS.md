@@ -193,3 +193,21 @@ Si existe cualquier duda, consultar el capítulo original. Si el texto no confir
 - **Personajes:** Sarith sobrevivió y perdió la mano derecha; Maraith sobrevivió y regresó a las Cenizas; Veyrahn desapareció con registros; Othrek desapareció durante la ruptura; Iria sobrevivió y se reunió con su hermano; Varkun murió sosteniendo el anclaje oriental; Akh-Mor sigue vivo y encadenado.
 - **Estado de Kevin:** murió físicamente por primera vez en escena y regresó mediante regeneración. No conoció el mecanismo ni estuvo consciente durante la recuperación. Intentó contener una manifestación después, sin conseguir control fiable.
 - **Estado:** capítulo completo, guardado en Markdown. Primer capítulo de FIN cuyo mundo no colapsa ni es destruido.
+
+## 16. Criterio de escala para los próximos capítulos
+
+La amplitud de un mundo debe sentirse en escenas y consecuencias, no solo en su descripción inicial. Evitar que una realidad supuestamente planetaria parezca una ciudad o una única región.
+
+Al registrar cada capítulo futuro, anotar:
+- Qué escala tiene el mundo y cómo se organiza geográfica o metafísicamente.
+- Qué regiones, culturas, especies o civilizaciones distintas aparecen.
+- Qué centros de poder existen lejos de Kevin.
+- Qué conflictos previos continúan en paralelo a la crisis principal.
+- Cómo viaja la información y cuánto tardan en reaccionar las regiones.
+- Qué personajes y facciones actúan sin depender directamente de Kevin.
+- Qué partes del mundo resultan afectadas y cuáles permanecen fuera del conflicto.
+- Qué consecuencias y tramas sobreviven a la partida de Kevin.
+
+No se exige mostrar todos los territorios ni introducir escenas remotas por obligación. Sí se exige que el mundo tenga una escala real y coherente detrás de lo que se muestra.
+
+**Nota de continuidad:** Nharos, capítulo 9, conserva exactamente los acontecimientos narrados. Su crisis estuvo concentrada alrededor de la prisión de Akh-Mor y no transmitió suficiente amplitud planetaria. No añadir escenas o regiones retroactivas. Los próximos mundos aplicarán el criterio reforzado.
