@@ -274,3 +274,37 @@ La frontera quedó parcialmente abierta como una cicatriz oscura. Othrek desapar
 **Balance provisional:** 9.840 muertos confirmados, 6.200 desaparecidos, 18.500 heridos y 31.000 evacuados. Los registros no cubren todos los frentes y puede haber duplicaciones en traslados de trabajadores; heridos y evacuados pueden solaparse.
 
 **Supervivientes:** Sarith sobrevivió con la mano derecha perdida; Maraith regresó a las Cenizas; Iria se reunió con su hermano; Veyrahn desapareció con registros; Othrek desapareció; Akh-Mor sigue vivo y encadenado. Varkun murió sosteniendo el anclaje oriental.
+
+
+## 15. Escala, densidad y autonomía de cada mundo
+
+Una ficha con muchos territorios no garantiza que el mundo se sienta grande. La escala debe ser perceptible en la narración y en la continuidad.
+
+### Requisitos de construcción
+- Definir la escala física o metafísica de la realidad: planeta, conjunto de continentes, océanos, plano, dimensión, reino espiritual, mundo subterráneo, universo cerrado u otra estructura coherente.
+- Establecer distancias y barreras relevantes: mares, cordilleras, vacíos, portales, planos, regiones inhabitables, rutas comerciales, caminos de cultivo, corrientes mágicas o fronteras entre dominios.
+- Diseñar varios centros de civilización y poder, no una única capital que represente a todo el mundo.
+- Dar identidad propia a las regiones: especies, culturas, lenguas o códigos, arquitectura, ecosistemas, costumbres, jerarquías, recursos y conflictos.
+- Distribuir personajes y facciones importantes. Las máximas potencias pueden encontrarse a distancias enormes y tener motivos para no intervenir.
+- Incluir vida y conflictos que no dependan de Kevin. El mundo no empieza a existir cuando él llega y no deja de existir cuando se marcha.
+- Hacer que las consecuencias se propaguen de manera desigual. Una región puede sufrir destrucción directa, otra recibir refugiados, otra aprovechar la crisis y otra permanecer aislada durante todo el capítulo.
+- Usar perspectivas alejadas de Kevin para mostrar acontecimientos con valor dramático, no como un mapa hablado o una enciclopedia.
+- La cantidad de población, territorio o entidades poderosas debe ser coherente con la escala presentada. No afirmar que hay civilizaciones planetarias y luego representar su respuesta con una docena de personajes en una sola fortaleza.
+
+### Diversidad sin plantillas
+Los mundos pueden ser murim, de cultivo, divinos, demoníacos, dracónicos, infernales, de fantasía, tecnológicos, de criaturas, de civilizaciones no humanas o mezclas originales. No traducir todas sus estructuras a reinos, países, gobiernos y ejércitos humanos. Un dios puede gobernar un ciclo natural, una secta puede ser una civilización itinerante, un dragón puede custodiar una región viva y una ciudad puede ser una criatura. La lógica local decide.
+
+### Autonomía temporal
+Los conflictos de cada mundo deben tener pasado y futuro. Los supervivientes pueden continuar guerras, reconstrucciones, venganzas, investigaciones, alianzas o disputas después de la partida de Kevin. No resolverlos todos en el capítulo ni asumir que el transporte de Kevin borra sus consecuencias.
+
+### Control de escala
+Antes de narrar un mundo, comprobar:
+1. ¿Se siente extenso más allá del lugar de llegada?
+2. ¿Hay más de un centro de vida, poder o conflicto?
+3. ¿Las regiones tienen identidades y objetivos propios?
+4. ¿Las distancias y comunicaciones afectan los acontecimientos?
+5. ¿Existen personajes poderosos que no están al lado de Kevin?
+6. ¿El mundo tiene conflictos que seguirían existiendo sin él?
+7. ¿El desenlace afecta al mundo de manera proporcionada y no necesariamente lo destruye?
+
+No es necesario mostrar cada elemento en todos los capítulos, pero la construcción debe tener respuestas coherentes para ellos.
