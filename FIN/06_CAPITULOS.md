@@ -44,6 +44,7 @@ El capítulo 1 ya está escrito y guardado en FIN/CAPITULOS/01_VEYRA_EL_MUNDO_QU
 | 8 | Naereth, el reino que encerró la noche | Naereth | Completo |
 | 9 | Nharos, el mundo que no podía morir | Nharos | Completo |
 | 10 | Taurak, el mundo que expulsó al desastre | Taurak | Completo |
+| 11 | Yunluo, el mundo que alimentaba a sus inmortales | Yunluo | Completo |
 
 ## 5. Desarrollo y responsabilidad creativa
 
@@ -230,3 +231,21 @@ No se exige mostrar todos los territorios ni introducir escenas remotas por obli
 - **Personajes:** Seyra sobrevivió; Vaeruun sobrevivió debilitada; Khevar desapareció en las fosas del norte; Rhaum sobrevivió herido; Othra fue rescatada; Dhur-Khal sobrevivió con una pérdida sensorial; Neyra tiene destino no confirmado. El Primer Aliento continúa dormido.
 - **Estado de Kevin:** no murió en este capítulo. Fue expulsado deliberadamente y no sabe dónde terminó ni cómo funcionó el mecanismo.
 - **Estado:** capítulo completo, guardado en Markdown. Segundo mundo que no colapsa y primero que consigue expulsar a Kevin.
+
+## 18. Resumen del capítulo 11
+
+- **Archivo:** `FIN/CAPITULOS/11_YUNLUO_EL_MUNDO_QUE_ALIMENTABA_A_SUS_INMORTALES.md`.
+- **Mundo:** Yunluo, mundo de cultivo con cinco continentes, un océano interior, venas espirituales, nueve grandes sectas, monasterios itinerantes y clanes de bestias espirituales.
+- **Llegada y salida:** Kevin llegó al Valle de las Campanas, Lianshu, el día 1 a las 07:20. Salió el día 4 a las 18:02. Estancia total: 82 horas y 42 minutos.
+- **Conflicto previo:** la Escalera del Cielo y sus palacios inmortales se alimentaban de la energía extraída de las venas espirituales. Las comunidades bajo las montañas pagaban el coste. Zhao Wenyuan quería destruir el sistema.
+- **Primer incidente:** Kevin intentó rescatar a un niño de una corriente y una manifestación deshizo parte de un canal del Valle de las Campanas.
+- **Personajes centrales:** Jin Suyin, cultivador errante que acompañó a Kevin; Zhao Wenyuan, antiguo cultivador que lo manipuló; Han Ruo, guardián del valle; Madre Qiao, anciana que repartía arroz; la joven de la cicatriz y su hermano, atrapado en la cantera; la maestra de la Garza Roja y el Señor de la Cumbre Vacía.
+- **Manipulación:** Zhao no fingió amistad. Admitió que necesitaba a Kevin, le mostró injusticias reales y una situación de rescate, y omitió que la raíz podía liberar una corriente capaz de devorar las venas espirituales. Preparó las circunstancias para que Kevin eligiera acercarse a la válvula por voluntad propia.
+- **Rescate:** Kevin se acercó a la válvula de la cantera para ayudar a rescatar a diecisiete trabajadores. La raíz reaccionó a su presencia; los diecisiete salieron, pero la presión se propagó por el valle.
+- **Crisis mundial:** el Río Invertido entró en las venas principales. La Escalera del Cielo se quebró y sus palacios cayeron. Los combates contra los inmortales se desarrollaron en distintas regiones; los clanes de bestias y monasterios defendieron sus territorios.
+- **Resultado:** Yunluo sobrevivió físicamente, pero el antiguo orden de cultivo quedó quebrado. Tres grandes sectas dejaron de existir como organizaciones y seis se fracturaron. La energía espiritual cambió en cuatro continentes.
+- **Consecuencias vividas:** la evacuación del Valle de las Campanas, la muerte de Madre Qiao, la pérdida del hogar de la joven de la cicatriz y la desaparición de su madre, la pérdida del mar interior de la maestra de la Garza Roja y las comunidades aisladas muestran parte del coste. La joven y su hermano sobrevivieron.
+- **Balance provisional:** 31.700 muertos confirmados, 18.900 desaparecidos, 52.000 heridos y 416.000 desplazados o evacuados. Registros incompletos; no se suman desaparecidos como muertos y heridos/desplazados pueden solaparse.
+- **Personajes y destinos:** Jin Suyin murió abriendo una salida para la evacuación; Zhao Wenyuan fue absorbido por el Río Invertido, sin restos recuperados; Han Ruo sobrevivió; Madre Qiao murió; la joven y su hermano sobrevivieron; la maestra de la Garza Roja sobrevivió sin poder cultivar; el Señor de la Cumbre Vacía sobrevivió y se retiró; el Patriarca de la Escalera tiene destino no confirmado.
+- **Estado de Kevin:** no murió ni se regeneró. No obtuvo control fiable de su poder. Comprendió que Zhao lo manipuló mediante verdades parciales y una decisión preparada, pero no sabe si la catástrofe habría podido evitarse sin su intervención.
+- **Estado:** capítulo completo, guardado en Markdown. Yunluo es el tercer mundo que sobrevive a la crisis, aunque pierde su antiguo orden de cultivo.
