@@ -407,3 +407,28 @@ La escala mundial se narra, no se declara. Un mapa con varios continentes no bas
 - Evitar el desfile de nombres y cifras sin escenas. Es preferible conocer tres lugares con identidad y conflictos reales que enumerar veinte territorios vacíos.
 - La respuesta a Kevin no tiene por qué ser mundial ni unificada. Puede haber regiones que lo ignoren, facciones que quieran aprovecharlo, potencias que intenten expulsarlo y otras que decidan no intervenir.
 - El desenlace no debe confundirse con la destrucción obligatoria del mundo. Una expulsión o contención exitosa puede salvarlo, aunque deje daños enormes y conflictos abiertos.
+
+## 14. Las consecuencias deben vivirse en escena
+
+La escala de una catástrofe no se transmite solo con mapas, nombres de regiones o cifras al final. El lector debe experimentar una parte de lo que esos datos significan para quienes viven en el mundo.
+
+- Antes o durante la crisis, presentar comunidades reconocibles con actividades, relaciones, necesidades y conflictos concretos. No tienen que ser protagonistas de todo el capítulo; deben tener suficiente presencia para que sus cambios importen.
+- Retomar a algunos de esos personajes cuando la crisis avance. Mostrar qué intentan salvar, a quién buscan, qué decisiones toman, qué pierden y qué consiguen conservar.
+- Hacer que el daño material altere vidas de manera comprensible: perder un molino puede dejar a una aldea sin harina; perder una ruta puede separar familias y cortar medicinas; perder una vena espiritual puede acabar con una técnica, una cosecha o una especie que dependía de ella.
+- Dar rostro a las cifras mediante escenas, no mediante explicaciones añadidas al balance. No es necesario individualizar a todas las víctimas, pero sí mostrar comunidades y personas concretas.
+- Los balances deben ser consecuencia de daños narrados y de la extensión plausible del desastre. Evitar grandes cifras que aparecen al final sin una cadena visible de acontecimientos que las sostenga.
+- No abusar de escenas de muerte. La espera, la incertidumbre, la evacuación, el desplazamiento, la pérdida de una forma de vida y la reconstrucción también transmiten consecuencias.
+- Los mundos que sobreviven necesitan mostrar qué cambió para sus habitantes, no solo declarar que conservaron sus civilizaciones.
+
+## 15. Manipuladores, engaños y voluntades en conflicto
+
+Los antagonistas y personajes ambiguos pueden ser más eficaces cuando no parecen antagonistas desde el primer encuentro. No todos deben revelar sus planes ni ofrecer tratos sospechosos de inmediato.
+
+- Construir credibilidad con hechos: ayudar de verdad en una situación, cumplir una promesa pequeña, aportar información comprobable o asumir un coste propio.
+- Permitir que un personaje diga abiertamente que tiene un interés en Kevin, sin revelar necesariamente el alcance de su plan. La franqueza parcial puede ser más convincente que una falsa amistad.
+- Utilizar medias verdades, omisiones y marcos de decisión: presentar dos opciones reales cuando el manipulador ha preparado las condiciones para que ambas le favorezcan; mostrar un peligro verdadero y ocultar otro; permitir que Kevin llegue por sí mismo a una conclusión incompleta.
+- La manipulación debe respetar la inteligencia ordinaria de Kevin. Puede preguntar, desconfiar y aun así no conocer datos que el otro personaje tiene motivos para ocultar.
+- Dar al manipulador objetivos propios, razones comprensibles, límites y capacidad de improvisar. No debe controlar cada variable ni anticipar todas las reacciones.
+- Una buena revelación retrospectiva debe permitir reconocer las pistas anteriores sin convertirlas en una explicación arbitraria. El lector debe poder entender qué información se ocultó y por qué Kevin no pudo verla.
+- La traición no tiene que ser siempre un giro sorpresivo: puede ser una relación de intereses incompatibles en la que ambos conocen parte del riesgo y aun así continúan.
+- Mostrar el precio de la manipulación para quienes la ejecutan y para quienes quedan atrapados en ella.
