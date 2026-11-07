@@ -52,6 +52,7 @@ El capítulo 1 ya está escrito y guardado en FIN/CAPITULOS/01_VEYRA_EL_MUNDO_QU
 | 16 | Talmera, el mundo que aprendió a ser héroe | Talmera | Completo |
 | 17 | Nereth, el mundo que no dejaba ir a sus muertos | Nereth | Completo |
 | 18 | Odrava, el mundo que seguía a las estaciones | Odrava | Completo |
+| 19 | Mairen, el mundo que cerraba sus heridas | Mairen | Completo |
 
 ## 5. Desarrollo y responsabilidad creativa
 
@@ -385,3 +386,20 @@ No se exige mostrar todos los territorios ni introducir escenas remotas por obli
 - **Balance provisional:** 12.600 muertos confirmados, 8.300 desaparecidos, 31.000 heridos y 214.000 evacuados o desplazados. Las categorías pueden solaparse.
 - **Salida:** Kevin desapareció sin que los habitantes supieran si había muerto, sido expulsado o trasladado. No hubo despedida ni conocimiento local automático del mecanismo de viaje.
 - **Archivo:** `FIN/CAPITULOS/18_ODRAVA_EL_MUNDO_QUE_SEGUIA_A_LAS_ESTACIONES.md`.
+
+
+## 27. Resumen del capítulo 19 — Mairen
+
+- **Mundo:** Mairen, mundo vivo de cinco continentes y una red orgánica planetaria llamada la Médula. Puede regenerar parte de sus estructuras, aislar regiones y construir defensas autónomas.
+- **Llegada y salida:** Kevin llegó el día 1 a las 02:14 y desapareció el día 3 a las 18:02. Estancia total: 63 horas y 48 minutos.
+- **Crisis previa:** Ivara había llegado ciento dieciséis años antes. Su existencia deteriora los procesos que sostienen la vida y la contaminación se extendió por enormes regiones, contribuyendo al colapso de la civilización original. La Médula aisló la Cuenca de la Ceniza.
+- **Historia de incursiones:** los archivos registran seis incursiones anteriores. La Médula mató algunas amenazas, expulsó otras y mantuvo al menos una encerrada. El mundo había desarrollado protocolos y estructuras de defensa; no todas las incursiones eran iguales.
+- **Encuentro:** Kevin conoció a Ivara, una caminante experimentada, curiosa y directa. Había aceptado permanecer en la cuenca y no trasladar la contaminación a otros mundos a cambio de recibir información. El sistema automático de archivos sigue entregando registros antiguos.
+- **Interacción entre poderes:** la contaminación se debilitó temporalmente alrededor de Kevin. Ivara pudo acercarse sin deteriorar de inmediato muestras vivas. Kevin intentó mantener el efecto intencionalmente, pero no pudo garantizarlo. No se estableció inmunidad universal ni una cura.
+- **Defensa y enfrentamiento:** la Médula atacó a Ivara y Kevin. Atravesó el costado de Ivara y atrapó a Kevin. Sus reacciones autónomas dañaron parte de las estructuras.
+- **Decisión de Kevin:** enfocó su intención en liberar a Ivara de una estructura. El poder cortó una conexión principal del nodo defensivo y abrió una ruta secundaria para la contaminación, un efecto mucho mayor que el objetivo inmediato.
+- **Respuesta del mundo:** comunidades de Ordal, Neth y Ura cortaron conexiones, protegieron semillas y aislaron sus asentamientos. La Médula sacrificó parte de su red y volvió a confinar la cuenca.
+- **Resultado:** Mairen sobrevivió, pero perdió una raíz principal y varias rutas secundarias que tardarán décadas en regenerarse. La contaminación de Ivara sigue activa. Las civilizaciones y especies desaparecidas no fueron recuperadas.
+- **Personajes:** Ivara permanece en Mairen; Dema sobrevivió y coordinó el aislamiento de Ordal; comunidades de Neth y Ura actuaron por sus propios medios.
+- **Estado de Kevin:** no murió ni se regeneró. Conserva el pequeño dragón de madera de Eren, de Tiravel. No conoce el origen de Ivara, el mecanismo de la supresión parcial ni el funcionamiento profundo de la Médula.
+- **Archivo:** `FIN/CAPITULOS/19_MAIREN_EL_MUNDO_QUE_CERRABA_SUS_HERIDAS.md`.
