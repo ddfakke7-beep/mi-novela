@@ -18,7 +18,7 @@ Su llegada y sus acciones desencadenan catástrofes que pueden acabar con la civ
 - El usuario establece esta personalidad inicial; ChatGPT desarrolla su evolución psicológica a través de las experiencias narradas.
 - Conserva sus recuerdos y su personalidad inicial.
 - No necesariamente tiene intención de destruir.
-- Al principio no comprende el alcance de su poder ni sabe controlarlo bien.
+- No comprende el alcance de su poder. Por su propia naturaleza, nunca podrá controlarlo.
 - Su poder es desproporcionadamente grande y puede provocar consecuencias catastróficas incluso cuando no busca destruir.
 - El poder no puede controlarse ni dominarse. Kevin puede aprender a enfocar su intención hacia aquello que quiere que resulte afectado, pero no dirige la manifestación ni decide cómo actuará o qué consecuencias tendrá. La mejora está en su iniciativa, sus decisiones y su comprensión parcial del peligro, no en adquirir mando sobre la fuerza.
 - No convertirlo automáticamente en villano consciente ni en héroe. Sus decisiones deben ser coherentes con lo que sabe, percibe, desea y siente en cada momento.
@@ -428,7 +428,7 @@ Los seres poderosos pueden buscar escapar de su mundo, ascender a planos superio
 
 Kevin puede irrumpir en esos conflictos como una variable inesperada, un testigo, un obstáculo secundario, una oportunidad que alguien decide aprovechar o alguien que simplemente intenta sobrevivir. No convertir automáticamente a todos los poderosos en defensores de su mundo ni en personas que desean utilizarlo.
 
-## 18. Control, origen y experiencia no son lo mismo
+## 18. Intención, origen y experiencia no son lo mismo
 
 Distinguir entre magnitud del poder, dominio técnico, experiencia, resistencia, conocimiento y objetivos. Kevin puede poseer una capacidad inmensa y carecer de experiencia. Un rival puede tener una fuerza comparable y un control mucho más refinado. Otro puede ser menos destructivo y aun así ser capaz de derrotarlo mediante condiciones, técnicas o preparación. No inferir superioridad total a partir de una sola dimensión.
 
