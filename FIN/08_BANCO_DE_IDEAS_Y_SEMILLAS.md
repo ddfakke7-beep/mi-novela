@@ -208,6 +208,48 @@ La relación puede desarrollarse desde una necesidad práctica —Kevin es la op
 
 ---
 
+## 8. Un destructor que decidió proteger un mundo
+
+**Origen de la idea:** propuesta creativa del asistente, aceptada por el usuario como semilla para FIN.
+
+Un ser que durante una parte importante de su existencia destruyó mundos. No necesariamente por crueldad: pudo hacerlo por ambición, necesidad, convicción, naturaleza o una lógica que los habitantes de esos mundos nunca pudieron aceptar. En algún momento, sin embargo, encuentra un mundo que decide proteger.
+
+El motivo todavía no está definido y debe nacer de la historia del personaje, no de una redención automática. Puede haberse encariñado con una persona, una especie, una civilización, una criatura, un lugar o incluso con una forma de vida que considera irrepetible. También puede protegerlo por una promesa, una deuda, un sentido de pertenencia o una razón que ni él mismo sabe explicar del todo.
+
+**Contradicciones que deben conservarse:**
+- Su pasado no desaparece porque ahora proteja algo. Los mundos que destruyó no vuelven y sus supervivientes pueden seguir odiándolo con razón.
+- No tiene por qué haberse vuelto bondadoso. Puede seguir siendo orgulloso, peligroso, cruel con sus enemigos o capaz de tomar decisiones terribles para defender aquello que considera suyo.
+- Su mundo protegido puede no conocer su pasado completo, o conocerlo y vivir dividido entre gratitud, miedo y rechazo.
+- Otros cazadores o defensores pueden seguir considerándolo una amenaza legítima. Que proteja un mundo no borra el peligro que representa para los demás.
+- Puede reconocer en Kevin algo familiar, pero no tiene que convertirse en su mentor ni compartir sus conclusiones sobre él.
+
+**Potencial dramático:** Kevin podría conocer a este ser en un mundo que parece estar protegido por una fuerza monstruosa. Al principio no sabría si está ante un tirano, un guardián o ambas cosas. El conflicto puede surgir cuando la protección del mundo exige un precio, cuando llegan antiguos enemigos del destructor o cuando los habitantes descubren que su salvador fue responsable de otras catástrofes.
+
+**Estado:** semilla aceptada y reservada. Sin nombre, mundo, motivo definitivo ni capítulo asignado. No asumir que el personaje busca redención ni que su protección será altruista.
+
+## 9. Un mundo que construyó una prisión para su propio dios
+
+**Origen de la idea:** propuesta creativa del asistente, aceptada por el usuario como semilla para FIN.
+
+Un mundo entero se ha organizado alrededor de una prisión colosal donde permanece encerrada una entidad venerada, temida o conocida como su dios. La prisión puede encontrarse bajo el planeta, repartida entre continentes, anclada a varias dimensiones o integrada en la propia estructura del mundo.
+
+La existencia de la prisión ha moldeado civilizaciones durante generaciones. Religiones, órdenes, ciudades, sistemas de poder, rutas y guerras pueden haber surgido para mantenerla, vigilarla o aprovecharse de ella. Sin embargo, el equilibrio está cambiando: las cadenas, sellos o mecanismos que mantienen cautiva a la entidad empiezan a fallar.
+
+**La contradicción central:**
+- Una parte de los habitantes cree que liberar al dios salvará el mundo o terminará con el sufrimiento que la prisión provoca.
+- Otros sostienen que la entidad debe permanecer encerrada porque su liberación sería peor que cualquier daño actual.
+- Puede haber facciones que no quieran liberarlo ni mantenerlo preso, sino apropiarse de su poder o controlar el mecanismo.
+- La prisión puede estar consumiendo lentamente el mundo: tierras, mares, memoria, energía, estaciones, vidas o las leyes naturales. Mantenerla activa también tiene un coste.
+- El prisionero no tiene por qué estar intentando escapar. Puede permanecer en silencio, negarse a responder o incluso considerar que la prisión protege al mundo de algo que los habitantes ignoran.
+
+Kevin podría llegar cuando una parte de los sellos se rompe o cuando las facciones ya están enfrentándose por el destino de la prisión. No tendría por qué comprender de inmediato qué es el dios ni qué consecuencias tendría liberarlo. Su presencia podría alterar un mecanismo antiguo, pero no debe convertirlo automáticamente en la llave elegida por una profecía.
+
+**Potencial dramático:** la pregunta no es simplemente si el dios es bueno o malo, sino quién tiene derecho a decidir qué riesgo debe soportar el mundo. Los habitantes pueden estar equivocados en sus creencias, pero sus decisiones deben tener razones y consecuencias. La entidad también debe tener voluntad, historia y objetivos propios, no ser solo un monstruo esperando el momento de salir.
+
+**Estado:** semilla aceptada y reservada. Sin nombre, mundo, identidad del dios, naturaleza de la prisión ni capítulo asignado.
+
+---
+
 ## Criterio de uso
 
 Este banco es una reserva flexible, no una escaleta obligatoria. Antes de cada nuevo capítulo, el autor puede revisar estas semillas y escoger una, combinar elementos compatibles o dejarlas reposar. Si una idea cambia durante su desarrollo, actualizar este documento para conservar la versión más reciente sin convertirla retroactivamente en canon.
