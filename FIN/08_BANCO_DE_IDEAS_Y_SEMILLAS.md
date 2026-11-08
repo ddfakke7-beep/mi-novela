@@ -658,3 +658,37 @@ La intervención de Kevin puede convertir esa guerra en una catástrofe irrevers
 - No repetir esta posibilidad como fórmula en todos los mundos. Es una semilla para un conflicto de gran impacto, no una obligación para el capítulo inmediatamente siguiente.
 
 **Estado:** desarrollada en el capítulo 21, *Kheled, la guerra sin vencedores*. La Liga del Cáliz y la Concordia de las Fosas perdieron sus estructuras militares tras la intervención deliberada de Kevin sobre las redes que alimentaban sus armas. Los hechos y límites están establecidos en el capítulo y en la continuidad. La idea queda realizada, no como fórmula obligatoria para futuros mundos.
+
+
+## 23. Kevin reconoce que él mismo es un desastre
+
+**Origen de la idea:** reflexión del usuario sobre la distancia emocional de Kevin frente a la destrucción de mundos y las muertes que ha causado.
+
+Hasta ahora existe el riesgo de que Kevin trate las catástrofes que provoca como si fueran problemas ajenos: no quiso destruir, no eligió que el poder reaccionara, no pudo controlar el resultado. Esas explicaciones pueden ser verdaderas, pero no deben permitirle mantenerse separado de su propia naturaleza y de las consecuencias de su presencia.
+
+La evolución pendiente es más profunda que aprender a sentir culpa por incidentes concretos. Kevin debe llegar a comprender y aceptar que **él mismo es un desastre**. No solo tiene dentro una fuerza peligrosa ni es un humano normal al que le suceden accidentes: su propia naturaleza constituye una amenaza para los mundos, incluso cuando no busca hacer daño.
+
+### Lo que debe explorar la historia
+
+- Kevin debe sufrir también las consecuencias de ser lo que es: física, psicológica, emocional y personalmente. No basta con mostrar mundos destruidos y habitantes sufriendo mientras él continúa como observador relativamente ajeno.
+- Debe afrontar pérdidas, miedo, impotencia, rechazo, heridas, persecución y decisiones que dejen marcas duraderas. No todo sufrimiento tiene que terminar en una lección ni todo dolor debe volverlo más fuerte.
+- Debe escuchar y enfrentar a quienes lo consideran responsable, sin que la narración los convierta automáticamente en injustos por no comprender su poder.
+- La falta de intención y la falta de control explican límites reales, pero no borran la participación de Kevin ni las decisiones que sí toma.
+- Debe reconocer que su naturaleza es catastrófica, no limitarse a pensar que posee un poder peligroso que a veces se descontrola.
+- Puede seguir queriendo vivir, establecer vínculos, proteger a alguien y encontrar momentos de alegría. Aceptar que es un desastre no significa odiarse, buscar su muerte ni renunciar a toda posibilidad de hacer el bien.
+- No convertirlo en un villano por definición, ni en un héroe que se disculpa después de cada catástrofe. La aceptación debe cambiar su manera de entenderse y decidir, no fijarlo en una reacción repetitiva.
+- Kevin puede decidir enfrentarse a otro desastre y matarlo. Pero no debe hacerlo desde la fantasía de que él es moralmente puro y el otro es simplemente un monstruo. Tendrá que juzgar sus objetivos y acciones mientras reconoce la semejanza incómoda de sus naturalezas.
+- Salvar un mundo no lo convierte automáticamente en héroe. Puede intervenir porque la situación lo empujó, porque eligió proteger a alguien o porque decidió detener una amenaza. La acción tiene valor por sí misma, sin imponerle una identidad heroica.
+- Los habitantes pueden llamarlo salvador, monstruo, amenaza o asesino. Sus perspectivas pueden ser parciales, contradictorias o legítimas. Kevin no debe refugiarse en una etiqueta favorable ni aceptar una condena universal sin pensar.
+
+### Distinciones que no deben confundirse
+
+1. **No querer:** Kevin puede no haber deseado la destrucción.
+2. **No controlar:** el poder no obedece ni garantiza resultados.
+3. **Ser responsable:** puede tener responsabilidad por su presencia, sus decisiones y las consecuencias en las que participa, aunque no controle cada efecto.
+4. **Ser un desastre:** es una verdad sobre su naturaleza y su potencial, no un veredicto de que sea malvado.
+5. **Ser héroe o villano:** son interpretaciones morales que pueden depender de acciones y perspectivas; no sustituyen la comprensión de su naturaleza.
+
+Esta idea no asigna un capítulo concreto ni exige una escena de revelación inmediata. Debe atravesar la evolución general de Kevin y manifestarse de manera orgánica en los mundos y conflictos futuros. No convertirla en un monólogo explicativo ni repetir la frase «soy un desastre» como consigna.
+
+**Estado:** principio de desarrollo central pendiente de exploración narrativa. No altera retroactivamente los capítulos ya escritos; permite releerlos desde una evolución que todavía no ha terminado.
