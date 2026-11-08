@@ -1052,6 +1052,12 @@ Kevin acaba de desaparecer de Kheled a las 03:24 del día 6, después de una est
 - La Trama de Marea perdió conexiones principales y ya no distribuye agua como antes. Su reconstrucción requerirá mucho tiempo; no asumir que el sistema puede restaurarse por completo.
 - No hay cifras totales fiables de muertos o desaparecidos. Los registros se perdieron y las comunicaciones quedaron interrumpidas.
 
+## Observación de escala narrativa — guerra de Kheled
+
+La guerra del capítulo 21 quedó concentrada en Veyr, donde estaban los centros de mando, los ejércitos y las armas principales de la Liga del Cáliz y la Concordia de las Fosas. La Trama de Marea conectaba otros continentes y el colapso tuvo repercusiones en Ossan, Mareth y Druun, pero el capítulo no mostró frentes autónomos ni potencias de esos continentes participando en la guerra. Por cómo está narrada, se percibe como una guerra regional o continental con consecuencias intercontinentales, no como una guerra mundial.
+
+Esta es una observación sobre la representación del capítulo, no un cambio retroactivo de los hechos. No inventar una participación militar de los otros continentes ni añadirla a la continuidad como si hubiera ocurrido. La lección para futuros capítulos es distinguir el alcance geográfico del mundo del alcance efectivo del conflicto y hacer que la escala declarada se vea en escenas, decisiones y consecuencias distribuidas.
+
 ## Estado de Kevin
 
 Kevin no murió ni se regeneró en Kheled. Recibió una herida de proyectil en el costado y después fue golpeado durante los enfrentamientos. Fue contenido durante varias horas por un campo de presión, pero la contención terminó cuando la estación se derrumbó.
