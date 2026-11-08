@@ -384,3 +384,25 @@ Los habitantes de cada mundo conservan iniciativa. No necesitan a Kevin para luc
 - La Liga del Cáliz y la Concordia de las Fosas dejaron de existir como fuerzas militares organizadas. Kheled sobrevivió, aunque Veyr quedó devastado y la Trama de Marea ya no funciona como antes.
 - Kevin conserva el pequeño dragón de madera de Eren, de Tiravel, y la placa de piedra que Orren le entregó en Sathra. No obtuvo una técnica ni control nuevo.
 - Yara Senn sobrevivió. No perdonó a Kevin ni lo absolvió; reconoció que no comprendía el alcance de su poder, pero conoce las consecuencias de su intervención.
+
+
+## Reconocimiento de Kevin como desastre
+
+Kevin no debe mantener una separación cómoda entre sí mismo y las catástrofes que provoca. Que no haya querido destruir un lugar, que no haya elegido una manifestación o que no haya podido controlar sus consecuencias puede explicar lo ocurrido, pero no convierte el daño en un problema ajeno ni lo absuelve automáticamente de responsabilidad.
+
+Su evolución debe llevarlo a reconocer algo más profundo que «mi poder es peligroso»: **él mismo es un desastre**. No solo transporta una fuerza destructiva; su naturaleza y su presencia forman parte de la amenaza. No es simplemente una persona normal a la que le ocurren accidentes extraordinarios. Puede seguir siendo humano en sus emociones, vínculos, deseos y decisiones, pero no debe negar lo que es cuando contempla las consecuencias de existir y actuar.
+
+Este reconocimiento no equivale a:
+- odiarse, buscar su propia muerte o considerar que no merece vivir;
+- volverse cruel, indiferente o malvado por definición;
+- asumir que toda acusación contra él es justa o que siempre es el único responsable de una catástrofe;
+- fingir que tuvo control sobre efectos que realmente no podía dirigir;
+- renunciar a ayudar, proteger o salvar a alguien porque no se considera un héroe.
+
+Debe aprender a sostener varias verdades a la vez: puede no haber querido una tragedia y aun así haber contribuido a ella; puede carecer de control sobre su poder y aun así tener responsabilidad por las decisiones que sí toma; puede salvar un mundo sin convertirse por ello en su héroe; puede destruir deliberadamente a otro desastre y seguir siendo, él mismo, uno de ellos.
+
+Kevin no debe adoptar automáticamente el papel de héroe cuando una situación lo empuja a ayudar. Puede salvar personas porque están delante de él, porque decide intervenir, porque alguien le importa o porque no quiere permitir cierta atrocidad. Eso describe una decisión concreta, no una identidad moral permanente. Los habitantes pueden agradecerle, rechazarlo, temerlo o considerarlo un salvador; ninguna de esas etiquetas determina por sí sola lo que Kevin es.
+
+El reconocimiento de su naturaleza debe desarrollarse mediante experiencias, pérdidas, confrontaciones y decisiones, no aparecer como una revelación repentina ni convertirse en un discurso repetido. Debe afectar cómo interpreta su presencia en los mundos, cómo escucha a quienes sufrieron sus acciones, cómo decide intervenir y cómo entiende a otros seres que también son desastres. Puede llegar a decidir que otro desastre debe morir, pero no desde la ficción de que él pertenece a una categoría moral completamente distinta por ser protagonista o por no disfrutar la destrucción.
+
+**Regla central:** Kevin puede elegir qué hacer con su naturaleza, pero no fingir que esa naturaleza no forma parte de él.
