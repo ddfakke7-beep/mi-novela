@@ -660,4 +660,4 @@ La intervención de Kevin puede convertir esa guerra en una catástrofe irrevers
 - La caída de los dos bandos no debe significar necesariamente que todo el planeta desaparezca. Puede quedar un mundo devastado, fragmentado o sin las estructuras que lo gobernaban, con supervivientes que tendrán que afrontar lo ocurrido.
 - No repetir esta posibilidad como fórmula en todos los mundos. Es una semilla para un conflicto de gran impacto, no una obligación para el capítulo inmediatamente siguiente.
 
-**Estado:** idea provisional conservada a partir de la propuesta del usuario. No tiene mundo, personajes, causa de guerra, capítulo ni desenlace asignados. No es canon hasta que una narración establezca los hechos.
+**Estado:** desarrollada en el capítulo 21, *Kheled, la guerra sin vencedores*. La Liga del Cáliz y la Concordia de las Fosas perdieron sus estructuras militares tras la intervención deliberada de Kevin sobre las redes que alimentaban sus armas. Los hechos y límites están establecidos en el capítulo y en la continuidad. La idea queda realizada, no como fórmula obligatoria para futuros mundos.
