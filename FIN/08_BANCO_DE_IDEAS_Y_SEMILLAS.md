@@ -12,7 +12,7 @@ Esta secuencia organiza la entrada de algunas semillas para que las ideas empiec
 
 1. **Capítulo 19 — La caminante cuya existencia rechaza la vida (semilla 1). COMPLETADO.** Ivara fue presentada en Mairen como otro desastre viajero. Su existencia deteriora los procesos que sostienen la vida y la contaminación contribuyó al colapso de la civilización original. Tiene experiencia, curiosidad e iniciativa; no es una niña ingenua ni una compañera automática. La interacción con Kevin debilitó temporalmente parte de la contaminación a su alrededor, sin curarla ni volverla segura para los demás. Los hechos establecidos y sus límites están registrados en el capítulo 19 y en la continuidad.
 
-2. **Un capítulo de transición después del encuentro.** No introducir otro desastre inmediatamente por obligación. Dar espacio a las consecuencias del encuentro y variar de nuevo el tipo de mundo, el punto de llegada y el conflicto. Puede haber señales indirectas de que existen más viajeros, pero no convertir cada capítulo en una presentación de uno nuevo.
+2. **Capítulo 20 — Un capítulo de transición después del encuentro. COMPLETADO.** Sathra presentó un conflicto político y militar que existía antes de Kevin. No introdujo otro desastre ni una organización multiversal. El mundo siguió con sus propios problemas y la intervención de Kevin fue limitada: acompañó una evacuación, pero también causó daños y no resolvió la guerra.
 
 3. **Capítulo posterior — Dos desastres enfrentados (semilla 3).** Introducir un segundo desastre de naturaleza y objetivos claramente distintos. Kevin puede llegar a un mundo ya devastado y quedar atrapado en una persecución o enfrentamiento que no comenzó por él. Los habitantes tendrán sus propias defensas y decisiones; no confiarán automáticamente en Kevin. Este encuentro debe demostrar que los desastres pueden enfrentarse, dañarse, sorprenderse y tener objetivos incompatibles, sin establecer una escala universal ni declarar a Kevin superior.
 
@@ -595,9 +595,9 @@ Un mundo de héroes, villanos y poderes ofrece un contraste especialmente férti
 **Estado:** semilla aceptada para conservar, sin capítulo asignado. El desastre no tiene todavía nombre, apariencia, origen, poderes concretos, método de destrucción ni motivación definitiva. El mundo, el héroe, el desenlace exacto y la frase final quedan abiertos. No convertirlo todavía en canon ni introducirlo automáticamente en el capítulo siguiente.
 
 
-## 14. Recursos capaces de reducir los efectos del poder de Kevin
+## 14. Recursos capaces de reducir los efectos de poderes destructivos o contaminantes
 
-**Origen de la idea:** propuesta del usuario sobre las posibilidades que ofrece el multiverso: Kevin podría encontrar un artefacto, cumplir un objetivo o acceder a algún recurso que permita disminuir los efectos de su poder.
+**Origen de la idea:** propuesta del usuario sobre las posibilidades que ofrece el multiverso: Kevin podría encontrar un artefacto, cumplir un objetivo o acceder a algún recurso que permita disminuir los efectos de su poder. La posibilidad también se aplica a Ivara y a los efectos de su existencia.
 
 La existencia de mundos con leyes, conocimientos y recursos muy distintos abre la posibilidad de que Kevin encuentre medios externos para reducir parte del daño que provoca. No se trataría de aprender a controlar su poder ni de conseguir que obedezca. La regla permanece intacta: Kevin nunca podrá dominarlo ni controlar cómo se manifiesta.
 
@@ -615,6 +615,16 @@ La existencia de mundos con leyes, conocimientos y recursos muy distintos abre l
 - Aislar parte del daño para que no se extienda a otras regiones o sistemas del mundo.
 - Disminuir ciertos efectos colaterales sin garantizar que el objetivo inicial salga indemne.
 
+**Posibilidad paralela para Ivara:**
+
+La idea no se limita a Kevin. Ivara también podría encontrar, perseguir o recibir información sobre un recurso capaz de reducir, contener o amortiguar parte de la contaminación ligada a su existencia. No tiene por qué ser el mismo artefacto ni funcionar con las mismas reglas que un recurso útil para Kevin.
+
+- Podría reducir la propagación ambiental, proteger una región o permitir que ciertos seres vivos permanezcan cerca de ella durante más tiempo.
+- También podría contener temporalmente una parte del fenómeno, separar una zona de sus redes de propagación o darle una forma más segura de interactuar con otros seres.
+- No debe convertirse automáticamente en una cura, ni borrar el daño histórico de Mairen. La contaminación podría seguir activa, tener consecuencias residuales o requerir un coste permanente.
+- Ivara conserva sus propios objetivos y puede investigar esta posibilidad por iniciativa propia. No necesita esperar a Kevin ni convertirse en una acompañante para que su historia continúe.
+- No está decidido si ese recurso existe realmente, dónde se encuentra, si Ivara lo conoce o si alguna vez intentará conseguirlo.
+
 **Límites necesarios:**
 - Ningún recurso debe convertir el poder en una herramienta precisa ni permitir que Kevin elija exactamente qué se rompe y qué permanece intacto.
 - No tiene por qué funcionar en todos los mundos. Un artefacto creado bajo las leyes de una realidad podría ser inútil, inestable o peligroso en otra.
@@ -627,6 +637,6 @@ La existencia de mundos con leyes, conocimientos y recursos muy distintos abre l
 
 Conseguir uno de estos recursos puede convertirse en un objetivo importante de Kevin, pero no tiene por qué ser una búsqueda inmediata ni una misión que resuelva su problema definitivamente. Puede descubrir su existencia a través de rumores, registros, supervivientes o alguien que haya intentado usarlo. La obtención puede exigirle atravesar conflictos propios del mundo y enfrentarse a personas que también necesitan ese recurso.
 
-La idea permite introducir esperanza y progreso sin invalidar las consecuencias: Kevin podría llegar a causar menos daños en determinadas circunstancias, pero seguirá siendo incapaz de controlar su poder y nunca tendrá garantías absolutas sobre el resultado.
+La idea permite introducir esperanza y progreso sin invalidar las consecuencias: Kevin podría llegar a causar menos daños en determinadas circunstancias, pero seguirá siendo incapaz de controlar su poder y nunca tendrá garantías absolutas sobre el resultado. Ivara podría reducir ciertos efectos de su contaminación sin eliminar necesariamente su naturaleza ni reparar lo que ya se perdió.
 
-**Estado:** semilla provisional aceptada para conservar. No existe todavía un artefacto concreto, nombre, mundo de origen, método de obtención ni efecto confirmado. No está asignada a un capítulo. Solo será canon cuando una historia establezca sus características y límites.
+**Estado:** semilla provisional aceptada para conservar, aplicable a Kevin y también a Ivara. No existe todavía un artefacto concreto, nombre, mundo de origen, método de obtención ni efecto confirmado. No está asignada a un capítulo. Solo será canon cuando una historia establezca sus características y límites.
