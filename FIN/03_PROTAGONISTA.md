@@ -370,3 +370,17 @@ Los habitantes de cada mundo conservan iniciativa. No necesitan a Kevin para luc
 - Acompañó a una columna de 184 civiles por una ruta alternativa. La evacuación dependió principalmente de Sura, Orren, Neris, los trabajadores y los guardias; 178 personas llegaron a Dhal, dos murieron durante el descenso y cuatro quedaron desaparecidas.
 - La experiencia refuerza que Kevin puede participar en una ayuda concreta sin resolver la crisis de un mundo. Reconoce los daños que causó, pero no se atribuye el mérito de la tregua ni de la evacuación.
 - Kevin conserva el pequeño dragón de madera de Eren, de Tiravel, y recibió de Orren una placa con un mapa de los niveles inferiores de Avarn.
+
+
+## Experiencia confirmada al cierre del capítulo 21 — Kheled
+
+- Kevin llegó a Kheled el día 1 a las 09:42 y desapareció el día 6 a las 03:24. Estancia total: 113 horas y 42 minutos.
+- Apareció en la Llanura de las Dos Mareas, durante una batalla entre la Liga del Cáliz y la Concordia de las Fosas. Una manifestación inicial hizo perder continuidad a varios conductos, derribó dos torres de guerra y dejó una formación atrapada.
+- Yara Senn, Custodia del Umbral, lo retiró del campo. Kevin fue herido por un proyectil y recibió atención médica. No murió ni se regeneró.
+- La Concordia atacó el refugio neutral para capturarlo. Una manifestación de Kevin destruyó parte de la estación y abrió una cámara de presión. Después, Maera Voss lo mantuvo contenido mediante un campo sostenido por doce placas; la contención duró hasta que la lucha entre los dos bandos dañó la estación.
+- Kevin observó que ambos bandos preparaban armas conectadas a la Trama de Marea. Cuando sus líderes activaron simultáneamente las Vasijas Altas y las Gargantas Profundas, comenzó una inversión que amenazó las ciudades de Kheled.
+- Kevin decidió enfocar su intención en detener las redes que alimentaban las armas de ambos bandos. El poder cortó conexiones principales y secundarias que él no podía ver ni seleccionar. El resultado destruyó las estructuras militares de la Liga y la Concordia, pero también dañó la distribución de agua en regiones alejadas.
+- Kevin no controló el alcance ni el resultado. No sabe si su intervención evitó una destrucción mayor o si extendió el daño de la inversión. Comprende que tomó la decisión de intervenir y que el resultado excedió su propósito.
+- La Liga del Cáliz y la Concordia de las Fosas dejaron de existir como fuerzas militares organizadas. Kheled sobrevivió, aunque Veyr quedó devastado y la Trama de Marea ya no funciona como antes.
+- Kevin conserva el pequeño dragón de madera de Eren, de Tiravel, y la placa de piedra que Orren le entregó en Sathra. No obtuvo una técnica ni control nuevo.
+- Yara Senn sobrevivió. No perdonó a Kevin ni lo absolvió; reconoció que no comprendía el alcance de su poder, pero conoce las consecuencias de su intervención.
