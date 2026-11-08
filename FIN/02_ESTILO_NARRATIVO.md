@@ -618,3 +618,41 @@ No escribir todos los mundos como problemas preexistentes ante los que Kevin dec
 - Mantener la autonomía de los personajes locales: pueden organizar la resistencia, tomar decisiones decisivas, vencer a sus enemigos o incluso conseguir detener a Kevin sin que él les ceda voluntariamente el protagonismo.
 
 La pregunta narrativa no siempre será «¿qué hará Kevin para resolver este mundo?». A veces será «¿qué hará este mundo para sobrevivir a Kevin?» y otras «¿qué ocurre cuando Kevin y los habitantes necesitan cosas incompatibles?».
+
+## 18. Doble continuidad narrativa: la vida de Kevin y las líneas de acción del mundo
+
+La narración debe evitar dos estrechamientos: que Kevin se limite a observar historias ajenas y que el mundo se reduzca a los pocos personajes que lo acompañan.
+
+### A. Mantener activa la vida de Kevin
+
+En cada capítulo debe existir avance en la vida de Kevin, aunque no siempre sea el motor del conflicto local. Antes y durante la escritura, definir qué quiere, qué intenta conseguir, qué evita, qué decisión toma o qué relación está cambiando. Puede tratarse de un objetivo inmediato, personal, práctico, emocional o de largo recorrido. No forzar un gran objetivo artificial en todos los capítulos.
+
+Kevin debe tomar decisiones que expresen su voluntad, no limitarse a reaccionar a estímulos. También puede equivocarse, dudar, quedarse sin opciones o decidir no intervenir; pero esas situaciones deben formar parte de un conflicto vivido por él, no de una pasividad narrativa prolongada.
+
+Su naturaleza problemática y su dificultad para aceptarla deben avanzar de manera acumulativa. No repetir en cada mundo la misma discusión sobre si es peligroso. Cada experiencia debe añadir una dimensión, contradecir una creencia, poner a prueba una decisión o dejar una consecuencia, y algunas experiencias pueden no producir una reflexión explícita.
+
+### B. Mantener activas las potencias y líneas locales
+
+Al diseñar un mundo, identificar las potencias principales y sus agendas antes de que Kevin se cruce con ellas. Para cada una, definir al menos: qué quiere, qué teme o necesita, qué recursos puede movilizar, qué decisión toma ante el conflicto y qué consecuencias provoca.
+
+Después de presentarlas, no abandonarlas. Sus líneas de acción deben progresar durante el capítulo aunque Kevin esté en otra región o trate con otros personajes. Pueden aparecer mediante escenas propias, decisiones comunicadas, consecuencias visibles, informes, movimientos militares, negociaciones, cambios territoriales o efectos sobre personajes secundarios. No resolver todo mediante informes: cuando una decisión sea dramática, mostrarla en escena.
+
+No es necesario dar el mismo espacio a todas las potencias. La importancia narrativa debe corresponder a sus capacidades, decisiones y consecuencias. Una potencia puede quedar fuera de escena durante un tramo, pero su actividad o ausencia debe tener una razón; no desaparecer solo porque Kevin dejó de tratar con ella.
+
+### C. Evitar el estrechamiento del elenco
+
+Cuando Kevin conozca a un grupo local, la historia no debe quedar automáticamente encerrada en ese grupo. Mantener otras líneas relevantes: rivales, aliados, autoridades, figuras independientes, pueblos afectados, fuerzas lejanas y personajes con objetivos incompatibles. Los personajes pueden actuar sin Kevin, tomar decisiones que él desconozca y alterar el curso del mundo.
+
+Las perspectivas adicionales no son relleno. Cada cambio de perspectiva debe aportar una decisión, un conflicto, información dramática, una consecuencia o una acción que no podría mostrarse desde Kevin.
+
+### D. Revisión antes de cerrar el capítulo
+
+Comprobar:
+- ¿Qué quería Kevin al entrar y qué quiere ahora? ¿Qué decisión propia tomó?
+- ¿Su conflicto con su naturaleza avanzó, se complicó o fue puesto a prueba sin repetirse?
+- ¿Qué hicieron las potencias que presentamos después de su introducción?
+- ¿Alguna potencia importante desapareció del relato sin que su línea se resolviera o quedara deliberadamente abierta?
+- ¿Los personajes locales conservaron objetivos y decisiones independientes?
+- ¿El desenlace afecta tanto a la trayectoria de Kevin como a la historia del mundo, sin obligar a que ambas coincidan?
+
+No convertir esta revisión en una cuota de escenas ni en una rotación mecánica de perspectivas. Su propósito es detectar pasividad y abandono de líneas narrativas.
