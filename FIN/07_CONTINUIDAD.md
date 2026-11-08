@@ -4,9 +4,9 @@
 
 **Fase:** narración en curso.  
 **Canon fundacional:** establecido.  
-**Capítulos completos:** 19.  
+**Capítulos completos:** 20.  
 **Mundos visitados:** Veyra, Cangyuan, Ithrak, Orthea, Namar, Ilyr, Orveth, Naereth, Nharos, Taurak, Yunluo, Vael Taar, Ithara, Tiravel, Serekh, Talmera, Nereth, Odrava y Mairen. Ocho civilizaciones colapsaron en los primeros once capítulos; Nharos, Taurak, Yunluo, Vael Taar, Ithara, Tiravel, Talmera, Nereth, Odrava y Mairen sobrevivieron a sus respectivas crisis. Serekh ya estaba destruido antes de la llegada de Kevin.  
-**Último acontecimiento:** Kevin desapareció de Mairen el día 3 a las 18:02. La Médula aisló la Cuenca de la Ceniza después de que una manifestación de Kevin cortara una conexión principal y abriera una ruta secundaria para la contaminación de Ivara. Mairen sobrevivió; Ivara permanece en el planeta.
+**Último acontecimiento:** Kevin desapareció de Sathra el día 3 a las 22:04, después de acompañar a una columna civil desde Avarn hasta Dhal. La tregua de nueve días entre Neris Avar y Khor Venn mantiene abierto el corredor inferior, pero la guerra de Urd continúa.
 
 ## 2. Capítulo 1 — Veyra
 
@@ -990,3 +990,43 @@ Kevin observó que su presencia debilitaba temporalmente la contaminación de Iv
 - La interacción entre Kevin y la contaminación de Ivara fue particular y no establece inmunidad universal.
 - Las seis incursiones anteriores no están identificadas por completo. Sus orígenes y destinos permanecen desconocidos.
 - La Médula puede volver a reaccionar ante Kevin si regresa, pero no se sabe cómo lo reconocerá después de la ruptura de la conexión principal.
+
+
+## 28. Capítulo 20 — Sathra
+
+**Archivo:** `CAPITULOS/20_SATHRA_LAS_CIUDADES_QUE_COLGABAN_DEL_ABISMO.md`.
+
+### Cronología y llegada
+
+- Kevin apareció el día 1 a las 06:17 en una pasarela de mantenimiento bajo el puente oriental de Avarn, en la Garganta de Urd, continente de Edras.
+- Desapareció el día 3 a las 22:04. Estancia total: 63 horas y 47 minutos.
+- No murió ni se regeneró.
+
+### Mundo y conflicto
+
+Sathra tiene cuatro grandes masas continentales y dos océanos interiores. Edras contiene mesetas y gargantas profundas; Mavren, llanuras de piedra roja y lagos minerales; Osk, cordilleras huecas y cuencas subterráneas; Talar, costas quebradas y bosques de tallos pétreos. Los orai, dren, ulmar y sere son especies inteligentes distintas. Las rutas verticales de Edras son una característica regional, no la estructura de todo el planeta.
+
+La guerra de los siete estados de Urd llevaba veintisiete días activa. El Alto Pacto controlaba las ciudades altas y las rutas; la Liga de las Cuencas exigía reabrir corredores de alimento y descenso. El asesinato del Orador Mayor había roto el acuerdo político. Los demás continentes mantenían sus propios conflictos y no estaban bajo un gobierno común.
+
+### Manifestaciones y consecuencias
+
+- La primera manifestación hizo perder tensión a varias fibras del puente oriental y dañó tres soportes. El tramo se inclinó; cinco muertos quedaron confirmados y hubo desaparecidos.
+- Khor Venn intentó obligar a Kevin a abrir una compuerta. Una manifestación dañó el cierre y parte del marco, pero no abrió la puerta; un soldado quedó herido.
+- Durante el combate en el séptimo anclaje, otra manifestación afectó una unión del mecanismo de descenso. Una plataforma quedó suspendida y tuvo que ser bajada manualmente.
+- Kevin no eligió con precisión qué conexiones cedían ni controló el alcance de las consecuencias.
+
+### Evacuación y desenlace
+
+Sura Vel y Orren Dhal organizaron una ruta alternativa para una columna de 184 civiles. Neris Avar acudió al séptimo anclaje y abrió el corredor civil. Los trabajadores, guardias y evacuados mantuvieron el descenso. 178 personas llegaron a Dhal; dos murieron durante el trayecto y cuatro quedaron desaparecidas.
+
+Neris y Khor firmaron una tregua de nueve días. Vas Teren no la firmó y conserva fuerzas en la ciudad alta. La tregua no resuelve la guerra, la distribución de alimentos ni el asesinato del Orador Mayor. El puente oriental requiere reparaciones.
+
+### Personajes y conocimientos
+
+Sura y Orren saben que Kevin estuvo presente durante las rupturas, pero no comprenden su poder. Neris no lo vio provocar directamente la primera ruptura y no lo absolvió ni lo condenó. Khor intentó utilizarlo y sabe que sus manifestaciones dañaron la compuerta. Vas lo considera responsable del accidente del puente, aunque la causa no quedó demostrada.
+
+Kevin no conoce al responsable del asesinato del Orador Mayor ni el desenlace futuro de la tregua. No conoció a otros viajeros, al restaurador de mundos ni a una organización multiversal.
+
+### Punto exacto de reanudación
+
+Kevin acaba de desaparecer de Sathra. Conserva el pequeño dragón de madera de Eren, de Tiravel, y lleva una placa de piedra con un mapa de los niveles inferiores de Avarn, entregada por Orren. Su poder continúa sin controlarse; no obtuvo ninguna técnica ni capacidad nueva. El siguiente mundo todavía no ha aparecido en escena.
