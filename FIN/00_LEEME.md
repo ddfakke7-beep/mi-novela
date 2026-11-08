@@ -1,12 +1,16 @@
 # FIN — Guía principal del proyecto
 
 **Tipo:** ficción · multiverso · destrucción · desesperación · batallas épicas  
-**Estado:** narración en curso; veinte capítulos completos.  
+**Estado:** narración en curso; veintiún capítulos completos.  
 **Ubicación:** carpeta `FIN/` en el repositorio `mi-novela`.
 
 ## Identidad e independencia
 
 FIN es un proyecto narrativo independiente. Sus documentos, personajes, mundos, reglas y continuidad no deben mezclarse con los de NEXUS ni UMBRAL. La carpeta FIN vive al mismo nivel que ambas dentro del repositorio.
+
+## Hoja de ruta narrativa activa
+
+Antes de redactar un capítulo nuevo, consultar obligatoriamente `08_BANCO_DE_IDEAS_Y_SEMILLAS.md` y el apartado «Próxima planificación prioritaria» de `06_CAPITULOS.md`. La prioridad vigente es el **capítulo 22: dos desastres enfrentados**; después comenzarán las primeras huellas del Restaurador y de la organización multiversal. No saltar ni sustituir esta secuencia sin actualizar ambos documentos.
 
 ## División de responsabilidades
 
