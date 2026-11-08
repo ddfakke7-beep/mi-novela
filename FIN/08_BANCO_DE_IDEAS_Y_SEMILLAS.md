@@ -692,3 +692,27 @@ La evolución pendiente es más profunda que aprender a sentir culpa por inciden
 Esta idea no asigna un capítulo concreto ni exige una escena de revelación inmediata. Debe atravesar la evolución general de Kevin y manifestarse de manera orgánica en los mundos y conflictos futuros. No convertirla en un monólogo explicativo ni repetir la frase «soy un desastre» como consigna.
 
 **Estado:** principio de desarrollo central pendiente de exploración narrativa. No altera retroactivamente los capítulos ya escritos; permite releerlos desde una evolución que todavía no ha terminado.
+
+
+## 24. Los desastres y la imposibilidad de coexistir
+
+**Origen de la idea:** reflexión del usuario sobre Kevin y los demás desastres: aunque sean radicalmente distintos entre sí, comparten una dificultad fundamental para coexistir con otras formas de vida.
+
+Los desastres no deben compartir una personalidad, una ideología, una moral ni un objetivo común. Cada uno tiene su propia naturaleza, deseos, métodos, límites y relación con los mundos. Algunos pueden ser conscientes y deliberadamente destructivos; otros pueden no querer hacer daño; otros pueden disfrutar de la compañía, proteger algo durante un tiempo o incluso ayudar genuinamente. No convertirlos en una especie uniforme ni en variantes del mismo antagonista.
+
+**El rasgo común no es lo que desean, sino el problema que representa su existencia para los demás:**
+- Coexistir con otras formas de vida puede ser extremadamente difícil o imposible debido a su naturaleza, sus efectos, sus necesidades o la escala de lo que son.
+- Incluso cuando un desastre ayuda a un mundo, lo salva o establece un vínculo sincero con sus habitantes, eso no garantiza que pueda vivir allí de manera segura ni que los habitantes puedan aceptarlo.
+- Un mundo puede agradecer a Kevin por salvarlo y aun así exigir que se marche, intentar contenerlo o considerarlo una amenaza que no puede permitirse tener cerca.
+- Las personas que lo aprecian pueden temerle al mismo tiempo. El afecto y la comprensión no eliminan el peligro real.
+- Otros desastres pueden tener dificultades distintas para coexistir: no asumir que todos son rechazados por el mismo motivo ni que todos sufren la soledad de la misma manera.
+- Algunos pueden haber aceptado su naturaleza; otros pueden negarla, combatirla, disfrutarla, justificarla o buscar una forma de vivir con ella. Esas respuestas deben ser individuales y pueden cambiar.
+- La coexistencia no tiene que ser absolutamente imposible en todos los casos. Puede haber alianzas, amistades, pactos, convivencia temporal o vínculos auténticos, pero deben afrontar límites y riesgos propios de cada personaje.
+
+**Consecuencia para Kevin:** su poder hace razonable que otros mundos no quieran tenerlo cerca. La historia no debe tratar toda desconfianza, rechazo, intento de contención o decisión de expulsarlo como ignorancia o injusticia. Kevin puede salvar a alguien sin convertirse por ello en héroe ni adquirir derecho a quedarse. También puede elegir proteger, marcharse, resistir, matar a otro desastre o aceptar que alguien lo considere una amenaza. La narración debe permitir que esas decisiones tengan consecuencias.
+
+**Relación con el desastre amistoso:** su vínculo con Kevin debe apoyarse en esta tensión. Puede disfrutar genuinamente de su compañía y ayudarlo, pero su relación con él no debe ser una simple amistad que vuelve inofensiva su naturaleza. Su manera de entender la coexistencia y la aceptación de lo que son puede ser distinta a la de Kevin. La razón por la que no lo suelta, y su rechazo ante la negación de Kevin de su propia naturaleza, deben desarrollarse a través de su historia y sus acciones; no fijar todavía una explicación definitiva ni convertirlo en portavoz de una verdad universal.
+
+**Principio narrativo:** que todos sean desastres no significa que todos sean iguales. La dificultad para coexistir es un eje temático compartido, no una plantilla de personalidad ni un destino idéntico. Mostrarlo mediante relaciones, rechazos, pactos, pérdidas y decisiones concretas, no mediante explicaciones repetidas.
+
+**Estado:** idea aceptada para conservar como eje temático general de los desastres. No establece que todos deban ser incapaces de convivir ni altera retroactivamente los capítulos ya escritos. Su expresión concreta dependerá de la naturaleza y trayectoria de cada desastre.
