@@ -563,3 +563,18 @@ Kevin no debe convertirse en un espectador que atraviesa mundos mientras los hab
 - La acción no se limita al combate: también incluye persecuciones, huidas, exploración peligrosa, infiltraciones, investigaciones activas, negociaciones tensas, rescates, sabotajes, decisiones bajo presión y enfrentamientos de objetivos.
 - La participación activa no garantiza éxito. Kevin puede ser superado, herido, capturado, engañado, obligado a retirarse o provocar consecuencias que no quería. Sus decisiones y la naturaleza incontrolable de su poder deben mantener consecuencias distintas.
 - No imponer una pelea artificial en cada escena ni convertir todos los capítulos en una sucesión de explosiones. La intensidad debe surgir de los conflictos y de la identidad de cada mundo, pero cada capítulo debe ofrecer movimiento, tensión y acciones relevantes de Kevin.
+
+
+## Kevin como catalizador y amenaza dentro de los mundos
+
+La participación de Kevin no debe limitarse a intervenir en conflictos ajenos. Su llegada, su presencia, sus decisiones y las manifestaciones de su poder también pueden originar el conflicto principal de un mundo o transformar uno que ya existía.
+
+- Kevin puede ser la amenaza que obliga a enemigos, reinos, especies, dioses o facciones enfrentadas a cooperar para detenerlo.
+- Un mundo puede organizar su defensa, perseguirlo, intentar contenerlo o decidir que debe morir. Desde la perspectiva de sus habitantes, Kevin puede ser el antagonista o el desastre central, aunque la narración siga su experiencia y no lo convierta automáticamente en malvado.
+- Puede provocar conflictos involuntariamente por su naturaleza, por las consecuencias de una manifestación o por no comprender lo que está afectando. También puede desencadenarlos mediante decisiones conscientes, incluso cuando sus motivos sean comprensibles.
+- Kevin puede resolver una amenaza y convertirse en otra; puede impedir una destrucción y provocar daños distintos; puede unir temporalmente a personas que se odian porque ambas lo consideran un peligro.
+- No todos los mundos deben reaccionar igual ni todos deben unirse contra él. Las respuestas dependen de la información disponible, los intereses, las capacidades, las divisiones y la historia de cada sociedad.
+- No convertir cada llegada en una alianza mundial contra Kevin ni hacer que todos los conflictos nazcan de él. A veces será catalizador, a veces participante, a veces amenaza principal y otras veces una presencia que se cruza con una historia autónoma.
+- Que Kevin sea el protagonista no invalida la perspectiva de quienes intentan detenerlo. Sus razones pueden ser legítimas y sus acciones pueden tener consecuencias aunque Kevin no desee causar daño.
+
+Kevin es el hilo conductor de FIN, pero no tiene que ser siempre el héroe, el solucionador ni el centro voluntario de los acontecimientos. Puede ser también el problema que los demás necesitan afrontar.
