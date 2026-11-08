@@ -550,3 +550,16 @@ También debe poder mirar a otros desastres sin fingir que él pertenece a una e
 Este reconocimiento debe desarrollarse gradualmente a través de sufrimiento físico y psicológico, pérdidas, responsabilidad, rechazo, vínculos y decisiones irreversibles. No forzar autodesprecio, suicidio, crueldad, indiferencia ni una transformación automática en villano. Kevin puede seguir queriendo vivir y relacionarse con otros mientras acepta que su existencia constituye un peligro. Puede lamentar lo ocurrido sin fingir que el arrepentimiento repara a los muertos.
 
 **Principio narrativo:** Kevin no tiene que convertirse en héroe ni en villano para aceptar lo que es. Debe dejar de tratar su propia naturaleza como si fuera el problema de otra persona.
+
+
+## Principio de protagonismo activo de Kevin
+
+Kevin no debe convertirse en un espectador que atraviesa mundos mientras los habitantes viven y resuelven sus propias historias. Los mundos conservan autonomía, conflictos y protagonistas locales, pero Kevin necesita una línea de acción propia dentro de cada capítulo.
+
+- Kevin debe perseguir objetivos inmediatos, tomar decisiones y actuar sobre lo que sucede. Puede buscar una salida, investigar, rescatar, escapar, enfrentarse a alguien, proteger a una persona, conseguir un recurso, impedir un plan o decidir intervenir en un conflicto.
+- Sus decisiones deben modificar el desarrollo del capítulo, abrir problemas, cerrar posibilidades o alterar las decisiones de otros personajes. No basta con que esté presente cuando los acontecimientos ocurren.
+- No dejar que Kevin pase largos tramos limitándose a observar, escuchar explicaciones o acompañar a otros sin perseguir nada propio. La observación y la conversación sirven cuando preparan una decisión, revelan un peligro o cambian su manera de actuar.
+- Cada mundo debe conservar sus conflictos anteriores a Kevin y sus habitantes deben actuar por iniciativa propia. Dar protagonismo a Kevin no significa convertirlo en el centro de toda la historia ni quitarles a los locales sus victorias, errores y decisiones.
+- La acción no se limita al combate: también incluye persecuciones, huidas, exploración peligrosa, infiltraciones, investigaciones activas, negociaciones tensas, rescates, sabotajes, decisiones bajo presión y enfrentamientos de objetivos.
+- La participación activa no garantiza éxito. Kevin puede ser superado, herido, capturado, engañado, obligado a retirarse o provocar consecuencias que no quería. Sus decisiones y la naturaleza incontrolable de su poder deben mantener consecuencias distintas.
+- No imponer una pelea artificial en cada escena ni convertir todos los capítulos en una sucesión de explosiones. La intensidad debe surgir de los conflictos y de la identidad de cada mundo, pero cada capítulo debe ofrecer movimiento, tensión y acciones relevantes de Kevin.
