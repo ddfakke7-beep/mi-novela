@@ -443,3 +443,14 @@ No se exige mostrar todos los territorios ni introducir escenas remotas por obli
 - **Combates y muertes:** los ejércitos perdieron sus estructuras de mando. Draev murió sosteniendo una barrera para sus soldados; Varek murió sosteniendo una salida de emergencia. Maera e Ishren desaparecieron juntos en el derrumbe del arco central; sus cuerpos no fueron recuperados y su destino no está confirmado.
 - **Resultado:** la Liga y la Concordia dejaron de existir como fuerzas militares organizadas. La guerra terminó sin vencedores. Kheled no fue destruido como planeta, pero Veyr sufrió daños extensos y la Trama de Marea perdió sus conexiones principales. No hay balance total fiable de muertos y desaparecidos.
 - **Kevin:** no murió ni se regeneró. No obtuvo control ni técnica nueva. Comprende que su intervención fue deliberada, pero el resultado excedió su intención. No sabe si evitó una catástrofe mayor o si extendió el daño.
+
+## Criterio de planificación: agencia de Kevin y continuidad del mundo
+
+La planificación de cada capítulo debe contemplar dos recorridos simultáneos:
+
+1. **Recorrido de Kevin:** qué desea, qué objetivo persigue o evita, qué decisiones toma por iniciativa propia, qué relaciones cambian y cómo la experiencia afecta su conflicto con su propia naturaleza. No tiene que ser el motor de la crisis local, pero no puede pasar el capítulo entero como espectador de su vida.
+2. **Recorrido del mundo:** qué hacen las potencias y personajes importantes por sus propios objetivos, cómo evolucionan sus conflictos y qué consecuencias producen sus decisiones, incluso cuando Kevin no está presente.
+
+Al presentar potencias con nombre y peso narrativo, registrar su línea de acción y su estado al cierre. Evitar que el relato se concentre únicamente en el pequeño grupo que conoce a Kevin mientras las demás fuerzas desaparecen de la narración.
+
+La revisión del índice y resumen de cada capítulo debe identificar, cuando corresponda, tanto los avances personales de Kevin como los cambios de posición de las potencias locales. No forzar una moraleja ni una evolución psicológica explícita en todos los capítulos; sí mantener la continuidad de su vida y de sus decisiones.
