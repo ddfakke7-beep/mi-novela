@@ -5,7 +5,7 @@
 **Fase:** narración en curso.  
 **Canon fundacional:** establecido.  
 **Capítulos completos:** 20.  
-**Mundos visitados:** Veyra, Cangyuan, Ithrak, Orthea, Namar, Ilyr, Orveth, Naereth, Nharos, Taurak, Yunluo, Vael Taar, Ithara, Tiravel, Serekh, Talmera, Nereth, Odrava y Mairen. Ocho civilizaciones colapsaron en los primeros once capítulos; Nharos, Taurak, Yunluo, Vael Taar, Ithara, Tiravel, Talmera, Nereth, Odrava y Mairen sobrevivieron a sus respectivas crisis. Serekh ya estaba destruido antes de la llegada de Kevin.  
+**Mundos visitados:** Veyra, Cangyuan, Ithrak, Orthea, Namar, Ilyr, Orveth, Naereth, Nharos, Taurak, Yunluo, Vael Taar, Ithara, Tiravel, Serekh, Talmera, Nereth, Odrava, Mairen y Sathra. Ocho civilizaciones colapsaron en los primeros once capítulos; Nharos, Taurak, Yunluo, Vael Taar, Ithara, Tiravel, Talmera, Nereth, Odrava y Mairen sobrevivieron a sus respectivas crisis. Serekh ya estaba destruido antes de la llegada de Kevin.  
 **Último acontecimiento:** Kevin desapareció de Sathra el día 3 a las 22:04, después de acompañar a una columna civil desde Avarn hasta Dhal. La tregua de nueve días entre Neris Avar y Khor Venn mantiene abierto el corredor inferior, pero la guerra de Urd continúa.
 
 ## 2. Capítulo 1 — Veyra
