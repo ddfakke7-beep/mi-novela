@@ -1080,3 +1080,40 @@ Conserva el pequeño dragón de madera de Eren, de Tiravel, y la placa de piedra
 ## Punto exacto de reanudación
 
 Kevin acaba de desaparecer de Kheled a las 03:24 del día 6. No se ha mostrado todavía el siguiente mundo. Mantiene su poder sin control; puede enfocar su intención, pero no elegir cómo ni hasta dónde actúa. Su decisión en Kheled fue intentar detener las armas de ambos bandos y el resultado excedió su propósito. No sabe si salvó o condenó más personas con esa intervención.
+
+## Protocolo permanente: continuidad de Kevin y de las potencias locales
+
+La continuidad de FIN debe seguir dos líneas relacionadas pero independientes.
+
+### 1. Continuidad personal de Kevin
+
+Registrar, sin inventar hechos:
+- qué quiere Kevin en el punto actual y qué objetivos siguen pendientes;
+- qué decisiones tomó por iniciativa propia y qué consecuencias tuvieron;
+- qué relaciones, promesas, conflictos o pérdidas siguen influyendo en él;
+- qué entiende, sospecha, niega o todavía no acepta sobre su naturaleza;
+- qué cambios emocionales o psicológicos están realmente establecidos y cuáles son solo posibilidades de desarrollo.
+
+No asumir que cada experiencia produjo una lección. Registrar también contradicciones, resistencias, retrocesos y objetivos abandonados.
+
+### 2. Continuidad de las potencias de cada mundo
+
+Cuando un capítulo presente potencias, facciones o figuras de gran importancia, conservar un estado final para cada una que haya tenido peso narrativo:
+- objetivo inicial y decisiones principales;
+- acciones ejecutadas y resultados;
+- pérdidas, victorias y recursos restantes;
+- cambios de liderazgo, territorio, alianzas o relaciones;
+- situación al cierre: activa, derrotada, fragmentada, retirada, aislada, transformada o destino desconocido;
+- asuntos que podrían continuar sin convertirlos automáticamente en hechos futuros.
+
+No asumir que una potencia sigue actuando después del capítulo si no hay base narrativa para afirmarlo. Sí conservar las consecuencias y líneas abiertas que el texto dejó establecidas.
+
+### 3. Regla contra el abandono accidental
+
+Una potencia o personaje importante no debe desaparecer del registro solo porque Kevin dejó de tratar con ellos. Si una línea se resuelve, registrar cómo. Si continúa abierta, señalar qué quedó pendiente. Si su destino es desconocido, conservar esa incertidumbre sin inventar una resolución.
+
+La continuidad no obliga a mostrar todas las líneas en todos los capítulos ni a traer de vuelta personajes por obligación. Sirve para que las decisiones presentadas tengan consecuencias y para que el mundo no se reduzca retrospectivamente al círculo de Kevin.
+
+### 4. Revisión antes de continuar
+
+Antes de redactar un capítulo nuevo, revisar tanto el estado personal de Kevin como las líneas abiertas de mundos y personajes persistentes. Elegir qué elementos deben continuar según su relevancia orgánica, no por completar una lista. Mantener separados los hechos confirmados, las hipótesis, los planes y las posibilidades.
