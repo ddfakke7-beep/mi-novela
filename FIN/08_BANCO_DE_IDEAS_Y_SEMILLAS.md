@@ -593,3 +593,40 @@ Un mundo de héroes, villanos y poderes ofrece un contraste especialmente férti
 - La variante de Kevin muerto y trasladado debe respetar las reglas de muerte y regeneración ya establecidas; su interacción con el fenómeno de viaje sigue sin resolverse.
 
 **Estado:** semilla aceptada para conservar, sin capítulo asignado. El desastre no tiene todavía nombre, apariencia, origen, poderes concretos, método de destrucción ni motivación definitiva. El mundo, el héroe, el desenlace exacto y la frase final quedan abiertos. No convertirlo todavía en canon ni introducirlo automáticamente en el capítulo siguiente.
+
+
+## 14. Recursos capaces de reducir los efectos del poder de Kevin
+
+**Origen de la idea:** propuesta del usuario sobre las posibilidades que ofrece el multiverso: Kevin podría encontrar un artefacto, cumplir un objetivo o acceder a algún recurso que permita disminuir los efectos de su poder.
+
+La existencia de mundos con leyes, conocimientos y recursos muy distintos abre la posibilidad de que Kevin encuentre medios externos para reducir parte del daño que provoca. No se trataría de aprender a controlar su poder ni de conseguir que obedezca. La regla permanece intacta: Kevin nunca podrá dominarlo ni controlar cómo se manifiesta.
+
+**Formas posibles que podría adoptar el recurso:**
+- Un artefacto antiguo construido para amortiguar fenómenos que alteran las leyes o conexiones de una realidad.
+- Una reliquia, formación, técnica o procedimiento propio de una civilización concreta.
+- Un lugar, estructura natural o fenómeno capaz de aislar temporalmente determinadas consecuencias.
+- Un objetivo que Kevin deba alcanzar, activar o completar para obtener una protección limitada.
+- La intervención de una entidad que pueda contener o amortiguar ciertos efectos, sin controlar el poder de Kevin.
+
+**Qué podría conseguir:**
+- Reducir la propagación de consecuencias secundarias hacia estructuras o conexiones relacionadas.
+- Amortiguar la intensidad de una manifestación sin anularla.
+- Proteger temporalmente una zona o a un grupo de personas.
+- Aislar parte del daño para que no se extienda a otras regiones o sistemas del mundo.
+- Disminuir ciertos efectos colaterales sin garantizar que el objetivo inicial salga indemne.
+
+**Límites necesarios:**
+- Ningún recurso debe convertir el poder en una herramienta precisa ni permitir que Kevin elija exactamente qué se rompe y qué permanece intacto.
+- No tiene por qué funcionar en todos los mundos. Un artefacto creado bajo las leyes de una realidad podría ser inútil, inestable o peligroso en otra.
+- Puede requerir condiciones, preparación, sacrificios, materiales, mantenimiento o un precio significativo.
+- Puede proteger de un tipo de consecuencia y dejar otras sin modificar; también puede desplazar el daño en vez de eliminarlo.
+- Su efecto puede ser temporal, parcial o imperfecto. No debe convertirse en una solución universal que borre el peligro de la premisa.
+- Kevin puede comprender para qué sirve un recurso sin entender por completo cómo interactúa con su poder.
+
+**Potencial narrativo:**
+
+Conseguir uno de estos recursos puede convertirse en un objetivo importante de Kevin, pero no tiene por qué ser una búsqueda inmediata ni una misión que resuelva su problema definitivamente. Puede descubrir su existencia a través de rumores, registros, supervivientes o alguien que haya intentado usarlo. La obtención puede exigirle atravesar conflictos propios del mundo y enfrentarse a personas que también necesitan ese recurso.
+
+La idea permite introducir esperanza y progreso sin invalidar las consecuencias: Kevin podría llegar a causar menos daños en determinadas circunstancias, pero seguirá siendo incapaz de controlar su poder y nunca tendrá garantías absolutas sobre el resultado.
+
+**Estado:** semilla provisional aceptada para conservar. No existe todavía un artefacto concreto, nombre, mundo de origen, método de obtención ni efecto confirmado. No está asignada a un capítulo. Solo será canon cuando una historia establezca sus características y límites.
