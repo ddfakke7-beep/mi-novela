@@ -578,3 +578,27 @@ La participación de Kevin no debe limitarse a intervenir en conflictos ajenos. 
 - Que Kevin sea el protagonista no invalida la perspectiva de quienes intentan detenerlo. Sus razones pueden ser legítimas y sus acciones pueden tener consecuencias aunque Kevin no desee causar daño.
 
 Kevin es el hilo conductor de FIN, pero no tiene que ser siempre el héroe, el solucionador ni el centro voluntario de los acontecimientos. Puede ser también el problema que los demás necesitan afrontar.
+
+## Principio de doble autonomía: Kevin y los mundos
+
+FIN debe mantener dos líneas de autonomía simultáneas, sin sacrificar una para favorecer la otra.
+
+### Kevin debe protagonizar su propia vida
+
+Kevin no puede quedar reducido a un viajero que llega, observa acontecimientos ajenos, acompaña a algunos personajes y desaparece. Su vida debe avanzar entre mundos: debe tener deseos, objetivos, decisiones, conflictos personales, relaciones, dudas y cambios que no dependan exclusivamente de la crisis local. Puede perseguir algo, negarse a algo, equivocarse, tomar la iniciativa, buscar respuestas, intentar construir un vínculo o decidir qué quiere hacer con su tiempo. No todos sus objetivos deben ser grandiosos ni todos deben conducir a una catástrofe.
+
+El conflicto de fondo con su propia naturaleza es continuo: Kevin parte de una condición que es problemática y potencialmente catastrófica, pero no la acepta plenamente. La negación, evasión o incomprensión de esa naturaleza debe influir en sus decisiones y relaciones, y evolucionar a través de experiencias concretas. No se debe resolver con una revelación repentina ni convertir cada capítulo en una repetición del mismo reproche.
+
+### Los mundos conservan su propia historia
+
+Que Kevin sea el protagonista de FIN no convierte cada mundo en escenario suyo. Las potencias, facciones, instituciones, personajes y conflictos locales deben existir y actuar por motivos propios. Sus decisiones no empiezan cuando Kevin las observa ni se detienen cuando él deja de estar presente.
+
+Una potencia importante presentada con nombre, autoridad, recursos, objetivos o capacidad de decisión no debe funcionar como decoración. Su línea de acción debe continuar durante el capítulo: puede movilizar fuerzas, negociar, investigar, conspirar, combatir, equivocarse, cambiar de estrategia, sufrir pérdidas o conseguir objetivos. No es obligatorio mostrar cada movimiento en escena, pero sus efectos deben sentirse y su destino no puede desaparecer del relato sin resolución o continuidad deliberada.
+
+### La intersección entre las dos autonomías
+
+Kevin y las fuerzas del mundo pueden cruzarse, interferir, colaborar, enfrentarse o perseguir objetivos incompatibles. Kevin puede provocar una crisis, ser el enemigo común, alterar el equilibrio o cambiar la trayectoria de una potencia. También puede verse afectado por decisiones tomadas lejos de él, por conflictos que no comprende o por consecuencias de las que no fue testigo.
+
+Las potencias locales no existen para enseñarle una lección ni para proporcionarle aliados o enemigos temporales. Kevin tampoco existe para resolver las historias locales. Ambos pueden cambiarse mutuamente, pero conservan objetivos y capacidad de acción propios.
+
+**Regla de equilibrio:** Kevin debe avanzar como protagonista de su vida sin absorber la historia del mundo; el mundo debe conservar su autonomía sin convertir a Kevin en espectador de su propia existencia.
