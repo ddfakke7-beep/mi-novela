@@ -1318,3 +1318,31 @@ Los personajes de Nereth no conocen el origen de Kevin ni la causa de sus viajes
 - **Afiliación:** comandante superviviente de la Guardia Abisal.
 - **Papel:** organizó grupos de rescate después del colapso de las Gargantas.
 - **Estado:** viva, herida.
+
+## Regla de continuidad para personajes y potencias presentados
+
+La presentación de un personaje poderoso o de una facción con nombre y objetivos genera una expectativa de continuidad. No deben convertirse en una lista de nombres que desaparece cuando Kevin conoce a un grupo más cercano.
+
+### Personajes importantes
+
+Un personaje presentado como autoridad, figura suprema, rival, estratega, maestro, líder o agente decisivo debe conservar:
+- objetivos y motivaciones propios;
+- decisiones tomadas durante el conflicto;
+- relaciones, alianzas, rivalidades y desacuerdos;
+- recursos, límites y responsabilidades;
+- consecuencias de sus decisiones;
+- estado al cierre del capítulo y, si corresponde, asuntos pendientes.
+
+No todos requieren escenas frecuentes ni el mismo protagonismo. Pero si su decisión altera el curso del mundo, la narración debe mostrarla o hacer visibles sus consecuencias. No reducirlos a una aparición inicial, una ficha y una mención final.
+
+### Facciones y potencias
+
+Cada facción relevante debe tener una trayectoria verificable: qué busca, qué decide, qué acciones ejecuta, qué obtiene, qué pierde y cómo queda su posición. Si tiene varios dirigentes, no asumir que todos piensan igual. Mostrar disputas internas, cambios de mando y desacuerdos cuando sean relevantes.
+
+### Personajes fuera del círculo de Kevin
+
+Los personajes que no se encuentran con Kevin pueden seguir teniendo protagonismo mediante sus propias escenas y decisiones. No es necesario que todos se crucen con él para justificar su inclusión. Sus historias pueden afectar el mundo, modificar el contexto de Kevin o continuar fuera de su conocimiento.
+
+### Cierre y continuidad
+
+Al terminar cada capítulo, revisar las fichas de los personajes y facciones principales. Registrar quién sigue activo, quién murió, quién desapareció, quién cambió de bando, quién alcanzó su objetivo y qué líneas continúan abiertas. No dejar un personaje importante sin destino por simple olvido. Tampoco inventar que sigue actuando fuera de escena si el texto no establece una vía plausible; distinguir continuidad prevista de hecho confirmado.
