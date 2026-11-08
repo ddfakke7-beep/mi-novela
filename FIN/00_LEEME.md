@@ -306,3 +306,10 @@ No asumir que los desastres son invencibles ni que todos los mundos desconocen s
 FIN cuenta con veinte capítulos completos. El último mundo visitado fue Sathra. Kevin llegó el día 1 a las 06:17 y desapareció el día 3 a las 22:04, tras 63 horas y 47 minutos. Sathra no sufrió una catástrofe mundial: el conflicto de los siete estados de Urd continúa, pero una tregua de nueve días permitió mantener abierto un corredor civil. Kevin causó daños graves en el puente oriental y en varios mecanismos de descenso; también acompañó a una columna de evacuados que consiguió llegar a Dhal. Consultar `07_CONTINUIDAD.md` para el punto exacto de reanudación.
 
 El capítulo 20 cambia el foco respecto a Mairen: la guerra y sus disputas existían antes de Kevin y continuarán después de su marcha. Los habitantes no dependieron de él para resolver el conflicto; Sura, Orren, Neris, trabajadores y guardias sostuvieron la evacuación y el acuerdo temporal. Kevin no obtuvo control nuevo ni conoció a otros viajeros.
+
+
+## Estado actualizado tras el capítulo 21 — Kheled
+
+FIN cuenta con veintiún capítulos completos. El último mundo visitado fue Kheled; Kevin llegó el día 1 a las 09:42 a la Llanura de las Dos Mareas y desapareció el día 6 a las 03:24, tras una estancia de 113 horas y 42 minutos. La Liga del Cáliz y la Concordia de las Fosas perdieron sus estructuras militares y la Trama de Marea quedó gravemente dañada por la intervención de Kevin. La guerra terminó sin vencedores, pero el mundo no fue destruido y sus supervivientes deberán reconstruir sus sistemas de agua. Consultar `07_CONTINUIDAD.md` para el punto exacto de reanudación.
+
+El capítulo 21 incorpora la posibilidad de que Kevin deje de ser un visitante periférico y se convierta en un factor decisivo de un conflicto: su intervención deliberada buscó detener las redes que alimentaban las armas de ambos bandos, pero el poder actuó de forma autónoma y extendió el daño mucho más allá de lo que podía prever. Los personajes locales mantuvieron agencia, combatieron, tomaron decisiones y organizaron rescates. La comprensión de la intención de Kevin no implica perdón.
