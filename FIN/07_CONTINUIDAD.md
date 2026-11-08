@@ -1030,3 +1030,53 @@ Kevin no conoce al responsable del asesinato del Orador Mayor ni el desenlace fu
 ### Punto exacto de reanudación
 
 Kevin acaba de desaparecer de Sathra. Conserva el pequeño dragón de madera de Eren, de Tiravel, y lleva una placa de piedra con un mapa de los niveles inferiores de Avarn, entregada por Orren. Su poder continúa sin controlarse; no obtuvo ninguna técnica ni capacidad nueva. El siguiente mundo todavía no ha aparecido en escena.
+
+
+# Actualización de continuidad — cierre del capítulo 21: Kheled
+
+## Último acontecimiento confirmado
+
+Kevin acaba de desaparecer de Kheled a las 03:24 del día 6, después de una estancia de 113 horas y 42 minutos. Apareció en la Llanura de las Dos Mareas, continente de Veyr, durante una batalla entre la Liga del Cáliz y la Concordia de las Fosas.
+
+## Hechos confirmados del capítulo 21
+
+- La Liga del Cáliz controlaba las Vasijas Altas y las cuencas superiores; la Concordia de las Fosas controlaba las Gargantas Profundas y los respiraderos inferiores. Ambos sistemas dependían de la Trama de Marea, red de distribución de agua construida durante siglos.
+- La guerra abierta llevaba diecisiete años. Maera Voss e Ishren Tal habían sido antiguos aliados y aprendices del mismo arquitecto de aguas. Una reparación fallida que inundó ciudades y secó una cuenca contribuyó a su ruptura.
+- Kevin apareció en el campo de batalla. Una manifestación inicial cortó la continuidad de varios conductos y derribó dos torres del Cáliz. Después, otra manifestación dañó una cámara de presión durante el ataque de la Concordia al refugio neutral.
+- Yara Senn, Custodia del Umbral, rescató a Kevin y trató de mantenerlo fuera de la guerra. Maera lo capturó mediante un campo de presión sostenido por doce placas. La contención terminó cuando el combate entre las facciones dañó la estación.
+- Ambos bandos activaron sus armas finales al mismo tiempo. La Trama empezó a invertirse y sus estructuras comenzaron a colapsar.
+- Kevin decidió enfocar su intención en detener las redes que alimentaban las armas de ambos bandos. El poder cortó conexiones principales y secundarias que Kevin no podía ver ni escoger. El daño alcanzó redes de distribución en regiones alejadas y aceleró el colapso de ambos sistemas.
+- Draev Or murió sosteniendo una barrera para permitir la retirada de sus soldados. Varek Nul murió sosteniendo una salida de emergencia para sus soldados.
+- Maera Voss e Ishren Tal desaparecieron juntos en el derrumbe del arco central. Sus cuerpos no fueron recuperados. No confirmar su muerte absoluta ni su supervivencia hasta que exista evidencia posterior.
+- La Liga del Cáliz y la Concordia de las Fosas dejaron de existir como fuerzas militares organizadas. La guerra terminó sin vencedores. Kheled no fue destruido como planeta; Veyr sufrió daños extensos, y las regiones de Ossan, Mareth y Druun conservaron comunidades y sistemas locales, aunque también sufrieron daños y aislamiento.
+- La Trama de Marea perdió conexiones principales y ya no distribuye agua como antes. Su reconstrucción requerirá mucho tiempo; no asumir que el sistema puede restaurarse por completo.
+- No hay cifras totales fiables de muertos o desaparecidos. Los registros se perdieron y las comunicaciones quedaron interrumpidas.
+
+## Estado de Kevin
+
+Kevin no murió ni se regeneró en Kheled. Recibió una herida de proyectil en el costado y después fue golpeado durante los enfrentamientos. Fue contenido durante varias horas por un campo de presión, pero la contención terminó cuando la estación se derrumbó.
+
+Su intervención final fue deliberada en cuanto al propósito: quiso detener las redes que alimentaban las armas de ambos bandos. No controló el funcionamiento del poder, no seleccionó los conductos ni pudo prever que el efecto alcanzaría conexiones de distribución en regiones lejanas. La destrucción de las dos redes militares excedió su intención. Kevin no sabe si su acción evitó que la inversión destruyera más ciudades o si extendió el daño.
+
+Conserva el pequeño dragón de madera de Eren, de Tiravel, y la placa de piedra con el mapa de los niveles inferiores de Avarn que Orren le entregó en Sathra. No obtuvo técnica ni control nuevo.
+
+## Personajes y conocimiento
+
+- Yara Senn sobrevivió y permanece en Kheled. No perdonó a Kevin ni lo considera inocente; reconoce que no comprendía el alcance del poder, pero conoce las consecuencias de su intervención.
+- Maera Voss e Ishren Tal tienen destino no confirmado. No fueron vistos después del derrumbe y no se recuperaron sus cuerpos.
+- Draev Or y Varek Nul murieron durante el colapso, sosteniendo rutas de retirada para sus respectivos soldados.
+- Selka Or sobrevivió y organizó evacuaciones y racionamiento en Veyrahn. Tess Varn sobrevivió herida y organizó rescates de las Fosas.
+- Los supervivientes de ambos bandos pueden culpar a Kevin, a los líderes o a la guerra previa. No hay perdón general ni reconciliación establecida.
+
+## Cuestiones abiertas
+
+- El destino de Maera e Ishren no está confirmado.
+- No se conoce el balance definitivo de muertos, heridos, desaparecidos y desplazados.
+- No se sabe cómo se reorganizarán las comunidades que pertenecían a la Liga y la Concordia.
+- La Trama de Marea no volverá a funcionar como antes sin reconstrucción prolongada; sus conexiones y consecuencias futuras permanecen abiertas.
+- Los Custodios del Umbral siguen activos. Yara permanece en Kheled.
+- No se ha introducido al restaurador de mundos ni a la organización multiversal.
+
+## Punto exacto de reanudación
+
+Kevin acaba de desaparecer de Kheled a las 03:24 del día 6. No se ha mostrado todavía el siguiente mundo. Mantiene su poder sin control; puede enfocar su intención, pero no elegir cómo ni hasta dónde actúa. Su decisión en Kheled fue intentar detener las armas de ambos bandos y el resultado excedió su propósito. No sabe si salvó o condenó más personas con esa intervención.
