@@ -608,3 +608,20 @@ Kheled no fue destruido como planeta. Veyr sufrió inundaciones, derrumbes, ciud
 ### Estado abierto
 
 Los cuerpos de Maera e Ishren no fueron recuperados; no confirmar su muerte absoluta ni su supervivencia sin nueva evidencia. Los supervivientes de ambos bandos pueden formar nuevas comunidades o grupos, pero su futuro no está establecido. La Trama de Marea perdió conexiones principales y no volverá a distribuir el agua como antes sin una reconstrucción prolongada. Los Custodios del Umbral siguen activos; Yara permanece en Kheled.
+
+
+## 21. Historias propias de los mundos y participación activa de Kevin
+
+Cada mundo debe conservar una historia que no exista únicamente para recibir a Kevin. Sus guerras, rivalidades, crisis, culturas, defensas y personajes tienen causas y objetivos propios; pueden continuar antes de su llegada y después de su partida. Los habitantes no deben esperar pasivamente a que Kevin decida el destino de todos.
+
+Al mismo tiempo, el mundo no debe convertirse en un escenario que Kevin visita sin intervenir. El diseño de cada capítulo debe conectar los conflictos locales con una línea activa del protagonista:
+
+- Kevin llega a una situación concreta y desarrolla objetivos propios dentro de ella: sobrevivir, escapar, investigar, llegar a un lugar, proteger o alcanzar a alguien, conseguir algo, impedir una acción o enfrentarse a una amenaza.
+- Sus decisiones deben cruzarse con los intereses de habitantes y facciones. Puede colaborar, negociar, oponerse, ser utilizado, perseguido, capturado, ayudar o perjudicar; la relación no tiene que ser amistosa.
+- Los conflictos locales deben conservar sus protagonistas, soluciones y consecuencias. Kevin puede cambiar su curso sin apropiarse de todas las victorias ni resolver automáticamente problemas que llevan décadas o siglos desarrollándose.
+- La acción debe nacer de la identidad del mundo y puede adoptar formas distintas: duelos, guerras, cacerías, expediciones, huidas, persecuciones, rescates, exploración, intriga, sabotaje o enfrentamientos entre entidades.
+- Un mundo puede tener periodos de tensión y conversación, pero no debe diseñarse como una sucesión prolongada de explicaciones y observación en la que Kevin apenas actúa.
+- No añadir combates gratuitos solo para mantener movimiento. La acción debe revelar capacidades, forzar decisiones, cambiar relaciones o producir consecuencias.
+- Kevin puede fracasar, ser herido, quedar atrapado, perder una oportunidad o empeorar el conflicto. La participación activa no equivale a controlar el resultado.
+
+**Equilibrio buscado:** el mundo tiene una vida propia y Kevin tiene una historia activa dentro de él. Ninguna de las dos capas debe borrar a la otra.
