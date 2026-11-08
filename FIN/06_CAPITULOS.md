@@ -53,8 +53,21 @@ El capítulo 1 ya está escrito y guardado en FIN/CAPITULOS/01_VEYRA_EL_MUNDO_QU
 | 17 | Nereth, el mundo que no dejaba ir a sus muertos | Nereth | Completo |
 | 18 | Odrava, el mundo que seguía a las estaciones | Odrava | Completo |
 | 19 | Mairen, el mundo que cerraba sus heridas | Mairen | Completo |
+| 20 | Sathra, las ciudades que colgaban del abismo | Sathra | Completo |
+| 21 | Kheled, la guerra sin vencedores | Kheled | Completo |
 
-## 5. Desarrollo y responsabilidad creativa
+
+## 5. Próxima planificación prioritaria
+
+Consultar siempre `FIN/08_BANCO_DE_IDEAS_Y_SEMILLAS.md` antes de escribir un capítulo nuevo. La secuencia vigente es:
+
+- **Capítulo 22: dos desastres enfrentados.** Kevin llegará a un mundo ya conquistado o devastado en gran parte por otro desastre (la referencia conversada fue aproximadamente el 80 %, no una cifra fija). Aparecerá en medio del dominio/conflicto, quedará atrapado y el otro desastre intentará matarlo. Resolver si el antagonista es un desastre, un villano conquistador o ambas cosas. Desarrollar la semilla 3 completa del banco de ideas.
+- **Después del 22:** comenzar a introducir gradualmente al Restaurador y las primeras huellas de la organización multiversal (semillas 6 y 2), mediante rastros, informes y testimonios antes de forzar un encuentro personal.
+- **Más adelante:** reservar el desastre amistoso (semilla 13) y las demás semillas para arcos posteriores.
+
+El capítulo 21, Kheled, quedó completo pero fue una desviación de la secuencia original; no reemplazó la semilla de los dos desastres enfrentados. **No saltar el capítulo 22 planificado ni reemplazarlo por un capítulo de transición sin actualizar primero esta hoja de ruta y el banco de ideas.**
+
+## 6. Desarrollo y responsabilidad creativa
 
 ChatGPT crea los mundos, personajes, conflictos, acontecimientos y capítulos de manera autónoma, respetando el control del usuario sobre el protagonista. No se requiere que el usuario elija el mundo, los enemigos o los giros narrativos.
 
