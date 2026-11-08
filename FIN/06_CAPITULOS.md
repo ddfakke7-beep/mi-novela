@@ -26,6 +26,8 @@ Por cada capítulo, anotar:
 - Destrucción del mundo y consecuencias relevantes.
 - Supervivientes y estado posterior.
 - Posible conexión con el siguiente mundo.
+- Escala real del conflicto (local, regional, continental, intercontinental o planetaria) y cómo se demuestra en escenas y consecuencias.
+- Frentes, potencias y regiones que participan, permanecen neutrales, se aíslan o aprovechan la crisis, cuando corresponda.
 - Estado: idea / borrador / aprobado.
 
 ## 4. Índice actual
@@ -454,3 +456,5 @@ La planificación de cada capítulo debe contemplar dos recorridos simultáneos:
 Al presentar potencias con nombre y peso narrativo, registrar su línea de acción y su estado al cierre. Evitar que el relato se concentre únicamente en el pequeño grupo que conoce a Kevin mientras las demás fuerzas desaparecen de la narración.
 
 La revisión del índice y resumen de cada capítulo debe identificar, cuando corresponda, tanto los avances personales de Kevin como los cambios de posición de las potencias locales. No forzar una moraleja ni una evolución psicológica explícita en todos los capítulos; sí mantener la continuidad de su vida y de sus decisiones.
+
+**Control adicional de escala:** no confundir un mundo extenso con una guerra mundial. Antes de redactar, decidir qué territorios están realmente en conflicto. Si la guerra se anuncia como intercontinental o planetaria, planificar y narrar suficientes frentes, decisiones de potencias alejadas y efectos sociales o materiales en distintas regiones. Si el conflicto permanece concentrado en un continente, registrarlo como tal, aunque sus consecuencias alcancen otros lugares. No basta con nombrar continentes, mencionar una red compartida o añadir un balance global al final: la escala debe percibirse durante el capítulo.
