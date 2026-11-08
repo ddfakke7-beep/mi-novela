@@ -358,3 +358,15 @@ Los habitantes de cada mundo conservan iniciativa. No necesitan a Kevin para luc
 - Las comunidades de Ordal, Neth y Ura tomaron decisiones propias, cortaron conexiones, protegieron semillas y aislaron asentamientos. Mairen sobrevivió, pero perdió una raíz principal y varias rutas que tardarán décadas en reconstruirse.
 - Kevin no murió ni se regeneró. Conserva el pequeño dragón de madera de Eren, de Tiravel.
 - Ivara permanece en Mairen. No acompañó a Kevin porque trasladar la contaminación a otro mundo podría causar una nueva catástrofe. No se sabe si volverán a encontrarse.
+
+
+## Experiencia confirmada al cierre del capítulo 20 — Sathra
+
+- Kevin llegó a Sathra el día 1 a las 06:17 y desapareció el día 3 a las 22:04. Estancia total: 63 horas y 47 minutos.
+- Apareció bajo el puente oriental de Avarn, en la Garganta de Urd. Tras recibir un disparo de cable, su poder hizo perder tensión a varias fibras y dañó tres soportes. El tramo se inclinó; hubo cinco muertos confirmados y personas desaparecidas.
+- En un segundo incidente, Khor Venn intentó obligarlo a abrir una compuerta. La manifestación dañó el cierre y parte del marco, pero no abrió la puerta y dejó a un soldado herido.
+- Durante el combate en el séptimo anclaje, el poder deshizo proyectiles y dañó una unión del mecanismo de descenso. La plataforma quedó suspendida y los trabajadores tuvieron que bajarla manualmente.
+- Kevin no dirigió con precisión ninguna de estas manifestaciones. No obtuvo una capacidad nueva ni control fiable. No murió ni se regeneró.
+- Acompañó a una columna de 184 civiles por una ruta alternativa. La evacuación dependió principalmente de Sura, Orren, Neris, los trabajadores y los guardias; 178 personas llegaron a Dhal, dos murieron durante el descenso y cuatro quedaron desaparecidas.
+- La experiencia refuerza que Kevin puede participar en una ayuda concreta sin resolver la crisis de un mundo. Reconoce los daños que causó, pero no se atribuye el mérito de la tregua ni de la evacuación.
+- Kevin conserva el pequeño dragón de madera de Eren, de Tiravel, y recibió de Orren una placa con un mapa de los niveles inferiores de Avarn.
