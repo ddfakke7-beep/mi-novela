@@ -12,6 +12,10 @@ Los mundos deben sentirse como realidades completas, no como una ciudad o una re
 
 Las distancias importan: no todos pueden llegar al mismo tiempo. Algunos personajes lucharán en sus territorios, otros se reunirán más tarde y otros no conseguirán llegar. La respuesta puede ser caótica, fragmentada y desesperada, incluso cuando exista una alianza mundial.
 
+**Distinguir la escala del mundo de la escala del conflicto.** Que una realidad tenga varios continentes, imperios o planos no significa que cada guerra sea mundial. Un conflicto puede ser local, regional, continental, intercontinental o planetario. La narración debe dejar clara esa escala mediante los territorios implicados, los objetivos de los bandos, los frentes activos, las potencias que intervienen y las consecuencias que alcanzan a otras regiones. No llamar mundial a una guerra que solo se desarrolla en una región porque sus efectos indirectos llegan más lejos.
+
+Si el conflicto se presenta como mundial o intercontinental, debe sentirse distribuido: mostrar algunos frentes alejados, decisiones de potencias externas, respuestas autónomas, rutas cortadas, movimientos de población, alianzas, neutralidad, aprovechamiento o resistencia en otras regiones. No es necesario representar todos los frentes, pero sí ofrecer suficientes escenas y consecuencias concretas para que la escala declarada resulte creíble. Si la historia solo necesita una guerra regional, mantenerla regional sin inflarla mediante explicaciones geográficas.
+
 No repetir la misma estructura de defensa en todos los capítulos. La geografía, las comunicaciones, la política, la cultura y el sistema de poder de cada mundo deben determinar cómo responde.
 
 ## 3. Perspectivas narrativas
@@ -406,6 +410,7 @@ La escala mundial se narra, no se declara. Un mapa con varios continentes no bas
 - La información viaja de acuerdo con las capacidades locales. Puede llegar tarde, deformada, fragmentada o no llegar.
 - Evitar el desfile de nombres y cifras sin escenas. Es preferible conocer tres lugares con identidad y conflictos reales que enumerar veinte territorios vacíos.
 - La respuesta a Kevin no tiene por qué ser mundial ni unificada. Puede haber regiones que lo ignoren, facciones que quieran aprovecharlo, potencias que intenten expulsarlo y otras que decidan no intervenir.
+- No confundir la extensión del mundo con la extensión de la crisis. Una guerra limitada a una región no se vuelve planetaria solo porque afecte una red, un recurso o una infraestructura compartida. Si se afirma que el conflicto abarca varios continentes, mostrar cómo participan —o por qué no participan— sus sociedades y potencias.
 - El desenlace no debe confundirse con la destrucción obligatoria del mundo. Una expulsión o contención exitosa puede salvarlo, aunque deje daños enormes y conflictos abiertos.
 
 ## 14. Las consecuencias deben vivirse en escena
