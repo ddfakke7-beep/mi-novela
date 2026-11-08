@@ -528,3 +528,25 @@ Algunos mundos son capaces de regenerarse, adaptarse, aislar regiones dañadas, 
 Un desastre puede llegar convencido de que destruir será sencillo y descubrir que el mundo tiene medios para oponerse. Puede ser herido, engañado, atrapado, derrotado, expulsado o muerto. También puede superar las defensas y destruir el mundo. El resultado depende de la naturaleza del desastre, de las capacidades y preparación local, de la información disponible, de las decisiones y de los costes asumidos; no de una escala universal de poder.
 
 No confundir capacidad destructiva con invulnerabilidad. Kevin tampoco es una excepción garantizada: otros mundos y seres pueden dañarlo, contenerlo, expulsarlo o matarlo físicamente, aunque su regeneración pueda devolverlo a la vida después.
+
+
+## Regla: Kevin debe reconocer que él también es un desastre
+
+La novela no debe tratar las catástrofes provocadas por Kevin como si fueran siempre un problema externo que simplemente le sucede. La falta de intención consciente, la autonomía del poder y la incapacidad de controlar sus manifestaciones son hechos importantes, pero no deben funcionar como absolución automática ni como una excusa narrativa para mantenerlo emocionalmente separado de sus consecuencias.
+
+Kevin debe llegar a comprender y aceptar que **él mismo es un desastre**. No es únicamente un humano desafortunado que carga con una herramienta peligrosa: su naturaleza, su presencia y el poder que forma parte de él constituyen una amenaza real para los mundos. La historia debe explorar qué significa vivir sabiendo eso, sin convertirlo en una etiqueta superficial ni en una revelación que resuelva de golpe su conflicto.
+
+Mantener diferenciadas estas cuestiones:
+- **Intención:** Kevin puede no querer una destrucción ni haberla elegido conscientemente.
+- **Autonomía:** el poder puede actuar sin obedecerlo y producir consecuencias que no podía prever ni controlar.
+- **Responsabilidad:** la falta de control no borra automáticamente su participación, las decisiones que sí tomó ni la obligación de mirar de frente lo ocurrido.
+- **Naturaleza:** incluso cuando no desea hacer daño, Kevin sigue siendo un desastre por lo que es y por lo que su existencia puede causar.
+- **Identidad moral:** ser un desastre no lo convierte automáticamente en malvado, así como salvar un mundo no lo convierte automáticamente en héroe.
+
+Kevin puede ayudar a salvar un mundo, defender a sus habitantes o detener a otro desastre. Esas acciones deben surgir de circunstancias y decisiones concretas, no de una obligación de interpretar el papel del héroe. Puede ser agradecido por unos, rechazado por otros y temido por quienes recuerdan sus daños. No necesita negar su naturaleza para hacer algo bueno, ni aceptar el título de héroe para reconocer el valor de una vida salvada.
+
+También debe poder mirar a otros desastres sin fingir que él pertenece a una especie moral distinta. Puede juzgar sus objetivos, decisiones y acciones; puede enfrentarlos, contenerlos o decidir matarlos. Pero no debe asumir que la diferencia entre ellos y él consiste simplemente en que los otros son monstruos y él es una buena persona. La diferencia, cuando exista, debe encontrarse en sus naturalezas, intenciones, elecciones y consecuencias concretas, sin absoluciones automáticas para Kevin.
+
+Este reconocimiento debe desarrollarse gradualmente a través de sufrimiento físico y psicológico, pérdidas, responsabilidad, rechazo, vínculos y decisiones irreversibles. No forzar autodesprecio, suicidio, crueldad, indiferencia ni una transformación automática en villano. Kevin puede seguir queriendo vivir y relacionarse con otros mientras acepta que su existencia constituye un peligro. Puede lamentar lo ocurrido sin fingir que el arrepentimiento repara a los muertos.
+
+**Principio narrativo:** Kevin no tiene que convertirse en héroe ni en villano para aceptar lo que es. Debe dejar de tratar su propia naturaleza como si fuera el problema de otra persona.
