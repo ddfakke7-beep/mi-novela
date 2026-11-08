@@ -406,3 +406,25 @@ Kevin no debe adoptar automáticamente el papel de héroe cuando una situación 
 El reconocimiento de su naturaleza debe desarrollarse mediante experiencias, pérdidas, confrontaciones y decisiones, no aparecer como una revelación repentina ni convertirse en un discurso repetido. Debe afectar cómo interpreta su presencia en los mundos, cómo escucha a quienes sufrieron sus acciones, cómo decide intervenir y cómo entiende a otros seres que también son desastres. Puede llegar a decidir que otro desastre debe morir, pero no desde la ficción de que él pertenece a una categoría moral completamente distinta por ser protagonista o por no disfrutar la destrucción.
 
 **Regla central:** Kevin puede elegir qué hacer con su naturaleza, pero no fingir que esa naturaleza no forma parte de él.
+
+## Kevin como protagonista de su propia vida
+
+Kevin es el protagonista de FIN, pero eso no significa que deba ser el centro de cada mundo. Significa que la narración no puede tratar su existencia como un hilo de transporte entre historias ajenas.
+
+### Agencia personal
+
+Kevin debe tener objetivos y deseos propios que puedan avanzar entre mundos y dentro de ellos. No todos tienen que ser importantes para el multiverso: puede querer conseguir algo concreto, comprender una situación, encontrar compañía, alejarse de alguien, recuperar algo, explorar, aprender sobre una realidad o simplemente vivir una experiencia. La historia debe permitirle iniciar acciones por voluntad propia y no solo responder a crisis que otros ponen delante de él.
+
+No imponerle una misión fija ni convertir cada capítulo en una búsqueda. Sus objetivos pueden cambiar, fracasar, entrar en contradicción o quedar interrumpidos por acontecimientos. Lo importante es que su vida tenga continuidad y que sus decisiones expresen quién es en ese momento.
+
+### Conflicto con su naturaleza
+
+Kevin parte de una naturaleza que está mal para la convivencia ordinaria y que puede representar una amenaza catastrófica. Él no acepta plenamente esa condición. Esta negación no debe reducirse a que repita que es humano o que no quiso hacer daño: debe influir en lo que desea, en cómo se relaciona, en qué riesgos acepta, en qué espera de los demás y en las decisiones que toma.
+
+Su evolución debe ser gradual y acumulativa. Puede resistirse a reconocer algo, comprender una parte y seguir rechazando otra. No debe llegar a una aceptación completa solo porque otro personaje se lo explique. Las experiencias, las pérdidas, los vínculos, los rechazos y sus propias decisiones deben poner esa resistencia a prueba.
+
+### Relación con los mundos
+
+Kevin puede tener una historia personal activa mientras las sociedades locales desarrollan sus propias historias. No necesita conocer a todos los líderes ni intervenir en cada conflicto. Puede verse afectado por decisiones de potencias que nunca llega a conocer, y sus actos pueden cambiar la vida de personas que no vuelven a aparecer.
+
+No confundir «Kevin no es el centro del mundo» con «Kevin es un espectador». Si pasa tiempo observando o acompañando, debe existir una razón emocional, práctica o narrativa y su propia situación debe seguir avanzando.
