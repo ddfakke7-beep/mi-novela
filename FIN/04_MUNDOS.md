@@ -644,3 +644,36 @@ Kevin puede ser, según el capítulo:
 No repetir la fórmula de una alianza mundial contra Kevin. La reacción depende de cada sociedad y puede estar dividida, ser local, tardía, oportunista o incluso inexistente. Los personajes del mundo conservan iniciativa y capacidad para decidir el resultado de sus propios conflictos.
 
 El diseño debe contemplar tanto la pregunta «¿qué puede hacer Kevin en este mundo?» como «¿qué le hará este mundo a Kevin?». A veces ambas respuestas serán incompatibles.
+
+## Principio de continuidad de las potencias y líneas de acción
+
+La presentación de una potencia importante crea una expectativa narrativa. Si recibe nombre, historia, territorio, autoridad, recursos, objetivos o personajes propios, debe conservar una línea de acción reconocible después de su introducción.
+
+### Registro previo al capítulo
+
+Al diseñar cada mundo, distinguir:
+- **Potencias principales:** fuerzas capaces de alterar el destino de regiones, continentes o del mundo. Deben tener objetivos, recursos, límites, dirigentes o mecanismos de decisión y relaciones con otras potencias.
+- **Fuerzas regionales e independientes:** grupos que pueden no tener escala mundial, pero poseen intereses y capacidad de actuar por cuenta propia.
+- **Personajes relevantes sin una potencia:** viajeros, maestros, gobernantes, investigadores, combatientes, líderes comunitarios u otras figuras con objetivos que no dependen de Kevin.
+
+No todas necesitan la misma profundidad ni aparecer en pantalla. La selección debe responder a la historia del mundo, no a una cuota fija.
+
+### Continuidad después de presentarlas
+
+Cada potencia principal debe tener una trayectoria durante el capítulo: qué decide, qué intenta, qué consigue o pierde y cómo cambia su posición. Puede actuar fuera de la región donde está Kevin. Sus movimientos deben respetar geografía, comunicaciones, recursos y tiempos de desplazamiento.
+
+No basta con mencionarla al principio y recuperarla al final mediante una explicación. Cuando una decisión o enfrentamiento tenga peso dramático, mostrarlo directamente desde una perspectiva adecuada. Cuando no sea necesario mostrarlo, hacer perceptibles sus consecuencias mediante cambios en el mundo, personajes, territorios, rutas, alianzas o amenazas.
+
+Una potencia puede quedar temporalmente fuera de escena, pero no debe ser olvidada. Si deja de actuar, debe existir una causa narrativa: fue derrotada, quedó aislada, cambió de prioridad, perdió capacidad, se retiró, se fracturó o decidió esperar. Registrar el estado resultante.
+
+### Independencia respecto a Kevin
+
+Las potencias no deben esperar a Kevin para actuar ni organizar toda su existencia alrededor de él. Pueden tener guerras, sucesiones, expediciones, rivalidades, proyectos, crisis internas y objetivos que continuarían aunque Kevin nunca hubiese llegado. Su presencia puede alterar esos planes, pero no es la única causa de sus decisiones.
+
+Kevin puede cruzarse solo con una parte del elenco. Las demás potencias pueden influir indirectamente en su recorrido o permanecer ocupadas en sus propios conflictos. Sus acciones deben seguir teniendo consecuencias en el mundo, incluso si Kevin no llega a conocerlas.
+
+### Control de continuidad al terminar
+
+Actualizar para cada potencia importante: situación inicial, decisiones tomadas, acciones ejecutadas, pérdidas, victorias, cambios de liderazgo, territorios o recursos afectados, relaciones modificadas y estado al cierre. Diferenciar lo que quedó resuelto de lo que continúa activo. No dejar figuras poderosas presentadas con peso narrativo en un limbo accidental.
+
+**Criterio:** presentar una potencia es abrir una línea narrativa, no decorar el mapa. Esa línea puede cerrarse, transformarse o quedar pendiente, pero debe tener continuidad.
