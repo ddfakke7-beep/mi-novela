@@ -625,3 +625,22 @@ Al mismo tiempo, el mundo no debe convertirse en un escenario que Kevin visita s
 - Kevin puede fracasar, ser herido, quedar atrapado, perder una oportunidad o empeorar el conflicto. La participación activa no equivale a controlar el resultado.
 
 **Equilibrio buscado:** el mundo tiene una vida propia y Kevin tiene una historia activa dentro de él. Ninguna de las dos capas debe borrar a la otra.
+
+
+## 22. Kevin como detonante, amenaza o enemigo común
+
+La llegada de Kevin puede ser el conflicto que transforma un mundo, no solo un acontecimiento que se suma a los problemas locales. Su presencia o sus manifestaciones pueden romper equilibrios, desencadenar crisis, provocar enfrentamientos o hacer que facciones enemigas formen una alianza temporal para detenerlo.
+
+Un mundo puede considerarlo la amenaza principal y dedicar sus recursos a perseguirlo, contenerlo, expulsarlo o matarlo. Esa respuesta no debe tratarse automáticamente como ignorancia, maldad o injusticia: los habitantes pueden tener razones fundadas para temerlo, incluso si Kevin no pretendía causar los daños.
+
+Kevin puede ser, según el capítulo:
+- el detonante de una crisis que antes no existía;
+- el enemigo común que obliga a cooperar a rivales históricos;
+- una amenaza adicional que agrava una guerra o una catástrofe previa;
+- un aliado temporal contra un peligro peor, al que luego intentan expulsar o detener;
+- una figura que altera el equilibrio sin convertirse en el centro de todos los acontecimientos;
+- un adversario al que los propios habitantes consiguen herir, contener, expulsar o derrotar.
+
+No repetir la fórmula de una alianza mundial contra Kevin. La reacción depende de cada sociedad y puede estar dividida, ser local, tardía, oportunista o incluso inexistente. Los personajes del mundo conservan iniciativa y capacidad para decidir el resultado de sus propios conflictos.
+
+El diseño debe contemplar tanto la pregunta «¿qué puede hacer Kevin en este mundo?» como «¿qué le hará este mundo a Kevin?». A veces ambas respuestas serán incompatibles.
