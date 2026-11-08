@@ -1270,3 +1270,51 @@ Los personajes de Nereth no conocen el origen de Kevin ni la causa de sus viajes
 ### Civiles de la columna
 - Una niña orai con una marca blanca en la frente encontró a su tío herido en Dhal. Sus nombres no fueron establecidos.
 - La columna estaba compuesta por 184 civiles. 178 llegaron a Dhal, dos murieron durante el descenso y cuatro quedaron desaparecidos.
+
+
+## Personajes de Kheled — Capítulo 21
+
+### Yara Senn
+- **Mundo y capítulo:** Kheled, capítulo 21.
+- **Afiliación:** Custodios del Umbral, red neutral de estaciones, sanadores, mensajeros y equipos de rescate.
+- **Papel:** rescató a Kevin del campo de batalla, lo llevó a una estación neutral, intentó protegerlo de ambos bandos y organizó evacuaciones después del colapso.
+- **Carácter y criterio:** práctica, firme y consciente de que la neutralidad no equivale a inocencia. No confía plenamente en Kevin ni lo absuelve por no comprender su poder.
+- **Estado:** viva; permanece en Kheled.
+
+### Maera Voss
+- **Mundo y capítulo:** Kheled, capítulo 21.
+- **Afiliación:** Primera Custodia del Cáliz y máxima autoridad de la Liga del Cáliz.
+- **Historia:** fue aprendiz de arquitectura de aguas junto a Ishren Tal. Ambos intentaron reparar la Trama de Marea; una inversión provocó inundaciones y sequía, y la ruptura de su alianza contribuyó al origen de la guerra.
+- **Decisiones:** ordenó detener una ofensiva, buscó capturar vivo a Kevin y lo mantuvo contenido mediante un campo de presión. Intentó detener la inversión y después combatió a Kevin.
+- **Estado:** desaparecida tras el derrumbe del arco central junto a Ishren. Cuerpo no recuperado; destino sin confirmar.
+
+### Ishren Tal
+- **Mundo y capítulo:** Kheled, capítulo 21.
+- **Afiliación:** Voz Mayor de la Concordia de las Fosas.
+- **Historia:** antiguo compañero y aliado de Maera. Consideraba que las cuencas profundas estaban muriendo por el cierre de los canales superiores.
+- **Decisiones:** ordenó capturar a Kevin, intentó detener la inversión y después lo atacó al considerar que había destruido la Trama.
+- **Estado:** desaparecido tras el derrumbe del arco central junto a Maera. Cuerpo no recuperado; destino sin confirmar.
+
+### Draev Or
+- **Mundo y capítulo:** Kheled, capítulo 21.
+- **Afiliación:** comandante de las torres de presión de la Liga del Cáliz.
+- **Decisiones:** defendió la ofensiva y sostuvo una barrera para permitir la retirada de sus soldados cuando las Vasijas colapsaron.
+- **Estado:** muerto durante el derrumbe de una torre.
+
+### Varek Nul
+- **Mundo y capítulo:** Kheled, capítulo 21.
+- **Afiliación:** general de la Guardia Abisal de la Concordia de las Fosas.
+- **Decisiones:** dirigió el ataque al refugio neutral y la unidad de ruptura. Durante el colapso sostuvo una salida de emergencia para permitir que sus soldados escaparan.
+- **Estado:** muerto durante el derrumbe de una galería.
+
+### Selka Or
+- **Mundo y capítulo:** Kheled, capítulo 21.
+- **Afiliación:** gobernadora de Veyrahn.
+- **Papel:** organizó evacuación y racionamiento tras perderse las Vasijas Altas.
+- **Estado:** viva.
+
+### Tess Varn
+- **Mundo y capítulo:** Kheled, capítulo 21.
+- **Afiliación:** comandante superviviente de la Guardia Abisal.
+- **Papel:** organizó grupos de rescate después del colapso de las Gargantas.
+- **Estado:** viva, herida.
