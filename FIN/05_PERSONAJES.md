@@ -1225,3 +1225,48 @@ Los personajes de Nereth no conocen el origen de Kevin ni la causa de sus viajes
 - **Afiliación:** comunidad varel de Ordal.
 - **Decisiones:** transmitió el aviso de la Médula y ejecutó las órdenes de aislamiento.
 - **Estado:** sobrevivió al cierre inmediato. Su nombre no quedó registrado.
+
+
+## Personajes del capítulo 20 — Sathra
+
+### Sura Vel
+- **Mundo y capítulo:** Sathra, capítulo 20.
+- **Especie y lugar:** orai de Avarn, en la Garganta de Urd.
+- **Cargo:** capitana de tránsito.
+- **Personalidad y decisiones:** práctica, firme y protectora sin idealizar a quienes ayuda. Organizó la columna civil y sostuvo el corredor de evacuación pese a las órdenes contradictorias.
+- **Relación con Kevin:** lo encontró después de la ruptura del puente. No lo considera inocente de los daños, pero reconoce que acompañó a los evacuados.
+- **Estado:** viva. Permanece en Avarn/Dhal; no se ha establecido que pueda viajar.
+
+### Orren Dhal
+- **Mundo y capítulo:** Sathra, capítulo 20.
+- **Especie y lugar:** orai, trabajador veterano de los elevadores de Avarn.
+- **Personalidad y decisiones:** paciente, técnico y directo. Conoce los contrapesos y anclajes de la ciudad. Diseñó la ruta alternativa y ayudó a bajar manualmente la plataforma suspendida.
+- **Estado:** vivo, con una lesión en el hombro y un brazo parcialmente inutilizado desde antes. Entregó a Kevin un mapa de los niveles inferiores.
+
+### Neris Avar
+- **Mundo y capítulo:** Sathra, capítulo 20.
+- **Cargo:** regente de Avarn y heredera del puesto del Orador Mayor asesinado.
+- **Personalidad y decisiones:** joven para el cargo, cuestionada por varios estados, pero dispuesta a asumir el coste político de abrir un corredor civil. Llegó al séptimo anclaje y firmó una tregua de nueve días con Khor.
+- **Estado:** viva. Su autoridad sigue cuestionada.
+
+### Vas Teren
+- **Mundo y capítulo:** Sathra, capítulo 20.
+- **Cargo:** mariscal del Alto Pacto.
+- **Personalidad y decisiones:** prioriza la defensa de la ciudad alta y desobedece las órdenes de Neris cuando considera que comprometen la posición militar. No firmó la tregua.
+- **Estado:** vivo y activo en la ciudad alta con parte de sus fuerzas.
+
+### Khor Venn
+- **Mundo y capítulo:** Sathra, capítulo 20.
+- **Afiliación:** comandante de la Liga de las Cuencas.
+- **Personalidad y decisiones:** pragmático y ambicioso. Intentó utilizar a Kevin para abrir una compuerta y buscó controlar el séptimo anclaje; aceptó después una tregua de nueve días.
+- **Estado:** vivo. Su autoridad está cuestionada por parte de sus comandantes.
+
+### Teyra
+- **Mundo y capítulo:** Sathra, capítulo 20.
+- **Afiliación:** capitana de la casa Avar.
+- **Decisiones:** reunió una escolta para Neris y participó en la apertura del corredor.
+- **Estado:** viva.
+
+### Civiles de la columna
+- Una niña orai con una marca blanca en la frente encontró a su tío herido en Dhal. Sus nombres no fueron establecidos.
+- La columna estaba compuesta por 184 civiles. 178 llegaron a Dhal, dos murieron durante el descenso y cuatro quedaron desaparecidos.
