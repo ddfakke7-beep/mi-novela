@@ -546,3 +546,27 @@ No todos los mundos son indefensos ante los desastres. Las defensas pueden proce
 La frecuencia de las incursiones varía. Algunos mundos nunca han conocido una; otros han sufrido varias y han incorporado esa experiencia a su historia, cultura, arquitectura, instituciones y protocolos. Conocer las incursiones no significa comprender el origen de cada visitante ni poder detenerlo siempre.
 
 Un mundo puede herir, contener, expulsar, derrotar o matar a un desastre. También puede fracasar y ser destruido. La regeneración planetaria puede reconstruir estructuras, adaptar defensas o aislar regiones, pero exige tiempo y recursos; no devuelve a los muertos ni recupera automáticamente especies, culturas o territorios perdidos. No existe una escala universal que determine quién vence.
+
+
+## Sathra — capítulo 20: las ciudades que colgaban del abismo
+
+**Llegada y salida:** Kevin llegó el día 1 a las 06:17 y desapareció el día 3 a las 22:04. Estancia total: 63 horas y 47 minutos.
+
+Sathra es un mundo de cuatro grandes masas continentales, dos océanos interiores y regiones de fractura geológica. Edras contiene mesetas, gargantas profundas y ciudades excavadas o suspendidas en paredes de roca. Mavren tiene llanuras de piedra roja y lagos minerales; Osk, cordilleras huecas y cuencas subterráneas; Talar, costas quebradas, bosques de tallos pétreos y puertos de acantilado. Las distancias entre continentes requieren meses de viaje.
+
+Los orai tienen cuatro brazos y membranas de planeo con las que descienden entre plataformas, pero no vuelan libremente. Los dren de Mavren tienen piel mineral y cuerpos compactos; los ulmar de Osk se desplazan por galerías y detectan vibraciones; los sere de Talar mantienen comunidades entre tallos pétreos costeros.
+
+### Capítulo 20 — conflicto y resultado
+
+- **Conflicto previo:** la guerra de los siete estados de Urd llevaba veintisiete días activa. El Alto Pacto controlaba las ciudades altas y la regulación de puentes y elevadores; la Liga de las Cuencas exigía reabrir corredores de alimento y descenso. El asesinato del Orador Mayor había roto el acuerdo político. El conflicto no afectaba de la misma manera al resto de Sathra.
+- **Llegada:** Kevin apareció bajo el puente oriental de Avarn. Una manifestación dañó tres soportes y provocó la inclinación parcial del tramo; cinco muertos quedaron confirmados y hubo desaparecidos.
+- **Personajes principales:** Sura Vel, capitana de tránsito; Orren Dhal, antiguo ingeniero de elevadores; Neris Avar, regente de Avarn; Vas Teren, mariscal del Alto Pacto; Khor Venn, comandante de la Liga; y Teyra, capitana de la casa Avar.
+- **Evacuación:** 184 civiles quedaron sin acceso a la galería interior. Sura y Orren organizaron una ruta alternativa por un conducto de mantenimiento. Kevin acompañó la columna.
+- **Intervenciones de Kevin:** una manifestación dañó el cierre de una compuerta sin abrirla y otra afectó una unión del sistema de descenso durante el combate. La plataforma quedó suspendida y fue bajada manualmente por trabajadores y defensores. Kevin no obtuvo control fiable.
+- **Decisión política:** Neris acudió al séptimo anclaje y abrió el corredor civil. La tregua que firmó con Khor durará nueve días; Vas no la firmó y conserva fuerzas en la ciudad alta.
+- **Resultado:** 178 personas llegaron a Dhal; dos murieron durante el descenso y cuatro quedaron desaparecidas. La tregua no resolvió la guerra ni el asesinato del Orador Mayor. El puente oriental necesita reparaciones y el Alto Pacto sigue dividido.
+- **Estado de Kevin:** no murió ni se regeneró. No obtuvo control nuevo. Se marchó con un mapa de los niveles inferiores que le entregó Orren.
+
+### Estado abierto de Sathra
+
+La tregua de nueve días puede romperse o renovarse, pero su resultado posterior no está establecido. Vas continúa activo y rechaza el acuerdo. La Liga de las Cuencas está dividida. El asesinato del Orador Mayor sigue sin resolverse. Los conflictos de Mavren, Osk y Talar continúan de forma independiente.
