@@ -417,3 +417,16 @@ No se exige mostrar todos los territorios ni introducir escenas remotas por obli
 - **Personajes:** Sura, Orren, Neris, Vas, Khor y Teyra sobrevivieron. Orren quedó herido; la autoridad de Neris sigue cuestionada. La niña de la marca blanca encontró a su tío herido.
 - **Estado de Kevin:** no murió ni se regeneró. No obtuvo control nuevo. Acompañó la evacuación, pero no resolvió la guerra ni reparó los daños que causó.
 - **Archivo:** `CAPITULOS/20_SATHRA_LAS_CIUDADES_QUE_COLGABAN_DEL_ABISMO.md`.
+
+
+## 21. Resumen del capítulo 21 — Kheled, la guerra sin vencedores
+
+- **Archivo:** `CAPITULOS/21_KHELD_LA_GUERRA_SIN_VENCEDORES.md`.
+- **Mundo:** Kheled, cuatro continentes y mares interiores, conectados por la Trama de Marea, red de distribución de agua.
+- **Llegada y salida:** Kevin llegó el día 1 a las 09:42 y desapareció el día 6 a las 03:24. Estancia total: 113 horas y 42 minutos.
+- **Conflicto:** la Liga del Cáliz controlaba las Vasijas Altas y las cuencas superiores; la Concordia de las Fosas controlaba las Gargantas Profundas. Ambos bandos llevaban diecisiete años en guerra por el control de la Trama. Sus líderes, Maera Voss e Ishren Tal, habían sido antiguos aliados.
+- **Personajes:** Yara Senn, Custodia del Umbral; Maera Voss, Primera Custodia del Cáliz; Ishren Tal, Voz Mayor de las Fosas; Draev Or, comandante de las torres; Varek Nul, general de la Guardia Abisal; Selka Or y Tess Varn.
+- **Intervención de Kevin:** una manifestación inicial dañó conductos y derribó torres. Más tarde fue herido y contenido por Maera; escapó cuando la estación neutral fue atacada y se derrumbó. Cuando ambos bandos activaron sus armas simultáneamente, Kevin enfocó su intención en detener las redes que las alimentaban. El poder cortó conexiones principales y secundarias que él no podía seleccionar ni ver.
+- **Combates y muertes:** los ejércitos perdieron sus estructuras de mando. Draev murió sosteniendo una barrera para sus soldados; Varek murió sosteniendo una salida de emergencia. Maera e Ishren desaparecieron juntos en el derrumbe del arco central; sus cuerpos no fueron recuperados y su destino no está confirmado.
+- **Resultado:** la Liga y la Concordia dejaron de existir como fuerzas militares organizadas. La guerra terminó sin vencedores. Kheled no fue destruido como planeta, pero Veyr sufrió daños extensos y la Trama de Marea perdió sus conexiones principales. No hay balance total fiable de muertos y desaparecidos.
+- **Kevin:** no murió ni se regeneró. No obtuvo control ni técnica nueva. Comprende que su intervención fue deliberada, pero el resultado excedió su intención. No sabe si evitó una catástrofe mayor o si extendió el daño.
