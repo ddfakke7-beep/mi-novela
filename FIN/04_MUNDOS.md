@@ -570,3 +570,41 @@ Los orai tienen cuatro brazos y membranas de planeo con las que descienden entre
 ### Estado abierto de Sathra
 
 La tregua de nueve días puede romperse o renovarse, pero su resultado posterior no está establecido. Vas continúa activo y rechaza el acuerdo. La Liga de las Cuencas está dividida. El asesinato del Orador Mayor sigue sin resolverse. Los conflictos de Mavren, Osk y Talar continúan de forma independiente.
+
+
+## Kheled — Capítulo 21: la guerra sin vencedores
+
+Kheled es un mundo de cuatro continentes y mares interiores, conectado por una red natural y artificial de corrientes de agua. No existe un gobierno mundial.
+
+- **Veyr:** mesetas rojas, cuencas superiores y galerías profundas. Allí se encontraban los centros de la Liga del Cáliz y la Concordia de las Fosas, además de la Boca de Khar.
+- **Ossan:** meseta de lagos minerales y bosques de piedra. Sus comunidades mantienen depósitos naturales y redes de canales menores.
+- **Mareth:** costas profundas y ciudades construidas alrededor de respiraderos oceánicos. La detención de varios respiraderos obligó a evacuar asentamientos costeros.
+- **Druun:** llanura meridional de cristal móvil. Sus comunidades nómadas conservan pozos naturales y rutas estacionales.
+
+### Sistemas y conflicto
+
+La **Trama de Marea** era una red de conductos, cámaras y nodos que distribuía agua entre cuencas, respiraderos y depósitos. No era consciente. Su equilibrio dependía de las corrientes superiores y profundas.
+
+La **Liga del Cáliz** controlaba las Vasijas Altas, depósitos y torres de presión que almacenaban lluvia y abastecían las mesetas. La **Concordia de las Fosas** controlaba las Gargantas Profundas, conductos que distribuían agua desde capas inferiores y respiraderos. Ambos sistemas podían concentrar presión y utilizarla como arma, pero dependían de la Trama compartida.
+
+La guerra abierta llevaba diecisiete años. Maera Voss e Ishren Tal habían sido aprendices del mismo arquitecto de aguas y trabajaron juntos antes de separarse por una inversión fallida que inundó ciudades y secó una cuenca. Cada bando consideraba que controlar la Trama era la única forma de sobrevivir. La activación simultánea de las Vasijas y las Gargantas provocó la inversión de presión.
+
+### Desenlace
+
+Kevin enfocó su intención en detener las redes que alimentaban las armas. Su poder cortó conexiones principales y secundarias, incluidas conducciones de distribución en regiones alejadas. Las Vasijas Altas y las Gargantas Profundas colapsaron. La Liga del Cáliz y la Concordia de las Fosas dejaron de existir como fuerzas militares organizadas; la guerra terminó sin vencedores.
+
+Kheled no fue destruido como planeta. Veyr sufrió inundaciones, derrumbes, ciudades aisladas y pérdida de abastecimiento. Ossan, Mareth y Druun conservaron comunidades y fuentes independientes, aunque también sufrieron daños y aislamiento. No existe un recuento total fiable de muertos o desaparecidos: los registros se perdieron y las comunicaciones quedaron interrumpidas.
+
+### Personajes principales
+
+- **Yara Senn:** Custodia del Umbral que rescató a Kevin, lo ayudó a escapar y organizó evacuaciones. Sobrevivió. No lo perdonó ni lo considera inocente.
+- **Maera Voss:** Primera Custodia del Cáliz. Antiguamente fue aliada y compañera de estudios de Ishren. Desapareció junto a él en el derrumbe del arco central; su cuerpo no fue recuperado.
+- **Ishren Tal:** Voz Mayor de la Concordia de las Fosas. Antiguo aliado de Maera. Desapareció en el mismo derrumbe; su cuerpo no fue recuperado.
+- **Draev Or:** comandante de las torres de presión del Cáliz. Murió sosteniendo una barrera para permitir la retirada de sus soldados.
+- **Varek Nul:** general de la Guardia Abisal. Murió sosteniendo una salida de emergencia para sus soldados.
+- **Selka Or:** gobernadora de Veyrahn. Sobrevivió y organizó evacuaciones y racionamiento.
+- **Tess Varn:** comandante superviviente de la Guardia Abisal. Sobrevivió herida y organizó rescates.
+
+### Estado abierto
+
+Los cuerpos de Maera e Ishren no fueron recuperados; no confirmar su muerte absoluta ni su supervivencia sin nueva evidencia. Los supervivientes de ambos bandos pueden formar nuevas comunidades o grupos, pero su futuro no está establecido. La Trama de Marea perdió conexiones principales y no volverá a distribuir el agua como antes sin una reconstrucción prolongada. Los Custodios del Umbral siguen activos; Yara permanece en Kheled.
