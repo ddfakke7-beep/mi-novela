@@ -1,7 +1,7 @@
 # FIN — Guía principal del proyecto
 
 **Tipo:** ficción · multiverso · destrucción · desesperación · batallas épicas  
-**Estado:** narración en curso; diecinueve capítulos completos.  
+**Estado:** narración en curso; veinte capítulos completos.  
 **Ubicación:** carpeta `FIN/` en el repositorio `mi-novela`.
 
 ## Identidad e independencia
@@ -299,3 +299,10 @@ El capítulo 19 establece que algunos mundos han sufrido varias incursiones y pu
 ## Criterio de autoría: mundos capaces de resistir desastres
 
 No asumir que los desastres son invencibles ni que todos los mundos desconocen su existencia. Algunas realidades tienen defensas, poderes, estructuras, ecosistemas o mecanismos capaces de herir, contener, expulsar, derrotar o matar a un desastre. En ciertos mundos las incursiones son históricamente conocidas; en otros serán una novedad. Los resultados dependen de cada realidad y no de una escala universal. La regeneración del mundo tiene límites, costes y tiempos, y no resucita a los muertos.
+
+
+## Estado actualizado tras el capítulo 20
+
+FIN cuenta con veinte capítulos completos. El último mundo visitado fue Sathra. Kevin llegó el día 1 a las 06:17 y desapareció el día 3 a las 22:04, tras 63 horas y 47 minutos. Sathra no sufrió una catástrofe mundial: el conflicto de los siete estados de Urd continúa, pero una tregua de nueve días permitió mantener abierto un corredor civil. Kevin causó daños graves en el puente oriental y en varios mecanismos de descenso; también acompañó a una columna de evacuados que consiguió llegar a Dhal. Consultar `07_CONTINUIDAD.md` para el punto exacto de reanudación.
+
+El capítulo 20 cambia el foco respecto a Mairen: la guerra y sus disputas existían antes de Kevin y continuarán después de su marcha. Los habitantes no dependieron de él para resolver el conflicto; Sura, Orren, Neris, trabajadores y guardias sostuvieron la evacuación y el acuerdo temporal. Kevin no obtuvo control nuevo ni conoció a otros viajeros.
