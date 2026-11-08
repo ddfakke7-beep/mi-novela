@@ -640,3 +640,24 @@ Conseguir uno de estos recursos puede convertirse en un objetivo importante de K
 La idea permite introducir esperanza y progreso sin invalidar las consecuencias: Kevin podría llegar a causar menos daños en determinadas circunstancias, pero seguirá siendo incapaz de controlar su poder y nunca tendrá garantías absolutas sobre el resultado. Ivara podría reducir ciertos efectos de su contaminación sin eliminar necesariamente su naturaleza ni reparar lo que ya se perdió.
 
 **Estado:** semilla provisional aceptada para conservar, aplicable a Kevin y también a Ivara. No existe todavía un artefacto concreto, nombre, mundo de origen, método de obtención ni efecto confirmado. No está asignada a un capítulo. Solo será canon cuando una historia establezca sus características y límites.
+
+
+## 15. Una guerra en la que Kevin termina destruyendo a ambos bandos
+
+**Origen de la idea:** propuesta del usuario al señalar que Kevin no debería limitarse a visitar conflictos locales. Una guerra entre dos bandos podría terminar con la destrucción de ambos a consecuencia de la intervención de Kevin.
+
+Un mundo puede estar atrapado en una guerra entre dos fuerzas importantes, ambas con historia, motivos, personajes relevantes, recursos y capacidad real para defenderse. No tienen por qué ser equivalentes ni moralmente idénticas: cada bando puede tener razones comprensibles, errores, atrocidades, objetivos incompatibles y personas que no desean combatir.
+
+La intervención de Kevin puede convertir esa guerra en una catástrofe irreversible. En lugar de actuar como visitante ocasional que presencia el conflicto, su presencia y sus decisiones pasan a ser un factor determinante en el destino de ambos bandos. Una posibilidad es que, durante una escalada de enfrentamientos, Kevin termine provocando —intencionalmente en parte o como consecuencia que no previó— la destrucción de las dos fuerzas. La historia debe decidir qué ocurrió y por qué; no asumir que Kevin llegó con el objetivo de exterminarlas.
+
+**Condiciones para que tenga peso:**
+- Los dos bandos deben existir como sociedades y fuerzas vivas, no como etiquetas intercambiables de «buenos» y «malos». Sus líderes, combatientes, civiles y figuras relevantes necesitan identidad, objetivos y decisiones propias.
+- La guerra debe tener causas concretas y consecuencias anteriores a la llegada de Kevin. No debe existir únicamente para darle una excusa de combate.
+- Ambos bandos deben ofrecer resistencia significativa. Sus combatientes y figuras poderosas pueden herir, sorprender, contener o forzar a Kevin a cambiar de estrategia; no deben ser derrotados como extras.
+- La destrucción de ambos debe desarrollarse en escenas y decisiones comprensibles: resistencia, contraataques, intentos de detener la escalada, sacrificios, errores y consecuencias para quienes quedan atrapados.
+- Kevin no tiene que ser el único responsable de cada muerte ni controlar el resultado de su poder. Hay que distinguir qué decide hacer, qué consecuencias provoca su poder y qué acciones toman los propios bandos.
+- No convertir automáticamente a Kevin en un salvador, villano o juez moral. El lector puede comprender sus motivos sin tener que aprobarlos; los habitantes pueden considerarlo responsable y oponérsele legítimamente.
+- La caída de los dos bandos no debe significar necesariamente que todo el planeta desaparezca. Puede quedar un mundo devastado, fragmentado o sin las estructuras que lo gobernaban, con supervivientes que tendrán que afrontar lo ocurrido.
+- No repetir esta posibilidad como fórmula en todos los mundos. Es una semilla para un conflicto de gran impacto, no una obligación para el capítulo inmediatamente siguiente.
+
+**Estado:** idea provisional conservada a partir de la propuesta del usuario. No tiene mundo, personajes, causa de guerra, capítulo ni desenlace asignados. No es canon hasta que una narración establezca los hechos.
