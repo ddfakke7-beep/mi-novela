@@ -16,6 +16,8 @@ ChatGPT crea autónomamente los mundos, su historia, culturas, sociedades, confl
 
 Los mundos deben concebirse como entornos completos y extensos, no como mapas pequeños alrededor de una sola ciudad. Según corresponda, registrar continentes, océanos, países, imperios, reinos, regiones, rutas, ciudades y territorios remotos. Las facciones y potencias pueden estar dispersas y responder desde distintos puntos; las distancias y comunicaciones deben afectar a la movilización.
 
+**La escala del mundo no determina automáticamente la escala de cada conflicto.** Antes de diseñar una guerra, precisar si es local, regional, continental, intercontinental o planetaria. Si se plantea como mundial, debe involucrar de forma demostrable a varias regiones: frentes, potencias, decisiones, alianzas, neutralidades, suministros, migraciones o consecuencias políticas y materiales. No basta con que una infraestructura común conecte los continentes o que el daño de una batalla se propague por ella. Si los ejércitos, mandos y objetivos están concentrados en un continente, describir el conflicto como regional o continental, aunque tenga efectos indirectos fuera de él.
+
 La Tierra puede tener potencias ocultas de escala global, como dioses, entidades antiguas o guardianes, con intereses y conflictos propios. No se asume que sean todos benevolentes ni que gobiernen abiertamente.
 
 ## 4. Ficha para cada mundo
@@ -306,8 +308,11 @@ Antes de narrar un mundo, comprobar:
 5. ¿Existen personajes poderosos que no están al lado de Kevin?
 6. ¿El mundo tiene conflictos que seguirían existiendo sin él?
 7. ¿El desenlace afecta al mundo de manera proporcionada y no necesariamente lo destruye?
+8. ¿La escala que se atribuye al conflicto coincide con los territorios, frentes y potencias que realmente aparecen?
+9. Si el conflicto se llama mundial o intercontinental, ¿se perciben las decisiones y consecuencias en regiones alejadas, no solo el efecto de una infraestructura compartida?
+10. Si la acción se concentra en una región, ¿está nombrada y tratada como una guerra regional o continental en vez de inflarla con afirmaciones generales?
 
-No es necesario mostrar cada elemento en todos los capítulos, pero la construcción debe tener respuestas coherentes para ellos.
+No es necesario mostrar cada elemento en todos los capítulos, pero la construcción debe tener respuestas coherentes para ellos. La escala declarada debe corresponder a la escala dramatizada.
 
 
 ## Mundo 10 — Taurak
@@ -608,6 +613,10 @@ Kheled no fue destruido como planeta. Veyr sufrió inundaciones, derrumbes, ciud
 ### Estado abierto
 
 Los cuerpos de Maera e Ishren no fueron recuperados; no confirmar su muerte absoluta ni su supervivencia sin nueva evidencia. Los supervivientes de ambos bandos pueden formar nuevas comunidades o grupos, pero su futuro no está establecido. La Trama de Marea perdió conexiones principales y no volverá a distribuir el agua como antes sin una reconstrucción prolongada. Los Custodios del Umbral siguen activos; Yara permanece en Kheled.
+
+### Precisión sobre la escala de la guerra
+
+La guerra narrada en el capítulo 21 se desarrolló principalmente en Veyr, alrededor de los centros de poder de la Liga del Cáliz y la Concordia de las Fosas. Aunque la Trama de Marea conectaba regiones de otros continentes y su colapso produjo consecuencias fuera de Veyr, el capítulo no mostró una guerra intercontinental o planetaria: no desarrolló frentes militares autónomos en Ossan, Mareth y Druun ni la intervención sostenida de sus potencias. Por tanto, debe entenderse como un conflicto concentrado en Veyr con repercusiones más amplias, no como una guerra mundial plenamente representada. Esta precisión evalúa el alcance mostrado; no añade acontecimientos retroactivos ni cambia el canon del capítulo.
 
 
 ## 21. Historias propias de los mundos y participación activa de Kevin
