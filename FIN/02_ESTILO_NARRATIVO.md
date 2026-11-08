@@ -603,3 +603,18 @@ La autonomía de los mundos no debe convertir a Kevin en un visitante pasivo. Au
 - **Ritmo sin plantilla:** variar el tipo, la intensidad y la ubicación de la acción según el mundo. Un Murim puede expresarla mediante duelos, persecuciones entre sectas y asedios; una fantasía ecológica, mediante expediciones, criaturas y defensas vivas; otro mundo puede sostenerla con intriga, supervivencia o conflictos sobrenaturales. No repetir una misma secuencia de llegada, charla, explicación y batalla final.
 
 **Criterio de revisión:** al terminar un capítulo, comprobar si Kevin tuvo objetivos reconocibles, tomó decisiones importantes y participó activamente en varios momentos del desarrollo. Si la mayor parte de los acontecimientos habría ocurrido igual sin que él hiciera nada, o si su papel principal fue observar y dejarse llevar, el capítulo necesita más iniciativa del protagonista. Esta comprobación no exige una cuota numérica de peleas ni reduce la historia a Kevin.
+
+
+## 17. Kevin puede ser el conflicto, no solo intervenir en él
+
+No escribir todos los mundos como problemas preexistentes ante los que Kevin decide actuar. Su llegada y su existencia pueden convertirse en el detonante, la amenaza principal o el motivo por el que los conflictos locales cambian de escala.
+
+- En algunos capítulos, Kevin puede ser el elemento que desestabiliza un equilibrio, provoca una crisis o fuerza a facciones enemigas a cooperar para detenerlo.
+- Puede ocupar el lugar de antagonista desde la perspectiva de los habitantes. La narración puede seguir cerca de Kevin sin invalidar el miedo, la resistencia ni las razones de quienes se enfrentan a él.
+- Puede ser perseguido, cazado, estudiado, engañado, aislado o atacado por una coalición formada específicamente para detenerlo. Esa coalición debe tener motivos, tensiones y límites propios; no surgir automáticamente en cada mundo.
+- Su poder puede provocar consecuencias involuntarias, pero también debe haber espacio para que sus decisiones conscientes desencadenen conflictos. No reducir toda responsabilidad a accidentes ni atribuirle intención cuando no la hubo.
+- Los habitantes pueden aprovechar su presencia contra un enemigo, intentar dirigirlo hacia otro objetivo o considerar que, una vez desaparecida la amenaza inicial, Kevin se ha convertido en el peligro que queda.
+- Alternar su papel según la historia: detonante, amenaza, objetivo de una cacería, aliado incómodo, participante de una guerra, protector temporal, adversario o testigo implicado. No convertir estos papeles en una plantilla fija.
+- Mantener la autonomía de los personajes locales: pueden organizar la resistencia, tomar decisiones decisivas, vencer a sus enemigos o incluso conseguir detener a Kevin sin que él les ceda voluntariamente el protagonismo.
+
+La pregunta narrativa no siempre será «¿qué hará Kevin para resolver este mundo?». A veces será «¿qué hará este mundo para sobrevivir a Kevin?» y otras «¿qué ocurre cuando Kevin y los habitantes necesitan cosas incompatibles?».
