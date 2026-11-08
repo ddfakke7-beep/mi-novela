@@ -403,3 +403,17 @@ No se exige mostrar todos los territorios ni introducir escenas remotas por obli
 - **Personajes:** Ivara permanece en Mairen; Dema sobrevivió y coordinó el aislamiento de Ordal; comunidades de Neth y Ura actuaron por sus propios medios.
 - **Estado de Kevin:** no murió ni se regeneró. Conserva el pequeño dragón de madera de Eren, de Tiravel. No conoce el origen de Ivara, el mecanismo de la supresión parcial ni el funcionamiento profundo de la Médula.
 - **Archivo:** `FIN/CAPITULOS/19_MAIREN_EL_MUNDO_QUE_CERRABA_SUS_HERIDAS.md`.
+
+
+## 28. Resumen del capítulo 20 — Sathra
+
+- **Archivo:** `CAPITULOS/20_SATHRA_LAS_CIUDADES_QUE_COLGABAN_DEL_ABISMO.md`.
+- **Mundo:** Sathra, con cuatro grandes masas continentales, dos océanos interiores y regiones de fractura geológica. Edras contiene las ciudades verticales de la Garganta de Urd; Mavren, Osk y Talar poseen geografías, especies y conflictos propios.
+- **Llegada y salida:** Kevin llegó el día 1 a las 06:17 y desapareció el día 3 a las 22:04. Estancia total: 63 horas y 47 minutos.
+- **Conflicto:** la guerra de los siete estados de Urd enfrentaba al Alto Pacto y la Liga de las Cuencas tras el asesinato del Orador Mayor. Las restricciones de tránsito y alimento habían dejado a numerosos civiles atrapados entre los niveles de Avarn y Dhal.
+- **Kevin:** una manifestación inicial hizo perder tensión a varios soportes del puente oriental, que se inclinó parcialmente. Cinco muertos quedaron confirmados y hubo desaparecidos. Más tarde, otras manifestaciones dañaron el cierre de una compuerta y una unión del mecanismo de descenso. Kevin no controló ni comprendió esos efectos.
+- **Respuesta local:** Sura Vel y Orren Dhal organizaron una ruta alternativa para 184 civiles. Neris Avar acudió al séptimo anclaje y abrió el corredor; trabajadores, guardias y evacuados sostuvieron el descenso. Khor Venn aceptó una tregua de nueve días; Vas Teren la rechazó.
+- **Resultado:** 178 civiles llegaron a Dhal, dos murieron durante el descenso y cuatro quedaron desaparecidos. El puente oriental necesita reparaciones. La guerra continúa y el asesinato del Orador Mayor no ha sido esclarecido.
+- **Personajes:** Sura, Orren, Neris, Vas, Khor y Teyra sobrevivieron. Orren quedó herido; la autoridad de Neris sigue cuestionada. La niña de la marca blanca encontró a su tío herido.
+- **Estado de Kevin:** no murió ni se regeneró. No obtuvo control nuevo. Acompañó la evacuación, pero no resolvió la guerra ni reparó los daños que causó.
+- **Archivo:** `CAPITULOS/20_SATHRA_LAS_CIUDADES_QUE_COLGABAN_DEL_ABISMO.md`.
