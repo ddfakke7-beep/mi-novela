@@ -317,3 +317,14 @@ El capítulo 20 cambia el foco respecto a Mairen: la guerra y sus disputas exist
 FIN cuenta con veintiún capítulos completos. El último mundo visitado fue Kheled; Kevin llegó el día 1 a las 09:42 a la Llanura de las Dos Mareas y desapareció el día 6 a las 03:24, tras una estancia de 113 horas y 42 minutos. La Liga del Cáliz y la Concordia de las Fosas perdieron sus estructuras militares y la Trama de Marea quedó gravemente dañada por la intervención de Kevin. La guerra terminó sin vencedores, pero el mundo no fue destruido y sus supervivientes deberán reconstruir sus sistemas de agua. Consultar `07_CONTINUIDAD.md` para el punto exacto de reanudación.
 
 El capítulo 21 incorpora la posibilidad de que Kevin deje de ser un visitante periférico y se convierta en un factor decisivo de un conflicto: su intervención deliberada buscó detener las redes que alimentaban las armas de ambos bandos, pero el poder actuó de forma autónoma y extendió el daño mucho más allá de lo que podía prever. Los personajes locales mantuvieron agencia, combatieron, tomaron decisiones y organizaron rescates. La comprensión de la intención de Kevin no implica perdón.
+
+## Principio rector actualizado: Kevin protagonista de su vida y mundos con continuidad propia
+
+La narración debe sostener dos autonomías al mismo tiempo:
+
+- **Kevin debe protagonizar su propia existencia.** No basta con que sea el hilo que conecta mundos ni con que reaccione a lo que sucede a su alrededor. Sus deseos, objetivos, decisiones, relaciones, conflictos personales y evolución respecto a su naturaleza deben avanzar de forma continua. No necesita ser el centro de los acontecimientos de cada mundo.
+- **Cada mundo debe conservar su propia historia.** Sus potencias, facciones, personajes y conflictos no pueden reducirse a quienes se encuentran directamente con Kevin. Las fuerzas importantes presentadas deben mantener agendas, tomar decisiones, actuar y evolucionar durante el capítulo, incluso fuera de su campo de visión.
+- **La intersección entre ambos es el motor de la variedad.** Kevin puede alterar los planes del mundo, convertirse en amenaza o aliado, frustrar objetivos o ser afectado por decisiones que desconoce. Las potencias también pueden cambiar el curso de la vida de Kevin sin convertirse en simples instrumentos de su desarrollo.
+- **La narración no debe estrecharse automáticamente** desde una presentación amplia del mundo hacia un pequeño grupo de personajes que acompaña a Kevin. Mantener perspectivas y líneas de acción relevantes de las potencias y personajes autónomos hasta que sus conflictos se resuelvan, transformen o queden abiertos con consecuencias claras.
+
+Este principio complementa las reglas de protagonismo activo y de Kevin como catalizador o amenaza: ser protagonista de su vida no equivale a ser protagonista de todos los mundos.
