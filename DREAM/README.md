@@ -1,7 +1,6 @@
 # DREAM — Sistema transferible de dirección creativa
 
 ## Qué es
-
 DREAM es un sistema de trabajo para que cualquier modelo pueda desarrollar una historia con continuidad, crecimiento acumulativo, invención y control de calidad, incluso si cambia la conversación, la cuenta o el escritor.
 
 No es una novela ni un canon compartido. Es el protocolo de trabajo que acompaña a cada proyecto.
@@ -20,6 +19,12 @@ No es una novela ni un canon compartido. Es el protocolo de trabajo que acompañ
 6. [05_CONTROL_EDITORIAL.md](05_CONTROL_EDITORIAL.md) — Revisión de continuidad, causalidad, personajes, invención y experiencia del lector.
 7. [06_REGISTRO_DE_REPETICIONES.md](06_REGISTRO_DE_REPETICIONES.md) — Memoria de mecanismos y oportunidades por proyecto.
 8. [07_TRANSFERENCIA_Y_CIERRE_DE_SESION.md](07_TRANSFERENCIA_Y_CIERRE_DE_SESION.md) — Memoria persistente, crecimiento acumulado y entrega al siguiente modelo.
+
+## Proyectos
+
+Cada obra conserva su propia biblia, canon y registros. Las propuestas no se convierten en canon hasta que estén aprobadas según las reglas de ese proyecto.
+
+- [Primera Frontera — Biblia inicial](PROYECTOS/PRIMERA_FRONTERA/00_BIBLIA_INICIAL.md) — Nueva historia de supervivencia, exploración de un mundo desconocido, progresión y búsqueda de puertas físicas ocultas. La saga inicial y sus detalles siguen siendo una planificación provisional.
 
 ## Límite absoluto
 
