@@ -115,3 +115,11 @@ Cada capítulo de Primera Frontera que se entregue al usuario debe subirse tambi
 
 No sobrescribir capítulos anteriores ni tocar otros proyectos. Si GitHub no está disponible o la subida falla, decirlo expresamente: nunca afirmar que el capítulo está publicado ni inventar un enlace. Esta regla complementa el protocolo global de DREAM, sección 10.
 
+### Carpeta de capítulos de Primera Frontera
+
+Los capítulos se publicarán individualmente dentro de:
+
+`DREAM/PROYECTOS/PRIMERA_FRONTERA/CAPITULOS/`
+
+Nomenclatura correlativa: `001-titulo-del-capitulo.md`, `002-titulo-del-capitulo.md`, etc. Cada archivo contendrá el capítulo completo, revisado y listo para leer. Mantener un índice con enlaces a los capítulos publicados. GitHub crea la carpeta al subir el primer archivo; no se necesita un directorio vacío.
+
