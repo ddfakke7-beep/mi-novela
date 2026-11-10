@@ -16,6 +16,7 @@ El capítulo que se entrega debe ser una versión trabajada, no el primer desarr
 - ¿Hay soluciones por conveniencia?
 - ¿Las reacciones son proporcionales a lo ocurrido?
 - ¿El mundo sigue funcionando cuando el protagonista no interviene?
+- ¿Una limitación es real, circunstancial o moral, o aparece únicamente para impedir una solución?
 
 ### 3. Lectura de personajes
 - ¿Cada personaje importante quiere algo concreto?
@@ -23,6 +24,8 @@ El capítulo que se entrega debe ser una versión trabajada, no el primer desarr
 - ¿Hay desacuerdos reales entre aliados?
 - ¿Los secundarios tienen vida y consecuencias propias?
 - ¿Algún personaje solo aparece para explicar, ayudar, sufrir o morir?
+- ¿El personaje conserva lo que aprendió y las decisiones que ya demostró poder tomar?
+- ¿La duda, la culpa, la compasión o la recaída tienen una causa concreta, o se repiten para alargar el conflicto?
 
 ### 4. Lectura de invención
 - ¿El capítulo repite la estructura de otros?
@@ -30,6 +33,7 @@ El capítulo que se entrega debe ser una versión trabajada, no el primer desarr
 - ¿Aprovecha elementos ya sembrados?
 - ¿Abre posibilidades nuevas sin saturar la historia?
 - ¿Hay una decisión, relación o consecuencia que no sea intercambiable con la de otro capítulo?
+- ¿Si el protagonista resolviera ahora el conflicto, qué experiencia legítima quedaría por contar? ¿La historia está evitando esa resolución por una razón real o por dependencia del antagonista?
 
 ### 5. Lectura como espectador
 Leer sin defender las intenciones del autor:
@@ -40,6 +44,18 @@ Leer sin defender las intenciones del autor:
 - ¿Qué me sorprendió y estaba preparado?
 - ¿Qué emoción produce el desenlace?
 - ¿Quiero continuar por una pregunta viva o solo porque queda otro capítulo?
+
+## Auditoría de agencia y conflicto
+
+Aplicar `08_AGENCIA_COHERENCIA_Y_CIERRE.md` a toda secuencia central. En particular:
+- Comprobar que el protagonista no pierde de pronto capacidades, experiencia, inteligencia o determinación ya demostradas.
+- Diferenciar una decisión moral de una incapacidad inventada por el guion.
+- Exigir una razón específica para que una amenaza no pueda detenerse de forma directa.
+- Evaluar los planes antagonistas por objetivo, información, recursos, coste, alternativas y resultado posible.
+- Si un enemigo actúa de forma irracional, dejar claro qué motivación lo impulsa y no presentar su conducta como estrategia brillante sin sustento.
+- Comprobar que la violencia, la contención y las consecuencias no tengan reglas distintas solo para favorecer a una parte.
+- Aceptar que una victoria pueda cerrar un conflicto; no crear una escapatoria únicamente para conservar al antagonista.
+- Considerar el cierre de una novela o saga como una opción legítima cuando su promesa dramática ya se cumplió.
 
 ## Diagnóstico de escenas
 
@@ -63,6 +79,9 @@ Reescribir una escena o secuencia si:
 - Las consecuencias desaparecen en el capítulo siguiente.
 - Una idea importante se introduce y se abandona sin intención.
 - El capítulo solo funciona si el lector acepta que algo es «épico» porque el texto lo afirma.
+- Un personaje retrocede sin causa suficiente o una capacidad demostrada desaparece por conveniencia.
+- El antagonista repite una estrategia que solo produce pérdidas sin que la historia explique qué espera conseguir.
+- El conflicto continúa únicamente porque el protagonista no ejecuta una solución que ya está a su alcance y no existe un coste o límite creíble que lo justifique.
 
 Si el problema afecta la premisa o la estructura del capítulo, no maquillar frases: reconsiderar la arquitectura.
 
