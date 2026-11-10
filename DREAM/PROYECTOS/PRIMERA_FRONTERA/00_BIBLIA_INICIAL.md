@@ -152,3 +152,42 @@ La progresión del protagonista debe ser **constante y necesaria para sobrevivir
 - La recuperación puede ser extraordinaria conforme se definan las reglas del mundo, pero no debe confundirse con evolución ni con dominio de poderes. Cada proceso conserva su lógica y sus límites.
 
 **Principio rector:** el protagonista crece porque el mundo exige que crezca. El lector debe poder mirar atrás y notar cuánto ha avanzado desde que era un humano normal, mientras comprende que todavía existen peligros que justifican su siguiente paso.
+
+## 11. Avance entre fronteras: el mundo obliga a seguir
+
+La búsqueda de puertas no es únicamente el objetivo de la primera saga ni una excusa para cambiar de escenario. Es el mecanismo de avance que sostiene el recorrido completo del protagonista. Las sagas son divisiones narrativas; no significan que el protagonista pueda instalarse indefinidamente en una zona ni que cada saga tenga que repetir el mismo ciclo con criaturas más fuertes.
+
+**Principio confirmado:** el protagonista debe seguir avanzando porque permanecer atrás, tarde o temprano, deja de ser una opción segura. El propio mundo y su estructura lo empujan a superar sus límites. No necesita recibir una misión ni una orden: debe descubrir qué está cambiando, qué amenaza se aproxima, qué recursos dejan de bastar o qué obstáculo le impide continuar.
+
+Esto no significa introducir una cuenta regresiva arbitraria en cada territorio ni hacer que aparezca de la nada un monstruo más poderoso para expulsarlo. La presión debe nacer de las reglas concretas del lugar y de sus consecuencias. Según el territorio, puede manifestarse mediante:
+- Recursos indispensables que se agotan, escasean o dejan de ser accesibles.
+- Cambios ambientales, ciclos, fenómenos o condiciones que vuelven inhabitable una zona.
+- Expansión, migración o cambios de comportamiento de criaturas que alteran el equilibrio conocido.
+- Amenazas que empiezan a alcanzar zonas antes relativamente seguras, por causas comprensibles.
+- Límites del propio territorio: para conseguir lo necesario para sobrevivir o evolucionar, debe internarse en zonas nuevas.
+- La propia puerta, cuyo acceso, apertura o cruce exige capacidades, conocimientos o preparación que todavía no posee.
+- Otras reglas particulares que cada mundo, nivel, planeta, dimensión o prueba establezca.
+
+No todas estas presiones tienen que aparecer juntas ni en todos los territorios. Cada etapa necesita su propia lógica. Puede haber periodos de estabilidad y lugares donde el protagonista consiga dominar buena parte de los peligros; lo que no debe ocurrir es que la historia lo mantenga allí sin una razón, una necesidad o un conflicto fértil cuando ya no queda nada significativo que lo obligue a crecer o explorar.
+
+### La puerta y lo que hay después
+
+- La puerta física es el paso hacia la siguiente frontera del recorrido. Su destino puede ser otro territorio, nivel, planeta, mundo, dimensión, prueba o una estructura distinta que todavía no está definida.
+- No se decide de antemano que todas las puertas conecten con planetas ni que exista una única clase de mundo. La naturaleza de cada destino se establecerá cuando el diseño de la historia lo necesite.
+- Cruzar una puerta debe abrir una etapa genuinamente nueva: nuevas condiciones, reglas, recursos, ecosistemas, oportunidades y peligros. No basta con cambiar el paisaje y subir las estadísticas de los enemigos.
+- El siguiente destino no tiene por qué ser siempre más difícil en todos los aspectos. Puede exigir otras capacidades, plantear problemas diferentes o volver útiles habilidades que antes no lo eran.
+- Encontrar la puerta no equivale a estar listo para cruzarla. El protagonista puede necesitar investigar, evolucionar, dominar capacidades, reunir recursos o resolver el obstáculo específico que la protege.
+- Una vez superada una frontera, lo aprendido y conseguido permanece. El nuevo entorno debe poner a prueba al protagonista que realmente llegó allí, no devolverlo al estado de principiante.
+
+### Progresión como necesidad, no como destino impuesto
+
+Por ahora, el protagonista no necesita una gran misión, una meta final ni conocer el propósito del mundo. Su razón inmediata para avanzar es seguir vivo. Puede creer que avanzar también lo acercará a regresar a casa, pero esa expectativa no obliga a revelar pronto si es cierta.
+
+El mundo debe ofrecer motivos concretos para progresar y, a la vez, dejar espacio para que el protagonista descubra qué quiere hacer con ese avance. No imponer desde el principio una profecía, torneo, jerarquía universal, número de niveles o explicación global que todavía no se haya ganado narrativamente.
+
+La presión del mundo tampoco debe anular su agencia: él observa, interpreta, decide, se prepara, se equivoca y elige cómo responder. El entorno crea necesidades y consecuencias; no escribe sus decisiones por él.
+
+**Criterio de diseño para cada nueva frontera:** definir qué hace que el lugar sea distinto, qué permite sobrevivir allí, qué amenaza o condición vuelve insuficiente quedarse donde estaba, qué necesita aprender o conseguir para avanzar y qué cambia de forma permanente al superar esa etapa.
+
+**Principio rector:** no avanza porque la novela necesite cambiar de escenario; la novela cambia de escenario porque el mundo, con reglas y consecuencias propias, obliga al protagonista a seguir avanzando.
+
