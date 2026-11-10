@@ -72,3 +72,14 @@ No es una escaleta cerrada. Los acontecimientos, giros, personajes, geografía, 
 **Canon de capítulos:** ninguno; aún no hay capítulos escritos.
 
 **Punto exacto para retomar:** desarrollar la biblia completa de la primera saga, empezando por protagonista, IA y reglas de progresión; después diseñar el primer territorio, sus amenazas y la búsqueda de la puerta. No empezar la prosa todavía.
+
+
+## Ciclo de crecimiento y cierre de sagas acordado
+
+La continuidad no se limita a recordar el argumento. En cada sesión y arco se debe registrar el crecimiento real del protagonista: estado físico/mental, heridas y recuperación, habilidades, poderes, límites, costes, dominio, técnicas, conocimientos, recursos y cambios de carácter. Cada avance debe tener causa y consecuencias; recuperación, evolución y dominio son procesos distintos.
+
+También se mantiene una memoria de los peligros: criaturas y amenazas conocidas, capacidades observadas, cuáles puede superar, cuáles exigen preparación o evasión y cuáles siguen estando por encima. El mundo no debe volverse inofensivo cuando el protagonista crece, ni todos los enemigos deben escalar artificialmente para igualarlo.
+
+Al acercarse al final de cada saga se realizará una auditoría completa. Primero se decidirá si la saga realmente está cerrada o si todavía falta completar su objetivo; si falta, se continúa trabajando en esa misma saga. Si está completa, se entrega un análisis de evolución, peligros, consecuencias, misterios, semillas y repeticiones. Solo entonces se pregunta al usuario si quiere que se diseñe la siguiente saga. Con su aprobación, la siguiente se construye desde las consecuencias reales de la anterior, con desafíos y conflictos nuevos, sin borrar el crecimiento ya conseguido ni repetir la misma fórmula.
+
+Este ciclo está formalizado en DREAM/07_TRANSFERENCIA_Y_CIERRE_DE_SESION.md. No escribir la siguiente saga ni sus capítulos automáticamente sin respetar esa aprobación.
