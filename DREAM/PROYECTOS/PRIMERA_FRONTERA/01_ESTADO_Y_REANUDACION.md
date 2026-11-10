@@ -109,3 +109,9 @@ Por ahora, su motivo inmediato sigue siendo sobrevivir. No hace falta imponerle 
 
 Este criterio se desarrolla en la sección 11 de 00_BIBLIA_INICIAL.md y debe aplicarse al diseñar la primera saga y cualquier etapa posterior.
 
+## Entrega de capítulos en GitHub — instrucción confirmada
+
+Cada capítulo de Primera Frontera que se entregue al usuario debe subirse también al repositorio `ddfakke7-beep/mi-novela` como archivo Markdown `.md`. La secuencia es: escribir, auditar y corregir; publicar el capítulo completo en su ruta/nomenclatura correspondiente; verificar que la subida tuvo éxito; compartir el enlace directo al archivo. Actualizar también el índice y los registros de continuidad pertinentes con los hechos reales del capítulo.
+
+No sobrescribir capítulos anteriores ni tocar otros proyectos. Si GitHub no está disponible o la subida falla, decirlo expresamente: nunca afirmar que el capítulo está publicado ni inventar un enlace. Esta regla complementa el protocolo global de DREAM, sección 10.
+
