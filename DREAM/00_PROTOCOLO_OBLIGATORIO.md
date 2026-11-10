@@ -27,6 +27,7 @@ Al comenzar una conversación nueva, retomar una novela o recibir una petición 
    - `05_CONTROL_EDITORIAL.md`.
    - `06_REGISTRO_DE_REPETICIONES.md`.
    - `07_TRANSFERENCIA_Y_CIERRE_DE_SESION.md`.
+   - `08_AGENCIA_COHERENCIA_Y_CIERRE.md`.
 3. No sustituyas la lectura por el README, por un resumen de otro chat ni por una afirmación genérica de que «ya conoces DREAM».
 4. Si no puedes acceder a un archivo, dilo. No afirmes haberlo leído ni continúes como si lo hubieras leído.
 5. Después consulta el proyecto: su README/índice, premisa, reglas, personajes, cronología, continuidad, estado actual, banco de ideas, planes aprobados y registros de capítulos. Localiza los documentos equivalentes aunque tengan otros nombres.
@@ -75,18 +76,21 @@ Para cada personaje importante, conserva la relación entre:
 - Errores, traumas, deudas, culpas y consecuencias todavía activas.
 - Contradicciones: puede mejorar en un aspecto y empeorar en otro.
 
-No reinicies emocionalmente a un personaje al cambiar de arco o conversación. No le atribuyas una evolución que la narración no mostró. Tampoco fuerces una evolución solo para que parezca que avanza.
+No reinicies emocionalmente a un personaje al cambiar de arco o conversación. No le atribuyas una evolución que la narración no mostró. Tampoco fuerces una evolución solo para que parezca que avanza. Aplica además `08_AGENCIA_COHERENCIA_Y_CIERRE.md`: la experiencia acumulada no se borra para fabricar tensión; la humanidad no se reduce a indecisión; las limitaciones deben ser reales y los antagonistas deben actuar según objetivos, información, recursos y costes comprensibles.
 
 En historias de pruebas, supervivencia o sistemas mortales, registra también cómo cada experiencia cambia la manera de afrontar la siguiente. Una prueba posterior debe poder explotar, poner en duda o castigar algo aprendido antes. No todas las pruebas deben medir lo mismo ni resolverse con la misma estrategia.
 
 ## 6. Comprobación previa a la entrega
 
-Antes de entregar un capítulo o escena importante, realiza las cinco lecturas de `05_CONTROL_EDITORIAL.md`. Como mínimo, verifica:
+Antes de entregar un capítulo o escena importante, realiza las cinco lecturas de `05_CONTROL_EDITORIAL.md` y la auditoría de agencia y coherencia de `08_AGENCIA_COHERENCIA_Y_CIERRE.md`. Como mínimo, verifica:
 
 - Continuidad y conocimiento real de cada personaje.
 - Causalidad y decisiones autónomas.
 - Crecimiento y consecuencias persistentes.
 - Diferencia respecto de los mecanismos narrativos recientes.
+- Que ninguna capacidad o aprendizaje demostrado desaparezca sin causa.
+- Que la indecisión, la contención o la demora tengan una razón específica.
+- Que la estrategia antagonista tenga un objetivo y un coste coherentes.
 - Interés como lector: tensión, emoción, curiosidad y deseo de continuar.
 
 Si detectas un defecto importante, corrige el capítulo antes de presentarlo. No le entregues al usuario un borrador mediocre para que él encuentre los problemas. Si una incertidumbre de canon impide escribir con seguridad, detente y pregunta solo lo indispensable.
