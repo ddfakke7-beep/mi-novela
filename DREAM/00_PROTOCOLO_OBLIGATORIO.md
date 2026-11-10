@@ -151,3 +151,11 @@ Cuando el usuario solicite capítulos de una novela, la entrega no termina en el
 
 **Regla de entrega:** capítulo entregado = capítulo revisado + archivo `.md` publicado y verificado en el GitHub del proyecto + enlace compartido al usuario. Si falta la publicación, informa que la entrega persistente sigue pendiente.
 
+### 10.1. Organización de los capítulos
+
+- Dentro de cada proyecto se utilizará una carpeta `CAPITULOS/` para guardar los capítulos publicados de esa obra.
+- Cada capítulo será un archivo Markdown independiente, con numeración correlativa y título legible; por ejemplo: `CAPITULOS/001-titulo-del-capitulo.md`, `CAPITULOS/002-titulo-del-capitulo.md`.
+- No juntar toda la novela en un único archivo ni guardar capítulos de proyectos distintos en la misma carpeta.
+- Mantener un índice de capítulos en el proyecto cuando su estructura lo permita, con enlaces a los archivos publicados.
+- La carpeta se materializa en GitHub al publicar el primer archivo; no es necesario crear una carpeta vacía por adelantado.
+
