@@ -191,3 +191,131 @@ La presión del mundo tampoco debe anular su agencia: él observa, interpreta, d
 
 **Principio rector:** no avanza porque la novela necesite cambiar de escenario; la novela cambia de escenario porque el mundo, con reglas y consecuencias propias, obliga al protagonista a seguir avanzando.
 
+
+
+## 12. Protagonista — Kevin
+
+**Nombre:** Kevin.  
+**Edad de referencia:** 29 años (decisión de diseño; podrá precisarse si una escena futura lo exige).  
+**Estatura:** 1,74 m.  
+**Peso inicial de referencia:** 75 kg, dentro del rango establecido de 70–80 kg.  
+**Condición inicial:** humano corriente, sin entrenamiento físico reciente ni experiencia real de supervivencia.
+
+Kevin es un hombre atractivo, de vida sedentaria y acostumbrado a trabajar desde casa. Su condición no es desastrosa, pero tampoco atlética: conserva cierta familiaridad con el esfuerzo porque tiempo atrás jugaba al fútbol y lanzaba piedras, aunque hace mucho que no mantiene una actividad regular. Puede acelerar y correr bastante rápido durante un tramo corto; su resistencia es limitada y el cansancio aparece pronto. No tiene fuerza, reflejos ni capacidad de combate excepcionales.
+
+### Temperamento confirmado
+
+- Es observador, pero no analiza obsesivamente cada detalle.
+- Es precavido y desconfiado; no convierte esas cualidades en paranoia.
+- Le gusta conservar cierto control y pensar en posibilidades o alternativas antes de actuar.
+- Es algo frío y torpe socialmente. No es incapaz de conectar con alguien, pero las interacciones no le salen siempre con naturalidad.
+- Presta atención y se involucra cuando considera que algo importa de verdad.
+- No se empeña en destacar en actividades que detesta o que reconoce que no se le dan bien.
+- Puede actuar bajo peligro sin quedarse necesariamente paralizado. Eso no elimina el miedo: la presión le afecta como a una persona normal.
+- En ocasiones la adrenalina puede hacerlo reaccionar rápido o asumir un riesgo que en frío evitaría.
+- No es especialmente valiente ni busca demostrar valor. Si puede evitar una situación peligrosa, normalmente lo hará. Si debe pelear, intentará contar con un plan, una ventaja o una razón concreta.
+
+### Criterios de interpretación
+
+Kevin no es un estratega infalible, un genio oculto ni un cobarde funcional a la trama. Puede calcular mal, interpretar una pista de forma equivocada, precipitarse por adrenalina, bloquearse parcialmente o tomar una decisión buena por motivos imperfectos. Su personalidad debe influir en sus decisiones sin convertirse en una plantilla rígida.
+
+Su gusto por el control no significa que pueda controlar el mundo. La pérdida de control será una fuente de tensión, pero no debe repetirse siempre de la misma manera. La historia debe mostrar qué hace con la incertidumbre y cómo aprende a convivir con ella.
+
+### Estado inicial y evolución
+
+La ficha anterior describe únicamente el punto de partida. No es su techo. Su resistencia, fuerza funcional, coordinación, tolerancia al esfuerzo, capacidad de combate, lectura del entorno y respuesta bajo presión podrán mejorar mediante entrenamiento, experiencia, adaptación y evolución, cada una por sus propios mecanismos.
+
+Las mejoras son acumulativas y deben poder observarse en comparación con su estado inicial. Aprender a luchar no lo convierte en alguien que busque peleas; ganar confianza no lo vuelve temerario; mejorar su resistencia no elimina de golpe sus límites. No borrar rasgos ya superados para fabricar conflictos repetidos.
+
+La historia previa a su llegada no debe convertirse en una biografía explicada de golpe. Se revelará mediante recuerdos, hábitos, reacciones y detalles pertinentes, sin asumir que cada rasgo necesita una escena explicativa.
+
+## 13. La IA — NARA
+
+**Nombre operativo:** NARA.  
+**Naturaleza visible:** un módulo estrecho, oscuro y sin pantalla, ajustado a la muñeca de Kevin. Puede proyectar indicadores simples en su campo visual y transmitir una voz directamente a su percepción auditiva. Su origen y la razón por la que Kevin lo lleva son desconocidos para ambos al inicio.
+
+NARA habla con precisión y economía. Su tono es sereno, práctico y ocasionalmente seco; no debe sonar como una asistente omnisciente ni como una narradora que explica el mundo al lector. Puede desarrollar una dinámica particular con Kevin a partir de conversaciones y experiencias compartidas, sin fingir emociones humanas que no estén justificadas por su diseño.
+
+Capacidades iniciales:
+- Lectura de parámetros fisiológicos básicos: pulso, temperatura, respiración, fatiga aproximada y lesiones observables.
+- Registro de observaciones que Kevin le comunique o que sus sensores puedan captar.
+- Cálculos sencillos de distancia, tiempo, consumo y riesgo estimado cuando disponga de datos.
+- Organización de notas, hipótesis y comparaciones.
+- Asistencia para estructurar entrenamiento, recuperación y experimentación.
+
+Límites:
+- No dispone de conexión externa ni de una base de datos del mundo.
+- No conoce el origen de Kevin, del módulo, del territorio ni de las puertas.
+- No identifica automáticamente especies desconocidas ni conoce sus capacidades ocultas.
+- Sus estimaciones son tan buenas como sus sensores y los datos disponibles. Debe expresar incertidumbre y corregirse ante evidencia nueva.
+- No puede fabricar recursos, curar a Kevin, controlar criaturas ni resolver físicamente los problemas.
+- No debe convertir cada escena en un informe estadístico. Interviene cuando aporta una decisión, una observación útil o una tensión real.
+
+La relación inicial es funcional: Kevin necesita información y NARA necesita observaciones para mejorar sus análisis. La confianza, el humor y los desacuerdos —si aparecen— se construirán con el tiempo.
+
+## 14. Reglas de progreso: cuerpo, adaptación y capacidades
+
+El crecimiento se organiza en cuatro planos que pueden interactuar, pero no deben confundirse:
+
+1. **Acondicionamiento:** fuerza, resistencia, movilidad, coordinación, equilibrio y eficiencia del movimiento. Mejora mediante actividad, práctica, descanso y alimentación. No exige que cada mejora sea sobrenatural.
+2. **Adaptación:** cambios graduales provocados por exposición y exigencias extraordinarias del entorno. Deben tener desencadenantes y efectos identificables; no aparecen solo porque Kevin necesita ganar.
+3. **Capacidades extraordinarias:** nuevas facultades que el mundo permite desarrollar. Descubrirlas, activarlas, controlarlas y aplicarlas son etapas distintas.
+4. **Dominio:** convertir una capacidad o técnica en algo fiable bajo condiciones variadas. El dominio requiere comprensión y uso, no solo desbloquear una habilidad.
+
+La recuperación restaura lo que el cuerpo puede recuperar; no equivale a entrenar, evolucionar ni dominar. El uso excesivo de una capacidad puede tener costes. Los costes no deben ser siempre dolor o agotamiento: pueden ser pérdida de precisión, consumo de recursos, exposición, limitaciones situacionales o consecuencias tácticas.
+
+No se establecerá una interfaz de niveles, experiencia por matar ni estadísticas que suban automáticamente. NARA puede cuantificar mediciones observables, pero no asignará niveles universales sin que la historia descubra un sistema real que lo justifique.
+
+## 15. Primer territorio — diseño de trabajo
+
+**Nombre de referencia:** la Cuenca de Aram. Es el nombre descriptivo que NARA y Kevin usarán provisionalmente para organizar sus notas; no implica que conozcan el nombre original del lugar.
+
+La Cuenca de Aram es una depresión extensa, rodeada por lomas de roca oscura y atravesada por cauces secos que reciben crecidas repentinas desde zonas altas. Combina franjas de grava pálida, matorrales bajos, terrazas rocosas, charcas estacionales y corredores de vegetación más densa. La visibilidad cambia mucho según la altura: desde el cauce se ven paredes y pendientes, mientras que desde las terrazas se distinguen rutas, humo de polvo y movimientos a distancia.
+
+Reglas ambientales iniciales:
+- Los cauces aparentemente secos pueden recibir avenidas de agua procedentes de lluvias lejanas. La ausencia de lluvia encima de Kevin no garantiza seguridad.
+- La grava suelta y las terrazas erosionadas castigan las rutas directas; elegir una subida importa tanto como la velocidad.
+- Algunas plantas retienen humedad en cavidades y pliegues, pero no toda agua visible es potable.
+- Las temperaturas y la exposición solar pueden volver peligrosa una caminata larga. Sombra, agua y horario condicionan la exploración.
+- Los sonidos y vibraciones se transmiten de manera irregular entre las paredes de la cuenca; Kevin puede confundir distancias y direcciones.
+
+### Fauna de referencia
+
+- **Lomos de sal:** herbívoros gregarios, corpulentos y de patas robustas. Se desplazan entre zonas de alimentación y agua. No son agresivos por naturaleza, pero una estampida o una reacción defensiva puede matar a una persona.
+- **Rastras:** pequeños carroñeros de cuerpo bajo que recorren grietas y cauces. Se acercan a restos y desperdicios; su presencia puede revelar actividad reciente, pero también atraer problemas.
+- **Cortavientos:** depredador de emboscada, de silueta baja y movimientos breves. Aprovecha cambios de terreno y la cobertura vegetal; no persigue indefinidamente a cualquier objetivo ni aparece para escalar artificialmente cada encuentro.
+- **Filamentos de pozo:** organismos vegetales/fúngicos que crecen en zonas húmedas y pueden retener agua. Su aspecto no basta para determinar si son seguros.
+
+Estas especies son una muestra del ecosistema, no una lista cerrada. Cada una tendrá conducta, necesidades y límites propios. No todas deben convertirse en combate ni en fuente de mejoras.
+
+## 16. La primera frontera — dirección dramática
+
+La primera saga debe contar el paso de un hombre sedentario, sin experiencia de supervivencia, a alguien capaz de leer una parte del entorno, gestionar recursos, moverse con eficiencia y afrontar amenazas pequeñas con preparación. No debe terminar convertido en un guerrero experto.
+
+El conflicto central no es derrotar a una criatura suprema. Es aprender a interpretar una cuenca que parece transitable pero cuyos ritmos y rutas no comprende, mientras descubre indicios de una estructura artificial que la fauna evita.
+
+La puerta de esta saga estará integrada en una formación de basalto de las terrazas altas. No se verá como una puerta luminosa ni estará señalizada. Su existencia se inferirá a partir de discontinuidades geométricas, depósitos minerales y patrones de movimiento animal. Su mecanismo y condición de cruce se descubrirán durante la saga; no se resolverán por intuición instantánea ni por una explicación gratuita de NARA.
+
+La presión para abandonar la cuenca nacerá de cambios ecológicos y del acceso cada vez más limitado a recursos y rutas seguras, no de una cuenta regresiva arbitraria. La puerta será el paso a una frontera distinta, no una recompensa por matar al enemigo final.
+
+### Hitos dramáticos previstos (flexibles)
+
+- Despertar en un cauce y sobrevivir a un peligro ambiental inmediato.
+- Confirmar que el módulo NARA funciona, aunque no puede explicar dónde están.
+- Conseguir agua y refugio mediante observación y errores corregibles.
+- Descubrir que la fauna sigue rutas y evita una franja concreta del terreno.
+- Aprender que correr rápido no compensa una resistencia pobre ni una mala elección de ruta.
+- Tener un primer encuentro indirecto con un depredador y decidir no combatir.
+- Obtener una fuente limitada de alimento y practicar una técnica básica de defensa o herramienta.
+- Identificar una anomalía artificial sin comprender aún su función.
+- Preparar el acceso a las terrazas y a la puerta, con una decisión que implique coste real.
+
+No es una escaleta cerrada ni obliga a que cada hito corresponda a un capítulo. Los acontecimientos, el orden y las consecuencias se ajustarán al ritmo real de la novela. Los giros deben surgir de pistas y decisiones previas, no de información escondida arbitrariamente al lector.
+
+## 17. Criterio de canon y revisión
+
+Los rasgos descritos en las secciones 12–15 son la base de diseño aprobada para comenzar la novela. La edad de referencia, el nombre del territorio, NARA y los nombres de especies son decisiones creativas iniciales que podrán ajustarse si la narración revela una solución mejor, siempre que se registre el cambio y no se contradiga silenciosamente lo ya publicado.
+
+La sección 16 es dirección dramática provisional: sus hitos orientan el diseño, pero no son hechos ocurridos. Solo los sucesos escritos y publicados en capítulos pasan a formar parte del canon narrativo.
+
+Antes de publicar cada capítulo se revisarán: continuidad física y espacial, causalidad, agencia del protagonista, coherencia de NARA, ritmo, tensión, variedad de conflicto, avance acumulativo y promesas narrativas. El capítulo debe funcionar como experiencia de lectura, no como demostración de que se siguió una ficha.
