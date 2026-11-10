@@ -26,6 +26,7 @@ Cada obra conserva su propia biblia, canon y registros. Las propuestas no se con
 
 - [Primera Frontera — Biblia inicial](PROYECTOS/PRIMERA_FRONTERA/00_BIBLIA_INICIAL.md) — Nueva historia de supervivencia, exploración de un mundo desconocido, progresión y búsqueda de puertas físicas ocultas. La saga inicial y sus detalles siguen siendo una planificación provisional.
 - [Primera Frontera — Estado y reanudación](PROYECTOS/PRIMERA_FRONTERA/01_ESTADO_Y_REANUDACION.md) — Punto exacto de continuidad, decisiones ya tomadas, asuntos pendientes y procedimiento para retomar con «GO DREAM» en otro chat.
+- [Primera Frontera — Capítulos](PROYECTOS/PRIMERA_FRONTERA/CAPITULOS/001-el-cauce.md) — Capítulo 1: «El cauce» (publicado).
 
 ## Límite absoluto
 
