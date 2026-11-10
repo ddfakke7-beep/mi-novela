@@ -135,3 +135,19 @@ No simules cumplimiento. Si faltó acceso, tiempo, contexto o un documento:
 5. Si no afecta el trabajo solicitado, continúa dejando explícita la limitación.
 
 **Regla final:** el usuario no debe cargar con la memoria, la dirección ni el control de calidad que corresponden al escritor. DREAM existe para que el trabajo creativo sea consistente, acumulativo, transferible y capaz de producir novedades reales.
+
+## 10. Entrega y publicación de capítulos
+
+Cuando el usuario solicite capítulos de una novela, la entrega no termina en el texto del chat.
+
+- Cada capítulo terminado y revisado debe publicarse en el repositorio GitHub del proyecto correspondiente como un archivo Markdown `.md`.
+- Mantén una ruta y nomenclatura coherentes con la estructura del proyecto y su índice. No mezcles capítulos de novelas distintas.
+- El archivo debe contener el capítulo completo, con su título y formato de lectura; no solo un resumen, esquema o fragmento.
+- Primero realiza la auditoría editorial y las correcciones. Publica la versión que realmente vas a entregar, no un borrador anterior.
+- Después de subirlo, verifica que la operación haya tenido éxito y comparte el enlace directo al archivo para que el usuario pueda leerlo.
+- Actualiza el índice, registro de capítulos y estado de continuidad que correspondan, incluyendo solo hechos que efectivamente aparecen en el capítulo publicado. No marques como ocurrido lo que quedó como plan.
+- Si la publicación falla o no hay acceso al repositorio, entrega el texto en el chat si corresponde, pero declara claramente que no se subió. Nunca inventes un enlace ni afirmes que está publicado.
+- No sobrescribas capítulos anteriores ni alteres otros proyectos. Para corregir un capítulo ya publicado, conserva la trazabilidad y sigue las reglas de autorización y control de versiones del proyecto.
+
+**Regla de entrega:** capítulo entregado = capítulo revisado + archivo `.md` publicado y verificado en el GitHub del proyecto + enlace compartido al usuario. Si falta la publicación, informa que la entrega persistente sigue pendiente.
+
