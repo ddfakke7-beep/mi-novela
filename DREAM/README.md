@@ -1,30 +1,45 @@
-# DREAM — Centro de dirección creativa
+# DREAM — Sistema transferible de dirección creativa
 
-## Propósito
+## Qué es
 
-DREAM es un espacio de trabajo para mejorar la capacidad de creación y dirección narrativa. Nace para corregir un problema concreto: las historias pueden comenzar con una premisa atractiva, pero después quedarse repitiendo la misma mecánica, el mismo tipo de conflicto o la misma escalada.
+DREAM es un sistema de trabajo para que cualquier modelo pueda desarrollar una historia con continuidad, crecimiento acumulativo, invención y control de calidad, incluso si cambia la conversación, la cuenta o el escritor.
 
-DREAM no es una cuarta novela ni un universo compartido. Es un conjunto de herramientas de trabajo para pensar, desarrollar, cuestionar y editar historias.
+No es una novela ni un canon compartido. Es el protocolo de trabajo que acompaña a cada proyecto.
+
+## REGLA DE ENTRADA
+
+**Antes de escribir, cualquier modelo debe leer completo `00_PROTOCOLO_OBLIGATORIO.md` y seguir su ruta de lectura.** No basta con leer este índice, un resumen o el último capítulo.
+
+## Orden de lectura obligatorio
+
+1. [00_PROTOCOLO_OBLIGATORIO.md](00_PROTOCOLO_OBLIGATORIO.md) — Entrada, autoridad, lectura, reconstrucción, escritura, revisión y recibo.
+2. [01_PROBLEMA_CREATIVO.md](01_PROBLEMA_CREATIVO.md) — Diagnóstico del estancamiento creativo.
+3. [02_MOTOR_DE_INVENCION.md](02_MOTOR_DE_INVENCION.md) — Alternativas, colisiones, transformación y sorpresa justa.
+4. [03_VIDA_DE_LAS_IDEAS.md](03_VIDA_DE_LAS_IDEAS.md) — Seguimiento de ideas y semillas.
+5. [04_DIRECCION_A_LARGO_PLAZO.md](04_DIRECCION_A_LARGO_PLAZO.md) — Identidad, tramas y dirección revisable.
+6. [05_CONTROL_EDITORIAL.md](05_CONTROL_EDITORIAL.md) — Revisión de continuidad, causalidad, personajes, invención y experiencia del lector.
+7. [06_REGISTRO_DE_REPETICIONES.md](06_REGISTRO_DE_REPETICIONES.md) — Memoria de mecanismos y oportunidades por proyecto.
+8. [07_TRANSFERENCIA_Y_CIERRE_DE_SESION.md](07_TRANSFERENCIA_Y_CIERRE_DE_SESION.md) — Memoria persistente, crecimiento acumulado y entrega al siguiente modelo.
 
 ## Límite absoluto
 
 - DREAM no modifica ni reemplaza el canon de UMBRAL, NEXUS o FIN.
 - Cada proyecto conserva su identidad, reglas, personajes, cronología y documentos.
-- Si una regla de DREAM contradice una regla aprobada de un proyecto, prevalece el documento propio de ese proyecto.
-- Una idea guardada aquí no se convierte automáticamente en canon.
-- Ningún cambio en los proyectos originales se realiza sin autorización explícita del usuario.
-
-## Documentos
-
-1. [01_PROBLEMA_CREATIVO.md](01_PROBLEMA_CREATIVO.md) — Diagnóstico del estancamiento y sus síntomas.
-2. [02_MOTOR_DE_INVENCION.md](02_MOTOR_DE_INVENCION.md) — Cómo generar desarrollos que no sean la continuación más obvia.
-3. [03_VIDA_DE_LAS_IDEAS.md](03_VIDA_DE_LAS_IDEAS.md) — Cómo convertir un banco de ideas en semillas narrativas vivas.
-4. [04_DIRECCION_A_LARGO_PLAZO.md](04_DIRECCION_A_LARGO_PLAZO.md) — Cómo dirigir una obra sin convertirla en una sucesión de capítulos aislados.
-5. [05_CONTROL_EDITORIAL.md](05_CONTROL_EDITORIAL.md) — Cómo detectar y corregir un capítulo mediocre antes de entregarlo.
-6. [06_REGISTRO_DE_REPETICIONES.md](06_REGISTRO_DE_REPETICIONES.md) — Memoria de patrones ya utilizados y oportunidades todavía abiertas.
+- Si DREAM contradice una regla aprobada de un proyecto, prevalece el documento propio de ese proyecto.
+- Una idea guardada en DREAM no se convierte automáticamente en canon.
+- La autorización para modificar DREAM no autoriza cambios en UMBRAL, NEXUS, FIN ni otros proyectos.
 
 ## Principio rector
 
-El trabajo del creador no consiste en producir el siguiente acontecimiento que encaja. Consiste en descubrir qué acontecimientos, decisiones y relaciones pueden transformar la historia de una manera que el lector no haya visto venir y que, al mirar atrás, resulte coherente.
+El usuario es el lector, no el supervisor de cada decisión narrativa. El modelo debe asumir la lectura de contexto, la dirección, la invención, la continuidad, la revisión y la transferencia. Debe preguntar solo cuando falte una decisión que realmente corresponda al usuario o cuando una incertidumbre de canon impida continuar con seguridad.
 
-DREAM debe ayudar a tomar esas decisiones. No debe convertirse en una nueva carga de instrucciones para el usuario.
+DREAM reduce la dependencia de la memoria de una conversación mediante procedimientos y registros verificables. No puede garantizar técnicamente que otro modelo lo obedezca: por eso exige recibos de ejecución, declara limitaciones y prohíbe fingir que se consultó material que no se leyó.
+
+## Cómo usarlo
+
+- **Inicio o cambio de chat:** ejecutar la puerta de entrada de `00_PROTOCOLO_OBLIGATORIO.md`.
+- **Durante la escritura:** aplicar el motor de invención, la dirección y el seguimiento de ideas.
+- **Antes de entregar:** realizar el control editorial.
+- **Después de escribir:** actualizar los registros del proyecto y completar la transferencia de `07_TRANSFERENCIA_Y_CIERRE_DE_SESION.md`.
+
+DREAM es responsabilidad del modelo que lo utiliza. El usuario no tiene que mantenerlo ni recordarle que existe.
