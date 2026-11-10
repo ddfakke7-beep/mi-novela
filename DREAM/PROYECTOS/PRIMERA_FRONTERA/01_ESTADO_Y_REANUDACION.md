@@ -123,3 +123,34 @@ Los capítulos se publicarán individualmente dentro de:
 
 Nomenclatura correlativa: `001-titulo-del-capitulo.md`, `002-titulo-del-capitulo.md`, etc. Cada archivo contendrá el capítulo completo, revisado y listo para leer. Mantener un índice con enlaces a los capítulos publicados. GitHub crea la carpeta al subir el primer archivo; no se necesita un directorio vacío.
 
+
+
+## Actualización de sesión — 2026-11-10 (protagonista y capítulo 1)
+
+**Fase:** primera saga en desarrollo; capítulo 1 publicado.
+
+### Base de Kevin
+- Nombre: Kevin. Hombre ficticio, no retrato literal del usuario.
+- Referencia física inicial: 1,74 m y 75 kg (dentro del rango confirmado de 70–80 kg); humano corriente, sedentario, sin entrenamiento reciente.
+- Tuvo actividad recreativa en el pasado (fútbol y lanzar piedras). Puede correr rápido en distancias cortas, pero su resistencia es limitada y se fatiga pronto. No tiene entrenamiento de combate.
+- Personalidad: observador y precavido sin extremos; desconfiado; le gusta mantener cierto control y pensar en posibilidades; algo frío y socialmente torpe; presta atención cuando algo importa.
+- Bajo peligro puede actuar sin paralizarse, pero siente miedo y la presión le afecta. La adrenalina a veces lo hace reaccionar o arriesgarse. No es especialmente valiente y evita conflictos innecesarios; si debe pelear, busca un plan o ventaja.
+- Todo lo anterior es su estado inicial. La condición física, las habilidades y la respuesta bajo presión pueden mejorar de forma acumulativa; no se reinician ni se convierten en cambios de personalidad gratuitos.
+
+### Decisiones creativas incorporadas a la biblia
+- IA de apoyo: NARA, módulo oscuro ajustado a la muñeca; comunicación por voz e indicadores simples. Tiene análisis prácticos, sin conexión ni conocimiento del lore.
+- Territorio inicial de trabajo: Cuenca de Aram; cauces secos con crecidas repentinas, terrazas de roca y ecosistema propio.
+- Fauna inicial de referencia: lomos de sal, rastras, cortavientos y filamentos de pozo.
+- La primera puerta se integrará en una formación de basalto de las terrazas altas; su ubicación y mecanismo se descubrirán mediante pistas, no por indicación de NARA.
+- Los hitos de saga son planificación provisional; solo los sucesos publicados son canon ocurrido.
+
+### Capítulo 1
+- Título: **El cauce**.
+- Kevin despierta en un cauce desconocido, descubre el módulo NARA y escapa de una avenida repentina de agua al subir a una terraza.
+- Observa a distancia una manada de criaturas grandes, aún no identificadas.
+- Estado al cierre: raspadura en antebrazo y palma, contusión leve en rodilla, fatiga moderada, sin lesión incapacitante confirmada. Sin agua, refugio ni recursos asegurados. NARA activa y limitada a datos observables.
+- Kevin decide registrar el terreno, la fauna y los fenómenos repetidos. No ha descubierto aún la puerta ni comprende el mundo.
+- Archivo publicado: `DREAM/PROYECTOS/PRIMERA_FRONTERA/CAPITULOS/001-el-cauce.md`.
+
+### Punto exacto para continuar
+Escribir el capítulo 2 desde la terraza, respetando la avenida reciente, el estado físico de Kevin y la falta de recursos. El siguiente avance debe centrarse en una necesidad concreta (agua, refugio o ruta segura), con observación y decisiones; no repetir otra huida de monstruo ni concederle una mejora sobrenatural prematura.
