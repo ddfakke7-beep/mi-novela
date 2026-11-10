@@ -1,0 +1,137 @@
+# Primera frontera — Biblia inicial del proyecto
+
+> **Estado: base de desarrollo aprobada en conversación; detalles de saga todavía provisionales.**
+> Este documento pertenece a una nueva novela alojada dentro de DREAM. No modifica el canon ni los archivos de UMBRAL, NEXUS o FIN.
+
+## 1. Premisa de trabajo
+
+Un hombre completamente normal despierta solo en un mundo desconocido. No sabe cómo llegó allí ni qué relación tiene ese lugar con su mundo de origen. Su objetivo inmediato es sobrevivir; cree que hacerse más fuerte y avanzar por ese mundo podría acercarlo a una forma de regresar a casa.
+
+No hay misiones, encargos, marcadores ni una voz que le indique el camino. Para avanzar debe encontrar la siguiente puerta: una estructura física real, oculta en algún lugar del territorio. La exploración, la investigación y la supervivencia son el motor de la historia.
+
+## 2. Las puertas y la exploración
+
+- Las puertas son **estructuras físicas**, no portales que aparecen espontáneamente.
+- Pueden estar ocultas en cavernas, ruinas, montañas, bajo tierra, bajo el agua o en zonas dominadas por criaturas.
+- El protagonista debe descubrir dónde están y cómo llegar hasta ellas. Encontrarlas no garantiza que pueda abrirlas o cruzarlas inmediatamente.
+- No existe un marcador que señale su ubicación.
+- La búsqueda se apoya en indicios observables: anomalías del entorno, patrones de migración, territorios evitados por criaturas, estructuras extrañas, materiales inusuales y fenómenos repetidos.
+- Las pistas pueden ser incompletas, ambiguas o engañosas. El protagonista puede equivocarse y pagar por ello.
+- La IA puede analizar datos que el protagonista observa, pero no conoce la ubicación de las puertas ni resuelve automáticamente el misterio.
+
+La exploración no debe convertirse en caminar sin rumbo durante capítulos enteros. Cada expedición debe producir información, recursos, riesgos, cambios de estrategia o consecuencias.
+
+## 3. La IA de apoyo
+
+La IA acompaña al protagonista como herramienta práctica de supervivencia y desarrollo. No es una enciclopedia del mundo ni conoce su historia secreta.
+
+Funciones previstas:
+- Analizar el estado físico, lesiones, fatiga y capacidades observables del protagonista.
+- Recomendar entrenamiento, recuperación y estrategias de supervivencia.
+- Ayudar a entender y practicar habilidades o poderes que el protagonista haya descubierto.
+- Analizar criaturas observadas, identificar rasgos y debilidades cuando existan datos suficientes.
+- Evaluar riesgos y comparar tácticas posibles.
+- Administrar información sobre evolución y recuperación.
+
+Límites:
+- No sabe quién creó el mundo, por qué llegó allí, cuál es el propósito de los territorios ni qué hay detrás de las puertas.
+- No inventa respuestas cuando carece de información. Debe decir claramente que no tiene acceso a esos datos.
+- Sus análisis dependen de lo que pueda observar o medir; puede equivocarse si los datos son insuficientes.
+- Puede ampliar sus funciones prácticas conforme progresa el protagonista, pero eso no le concede automáticamente conocimiento del lore.
+
+## 4. Progresión del protagonista
+
+El protagonista comienza como un humano normal. Su crecimiento debe ser progresivo, perceptible y satisfactorio; no se debe ralentizar artificialmente. Puede experimentar avances importantes en periodos relativamente cortos, siempre que estén preparados por experiencias y tengan consecuencias.
+
+Separar tres procesos:
+
+### Recuperación
+- Se consigue mediante descanso, alimentación, recursos del entorno y mecanismos de recuperación que la historia establezca.
+- Matar criaturas no cura automáticamente heridas ni restaura toda su energía.
+- Algunos organismos o recursos podrían aportar energía o acelerar ciertos procesos, pero deben tener reglas, límites y riesgos claros.
+- Las heridas graves, el agotamiento y el daño acumulado deben importar.
+
+### Evolución y adaptación
+- La exposición a energías, situaciones extremas y experiencias de supervivencia puede provocar adaptaciones.
+- Las mejoras deben tener causa, límites y efectos reconocibles.
+- La evolución puede abrir capacidades nuevas o cambiar las existentes, pero no debe ser una recompensa automática por cada muerte.
+
+### Poderes y dominio
+- El protagonista puede desarrollar poderes.
+- Obtener una capacidad no equivale a dominarla: debe aprender a activarla, controlarla, aplicarla y comprender sus límites.
+- El entrenamiento, la experimentación y el uso bajo presión son parte del progreso.
+- Las nuevas capacidades pueden traer costes, riesgos, efectos secundarios o atraer amenazas.
+
+No convertir la progresión en una simple suma de estadísticas ni en una cadena de recompensas por matar.
+
+## 5. Amenazas y criaturas
+
+El mundo conserva su peligrosidad a medida que el protagonista crece.
+
+- Hay criaturas de capacidades y comportamientos variados.
+- Algunas pueden ser cazadas cuando el protagonista ya está preparado; otras deben evitarse, estudiarse o enfrentarse con preparación.
+- Existen amenazas superiores que pueden obligarlo a huir incluso después de varias evoluciones.
+- Las ventajas del protagonista pueden ser contrarrestadas por habilidades como camuflaje, veneno, regeneración, resistencia, inteligencia, emboscada o adaptación.
+- No escalar artificialmente cada enemigo para que tenga exactamente el mismo nivel que el protagonista. La variedad del ecosistema y las diferencias de poder deben sentirse naturales.
+- El crecimiento no vuelve seguro el mundo: cambia qué peligros puede afrontar y cuáles todavía lo superan.
+
+## 6. Estructura narrativa y tono
+
+- Por ahora, el foco está en un único protagonista humano y la IA como única presencia conversacional. No introducir compañeros humanos por inercia.
+- La soledad debe tener peso narrativo.
+- Evitar la fórmula repetitiva «aparece monstruo → pelea → gana → sube de nivel → aparece monstruo más fuerte».
+- Alternar exploración, caza, preparación, entrenamiento, recuperación, experimentación, recolección de recursos, peligros ambientales, emboscadas, errores, huidas y combates.
+- No todos los conflictos se resuelven luchando. A veces sobrevivir significa observar, engañar, esconderse, preparar el terreno o retirarse.
+- Cada capítulo debe aportar algo: avance, descubrimiento, decisión, desarrollo, tensión, consecuencia o cambio de estrategia. No añadir relleno cotidiano sin función.
+- El peligro debe estar presente, pero no toda escena necesita combate.
+- Mantener variedad real de conflictos; cambiar solo el nombre o el aspecto del monstruo no cuenta como innovación.
+
+## 7. Primera saga — propuesta provisional
+
+**Título provisional:** *La primera frontera*.
+
+**Extensión de planificación inicial:** alrededor de 26 capítulos, organizados en tres arcos. La cifra es flexible y no constituye una cuota.
+
+### Arco I — Sobrevivir (capítulos 1–7, estimado)
+El protagonista despierta en el territorio desconocido, afronta el peligro inmediato, conoce las capacidades y límites de su cuerpo, aprende a conseguir recursos y establece el primer vínculo funcional con la IA. Debe experimentar una amenaza que le deje claro que no puede combatir todo lo que encuentra.
+
+### Arco II — Aprender a cazar (capítulos 8–17, estimado)
+Empieza a explorar de forma deliberada, entrenar y experimentar con sus primeras capacidades. Aprende a observar criaturas, distinguir riesgos y preparar enfrentamientos. La exploración produce indicios de que existe una estructura anómala en algún lugar del territorio, pero las pistas no entregan una ubicación exacta.
+
+### Arco III — La frontera (capítulos 18–26, estimado)
+Investiga y sigue las pistas, se adentra en una zona peligrosa y descubre la puerta física. Debe comprender cómo alcanzarla y qué impide cruzarla. El desenlace exige crecimiento, preparación, estrategia y consecuencias; no se reduce a derrotar a un jefe. Al atravesarla, llega a un nuevo territorio cuyas reglas y amenazas todavía desconoce.
+
+La saga debe abrir con un acontecimiento atractivo y peligro inmediato; evitar una introducción larga antes de que la historia empiece a moverse. La puerta y el siguiente territorio deben dejar preguntas nuevas, no explicar prematuramente el misterio global.
+
+## 8. Formato de publicación y continuidad
+
+- Saga → arcos → capítulos breves.
+- Longitud orientativa por capítulo: 700–1.200 palabras, ajustable según la escena.
+- Antes de redactar capítulos, completar una biblia de saga suficientemente sólida: protagonista, reglas de progresión, ecosistema inicial, geografía funcional, pistas, puerta, amenazas, acontecimientos principales, giros y consecuencias.
+- Mantener registros de continuidad: estado físico, habilidades, recursos, lesiones, conocimientos confirmados, pistas, errores, evolución y estado de la puerta.
+- Separar canon confirmado, planes, hipótesis y preguntas abiertas.
+- Preparar recibos de transferencia para que otra conversación pueda continuar sin inventar hechos.
+- No comenzar la prosa de capítulos hasta que el usuario lo solicite explícitamente.
+
+## 9. Decisiones confirmadas y asuntos abiertos
+
+### Confirmado
+- El protagonista empieza como humano normal.
+- Está solo; la IA es su apoyo práctico y no conoce el lore.
+- No hay misiones ni instrucciones para avanzar: debe encontrar la siguiente puerta.
+- Las puertas son estructuras físicas ocultas.
+- Puede desarrollar poderes y crecer de forma progresiva.
+- Los enemigos siguen siendo peligrosos; el crecimiento no elimina el riesgo.
+- Recuperación, evolución y dominio de poderes son procesos distintos.
+- La exploración y supervivencia sostienen la historia.
+
+### Provisional / por diseñar
+- Nombre, personalidad, pasado y motivaciones íntimas del protagonista.
+- Nombre y naturaleza técnica de la IA.
+- Reglas exactas, costes y límites de energía, evolución, poderes y recuperación.
+- Ecología, geografía y amenazas del primer territorio.
+- Apariencia, mecanismo y condiciones de apertura de la primera puerta.
+- Número total de sagas y mundos, y misterio global.
+- Acontecimientos y giros concretos de los tres arcos.
+
+No presentar los elementos provisionales como canon cerrado. La propuesta de 26 capítulos es una guía de planificación, no una promesa de longitud.
