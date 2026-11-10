@@ -94,3 +94,18 @@ Las heridas y la fatiga son recursos narrativos, no el centro de la novela. No r
 El mundo conserva amenazas reales y variadas; no todo enemigo nuevo será automáticamente más fuerte. El protagonista puede encontrar cosas que lo superen y tener que huir o prepararse, pero su crecimiento debe seguir siendo perceptible y acumulativo.
 
 Este criterio se añadió a la biblia inicial en su sección 10 y debe respetarse al diseñar la progresión y al escribir cada saga.
+
+## Avance continuo entre fronteras — criterio confirmado
+
+Las sagas son divisiones narrativas, no ciclos aislados de supervivencia ni lugares donde el protagonista deba quedarse una vez que ya no exista un desafío significativo. La búsqueda de puertas es el mecanismo de avance de toda la historia. El protagonista debe seguir cruzándolas porque el propio mundo hace que permanecer atrás termine siendo inviable: cambian las condiciones, escasean recursos, se alteran territorios y ecosistemas, surgen presiones comprensibles o la siguiente frontera exige capacidades que aún no domina.
+
+No usar una cuenta regresiva arbitraria ni expulsarlo de cada zona mediante un enemigo convenientemente más fuerte. Cada territorio debe tener su propia lógica y una razón concreta para que avanzar sea necesario. Puede haber estabilidad temporal y zonas que llegue a dominar; no debe quedarse estancado por conveniencia narrativa cuando ya no haya nada que lo amenace, le enseñe o le exija algo relevante.
+
+Las puertas son pasos físicos hacia una nueva frontera, pero su destino aún no está fijado: puede ser otro territorio, nivel, planeta, mundo, dimensión, prueba u otra estructura. No asumir que todos los destinos son planetas ni establecer ahora una cosmología cerrada. Cada etapa debe ofrecer condiciones, reglas, recursos y desafíos propios; no limitarse a cambiar el paisaje y aumentar el poder de los monstruos. El nuevo entorno debe poner a prueba al protagonista con todo lo que ya aprendió, sin reiniciarlo.
+
+Por ahora, su motivo inmediato sigue siendo sobrevivir. No hace falta imponerle una misión final ni explicar el propósito del mundo. El entorno crea necesidades y consecuencias; el protagonista conserva la agencia para observar, interpretar, decidir y actuar. La presión debe empujarlo a crecer y avanzar sin decidir por él.
+
+**Criterio para diseñar cada frontera:** establecer qué la hace distinta, qué permite sobrevivir allí, por qué quedarse deja de bastar, qué necesita aprender o conseguir para cruzar y qué consecuencias permanentes deja esa etapa.
+
+Este criterio se desarrolla en la sección 11 de 00_BIBLIA_INICIAL.md y debe aplicarse al diseñar la primera saga y cualquier etapa posterior.
+
