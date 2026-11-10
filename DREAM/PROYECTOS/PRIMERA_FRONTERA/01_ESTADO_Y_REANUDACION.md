@@ -83,3 +83,14 @@ También se mantiene una memoria de los peligros: criaturas y amenazas conocidas
 Al acercarse al final de cada saga se realizará una auditoría completa. Primero se decidirá si la saga realmente está cerrada o si todavía falta completar su objetivo; si falta, se continúa trabajando en esa misma saga. Si está completa, se entrega un análisis de evolución, peligros, consecuencias, misterios, semillas y repeticiones. Solo entonces se pregunta al usuario si quiere que se diseñe la siguiente saga. Con su aprobación, la siguiente se construye desde las consecuencias reales de la anterior, con desafíos y conflictos nuevos, sin borrar el crecimiento ya conseguido ni repetir la misma fórmula.
 
 Este ciclo está formalizado en DREAM/07_TRANSFERENCIA_Y_CIERRE_DE_SESION.md. No escribir la siguiente saga ni sus capítulos automáticamente sin respetar esa aprobación.
+
+
+## Ritmo de progresión y heridas — criterio confirmado
+
+La progresión del protagonista debe ser constante y necesaria para sobrevivir, no un regalo por ser el protagonista. El mundo lo matará si deja de aprender, adaptarse y ampliar sus capacidades. En cada tramo significativo debe haber avances útiles (físicos, técnicos, tácticos, energéticos, evolutivos o de comprensión); no todos los capítulos necesitan una mejora visible, pero no debe estancarse durante largos periodos sin una razón potente. Los avances son acumulativos y no se reinician para fabricar tensión. Pueden ser rápidos si la experiencia y las reglas los justifican; no alargar artificialmente el entrenamiento.
+
+Las heridas y la fatiga son recursos narrativos, no el centro de la novela. No repetir constantemente que está sangrando, dolorido o agotado ni encadenar lesiones que lo incapaciten durante capítulos por dificultad artificial. Una lesión debe cambiar decisiones o tácticas, revelar un límite, impulsar una adaptación o producir una consecuencia significativa. Los reveses también deben mover la historia: información, aprendizaje, cambio de estrategia u oportunidad. No sufrimiento vacío. La recuperación puede ser extraordinaria según las reglas que se diseñen, pero debe distinguirse de evolución y dominio de poderes.
+
+El mundo conserva amenazas reales y variadas; no todo enemigo nuevo será automáticamente más fuerte. El protagonista puede encontrar cosas que lo superen y tener que huir o prepararse, pero su crecimiento debe seguir siendo perceptible y acumulativo.
+
+Este criterio se añadió a la biblia inicial en su sección 10 y debe respetarse al diseñar la progresión y al escribir cada saga.
