@@ -135,3 +135,20 @@ La saga debe abrir con un acontecimiento atractivo y peligro inmediato; evitar u
 - Acontecimientos y giros concretos de los tres arcos.
 
 No presentar los elementos provisionales como canon cerrado. La propuesta de 26 capítulos es una guía de planificación, no una promesa de longitud.
+
+
+## 10. Ritmo de progresión y función de las heridas
+
+La progresión del protagonista debe ser **constante y necesaria para sobrevivir**, no un privilegio por ser el protagonista. El mundo es hostil: si deja de aprender, adaptarse y ampliar sus capacidades, tarde o temprano una amenaza que no puede afrontar lo matará. El crecimiento no es un premio decorativo; es una respuesta a las exigencias reales del entorno.
+
+- En cada tramo significativo de la historia debe existir algún avance útil: físico, técnico, sensorial, táctico, energético, evolutivo o de comprensión del entorno. No todos los capítulos necesitan una mejora visible, pero la trayectoria general no puede estancarse durante largos periodos sin una razón narrativa potente.
+- La progresión debe sentirse acumulativa. Lo aprendido y dominado permanece; no se reinician capacidades para fabricar tensión.
+- Los avances pueden ser rápidos cuando la experiencia, el entrenamiento, la exposición o el riesgo los justifiquen. No alargar artificialmente el entrenamiento ni exigir una rutina interminable para cada mejora.
+- La dificultad debe surgir de las características reales del mundo: variedad de criaturas, entornos, escasez, comportamientos, estrategias y amenazas superiores. No hacer que todo enemigo nuevo sea automáticamente más fuerte que el anterior.
+- El protagonista no debe ganar siempre. Puede huir, fallar, calcular mal o encontrar algo que todavía lo supera. Pero esos reveses deben mover la historia: aportar información, cambiar una estrategia, revelar un límite, provocar una adaptación o abrir una oportunidad. No deben ser sufrimiento vacío.
+- Las heridas y la fatiga son herramientas narrativas, no el centro de la novela. Se mencionan y desarrollan en la medida en que afecten decisiones, tácticas o consecuencias relevantes. Evitar repetir constantemente que está sangrando, dolorido o agotado.
+- No encadenar lesiones que lo dejen incapacitado durante varios capítulos solo para aparentar dificultad. Una lesión prolongada solo se justifica si produce un conflicto interesante que no pueda resolverse con una alternativa más fértil; la recuperación debe tener ritmo y mecanismos coherentes con las reglas del mundo.
+- No impedir combates o progreso con heridas arbitrarias. Si una limitación física aparece, debe cambiar la forma de actuar y generar una solución, no convertirse en una pausa sin contenido.
+- La recuperación puede ser extraordinaria conforme se definan las reglas del mundo, pero no debe confundirse con evolución ni con dominio de poderes. Cada proceso conserva su lógica y sus límites.
+
+**Principio rector:** el protagonista crece porque el mundo exige que crezca. El lector debe poder mirar atrás y notar cuánto ha avanzado desde que era un humano normal, mientras comprende que todavía existen peligros que justifican su siguiente paso.
