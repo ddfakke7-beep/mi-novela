@@ -52,15 +52,11 @@ Desde el saliente podía ver una buena parte de la terraza. No era amplio, pero 
 
 La banda emitió un pulso.
 
-—Hay una zona de vegetación baja a la derecha. Mantén la vista sobre ella.
+Kevin entornó los ojos. Algo se desplazó entre los matorrales. No avanzó como los lomos de sal. Fue un movimiento corto, casi una interrupción de la sombra. Después apareció una cabeza a ras del suelo, seguida por un cuerpo alargado y compacto.
 
-Kevin entornó los ojos.
+Se quedó quieto.
 
-Algo se desplazó entre los matorrales. No avanzó como los lomos de sal. Fue un movimiento corto, casi una interrupción de la sombra. Después apareció una cabeza a ras del suelo, seguida por un cuerpo alargado y compacto.
-
-Kevin se quedó quieto.
-
-—¿Qué es?
+—NARA. A la derecha. Cuerpo bajo, alargado. Se mueve a tirones.
 
 —Cortavientos. Depredador de emboscada. La identificación es probable por la silueta, la proporción de las extremidades y el patrón de desplazamiento.
 
@@ -150,18 +146,10 @@ Pero esa noche no iba a dormir en el cauce, ni en una cavidad que pudiera inunda
 
 —Puedo esperar cinco minutos.
 
-Kevin cerró los ojos, aunque no se durmió. Escuchó el viento rozar la roca y, más abajo, un sonido seco que podía ser una rama o una piedra desplazándose.
+Kevin se acomodó sobre la capa de hierbas y mantuvo la vista en la ladera hasta que la oscuridad borró los detalles. No se durmió enseguida. Todavía tenía demasiadas cosas que resolver y ninguna garantía de que el cortavientos no regresara.
 
-No se levantó de inmediato.
+Pero había elegido el lugar con lo que sabía, no con lo que deseaba que fuera cierto.
 
-Primero escuchó otra vez.
+No era seguridad.
 
-Esta vez el sonido llegó desde el lado contrario.
-
-Kevin abrió los ojos y se incorporó despacio. La noche todavía no había terminado de caer.
-
-Su refugio era mejor que el cauce. No era una garantía.
-
-Y empezaba a entender que, en aquella cuenca, sobrevivir no consistía en encontrar un lugar seguro.
-
-Consistía en reconocer a tiempo cuándo dejaba de serlo.
+Era una posición desde la que podía reaccionar. Por esa noche, tendría que bastar.
