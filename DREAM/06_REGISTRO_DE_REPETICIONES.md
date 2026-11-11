@@ -104,3 +104,15 @@ Este documento es una memoria de trabajo, no un generador automático de capítu
 - **Recurso distintivo:** NARA identifica organismos conocidos y enseña cómo interpretar sus propiedades sin proporcionar ubicaciones mágicas.
 - **Qué quedó abierto:** potabilidad de la poza, acceso a una fuente más fiable, refugio nocturno y motivo por el que los lomos de sal evitan una franja de basalto.
 - **Qué conviene no repetir inmediatamente:** búsqueda de agua basada otra vez en seguir rastros o consultar una especie; cambiar la naturaleza del problema en el siguiente capítulo.
+
+
+### Capítulo 3 — Un lugar para quedarse
+- **Conflicto dominante:** elegir y preparar un refugio provisional antes de que caiga la noche.
+- **Quién impulsa el conflicto:** Kevin, que necesita un lugar donde pasar la noche; el entorno presenta alternativas imperfectas y señales de riesgo.
+- **Mecanismo de tensión:** evaluación espacial de tres emplazamientos, lectura de marcas de una crecida anterior, identificación experta de un depredador de emboscada y preparación manual de un refugio.
+- **Tipo de escalada:** Kevin empieza a aplicar la experiencia de la avenida del capítulo 1 al evaluar dónde dormir; además, descubre una amenaza ecológica concreta sin tener que combatirla.
+- **Decisión:** descartar una cavidad expuesta a crecidas y un saliente próximo a un posible corredor de caza; elegir una repisa más expuesta pero visible, con salida despejada.
+- **Consecuencia duradera:** dispone de un refugio rudimentario y una ubicación a la que puede regresar; el cortavientos queda identificado como amenaza local probable, sin confirmar si detectó a Kevin.
+- **Recurso narrativo distintivo:** el refugio como problema táctico de lectura del terreno, no como simple pausa entre aventuras.
+- **Qué quedó abierto:** cómo transcurre la noche, si el cortavientos vuelve, agua potable, alimento y fuego.
+- **Qué conviene no repetir inmediatamente:** nueva búsqueda de refugio, evaluación de emplazamientos o encuentro de identificación/evitación con el mismo depredador. Cambiar el motor del conflicto.
