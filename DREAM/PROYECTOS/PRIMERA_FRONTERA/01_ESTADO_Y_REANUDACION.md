@@ -22,7 +22,9 @@ Si no hay acceso al repositorio, declarar la limitación y no fingir que se ley�
 
 **Premisa:** un hombre normal despierta solo en un mundo desconocido. Debe sobrevivir y encontrar la siguiente puerta física oculta para avanzar. No hay misiones, marcadores ni instrucciones de progreso.
 
-**Acompañante:** una IA que solo ofrece apoyo práctico para analizar su cuerpo, entrenamiento, recuperación, poderes, criaturas y riesgos. No conoce el origen ni los secretos del mundo; cuando no tiene datos, lo reconoce.
+**Acompañante:** NARA es una IA altamente competente, con amplio conocimiento documentado del mundo, sus criaturas, técnicas, capacidades y métodos de desarrollo. Puede enseñar, analizar, identificar, comparar y recomendar. No conoce el origen de Kevin, los secretos últimos, la ubicación automática de lugares no descubiertos ni dónde están objetos o medios concretos para adquirir una capacidad. No asigna misiones ni dirige el avance.
+
+**Límite de conocimiento:** NARA no se hace la ignorante. Ante datos nuevos analiza, compara y formula hipótesis; distingue hechos, inferencias e incógnitas. Conocer una habilidad no significa saber dónde conseguirla. Conocer una especie no garantiza identificar una variante inédita sin datos suficientes.
 
 **Progresión:** crecimiento progresivo y satisfactorio, potencialmente rápido cuando está justificado. Recuperación, evolución/adaptación y dominio de poderes son procesos distintos. Matar criaturas no cura automáticamente.
 
@@ -138,7 +140,7 @@ Nomenclatura correlativa: `001-titulo-del-capitulo.md`, `002-titulo-del-capitulo
 - Todo lo anterior es su estado inicial. La condición física, las habilidades y la respuesta bajo presión pueden mejorar de forma acumulativa; no se reinician ni se convierten en cambios de personalidad gratuitos.
 
 ### Decisiones creativas incorporadas a la biblia
-- IA de apoyo: NARA, módulo oscuro ajustado a la muñeca; comunicación por voz e indicadores simples. Tiene análisis prácticos, sin conexión ni conocimiento del lore.
+- NARA: módulo oscuro ajustado a la muñeca, con comunicación por voz e indicadores simples. IA experta con amplio conocimiento del mundo, criaturas, técnicas y progresión; desconoce el origen de Kevin, los secretos últimos y las ubicaciones no registradas.
 - Territorio inicial de trabajo: Cuenca de Aram; cauces secos con crecidas repentinas, terrazas de roca y ecosistema propio.
 - Fauna inicial de referencia: lomos de sal, rastras, cortavientos y filamentos de pozo.
 - La primera puerta se integrará en una formación de basalto de las terrazas altas; su ubicación y mecanismo se descubrirán mediante pistas, no por indicación de NARA.
@@ -148,9 +150,25 @@ Nomenclatura correlativa: `001-titulo-del-capitulo.md`, `002-titulo-del-capitulo
 - Título: **El cauce**.
 - Kevin despierta en un cauce desconocido, descubre el módulo NARA y escapa de una avenida repentina de agua al subir a una terraza.
 - Observa a distancia una manada de criaturas grandes, aún no identificadas.
-- Estado al cierre: raspadura en antebrazo y palma, contusión leve en rodilla, fatiga moderada, sin lesión incapacitante confirmada. Sin agua, refugio ni recursos asegurados. NARA activa y limitada a datos observables.
+- Estado al cierre: raspadura en antebrazo y palma, contusión leve en rodilla, fatiga moderada, sin lesión incapacitante confirmada. Sin agua, refugio ni recursos asegurados. NARA activa. Su conocimiento general del mundo no le permite determinar la ubicación de Kevin ni identificar con certeza a la manada a partir de la observación distante disponible.
 - Kevin decide registrar el terreno, la fauna y los fenómenos repetidos. No ha descubierto aún la puerta ni comprende el mundo.
 - Archivo publicado: `DREAM/PROYECTOS/PRIMERA_FRONTERA/CAPITULOS/001-el-cauce.md`.
 
 ### Punto exacto para continuar
 Escribir el capítulo 2 desde la terraza, respetando la avenida reciente, el estado físico de Kevin y la falta de recursos. El siguiente avance debe centrarse en una necesidad concreta (agua, refugio o ruta segura), con observación y decisiones; no repetir otra huida de monstruo ni concederle una mejora sobrenatural prematura.
+
+## Corrección de concepto — NARA (2026-11-10)
+
+Se corrige la definición inicial de NARA. La versión anterior la limitaba a mediciones fisiológicas y observaciones inmediatas, sin base de datos del mundo; esa restricción queda descartada.
+
+NARA es una IA experta y una fuente de conocimiento amplia: puede enseñar entrenamiento físico, técnicas, combate, supervivencia y métodos conocidos de desarrollo; consultar información documentada sobre criaturas, capacidades, debilidades y reglas del mundo; analizar novedades y formular hipótesis. No debe fingir ignorancia ni reservar información útil para forzar descubrimientos.
+
+Sus límites son concretos: desconoce quién creó el mundo o el módulo, por qué Kevin llegó allí, el propósito último de las fronteras, la ubicación exacta de Kevin si no puede determinarla, las zonas no cartografiadas y la localización de puertas u oportunidades no registradas. Saber cómo funciona una capacidad no significa saber dónde obtenerla. No entrega misiones, encargos, recompensas ni coordenadas mágicas.
+
+Ante especies desconocidas o variantes, analiza rasgos observables y compara con casos conocidos; solo declara incertidumbre cuando los datos no permiten una conclusión fiable. Debe separar conocimiento confirmado, inferencia e incógnita.
+
+### Compatibilidad con el capítulo 1
+
+El capítulo 1 no queda invalidado en su conjunto. Que NARA no sepa dónde está Kevin, por qué llegó allí o qué causó la avenida de agua es compatible con la nueva definición. La identificación fallida de la manada también puede mantenerse porque Kevin la observa desde lejos y no hay rasgos suficientes descritos para una identificación fiable. Lo que queda corregido es la interpretación de que NARA carece de conocimiento general del mundo. El capítulo no debe usarse como precedente para mantenerla ignorante de criaturas, técnicas o capacidades que sí estén registradas.
+
+**Punto de continuidad actualizado:** antes de escribir el capítulo 2, aplicar esta definición de NARA. No hace falta reescribir el capítulo 1 por ahora; sus hechos principales siguen siendo compatibles. Si una escena posterior requiere información que NARA conoce, debe proporcionarla con naturalidad.
