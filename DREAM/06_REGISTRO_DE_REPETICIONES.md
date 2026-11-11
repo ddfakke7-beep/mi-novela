@@ -79,3 +79,28 @@ Además de anotar lo usado, registrar:
 Actualizar el registro después de revisar un capítulo terminado, no antes de saber qué ocurrió realmente. Distinguir hechos del canon de hipótesis creativas. No inventar retrospectivamente conexiones para que el registro parezca ordenado.
 
 Este documento es una memoria de trabajo, no un generador automático de capítulos. Su valor depende de usarlo para tomar decisiones distintas.
+
+
+## Primera Frontera
+
+### Capítulo 1 — El cauce
+- **Conflicto dominante:** supervivencia ante un peligro ambiental inmediato.
+- **Quién impulsa el conflicto:** el entorno; una avenida repentina ocupa el cauce donde Kevin despierta.
+- **Mecanismo de tensión:** amenaza ambiental, reacción rápida y escape hacia terreno elevado.
+- **Tipo de escalada:** se revela que el territorio tiene fenómenos y fauna desconocidos.
+- **Decisión:** abandonar el cauce y buscar altura en lugar de investigar el fenómeno.
+- **Consecuencia duradera:** raspaduras, contusión leve, fatiga y conciencia de que el terreno puede cambiar sin aviso.
+- **Recurso distintivo:** crecida repentina en un cauce aparentemente seco.
+- **Qué quedó abierto:** agua, refugio, fauna observada y registro de patrones.
+- **Qué conviene no repetir inmediatamente:** una segunda persecución o huida ambiental que resuelva el capítulo mediante correr.
+
+### Capítulo 2 — Lo que deja el agua
+- **Conflicto dominante:** conseguir agua sin poder verificar por completo su seguridad.
+- **Quién impulsa el conflicto:** Kevin, que busca una fuente y decide cuánto riesgo aceptar; NARA aporta conocimiento experto.
+- **Mecanismo de tensión:** exploración localizada, consulta de una base de conocimiento, evaluación de riesgos y uso limitado de un recurso.
+- **Tipo de escalada:** Kevin pasa de no saber cómo leer el entorno a reconocer una fuente potencial y comprender parte de la ecología local; no obtiene una solución completa.
+- **Decisión:** beber una cantidad pequeña de agua no certificada y retirarse sin explorar la grieta oscura.
+- **Consecuencia duradera:** conoce los filamentos de pozo y los rastros de rastras; tiene una ubicación marcada para volver, pero aún carece de agua segura almacenada y refugio.
+- **Recurso distintivo:** NARA identifica organismos conocidos y enseña cómo interpretar sus propiedades sin proporcionar ubicaciones mágicas.
+- **Qué quedó abierto:** potabilidad de la poza, acceso a una fuente más fiable, refugio nocturno y motivo por el que los lomos de sal evitan una franja de basalto.
+- **Qué conviene no repetir inmediatamente:** búsqueda de agua basada otra vez en seguir rastros o consultar una especie; cambiar la naturaleza del problema en el siguiente capítulo.
