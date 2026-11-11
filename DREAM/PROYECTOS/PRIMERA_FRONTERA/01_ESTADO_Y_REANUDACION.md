@@ -18,7 +18,7 @@ Si no hay acceso al repositorio, declarar la limitación y no fingir que se ley�
 
 ## Estado actual del proyecto
 
-**Fase:** diseño de la primera saga. Todavía no se ha redactado ningún capítulo.
+**Fase:** primera saga en desarrollo; capítulos 1 y 2 publicados. Continuar desde la terraza de la Cuenca de Aram, al final del capítulo 2.
 
 **Premisa:** un hombre normal despierta solo en un mundo desconocido. Debe sobrevivir y encontrar la siguiente puerta física oculta para avanzar. No hay misiones, marcadores ni instrucciones de progreso.
 
@@ -48,13 +48,11 @@ No es una escaleta cerrada. Los acontecimientos, giros, personajes, geografía, 
 
 ## Decisiones pendientes de diseño
 
-- Identidad, nombre, carácter, pasado y motivaciones del protagonista.
-- Identidad, voz, límites técnicos y evolución funcional de la IA.
-- Reglas precisas de energía, recuperación, adaptación, evolución y poderes.
-- Geografía, ecosistema, recursos y criaturas del primer territorio.
-- Naturaleza física, ubicación, mecanismo y condiciones de apertura de la primera puerta.
-- Secuencia detallada de acontecimientos, pistas, reveses, decisiones y giros de la primera saga.
-- Misterio global y dirección de sagas posteriores.
+- Precisar las reglas concretas de energía, recuperación, adaptación y capacidades extraordinarias cuando la historia llegue a ellas; no introducir un sistema de RPG por inercia.
+- Desarrollar el ecosistema y las zonas de la Cuenca de Aram a medida que Kevin las explore, sin convertir los nombres de referencia en una lista cerrada.
+- Diseñar y sembrar la primera puerta física, su mecanismo y las condiciones reales para alcanzarla y cruzarla.
+- Mantener abiertas la explicación del mundo, su creador y el motivo de la llegada de Kevin.
+- Construir los acontecimientos siguientes desde las consecuencias reales de los capítulos publicados; no fijar una escaleta rígida.
 
 ## Restricciones
 
@@ -71,9 +69,9 @@ No es una escaleta cerrada. Los acontecimientos, giros, personajes, geografía, 
 
 **Trabajo realizado:** se creó la biblia inicial 00_BIBLIA_INICIAL.md y se actualizó DREAM/README.md para indexar el proyecto.
 
-**Canon de capítulos:** ninguno; aún no hay capítulos escritos.
+**Canon de capítulos:** capítulos 1 y 2 publicados. Los acontecimientos descritos en sus archivos son canon; los hitos futuros de la saga siguen siendo provisionales.
 
-**Punto exacto para retomar:** desarrollar la biblia completa de la primera saga, empezando por protagonista, IA y reglas de progresión; después diseñar el primer territorio, sus amenazas y la búsqueda de la puerta. No empezar la prosa todavía.
+**Punto exacto para retomar:** continuar después del regreso de Kevin a la terraza. Tiene una pequeña cantidad de agua obtenida de una poza alimentada por filamentos de pozo, cuya potabilidad no está confirmada; marcó la grieta donde la encontró. Debe encontrar un lugar razonable para pasar la noche y asegurar una fuente de agua más fiable. No repetir otra huida ni resolver todo de golpe.
 
 
 ## Ciclo de crecimiento y cierre de sagas acordado
@@ -172,3 +170,33 @@ Ante especies desconocidas o variantes, analiza rasgos observables y compara con
 El capítulo 1 no queda invalidado en su conjunto. Que NARA no sepa dónde está Kevin, por qué llegó allí o qué causó la avenida de agua es compatible con la nueva definición. La identificación fallida de la manada también puede mantenerse porque Kevin la observa desde lejos y no hay rasgos suficientes descritos para una identificación fiable. Lo que queda corregido es la interpretación de que NARA carece de conocimiento general del mundo. El capítulo no debe usarse como precedente para mantenerla ignorante de criaturas, técnicas o capacidades que sí estén registradas.
 
 **Punto de continuidad actualizado:** antes de escribir el capítulo 2, aplicar esta definición de NARA. No hace falta reescribir el capítulo 1 por ahora; sus hechos principales siguen siendo compatibles. Si una escena posterior requiere información que NARA conoce, debe proporcionarla con naturalidad.
+
+## Actualización de sesión — 2026-11-10 (capítulo 2)
+
+**Trabajo realizado:** escrito, revisado y publicado el capítulo 2, «Lo que deja el agua». Se aplicó la definición corregida de NARA como IA experta.
+
+### Canon añadido
+- Desde la terraza, Kevin localiza una grieta húmeda en la roca con una colonia de filamentos de pozo.
+- NARA reconoce los filamentos y explica que conducen humedad subterránea; el líquido de sus canales internos suele tener baja concentración de sales, aunque la colonia concreta no fue analizada en laboratorio.
+- Kevin recoge unas gotas de un filamento y bebe una cantidad pequeña de una poza alimentada por filtración. NARA no certifica que la poza sea potable; Kevin acepta un riesgo limitado porque no tiene medios para hervir el agua.
+- NARA identifica rastros de rastras cerca de la poza y explica su comportamiento carroñero. Kevin evita introducir la mano en la grieta oscura.
+- Kevin aprende una pauta básica para dosificar el esfuerzo al caminar por terreno irregular: pasos cortos, ritmo sostenible y pausas antes del agotamiento. Es una recomendación, no un entrenamiento completado ni una mejora física ya adquirida.
+- Desde la terraza observa que los lomos de sal evitan una franja junto a una pared de basalto. No se conoce la causa; queda como observación pendiente, no como prueba de la puerta.
+
+### Estado de Kevin al cierre
+- Sigue en la terraza de la Cuenca de Aram, tras regresar de la grieta.
+- Conserva los raspones de la palma y el antebrazo y la contusión leve de la rodilla; no se añade una lesión nueva.
+- Fatiga moderada, respiración estabilizada.
+- Ha ingerido una pequeña cantidad de agua de una poza de potabilidad no confirmada; no dispone de reserva transportable ni de agua segura asegurada.
+- No tiene refugio establecido ni recursos suficientes para considerar resuelta la supervivencia inmediata.
+- Conocimiento nuevo: filamentos de pozo y rastros de rastras; ha visto una pauta de evitación de terreno en los lomos de sal, aún sin explicación.
+
+### NARA
+- Demuestra conocimiento documentado de organismos del entorno y ofrece instrucción práctica sin conocer la ubicación exacta de Kevin ni la causa de su llegada.
+- La identificación de filamentos y rastras se apoya en rasgos observables; la seguridad del agua se mantiene como incierta.
+
+**Mecanismo del capítulo:** búsqueda de recurso mediante consulta experta, observación y evaluación de riesgo. A diferencia del capítulo 1, el conflicto no es una huida: Kevin decide cuánto riesgo aceptar ante una necesidad y obtiene información útil sin resolver por completo su situación.
+
+**Archivo publicado:** `DREAM/PROYECTOS/PRIMERA_FRONTERA/CAPITULOS/002-lo-que-deja-el-agua.md`.
+
+**Siguiente punto:** encontrar un lugar donde pasar la noche y mejorar el acceso a agua sin asumir que la primera poza es segura. La franja de basalto evitada por los lomos de sal queda como observación abierta; no forzar todavía una conclusión sobre su relación con la puerta.
