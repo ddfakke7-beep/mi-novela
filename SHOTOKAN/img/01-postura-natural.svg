@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="520" viewBox="0 0 1000 520">
+  <rect width="1000" height="520" rx="24" fill="#f7f7f5"/>
+  <text x="48" y="58" font-family="Arial,sans-serif" font-size="30" font-weight="700" fill="#202020">POSTURA NATURAL · SHIZENTAI</text>
+  <g stroke="#333" stroke-width="10" stroke-linecap="round" stroke-linejoin="round" fill="none">
+    <circle cx="270" cy="145" r="35" fill="#f7f7f5"/>
+    <path d="M270 182 L270 300 M270 210 L215 260 M270 210 L325 260 M270 300 L220 405 L195 405 M270 300 L320 405 L345 405"/>
+    <circle cx="730" cy="145" r="35" fill="#f7f7f5"/>
+    <path d="M730 182 L730 300 M730 210 L675 260 M730 210 L785 260 M730 300 L680 405 L655 405 M730 300 L780 405 L805 405"/>
+  </g>
+  <g stroke="#d97706" stroke-width="4" fill="none" stroke-dasharray="8 8">
+    <path d="M270 95 L270 430"/><path d="M730 95 L730 430"/>
+  </g>
+  <g font-family="Arial,sans-serif" fill="#202020" font-size="23">
+    <text x="270" y="465" text-anchor="middle" font-weight="700">VISTA FRONTAL</text>
+    <text x="730" y="465" text-anchor="middle" font-weight="700">VISTA FRONTAL</text>
+    <text x="500" y="505" text-anchor="middle" font-size="18" fill="#555">Pies al ancho de caderas · rodillas desbloqueadas · hombros sueltos</text>
+  </g>
+  <g stroke="#d97706" stroke-width="4" fill="none"><path d="M205 385 L165 385"/><path d="M335 385 L375 385"/></g>
+</svg>

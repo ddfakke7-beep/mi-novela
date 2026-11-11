@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="570" viewBox="0 0 1200 570">
+  <rect width="1200" height="570" rx="24" fill="#f7f7f5"/>
+  <text x="48" y="58" font-family="Arial,sans-serif" font-size="30" font-weight="700" fill="#202020">OI-ZUKI · AVANCE Y PUÑO DEL MISMO LADO</text>
+  <g stroke="#333" stroke-width="11" stroke-linecap="round" stroke-linejoin="round" fill="none">
+    <circle cx="240" cy="160" r="32" fill="#f7f7f5"/>
+    <path d="M240 195 L240 305 M240 225 L195 270 M240 225 L285 270 M240 305 L190 390 L150 420 M240 305 L300 390 L340 420"/>
+    <circle cx="600" cy="160" r="32" fill="#f7f7f5"/>
+    <path d="M600 195 L600 305 M600 225 L540 245 L490 245 M600 225 L645 270 M600 305 L500 390 L450 420 M600 305 L760 380 L820 420"/>
+  </g>
+  <g stroke="#d97706" stroke-width="5" fill="none" stroke-linecap="round">
+    <path d="M350 260 L450 260"/><path d="M425 240 L450 260 L425 280"/>
+    <path d="M375 430 L440 430"/><path d="M420 410 L440 430 L420 450"/>
+  </g>
+  <g font-family="Arial,sans-serif" fill="#202020" font-size="22">
+    <text x="240" y="475" text-anchor="middle" font-weight="700">1. Preparación</text>
+    <text x="600" y="475" text-anchor="middle" font-weight="700">2. Avanza y extiende</text>
+    <text x="600" y="515" text-anchor="middle" font-size="18" fill="#555">Paso y brazo del mismo lado · mano contraria vuelve al costado (hikite)</text>
+  </g>
+  <g stroke="#d97706" stroke-width="4" fill="none">
+    <path d="M760 245 L860 245"/><path d="M840 225 L860 245 L840 265"/>
+  </g>
+  <text x="910" y="250" font-family="Arial,sans-serif" font-size="20" fill="#202020">Puño a altura media</text>
+  <text x="910" y="280" font-family="Arial,sans-serif" font-size="18" fill="#555">sin bloquear el codo</text>
+</svg>

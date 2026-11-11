@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="560" viewBox="0 0 1100 560">
+  <rect width="1100" height="560" rx="24" fill="#f7f7f5"/>
+  <text x="48" y="58" font-family="Arial,sans-serif" font-size="30" font-weight="700" fill="#202020">ZENKUTSU-DACHI · VISTA LATERAL</text>
+  <path d="M70 440 H1030" stroke="#777" stroke-width="4"/>
+  <g stroke="#333" stroke-width="15" stroke-linecap="round" stroke-linejoin="round" fill="none">
+    <circle cx="520" cy="130" r="42" fill="#f7f7f5"/>
+    <path d="M520 175 L520 290 L450 350"/>
+    <path d="M520 205 L455 250 M520 205 L585 250"/>
+    <path d="M520 290 L390 410 L320 440"/>
+    <path d="M520 290 L720 385 L810 440"/>
+  </g>
+  <g stroke="#d97706" stroke-width="5" fill="none">
+    <path d="M390 410 L390 440"/><path d="M720 385 L720 440"/>
+    <path d="M350 375 Q420 340 475 355" stroke-dasharray="8 8"/>
+    <path d="M700 340 L750 365"/>
+  </g>
+  <g font-family="Arial,sans-serif" fill="#202020" font-size="22">
+    <text x="180" y="290" font-weight="700">Pierna delantera</text>
+    <text x="180" y="318">rodilla flexionada</text>
+    <path d="M330 325 L400 370" stroke="#d97706" stroke-width="3" fill="none"/>
+    <text x="790" y="285" font-weight="700">Pierna trasera</text>
+    <text x="790" y="313">extendida, sin bloquear</text>
+    <path d="M800 325 L745 375" stroke="#d97706" stroke-width="3" fill="none"/>
+    <text x="550" y="500" text-anchor="middle" font-size="19" fill="#555">Tronco erguido · pies separados también a lo ancho · postura cómoda y estable</text>
+  </g>
+  <path d="M330 455 L330 475 M800 455 L800 475" stroke="#d97706" stroke-width="4"/>
+</svg>

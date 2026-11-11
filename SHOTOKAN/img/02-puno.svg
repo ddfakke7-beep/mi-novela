@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="480" viewBox="0 0 1000 480">
+  <rect width="1000" height="480" rx="24" fill="#f7f7f5"/>
+  <text x="48" y="58" font-family="Arial,sans-serif" font-size="30" font-weight="700" fill="#202020">CÓMO FORMAR EL PUÑO</text>
+  <g stroke="#333" stroke-width="5" stroke-linejoin="round" fill="#e7b98d">
+    <path d="M130 270 Q145 230 190 225 L240 230 L265 255 L255 300 L220 330 L160 320 Q125 310 130 270Z"/>
+    <path d="M170 230 L170 160 Q170 140 190 140 Q210 140 210 160 L210 225 M210 225 L210 150 Q210 130 230 130 Q250 130 250 150 L250 235 M250 235 L250 170 Q250 150 270 150 Q290 150 290 170 L290 255"/>
+    <path d="M265 255 Q300 230 320 250 Q340 275 310 300 L270 315"/>
+    <path d="M430 260 Q445 220 490 215 L555 220 L585 250 L570 300 L530 330 L465 315 Q425 305 430 260Z"/>
+    <path d="M465 225 L465 155 Q465 135 485 135 Q505 135 505 155 L505 225 M505 225 L505 145 Q505 125 525 125 Q545 125 545 145 L545 230 M545 230 L545 165 Q545 145 565 145 Q585 145 585 165 L585 255"/>
+    <path d="M570 255 Q610 230 630 250 Q650 275 620 300 L580 315"/>
+  </g>
+  <g stroke="#d97706" stroke-width="6" fill="none" stroke-linecap="round">
+    <path d="M355 235 L395 235"/><path d="M380 220 L395 235 L380 250"/>
+  </g>
+  <g font-family="Arial,sans-serif" fill="#202020" font-size="22">
+    <text x="230" y="385" text-anchor="middle" font-weight="700">1. Dobla los dedos</text>
+    <text x="530" y="385" text-anchor="middle" font-weight="700">2. Cierra sin aplastar</text>
+    <text x="500" y="430" text-anchor="middle" font-size="18" fill="#555">Pulgar por fuera · muñeca alineada con el antebrazo</text>
+  </g>
+  <path d="M700 160 L820 160" stroke="#d97706" stroke-width="5"/><path d="M800 145 L820 160 L800 175" stroke="#d97706" stroke-width="5" fill="none"/>
+  <text x="760" y="205" font-family="Arial,sans-serif" font-size="19" text-anchor="middle" fill="#202020">Pulgar</text>
+  <text x="760" y="230" font-family="Arial,sans-serif" font-size="19" text-anchor="middle" fill="#202020">por fuera</text>
+</svg>
