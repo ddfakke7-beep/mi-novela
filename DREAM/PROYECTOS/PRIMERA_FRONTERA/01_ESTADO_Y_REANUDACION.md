@@ -18,7 +18,7 @@ Si no hay acceso al repositorio, declarar la limitación y no fingir que se ley�
 
 ## Estado actual del proyecto
 
-**Fase:** primera saga en desarrollo; capítulos 1, 2 y 3 publicados. Continuar después de que Kevin haya elegido y preparado un refugio provisional en una repisa alta de la Cuenca de Aram; la noche aún no ha terminado.
+**Fase:** primera saga en desarrollo; capítulos 1, 2 y 3 publicados. Continuar desde la repisa alta de la Cuenca de Aram al anochecer. Aplicar el criterio de ritmo acelerado añadido en la sección 18 de la biblia: comprimir rutina, aumentar densidad de acontecimientos y hacer visible la progresión sin precipitar poderes ni puertas.
 
 **Premisa:** un hombre normal despierta solo en un mundo desconocido. Debe sobrevivir y encontrar la siguiente puerta física oculta para avanzar. No hay misiones, marcadores ni instrucciones de progreso.
 
@@ -234,3 +234,20 @@ El capítulo 1 no queda invalidado en su conjunto. Que NARA no sepa dónde está
 **Archivo publicado:** `DREAM/PROYECTOS/PRIMERA_FRONTERA/CAPITULOS/003-un-lugar-para-quedarse.md`.
 
 **Siguiente punto de entrada:** continuar desde la repisa al anochecer. No asumir que Kevin ya durmió, que el cortavientos se marchó definitivamente ni que el refugio es seguro. La necesidad de agua potable y alimento sigue activa. Cambiar de nuevo el mecanismo del conflicto; no repetir inmediatamente la búsqueda de refugio, la identificación de depredador ni otra evaluación de tres opciones.
+
+
+## Ajuste de ritmo — instrucción prioritaria para la siguiente sesión (2026-11-10)
+
+El usuario señaló que los tres primeros capítulos avanzan demasiado lento y aprobó acelerar el ritmo. Esta corrección tiene prioridad sobre cualquier tendencia a imitar la escala pequeña de los capítulos 1–3.
+
+**Diagnóstico:** hasta ahora cada capítulo se ha concentrado en una necesidad inmediata distinta: escapar de la crecida, conseguir agua provisional y preparar un refugio. Esa secuencia sirve para establecer vulnerabilidad y entorno, pero no debe convertirse en la estructura habitual. No narrar cada tarea básica como un capítulo independiente.
+
+**Regla de entrega:** cada capítulo debe dejar a Kevin en una situación significativamente distinta a la inicial. Puede ser por progreso, descubrimiento, decisión, pérdida, oportunidad, cambio táctico o consecuencia; no exige victoria ni poder nuevo en cada entrega. Aumentar la densidad: más de un acontecimiento conectado por capítulo, expediciones completas, elipsis para días de rutina y resolución de necesidades cuando ya no aporten tensión. La referencia de 700–1.200 palabras es flexible; no cortar una secuencia fértil ni inflar una escena mínima.
+
+**Progresión:** en cada tramo de varios capítulos debe existir crecimiento práctico perceptible y acumulativo. Kevin debe empezar a ampliar sus capacidades y posibilidades, no quedarse varios capítulos resolviendo solo agua/refugio/alimento. Los avances pueden ser rápidos si tienen causa; no prolongar artificialmente el entrenamiento. Mantener separados recuperación, adaptación y dominio de poderes.
+
+**No confundir aceleración con precipitación:** no regalar poderes, no saltarse preparación, no revelar la puerta antes de tiempo y no introducir combates por obligación. Cambiar el ritmo usando mejor el espacio narrativo y haciendo que las decisiones tengan consecuencias más amplias.
+
+**Siguiente punto:** la noche en la repisa no necesita ocupar otro capítulo completo si no ocurre algo sustancial. Resolverla con una transición si corresponde. Integrar las necesidades pendientes en una secuencia de mayor recorrido que amplíe el radio de acción de Kevin, produzca aprendizaje útil y cambie sus opciones. No hacer un capítulo para conseguir agua, otro para comida y otro para fuego por separado.
+
+La regla completa queda formalizada en la sección 18 de `00_BIBLIA_INICIAL.md`.
