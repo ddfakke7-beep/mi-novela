@@ -18,7 +18,7 @@ Si no hay acceso al repositorio, declarar la limitación y no fingir que se ley�
 
 ## Estado actual del proyecto
 
-**Fase:** primera saga en desarrollo; capítulos 1 y 2 publicados. Continuar desde la terraza de la Cuenca de Aram, al final del capítulo 2.
+**Fase:** primera saga en desarrollo; capítulos 1, 2 y 3 publicados. Continuar después de que Kevin haya elegido y preparado un refugio provisional en una repisa alta de la Cuenca de Aram; la noche aún no ha terminado.
 
 **Premisa:** un hombre normal despierta solo en un mundo desconocido. Debe sobrevivir y encontrar la siguiente puerta física oculta para avanzar. No hay misiones, marcadores ni instrucciones de progreso.
 
@@ -63,7 +63,7 @@ No es una escaleta cerrada. Los acontecimientos, giros, personajes, geografía, 
 - Mantener capítulos cortos y funcionales; no añadir relleno para alcanzar el recuento de palabras.
 - Al cerrar futuras sesiones, añadir una nueva entrada fechada con cambios reales, decisiones, canon, pendientes y archivos actualizados.
 
-## Última sesión registrada
+## Registro inicial de sesión — creación y capítulo 1
 
 **Fecha:** 2026-11-10.
 
@@ -200,3 +200,37 @@ El capítulo 1 no queda invalidado en su conjunto. Que NARA no sepa dónde está
 **Archivo publicado:** `DREAM/PROYECTOS/PRIMERA_FRONTERA/CAPITULOS/002-lo-que-deja-el-agua.md`.
 
 **Siguiente punto:** encontrar un lugar donde pasar la noche y mejorar el acceso a agua sin asumir que la primera poza es segura. La franja de basalto evitada por los lomos de sal queda como observación abierta; no forzar todavía una conclusión sobre su relación con la puerta.
+
+
+## Actualización de sesión — 2026-11-10 (capítulo 3)
+
+**Trabajo realizado:** escrito, auditado, corregido y publicado el capítulo 3, «Un lugar para quedarse». Se revisaron continuidad, agencia, causalidad, conocimiento de NARA y variedad del mecanismo narrativo. También se corrigió la escena para que Kevin describa lo que ve antes de que NARA identifique al cortavientos; NARA no obtiene información visual que Kevin no le haya proporcionado.
+
+### Canon añadido
+- Al buscar dónde pasar la noche, Kevin examina tres formaciones rocosas.
+- Descarta una cavidad baja al observar restos vegetales atrapados por encima del suelo, indicio de que pudo recibir agua durante una crecida. La experiencia de la avenida del capítulo 1 modifica su criterio: no elige el refugio más cómodo sin evaluar el riesgo.
+- En un segundo saliente observa un depredador de emboscada que NARA identifica con probabilidad como un cortavientos, a partir de la descripción de Kevin. NARA explica que su ventaja es la sorpresa y la aceleración corta, no la persecución prolongada.
+- Kevin no combate ni confirma que el animal lo haya detectado. Descarta ese saliente porque la vegetación ofrece una ruta de aproximación cubierta.
+- Se desplaza por una ruta más expuesta y elige una repisa alta con visibilidad y salida despejada. Prepara una capa rudimentaria de vegetación seca para aislarse de la roca y una barrera baja contra el viento.
+- El refugio es provisional, no una zona garantizada como segura. Kevin permanece despierto mientras cae la noche; el capítulo no confirma todavía cómo transcurre el resto de la noche.
+
+### Estado de Kevin al cierre
+- Está en una repisa alta de la terraza de la Cuenca de Aram, bajo un saliente inclinado, con una cama rudimentaria de hierbas secas y una barrera baja contra el viento.
+- Conserva las raspaduras y la contusión leve ya establecidas; el capítulo no añade lesiones nuevas.
+- No se establece una mejora física ni un entrenamiento completado. La subida y la preparación del refugio son actividad puntual.
+- Sigue sin disponer de agua segura confirmada, recipiente, alimento ni fuego.
+- Ha identificado una amenaza local probable: el cortavientos. No sabe si el individuo observado lo detectó ni si regresará.
+- Conserva la ubicación marcada de la grieta con filamentos de pozo; la franja de basalto evitada por los lomos de sal sigue siendo una observación abierta.
+
+### NARA
+- Identifica al cortavientos con probabilidad a partir de los rasgos que Kevin describe, y ofrece información documentada sobre su método de caza.
+- Ayuda a evaluar refugios y aislamiento térmico sin decidir por Kevin ni garantizar seguridad.
+- No conoce el recorrido futuro del animal ni convierte la observación en una ubicación exacta de peligro.
+
+**Mecanismo narrativo utilizado:** selección de refugio mediante evaluación de riesgos espaciales y ecológicos. La tensión surge de comparar alternativas imperfectas, reconocer señales de inundación y evitar un corredor de emboscada; no de perseguir, combatir ni conseguir un recurso mediante rastreo.
+
+**Diferencia respecto de los capítulos anteriores:** el capítulo 1 fue una reacción a una amenaza ambiental inmediata; el capítulo 2, una decisión sobre el riesgo de consumir agua; el capítulo 3, una evaluación táctica del espacio y preparación de un refugio provisional.
+
+**Archivo publicado:** `DREAM/PROYECTOS/PRIMERA_FRONTERA/CAPITULOS/003-un-lugar-para-quedarse.md`.
+
+**Siguiente punto de entrada:** continuar desde la repisa al anochecer. No asumir que Kevin ya durmió, que el cortavientos se marchó definitivamente ni que el refugio es seguro. La necesidad de agua potable y alimento sigue activa. Cambiar de nuevo el mecanismo del conflicto; no repetir inmediatamente la búsqueda de refugio, la identificación de depredador ni otra evaluación de tres opciones.
