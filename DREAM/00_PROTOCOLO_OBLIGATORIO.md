@@ -92,6 +92,7 @@ Antes de entregar un capítulo o escena importante, realiza las cinco lecturas d
 - Que la indecisión, la contención o la demora tengan una razón específica.
 - Que la estrategia antagonista tenga un objetivo y un coste coherentes.
 - Interés como lector: tensión, emoción, curiosidad y deseo de continuar.
+- Ritmo y densidad: comprobar que el capítulo no convierte tareas rutinarias en capítulos independientes, que el tiempo puede comprimirse cuando corresponde y que los acontecimientos producen un cambio significativo. Respetar el ritmo específico aprobado en la biblia del proyecto; no imitar mecánicamente la escala de los capítulos anteriores si el usuario ha pedido corregirla.
 
 Si detectas un defecto importante, corrige el capítulo antes de presentarlo. No le entregues al usuario un borrador mediocre para que él encuentre los problemas. Si una incertidumbre de canon impide escribir con seguridad, detente y pregunta solo lo indispensable.
 
@@ -159,3 +160,8 @@ Cuando el usuario solicite capítulos de una novela, la entrega no termina en el
 - Mantener un índice de capítulos en el proyecto cuando su estructura lo permita, con enlaces a los archivos publicados.
 - La carpeta se materializa en GitHub al publicar el primer archivo; no es necesario crear una carpeta vacía por adelantado.
 
+
+
+### 6.1. Ritmo específico del proyecto
+
+El ritmo no se deduce automáticamente de la longitud de los capítulos anteriores. Cada proyecto puede tener criterios propios de densidad, elipsis, progresión y escala de acontecimientos. Leerlos y aplicarlos. Si el usuario corrige el ritmo, registrar la corrección en la biblia y en el estado de transferencia; no basta con prometer que el próximo capítulo será más rápido. Antes de entregar, comprobar que el capítulo produce un cambio narrativo real y que la rutina prescindible se ha comprimido.
