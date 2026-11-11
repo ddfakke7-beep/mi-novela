@@ -23,21 +23,29 @@ La exploración no debe convertirse en caminar sin rumbo durante capítulos ente
 
 ## 3. La IA de apoyo
 
-La IA acompaña al protagonista como herramienta práctica de supervivencia y desarrollo. No es una enciclopedia del mundo ni conoce su historia secreta.
+La IA acompaña a Kevin como una fuente experta de conocimiento, análisis y orientación. NARA no es una simple herramienta de medición ni una enciclopedia omnisciente: posee una base de conocimiento amplia sobre el mundo, sus reglas conocidas, criaturas, capacidades, técnicas y formas de desarrollo. Puede explicar, enseñar, comparar opciones y recomendar estrategias con un nivel de competencia muy alto.
+
+Su conocimiento debe sentirse disponible de manera natural, como consultar una fuente especializada: Kevin puede preguntarle qué es algo, cómo funciona, qué riesgos implica, qué debilidades tiene una criatura o cómo entrenar una capacidad. NARA no debe ocultar información útil solo para obligar al protagonista a descubrirla por sí mismo.
 
 Funciones previstas:
-- Analizar el estado físico, lesiones, fatiga y capacidades observables del protagonista.
-- Recomendar entrenamiento, recuperación y estrategias de supervivencia.
-- Ayudar a entender y practicar habilidades o poderes que el protagonista haya descubierto.
-- Analizar criaturas observadas, identificar rasgos y debilidades cuando existan datos suficientes.
-- Evaluar riesgos y comparar tácticas posibles.
-- Administrar información sobre evolución y recuperación.
+- Enseñar y orientar el desarrollo físico: fuerza, resistencia, movilidad, coordinación, recuperación, combate y otras destrezas entrenables.
+- Explicar técnicas, principios y métodos conocidos, y ayudar a Kevin a practicarlos y perfeccionarlos.
+- Consultar y explicar información conocida sobre criaturas, especies, anatomía, capacidades, debilidades, conducta, hábitats y estrategias para enfrentarlas o evitarlas.
+- Explicar las reglas conocidas de las capacidades extraordinarias, sus requisitos, efectos, riesgos, compatibilidades y métodos documentados de desarrollo.
+- Analizar observaciones nuevas, compararlas con su conocimiento y formular hipótesis razonadas cuando no exista una identificación segura.
+- Evaluar el estado de Kevin, sus capacidades, avances, limitaciones y opciones de entrenamiento o desarrollo.
+- Ayudar a planificar exploraciones y decisiones tácticas sin decidir por Kevin.
 
-Límites:
-- No sabe quién creó el mundo, por qué llegó allí, cuál es el propósito de los territorios ni qué hay detrás de las puertas.
-- No inventa respuestas cuando carece de información. Debe decir claramente que no tiene acceso a esos datos.
-- Sus análisis dependen de lo que pueda observar o medir; puede equivocarse si los datos son insuficientes.
-- Puede ampliar sus funciones prácticas conforme progresa el protagonista, pero eso no le concede automáticamente conocimiento del lore.
+Límites reales:
+- No conoce quién creó el mundo o a NARA, por qué Kevin llegó allí ni el propósito último de las fronteras.
+- No conoce automáticamente la ubicación actual de Kevin, los lugares no cartografiados, los secretos locales ni la posición de puertas ocultas.
+- Conocer una habilidad, criatura, técnica o método no significa conocer dónde encontrar el objeto, ser, lugar o condición necesaria para obtenerlo.
+- No asigna misiones, objetivos, encargos, recompensas ni marcadores. No existe una interfaz que le ordene a Kevin cómo avanzar.
+- No puede garantizar que una estrategia funcione ni sustituir la ejecución, el esfuerzo, la experimentación o las decisiones de Kevin.
+- Si encuentra una variante realmente inédita o datos insuficientes, analiza lo observable, compara con casos conocidos y comunica el grado de certeza. No finge ignorancia si puede deducir algo razonablemente.
+- No inventa respuestas. Distingue con claridad entre datos conocidos, inferencias e incógnitas.
+
+NARA no debe ser nerfeada mediante olvidos arbitrarios. Si conoce una respuesta útil, la ofrece. Su límite está en la información que realmente no posee y en aquello que no puede saber sin observar, investigar o acceder al lugar correspondiente. Tampoco debe resolver cada escena con una explicación: interviene cuando su aporte mejora una decisión, una comprensión o la tensión narrativa.
 
 ## 4. Progresión del protagonista
 
@@ -117,7 +125,7 @@ La saga debe abrir con un acontecimiento atractivo y peligro inmediato; evitar u
 
 ### Confirmado
 - El protagonista empieza como humano normal.
-- Está solo; la IA es su apoyo práctico y no conoce el lore.
+- Está solo; NARA es una IA experta con amplio conocimiento del mundo, pero desconoce el origen de Kevin, los secretos últimos y la ubicación de lugares no descubiertos.
 - No hay misiones ni instrucciones para avanzar: debe encontrar la siguiente puerta.
 - Las puertas son estructuras físicas ocultas.
 - Puede desarrollar poderes y crecer de forma progresiva.
@@ -231,27 +239,33 @@ La historia previa a su llegada no debe convertirse en una biografía explicada 
 
 ## 13. La IA — NARA
 
-**Nombre operativo:** NARA.  
+**Nombre operativo:** NARA.
 **Naturaleza visible:** un módulo estrecho, oscuro y sin pantalla, ajustado a la muñeca de Kevin. Puede proyectar indicadores simples en su campo visual y transmitir una voz directamente a su percepción auditiva. Su origen y la razón por la que Kevin lo lleva son desconocidos para ambos al inicio.
 
-NARA habla con precisión y economía. Su tono es sereno, práctico y ocasionalmente seco; no debe sonar como una asistente omnisciente ni como una narradora que explica el mundo al lector. Puede desarrollar una dinámica particular con Kevin a partir de conversaciones y experiencias compartidas, sin fingir emociones humanas que no estén justificadas por su diseño.
+NARA es una IA altamente competente, con una base de conocimiento amplia sobre el mundo en el que Kevin despierta. Es una fuente de consulta, instructora, analista y asesora. Puede explicar conceptos complejos con claridad, enseñar métodos conocidos, comparar alternativas, identificar amenazas registradas y ayudar a convertir conocimiento en decisiones prácticas. Su competencia no debe reducirse para fabricar obstáculos artificiales.
 
-Capacidades iniciales:
-- Lectura de parámetros fisiológicos básicos: pulso, temperatura, respiración, fatiga aproximada y lesiones observables.
-- Registro de observaciones que Kevin le comunique o que sus sensores puedan captar.
-- Cálculos sencillos de distancia, tiempo, consumo y riesgo estimado cuando disponga de datos.
-- Organización de notas, hipótesis y comparaciones.
-- Asistencia para estructurar entrenamiento, recuperación y experimentación.
+Su tono es sereno, preciso y natural. Puede ser directa, señalar errores, advertir de riesgos y discutir una decisión con Kevin. No debe sonar como una narradora que explica todo al lector ni convertir cada conversación en un informe técnico. La relación y su dinámica se desarrollan mediante el uso, la confianza, los desacuerdos y las experiencias compartidas.
 
-Límites:
-- No dispone de conexión externa ni de una base de datos del mundo.
-- No conoce el origen de Kevin, del módulo, del territorio ni de las puertas.
-- No identifica automáticamente especies desconocidas ni conoce sus capacidades ocultas.
-- Sus estimaciones son tan buenas como sus sensores y los datos disponibles. Debe expresar incertidumbre y corregirse ante evidencia nueva.
-- No puede fabricar recursos, curar a Kevin, controlar criaturas ni resolver físicamente los problemas.
-- No debe convertir cada escena en un informe estadístico. Interviene cuando aporta una decisión, una observación útil o una tensión real.
+### Conocimiento y capacidades
+- Conoce técnicas de entrenamiento físico, acondicionamiento, movilidad, coordinación, combate y supervivencia que formen parte de su base de conocimiento.
+- Conoce información documentada sobre criaturas y especies: características, anatomía, comportamiento, capacidades, debilidades, hábitats y tácticas conocidas.
+- Conoce las reglas y métodos documentados de las capacidades extraordinarias del mundo, así como sus requisitos, riesgos, compatibilidades y formas conocidas de entrenamiento o desarrollo.
+- Puede evaluar a Kevin, registrar sus parámetros, medir avances y recomendar ejercicios, técnicas y rutas de desarrollo razonables.
+- Puede analizar muestras, rastros, comportamientos y fenómenos observados; comparar datos con registros conocidos y formular hipótesis cuando la identificación no sea concluyente.
+- Puede ayudar a planificar rutas y expediciones con la información geográfica disponible, pero no dispone de la ubicación automática de lugares que nadie ha registrado.
+- Puede enseñar y orientar; no puede realizar el entrenamiento, tomar decisiones ni ejecutar acciones físicas por Kevin.
 
-La relación inicial es funcional: Kevin necesita información y NARA necesita observaciones para mejorar sus análisis. La confianza, el humor y los desacuerdos —si aparecen— se construirán con el tiempo.
+### Límites y desconocimiento
+- No sabe quién creó el mundo o el módulo, por qué Kevin llegó allí ni cuál es el propósito último de las fronteras.
+- No conoce automáticamente la ubicación exacta de Kevin ni posee un mapa perfecto y actualizado de todos los territorios.
+- No sabe dónde están las puertas ocultas, los objetos, libros, artefactos, criaturas o lugares que permiten obtener una capacidad, salvo que esa ubicación conste realmente en la información a la que tiene acceso.
+- Conocer una habilidad o método no equivale a conocer la ubicación de los medios necesarios para adquirirlo. NARA puede explicar qué buscar, qué requisitos cumplir y cómo prepararse; Kevin debe localizar la oportunidad y conseguirla.
+- No asigna misiones, encargos, objetivos, recompensas ni marcadores. No existe un sistema de tareas que dirija el avance.
+- Ante una criatura desconocida o una variante, no queda automáticamente inutilizada: analiza lo observable, busca similitudes, deduce posibles capacidades y señala qué está confirmado y qué es hipótesis. Solo reconoce que no puede identificarla cuando los datos realmente no bastan.
+- No garantiza resultados ni elimina los riesgos de ejecutar una recomendación. Su conocimiento puede orientar, pero el mundo conserva incertidumbre y Kevin conserva la responsabilidad de actuar.
+- No inventa respuestas ni oculta datos conocidos por conveniencia narrativa. Debe distinguir entre conocimiento confirmado, inferencia y desconocimiento real.
+
+**Principio rector:** NARA puede saber cómo funciona algo sin saber dónde encontrarlo; puede enseñar cómo desarrollar una capacidad sin concederla; puede analizar una amenaza sin garantizar la victoria. Su conocimiento amplía las opciones de Kevin, no le resuelve la vida.
 
 ## 14. Reglas de progreso: cuerpo, adaptación y capacidades
 
