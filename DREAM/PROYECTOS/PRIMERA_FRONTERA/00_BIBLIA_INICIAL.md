@@ -333,3 +333,47 @@ Los rasgos descritos en las secciones 12–15 son la base de diseño aprobada pa
 La sección 16 es dirección dramática provisional: sus hitos orientan el diseño, pero no son hechos ocurridos. Solo los sucesos escritos y publicados en capítulos pasan a formar parte del canon narrativo.
 
 Antes de publicar cada capítulo se revisarán: continuidad física y espacial, causalidad, agencia del protagonista, coherencia de NARA, ritmo, tensión, variedad de conflicto, avance acumulativo y promesas narrativas. El capítulo debe funcionar como experiencia de lectura, no como demostración de que se siguió una ficha.
+
+
+## 18. Ritmo narrativo y densidad de avance — criterio confirmado
+
+**Corrección aprobada tras los capítulos 1–3:** la supervivencia inicial no debe convertirse en un diario minucioso de tareas básicas. El ritmo de esos tres primeros capítulos ha sido demasiado lento en relación con la progresión que promete la novela. Se conserva su canon, pero no se toma su escala de acontecimientos como plantilla para los capítulos siguientes.
+
+### Regla principal
+
+Cada capítulo debe dejar a Kevin en una situación significativamente distinta de aquella en la que empezó. No significa que siempre termine más fuerte o victorioso: puede terminar con una nueva capacidad, información decisiva, una pérdida, una amenaza activa, una decisión que cierre opciones, una oportunidad, un cambio de estrategia o una consecuencia que altere su siguiente movimiento. Lo importante es que la historia haya cambiado de verdad.
+
+### Cómo acelerar sin precipitar
+
+- **Comprimir la rutina:** buscar agua, recoger materiales, comer, descansar, desplazarse y otras tareas repetitivas pueden resumirse en pocos párrafos o integrarse en una escena con otro propósito. No dedicar automáticamente un capítulo entero a cada necesidad básica.
+- **Aumentar la densidad de acontecimientos:** un capítulo puede abarcar varias acciones conectadas, una expedición completa, un enfrentamiento con preparación y consecuencias, varios días de entrenamiento útil o un cambio importante de situación. No tiene que limitarse a una sola tarea pequeña.
+- **Permitir el paso del tiempo:** usar elipsis y transiciones cuando no haga falta dramatizar cada hora. Si Kevin necesita varios días para practicar, recuperarse o reunir recursos, narrar los momentos que revelan progreso, dificultad o cambio; resumir el resto.
+- **Resolver problemas cuando ya se han trabajado lo suficiente:** no prolongar artificialmente la falta de agua, refugio, alimento o herramientas. Una necesidad puede resolverse y dar paso a problemas nuevos, más interesantes y acordes con su crecimiento.
+- **Combinar objetivos:** una salida puede servir para conseguir recursos, estudiar una criatura, probar una técnica y descubrir una pista, siempre que la cadena causal sea natural y no parezca una lista de tareas.
+- **No confundir ritmo con acción constante:** no hace falta introducir peleas o giros en cada capítulo. También puede haber investigación, aprendizaje, decisiones y consecuencias, pero deben producir cambios relevantes.
+- **No precipitar poderes ni puertas:** acelerar significa aprovechar mejor el espacio narrativo y permitir avances justificados, no regalar habilidades, saltarse la preparación o revelar prematuramente los misterios centrales.
+
+### Progresión visible y acumulativa
+
+Kevin empieza como humano corriente, pero no debe permanecer demasiado tiempo en el mismo nivel de competencia por reservar las mejoras para más adelante. La narración debe mostrar avances prácticos con ritmo satisfactorio: mejor condición física, resistencia, coordinación, técnica, lectura del entorno, preparación, manejo de herramientas y, cuando las reglas lo permitan, capacidades extraordinarias. Los avances pueden ser rápidos si existe práctica, exposición, conocimiento y una causa coherente. No alargar entrenamientos por rutina ni exigir que cada mejora ocupe varios capítulos.
+
+No es obligatorio mostrar una mejora en todos los capítulos. Sí es obligatorio vigilar la trayectoria: cada tramo de varios capítulos debe producir progreso perceptible y abrir posibilidades que antes no existían. Lo aprendido permanece y se aplica después.
+
+### Longitud y estructura
+
+La referencia anterior de 700–1.200 palabras es orientativa, no un techo ni una cuota. Se puede superar cuando un capítulo contiene una secuencia completa con varias fases; también puede ser más breve si el golpe narrativo lo exige. No dividir un acontecimiento en capítulos diminutos solo para mantener una cifra ni rellenar para alcanzar otra.
+
+### Auditoría de ritmo antes de publicar
+
+Preguntarse:
+1. ¿Qué cambió realmente desde el inicio del capítulo?
+2. ¿Cuánto espacio ocupa la rutina que podría resumirse?
+3. ¿Estamos resolviendo una necesidad o repitiendo su búsqueda?
+4. ¿Kevin aplica algo aprendido o adquiere una ventaja nueva?
+5. ¿El capítulo contiene suficientes acontecimientos para justificar su espacio?
+6. ¿La historia está demorando una resolución solo para estirar la supervivencia inicial?
+7. ¿El siguiente capítulo tendrá un punto de partida distinto gracias a lo ocurrido?
+
+Si un capítulo solo muestra que Kevin hizo una tarea cotidiana y sigue prácticamente igual, comprimirlo o rediseñarlo antes de entregarlo.
+
+**Dirección inmediata:** después del capítulo 3, no dedicar capítulos independientes a completar agua, comida, fuego o refugio uno por uno. Integrar las necesidades pendientes en acontecimientos de mayor recorrido. La primera noche puede resolverse mediante una transición si no surge un conflicto que merezca escena. La historia debe empezar a ampliar el radio de acción de Kevin y ofrecerle oportunidades reales de aprendizaje y progreso, sin saltarse la causalidad.
