@@ -67,7 +67,7 @@ Estos conceptos sirven como identidad y orientación inicial; no son todavía un
 
 Las pasivas serán opciones de personalización que complementen las esencias y permitan construir estilos de combate distintos. No habrá categorías obligatorias como «pasivas principales» y «secundarias»: todas serán pasivas y se diferenciarán por el efecto que producen.
 
-Podrán ser modificadores sencillos de estadísticas (daño, defensa, regeneración, velocidad, críticos, enfriamientos, etc.) o efectos que alteren condiciones y resultados de combate (por ejemplo, acumular más rápido, potenciar una explosión o recuperar vida al activar un efecto). No todas necesitan una sinergia especial con otras pasivas.
+Podrán ser modificadores sencillos de estadísticas (daño, defensa, regeneración, velocidad, críticos, enfriamientos, etc.) o efectos que alteren condiciones y resultados de combate (por ejemplo, acumular más rápido, modificar una condición de activación o cambiar el resultado de un efecto). No todas necesitan una sinergia especial con otras pasivas. Se buscará que algunas aporten cambios funcionales interesantes y no sean únicamente aumentos numéricos, pero sin crear interacciones complejas por defecto.
 
 **Base de trabajo provisional:** se proponen inicialmente tres pasivas por cada esencia, como primer conjunto de referencia. No es un límite definitivo: durante el diseño podremos añadir, sustituir o utilizar otras pasivas si aportan algo mejor y mantienen el equilibrio. Los ejemplos de la tabla son orientativos, no una lista cerrada ni necesariamente exclusiva de cada esencia.
 
@@ -104,7 +104,8 @@ Estas pasivas son ejemplos de dirección, no efectos aprobados ni exclusivos de 
 **Dirección provisional:** se contempla una ranura exclusiva para una pieza especial, separada del equipo normal. La referencia conceptual es el espacio de objeto neutral de Dota 2: un objeto particular con su propio espacio, no una pieza más de un conjunto de armadura.
 
 - La pieza especial podrá seleccionarse y desarrollarse/mejorarse durante la progresión.
-- Sus mejoras podrían potenciar los efectos automáticos de las esencias, modificar algunas de sus propiedades o aportar beneficios adicionales a la configuración.
+- La dirección actual es que ofrezca mejoras sencillas pero significativas, por ejemplo reducir el intervalo de activación de un efecto, aumentar su área o daño, o mejorar la regeneración.
+- Debe tener una función diferenciada de las pasivas: no queremos que sea otra capa de bonificaciones que multiplique indiscriminadamente todos los efectos.
 - Deberá poder utilizarse con distintas combinaciones de esencias; no se pretende obligar al jugador a conseguir una pieza diferente por cada build.
 - Su funcionamiento exacto, obtención, niveles de mejora, variedad de opciones y relación con las esencias quedan pendientes.
 - Esta pieza no está definida todavía como un sistema cerrado: se conserva como una posibilidad de diseño que se evaluará al desarrollar la progresión.
@@ -115,6 +116,8 @@ Estas pasivas son ejemplos de dirección, no efectos aprobados ni exclusivos de 
 - Los efectos automáticos de las esencias deben aportar identidad y variedad al combate sin exigir botones adicionales ni alterar obligatoriamente cada ataque básico, habilidad o definitiva.
 - Las sinergias entre esencias son opcionales; no se debe añadir complejidad solo por completar todas las combinaciones posibles.
 - Las pasivas, el equipo y la pieza especial deben ampliar las opciones, no invalidar unas configuraciones para hacer obligatorias otras.
+- Evitar acumular varias capas que potencien exactamente lo mismo y provoquen multiplicadores difíciles de equilibrar. Cada sistema debe tener una función reconocible: esencias definen efectos de combate, pasivas modifican o complementan esos efectos, equipo aporta estadísticas generales y la pieza especial ofrece una mejora concreta.
+- No es necesario que todos los sistemas tengan sinergias entre sí. Las interacciones serán limitadas y se añadirán solo cuando aporten algo claro.
 - Evitar que cambiar de configuración implique repetir farmeo o conseguir varios conjuntos completos de equipo.
 - Priorizar efectos comprensibles, reutilizables y fáciles de ajustar.
 - Los porcentajes, valores, fórmulas, límites y sinergias definitivos se establecerán durante el balance.
@@ -134,9 +137,15 @@ Estas pasivas son ejemplos de dirección, no efectos aprobados ni exclusivos de 
 
 - **Confirmado como dirección:** combate de acción en tiempo real.
 - Queremos que la variedad y dificultad surjan principalmente de los enemigos, sus patrones, ataques, combinaciones y encuentros; no de inventar reglas fundamentales diferentes para cada territorio.
-- **Dirección inicial:** el jugador debe poder responder a amenazas mediante acciones como esquivar, bloquear o interrumpir, según el ataque y las capacidades disponibles.
+- **Dirección de simplificación en evaluación:** mantener un kit del personaje pequeño y relativamente fijo, en lugar de crear numerosas cadenas de ataques, habilidades y variantes. La variedad principal también vendrá de las configuraciones de esencias y de los enemigos.
+- **Combo básico propuesto:** al ejecutar el ataque, el personaje realiza una secuencia de tres tajos hacia delante: los dos primeros son diagonales y se cruzan en forma de X; el tercero es horizontal. Se busca que la secuencia pueda ejecutarse sin exigir desplazamientos o animaciones de movimiento complejas para cada golpe.
+- **Habilidad especial y definitiva:** cada una tendrá una función y efecto propios. No se pretende multiplicar sus versiones según cada combinación de esencias.
+- **Dirección de producción:** priorizar acciones y efectos reutilizables, con un alcance de animación y programación manejable tanto para la primera versión 2D como para una posible adaptación 3D. Evitar que cada esencia o combinación obligue a rehacer el combo, la habilidad o la definitiva.
+- Las esencias aportarán efectos automáticos y modificaciones a la experiencia de combate; no deben convertir al personaje en un mero activador pasivo ni hacer que el kit base pierda toda importancia.
+- La variedad y el desafío también se apoyarán en enemigos especiales y jefes con patrones o mecánicas particulares, de modo que el jugador tenga que responder a amenazas distintas y no solo aumentar el daño.
+- **Dirección inicial ya registrada:** el jugador debe poder responder a amenazas mediante acciones como esquivar, bloquear o interrumpir, según el ataque y las capacidades disponibles. Simplificar el kit no significa eliminar automáticamente estas respuestas defensivas.
 - Algunos ataques enemigos podrán ser extremadamente peligrosos e incluso letales si el jugador no los evita o bloquea correctamente. Los ejemplos concretos y sus reglas todavía están por diseñar.
-- **Pendiente:** ataques, defensa, esquivas, bloqueos, contraataques, recursos, estados, control de masas, daño, resistencias, enemigos y jefes.
+- **Pendiente:** cerrar el alcance del movimiento del personaje, defensa, esquivas, bloqueos, contraataques, recursos, estados, control de masas, daño, resistencias, enemigos y jefes.
 
 ## Registro de exploración
 
