@@ -12,7 +12,17 @@ Registro de los sistemas que tendrá que definir el proyecto. Por ahora es un ma
 ## Combate
 
 - **Confirmado como dirección:** combate de acción en tiempo real.
-- **Pendiente:** ataques, defensa, esquivas, recursos, estados, control de masas, daño, resistencias, enemigos y jefes.
+- Queremos que la variedad y dificultad surjan principalmente de los enemigos, sus patrones, ataques, combinaciones y encuentros; no de inventar reglas fundamentales diferentes para cada territorio.
+- **Dirección inicial:** el jugador debe poder responder a amenazas mediante acciones como esquivar, bloquear o interrumpir, según el ataque y las capacidades disponibles.
+- Algunos ataques enemigos podrán ser extremadamente peligrosos e incluso letales si el jugador no los evita o bloquea correctamente. Los ejemplos concretos y sus reglas todavía están por diseñar.
+- **Pendiente:** ataques, defensa, esquivas, bloqueos, contraataques, recursos, estados, control de masas, daño, resistencias, enemigos y jefes.
+
+## Desafíos opcionales
+
+- Algunos territorios podrán incluir áreas especiales donde el jugador elige entre varios niveles de exigencia.
+- **Propuesta provisional:** tres niveles, con diferencias reales en los encuentros y desafíos; evitar escalones que solo aumenten ligeramente las estadísticas.
+- Los niveles más exigentes podrán ofrecer recompensas adicionales, pero completar cualquier nivel debe conservar su mérito.
+- **Pendiente:** funcionamiento exacto, modificadores, recompensas y variedad de pruebas.
 
 ## Muerte y dificultad
 
