@@ -163,14 +163,25 @@ Estas pasivas son ejemplos de dirección, no efectos aprobados ni exclusivos de 
 - **Diferencia de mérito:** esquivar correctamente evitará el daño y podrá abrir una oportunidad para contraatacar; bloquear permitirá sobrevivir con mayor margen de reacción, pero normalmente implicará recibir daño reducido, perder posición o quedar expuesto. La guardia será una alternativa legítima, no una forma de anular gratis todos los ataques.
 - **Diseño de dificultad:** los jefes no deberán volverse difíciles simplemente quitándole al jugador la posibilidad de esquivar o bloqueando artificialmente sus respuestas. La dificultad deberá venir de leer patrones, elegir la respuesta adecuada y gestionar las consecuencias. El jugador podrá superar encuentros usando principalmente esquiva, principalmente guardia o una combinación de ambas.
 - Algunos ataques enemigos podrán ser extremadamente peligrosos e incluso letales si el jugador no responde correctamente.
-- **Pendiente:** definir duración y recuperación de la esquiva, ventana de invulnerabilidad, comportamiento y límites de la guardia, qué ataques especiales admiten bloqueo y cuáles exigen otra respuesta, y si habrá contraataques u otras respuestas defensivas. También quedan pendientes recursos generales, estados, control de masas, daño, resistencias, enemigos y jefes. El desplazamiento libre del personaje ya queda establecido como dirección.
+- **Interrupciones al jugador:** no se plantea añadir un sistema general de interrupciones que cancele constantemente las acciones del personaje. La esquiva, la guardia y la invulnerabilidad de habilidad/definitiva ya ofrecen respuestas defensivas; evitar que recibir cualquier golpe corte continuamente las acciones es parte de la experiencia buscada.
+- **Aturdimiento de enemigos:** interesa incluirlo como mecánica de combate. Se contempla una barra de aturdimiento que se llena al golpear al enemigo y que, al completarse, lo deja vulnerable o aturdido durante un intervalo. Su funcionamiento exacto y qué ataques contribuyen a llenarla quedan pendientes.
+- **Derribos:** no se considera necesario incorporar un sistema general de derribos.
+- **Lanzamiento por el aire:** podrá aparecer como mecánica particular de determinados jefes o encuentros, no como una regla general para todos los enemigos.
+- **Pendiente:** definir duración y recuperación de la esquiva, ventana de invulnerabilidad, comportamiento y límites de la guardia, y qué ataques especiales admiten bloqueo o exigen otra respuesta. No se añadirá por ahora un sistema separado de contraataques u otras respuestas defensivas. También quedan pendientes estados alterados, valores de aturdimiento, daño y diseño de enemigos y jefes. El desplazamiento libre del personaje ya queda establecido como dirección.
 
 ### Daño y estadísticas de combate
 
 - **Dirección confirmada:** utilizar un sistema tradicional de ARPG, con atributos ofensivos y defensivos reconocibles.
-- Se contemplan estadísticas como ataque, defensa, vida, probabilidad y daño crítico, y resistencias a distintos tipos de daño o efectos.
+- Se contemplan estadísticas como ataque, defensa, vida, probabilidad y daño crítico.
+- **Simplicidad inicial:** no se introducirán por ahora múltiples tipos de daño ni resistencias particulares para cada enemigo. Los enemigos y jefes compartirán una base general de resistencia/defensa; las diferencias vendrán principalmente de sus patrones, mecánicas y comportamiento, no de exigir configuraciones de daño específicas.
 - Las estadísticas deberán relacionarse de forma clara con el equipo, las pasivas y la progresión del personaje.
-- **Pendiente:** definir la lista definitiva de atributos, fórmulas de daño, escalados, tipos de daño, resistencias, límites y reglas de cálculo. No se fijan cifras ni fórmulas todavía.
+- **Pendiente:** definir la lista definitiva de atributos, fórmulas de daño, escalados, límites y reglas de cálculo. No se fijan cifras ni fórmulas todavía. Se podrán añadir tipos de daño o resistencias diferenciadas en el futuro si aportan una razón de diseño clara.
+
+### Estados alterados
+
+- **En evaluación:** se considera interesante incorporar algunos estados alterados, pero no se establecerá todavía un catálogo amplio.
+- Se priorizarán pocos efectos fáciles de entender y distinguir. Su inclusión deberá aportar decisiones o variedad real, no solo más iconos y estadísticas que administrar.
+- **Pendiente:** decidir qué estados concretos merecen existir, cómo se aplican, cuánto duran y cómo interactúan con enemigos y jefes.
 
 ## Registro de exploración
 
