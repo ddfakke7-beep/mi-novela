@@ -145,9 +145,10 @@ Estas pasivas son ejemplos de dirección, no efectos aprobados ni exclusivos de 
 - **Dirección de producción:** priorizar acciones y efectos reutilizables, con un alcance de animación y programación manejable tanto para la primera versión 2D como para una posible adaptación 3D. Evitar que cada esencia o combinación obligue a rehacer el combo, la habilidad o la definitiva.
 - Las esencias aportarán efectos automáticos y modificaciones a la experiencia de combate; no deben convertir al personaje en un mero activador pasivo ni hacer que el kit base pierda toda importancia.
 - La variedad y el desafío también se apoyarán en enemigos especiales y jefes con patrones o mecánicas particulares, de modo que el jugador tenga que responder a amenazas distintas y no solo aumentar el daño.
-- **Dirección inicial ya registrada:** el jugador debe poder responder a amenazas mediante acciones como esquivar, bloquear o interrumpir, según el ataque y las capacidades disponibles. Simplificar el kit no significa eliminar automáticamente estas respuestas defensivas.
-- Algunos ataques enemigos podrán ser extremadamente peligrosos e incluso letales si el jugador no los evita o bloquea correctamente. Los ejemplos concretos y sus reglas todavía están por diseñar.
-- **Pendiente:** definir los detalles del movimiento (velocidad, aceleración u otras reglas si fueran necesarias), defensa, esquivas, bloqueos, contraataques, recursos, estados, control de masas, daño, resistencias, enemigos y jefes. El desplazamiento libre del personaje ya queda establecido como dirección.
+- **Esquiva como defensa principal:** se toma como referencia el funcionamiento habitual de gachas de acción como Wuthering Waves o Zenless Zone Zero. Una esquiva ejecutada en el momento preciso tendrá una ventana de invulnerabilidad que permitirá evitar prácticamente cualquier daño.
+- **Límites de la esquiva:** no será una respuesta universal a todas las mecánicas. Algunos ataques o peligros especiales podrán ignorar la invulnerabilidad o requerir una respuesta distinta; los casos concretos se definirán al diseñar enemigos y jefes.
+- Algunos ataques enemigos podrán ser extremadamente peligrosos e incluso letales si el jugador no los evita correctamente.
+- **Pendiente:** definir duración y condiciones exactas de la ventana de invulnerabilidad, movimiento y recuperación de la esquiva, y si existirán bloqueos, contraataques u otras respuestas defensivas. También quedan pendientes recursos, estados, control de masas, daño, resistencias, enemigos y jefes. El desplazamiento libre del personaje ya queda establecido como dirección.
 
 ## Registro de exploración
 
