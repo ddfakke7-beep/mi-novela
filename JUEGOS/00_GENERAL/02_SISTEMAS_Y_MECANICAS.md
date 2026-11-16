@@ -165,6 +165,13 @@ Estas pasivas son ejemplos de dirección, no efectos aprobados ni exclusivos de 
 - Algunos ataques enemigos podrán ser extremadamente peligrosos e incluso letales si el jugador no responde correctamente.
 - **Pendiente:** definir duración y recuperación de la esquiva, ventana de invulnerabilidad, comportamiento y límites de la guardia, qué ataques especiales admiten bloqueo y cuáles exigen otra respuesta, y si habrá contraataques u otras respuestas defensivas. También quedan pendientes recursos generales, estados, control de masas, daño, resistencias, enemigos y jefes. El desplazamiento libre del personaje ya queda establecido como dirección.
 
+### Daño y estadísticas de combate
+
+- **Dirección confirmada:** utilizar un sistema tradicional de ARPG, con atributos ofensivos y defensivos reconocibles.
+- Se contemplan estadísticas como ataque, defensa, vida, probabilidad y daño crítico, y resistencias a distintos tipos de daño o efectos.
+- Las estadísticas deberán relacionarse de forma clara con el equipo, las pasivas y la progresión del personaje.
+- **Pendiente:** definir la lista definitiva de atributos, fórmulas de daño, escalados, tipos de daño, resistencias, límites y reglas de cálculo. No se fijan cifras ni fórmulas todavía.
+
 ## Registro de exploración
 
 **Propuesta provisional:** cada territorio tendrá un registro accesible desde el mapa (la tecla o control definitivo todavía no está cerrado; se ha usado M como ejemplo).
