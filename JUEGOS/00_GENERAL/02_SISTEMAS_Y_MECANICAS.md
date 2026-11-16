@@ -183,6 +183,26 @@ Estas pasivas son ejemplos de dirección, no efectos aprobados ni exclusivos de 
 - Se priorizarán pocos efectos fáciles de entender y distinguir. Su inclusión deberá aportar decisiones o variedad real, no solo más iconos y estadísticas que administrar.
 - **Pendiente:** decidir qué estados concretos merecen existir, cómo se aplican, cuánto duran y cómo interactúan con enemigos y jefes.
 
+### Tipos de enemigos y diseño de encuentros
+
+**Dirección acordada:** diferenciar enemigos normales, especiales y jefes por la cantidad de atención y complejidad que exigen, no solo por sus estadísticas.
+
+- **Enemigos normales:** aparecerán en cantidades relativamente grandes para que combatir contra grupos sea una parte divertida y fluida del juego. Tendrán ataques sencillos y reconocibles. La variedad podrá venir de comportamientos distintos, por ejemplo enemigos rápidos, lentos o a distancia; no necesitan mecánicas especiales complejas.
+- **Enemigos especiales:** serán más peligrosos o destacarán por alguna característica. Podrán tener ataques más fuertes y, cuando aporte valor, una o dos mecánicas particulares como referencia. No es obligatorio que todos tengan mecánicas; algunos podrán diferenciarse únicamente por sus ataques o comportamiento.
+- **Jefes:** podrán tener patrones más elaborados y mecánicas distintivas que exijan reaccionar, posicionarse o cambiar la forma de afrontar el combate. No todos necesitan acumular muchas mecánicas; se priorizará que sus mecánicas sean claras y memorables.
+
+**Diseño de mecánicas de jefes:** se tomarán como referencia mecánicas y patrones de otros juegos, adaptándolos al combate de este proyecto. No es necesario inventarlo todo desde cero. Se conservará lo que aporte diversión y encaje con nuestras defensas y movimiento; se descartará lo que genere pausas innecesarias, persecuciones constantes o complejidad sin beneficio.
+
+**Criterios generales:**
+- Evitar jefes que se alejen constantemente y obliguen al jugador a perseguirlos más de lo que combate.
+- Evitar animaciones o periodos de inactividad excesivamente largos sin una razón clara.
+- No basar la dificultad únicamente en aumentar la vida o el daño del enemigo.
+- Mantener oportunidades razonables para que el jugador ataque y responda.
+- Las mecánicas deben ser legibles y tener una respuesta comprensible; no deben anular arbitrariamente las opciones defensivas del jugador.
+- La variedad de encuentros debe surgir de combinar ataques, comportamientos y algunas mecánicas concretas, sin convertir a cada enemigo en un sistema complejo.
+
+- **Pendiente:** definir el repertorio de comportamientos de enemigos normales, qué características distinguirán a los especiales y qué mecánicas reutilizables podremos adaptar para los jefes. Los enemigos y jefes individuales se diseñarán más adelante.
+
 ## Registro de exploración
 
 **Propuesta provisional:** cada territorio tendrá un registro accesible desde el mapa (la tecla o control definitivo todavía no está cerrado; se ha usado M como ejemplo).
