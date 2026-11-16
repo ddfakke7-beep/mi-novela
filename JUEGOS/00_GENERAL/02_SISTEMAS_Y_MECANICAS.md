@@ -13,77 +13,107 @@ Registro de los sistemas que tendrá que definir el proyecto. Por ahora es un ma
 
 ## Progresión del personaje: nivel, esencias, pasivas y equipo
 
-**Dirección acordada hasta ahora; estructura todavía en definición.** El objetivo es permitir que el jugador consiga y pruebe distintas configuraciones sin tener que repetir farmeo cada vez que quiera cambiar de estilo.
+**Estado: estructura provisional acordada.** La intención es permitir que el jugador consiga y pruebe distintas configuraciones sin repetir farmeo cada vez que quiera cambiar de estilo. Los nombres, efectos, cantidades y valores concretos podrán ajustarse durante el balance.
 
 ### Nivel y puntos de desarrollo
 
 - La progresión general seguirá una estructura familiar de ARPG: derrotar enemigos, obtener experiencia, subir de nivel y fortalecer al personaje.
-- Se está usando el nivel 60 como referencia para el punto en el que el personaje alcanza el máximo nivel; el límite definitivo todavía debe confirmarse.
-- Al alcanzar ese punto, los puntos de desarrollo deberán ser suficientes para llevar al máximo una configuración completa.
-- Cambiar de configuración permitirá reiniciar y redistribuir los puntos, sin exigir materiales adicionales ni repetir actividades de farmeo.
-- La intención es que el jugador pueda experimentar con otras configuraciones de inmediato, siempre que ya haya desbloqueado las esencias y pasivas que necesita.
+- Se utiliza el nivel 60 como referencia provisional para el nivel máximo.
+- Al alcanzar ese nivel, los puntos de desarrollo deberían ser suficientes para maximizar una configuración completa.
+- El jugador podrá reiniciar y redistribuir sus puntos para probar otras configuraciones, sin materiales adicionales ni farmeo obligatorio.
+- La idea es que experimentar con una configuración distinta sea una decisión de diseño, no un castigo de recursos.
 
 ### Desbloqueo y desarrollo
 
-- Las esencias y pasivas que el jugador consiga quedarán desbloqueadas permanentemente.
-- Los desbloqueos importantes podrán obtenerse mediante actividades, encuentros, jefes, desafíos u otros contenidos específicos del mundo. La intención es que el jugador pueda perseguir directamente aquello que le interesa, evitando cadenas de requisitos irrelevantes.
-- **Desbloquear** una esencia o pasiva será distinto de **invertir puntos para desarrollarla** y de **seleccionarla para una configuración**.
-- No se exigirá volver a conseguir una pasiva ya desbloqueada cuando el jugador cambie de configuración.
-- No se ha decidido todavía si todas las pasivas estarán disponibles para equipar simultáneamente, cuántas pertenecen a cada esencia ni cómo se organiza exactamente su selección.
+Se mantienen tres conceptos separados:
 
-### Esencias
+1. **Desbloquear:** conseguir una esencia o pasiva mediante actividades, encuentros, jefes, desafíos u otros contenidos.
+2. **Desarrollar:** invertir puntos para mejorar sus efectos, cuando corresponda.
+3. **Configurar:** decidir qué esencias y pasivas utilizar.
 
-La esencia será una parte central de la identidad de la configuración, pero su significado todavía no está definido.
+- Los desbloqueos serán permanentes. Una vez conseguida una esencia o pasiva, no habrá que repetir su actividad para volver a utilizarla.
+- Se buscará que el jugador pueda perseguir directamente el contenido que desbloquea lo que le interesa, sin cadenas de requisitos irrelevantes.
+- La cantidad exacta de puntos, los costes y los límites de selección siguen pendientes.
 
-- No está decidido si las esencias representarán elementos, naturalezas de poder, conceptos u otra estructura.
-- Tampoco está cerrado si una configuración utilizará una sola esencia principal o cómo podrá relacionarse con otras esencias.
-- No se deben tratar como clases tradicionales (tanque, asesino, cazador, etc.) ni asumir que el jugador tendrá que elegir una clase permanente al comenzar.
-- La cantidad de esencias, su organización y sus relaciones con las pasivas quedan pendientes de diseño.
+### Las siete esencias principales
+
+**Propuesta provisional:** el sistema parte de siete esencias base. No son clases tradicionales ni obligan a adoptar un rol fijo. Cada una representa una naturaleza de poder y una orientación de combate.
+
+| Esencia | Concepto central | Expresión en combate |
+|---|---|---|
+| **Ruptura** | Impacto y presión | Quebrar defensas, provocar impactos contundentes y castigar la resistencia enemiga. |
+| **Flujo** | Movimiento y continuidad | Favorecer la movilidad, la velocidad y la fluidez de las acciones. |
+| **Vitalidad** | Vida y resistencia | Mejorar la supervivencia, la recuperación y la capacidad de mantenerse en combate. |
+| **Ruina** | Deterioro y desgaste | Debilitar al enemigo y causarle daño progresivo o efectos de desgaste. |
+| **Umbral** | Marca y precisión | Premiar la precisión, las oportunidades y los ataques contra objetivos señalados o vulnerables. |
+| **Arcanum** | Energía y proyección | Potenciar la energía, la proyección y la manifestación de las habilidades. |
+| **Dominio** | Espacio y control | Influir en la posición de los enemigos y controlar áreas del campo de batalla. |
+
+Estos conceptos sirven como identidad y orientación inicial; no son todavía una lista cerrada de habilidades ni una limitación absoluta sobre los efectos que podrá tener cada esencia.
+
+### Selección y combinación de esencias
+
+- Una configuración utilizará **tres esencias distintas** elegidas entre las siete disponibles.
+- Las tres esencias participarán en una combinación que otorgará un **bonus especial propio de esa combinación**.
+- Con siete esencias y selecciones de tres distintas existen 35 combinaciones posibles. La intención es que cada combinación pueda definirse mediante efectos y parámetros reutilizables, sin exigir habilidades, animaciones o recursos visuales exclusivos para cada una.
+- De las tres esencias elegidas, el jugador señalará una como **esencia principal visual**. Esta elección determinará la apariencia o manifestación visual de los ataques.
+- La esencia principal visual no tendrá más poder, estadísticas ni peso mecánico que las otras dos. Cambiarla modificará la presentación visual, no el bonus de la combinación.
+- No se crearán nuevas esencias como resultado de combinar otras: se mantienen las siete esencias base y la combinación concede un bonus.
+- Los efectos exactos de las 35 combinaciones, sus condiciones y sus valores quedan pendientes de diseño y balance.
 
 ### Pasivas
 
-Las pasivas serán capacidades o efectos que el jugador podrá desbloquear y combinar para construir diferentes estilos de combate.
+Las pasivas serán modificadores y efectos que complementen las esencias y permitan construir estilos de combate distintos. La intención es que su funcionamiento sea claro y que no requieran crear una gran cantidad de animaciones o efectos visuales únicos.
 
-- Se contempla como referencia inicial que cada esencia tenga varias pasivas; se mencionó un rango aproximado de 5 a 8, pero no está decidido.
-- Se busca permitir combinaciones entre capacidades y evitar que el sistema encierre al jugador en un único rol.
-- Algunas pasivas podrían tener sinergias específicas con otras. No se pretende crear interacciones automáticas entre todas las combinaciones posibles.
-- La cantidad, categorías, funcionamiento, mejoras y límites de equipamiento de las pasivas siguen pendientes.
+**Base de trabajo provisional:** se proponen inicialmente tres pasivas por cada esencia, como primer conjunto de referencia. No es un límite definitivo: durante el diseño podremos añadir, sustituir o utilizar otras pasivas si aportan algo mejor y mantienen el equilibrio.
 
-### Equipamiento y afinidades
+Ejemplos iniciales para orientar el diseño:
 
-El equipamiento tendrá dos funciones que deben mantenerse diferenciadas:
+| Esencia | Tres pasivas iniciales propuestas |
+|---|---|
+| **Ruptura** | Penetración de defensa; daño de impacto; daño adicional contra enemigos con defensas debilitadas. |
+| **Flujo** | Velocidad de movimiento; velocidad de ataque; recuperación de enfriamientos. |
+| **Vitalidad** | Regeneración de vida; robo de vida; resistencia al daño. |
+| **Ruina** | Daño progresivo; mayor duración de efectos de deterioro; daño adicional contra enemigos debilitados. |
+| **Umbral** | Probabilidad de crítico; daño crítico; daño adicional contra objetivos marcados o vulnerables. |
+| **Arcanum** | Generación de energía; daño de habilidades; reducción del coste de energía. |
+| **Dominio** | Alcance o área de efecto; daño contra enemigos agrupados; mayor eficacia de efectos de control. |
 
-1. **Estadísticas normales:** atributos propios de cada pieza, como ataque, defensa, vida u otros que se definan.
-2. **Afinidades:** propiedades fijas de la pieza que contribuyen a potenciar determinadas naturalezas de poder, esencias o pasivas, una vez que esa relación esté definida.
+Estas pasivas son ejemplos de dirección, no efectos aprobados ni exclusivos de cada esencia. Se podrán explorar otras opciones y distribuirlas donde tengan más sentido. No todas las pasivas tienen que ser únicas de una sola esencia.
 
-Dirección provisional para las afinidades:
+- Las pasivas podrán complementarse y, cuando aporte valor, tener sinergias específicas con otras pasivas o con combinaciones de esencias.
+- No se pretende programar una interacción especial para cada pareja o conjunto posible. Las sinergias se definirán de forma explícita y limitada.
+- Quedan por decidir la cantidad de pasivas que se podrán equipar, sus niveles de mejora, sus requisitos y la organización de la selección.
 
-- Las afinidades de cada pieza serán fijas al conseguirla.
-- Una pieza podrá tener una o varias afinidades; no todas tendrán necesariamente la misma cantidad.
-- Las afinidades deberán relacionarse con el sistema de poderes del personaje, no ser una colección de elementos desconectada de las esencias y pasivas.
-- Reunir suficiente afinidad de un tipo podría activar bonificaciones específicas. También se podrán estudiar sinergias entre afinidades concretas.
-- Las combinaciones mixtas deberán ofrecer variedad sin ser automáticamente superiores a una configuración especializada.
-- No se quiere exigir un set independiente completo para cada esencia o afinidad. Las piezas de distintas afinidades deberán poder combinarse.
-- El equipo no debe determinar por sí solo la clase o el estilo del personaje: debe complementar y potenciar la configuración elegida.
+### Equipamiento
 
-### Principios para mantener el sistema manejable
+**Dirección provisional:** el equipo será un sistema independiente de la selección de esencias. Debe potenciar al personaje sin obligar a conseguir un conjunto distinto para cada combinación.
 
-- Priorizar reglas claras y reutilizables.
-- Evitar materiales de mejora que obliguen a repetir farmeo solo para probar otra configuración.
-- Evitar calcular o programar todas las combinaciones posibles entre esencias, pasivas y afinidades.
-- Las sinergias especiales se definirán de forma explícita y limitada a combinaciones que aporten algo interesante.
-- No fijar porcentajes, umbrales, cantidades definitivas ni fórmulas hasta que se haya definido qué representan las esencias y las pasivas.
+- Las piezas podrán aportar estadísticas generales, por ejemplo ataque, defensa, vida, velocidad de movimiento, velocidad de ataque, crítico o reducción de enfriamiento.
+- No se establecerán afinidades fijas obligatorias que exijan reunir equipo específico para las tres esencias seleccionadas.
+- Un conjunto de equipo bien desarrollado deberá seguir siendo útil al cambiar entre distintas combinaciones de esencias y pasivas.
+- El equipo podrá complementar diferentes estilos, pero no deberá determinar por sí solo qué combinación es viable ni convertirse en un requisito para reparar una configuración.
+- Se contempla estudiar una ranura o pieza de especialización con una bonificación intercambiable, pero todavía no está decidido si existirá ni qué forma tendrá.
+- No están definidos todavía los tipos de piezas, conjuntos, rarezas, estadísticas secundarias, mejoras, bonificaciones especiales ni la forma de obtener el equipo.
+
+### Principios de equilibrio y simplicidad
+
+- Las siete esencias deben ofrecer identidades y posibilidades útiles, sin que una sea obligatoria o claramente superior en todos los casos.
+- Las combinaciones deben aportar variedad sin crear 35 sistemas independientes difíciles de mantener.
+- Las pasivas y el equipo deben ampliar las opciones, no invalidar unas configuraciones para hacer obligatorias otras.
+- Evitar que cambiar de configuración implique repetir farmeo o conseguir varios conjuntos completos de equipo.
+- Priorizar efectos comprensibles, reutilizables y fáciles de ajustar.
+- Los porcentajes, valores, fórmulas, límites y sinergias definitivos se establecerán durante el balance.
 
 ### Decisiones pendientes
 
-- Qué representa exactamente una esencia y cuántas habrá.
-- Si existen elementos, naturalezas de poder u otra clasificación.
-- Cómo se relacionan las esencias entre sí y con las pasivas.
-- Cuántas pasivas tiene cada esencia y cómo se combinan/equipan.
-- Qué bonificaciones concretas otorgan las afinidades del equipo y a qué capacidades afectan.
-- Cómo funcionan los umbrales y las sinergias entre afinidades.
-- Cómo se obtienen, mejoran y reemplazan las piezas de equipo.
-- Límite definitivo de nivel y distribución exacta de puntos.
+- Confirmar los nombres y descripciones definitivos de las siete esencias.
+- Definir el bonus concreto de cada combinación de tres esencias.
+- Diseñar y equilibrar el catálogo de pasivas; las tres por esencia son solo una base inicial.
+- Definir cuántas pasivas se equipan y cómo se desarrollan.
+- Determinar si habrá una ranura o pieza de especialización en el equipo y cómo funcionará.
+- Definir piezas, rarezas, estadísticas, conjuntos, mejoras y obtención del equipo.
+- Confirmar el nivel máximo y la distribución exacta de puntos.
 
 ## Combate
 
