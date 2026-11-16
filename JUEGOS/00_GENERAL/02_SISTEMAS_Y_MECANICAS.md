@@ -11,6 +11,80 @@ Registro de los sistemas que tendrá que definir el proyecto. Por ahora es un ma
 - **Pendiente:** qué significa exactamente «ilimitadas» en nuestro juego, cómo se obtienen, acumulan, equipan, combinan, mejoran y equilibran.
 - **Pendiente:** atributos, niveles, especializaciones, límites y posibles sinergias.
 
+## Progresión del personaje: nivel, esencias, pasivas y equipo
+
+**Dirección acordada hasta ahora; estructura todavía en definición.** El objetivo es permitir que el jugador consiga y pruebe distintas configuraciones sin tener que repetir farmeo cada vez que quiera cambiar de estilo.
+
+### Nivel y puntos de desarrollo
+
+- La progresión general seguirá una estructura familiar de ARPG: derrotar enemigos, obtener experiencia, subir de nivel y fortalecer al personaje.
+- Se está usando el nivel 60 como referencia para el punto en el que el personaje alcanza el máximo nivel; el límite definitivo todavía debe confirmarse.
+- Al alcanzar ese punto, los puntos de desarrollo deberán ser suficientes para llevar al máximo una configuración completa.
+- Cambiar de configuración permitirá reiniciar y redistribuir los puntos, sin exigir materiales adicionales ni repetir actividades de farmeo.
+- La intención es que el jugador pueda experimentar con otras configuraciones de inmediato, siempre que ya haya desbloqueado las esencias y pasivas que necesita.
+
+### Desbloqueo y desarrollo
+
+- Las esencias y pasivas que el jugador consiga quedarán desbloqueadas permanentemente.
+- Los desbloqueos importantes podrán obtenerse mediante actividades, encuentros, jefes, desafíos u otros contenidos específicos del mundo. La intención es que el jugador pueda perseguir directamente aquello que le interesa, evitando cadenas de requisitos irrelevantes.
+- **Desbloquear** una esencia o pasiva será distinto de **invertir puntos para desarrollarla** y de **seleccionarla para una configuración**.
+- No se exigirá volver a conseguir una pasiva ya desbloqueada cuando el jugador cambie de configuración.
+- No se ha decidido todavía si todas las pasivas estarán disponibles para equipar simultáneamente, cuántas pertenecen a cada esencia ni cómo se organiza exactamente su selección.
+
+### Esencias
+
+La esencia será una parte central de la identidad de la configuración, pero su significado todavía no está definido.
+
+- No está decidido si las esencias representarán elementos, naturalezas de poder, conceptos u otra estructura.
+- Tampoco está cerrado si una configuración utilizará una sola esencia principal o cómo podrá relacionarse con otras esencias.
+- No se deben tratar como clases tradicionales (tanque, asesino, cazador, etc.) ni asumir que el jugador tendrá que elegir una clase permanente al comenzar.
+- La cantidad de esencias, su organización y sus relaciones con las pasivas quedan pendientes de diseño.
+
+### Pasivas
+
+Las pasivas serán capacidades o efectos que el jugador podrá desbloquear y combinar para construir diferentes estilos de combate.
+
+- Se contempla como referencia inicial que cada esencia tenga varias pasivas; se mencionó un rango aproximado de 5 a 8, pero no está decidido.
+- Se busca permitir combinaciones entre capacidades y evitar que el sistema encierre al jugador en un único rol.
+- Algunas pasivas podrían tener sinergias específicas con otras. No se pretende crear interacciones automáticas entre todas las combinaciones posibles.
+- La cantidad, categorías, funcionamiento, mejoras y límites de equipamiento de las pasivas siguen pendientes.
+
+### Equipamiento y afinidades
+
+El equipamiento tendrá dos funciones que deben mantenerse diferenciadas:
+
+1. **Estadísticas normales:** atributos propios de cada pieza, como ataque, defensa, vida u otros que se definan.
+2. **Afinidades:** propiedades fijas de la pieza que contribuyen a potenciar determinadas naturalezas de poder, esencias o pasivas, una vez que esa relación esté definida.
+
+Dirección provisional para las afinidades:
+
+- Las afinidades de cada pieza serán fijas al conseguirla.
+- Una pieza podrá tener una o varias afinidades; no todas tendrán necesariamente la misma cantidad.
+- Las afinidades deberán relacionarse con el sistema de poderes del personaje, no ser una colección de elementos desconectada de las esencias y pasivas.
+- Reunir suficiente afinidad de un tipo podría activar bonificaciones específicas. También se podrán estudiar sinergias entre afinidades concretas.
+- Las combinaciones mixtas deberán ofrecer variedad sin ser automáticamente superiores a una configuración especializada.
+- No se quiere exigir un set independiente completo para cada esencia o afinidad. Las piezas de distintas afinidades deberán poder combinarse.
+- El equipo no debe determinar por sí solo la clase o el estilo del personaje: debe complementar y potenciar la configuración elegida.
+
+### Principios para mantener el sistema manejable
+
+- Priorizar reglas claras y reutilizables.
+- Evitar materiales de mejora que obliguen a repetir farmeo solo para probar otra configuración.
+- Evitar calcular o programar todas las combinaciones posibles entre esencias, pasivas y afinidades.
+- Las sinergias especiales se definirán de forma explícita y limitada a combinaciones que aporten algo interesante.
+- No fijar porcentajes, umbrales, cantidades definitivas ni fórmulas hasta que se haya definido qué representan las esencias y las pasivas.
+
+### Decisiones pendientes
+
+- Qué representa exactamente una esencia y cuántas habrá.
+- Si existen elementos, naturalezas de poder u otra clasificación.
+- Cómo se relacionan las esencias entre sí y con las pasivas.
+- Cuántas pasivas tiene cada esencia y cómo se combinan/equipan.
+- Qué bonificaciones concretas otorgan las afinidades del equipo y a qué capacidades afectan.
+- Cómo funcionan los umbrales y las sinergias entre afinidades.
+- Cómo se obtienen, mejoran y reemplazan las piezas de equipo.
+- Límite definitivo de nivel y distribución exacta de puntos.
+
 ## Combate
 
 - **Confirmado como dirección:** combate de acción en tiempo real.
