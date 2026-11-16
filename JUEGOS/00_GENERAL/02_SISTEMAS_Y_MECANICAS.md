@@ -51,21 +51,25 @@ Se mantienen tres conceptos separados:
 
 Estos conceptos sirven como identidad y orientación inicial; no son todavía una lista cerrada de habilidades ni una limitación absoluta sobre los efectos que podrá tener cada esencia.
 
-### Selección y combinación de esencias
+### Selección y efectos de las esencias
 
 - Una configuración utilizará **tres esencias distintas** elegidas entre las siete disponibles.
-- Las tres esencias participarán en una combinación que otorgará un **bonus especial propio de esa combinación**.
-- Con siete esencias y selecciones de tres distintas existen 35 combinaciones posibles. La intención es que cada combinación pueda definirse mediante efectos y parámetros reutilizables, sin exigir habilidades, animaciones o recursos visuales exclusivos para cada una.
+- Cada esencia tendrá un **efecto característico propio**, que se manifestará automáticamente durante el combate según las condiciones de la configuración. No será una habilidad adicional que el jugador tenga que activar con un botón.
+- Los efectos de las esencias no tienen por qué modificar directamente los ataques básicos, las habilidades o la definitiva. La dirección actual es que funcionen como efectos de combate propios (por ejemplo, impactos, descargas, marcas o zonas), independientes de la estructura de habilidades del personaje.
 - De las tres esencias elegidas, el jugador señalará una como **esencia principal visual**. Esta elección determinará la apariencia o manifestación visual de los ataques.
-- La esencia principal visual no tendrá más poder, estadísticas ni peso mecánico que las otras dos. Cambiarla modificará la presentación visual, no el bonus de la combinación.
-- No se crearán nuevas esencias como resultado de combinar otras: se mantienen las siete esencias base y la combinación concede un bonus.
-- Los efectos exactos de las 35 combinaciones, sus condiciones y sus valores quedan pendientes de diseño y balance.
+- La esencia principal visual no tendrá más poder, estadísticas ni peso mecánico que las otras dos. Cambiarla modificará la presentación visual, no el funcionamiento ni la potencia de la configuración.
+- Las tres esencias elegidas estarán activas en la configuración. Sus efectos característicos podrán coexistir, sujetos a condiciones y equilibrio.
+- **Sinergias entre esencias: opcionales y pendientes.** Se podrá estudiar si ciertas combinaciones generan efectos adicionales, pero no se considera un requisito del sistema. No se diseñarán ahora las 35 combinaciones ni se dará por hecho que todas necesitan una sinergia exclusiva. Si las sinergias complican demasiado el diseño o el desarrollo, el juego podrá funcionar sin ellas.
+- Con siete esencias y selecciones de tres distintas existen 35 combinaciones posibles, pero ese número no implica tener que crear 35 mecánicas, animaciones o efectos visuales exclusivos.
+- Los efectos concretos, sus condiciones, frecuencias, valores y presentación visual quedan pendientes de diseño y balance.
 
 ### Pasivas
 
-Las pasivas serán modificadores y efectos que complementen las esencias y permitan construir estilos de combate distintos. La intención es que su funcionamiento sea claro y que no requieran crear una gran cantidad de animaciones o efectos visuales únicos.
+Las pasivas serán opciones de personalización que complementen las esencias y permitan construir estilos de combate distintos. No habrá categorías obligatorias como «pasivas principales» y «secundarias»: todas serán pasivas y se diferenciarán por el efecto que producen.
 
-**Base de trabajo provisional:** se proponen inicialmente tres pasivas por cada esencia, como primer conjunto de referencia. No es un límite definitivo: durante el diseño podremos añadir, sustituir o utilizar otras pasivas si aportan algo mejor y mantienen el equilibrio.
+Podrán ser modificadores sencillos de estadísticas (daño, defensa, regeneración, velocidad, críticos, enfriamientos, etc.) o efectos que alteren condiciones y resultados de combate (por ejemplo, acumular más rápido, potenciar una explosión o recuperar vida al activar un efecto). No todas necesitan una sinergia especial con otras pasivas.
+
+**Base de trabajo provisional:** se proponen inicialmente tres pasivas por cada esencia, como primer conjunto de referencia. No es un límite definitivo: durante el diseño podremos añadir, sustituir o utilizar otras pasivas si aportan algo mejor y mantienen el equilibrio. Los ejemplos de la tabla son orientativos, no una lista cerrada ni necesariamente exclusiva de cada esencia.
 
 Ejemplos iniciales para orientar el diseño:
 
@@ -85,22 +89,32 @@ Estas pasivas son ejemplos de dirección, no efectos aprobados ni exclusivos de 
 - No se pretende programar una interacción especial para cada pareja o conjunto posible. Las sinergias se definirán de forma explícita y limitada.
 - Quedan por decidir la cantidad de pasivas que se podrán equipar, sus niveles de mejora, sus requisitos y la organización de la selección.
 
-### Equipamiento
+### Equipamiento normal
 
-**Dirección provisional:** el equipo será un sistema independiente de la selección de esencias. Debe potenciar al personaje sin obligar a conseguir un conjunto distinto para cada combinación.
+**Dirección provisional:** el equipo normal será un sistema independiente de la selección de esencias. Su función principal será aportar estadísticas generales y potenciar al personaje sin obligar a conseguir un conjunto distinto para cada combinación.
 
-- Las piezas podrán aportar estadísticas generales, por ejemplo ataque, defensa, vida, velocidad de movimiento, velocidad de ataque, crítico o reducción de enfriamiento.
+- Las piezas podrán aportar estadísticas generales, por ejemplo ataque, defensa, vida, velocidad de movimiento, velocidad de ataque, crítico, regeneración o reducción de enfriamiento.
 - No se establecerán afinidades fijas obligatorias que exijan reunir equipo específico para las tres esencias seleccionadas.
 - Un conjunto de equipo bien desarrollado deberá seguir siendo útil al cambiar entre distintas combinaciones de esencias y pasivas.
 - El equipo podrá complementar diferentes estilos, pero no deberá determinar por sí solo qué combinación es viable ni convertirse en un requisito para reparar una configuración.
-- Se contempla estudiar una ranura o pieza de especialización con una bonificación intercambiable, pero todavía no está decidido si existirá ni qué forma tendrá.
-- No están definidos todavía los tipos de piezas, conjuntos, rarezas, estadísticas secundarias, mejoras, bonificaciones especiales ni la forma de obtener el equipo.
+- No están definidos todavía los tipos de piezas, conjuntos, rarezas, estadísticas secundarias, mejoras ni la forma de obtener el equipo.
+
+### Pieza especial
+
+**Dirección provisional:** se contempla una ranura exclusiva para una pieza especial, separada del equipo normal. La referencia conceptual es el espacio de objeto neutral de Dota 2: un objeto particular con su propio espacio, no una pieza más de un conjunto de armadura.
+
+- La pieza especial podrá seleccionarse y desarrollarse/mejorarse durante la progresión.
+- Sus mejoras podrían potenciar los efectos automáticos de las esencias, modificar algunas de sus propiedades o aportar beneficios adicionales a la configuración.
+- Deberá poder utilizarse con distintas combinaciones de esencias; no se pretende obligar al jugador a conseguir una pieza diferente por cada build.
+- Su funcionamiento exacto, obtención, niveles de mejora, variedad de opciones y relación con las esencias quedan pendientes.
+- Esta pieza no está definida todavía como un sistema cerrado: se conserva como una posibilidad de diseño que se evaluará al desarrollar la progresión.
 
 ### Principios de equilibrio y simplicidad
 
 - Las siete esencias deben ofrecer identidades y posibilidades útiles, sin que una sea obligatoria o claramente superior en todos los casos.
-- Las combinaciones deben aportar variedad sin crear 35 sistemas independientes difíciles de mantener.
-- Las pasivas y el equipo deben ampliar las opciones, no invalidar unas configuraciones para hacer obligatorias otras.
+- Los efectos automáticos de las esencias deben aportar identidad y variedad al combate sin exigir botones adicionales ni alterar obligatoriamente cada ataque básico, habilidad o definitiva.
+- Las sinergias entre esencias son opcionales; no se debe añadir complejidad solo por completar todas las combinaciones posibles.
+- Las pasivas, el equipo y la pieza especial deben ampliar las opciones, no invalidar unas configuraciones para hacer obligatorias otras.
 - Evitar que cambiar de configuración implique repetir farmeo o conseguir varios conjuntos completos de equipo.
 - Priorizar efectos comprensibles, reutilizables y fáciles de ajustar.
 - Los porcentajes, valores, fórmulas, límites y sinergias definitivos se establecerán durante el balance.
@@ -108,11 +122,12 @@ Estas pasivas son ejemplos de dirección, no efectos aprobados ni exclusivos de 
 ### Decisiones pendientes
 
 - Confirmar los nombres y descripciones definitivos de las siete esencias.
-- Definir el bonus concreto de cada combinación de tres esencias.
+- Diseñar los efectos automáticos característicos de cada una de las siete esencias.
+- Decidir más adelante si se incorporan sinergias entre esencias; son opcionales y no forman parte de los requisitos actuales.
 - Diseñar y equilibrar el catálogo de pasivas; las tres por esencia son solo una base inicial.
 - Definir cuántas pasivas se equipan y cómo se desarrollan.
-- Determinar si habrá una ranura o pieza de especialización en el equipo y cómo funcionará.
-- Definir piezas, rarezas, estadísticas, conjuntos, mejoras y obtención del equipo.
+- Definir el funcionamiento, obtención y mejoras de la pieza especial.
+- Definir piezas, rarezas, estadísticas, conjuntos y obtención del equipo normal.
 - Confirmar el nivel máximo y la distribución exacta de puntos.
 
 ## Combate
