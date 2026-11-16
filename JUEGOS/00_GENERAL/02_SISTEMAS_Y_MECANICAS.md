@@ -140,12 +140,14 @@ Estas pasivas son ejemplos de dirección, no efectos aprobados ni exclusivos de 
 - **Dirección de simplificación en evaluación:** mantener un kit del personaje pequeño y relativamente fijo, en lugar de crear numerosas cadenas de ataques, habilidades y variantes. La variedad principal también vendrá de las configuraciones de esencias y de los enemigos.
 - **Combo básico propuesto:** al ejecutar el ataque, el personaje realiza una secuencia de tres tajos hacia delante: los dos primeros son diagonales y se cruzan en forma de X; el tercero es horizontal. Se busca que la secuencia pueda ejecutarse sin exigir desplazamientos o animaciones de movimiento complejas para cada golpe.
 - **Habilidad especial y definitiva:** cada una tendrá una función y efecto propios. No se pretende multiplicar sus versiones según cada combinación de esencias.
+- **Movimiento del personaje:** el personaje se desplaza libremente por el escenario también durante el combate. No será un sistema estático ni permanecerá clavado en un punto; la movilidad y el posicionamiento forman parte de la experiencia, manteniendo una base compatible con la futura adaptación a 3D.
+- Los ataques se ejecutan desde la posición del personaje. La simplificación buscada está en el número y complejidad de acciones y animaciones, no en eliminar el movimiento libre.
 - **Dirección de producción:** priorizar acciones y efectos reutilizables, con un alcance de animación y programación manejable tanto para la primera versión 2D como para una posible adaptación 3D. Evitar que cada esencia o combinación obligue a rehacer el combo, la habilidad o la definitiva.
 - Las esencias aportarán efectos automáticos y modificaciones a la experiencia de combate; no deben convertir al personaje en un mero activador pasivo ni hacer que el kit base pierda toda importancia.
 - La variedad y el desafío también se apoyarán en enemigos especiales y jefes con patrones o mecánicas particulares, de modo que el jugador tenga que responder a amenazas distintas y no solo aumentar el daño.
 - **Dirección inicial ya registrada:** el jugador debe poder responder a amenazas mediante acciones como esquivar, bloquear o interrumpir, según el ataque y las capacidades disponibles. Simplificar el kit no significa eliminar automáticamente estas respuestas defensivas.
 - Algunos ataques enemigos podrán ser extremadamente peligrosos e incluso letales si el jugador no los evita o bloquea correctamente. Los ejemplos concretos y sus reglas todavía están por diseñar.
-- **Pendiente:** cerrar el alcance del movimiento del personaje, defensa, esquivas, bloqueos, contraataques, recursos, estados, control de masas, daño, resistencias, enemigos y jefes.
+- **Pendiente:** definir los detalles del movimiento (velocidad, aceleración u otras reglas si fueran necesarias), defensa, esquivas, bloqueos, contraataques, recursos, estados, control de masas, daño, resistencias, enemigos y jefes. El desplazamiento libre del personaje ya queda establecido como dirección.
 
 ## Registro de exploración
 
