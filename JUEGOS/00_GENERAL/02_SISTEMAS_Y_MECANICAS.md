@@ -280,7 +280,7 @@ Las interacciones del entorno deben ser directas y reconocibles. No todo objeto 
 
 ## Inventario
 
-**Estado: PENDIENTE — propuesta inicial para revisar.** Referencias principales: organización por categorías y almacenamiento de Diablo IV; separación entre bolsa del personaje y depósitos de AION 2. La propuesta se adapta a nuestro proyecto y no presupone que vayamos a reproducir la estructura de MMO de AION 2.
+**Estado: APROBADO — sistema general y decisiones revisadas.** Referencias principales: organización por categorías y almacenamiento de Diablo IV; separación entre bolsa del personaje y depósitos de AION 2. La propuesta se adapta a nuestro proyecto y no presupone que vayamos a reproducir la estructura de MMO de AION 2.
 
 ### Análisis y criterio de diseño
 
@@ -305,23 +305,20 @@ Las interacciones del entorno deben ser directas y reconocibles. No todo objeto 
   - **Materiales:** se guardan en un registro propio y no consumen espacios de la bolsa.
   - **Objetos importantes de misión:** no consumen espacios normales de la bolsa.
   - Esta separación evita que la recolección de recursos o el avance de misiones bloqueen la capacidad para recoger equipo y consumibles.
-- **Espacios uniformes:** cada objeto ocupa una casilla, independientemente de su apariencia o tamaño.
-- **Acumulación:** materiales y consumibles compatibles pueden apilarse. El límite de cada pila queda pendiente.
-- **Orden y búsqueda:** incluir ordenar automáticamente y filtrar por categoría o tipo. La búsqueda por nombre puede evaluarse según el tamaño final del inventario.
-- **Acciones de objeto:** al seleccionar un objeto, mostrar las acciones que correspondan a su tipo, como equipar, usar o consultar información. Vender, desmontar, descartar, bloquear/favorito y otras acciones se definirán junto con los sistemas que las necesiten.
-- **Almacenamiento:** depósito separado de la bolsa, accesible en lugares designados del mundo. Su capacidad, organización y posible ampliación quedan pendientes.
-- **Comparación de equipo:** al seleccionar una pieza equipable, permitir compararla con la que lleva el personaje en la ranura correspondiente.
-- **Protección contra errores:** evaluar una opción para marcar objetos importantes como favoritos/bloqueados, evitando venderlos o descartarlos por accidente.
+- **Espacios uniformes — APROBADO:** cada objeto ocupa una casilla, independientemente de su apariencia o tamaño.
+- **Capacidad de la bolsa — APROBADO:** 100 espacios iniciales para equipo y consumibles; el equipo ocupa un espacio individual y los consumibles compatibles se acumulan por pilas. El límite inicial propuesto es de 99 unidades por pila.
+- **Materiales — APROBADO:** registro independiente sin consumir espacios de la bolsa.
+- **Objetos importantes de misión — APROBADO:** se almacenan aparte y no consumen espacios normales.
+- **Almacenamiento — APROBADO:** depósito independiente para equipo y consumibles, accesible en lugares seguros o puntos de servicio. No tendrá ampliaciones inicialmente.
+- **Organización — APROBADO:** orden automático por tipo, rareza y nivel; filtros por categoría y tipo. Búsqueda por nombre si el volumen de objetos lo justifica.
+- **Acciones — APROBADO:** equipar, desequipar, usar, vender, descartar y consultar información, según el tipo de objeto.
+- **Comparación de equipo — APROBADO:** mostrar las diferencias de estadísticas entre una pieza seleccionada y la equipada.
+- **Protección — APROBADO:** favoritos/bloqueo para evitar vender o descartar objetos importantes; los objetos equipados no podrán descartarse accidentalmente.
+- **Desmontaje — NO incluido inicialmente:** solo se reconsiderará si el sistema de mejoras demuestra que lo necesita.
 
-### Decisiones pendientes de revisión
+### Decisiones cerradas
 
-- **Aprobado:** cuatro categorías/pestañas: Equipo, Consumibles, Materiales y Misiones y varios.
-- **Aprobado:** capacidad diferenciada: equipo ocupa espacios individuales; consumibles se apilan y ocupan espacios por pila; materiales y objetos importantes de misión quedan fuera del límite de la bolsa.
-- Definir los límites de acumulación de materiales y consumibles.
-- Definir el almacenamiento: capacidad, pestañas, acceso y ampliaciones.
-- Decidir qué objetos de misión quedan fuera del espacio normal.
-- Definir las acciones disponibles para cada tipo de objeto.
-- Decidir si habrá filtros avanzados, búsqueda y marcado de favoritos/bloqueo.
+El inventario queda aprobado en su estructura y funcionamiento general. Los valores numéricos concretos podrán ajustarse durante el balance o si las pruebas de contenido demuestran que 100 espacios o pilas de 99 unidades no funcionan bien; no se consideran una nueva capa de progresión ni un motivo para detener la revisión de sistemas.
 
 ## Registro de exploración
 
