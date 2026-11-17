@@ -631,36 +631,80 @@ La interfaz permitirá:
 
 ## Materiales, recolección y fabricación
 
-**Estado: PENDIENTE — propuesta inicial.**
+**Estado: APROBADO.** Sistema deliberadamente sencillo: los materiales sirven para mejorar equipo y fabricar algunos objetos útiles, sin convertir la recolección o la fabricación en una progresión paralela.
+
+### Tipos de materiales
+
+Se utilizarán tres categorías generales:
+
+- **Comunes:** recursos habituales para consumibles y objetos básicos.
+- **Especiales:** materiales menos frecuentes para mejoras y recetas de mayor importancia.
+- **Únicos:** materiales concretos vinculados a recetas especiales o recompensas de jefes y actividades.
+
+La cantidad total de materiales se mantendrá controlada. Cada material debe tener una utilidad reconocible; no se crearán recursos que solo cambien de nombre o no tengan un uso real.
+
+Los materiales se guardan en el registro independiente de materiales, sin ocupar espacios del inventario normal ni requerir que el jugador los lleve encima.
+
+### Fuentes de obtención
+
+Los materiales podrán conseguirse mediante:
+
+- **Recolección del mundo:** plantas, minerales y otros recursos presentes en los territorios.
+- **Enemigos:** determinados enemigos dejarán materiales relacionados con su naturaleza. No hace falta que cada enemigo tenga un material exclusivo; se podrán compartir materiales entre enemigos similares.
+- **Jefes:** podrán entregar materiales especiales o únicos.
+- **Actividades y exploración:** mazmorras, desafíos, cofres, misiones y otras recompensas.
+
+Los materiales importantes deberán tener fuentes identificables. No se dependerá de probabilidades extremadamente bajas para conseguir recursos necesarios.
 
 ### Recolección
 
-Se propone que los recursos aparezcan de forma natural en los territorios y puedan obtenerse explorando, interactuando con puntos de recolección o derrotando determinados enemigos.
-
-- Los recursos deben tener usos reconocibles.
-- No llenar el mundo de docenas de materiales que solo cambian de nombre.
-- Los puntos de recolección pueden registrarse en el mapa si forman parte del porcentaje normal de exploración.
-- No se propone energía, resistencia ni límites diarios para recolectar.
-- Evitar que el jugador tenga que recorrer repetidamente una ruta vacía esperando que reaparezcan recursos.
+- Recolectar será una interacción sencilla: acercarse al recurso, interactuar y recogerlo.
+- No se exigirán herramientas específicas, minijuegos, energía, resistencia ni límites diarios.
+- Los recursos estarán distribuidos de forma razonable por el mundo. Se evitarán rutas repetitivas cuyo único propósito sea esperar reapariciones.
 
 ### Fabricación
 
-Se propone empezar con una fabricación limitada a objetos útiles y comprensibles:
+La fabricación tendrá un alcance limitado a objetos con utilidad clara:
 
-- Consumibles básicos.
-- Materiales procesados necesarios para mejoras.
-- Algunas piezas de equipo o recompensas especiales, solo si aportan una ruta alternativa de obtención.
+- Consumibles de curación.
+- Consumibles de apoyo al combate, si se incorporan.
+- Materiales procesados que se utilicen en mejoras.
+- Algunos objetos de recetas especiales.
 
-No se propone inicialmente un sistema de profesiones múltiples con niveles independientes, recetas interminables y especializaciones. Eso sería mucho trabajo y podría convertir la fabricación en un juego separado.
+**El equipo no se fabricará como sistema general en la primera versión.** La obtención principal de equipo seguirá siendo el botín de enemigos, jefes, cofres y actividades.
 
-### Recetas
+No habrá profesiones con niveles propios, árboles de especialización, decenas de estaciones ni cadenas largas de procesamiento.
 
-- Las recetas importantes se desbloquean mediante exploración, misiones, jefes o progresión.
-- Una receta desbloqueada debería permanecer disponible.
-- Mostrar materiales requeridos y dónde se pueden conseguir, al menos mediante una referencia general.
-- Evitar recetas que exijan una cadena larga de materiales raros sin una recompensa proporcional.
+### Recetas y procesamiento
 
-**Pendiente:** si habrá fabricación, qué objetos permite crear, cómo se consiguen recetas y cuántos materiales distintos necesita el juego.
+- Las recetas importantes se desbloquearán de forma permanente mediante exploración, misiones, jefes, desafíos, comerciantes o descubrimientos.
+- Una vez desbloqueada una receta, podrá utilizarse siempre que se tengan los materiales necesarios.
+- La interfaz mostrará los requisitos y una referencia general de dónde conseguir los materiales.
+- Se permitirán transformaciones sencillas, como procesar minerales comunes o combinar recursos para fabricar consumibles.
+- Como regla general, habrá como máximo una transformación intermedia entre el recurso original y el objeto final. Se evitarán cadenas de varios pasos.
+
+### Lugares de fabricación
+
+Los servicios de fabricación se agruparán en lugares seguros. Una interfaz o estación general permitirá consultar recetas y fabricar objetos directamente desde el registro de materiales, sin tener que trasladarlos al inventario normal.
+
+### Relación con las mejoras de equipo
+
+El sistema de mejoras de equipo ya aprobado utiliza moneda común y un material general de mejora.
+
+- Ese material se obtendrá principalmente jugando: enemigos de élite, jefes, desafíos, actividades y algunas recompensas de exploración.
+- La fabricación podrá servir como fuente complementaria si más adelante hace falta, pero no será obligatoria.
+- No habrá un material distinto por ranura de equipo ni por cada nivel de mejora.
+
+### Límites de diseño
+
+- No habrá energía de recolección ni límites diarios.
+- No se exigirán materiales obligatorios extremadamente raros.
+- No se inflarán las recetas con cantidades excesivas de recursos.
+- No habrá profesiones obligatorias ni materiales sin propósito.
+- La fabricación no será un requisito para avanzar en la historia.
+- Los materiales importantes tendrán fuentes claras y razonables.
+
+Las cantidades concretas, recetas y valores se definirán durante el diseño de contenido y el balance, sin alterar estas reglas generales aprobadas.
 
 ## Monedas y economía
 
