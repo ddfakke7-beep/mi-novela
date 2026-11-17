@@ -2,14 +2,14 @@
 
 Registro de los sistemas que tendrá que definir el proyecto. Por ahora es un mapa de trabajo, no una especificación técnica cerrada.
 
-> **Estado general:** este documento reúne la base ya acordada y las propuestas iniciales de los sistemas que faltan. Cada apartado indica qué está confirmado y qué sigue pendiente; ninguna propuesta nueva se considera aprobada por aparecer aquí.
+> **Estado general:** este documento reúne los sistemas generales aprobados y las decisiones de detalle que siguen pendientes. Los apartados marcados como APROBADO forman parte de la base vigente del proyecto; los detalles aplazados podrán definirse durante el diseño de contenido, balance e implementación.
 
 ## Criterio de aprobación de sistemas
 
 - **APROBADO:** decisión revisada y aceptada por el usuario. Se conserva como parte de la base del proyecto.
 - **PENDIENTE:** propuesta inicial todavía no aceptada. Puede modificarse, simplificarse o descartarse durante la revisión.
 - Los sistemas ya acordados mantienen su estado aprobado en cuanto a sus decisiones confirmadas. Que una cifra, fórmula, contenido concreto o detalle aparezca como pendiente no invalida las decisiones generales ya aprobadas.
-- Cada sistema nuevo se incorpora primero como propuesta **PENDIENTE**. Se revisa punto por punto; solo después de la aceptación del usuario se cambia su estado a **APROBADO** y se pasa al siguiente sistema.
+- Los sistemas generales se aprueban como bloques completos. Los valores, fórmulas, contenidos concretos y detalles de implementación pueden seguir pendientes sin reabrir las decisiones generales.
 - Las referencias a AION 2 y Diablo IV sirven para estudiar soluciones existentes. Se reutilizarán las ideas que encajen con el proyecto, no se copiarán automáticamente sistemas completos ni dependencias propias de un MMO o de un ARPG concreto.
 
 
@@ -238,45 +238,27 @@ Estas pasivas son ejemplos de dirección, no efectos aprobados ni exclusivos de 
 
 ## Ciclo general de juego
 
-**Estado: PENDIENTE — propuesta de conexión entre sistemas.**
+**Estado: APROBADO.** El ciclo general sirve como estructura flexible, no como una secuencia obligatoria para cada actividad.
 
-El ciclo principal debería ser fácil de entender y repetible sin convertirse en una lista obligatoria de tareas:
+1. Explorar el territorio y descubrir lugares, personajes, recursos y contenidos.
+2. Encontrar una actividad, encuentro, misión, desafío o punto de interés.
+3. Superar el combate, resolver el objetivo o completar la interacción correspondiente.
+4. Obtener recompensas y recursos.
+5. Desarrollar o ajustar la configuración mediante esencias, pasivas y equipo.
+6. Avanzar por la historia hacia nuevos territorios y desafíos.
 
-1. **Explorar:** recorrer el territorio, descubrir lugares, personajes, recursos, secretos y actividades.
-2. **Encontrar situaciones:** entrar en encuentros, misiones, desafíos, mazmorras o acontecimientos del mundo.
-3. **Superar el contenido:** combatir, resolver una mecánica, interactuar o cumplir el objetivo correspondiente.
-4. **Obtener resultados:** recibir experiencia, objetos, materiales, moneda, información o desbloqueos según la actividad.
-5. **Desarrollar la configuración:** revisar equipo, esencias y pasivas; mejorar al personaje si hay una mejora útil.
-6. **Continuar:** abrir nuevas zonas, afrontar contenidos más exigentes o avanzar a otra etapa del mundo.
-
-Criterios:
-- No todas las actividades deben pasar obligatoriamente por los seis pasos. Una exploración pequeña puede dar una recompensa inmediata; una misión puede enlazar varias actividades.
-- No se debe obligar al jugador a volver a una base después de cada encuentro para poder seguir jugando.
-- La gestión de inventario, equipo y configuración debe poder hacerse en momentos razonables y no interrumpir cada acción.
-- La progresión debe combinar avance del personaje, descubrimiento del mundo y dominio del combate. Ninguno debería reducirse a repetir una única actividad.
-- Este ciclo es una guía para conectar sistemas, no una estructura rígida que todas las zonas deban repetir de la misma manera.
+No será obligatorio regresar a una base después de cada combate ni completar todos los pasos en cada ocasión. El ciclo debe impulsar la exploración, el combate, las recompensas y la progresión sin convertirse en una rutina rígida.
 
 ## Interacción con el mundo
 
-**Estado: PENDIENTE — propuesta inicial.**
+**Estado: APROBADO.** La interacción con el entorno incluirá mecanismos, recolección, contenedores, personajes, servicios y descubrimientos.
 
-Las interacciones del entorno deben ser directas y reconocibles. No todo objeto necesita un minijuego ni toda acción debe convertirse en una misión.
-
-### Tipos de interacción
-- **Acceso y mecanismos:** puertas, palancas, interruptores, mecanismos y rutas que se abren al cumplir una condición.
-- **Recolección:** recursos visibles que el jugador puede recoger o activar.
-- **Contenedores:** cofres, depósitos y recompensas del entorno.
-- **Personajes y servicios:** hablar, aceptar o entregar misiones, comprar, vender y acceder a servicios cuando estén disponibles.
-- **Elementos de descubrimiento:** lugares, señales, documentos u objetos que revelen información o registren un hallazgo.
-
-### Criterios
-- La interacción debe indicar claramente cuándo el jugador puede actuar y qué acción se espera.
-- Priorizar una acción contextual sencilla antes que asignar un botón distinto a cada tipo de objeto.
-- Si una interacción exige una condición —una llave, un desbloqueo, una misión o una mecánica—, comunicarla con claridad.
-- No convertir cada puerta, recurso o elemento decorativo en una interacción obligatoria.
-- Las interacciones importantes deben ser visibles o tener pistas razonables; evitar que el progreso dependa de probar cada objeto del escenario al azar.
-
-**Pendiente:** alcance de las interacciones, controles, condiciones, animaciones y qué objetos pueden registrarse como descubrimientos.
+- Las interacciones deben ser contextuales: indicar de forma comprensible qué acción está disponible y qué condición hace falta, si corresponde.
+- La recolección será directa y sencilla, sin exigir herramientas, minijuegos o energía como regla general.
+- Los mecanismos y objetos interactivos se incorporarán cuando aporten exploración, resolución de situaciones o acceso a contenido.
+- Los personajes y servicios podrán concentrarse en lugares seguros; no es necesario asignar un NPC distinto a cada función.
+- No todo elemento decorativo tendrá que ser interactivo.
+- No se añadirán minijuegos para acciones simples ni interacciones repetitivas que no aporten nada.
 
 ## Inventario
 
@@ -322,55 +304,58 @@ El inventario queda aprobado en su estructura y funcionamiento general. Los valo
 
 ## Registro de exploración
 
-**Propuesta provisional:** cada territorio tendrá un registro accesible desde el mapa (la tecla o control definitivo todavía no está cerrado; se ha usado M como ejemplo).
+**Estado: APROBADO.** Cada territorio tendrá un registro de exploración con porcentaje y categorías de contenido normal.
 
-El registro mostrará el porcentaje de exploración y el progreso de las categorías de contenido. La intención es contabilizar prácticamente todo el contenido normal del territorio: cofres normales, mazmorras, jefes o encuentros registrables, lugares descubiertos, recursos, actividades, desafíos, interacciones y otros descubrimientos que se definan.
+El registro podrá contabilizar:
 
-- El jugador debe poder identificar qué contenido normal le falta sin necesitar una guía externa.
-- Completar el 100% debería ser cuestión de explorar y disfrutar, no de realizar tareas repetitivas o búsquedas arbitrariamente difíciles.
-- No será obligatorio completar el 100% para desbloquear la salida ni avanzar.
-- Los cofres ocultos y secretos especiales se contabilizarán aparte y no afectarán al porcentaje normal.
-- Las categorías exactas y el cálculo del porcentaje quedan pendientes.
+- Cofres normales.
+- Mazmorras.
+- Jefes.
+- Lugares descubiertos.
+- Recursos y puntos de recolección relevantes.
+- Actividades y desafíos.
+- Interacciones y descubrimientos importantes.
+
+El 100% representa el contenido normal y reconocible del territorio. No exige encontrar cada secreto oculto ni cada objeto escondido. La exploración normal debe poder completarse de manera razonable y no será requisito para avanzar en la historia.
 
 ## Cofres ocultos y pistas
 
-**Propuesta provisional:** los cofres ocultos son secretos opcionales independientes del registro normal.
+**Estado: APROBADO.** Los cofres ocultos y secretos serán contenido opcional, separado del porcentaje normal de exploración.
 
-- El mapa/registro podrá indicar una zona aproximada donde existe un secreto pendiente, sin mostrar su posición exacta.
-- El jugador consultará una pista desde el propio registro o guía del mapa, idealmente mediante una indicación de información que permita verla rápidamente al pasar el cursor, si la interfaz final lo permite.
-- Las pistas deben ser claras en su intención, ingeniosas y relativamente sencillas de deducir. Evitar acertijos arbitrarios, combinaciones sin lógica o secretos que dependan de revisar cada rincón sin ninguna señal.
-- Los tipos de acertijo, mecanismos y soluciones se diseñarán cuando se creen los territorios y su contenido; no se fijan de antemano.
-- Encontrar estos cofres no debe ser obligatorio para progresar ni para completar el 100% normal.
+- Los cofres ocultos podrán ofrecer recompensas mejores o adicionales frente a los cofres normales.
+- No contendrán desbloqueos imprescindibles para completar la historia o desarrollar una configuración funcional.
+- El mapa o el registro podrán señalar una zona aproximada o dar una pista, pero no mostrarán directamente la ubicación exacta.
+- Las pistas deberán ser claras, lógicas y resolubles mediante observación o exploración; se evitarán acertijos arbitrarios o engañosos.
+- Los secretos no serán una obligación para alcanzar el 100% normal del territorio.
 
 ## Ayudas para secretos
 
-**Propuesta provisional:** habrá una reserva de ayudas directas con recarga diaria, compartida globalmente entre los territorios.
+**Estado: APROBADO.** Se podrá ofrecer una ayuda opcional para quienes quieran encontrar secretos sin convertir la exploración en una búsqueda frustrante.
 
-- Se está considerando una cantidad de 2 o 3 ayudas directas por día.
-- La ayuda directa podrá revelar una pista muy explícita o la solución del secreto.
-- La recarga no debe bloquear el progreso general ni convertir los secretos en tareas con espera obligatoria.
-- La cantidad exacta, el funcionamiento de la recarga y la interfaz quedan pendientes.
+- Como referencia inicial, podrá existir una reserva global de 2–3 pistas directas por día.
+- Las pistas serán opcionales y podrán ser explícitas o revelar cómo resolver el secreto.
+- No se necesitarán pistas para avanzar en la historia, completar el porcentaje normal o conseguir desbloqueos fundamentales.
+- La cantidad y el funcionamiento exactos podrán ajustarse durante pruebas; la ayuda no debe convertirse en una tarea diaria ni en una limitación de progreso.
 
 ## Recompensas y desbloqueos
 
-**Propuesta provisional:**
+**Estado: APROBADO.** Las recompensas deben ser comprensibles y estar relacionadas con la importancia del contenido.
 
-- Los cofres normales entregan recompensas habituales.
-- Los cofres ocultos pueden entregar una cantidad mayor o una recompensa adicional, pero no tan significativa como para volverlos imprescindibles.
-- Las cifras de ejemplo mencionadas durante el diseño no son valores definitivos.
-- Las habilidades especiales y los desbloqueos importantes se reservarían para logros relevantes: jefes, encuentros especiales, hazañas o acciones concretas. Como ejemplos por explorar se mencionaron derrotar cierta cantidad de enemigos o sobrevivir a una zona llena de amenazas.
-- La relación exacta entre actividades, recompensas, habilidades y progresión todavía no está definida.
+- Los cofres normales entregarán recompensas habituales, como moneda, consumibles, materiales y, ocasionalmente, equipo.
+- Los cofres ocultos podrán entregar recompensas mejores o adicionales, pero serán opcionales.
+- La primera victoria contra un jefe importante garantizará su recompensa principal.
+- Las actividades importantes mostrarán sus recompensas relevantes antes de completarse o iniciarse, cuando corresponda.
+- Los desbloqueos permanentes importantes estarán ligados a contenido o logros significativos, no a probabilidades extremadamente bajas.
+- Los drops aleatorios podrán complementar las recompensas garantizadas, pero no sustituirlas ni obligar a repetir decenas de veces.
+- Los desbloqueos de esencias y pasivas serán permanentes dentro de la partida, sujetos a las reglas de pérdida del modo Extremo ya aprobadas.
 
 ## Desafíos opcionales
 
-- Algunos territorios podrán incluir áreas especiales donde el jugador elige entre varios niveles de exigencia.
-- **Propuesta provisional:** tres niveles, con diferencias reales en los encuentros y desafíos; evitar escalones que solo aumenten ligeramente las estadísticas.
-- Los niveles más exigentes podrán ofrecer recompensas adicionales, pero completar cualquier nivel debe conservar su mérito.
-- **Pendiente:** funcionamiento exacto, modificadores, recompensas y variedad de pruebas.
+**Estado: APROBADO — integrado con el sistema de actividades y mazmorras.** Los desafíos opcionales se rigen por las reglas aprobadas en «Actividades, mazmorras y contenido repetible»: tres niveles iniciales de dificultad, exigencia basada en habilidad y conocimiento de patrones, recompensas acordes y sin obligación para avanzar en la historia. No se crea un sistema paralelo.
 
 ## Muerte y dificultad
 
-La dirección general es diseñar el juego pensando primero en el modo Extremo. Las consecuencias concretas de morir, la recuperación y las diferencias entre modos se desarrollan en el apartado **Dificultad, muerte y guardado**, que es la referencia única para este sistema.
+**Estado: APROBADO — referencia al sistema «Dificultad, muerte y guardado».** Las consecuencias de morir dependen del modo elegido: Normal conserva el progreso registrado; Difícil devuelve al último guardado y pierde lo obtenido desde entonces; Extremo elimina la partida/run completa y obliga a empezar de nuevo. Las reglas completas están definidas en el apartado de dificultad, muerte y guardado.
 
 ## Equipo, botín y personalización de objetos
 
@@ -927,121 +912,102 @@ La estructura prioriza un mapa claro por territorio, registro de exploración, v
 
 ## Dificultad, muerte y guardado
 
-**Estado: PENDIENTE — propuesta inicial que desarrolla la dirección de dificultad ya conversada.**
+**Estado: APROBADO.** La dificultad debe cambiar la exigencia y, sobre todo, las consecuencias de morir. Extremo será el modo de máximo riesgo: morir implica perder toda la partida/progreso de esa run y empezar de nuevo. Difícil será exigente, pero la pérdida dependerá del último guardado realizado por el jugador.
 
 ### Modos de dificultad
 
-- Se mantiene como objetivo de diseño que el juego pueda funcionar en Extremo.
-- Los modos de dificultad deberían cambiar principalmente las consecuencias y exigencia del juego, no obligar a duplicar todos los contenidos.
-- La dificultad normal debe permitir aprender sistemas y patrones sin que cada enemigo común se convierta en una amenaza excesiva.
-- Los retos opcionales pueden superar la dificultad habitual del territorio.
+- **Normal:** permite aprender los sistemas y patrones sin que cada enemigo común sea una amenaza excesiva. La muerte devuelve al jugador a un punto seguro o control de guardado, conservando el progreso ya registrado.
+- **Difícil:** exige mejor ejecución y conocimiento de los patrones. El jugador debe guardar con regularidad: al morir, vuelve al último guardado y pierde todo lo conseguido desde entonces que todavía no se hubiera guardado.
+- **Extremo:** es el modo de máximo riesgo. Si el personaje muere, se pierde toda la partida/progreso de esa run y se empieza una nueva. No hay recuperación del progreso perdido. La regla debe comunicarse claramente antes de iniciar una partida en este modo.
 
-### Muerte
-
-La posible pérdida de pasivas u otros avances al morir se ha mencionado como idea, pero no está aprobada. Se propone evaluar primero estas alternativas:
-
-1. **Consecuencia ligera:** reaparecer en un punto seguro y conservar el progreso, con una penalización limitada.
-2. **Consecuencia intermedia:** perder temporalmente algún recurso recuperable, sin perder desbloqueos permanentes.
-3. **Consecuencia extrema:** aplicar una pérdida más importante solo en el modo Extremo, con reglas explicadas antes de comenzar.
-
-No se recomienda que la muerte borre desbloqueos permanentes de esencias o pasivas que el jugador ya consiguió. Eso chocaría con la decisión previa de que los desbloqueos son permanentes y haría que probar configuraciones resultara frustrante.
-
-Si el modo Extremo contempla pérdida de progreso, deberá especificarse qué se pierde, qué se conserva y cómo se recupera. No debe quedar a interpretación.
+Los retos opcionales podrán superar la dificultad habitual del territorio, sin que eso obligue a convertir a los enemigos en esponjas de vida.
 
 ### Guardado
 
-Se propone:
+- **Normal:** guardado automático en puntos seguros e hitos razonables, como cambios de zona, desbloqueos y recompensas importantes. El guardado manual podrá estar disponible en lugares seguros.
+- **Difícil:** el guardado es responsabilidad del jugador. Se podrá guardar en puntos o lugares habilitados; morir devuelve al último guardado y elimina el progreso no guardado desde ese momento. No se debe asumir que todo lo obtenido queda protegido automáticamente.
+- **Extremo:** el guardado no evita la consecuencia de muerte. Morir elimina la partida/run completa, incluso si se había guardado antes.
+- La interfaz debe dejar claro cuándo se guardó por última vez y qué progreso podría perderse al morir.
+- Los datos registrados incluyen configuración, inventario, equipo, misiones, exploración, desbloqueos y estado de actividades, según el modo.
 
-- Guardado automático en hitos razonables: cambios de zona, desbloqueos, recompensas importantes y puntos seguros.
-- Guardado manual desde lugares seguros o desde el menú, si la estructura técnica lo permite.
-- Registrar configuración, inventario, progreso de misiones, exploración, desbloqueos y estado de actividades.
-- Evitar que el jugador pierda progreso importante por cerrar el juego después de una recompensa.
+### Alcance de la pérdida
 
-**Pendiente:** puntos de guardado, frecuencia, ranuras de partida, guardado manual, consecuencias por modo y reglas definitivas de muerte.
+- En Normal y Difícil, los desbloqueos permanentes se conservan cuando ya quedaron registrados en un guardado; en Difícil, lo conseguido después del último guardado se pierde con el resto del progreso no guardado.
+- En Extremo, la muerte elimina toda la partida y sus progresos asociados. Esta regla prevalece sobre la permanencia habitual de los desbloqueos dentro de una partida.
+- No se aplican penalizaciones adicionales arbitrarias, como cobrar reparaciones o quitar objetos al azar: la consecuencia principal es la pérdida definida para cada modo.
+
+Los detalles técnicos de ranuras, formato de guardado y puntos exactos se definirán durante la implementación, sin cambiar estas reglas generales aprobadas.
 
 ## Interfaz, información y accesibilidad
 
-**Estado: PENDIENTE — propuesta inicial.**
-
-La interfaz debe mostrar información útil sin llenar la pantalla de barras, números e iconos.
+**Estado: APROBADO.** La interfaz debe mostrar información útil sin llenar la pantalla de barras, números e iconos.
 
 ### Información durante el combate
 
-Se propone mostrar solo lo necesario:
-
 - Vida del personaje.
-- Barra de aturdimiento del enemigo cuando sea relevante.
-- Enfriamiento o disponibilidad de habilidad y definitiva.
-- Señales visuales de ataques enemigos, respetando la opción ya planteada para desactivar avisos adicionales.
-- Información de estado alterado solo si finalmente se aprueba un catálogo de estados.
+- Vida del enemigo.
+- Barra de aturdimiento del enemigo cuando corresponda.
+- Disponibilidad y enfriamiento de la habilidad especial y la definitiva.
+- Señales visuales de los ataques enemigos, respetando la opción de desactivar señales adicionales.
+- Estados alterados solo si finalmente se aprueba un catálogo de estados.
 
-No se propone mostrar permanentemente todas las estadísticas del personaje durante el combate.
+No se mostrarán permanentemente estadísticas que no ayuden a tomar decisiones durante el combate.
 
 ### Menús
 
-Se propone separar las pantallas principales por función:
+Las funciones se organizarán de forma clara, agrupando pantallas relacionadas cuando resulte más cómodo:
 
-- Personaje: estadísticas generales y equipo.
-- Esencias: selección de tres y esencia principal visual.
-- Pasivas: selección y desarrollo.
-- Inventario: objetos y materiales.
+- Personaje y equipamiento.
+- Esencias y pasivas.
+- Inventario y materiales.
 - Mapa y exploración.
-- Misiones y registro.
+- Misiones y objetivos.
 - Opciones.
 
-Se podrán agrupar pantallas relacionadas si la interfaz final lo hace más cómoda. La lista no obliga a crear un menú independiente para cada sistema.
-
 ### Accesibilidad y ajustes
-
-Se propone considerar:
 
 - Ajuste de tamaño de texto e interfaz.
 - Volumen independiente para música, efectos y ambiente.
 - Reasignación de controles cuando la plataforma lo permita.
 - Opciones para reducir destellos, sacudidas de cámara y efectos visuales intensos.
-- Opción de desactivar señales visuales adicionales de ataques, ya contemplada en el diseño de combate.
+- Opción de desactivar señales visuales adicionales de ataques.
 - Indicadores visuales y sonoros que no dependan exclusivamente de distinguir colores.
 
-**Pendiente:** diseño visual, distribución, controles, opciones de accesibilidad y cantidad de información en pantalla.
+El diseño visual final, distribución y controles concretos se definirán durante la producción.
 
 ## Contenido cosmético y apariencia
 
-**Estado: PENDIENTE — propuesta inicial.**
+**Estado: APROBADO.** La apariencia se mantendrá separada del poder del personaje.
 
-Se propone separar la apariencia del personaje de sus estadísticas:
-
-- Si se incorporan piezas cosméticas, cambiarán la apariencia sin alterar el poder.
-- La esencia principal visual ya tiene una función de presentación: determinar la manifestación visual de los ataques sin dar ventajas mecánicas.
-- No se propone que conseguir una apariencia sea requisito para progresar.
-- Se podrá evaluar un sistema de guardar apariencias o combinaciones visuales, pero no hace falta diseñarlo antes de que exista suficiente contenido cosmético.
-
-**Pendiente:** personalización inicial, apariencias desbloqueables, transfiguración, tintes y relación entre cosméticos y equipo.
+- Los cosméticos no modificarán estadísticas, daño, defensa ni ninguna otra ventaja jugable.
+- Se podrán conseguir piezas o apariencias cosméticas mediante el propio juego.
+- La esencia principal visual seguirá determinando la manifestación visual de los ataques, sin alterar su potencia ni funcionamiento.
+- Ninguna apariencia será requisito para avanzar o desbloquear contenido.
+- Los conjuntos o presets de apariencia podrán evaluarse más adelante si la cantidad de cosméticos lo justifica.
+- No se desarrollará de inicio un sistema grande de tintes, transfiguración o colección cosmética. Se añadirá solo si el contenido futuro lo necesita.
 
 ## Sistemas que no se incorporan por defecto
 
-**Estado: PENDIENTE — criterio de alcance recomendado.**
+**Estado: APROBADO.** Para mantener el alcance controlado, los siguientes sistemas no forman parte de la base del proyecto:
 
-Para evitar que el proyecto se convierta en un MMO por acumulación de sistemas, no se consideran parte de la base hasta que exista una razón clara:
-
-- Comercio entre jugadores y casa de subastas.
 - Clanes, gremios y jerarquías sociales.
-- Mercado controlado por jugadores.
-- Energía o resistencia diaria para limitar actividades.
-- Pase de batalla, recompensas por asistencia diaria y tareas de inicio de sesión.
-- Múltiples monedas para cada actividad.
+- Comercio entre jugadores, mercado controlado por jugadores y casa de subastas.
+- Pase de batalla, tareas diarias obligatorias y recompensas por asistencia.
+- Energía o resistencia diaria para limitar actividades o intentos.
 - Profesiones complejas con progresión independiente.
 - Sistemas de mejora con fallos, destrucción o degradación del equipo.
 - Múltiples personajes jugables con progresión y almacenamiento compartidos.
+- Monedas distintas para cada territorio o actividad.
 
-Esto no significa que estén prohibidos para siempre. Significa que no se añadirán solo porque existan en AION 2 u otros juegos. Primero debe estar justificada su función dentro de nuestro proyecto.
+Esto no significa que estén prohibidos para siempre. Solo se reconsiderarán si aparece una necesidad concreta y una función clara dentro del juego; no se incorporarán por imitar a otros títulos.
 
 ## Auditoría de coherencia entre sistemas
 
-**Estado: criterio de diseño propuesto; se utiliza para detectar contradicciones antes de aprobar cada sistema.**
+**Estado: criterio de coherencia aprobado; se utiliza para detectar contradicciones entre sistemas.**
 
 Estas reglas sirven para que las decisiones de un apartado no rompan las de otro:
 
-1. **Desbloqueos permanentes frente a muerte:** morir no debe borrar esencias o pasivas ya desbloqueadas. Cualquier penalización extrema debe afectar, si se aprueba, a recursos o progreso recuperable claramente delimitados.
+1. **Desbloqueos permanentes frente a muerte:** los desbloqueos son permanentes dentro de una partida normal; en Extremo, la muerte elimina la partida completa y, con ella, todo su progreso. Esta excepción forma parte de la regla aprobada del modo.
 2. **Inventario frente a botín y recolección:** los objetos obtenidos deben tener una categoría y un uso identificables. No se deben crear materiales sin una función prevista ni recompensas que llenen la bolsa sin aportar valor.
 3. **Equipo frente a esencias y pasivas:** el equipo aporta principalmente estadísticas generales; no debe exigir una combinación concreta de esencias para funcionar ni duplicar todos sus efectos.
 4. **Mejoras frente a economía:** cada coste debe tener una fuente y un uso comprensible. No se añadirán monedas o materiales exclusivos solo para justificar una operación.
@@ -1056,7 +1022,7 @@ Antes de aprobar un sistema se comprobará su compatibilidad con estas reglas y 
 
 ## Orden propuesto para revisar los pendientes
 
-**Estado: PENDIENTE — planificación de revisión, no aprobación de los sistemas.**
+**Estado: COMPLETADO.** El orden se conserva como registro del proceso de revisión; los sistemas generales de la lista ya fueron aprobados.
 
 Para que la revisión sea ordenada y las decisiones de un sistema no contradigan otro, se propone este orden:
 
