@@ -32,14 +32,25 @@ En nuestro juego controlamos un solo personaje. No podemos copiar literalmente l
 
 ### Dirección que se quiere explorar
 
-Trasladar la preparación, ejecución y recompensa de una rotación al propio combate del personaje y al estado del enemigo:
+El combate toma como referencia la lectura de patrones y las oportunidades de castigo de juegos de cacería, pero con un ritmo de acción más rápido y configuraciones que permiten desarrollar efectos durante todo el enfrentamiento. No se busca copiar una rotación de equipo ni convertir el aturdimiento en el centro obligatorio de todo el daño.
 
-- **Preparación:** acciones del jugador, habilidades, ataques cargados o efectos de configuración preparan una oportunidad. También puede consistir en leer el patrón del enemigo y posicionarse.
-- **Ventana de oportunidad:** el enemigo queda marcado, aturdido, paralizado, expuesto o en otra condición temporal; o el jugador activa una mejora propia.
-- **Ejecución:** el jugador decide cómo aprovechar la oportunidad: combo básico, ataque cargado, habilidad, definitiva o una combinación de ellos.
-- **Recuperación y adaptación:** mientras ciertas habilidades están en enfriamiento o el enemigo recupera su estado, el jugador sigue combatiendo con el resto de su kit. No se pretende que todo el daño ocurra en una ventana fija de ocho segundos.
+Se distinguen dos progresiones que pueden coincidir, pero no deben depender obligatoriamente una de la otra:
 
-La profundidad debería nacer de decisiones continuas: qué preparar, cuándo gastar una habilidad, cómo responder al enemigo y qué recurso o ventana aprovechar. No se busca convertir el combate en una rotación rígida que siempre se repita en el mismo orden.
+- **Progresión del jugador:** acumular cargas, aplicar marcas, generar estados, preparar habilidades, activar efectos o cumplir condiciones propias de la configuración.
+- **Estado del enemigo:** postura/aturdimiento, ataques interrumpibles, partes expuestas, recuperación tras un ataque, parálisis u otras oportunidades que el propio jefe genere.
+
+El jugador debe poder desarrollar y aprovechar su configuración mientras el enemigo sigue activo. Por ejemplo, acumular y detonar marcas, generar estados o utilizar una descarga no debería exigir esperar a que el jefe esté aturdido.
+
+El aturdimiento es una oportunidad adicional —normalmente más segura y favorable para ejecutar ataques fuertes o combos—, no una condición obligatoria para que las esencias y pasivas funcionen. No se quiere que el jugador guarde todas sus habilidades y efectos para descargarlos exclusivamente en esa ventana.
+
+Las oportunidades pueden surgir tanto de las decisiones del jugador como del comportamiento del enemigo:
+
+- **Durante el combate activo:** atacar, esquivar, contraatacar, acumular y detonar efectos, usar habilidades y responder a patrones.
+- **Durante una apertura:** aprovechar una recuperación, un ataque fallido, una interrupción, una parte expuesta o una condición de vulnerabilidad.
+- **Durante el aturdimiento:** ejecutar ataques fuertes y combos con menor riesgo, sin convertirlo en el único momento rentable para hacer daño.
+- **Después de la apertura:** continuar el combate con los efectos y recursos que sigan disponibles; no reiniciar una rotación fija desde cero.
+
+La intención es combinar la lectura del enemigo y el castigo de aperturas con sistemas de acumulación/detonación y efectos continuos inspirados en distintos estilos de ARPG. Las configuraciones pueden compartir el principio de generar ventajas durante el combate, pero no tienen que compartir el mismo ciclo ni depender de la misma ventana.
 
 ### Principios que deben comprobarse
 
@@ -47,7 +58,10 @@ La profundidad debería nacer de decisiones continuas: qué preparar, cuándo ga
 - Los ataques básicos, el ataque cargado, la habilidad y la definitiva deben conservar utilidad real.
 - No todo enemigo necesita una fase de preparación ni una ventana de burst.
 - Los jefes pueden ofrecer oportunidades de daño, pero no deben quedar reducidos a esperar una ventana y descargar todo.
+- Las esencias y configuraciones deben poder producir sus efectos durante el combate activo; el aturdimiento no será un requisito general para detonarlos o aprovecharlos.
+- No se debe incentivar que el jugador guarde sistemáticamente todas sus habilidades y recursos para una única ventana de stun.
 - Las acciones de preparación no deben convertirse en tareas obligatorias antes de cada golpe.
+- No todo personaje ni toda configuración necesita una rotación fija, un medidor propio o una secuencia óptima repetible.
 - Las mejoras y estados deben ser legibles, con duración y condiciones comprensibles.
 - La variedad no debe depender exclusivamente de aumentar la velocidad de los enemigos o de diseñar combos muy complejos para cada jefe.
 
@@ -284,3 +298,66 @@ No se elige todavía ninguna solución. En particular, Umbral y las pasivas de d
 ## 10. Regla de revisión
 
 Todo el contenido de este documento permanece **PENDIENTE** hasta revisarlo. Las listas y agrupaciones sirven para facilitar la discusión, no para dar por aprobados los efectos. Una vez revisado un punto, su estado podrá cambiarse individualmente a APROBADO, MODIFICADO o DESCARTADO.
+
+
+## 11. Principio de funcionamiento de efectos y ventanas de daño
+
+**Propuesta pendiente de aprobación:** los efectos de las configuraciones deben poder utilizarse a lo largo de todo el combate, incluso cuando el jefe está activo y atacando.
+
+Esto implica:
+
+1. Las marcas, cargas, acumulaciones, detonaciones, parálisis y otros efectos deben tener condiciones de activación que puedan cumplirse durante el combate normal.
+2. El jugador no debería tener que reservarlos sistemáticamente para el aturdimiento.
+3. El aturdimiento puede aumentar la seguridad o el rendimiento de ciertos ataques, pero no debe ser la única ventana donde una configuración resulta útil.
+4. Algunas configuraciones podrán beneficiarse más del aturdimiento; otras podrán desarrollar su mecánica de forma independiente mientras el enemigo se mueve y ataca.
+5. El jugador puede decidir guardar una habilidad o descarga para una apertura concreta, pero esa decisión debe ser una opción táctica y no la rotación obligatoria de todas las builds.
+
+**Distinción central:** una cosa es que el jugador prepare sus propios efectos y otra que el enemigo genere una oportunidad. Ambas progresiones pueden cruzarse, pero ninguna debe bloquear a la otra.
+
+Ejemplo conceptual:
+- Una configuración de marcas puede acumularlas y detonarlas mientras el jefe está activo.
+- Una configuración de carga puede completar y liberar su poder cuando el jugador encuentre conveniente.
+- Una configuración de aturdimiento puede llenar la postura más rápido y obtener una ventana de castigo adicional.
+- Una configuración de definitiva puede utilizarla cuando sea conveniente, sin que el diseño obligue a reservarla para el stun.
+
+No se han fijado todavía valores, duraciones ni multiplicadores para estas interacciones.
+
+## 12. Dirección propuesta para jefes y rejugabilidad
+
+### Sensación general del combate
+
+Se quiere explorar un combate de jefes inspirado parcialmente en la lectura de movimientos, posicionamiento y castigo de juegos como Monster Hunter, pero con una experiencia más frenética y concentrada:
+
+- Jefes con patrones reconocibles, ataques telegráficos y mecánicas interesantes.
+- Menos tiempos muertos y menos duración artificial basada únicamente en una gran cantidad de vida.
+- Oportunidades de castigo claras, sin que el combate se convierta en esperar pasivamente a que el jefe falle.
+- Las habilidades, esencias y pasivas del jugador deben seguir teniendo utilidad durante todo el enfrentamiento.
+- La dificultad debería surgir de leer y responder al jefe, tomar decisiones y ejecutar bien el combate, no solamente de inflar sus estadísticas.
+
+La intención de combates más cortos no significa que todos los jefes deban morir en pocos segundos ni que deban ser trivializados. La duración adecuada queda pendiente de pruebas y del tipo de jefe.
+
+### Primera aparición y enfrentamientos repetibles
+
+Se propone distinguir el papel narrativo de un jefe y su función como contenido rejugable:
+
+- **Primera aparición en la historia:** debe conservar sorpresa, contexto y relevancia narrativa. No se debería recurrir automáticamente a resucitar al mismo jefe para repetir su presentación.
+- **Reencuentros o desafíos:** el jugador podría volver a enfrentarlo mediante actividades de combate, expediciones, desafíos u otros modos, sin tener que repetir su aparición narrativa.
+- **Variantes:** algunos jefes podrían tener versiones alteradas, corrompidas, evolucionadas o con patrones modificados. La variante debe ofrecer diferencias de combate reconocibles, no ser solamente el mismo jefe con más vida y daño.
+
+### Reutilización sin inflación de estadísticas
+
+Reutilizar un jefe puede ser razonable para ampliar la rejugabilidad y aprovechar el trabajo de diseño, pero el enfrentamiento repetido debería cambiar al menos algún aspecto relevante cuando corresponda:
+
+- combinaciones o frecuencia de patrones;
+- condiciones y objetivos del encuentro;
+- peligros o características del escenario;
+- mecánicas especiales o respuestas que el jefe exige;
+- variante visual o de comportamiento, cuando el alcance de producción lo permita.
+
+No todos los reencuentros necesitan una variante completa. Un desafío puede reutilizar el jefe base, pero no se considera suficiente aumentar únicamente sus estadísticas como solución general de contenido.
+
+### Pregunta de diseño todavía abierta
+
+Queda por decidir qué peso tendrá el combate repetible de jefes frente a otras actividades del mundo: exploración, obtención de equipo, secretos, desafíos y progresión. Esta decisión determinará cuánto contenido nuevo se necesita y cuánto se puede apoyar en variantes y encuentros reutilizables.
+
+**Estado:** toda esta sección es una dirección propuesta y permanece PENDIENTE. No se han aprobado duraciones objetivo, cantidad de variantes, modos de repetición ni escalados.
