@@ -4,6 +4,15 @@ Registro de los sistemas que tendrá que definir el proyecto. Por ahora es un ma
 
 > **Estado:** las decisiones nuevas sobre exploración, secretos y recompensas son provisionales hasta terminar el diseño general.
 
+## Criterio de aprobación de sistemas
+
+- **APROBADO:** decisión revisada y aceptada por el usuario. Se conserva como parte de la base del proyecto.
+- **PENDIENTE:** propuesta inicial todavía no aceptada. Puede modificarse, simplificarse o descartarse durante la revisión.
+- Los sistemas ya acordados mantienen su estado aprobado en cuanto a sus decisiones confirmadas. Que una cifra, fórmula, contenido concreto o detalle aparezca como pendiente no invalida las decisiones generales ya aprobadas.
+- Cada sistema nuevo se incorpora primero como propuesta **PENDIENTE**. Se revisa punto por punto; solo después de la aceptación del usuario se cambia su estado a **APROBADO** y se pasa al siguiente sistema.
+- Las referencias a AION 2 y Diablo IV sirven para estudiar soluciones existentes. Se reutilizarán las ideas que encajen con el proyecto, no se copiarán automáticamente sistemas completos ni dependencias propias de un MMO o de un ARPG concreto.
+
+
 ## Progresión del personaje
 
 - **Confirmado como dirección:** desarrollo mediante habilidades activas, habilidades pasivas y equipamiento.
@@ -226,6 +235,45 @@ Estas pasivas son ejemplos de dirección, no efectos aprobados ni exclusivos de 
 - La variedad de encuentros debe surgir de combinar ataques, comportamientos y unas pocas mecánicas concretas, sin convertir a cada enemigo en un sistema complejo.
 
 - **Pendiente:** definir el repertorio exacto de comportamientos normales, las características de los especiales, los ataques y movimientos distintivos de los jefes, las señales visuales concretas y el diseño de las zonas difíciles. Los enemigos y jefes individuales se diseñarán más adelante.
+
+## Inventario
+
+**Estado: PENDIENTE — propuesta inicial para revisar.** Referencias principales: organización por categorías y almacenamiento de Diablo IV; separación entre bolsa del personaje y depósitos de AION 2. La propuesta se adapta a nuestro proyecto y no presupone que vayamos a reproducir la estructura de MMO de AION 2.
+
+### Análisis y criterio de diseño
+
+- El inventario debe permitir recoger botín y gestionar objetos sin interrumpir constantemente la exploración o el combate.
+- Conviene separar visualmente los tipos de objetos mediante pestañas o categorías, en vez de mezclar equipo, consumibles, materiales y objetos de misión en una sola lista.
+- Se recomienda que cada objeto ocupe un espacio uniforme, sin tamaños distintos según su forma. Esto simplifica la interfaz, la organización y la adaptación a 2D.
+- Los materiales y consumibles apilables deben acumularse en una misma casilla hasta un límite por definir. El equipo y los objetos únicos ocupan espacios individuales.
+- Debe existir almacenamiento aparte para guardar lo que el personaje no necesita llevar encima. No se copiarán por ahora los distintos almacenes de personaje/servidor de AION 2, porque dependen de una estructura de personajes y MMO que todavía no hemos definido.
+- No se fijan todavía capacidad, cantidad de pestañas, límites de acumulación ni costes para ampliar espacios.
+
+### Propuesta inicial
+
+- **Bolsa del personaje:** contiene los objetos que lleva consigo y recibe el botín recogido.
+- **Categorías o pestañas:**
+  - **Equipo:** armas, armaduras, accesorios y demás piezas equipables.
+  - **Consumibles:** pociones, alimentos y objetos de uso.
+  - **Materiales:** recursos y componentes utilizados por otros sistemas.
+  - **Misiones y varios:** objetos de misión y objetos que no encajen en las categorías anteriores. Los objetos de misión importantes podrían mantenerse fuera del límite de espacio normal para evitar que bloqueen la bolsa.
+- **Espacios uniformes:** cada objeto ocupa una casilla, independientemente de su apariencia o tamaño.
+- **Acumulación:** materiales y consumibles compatibles pueden apilarse. El límite de cada pila queda pendiente.
+- **Orden y búsqueda:** incluir ordenar automáticamente y filtrar por categoría o tipo. La búsqueda por nombre puede evaluarse según el tamaño final del inventario.
+- **Acciones de objeto:** al seleccionar un objeto, mostrar las acciones que correspondan a su tipo, como equipar, usar o consultar información. Vender, desmontar, descartar, bloquear/favorito y otras acciones se definirán junto con los sistemas que las necesiten.
+- **Almacenamiento:** depósito separado de la bolsa, accesible en lugares designados del mundo. Su capacidad, organización y posible ampliación quedan pendientes.
+- **Comparación de equipo:** al seleccionar una pieza equipable, permitir compararla con la que lleva el personaje en la ranura correspondiente.
+- **Protección contra errores:** evaluar una opción para marcar objetos importantes como favoritos/bloqueados, evitando venderlos o descartarlos por accidente.
+
+### Decisiones pendientes de revisión
+
+- Confirmar si las categorías y pestañas propuestas son las adecuadas.
+- Decidir si el inventario tendrá capacidad limitada y, en ese caso, cómo se mide.
+- Definir los límites de acumulación de materiales y consumibles.
+- Definir el almacenamiento: capacidad, pestañas, acceso y ampliaciones.
+- Decidir qué objetos de misión quedan fuera del espacio normal.
+- Definir las acciones disponibles para cada tipo de objeto.
+- Decidir si habrá filtros avanzados, búsqueda y marcado de favoritos/bloqueo.
 
 ## Registro de exploración
 
