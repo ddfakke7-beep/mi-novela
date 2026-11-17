@@ -875,34 +875,55 @@ La estructura prioriza mazmorras, jefes, desafíos opcionales y actividades adic
 
 ## Mapa, territorios y desplazamiento
 
-**Estado: PENDIENTE — propuesta inicial, compatible con el registro de exploración ya planteado.**
+**Estado: APROBADO.** El mapa estará organizado por territorios y conectado con el registro de exploración. Su función será orientar y facilitar el desplazamiento, sin sustituir la exploración.
 
-### Mapa
+### Mapa y exploración
 
-Se propone que el mapa permita:
+El mapa permitirá:
 
-- Ver el territorio actual y sus zonas descubiertas.
-- Consultar puntos de interés, actividades y lugares importantes.
-- Revisar el registro de exploración y sus categorías.
-- Consultar secretos mediante pistas aproximadas, sin revelar su ubicación exacta.
-- Identificar lugares seguros, servicios y puntos de desplazamiento cuando se desbloqueen.
+- Consultar el territorio actual y sus zonas descubiertas.
+- Ver lugares importantes, mazmorras, jefes, actividades y puntos de interés.
+- Consultar el porcentaje y registro de exploración.
+- Identificar lugares seguros y puntos de viaje rápido.
+- Consultar pistas aproximadas de secretos, sin revelar su ubicación exacta.
 
-No se recomienda llenar el mapa con iconos de cada objeto menor. Los marcadores deben ayudar a orientarse, no sustituir la exploración.
+No se llenará el mapa con iconos de cada objeto o recurso pequeño. Los marcadores deben ayudar a orientarse, no sustituir el descubrimiento.
 
-### Desplazamiento rápido
+### Territorios
 
-Se propone desbloquear puntos de viaje rápido al descubrir o activar lugares importantes del territorio.
+- Cada territorio tendrá su propio mapa y registro de exploración.
+- El jugador podrá regresar a territorios anteriores cuando la historia y el contenido lo permitan.
+- Los territorios anteriores conservarán sus recompensas y contenido.
+- No habrá escalado automático de todos los enemigos para igualar el nivel del jugador.
 
-- El viaje rápido debería estar disponible desde el mapa cuando el jugador no esté en combate ni dentro de una situación que lo impida.
-- No consumir moneda ni materiales por cada viaje.
-- Los puntos deben ubicarse de forma que reduzcan recorridos tediosos sin eliminar la necesidad de explorar.
-- El jugador debe poder volver a territorios anteriores cuando el contenido lo permita.
+### Viaje rápido
 
-### Estructura del mundo
+- Se desbloqueará al descubrir o activar puntos importantes.
+- Se podrá utilizar desde el mapa.
+- No consumirá monedas ni materiales.
+- No estará disponible durante combates ni situaciones que lo impidan.
+- Su propósito será evitar recorridos innecesarios, no eliminar la exploración.
 
-La dirección narrativa ya contempla avanzar por distintas etapas, mundos o territorios y pasar al siguiente cuando el actual deje de representar el desafío adecuado. El sistema de mapa debe permitir esa progresión sin convertir el regreso en una carga.
+### Lugares seguros
 
-**Pendiente:** estructura de mapas, puntos de viaje, condiciones de regreso, selección de territorio y relación entre mapa y registro.
+Los lugares seguros podrán reunir servicios ya definidos, como almacenamiento, comerciantes, fabricación y mejoras. No hace falta que cada territorio tenga una ciudad enorme ni un NPC distinto para cada función; bastan lugares seguros bien distribuidos.
+
+### Avance entre territorios
+
+- El paso al siguiente territorio estará relacionado con la progresión de la historia.
+- No será obligatorio completar el 100% de exploración para avanzar.
+- Se podrá regresar a zonas anteriores si hay contenido pendiente o motivos para hacerlo.
+- El regreso no deberá convertirse en una carga.
+
+### Límites de diseño
+
+- Evitar mapas saturados de marcadores.
+- El viaje rápido no consumirá recursos.
+- No habrá escalado automático de todos los enemigos.
+- No se obligará a completar todo un territorio antes de continuar.
+- Los territorios anteriores no perderán completamente su utilidad.
+
+La estructura prioriza un mapa claro por territorio, registro de exploración, viaje rápido gratuito y libertad para regresar sin obligar a completar todo.
 
 ## Dificultad, muerte y guardado
 
