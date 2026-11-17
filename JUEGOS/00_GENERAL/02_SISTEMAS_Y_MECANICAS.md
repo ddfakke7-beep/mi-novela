@@ -461,39 +461,100 @@ La variedad exacta de piezas, sus propiedades y los niveles de mejora se definir
 
 ## Botín y obtención de objetos
 
-**Estado: PENDIENTE — propuesta inicial.**
+**Estado: APROBADO.** El botín procede de enemigos, jefes, cofres, misiones, actividades y exploración. Se combina una base de recompensas garantizadas con recompensas aleatorias complementarias. Los objetos importantes deben poder perseguirse mediante fuentes identificables, sin depender exclusivamente de probabilidades bajas.
 
 ### Fuentes de botín
 
-Se propone que los objetos y recursos se obtengan principalmente mediante:
+- **Enemigos normales:** principalmente experiencia, moneda y materiales comunes. Ocasionalmente podrán entregar consumibles.
+- **Enemigos especiales:** podrán entregar lo anterior y también equipo.
+- **Jefes:** podrán entregar equipo, objetos únicos, materiales especiales y recompensas propias.
+- **Cofres normales:** moneda, consumibles, materiales y, ocasionalmente, equipo.
+- **Cofres ocultos:** recompensas mejores o adicionales respecto a los cofres normales.
+- **Mazmorras y desafíos:** equipo, materiales y recompensas específicas de la actividad.
+- **Misiones:** recompensas seleccionadas según la importancia de la misión.
+- **Exploración y logros:** recompensas por descubrimientos y objetivos concretos.
 
-- Derrotar enemigos y jefes.
-- Abrir cofres y descubrir secretos.
-- Completar misiones y actividades.
-- Superar mazmorras y desafíos.
-- Recompensas de exploración y logros concretos.
-- Comerciantes o fabricación, si esos sistemas se aprueban.
+No todos los enemigos necesitan soltar equipo. Se evita que cada combate llene el inventario de piezas sin valor.
 
-Cada fuente debe tener una razón de existir. No todos los enemigos necesitan soltar equipo; los enemigos normales pueden entregar principalmente experiencia, moneda y materiales comunes, mientras que los especiales, jefes y actividades importantes pueden tener mejores posibilidades de dar equipo.
+### Recompensas garantizadas y aleatorias
 
-### Recompensas dirigidas
+El sistema combinará ambos métodos:
 
-Se recomienda que los contenidos importantes tengan recompensas reconocibles. Por ejemplo, un jefe o desafío podría entregar una pieza especial, un material concreto o una recompensa seleccionable.
+- Los contenidos importantes entregarán una recompensa útil y definida al completarlos por primera vez.
+- Las recompensas aleatorias podrán aparecer como complemento y aportar variedad.
+- Determinados jefes, desafíos o actividades tendrán objetos asociados que el jugador podrá perseguir.
+- Ningún desbloqueo importante dependerá exclusivamente de una probabilidad baja.
 
-La aleatoriedad puede aportar variedad, pero no debería obligar a repetir indefinidamente un encuentro para conseguir una pieza básica necesaria para progresar.
+Por ejemplo, derrotar a un jefe importante podrá garantizar una recompensa propia, mientras que conseguir piezas adicionales de su tabla de botín podrá depender de una probabilidad.
 
-### Recompensas repetidas
+### Botín de jefes y objetos únicos
 
-- Evitar que el jugador reciba constantemente objetos inútiles que solo llenen el inventario.
-- Las piezas que ya no sirven podrán venderse, desmontarse o convertirse en materiales, si se aprueban esas acciones.
-- Los duplicados de objetos especiales deberán tener una utilidad definida; no se debe permitir que se acumulen sin propósito.
-- No se propone por ahora un sistema complejo de intercambio entre jugadores.
+- Cada jefe importante tendrá una recompensa característica.
+- Algunos jefes podrán entregar objetos únicos diseñados específicamente para ellos.
+- Otros podrán entregar materiales necesarios para progresión o mejoras.
+- La primera derrota garantizará una recompensa importante.
+- Al repetir el combate se podrán conseguir recompensas adicionales, sin tener que volver a desbloquear lo que ya se consiguió.
 
-### Nivel y escalado del botín
+Los objetos únicos tendrán fuentes identificables para que el jugador sepa qué contenido debe completar para intentar conseguirlos.
 
-Se propone que las recompensas correspondan razonablemente al tramo de progresión del personaje y al desafío superado. No se recomienda que todos los objetos del mundo escalen automáticamente al nivel del jugador, porque eso puede hacer que la exploración y los territorios pierdan identidad.
+### Duplicados y recuperación de objetos únicos
 
-**Pendiente:** reglas de nivel de objeto, probabilidades, tablas de botín, recompensas garantizadas, duplicados y relación entre nivel del personaje y equipo.
+- El equipo repetido podrá venderse o descartarse.
+- No se entregarán duplicados inútiles de objetos únicos que el jugador ya posea.
+- **La posesión actual determina si el jugador puede volver a obtener un objeto único; el historial de adquisición no lo bloquea.**
+- Si el jugador vende o descarta un objeto único, podrá volver a conseguirlo mediante su fuente original.
+- Si el objeto está en el almacenamiento o equipado en otra configuración, cuenta como poseído y no se entregará otro duplicado.
+- Si el juego permite perder un objeto por alguna mecánica, deberá existir una forma de recuperarlo.
+- No se incorpora desmontaje de equipo inicialmente.
+
+La compensación concreta por recompensas repetidas que deban sustituirse se definirá junto con la economía y los materiales.
+
+### Nivel y progresión del botín
+
+- El equipo estará relacionado con la progresión de los territorios, no con un escalado automático de todo el mundo al nivel del jugador.
+- Cada territorio o etapa tendrá un rango de progresión esperado.
+- Los territorios posteriores ofrecerán equipo generalmente más potente.
+- Los enemigos y cofres de zonas anteriores conservarán sus recompensas originales.
+- El jugador podrá regresar a zonas anteriores y seguir encontrando sus recompensas, aunque ya no sean las más poderosas.
+
+### Aleatoriedad del equipo
+
+Inicialmente, las piezas tendrán estadísticas y propiedades definidas, en lugar de generar estadísticas aleatorias en cada caída.
+
+- Una pieza concreta conservará su identidad y sus estadísticas.
+- No habrá tiradas aleatorias de atributos en cada copia como sistema base.
+- La variedad vendrá de las distintas piezas, sus estadísticas, las rarezas aprobadas, las propiedades de los objetos únicos y las fuentes de cada actividad.
+
+Esto reduce el trabajo de balance y evita convertir el juego en una búsqueda interminable de la misma pieza con mejores números.
+
+### Repetición de contenido
+
+- Se podrá repetir contenido para conseguir recompensas adicionales.
+- No habrá energía ni intentos diarios obligatorios.
+- No se utilizarán probabilidades absurdamente bajas para objetos importantes.
+- No se obligará a repetir contenido fácil durante horas para conseguir materiales básicos.
+- La primera finalización podrá ofrecer recompensas especiales que no se repitan.
+- Las actividades repetibles deberán ofrecer recompensas útiles, no solamente experiencia cuando el personaje ya no la necesita.
+
+### Información sobre las recompensas
+
+En los contenidos importantes se podrá consultar:
+
+- Recompensas garantizadas.
+- Recompensas posibles.
+- Objetos únicos asociados a ese jefe o actividad.
+- Si una recompensa importante ya fue obtenida y si el jugador todavía posee el objeto correspondiente.
+
+No es necesario revelar todos los secretos del juego. Las recompensas ocultas podrán seguir siendo descubrimientos.
+
+### Criterios generales
+
+- Jugar y explorar debe ofrecer recompensas útiles.
+- El jugador debe poder perseguir objetivos concretos y conseguirlos mediante un esfuerzo razonable.
+- La aleatoriedad complementa la progresión, pero no debe controlar el acceso a desbloqueos fundamentales.
+- Las recompensas deben tener una utilidad clara y no llenar el inventario con objetos innecesarios.
+- Los valores, probabilidades y tablas concretas se definirán durante el desarrollo y el balance.
+
 
 ## Mejoras de equipo
 
