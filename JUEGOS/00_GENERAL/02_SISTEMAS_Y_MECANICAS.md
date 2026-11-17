@@ -330,6 +330,432 @@ El registro mostrará el porcentaje de exploración y el progreso de las categor
 - **Pendiente:** reglas exactas de muerte, recuperación, persistencia y guardado.
 - Los demás modos deberán poder configurarse sin duplicar todos los sistemas.
 
+## Equipo, botín y personalización de objetos
+
+**Estado: PENDIENTE — propuesta inicial completa para revisar.**
+
+### Criterio general
+
+El equipo debe dar progreso tangible y permitir ajustar estadísticas, pero no convertirse en una segunda progresión tan complicada que opaque las esencias y pasivas. La estructura ya acordada se conserva: las esencias definen efectos de combate, las pasivas los modifican o complementan y el equipo aporta principalmente estadísticas generales.
+
+La referencia útil de Diablo IV es la lectura rápida de atributos, la comparación de piezas y la posibilidad de mejorar un objeto que ya interesa. De AION 2 interesa estudiar la claridad de sus ranuras, equipo y rutas de obtención, no copiar sus capas de mejora o sus exigencias de MMO.
+
+### Ranuras propuestas
+
+Como punto de partida sencillo, se propone:
+
+- Arma.
+- Cabeza.
+- Pecho.
+- Manos.
+- Piernas o botas (se deberá decidir si conviene separarlas en dos ranuras).
+- Dos ranuras de accesorios.
+
+No se propone una ranura de objeto para cada parte imaginable del cuerpo. Tampoco se añade equipo secundario, talismanes, alas o piezas de apariencia con estadísticas hasta que exista una razón clara.
+
+**Criterio:** cada ranura debe tener una función legible y aportar decisiones reales. Si separar dos piezas solo aumenta el inventario y el trabajo de balance sin ofrecer una elección interesante, se mantienen unidas.
+
+### Estadísticas de las piezas
+
+- Cada pieza tendrá una o varias estadísticas principales adecuadas a su tipo.
+- Algunas piezas podrán incluir estadísticas secundarias para diferenciar objetos de la misma ranura.
+- Se priorizarán atributos ya contemplados en el sistema general: ataque, defensa, vida, crítico, daño crítico, velocidad y recuperación, entre otros que se aprueben.
+- Evitar que cada objeto tenga una lista enorme de atributos pequeños.
+- No introducir resistencias elementales o defensas específicas por enemigo como requisito de equipamiento.
+- El jugador deberá poder entender rápidamente si una pieza mejora daño, supervivencia o alguna característica concreta.
+
+**Pendiente:** lista de atributos por ranura, cantidad de atributos principales/secundarios y reglas para generar sus valores.
+
+### Rarezas y calidad
+
+Se propone una escala corta de rarezas, inspirada en la lectura visual de los ARPG:
+
+1. Común: pieza sencilla, útil al inicio o como material de referencia.
+2. Poco común: mejores valores o una estadística secundaria.
+3. Rara: combinación más interesante de atributos.
+4. Especial: objeto con una propiedad distintiva o una combinación poco habitual.
+
+Los nombres, colores y cantidad definitiva de rarezas quedan pendientes. No se recomienda crear muchas categorías que solo cambien el color y el número.
+
+La rareza no debe ser el único criterio para elegir equipo. Una pieza de menor rareza podría seguir siendo útil si sus atributos encajan mejor con la configuración del jugador.
+
+### Conjuntos y objetos únicos
+
+- **Conjuntos:** no se proponen como requisito inicial. Si se incorporan, sus bonificaciones deberán ser pequeñas y no obligar a usar piezas inferiores solo para completar un conjunto.
+- **Objetos únicos:** se podrán estudiar para recompensar jefes, desafíos o contenidos concretos. Deberán ofrecer una característica reconocible, no limitarse a tener números más altos.
+- No se crearán bonificaciones de conjunto o efectos únicos para cada esencia o combinación. Eso multiplicaría innecesariamente el trabajo de diseño y balance.
+
+### Comparación y gestión
+
+- Al seleccionar una pieza, mostrar la comparación directa con el objeto equipado en esa ranura.
+- La comparación debe presentar claramente qué estadísticas suben y cuáles bajan.
+- Se propone permitir bloquear o marcar como favorito un objeto para evitar venderlo, desmontarlo o descartarlo por error.
+- Se propone marcar como basura los objetos que el jugador ya decidió procesar, si posteriormente existe venta o desmontaje por lote.
+- Los objetos equipados no deberían poder descartarse accidentalmente mediante una acción rápida.
+
+### Conjuntos de equipo / configuraciones
+
+Se propone permitir guardar varias configuraciones del personaje. Cada configuración podría recordar:
+
+- Las tres esencias seleccionadas y cuál es la principal visual.
+- Las pasivas equipadas.
+- El equipo utilizado.
+- La pieza especial, si se conserva ese sistema.
+
+La intención es facilitar probar estilos distintos sin tener que reconstruir manualmente la configuración cada vez.
+
+**Límite recomendado:** comenzar con una cantidad pequeña de espacios guardados y ampliarla solo si el juego realmente lo necesita. No copiar de entrada la cantidad de presets de un MMO.
+
+**Pendiente:** número de configuraciones, si se puede cambiar en cualquier momento o solo fuera de combate, y qué elementos recuerda cada una.
+
+## Botín y obtención de objetos
+
+**Estado: PENDIENTE — propuesta inicial.**
+
+### Fuentes de botín
+
+Se propone que los objetos y recursos se obtengan principalmente mediante:
+
+- Derrotar enemigos y jefes.
+- Abrir cofres y descubrir secretos.
+- Completar misiones y actividades.
+- Superar mazmorras y desafíos.
+- Recompensas de exploración y logros concretos.
+- Comerciantes o fabricación, si esos sistemas se aprueban.
+
+Cada fuente debe tener una razón de existir. No todos los enemigos necesitan soltar equipo; los enemigos normales pueden entregar principalmente experiencia, moneda y materiales comunes, mientras que los especiales, jefes y actividades importantes pueden tener mejores posibilidades de dar equipo.
+
+### Recompensas dirigidas
+
+Se recomienda que los contenidos importantes tengan recompensas reconocibles. Por ejemplo, un jefe o desafío podría entregar una pieza especial, un material concreto o una recompensa seleccionable.
+
+La aleatoriedad puede aportar variedad, pero no debería obligar a repetir indefinidamente un encuentro para conseguir una pieza básica necesaria para progresar.
+
+### Recompensas repetidas
+
+- Evitar que el jugador reciba constantemente objetos inútiles que solo llenen el inventario.
+- Las piezas que ya no sirven podrán venderse, desmontarse o convertirse en materiales, si se aprueban esas acciones.
+- Los duplicados de objetos especiales deberán tener una utilidad definida; no se debe permitir que se acumulen sin propósito.
+- No se propone por ahora un sistema complejo de intercambio entre jugadores.
+
+### Nivel y escalado del botín
+
+Se propone que las recompensas correspondan razonablemente al tramo de progresión del personaje y al desafío superado. No se recomienda que todos los objetos del mundo escalen automáticamente al nivel del jugador, porque eso puede hacer que la exploración y los territorios pierdan identidad.
+
+**Pendiente:** reglas de nivel de objeto, probabilidades, tablas de botín, recompensas garantizadas, duplicados y relación entre nivel del personaje y equipo.
+
+## Mejoras de equipo
+
+**Estado: PENDIENTE — propuesta inicial.**
+
+Se propone un sistema de mejora directo y comprensible:
+
+- Mejorar una pieza aumenta sus estadísticas de forma controlada.
+- La mejora consume moneda y/o materiales obtenidos jugando.
+- La mejora no debería destruir el objeto ni reducir su nivel por fallar.
+- Evitar probabilidades de éxito, degradación, protección contra fallos y múltiples tipos de piedras en la primera versión.
+- Debe existir un límite razonable de mejora para que el equipo no se convierta en una progresión infinita difícil de equilibrar.
+- El jugador debe poder reconocer cuánto mejorará una pieza antes de confirmar el gasto.
+
+Se recomienda separar tres operaciones que no deben confundirse:
+
+1. **Mejorar:** aumentar los valores de una pieza.
+2. **Modificar:** cambiar una estadística o propiedad, si se incorpora esa opción.
+3. **Fabricar:** crear un objeto a partir de recursos, si se incorpora la fabricación.
+
+No se recomienda copiar de entrada el número de capas de templado, masterworking, rerolls, extracción y transferencia de Diablo IV. Primero debe funcionar bien la progresión básica.
+
+**Pendiente:** límite de mejora, costes, materiales, posibilidad de reiniciar mejoras y si realmente hace falta modificar atributos.
+
+## Materiales, recolección y fabricación
+
+**Estado: PENDIENTE — propuesta inicial.**
+
+### Recolección
+
+Se propone que los recursos aparezcan de forma natural en los territorios y puedan obtenerse explorando, interactuando con puntos de recolección o derrotando determinados enemigos.
+
+- Los recursos deben tener usos reconocibles.
+- No llenar el mundo de docenas de materiales que solo cambian de nombre.
+- Los puntos de recolección pueden registrarse en el mapa si forman parte del porcentaje normal de exploración.
+- No se propone energía, resistencia ni límites diarios para recolectar.
+- Evitar que el jugador tenga que recorrer repetidamente una ruta vacía esperando que reaparezcan recursos.
+
+### Fabricación
+
+Se propone empezar con una fabricación limitada a objetos útiles y comprensibles:
+
+- Consumibles básicos.
+- Materiales procesados necesarios para mejoras.
+- Algunas piezas de equipo o recompensas especiales, solo si aportan una ruta alternativa de obtención.
+
+No se propone inicialmente un sistema de profesiones múltiples con niveles independientes, recetas interminables y especializaciones. Eso sería mucho trabajo y podría convertir la fabricación en un juego separado.
+
+### Recetas
+
+- Las recetas importantes se desbloquean mediante exploración, misiones, jefes o progresión.
+- Una receta desbloqueada debería permanecer disponible.
+- Mostrar materiales requeridos y dónde se pueden conseguir, al menos mediante una referencia general.
+- Evitar recetas que exijan una cadena larga de materiales raros sin una recompensa proporcional.
+
+**Pendiente:** si habrá fabricación, qué objetos permite crear, cómo se consiguen recetas y cuántos materiales distintos necesita el juego.
+
+## Monedas y economía
+
+**Estado: PENDIENTE — propuesta inicial.**
+
+Se recomienda una economía pequeña, evitando muchas monedas que solo sirven para una tienda concreta.
+
+### Monedas propuestas
+
+- **Moneda común:** se obtiene jugando y se utiliza para servicios habituales, como comprar consumibles, vender objetos o pagar mejoras sencillas.
+- **Materiales de progresión:** recursos específicos para operaciones concretas, obtenidos de contenidos relacionados con su uso.
+- No crear una moneda diferente para cada territorio, jefe o actividad salvo que exista una función realmente distinta.
+
+### Comerciantes y servicios
+
+Se propone que existan puntos o personajes de servicio en lugares seguros del mundo, con funciones claras:
+
+- Comprar consumibles y objetos básicos.
+- Vender objetos que el jugador ya no necesita.
+- Mejorar equipo, si se aprueba ese sistema.
+- Fabricar objetos, si se aprueba la fabricación.
+- Acceder al almacenamiento.
+
+No es necesario que cada servicio tenga un NPC distinto. Se pueden agrupar funciones en una misma ubicación o interfaz para evitar viajes innecesarios.
+
+### Criterios económicos
+
+- Los precios deben tener una escala coherente con las recompensas.
+- No utilizar costes de reparación o mantenimiento como impuesto constante al jugador, salvo que se demuestre que aportan algo.
+- No introducir comercio entre jugadores ni una casa de subastas por defecto. Son sistemas ligados a economías multijugador y no se ha decidido que el juego sea un MMO.
+- Evitar que la moneda común pierda utilidad demasiado pronto o que se acumule sin ningún uso.
+
+**Pendiente:** nombre de la moneda, fuentes, gastos, servicios, posibilidad de venta y si habrá más de una moneda.
+
+## Misiones y objetivos
+
+**Estado: PENDIENTE — propuesta inicial.**
+
+Se propone una estructura de misiones sencilla, con objetivos claros y seguimiento desde un registro:
+
+### Tipos de misión
+
+- **Principal:** conduce la historia y el avance entre etapas, territorios o mundos.
+- **Secundaria:** desarrolla personajes, lugares, conflictos y acontecimientos locales; puede ofrecer recompensas útiles.
+- **Actividad o desafío:** propone una prueba concreta de combate, exploración o interacción.
+- **Descubrimiento:** se activa al encontrar un lugar, objeto, personaje o situación relevante.
+
+No todas las interacciones del mundo tienen que convertirse en una misión formal. Algunas pueden resolverse directamente mediante exploración.
+
+### Diseño de objetivos
+
+- Evitar objetivos de relleno como derrotar cantidades arbitrarias de enemigos sin contexto.
+- Cuando una misión pide combatir, explorar o conseguir algo, debe existir una razón dentro de la situación.
+- Los objetivos deben ser claros y el registro debe indicar qué falta.
+- Las misiones secundarias no deberían bloquear el avance principal salvo que exista una justificación narrativa importante.
+- No se propone un sistema de encargos diarios obligatorios.
+
+### Seguimiento y recompensas
+
+- Un diario o registro reúne misiones activas, completadas y descubrimientos relevantes.
+- La recompensa debe mostrarse antes de aceptar o completar cuando sea posible.
+- Las recompensas pueden incluir experiencia, moneda, equipo, materiales, desbloqueos o información del mundo.
+- Las misiones no deben ser la única fuente de progresión para cada sistema.
+
+**Pendiente:** estructura exacta del diario, límites de misiones activas, marcadores, seguimiento en pantalla, decisiones narrativas y recompensas.
+
+## Actividades, mazmorras y contenido repetible
+
+**Estado: PENDIENTE — propuesta inicial.**
+
+Se propone organizar el contenido en actividades reconocibles, sin convertir todas las zonas en listas de tareas repetitivas.
+
+### Tipos de contenido
+
+- **Mazmorras:** espacios delimitados con encuentros y un objetivo final. Pueden incluir un jefe, una secuencia de combate o una prueba ambiental.
+- **Jefes de territorio:** encuentros importantes ligados a la exploración, historia o progresión.
+- **Desafíos opcionales:** pruebas de dificultad elegible, como las áreas de tres niveles que ya se están considerando.
+- **Eventos locales:** situaciones que aparecen en el territorio y ofrecen una actividad breve.
+- **Secretos y exploración:** contenido opcional que recompensa observar y descubrir.
+- **Encuentros especiales:** combates o situaciones únicas que no necesitan convertirse en una mazmorra completa.
+
+### Repetición
+
+- El contenido repetible debe tener una recompensa útil o una razón de dominio personal.
+- No se recomienda obligar a repetir una mazmorra decenas de veces para conseguir un desbloqueo básico.
+- Se puede permitir repetir jefes y desafíos para conseguir recursos o mejorar resultados, pero el progreso principal no debe depender de una probabilidad extremadamente baja.
+- Evitar energía, tickets diarios o límites artificiales de intentos.
+
+### Dificultad
+
+Los desafíos de mayor dificultad deben exigir aprender patrones y responder mejor, no únicamente soportar más vida enemiga. Esta regla coincide con la dirección de combate ya acordada.
+
+**Pendiente:** qué actividades se repiten, cómo se reinician, sus recompensas, duración objetivo y si existen variantes de dificultad.
+
+## Mapa, territorios y desplazamiento
+
+**Estado: PENDIENTE — propuesta inicial, compatible con el registro de exploración ya planteado.**
+
+### Mapa
+
+Se propone que el mapa permita:
+
+- Ver el territorio actual y sus zonas descubiertas.
+- Consultar puntos de interés, actividades y lugares importantes.
+- Revisar el registro de exploración y sus categorías.
+- Consultar secretos mediante pistas aproximadas, sin revelar su ubicación exacta.
+- Identificar lugares seguros, servicios y puntos de desplazamiento cuando se desbloqueen.
+
+No se recomienda llenar el mapa con iconos de cada objeto menor. Los marcadores deben ayudar a orientarse, no sustituir la exploración.
+
+### Desplazamiento rápido
+
+Se propone desbloquear puntos de viaje rápido al descubrir o activar lugares importantes del territorio.
+
+- El viaje rápido debería estar disponible desde el mapa cuando el jugador no esté en combate ni dentro de una situación que lo impida.
+- No consumir moneda ni materiales por cada viaje.
+- Los puntos deben ubicarse de forma que reduzcan recorridos tediosos sin eliminar la necesidad de explorar.
+- El jugador debe poder volver a territorios anteriores cuando el contenido lo permita.
+
+### Estructura del mundo
+
+La dirección narrativa ya contempla avanzar por distintas etapas, mundos o territorios y pasar al siguiente cuando el actual deje de representar el desafío adecuado. El sistema de mapa debe permitir esa progresión sin convertir el regreso en una carga.
+
+**Pendiente:** estructura de mapas, puntos de viaje, condiciones de regreso, selección de territorio y relación entre mapa y registro.
+
+## Dificultad, muerte y guardado
+
+**Estado: PENDIENTE — propuesta inicial que desarrolla la dirección de dificultad ya conversada.**
+
+### Modos de dificultad
+
+- Se mantiene como objetivo de diseño que el juego pueda funcionar en Extremo.
+- Los modos de dificultad deberían cambiar principalmente las consecuencias y exigencia del juego, no obligar a duplicar todos los contenidos.
+- La dificultad normal debe permitir aprender sistemas y patrones sin que cada enemigo común se convierta en una amenaza excesiva.
+- Los retos opcionales pueden superar la dificultad habitual del territorio.
+
+### Muerte
+
+La posible pérdida de pasivas u otros avances al morir se ha mencionado como idea, pero no está aprobada. Se propone evaluar primero estas alternativas:
+
+1. **Consecuencia ligera:** reaparecer en un punto seguro y conservar el progreso, con una penalización limitada.
+2. **Consecuencia intermedia:** perder temporalmente algún recurso recuperable, sin perder desbloqueos permanentes.
+3. **Consecuencia extrema:** aplicar una pérdida más importante solo en el modo Extremo, con reglas explicadas antes de comenzar.
+
+No se recomienda que la muerte borre desbloqueos permanentes de esencias o pasivas que el jugador ya consiguió. Eso chocaría con la decisión previa de que los desbloqueos son permanentes y haría que probar configuraciones resultara frustrante.
+
+Si el modo Extremo contempla pérdida de progreso, deberá especificarse qué se pierde, qué se conserva y cómo se recupera. No debe quedar a interpretación.
+
+### Guardado
+
+Se propone:
+
+- Guardado automático en hitos razonables: cambios de zona, desbloqueos, recompensas importantes y puntos seguros.
+- Guardado manual desde lugares seguros o desde el menú, si la estructura técnica lo permite.
+- Registrar configuración, inventario, progreso de misiones, exploración, desbloqueos y estado de actividades.
+- Evitar que el jugador pierda progreso importante por cerrar el juego después de una recompensa.
+
+**Pendiente:** puntos de guardado, frecuencia, ranuras de partida, guardado manual, consecuencias por modo y reglas definitivas de muerte.
+
+## Interfaz, información y accesibilidad
+
+**Estado: PENDIENTE — propuesta inicial.**
+
+La interfaz debe mostrar información útil sin llenar la pantalla de barras, números e iconos.
+
+### Información durante el combate
+
+Se propone mostrar solo lo necesario:
+
+- Vida del personaje.
+- Barra de aturdimiento del enemigo cuando sea relevante.
+- Enfriamiento o disponibilidad de habilidad y definitiva.
+- Señales visuales de ataques enemigos, respetando la opción ya planteada para desactivar avisos adicionales.
+- Información de estado alterado solo si finalmente se aprueba un catálogo de estados.
+
+No se propone mostrar permanentemente todas las estadísticas del personaje durante el combate.
+
+### Menús
+
+Se propone separar las pantallas principales por función:
+
+- Personaje: estadísticas generales y equipo.
+- Esencias: selección de tres y esencia principal visual.
+- Pasivas: selección y desarrollo.
+- Inventario: objetos y materiales.
+- Mapa y exploración.
+- Misiones y registro.
+- Opciones.
+
+Se podrán agrupar pantallas relacionadas si la interfaz final lo hace más cómoda. La lista no obliga a crear un menú independiente para cada sistema.
+
+### Accesibilidad y ajustes
+
+Se propone considerar:
+
+- Ajuste de tamaño de texto e interfaz.
+- Volumen independiente para música, efectos y ambiente.
+- Reasignación de controles cuando la plataforma lo permita.
+- Opciones para reducir destellos, sacudidas de cámara y efectos visuales intensos.
+- Opción de desactivar señales visuales adicionales de ataques, ya contemplada en el diseño de combate.
+- Indicadores visuales y sonoros que no dependan exclusivamente de distinguir colores.
+
+**Pendiente:** diseño visual, distribución, controles, opciones de accesibilidad y cantidad de información en pantalla.
+
+## Contenido cosmético y apariencia
+
+**Estado: PENDIENTE — propuesta inicial.**
+
+Se propone separar la apariencia del personaje de sus estadísticas:
+
+- Si se incorporan piezas cosméticas, cambiarán la apariencia sin alterar el poder.
+- La esencia principal visual ya tiene una función de presentación: determinar la manifestación visual de los ataques sin dar ventajas mecánicas.
+- No se propone que conseguir una apariencia sea requisito para progresar.
+- Se podrá evaluar un sistema de guardar apariencias o combinaciones visuales, pero no hace falta diseñarlo antes de que exista suficiente contenido cosmético.
+
+**Pendiente:** personalización inicial, apariencias desbloqueables, transfiguración, tintes y relación entre cosméticos y equipo.
+
+## Sistemas que no se incorporan por defecto
+
+**Estado: PENDIENTE — criterio de alcance recomendado.**
+
+Para evitar que el proyecto se convierta en un MMO por acumulación de sistemas, no se consideran parte de la base hasta que exista una razón clara:
+
+- Comercio entre jugadores y casa de subastas.
+- Clanes, gremios y jerarquías sociales.
+- Mercado controlado por jugadores.
+- Energía o resistencia diaria para limitar actividades.
+- Pase de batalla, recompensas por asistencia diaria y tareas de inicio de sesión.
+- Múltiples monedas para cada actividad.
+- Profesiones complejas con progresión independiente.
+- Sistemas de mejora con fallos, destrucción o degradación del equipo.
+- Múltiples personajes jugables con progresión y almacenamiento compartidos.
+
+Esto no significa que estén prohibidos para siempre. Significa que no se añadirán solo porque existan en AION 2 u otros juegos. Primero debe estar justificada su función dentro de nuestro proyecto.
+
+## Orden propuesto para revisar los pendientes
+
+**Estado: PENDIENTE — planificación de revisión, no aprobación de los sistemas.**
+
+Para que la revisión sea ordenada y las decisiones de un sistema no contradigan otro, se propone este orden:
+
+1. Inventario y almacenamiento: categorías, capacidad y organización.
+2. Equipo: ranuras, estadísticas, rarezas y objetos especiales.
+3. Botín: fuentes, recompensas y duplicados.
+4. Mejoras de equipo: costes, límites y operaciones.
+5. Materiales y fabricación: recolección, recetas y utilidad.
+6. Monedas y comerciantes: economía y servicios.
+7. Misiones y registro: tipos, seguimiento y recompensas.
+8. Actividades y mazmorras: contenido repetible y desafíos.
+9. Mapa y desplazamiento: territorios, viaje rápido y regreso.
+10. Dificultad, muerte y guardado.
+11. Interfaz y accesibilidad.
+12. Cosméticos y apariencia.
+13. Revisión final de sistemas excluidos o que merezcan reconsiderarse.
+
+Este orden es una guía de trabajo. Si una decisión depende de otra, se podrá ajustar el orden sin aprobar automáticamente ninguna propuesta.
+
 ## Otros sistemas por diseñar
 
 - Inventario y almacenamiento.
