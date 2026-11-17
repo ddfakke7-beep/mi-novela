@@ -761,35 +761,62 @@ Las cantidades, precios y recompensas concretas se definirán durante el balance
 
 ## Misiones y objetivos
 
-**Estado: PENDIENTE — propuesta inicial.**
-
-Se propone una estructura de misiones sencilla, con objetivos claros y seguimiento desde un registro:
+**Estado: APROBADO.** El sistema general de misiones tendrá únicamente dos categorías: principales y secundarias. Los descubrimientos, desafíos, mazmorras y otras actividades pertenecen a sus respectivos sistemas de exploración y contenido, aunque puedan activar objetivos o misiones durante su desarrollo.
 
 ### Tipos de misión
 
-- **Principal:** conduce la historia y el avance entre etapas, territorios o mundos.
-- **Secundaria:** desarrolla personajes, lugares, conflictos y acontecimientos locales; puede ofrecer recompensas útiles.
-- **Actividad o desafío:** propone una prueba concreta de combate, exploración o interacción.
-- **Descubrimiento:** se activa al encontrar un lugar, objeto, personaje o situación relevante.
+- **Principales:** hacen avanzar la historia y conducen al protagonista hacia la siguiente etapa, territorio o mundo.
+- **Secundarias:** desarrollan personajes, lugares, conflictos y acontecimientos que complementan la historia principal.
 
-No todas las interacciones del mundo tienen que convertirse en una misión formal. Algunas pueden resolverse directamente mediante exploración.
+No todo descubrimiento, desafío o actividad necesita convertirse en una misión. Por ejemplo, un desafío puede estar disponible directamente en una zona específica; una mazmorra puede activar objetivos o una misión al entrar, sin crear una categoría general de misiones de mazmorra.
 
 ### Diseño de objetivos
 
-- Evitar objetivos de relleno como derrotar cantidades arbitrarias de enemigos sin contexto.
-- Cuando una misión pide combatir, explorar o conseguir algo, debe existir una razón dentro de la situación.
-- Los objetivos deben ser claros y el registro debe indicar qué falta.
-- Las misiones secundarias no deberían bloquear el avance principal salvo que exista una justificación narrativa importante.
-- No se propone un sistema de encargos diarios obligatorios.
+- Los objetivos deben tener una razón dentro de la situación.
+- Evitar encargos de relleno, como derrotar una cantidad arbitraria de enemigos sin contexto.
+- Las misiones pueden combinar combate, exploración, conversaciones, búsqueda e interacción con el entorno.
+- Los objetivos deben ser claros: el jugador tiene que entender qué necesita hacer.
+- Las misiones secundarias no bloquearán el avance de la historia principal, salvo que exista una razón narrativa importante.
 
-### Seguimiento y recompensas
+### Seguimiento
 
-- Un diario o registro reúne misiones activas, completadas y descubrimientos relevantes.
-- La recompensa debe mostrarse antes de aceptar o completar cuando sea posible.
-- Las recompensas pueden incluir experiencia, moneda, equipo, materiales, desbloqueos o información del mundo.
-- Las misiones no deben ser la única fuente de progresión para cada sistema.
+Un registro sencillo permitirá consultar:
 
-**Pendiente:** estructura exacta del diario, límites de misiones activas, marcadores, seguimiento en pantalla, decisiones narrativas y recompensas.
+- Misiones activas.
+- Misiones completadas.
+- Objetivo actual y progreso.
+
+El jugador podrá seleccionar una misión como objetivo principal para facilitar su seguimiento. No hace falta llenar la pantalla de indicadores permanentemente.
+
+### Recompensas
+
+Las misiones podrán entregar:
+
+- Experiencia.
+- Moneda.
+- Equipo y consumibles.
+- Materiales.
+- Desbloqueos permanentes.
+- Información o acceso a nuevos lugares y acontecimientos.
+
+Las recompensas importantes deberán ser claras. Un desbloqueo fundamental no dependerá de una probabilidad aleatoria.
+
+### Decisiones y consecuencias
+
+No se establece un sistema complejo de decisiones ramificadas para todas las misiones.
+
+Podrán incluirse decisiones narrativas cuando tengan sentido, pero no será obligatorio que cada misión tenga varias rutas, finales o consecuencias enormes.
+
+### Límites de diseño
+
+- No habrá encargos diarios obligatorios.
+- No se utilizarán misiones repetitivas como requisito para subir de nivel.
+- Se evitarán objetivos artificiales para alargar el contenido.
+- No se crearán cadenas de requisitos innecesarias.
+- La historia principal no estará bloqueada detrás del 100% de exploración.
+- No todo pequeño descubrimiento se convertirá en una misión formal.
+
+La estructura prioriza misiones principales y secundarias con objetivos y recompensas útiles. Los detalles concretos de cada misión se definirán al diseñar la historia y el contenido.
 
 ## Actividades, mazmorras y contenido repetible
 
