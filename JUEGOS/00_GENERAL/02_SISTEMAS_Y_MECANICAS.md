@@ -54,7 +54,7 @@ Se mantienen tres conceptos separados:
 |---|---|---|---|
 | **Ruptura** | Aturdimiento y vulnerabilidad | Acumular aturdimiento más rápido y aumentar el daño que recibe el enemigo durante la ventana de aturdimiento. También facilita interrumpir ataques que admitan interrupción, si la barra se completa antes de que comience la mecánica. | **Concepto aceptado provisionalmente; valores pendientes.** |
 | **Flujo** | Usos adicionales de habilidad | Concede usos adicionales de la habilidad del personaje. No añade una habilidad nueva ni exige encadenamientos o activaciones manuales especiales. Puede potenciar las mecánicas propias de determinados personajes al permitirles utilizar su habilidad con mayor frecuencia. | **En definición; dirección aceptada provisionalmente.** |
-| **Vitalidad** | Vida y resistencia | Mejorar la supervivencia, la recuperación y la capacidad de mantenerse en combate. | Pendiente de revisión. |
+| **Vitalidad** | Vida y recuperación | Aumenta la vida máxima y recupera un 25% de la vida máxima cada vez que el personaje activa su habilidad, incluidos los usos consecutivos y los usos adicionales concedidos por Flujo. | **Efecto principal aprobado; valores y balance complementario pendientes.** |
 | **Ruina** | Deterioro y desgaste | Debilitar al enemigo y causarle daño progresivo o efectos de desgaste. | Pendiente de revisión. |
 | **Umbral** | Marca y precisión | Premiar la precisión, las oportunidades y los ataques contra objetivos señalados o vulnerables. | Pendiente de revisión. |
 | **Arcanum** | Energía y proyección | Potenciar la energía, la proyección y la manifestación de las habilidades. | Pendiente de revisión. |
@@ -85,6 +85,28 @@ Los nombres y conceptos de las otras seis esencias se conservan únicamente como
 - **Función en el combate:** reduce el tiempo que los enemigos pueden presionar al jugador y crea ventanas más frecuentes o provechosas para atacar. Es una ventaja opcional, no un requisito para derrotar a ningún enemigo o jefe.
 
 **Pendiente de balance:** cuánto aumenta la acumulación de aturdimiento, cuánto daño adicional se recibe durante el aturdimiento, duración de la ventana y cómo escalan estos efectos entre enemigos normales y jefes.
+
+### Definición provisional de Vitalidad
+
+**Identidad:** ofrecer una opción de supervivencia mediante una mayor reserva de vida y curación directa al utilizar la habilidad del personaje.
+
+- **Vida máxima:** aumenta la vida máxima del personaje. La magnitud del aumento queda pendiente de balance.
+- **Curación por habilidad:** cada vez que el personaje activa su habilidad, recupera un 25% de su vida máxima.
+- **Cada activación cuenta:** la curación se aplica en cada uso de la habilidad, incluso cuando forma parte de una secuencia de usos consecutivos o cuando el uso adicional procede de Flujo. No se limita a una curación por secuencia.
+- **Sin condición de daño recibido:** no es necesario haber recibido daño para activar la curación. Si el personaje está a vida completa o solo ha perdido una pequeña cantidad, parte de la curación puede desperdiciarse.
+- **Sinergia con Flujo:** Flujo puede ofrecer más oportunidades de activar la habilidad y, por tanto, más oportunidades de curarse. Es una combinación defensiva deliberadamente segura; su potencia se revisará al probarla con cada personaje, sin descartarla preventivamente.
+- **Función en el combate:** permite priorizar comodidad y supervivencia. No debe ser obligatoria para superar enemigos o jefes.
+
+**Pendiente de balance:** cuánto aumenta la vida máxima y cómo se comporta la curación en personajes con habilidades de múltiples usos, cargas o secuencias.
+
+### Reglas de compatibilidad con el diseño de personajes
+
+- Al diseñar cada personaje se revisarán sus interacciones con las esencias, especialmente Flujo y Vitalidad.
+- Se comprobará cuántas veces puede activar su habilidad, qué recursos o efectos genera cada activación y cuánto puede curarse mediante Vitalidad.
+- Los personajes cuyas habilidades tengan varios usos consecutivos podrán estructurarlos como una secuencia: después de cada activación habrá una ventana limitada para activar el siguiente uso; si el jugador no continúa dentro de esa ventana, la secuencia termina y los usos restantes no quedan almacenados para más tarde.
+- Esta regla de continuación se aplica a las habilidades diseñadas expresamente como secuencias de usos consecutivos; no es una regla universal que obligue a todas las habilidades del juego a funcionar así.
+- Vitalidad cura en cada activación de habilidad, también durante estas secuencias. La ventana de continuación limita cuándo se pueden ejecutar los usos, no la cantidad de curaciones por secuencia.
+- Las combinaciones potentes se probarán con el kit completo del personaje. Se ajustarán cuando una interacción resulte realmente problemática, sin debilitar de antemano una esencia para todos por un caso particular.
 
 ### Selección y efectos de las esencias
 
@@ -159,7 +181,7 @@ Estas pasivas son ejemplos de dirección, no efectos aprobados ni exclusivos de 
 
 ### Decisiones pendientes
 
-- Revisar los nombres, conceptos y efectos de Flujo, Vitalidad, Ruina, Umbral, Arcanum y Dominio; sus descripciones actuales son provisionales y pueden modificarse o descartarse.
+- Revisar los nombres, conceptos y efectos de Ruina, Umbral, Arcanum y Dominio; sus descripciones actuales son provisionales y pueden modificarse o descartarse. Flujo y Vitalidad ya tienen una dirección de efecto aceptada, aunque sus valores y balance siguen pendientes.
 - Terminar de definir y balancear Ruptura.
 - Diseñar los efectos característicos de las esencias restantes una por una, después de revisarlas.
 - Decidir más adelante si se incorporan sinergias entre esencias; son opcionales y no forman parte de los requisitos actuales.
