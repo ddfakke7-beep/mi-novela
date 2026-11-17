@@ -708,36 +708,56 @@ Las cantidades concretas, recetas y valores se definirán durante el diseño de 
 
 ## Monedas y economía
 
-**Estado: PENDIENTE — propuesta inicial.**
+**Estado: APROBADO.** La economía utilizará una sola moneda general. Los materiales de progresión seguirán siendo materiales con usos concretos, no monedas alternativas.
 
-Se recomienda una economía pequeña, evitando muchas monedas que solo sirven para una tienda concreta.
+### Moneda principal
 
-### Monedas propuestas
+- Habrá una única moneda común para las compras y servicios habituales.
+- Se obtendrá jugando: derrotando enemigos, abriendo cofres, completando misiones y actividades, explorando y vendiendo objetos.
+- No habrá monedas exclusivas de territorios, jefes o actividades.
 
-- **Moneda común:** se obtiene jugando y se utiliza para servicios habituales, como comprar consumibles, vender objetos o pagar mejoras sencillas.
-- **Materiales de progresión:** recursos específicos para operaciones concretas, obtenidos de contenidos relacionados con su uso.
-- No crear una moneda diferente para cada territorio, jefe o actividad salvo que exista una función realmente distinta.
+### Gastos y usos
+
+La moneda se utilizará principalmente para:
+
+- Comprar consumibles y objetos básicos.
+- Pagar mejoras de equipo, junto con el material general de mejora ya aprobado.
+- Comprar determinados objetos a comerciantes.
+- Pagar otros servicios concretos únicamente si aportan una utilidad real.
+
+No se añadirán gastos artificiales cuyo único propósito sea retirar dinero al jugador.
 
 ### Comerciantes y servicios
 
-Se propone que existan puntos o personajes de servicio en lugares seguros del mundo, con funciones claras:
+- Los comerciantes y servicios estarán disponibles en lugares seguros.
+- Los comerciantes ofrecerán objetos útiles, principalmente consumibles y recursos básicos.
+- Las funciones de compra, venta, almacenamiento, fabricación y mejora podrán agruparse en una misma ubicación o interfaz. No hace falta crear un personaje distinto para cada servicio.
+- Se evitarán desplazamientos innecesarios para realizar operaciones habituales.
 
-- Comprar consumibles y objetos básicos.
-- Vender objetos que el jugador ya no necesita.
-- Mejorar equipo, si se aprueba ese sistema.
-- Fabricar objetos, si se aprueba la fabricación.
-- Acceder al almacenamiento.
+### Venta de objetos
 
-No es necesario que cada servicio tenga un NPC distinto. Se pueden agrupar funciones en una misma ubicación o interfaz para evitar viajes innecesarios.
+- El jugador podrá vender equipo y objetos que ya no necesite.
+- El valor de venta tendrá en cuenta factores generales como el tipo y la calidad del objeto; los valores concretos se definirán durante el balance.
+- Los objetos marcados como basura podrán venderse en grupo.
+- Los objetos protegidos y equipados no podrán venderse accidentalmente.
+- Los objetos únicos vendidos podrán recuperarse de su fuente original, de acuerdo con la regla de obtención de objetos únicos ya aprobada.
 
-### Criterios económicos
+### Límites de diseño
 
-- Los precios deben tener una escala coherente con las recompensas.
-- No utilizar costes de reparación o mantenimiento como impuesto constante al jugador, salvo que se demuestre que aportan algo.
-- No introducir comercio entre jugadores ni una casa de subastas por defecto. Son sistemas ligados a economías multijugador y no se ha decidido que el juego sea un MMO.
-- Evitar que la moneda común pierda utilidad demasiado pronto o que se acumule sin ningún uso.
+No se incorporarán por defecto:
 
-**Pendiente:** nombre de la moneda, fuentes, gastos, servicios, posibilidad de venta y si habrá más de una moneda.
+- Monedas distintas para cada territorio o actividad.
+- Costes de reparación del equipo.
+- Impuestos por viajar o utilizar servicios básicos.
+- Comercio entre jugadores ni casa de subastas.
+- Límites diarios para conseguir moneda.
+- Sistemas complejos de inversión o mercado.
+
+### Balance
+
+Los precios y recompensas deberán mantener una economía útil y razonable: el jugador debe poder comprar objetos que le sirvan, sin que la moneda pierda toda su utilidad demasiado pronto.
+
+Las cantidades, precios y recompensas concretas se definirán durante el balance, sin alterar las reglas generales aprobadas.
 
 ## Misiones y objetivos
 
