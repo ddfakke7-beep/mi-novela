@@ -183,13 +183,25 @@ Estas pasivas son ejemplos de dirección, no efectos aprobados ni exclusivos de 
 - Se priorizarán pocos efectos fáciles de entender y distinguir. Su inclusión deberá aportar decisiones o variedad real, no solo más iconos y estadísticas que administrar.
 - **Pendiente:** decidir qué estados concretos merecen existir, cómo se aplican, cuánto duran y cómo interactúan con enemigos y jefes.
 
-### Tipos de enemigos y diseño de encuentros
+### Tipos de enemigos, dificultad y diseño de encuentros
 
-**Dirección acordada:** diferenciar enemigos normales, especiales y jefes por la cantidad de atención y complejidad que exigen, no solo por sus estadísticas.
+**Dirección acordada:** mantener una estructura sencilla y escalable para la primera versión 2D, sin cerrar la posibilidad de ampliar comportamientos y mecánicas en una futura versión 3D.
 
-- **Enemigos normales:** aparecerán en cantidades relativamente grandes para que combatir contra grupos sea una parte divertida y fluida del juego. Tendrán ataques sencillos y reconocibles. La variedad podrá venir de comportamientos distintos, por ejemplo enemigos rápidos, lentos o a distancia; no necesitan mecánicas especiales complejas.
-- **Enemigos especiales:** serán más peligrosos o destacarán por alguna característica. Podrán tener ataques más fuertes y, cuando aporte valor, una o dos mecánicas particulares como referencia. No es obligatorio que todos tengan mecánicas; algunos podrán diferenciarse únicamente por sus ataques o comportamiento.
-- **Jefes:** podrán tener patrones más elaborados y mecánicas distintivas que exijan reaccionar, posicionarse o cambiar la forma de afrontar el combate. No todos necesitan acumular muchas mecánicas; se priorizará que sus mecánicas sean claras y memorables.
+- **Enemigos normales:** su dificultad individual será baja. Deben poder derrotarse con facilidad, independientemente de que el jugador tenga una configuración optimizada o no, y sin exigir una habilidad elevada. Su función principal será dar ritmo y diversión al combate mediante encuentros con grupos. La variedad vendrá de comportamientos sencillos (por ejemplo, cuerpo a cuerpo, a distancia, ágiles o pesados), no de mecánicas complejas.
+- **Enemigos especiales:** serán una amenaza mayor que los normales. Podrán destacar por golpes más fuertes, mayor resistencia o alguna característica/mecánica sencilla. Como referencia, se busca que tengan una o dos particularidades como máximo cuando realmente aporten algo; no necesitan combos elaborados ni un repertorio grande.
+- **Jefes:** tendrán un repertorio reducido y reconocible, evitando diseñar demasiados ataques y animaciones por jefe. Como referencia inicial de trabajo, podrían tener alrededor de 3 o 4 ataques habituales y 1 o 2 movimientos especiales/distintivos. No es una cuota obligatoria: algunos jefes podrán necesitar menos. Los movimientos distintivos pueden ser golpes muy dañinos, ataques que derriben al jugador, ataques de área u otras mecánicas concretas. Se prioriza que cada movimiento tenga una función clara, no acumular cantidad.
+
+**Dificultad del mundo y las zonas:**
+- La exploración y progresión normal no deben depender de que cada enemigo común sea difícil.
+- Se podrán diseñar determinadas áreas o encuentros especialmente difíciles, incluso opcionales o destinados a jugadores que busquen un reto mayor.
+- La dificultad elevada debe concentrarse donde tenga sentido, en vez de elevar artificialmente la dificultad de todos los enemigos normales.
+- No se ha definido todavía cómo se organizarán ni qué recompensas tendrán esas áreas difíciles.
+
+**Avisos visuales de ataques:**
+- Los ataques deben comunicar de forma clara qué va a hacer el enemigo y permitir reconocer si se aproxima un golpe normal o uno especial.
+- Se podrán utilizar señales visuales adicionales, como un brillo, aura o cambio de color, para distinguir los ataques y advertir de los más peligrosos.
+- Se contempla una opción de ajustes para desactivar esos efectos de aviso adicionales y aumentar el desafío.
+- Desactivar los avisos adicionales no eliminará las animaciones propias del enemigo ni sus movimientos anticipatorios: el jugador todavía podrá leer el ataque observando su animación. La presentación exacta de las señales queda pendiente.
 
 **Diseño de mecánicas de jefes:** se tomarán como referencia mecánicas y patrones de otros juegos, adaptándolos al combate de este proyecto. No es necesario inventarlo todo desde cero. Se conservará lo que aporte diversión y encaje con nuestras defensas y movimiento; se descartará lo que genere pausas innecesarias, persecuciones constantes o complejidad sin beneficio.
 
@@ -199,9 +211,9 @@ Estas pasivas son ejemplos de dirección, no efectos aprobados ni exclusivos de 
 - No basar la dificultad únicamente en aumentar la vida o el daño del enemigo.
 - Mantener oportunidades razonables para que el jugador ataque y responda.
 - Las mecánicas deben ser legibles y tener una respuesta comprensible; no deben anular arbitrariamente las opciones defensivas del jugador.
-- La variedad de encuentros debe surgir de combinar ataques, comportamientos y algunas mecánicas concretas, sin convertir a cada enemigo en un sistema complejo.
+- La variedad de encuentros debe surgir de combinar ataques, comportamientos y unas pocas mecánicas concretas, sin convertir a cada enemigo en un sistema complejo.
 
-- **Pendiente:** definir el repertorio de comportamientos de enemigos normales, qué características distinguirán a los especiales y qué mecánicas reutilizables podremos adaptar para los jefes. Los enemigos y jefes individuales se diseñarán más adelante.
+- **Pendiente:** definir el repertorio exacto de comportamientos normales, las características de los especiales, los ataques y movimientos distintivos de los jefes, las señales visuales concretas y el diseño de las zonas difíciles. Los enemigos y jefes individuales se diseñarán más adelante.
 
 ## Registro de exploración
 
