@@ -50,15 +50,29 @@ Se mantienen tres conceptos separados:
 
 | Esencia | Concepto central | Expresión en combate |
 |---|---|---|
-| **Ruptura** | Impacto y presión | Quebrar defensas, provocar impactos contundentes y castigar la resistencia enemiga. |
-| **Flujo** | Movimiento y continuidad | Favorecer la movilidad, la velocidad y la fluidez de las acciones. |
-| **Vitalidad** | Vida y resistencia | Mejorar la supervivencia, la recuperación y la capacidad de mantenerse en combate. |
-| **Ruina** | Deterioro y desgaste | Debilitar al enemigo y causarle daño progresivo o efectos de desgaste. |
-| **Umbral** | Marca y precisión | Premiar la precisión, las oportunidades y los ataques contra objetivos señalados o vulnerables. |
-| **Arcanum** | Energía y proyección | Potenciar la energía, la proyección y la manifestación de las habilidades. |
-| **Dominio** | Espacio y control | Influir en la posición de los enemigos y controlar áreas del campo de batalla. |
+| Esencia | Concepto central | Expresión en combate | Estado |
+|---|---|---|---|
+| **Ruptura** | Aturdimiento y vulnerabilidad | Acumular aturdimiento más rápido y aumentar el daño que recibe el enemigo durante la ventana de aturdimiento. También facilita interrumpir ataques que admitan interrupción, si la barra se completa antes de que comience la mecánica. | **En definición; dirección aceptada provisionalmente.** |
+| **Flujo** | Movimiento y continuidad | Favorecer la movilidad, la velocidad y la fluidez de las acciones. | Pendiente de revisión. |
+| **Vitalidad** | Vida y resistencia | Mejorar la supervivencia, la recuperación y la capacidad de mantenerse en combate. | Pendiente de revisión. |
+| **Ruina** | Deterioro y desgaste | Debilitar al enemigo y causarle daño progresivo o efectos de desgaste. | Pendiente de revisión. |
+| **Umbral** | Marca y precisión | Premiar la precisión, las oportunidades y los ataques contra objetivos señalados o vulnerables. | Pendiente de revisión. |
+| **Arcanum** | Energía y proyección | Potenciar la energía, la proyección y la manifestación de las habilidades. | Pendiente de revisión. |
+| **Dominio** | Espacio y control | Influir en la posición de los enemigos y controlar áreas del campo de batalla. | Pendiente de revisión. |
 
-Estos conceptos sirven como identidad y orientación inicial; no son todavía una lista cerrada de habilidades ni una limitación absoluta sobre los efectos que podrá tener cada esencia.
+Los nombres y conceptos de las otras seis esencias se conservan únicamente como propuestas anteriores; no están aprobados y podrán cambiarse, sustituirse o descartarse. Ruptura es la primera esencia que se está definiendo en detalle. Sus efectos y valores finales también quedan sujetos a balance.
+
+### Definición provisional de Ruptura
+
+**Identidad:** facilitar el aturdimiento de los enemigos y aprovechar la ventana de vulnerabilidad que se obtiene al completarlo. La esencia no concede una habilidad nueva que el jugador deba activar.
+
+- **Mayor acumulación de aturdimiento:** los ataques del personaje llenan más rápido la barra de aturdimiento del enemigo.
+- **Mayor daño durante el aturdimiento:** cuando el enemigo queda aturdido, recibe daño adicional durante esa ventana. Esto permite aprovechar mejor el tiempo en que está vulnerable y derrotarlo más rápido.
+- **Interrupción de ataques:** facilita llenar la barra antes de que el enemigo ejecute un ataque que admita interrupción. No permite cancelar cualquier movimiento ni ignora las reglas de los jefes.
+- **Mecánicas no interrumpibles:** si el jugador no completa la barra a tiempo y el jefe ya inició una mecánica que lo vuelve invulnerable a interrupciones, Ruptura no la cancela. El progreso de la barra se conserva; después de la mecánica, el jugador puede continuar acumulándolo hasta aturdir al jefe.
+- **Función en el combate:** reduce el tiempo que los enemigos pueden presionar al jugador y crea ventanas más frecuentes o provechosas para atacar. Es una ventaja opcional, no un requisito para derrotar a ningún enemigo o jefe.
+
+**Pendiente de balance:** cuánto aumenta la acumulación de aturdimiento, cuánto daño adicional se recibe durante el aturdimiento, duración de la ventana y cómo escalan estos efectos entre enemigos normales y jefes.
 
 ### Selección y efectos de las esencias
 
@@ -68,8 +82,8 @@ Estos conceptos sirven como identidad y orientación inicial; no son todavía un
 - De las tres esencias elegidas, el jugador señalará una como **esencia principal visual**. Esta elección determinará la apariencia o manifestación visual de los ataques.
 - La esencia principal visual no tendrá más poder, estadísticas ni peso mecánico que las otras dos. Cambiarla modificará la presentación visual, no el funcionamiento ni la potencia de la configuración.
 - Las tres esencias elegidas estarán activas en la configuración. Sus efectos característicos podrán coexistir, sujetos a condiciones y equilibrio.
-- **Sinergias entre esencias: opcionales y pendientes.** Se podrá estudiar si ciertas combinaciones generan efectos adicionales, pero no se considera un requisito del sistema. No se diseñarán ahora las 35 combinaciones ni se dará por hecho que todas necesitan una sinergia exclusiva. Si las sinergias complican demasiado el diseño o el desarrollo, el juego podrá funcionar sin ellas.
-- Con siete esencias y selecciones de tres distintas existen 35 combinaciones posibles, pero ese número no implica tener que crear 35 mecánicas, animaciones o efectos visuales exclusivos.
+- **Sinergias entre esencias: opcionales y pendientes.** Se podrá estudiar si ciertas combinaciones generan efectos adicionales, pero no se considera un requisito del sistema. No se diseñarán combinaciones exclusivas por obligación. Si las sinergias complican demasiado el diseño o el desarrollo, el juego podrá funcionar sin ellas.
+- No se establece como objetivo una cantidad concreta de combinaciones ni se presupone que cada combinación necesite mecánicas, animaciones o efectos visuales exclusivos.
 - Los efectos concretos, sus condiciones, frecuencias, valores y presentación visual quedan pendientes de diseño y balance.
 
 ### Pasivas
@@ -84,7 +98,7 @@ Ejemplos iniciales para orientar el diseño:
 
 | Esencia | Tres pasivas iniciales propuestas |
 |---|---|
-| **Ruptura** | Penetración de defensa; daño de impacto; daño adicional contra enemigos con defensas debilitadas. |
+| **Ruptura** | Pendiente de revisión: las pasivas específicas de esta esencia deberán complementar la acumulación de aturdimiento o el daño durante la ventana de aturdimiento, sin duplicar automáticamente su efecto principal. |
 | **Flujo** | Velocidad de movimiento; velocidad de ataque; recuperación de enfriamientos. |
 | **Vitalidad** | Regeneración de vida; robo de vida; resistencia al daño. |
 | **Ruina** | Daño progresivo; mayor duración de efectos de deterioro; daño adicional contra enemigos debilitados. |
@@ -133,8 +147,9 @@ Estas pasivas son ejemplos de dirección, no efectos aprobados ni exclusivos de 
 
 ### Decisiones pendientes
 
-- Confirmar los nombres y descripciones definitivos de las siete esencias.
-- Diseñar los efectos automáticos característicos de cada una de las siete esencias.
+- Revisar los nombres, conceptos y efectos de Flujo, Vitalidad, Ruina, Umbral, Arcanum y Dominio; sus descripciones actuales son provisionales y pueden modificarse o descartarse.
+- Terminar de definir y balancear Ruptura.
+- Diseñar los efectos característicos de las esencias restantes una por una, después de revisarlas.
 - Decidir más adelante si se incorporan sinergias entre esencias; son opcionales y no forman parte de los requisitos actuales.
 - Diseñar y equilibrar el catálogo de pasivas; las tres por esencia son solo una base inicial.
 - Definir cuántas pasivas se equipan y cómo se desarrollan.
@@ -173,7 +188,7 @@ Estas pasivas son ejemplos de dirección, no efectos aprobados ni exclusivos de 
 - **Diseño de dificultad:** los jefes no deberán volverse difíciles simplemente quitándole al jugador la posibilidad de esquivar o bloqueando artificialmente sus respuestas. La dificultad deberá venir de leer patrones, elegir la respuesta adecuada y gestionar las consecuencias. El jugador podrá superar encuentros usando principalmente esquiva, principalmente guardia o una combinación de ambas.
 - Algunos ataques enemigos podrán ser extremadamente peligrosos e incluso letales si el jugador no responde correctamente.
 - **Interrupciones al jugador:** no se plantea añadir un sistema general de interrupciones que cancele constantemente las acciones del personaje. La esquiva, la guardia y la invulnerabilidad de habilidad/definitiva ya ofrecen respuestas defensivas; evitar que recibir cualquier golpe corte continuamente las acciones es parte de la experiencia buscada.
-- **Aturdimiento de enemigos:** habrá una barra de aturdimiento que se llena al golpear al enemigo. Cuando se completa, el enemigo queda quieto/aturdido durante un intervalo. El efecto consiste en detenerlo; no añade automáticamente daño aumentado, vulnerabilidad especial ni una ventana de castigo con bonificaciones.
+- **Aturdimiento de enemigos:** habrá una barra de aturdimiento que se llena al golpear al enemigo. Cuando se completa, el enemigo queda quieto/aturdido durante un intervalo. Como regla general, el aturdimiento detiene al enemigo; la esencia **Ruptura** añade daño recibido durante esa ventana y permite acumular la barra más rápido. Sin Ruptura no se presupone ese aumento de daño.
 - **Derribos:** no se considera necesario incorporar un sistema general de derribos.
 - **Lanzamiento por el aire:** podrá aparecer como mecánica particular de determinados jefes o encuentros, no como una regla general para todos los enemigos.
 - **Pendiente:** definir duración y recuperación de la esquiva, ventana de invulnerabilidad, comportamiento y límites de la guardia, y qué ataques especiales admiten bloqueo o exigen otra respuesta. No se añadirá por ahora un sistema separado de contraataques u otras respuestas defensivas. También quedan pendientes estados alterados, valores de aturdimiento, daño y diseño de enemigos y jefes. El desplazamiento libre del personaje ya queda establecido como dirección.
