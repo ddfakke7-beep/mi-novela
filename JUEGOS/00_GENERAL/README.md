@@ -9,6 +9,7 @@ Documentación compartida del proyecto. Lo definido aquí debe servir como base 
 - [02 — Sistemas y mecánicas](02_SISTEMAS_Y_MECANICAS.md)
 - [03 — Mundo y contenido](03_MUNDO_Y_CONTENIDO.md)
 - [04 — Plan de desarrollo](04_PLAN_DE_DESARROLLO.md)
+- [05 — Combate, esencias y configuraciones (pendiente)](05_COMBATE_ESENCIAS_Y_CONFIGURACIONES_PENDIENTE.md)
 
 ## Regla de documentación
 
