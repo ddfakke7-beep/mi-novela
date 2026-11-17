@@ -294,11 +294,11 @@ Las interacciones del entorno deben ser directas y reconocibles. No todo objeto 
 ### Propuesta inicial
 
 - **Bolsa del personaje:** contiene los objetos que lleva consigo y recibe el botín recogido.
-- **Categorías o pestañas:**
+- **Organización por categorías — APROBADO:**
   - **Equipo:** armas, armaduras, accesorios y demás piezas equipables.
   - **Consumibles:** pociones, alimentos y objetos de uso.
   - **Materiales:** recursos y componentes utilizados por otros sistemas.
-  - **Misiones y varios:** objetos de misión y objetos que no encajen en las categorías anteriores. Los objetos de misión importantes podrían mantenerse fuera del límite de espacio normal para evitar que bloqueen la bolsa.
+  - **Misiones y varios:** objetos de misión y objetos que no encajen en las categorías anteriores. La decisión sobre si los objetos de misión ocupan espacio normal sigue pendiente.
 - **Espacios uniformes:** cada objeto ocupa una casilla, independientemente de su apariencia o tamaño.
 - **Acumulación:** materiales y consumibles compatibles pueden apilarse. El límite de cada pila queda pendiente.
 - **Orden y búsqueda:** incluir ordenar automáticamente y filtrar por categoría o tipo. La búsqueda por nombre puede evaluarse según el tamaño final del inventario.
@@ -309,7 +309,7 @@ Las interacciones del entorno deben ser directas y reconocibles. No todo objeto 
 
 ### Decisiones pendientes de revisión
 
-- Confirmar si las categorías y pestañas propuestas son las adecuadas.
+- **Aprobado:** cuatro categorías/pestañas: Equipo, Consumibles, Materiales y Misiones y varios.
 - Decidir si el inventario tendrá capacidad limitada y, en ese caso, cómo se mide.
 - Definir los límites de acumulación de materiales y consumibles.
 - Definir el almacenamiento: capacidad, pestañas, acceso y ampliaciones.
