@@ -55,7 +55,7 @@ Se mantienen tres conceptos separados:
 | **Ruptura** | Aturdimiento y vulnerabilidad | Acumular aturdimiento más rápido y aumentar el daño que recibe el enemigo durante la ventana de aturdimiento. También facilita interrumpir ataques que admitan interrupción, si la barra se completa antes de que comience la mecánica. | **Concepto aceptado provisionalmente; valores pendientes.** |
 | **Flujo** | Usos adicionales de habilidad | Concede usos adicionales de la habilidad del personaje. No añade una habilidad nueva ni exige encadenamientos o activaciones manuales especiales. Puede potenciar las mecánicas propias de determinados personajes al permitirles utilizar su habilidad con mayor frecuencia. | **En definición; dirección aceptada provisionalmente.** |
 | **Vitalidad** | Vida y recuperación | Aumenta la vida máxima y recupera un 25% de la vida máxima cada vez que el personaje activa su habilidad, incluidos los usos consecutivos y los usos adicionales concedidos por Flujo. | **Efecto principal aprobado; valores y balance complementario pendientes.** |
-| **Ruina** | Deterioro y desgaste | Debilitar al enemigo y causarle daño progresivo o efectos de desgaste. | Pendiente de revisión. |
+| **Ruina** | Marcas de deterioro | Acumular marcas al causar daño; cada marca aumenta el daño que recibe el enemigo. Las marcas disminuyen gradualmente si el jugador deja de atacar, pero se mantienen durante la presión constante y no se reinician por tiempo de forma abrupta. | **Dirección aceptada provisionalmente; valores y reglas de desgaste pendientes.** |
 | **Umbral** | Marca y precisión | Premiar la precisión, las oportunidades y los ataques contra objetivos señalados o vulnerables. | Pendiente de revisión. |
 | **Arcanum** | Energía y proyección | Potenciar la energía, la proyección y la manifestación de las habilidades. | Pendiente de revisión. |
 | **Dominio** | Espacio y control | Influir en la posición de los enemigos y controlar áreas del campo de batalla. | Pendiente de revisión. |
@@ -85,6 +85,19 @@ Los nombres y conceptos de las otras seis esencias se conservan únicamente como
 - **Función en el combate:** reduce el tiempo que los enemigos pueden presionar al jugador y crea ventanas más frecuentes o provechosas para atacar. Es una ventaja opcional, no un requisito para derrotar a ningún enemigo o jefe.
 
 **Pendiente de balance:** cuánto aumenta la acumulación de aturdimiento, cuánto daño adicional se recibe durante el aturdimiento, duración de la ventana y cómo escalan estos efectos entre enemigos normales y jefes.
+
+### Definición provisional de Ruina
+
+**Identidad:** aumentar progresivamente el daño que recibe el enemigo mediante marcas de deterioro, recompensando la presión ofensiva sostenida.
+
+- **Aplicación:** los impactos que causan daño al enemigo acumulan marcas de Ruina. La acumulación no depende únicamente del daño bruto; los valores por tipo de impacto quedan pendientes.
+- **Vulnerabilidad:** cada marca aumenta el daño que recibe el enemigo. La bonificación se aplica al daño del personaje que equipa la esencia; el juego está planteado alrededor de un único personaje controlado.
+- **Desgaste gradual:** si el jugador deja de atacar, las marcas comienzan a disminuir poco a poco, en lugar de desaparecer todas de golpe al terminar un temporizador.
+- **Mantenimiento:** seguir atacando mantiene la presión y evita perder toda la acumulación. La velocidad de pérdida, la recuperación o pausa del desgaste al golpear y el comportamiento durante fases invulnerables del jefe quedan pendientes de prueba.
+- **Sin detonación:** Ruina no necesita explotar ni causar daño independiente al alcanzar un umbral. Su recompensa es amplificar el daño que ya produce el personaje.
+- **Función en el combate:** favorece mantener una ofensiva constante y preparar ventanas de daño, sin obligar a reconstruir desde cero las marcas por una pausa breve o una mecánica del jefe.
+
+**Pendiente de balance:** cantidad de marcas, bonificación por marca y bonificación máxima, velocidad de acumulación, ritmo de desgaste y reglas durante transiciones o fases invulnerables. Se probarán varios niveles de bonificación antes de fijar cifras definitivas.
 
 ### Definición provisional de Vitalidad
 
@@ -135,7 +148,7 @@ Ejemplos iniciales para orientar el diseño:
 | **Ruptura** | Pendiente de revisión: las pasivas específicas de esta esencia deberán complementar la acumulación de aturdimiento o el daño durante la ventana de aturdimiento, sin duplicar automáticamente su efecto principal. |
 | **Flujo** | Velocidad de movimiento; velocidad de ataque; recuperación de enfriamientos. |
 | **Vitalidad** | Regeneración de vida; robo de vida; resistencia al daño. |
-| **Ruina** | Daño progresivo; mayor duración de efectos de deterioro; daño adicional contra enemigos debilitados. |
+| **Ruina** | Pendiente de revisión: las pasivas deberán complementar la acumulación o el mantenimiento de marcas, sin duplicar automáticamente la bonificación principal. |
 | **Umbral** | Probabilidad de crítico; daño crítico; daño adicional contra objetivos marcados o vulnerables. |
 | **Arcanum** | Generación de energía; daño de habilidades; reducción del coste de energía. |
 | **Dominio** | Alcance o área de efecto; daño contra enemigos agrupados; mayor eficacia de efectos de control. |
