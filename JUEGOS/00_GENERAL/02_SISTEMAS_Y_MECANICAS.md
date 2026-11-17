@@ -298,7 +298,13 @@ Las interacciones del entorno deben ser directas y reconocibles. No todo objeto 
   - **Equipo:** armas, armaduras, accesorios y demás piezas equipables.
   - **Consumibles:** pociones, alimentos y objetos de uso.
   - **Materiales:** recursos y componentes utilizados por otros sistemas.
-  - **Misiones y varios:** objetos de misión y objetos que no encajen en las categorías anteriores. La decisión sobre si los objetos de misión ocupan espacio normal sigue pendiente.
+  - **Misiones y varios:** objetos de misión y objetos que no encajen en las categorías anteriores.
+- **Distribución de capacidad — APROBADO:**
+  - **Equipo:** ocupa espacios individuales de la bolsa.
+  - **Consumibles:** se acumulan en pilas y cada pila ocupa un espacio.
+  - **Materiales:** se guardan en un registro propio y no consumen espacios de la bolsa.
+  - **Objetos importantes de misión:** no consumen espacios normales de la bolsa.
+  - Esta separación evita que la recolección de recursos o el avance de misiones bloqueen la capacidad para recoger equipo y consumibles.
 - **Espacios uniformes:** cada objeto ocupa una casilla, independientemente de su apariencia o tamaño.
 - **Acumulación:** materiales y consumibles compatibles pueden apilarse. El límite de cada pila queda pendiente.
 - **Orden y búsqueda:** incluir ordenar automáticamente y filtrar por categoría o tipo. La búsqueda por nombre puede evaluarse según el tamaño final del inventario.
@@ -310,7 +316,7 @@ Las interacciones del entorno deben ser directas y reconocibles. No todo objeto 
 ### Decisiones pendientes de revisión
 
 - **Aprobado:** cuatro categorías/pestañas: Equipo, Consumibles, Materiales y Misiones y varios.
-- Decidir si el inventario tendrá capacidad limitada y, en ese caso, cómo se mide.
+- **Aprobado:** capacidad diferenciada: equipo ocupa espacios individuales; consumibles se apilan y ocupan espacios por pila; materiales y objetos importantes de misión quedan fuera del límite de la bolsa.
 - Definir los límites de acumulación de materiales y consumibles.
 - Definir el almacenamiento: capacidad, pestañas, acceso y ampliaciones.
 - Decidir qué objetos de misión quedan fuera del espacio normal.
