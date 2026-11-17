@@ -820,31 +820,58 @@ La estructura prioriza misiones principales y secundarias con objetivos y recomp
 
 ## Actividades, mazmorras y contenido repetible
 
-**Estado: PENDIENTE — propuesta inicial.**
+**Estado: APROBADO.** El contenido se organizará en unas pocas categorías reconocibles. No se crearán actividades distintas que repitan la misma función.
 
-Se propone organizar el contenido en actividades reconocibles, sin convertir todas las zonas en listas de tareas repetitivas.
+### Mazmorras
 
-### Tipos de contenido
+- Serán zonas independientes o espacios delimitados dentro de un territorio.
+- Podrán contener enemigos, encuentros especiales, exploración, mecanismos y un jefe final.
+- Tendrán objetivos propios que podrán activarse al entrar o avanzar.
+- Algunas estarán relacionadas con la historia y otras serán opcionales.
+- Sus recompensas estarán definidas según su importancia.
+- No todas tendrán que seguir la misma estructura ni terminar obligatoriamente con un jefe.
 
-- **Mazmorras:** espacios delimitados con encuentros y un objetivo final. Pueden incluir un jefe, una secuencia de combate o una prueba ambiental.
-- **Jefes de territorio:** encuentros importantes ligados a la exploración, historia o progresión.
-- **Desafíos opcionales:** pruebas de dificultad elegible, como las áreas de tres niveles que ya se están considerando.
-- **Eventos locales:** situaciones que aparecen en el territorio y ofrecen una actividad breve.
-- **Secretos y exploración:** contenido opcional que recompensa observar y descubrir.
-- **Encuentros especiales:** combates o situaciones únicas que no necesitan convertirse en una mazmorra completa.
+### Jefes
 
-### Repetición
+- Los jefes importantes estarán vinculados a la historia, territorios o progresión.
+- También podrán existir jefes opcionales para conseguir recompensas adicionales.
+- Los encuentros podrán repetirse cuando tenga sentido, especialmente para obtener materiales o recompensas adicionales.
+- La primera victoria sobre un jefe importante garantizará su recompensa principal.
 
-- El contenido repetible debe tener una recompensa útil o una razón de dominio personal.
-- No se recomienda obligar a repetir una mazmorra decenas de veces para conseguir un desbloqueo básico.
-- Se puede permitir repetir jefes y desafíos para conseguir recursos o mejorar resultados, pero el progreso principal no debe depender de una probabilidad extremadamente baja.
-- Evitar energía, tickets diarios o límites artificiales de intentos.
+### Desafíos
 
-### Dificultad
+Los desafíos estarán disponibles en zonas o secciones específicas, separadas de las misiones normales.
 
-Los desafíos de mayor dificultad deben exigir aprender patrones y responder mejor, no únicamente soportar más vida enemiga. Esta regla coincide con la dirección de combate ya acordada.
+- Se mantienen tres niveles de dificultad como estructura inicial.
+- Cada nivel deberá exigir más habilidad y conocimiento de los patrones.
+- La dificultad no consistirá simplemente en multiplicar la vida y el daño de los enemigos.
+- Las recompensas aumentarán según la dificultad.
+- Serán opcionales y no requisitos para completar la historia.
 
-**Pendiente:** qué actividades se repiten, cómo se reinician, sus recompensas, duración objetivo y si existen variantes de dificultad.
+### Otros encuentros y actividades
+
+Podrán existir eventos locales, encuentros especiales y situaciones que aparezcan durante la exploración.
+
+No necesitan convertirse en sistemas independientes enormes. Se incorporarán cuando aporten algo interesante; si solo repiten contenido existente, no será necesario añadirlos.
+
+### Repetición y recompensas
+
+- Las mazmorras, los jefes y los desafíos podrán repetirse cuando corresponda.
+- No habrá energía, tickets ni límites diarios de intentos.
+- Las recompensas importantes no dependerán de repetir una actividad decenas de veces.
+- Los desbloqueos fundamentales tendrán recompensas garantizadas.
+- Repetir contenido servirá principalmente para conseguir recursos, equipo adicional o mejorar resultados.
+
+### Límites de diseño
+
+- Evitar mazmorras que solo cambien el aspecto de los enemigos.
+- No crear actividades repetitivas para alargar artificialmente el juego.
+- No esconder recompensas fundamentales detrás de probabilidades extremadamente bajas.
+- No imponer obligaciones diarias.
+- No crear variantes de dificultad que solo aumenten estadísticas.
+- Evitar demasiados modos que compitan por cumplir la misma función.
+
+La estructura prioriza mazmorras, jefes, desafíos opcionales y actividades adicionales solo cuando aporten variedad real. Los diseños concretos y recompensas se definirán al crear el contenido.
 
 ## Mapa, territorios y desplazamiento
 
