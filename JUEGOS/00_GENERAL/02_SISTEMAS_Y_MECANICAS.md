@@ -191,6 +191,14 @@ Estas pasivas son ejemplos de dirección, no efectos aprobados ni exclusivos de 
 - **Enemigos especiales:** serán una amenaza mayor que los normales. Podrán destacar por golpes más fuertes, mayor resistencia o alguna característica/mecánica sencilla. Como referencia, se busca que tengan una o dos particularidades como máximo cuando realmente aporten algo; no necesitan combos elaborados ni un repertorio grande.
 - **Jefes:** tendrán un repertorio reducido y reconocible, evitando diseñar demasiados ataques y animaciones por jefe. Como referencia inicial de trabajo, podrían tener alrededor de 3 o 4 ataques habituales y 1 o 2 movimientos especiales/distintivos. No es una cuota obligatoria: algunos jefes podrán necesitar menos. Los movimientos distintivos pueden ser golpes muy dañinos, ataques que derriben al jugador, ataques de área u otras mecánicas concretas. Se prioriza que cada movimiento tenga una función clara, no acumular cantidad.
 
+**Comportamiento básico e interrupciones:**
+- Los enemigos normales cuerpo a cuerpo seguirán una lógica sencilla: detectan al jugador, se acercan, atacan cuando están a distancia y vuelven a intentarlo. Los enemigos a distancia mantendrán una lógica equivalente adaptada a su alcance.
+- El jugador podrá tomar la iniciativa: atacar, usar la habilidad o la definitiva antes de que el enemigo consiga golpearlo.
+- **Interrupción de enemigos normales:** si un enemigo normal recibe un golpe mientras prepara un ataque, ese impacto podrá interrumpirlo y cancelar el ataque. No se necesita una barra ni un sistema adicional para esta reacción.
+- **Jefes:** no serán interrumpidos por los golpes normales del jugador durante sus ataques. Sus movimientos deben poder ejecutarse sin que el jugador los cancele simplemente manteniendo el ataque.
+- **Enemigos especiales:** queda pendiente decidir si algunos de sus ataques pueden interrumpirse o si tendrán resistencia a la interrupción. No se añadirá una regla compleja sin necesidad.
+- Esta interrupción por impacto es distinta de la barra de aturdimiento ya definida: la primera es una reacción puntual al recibir un golpe; la segunda se llena progresivamente y, al completarse, deja al enemigo quieto durante un intervalo.
+
 **Dificultad del mundo y las zonas:**
 - La exploración y progresión normal no deben depender de que cada enemigo común sea difícil.
 - Se podrán diseñar determinadas áreas o encuentros especialmente difíciles, incluso opcionales o destinados a jugadores que busquen un reto mayor.
