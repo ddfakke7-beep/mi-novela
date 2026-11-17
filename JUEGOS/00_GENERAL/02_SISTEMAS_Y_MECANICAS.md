@@ -2,7 +2,7 @@
 
 Registro de los sistemas que tendrá que definir el proyecto. Por ahora es un mapa de trabajo, no una especificación técnica cerrada.
 
-> **Estado:** las decisiones nuevas sobre exploración, secretos y recompensas son provisionales hasta terminar el diseño general.
+> **Estado general:** este documento reúne la base ya acordada y las propuestas iniciales de los sistemas que faltan. Cada apartado indica qué está confirmado y qué sigue pendiente; ninguna propuesta nueva se considera aprobada por aparecer aquí.
 
 ## Criterio de aprobación de sistemas
 
@@ -22,7 +22,7 @@ Registro de los sistemas que tendrá que definir el proyecto. Por ahora es un ma
 
 ## Progresión del personaje: nivel, esencias, pasivas y equipo
 
-**Estado: estructura provisional acordada.** La intención es permitir que el jugador consiga y pruebe distintas configuraciones sin repetir farmeo cada vez que quiera cambiar de estilo. Los nombres, efectos, cantidades y valores concretos podrán ajustarse durante el balance.
+**Estado: base acordada; detalles pendientes.** La intención es permitir que el jugador consiga y pruebe distintas configuraciones sin repetir farmeo cada vez que quiera cambiar de estilo. Se conservan las decisiones generales ya aceptadas; los nombres, efectos, cantidades y valores concretos que no se hayan confirmado siguen abiertos.
 
 ### Nivel y puntos de desarrollo
 
@@ -209,7 +209,7 @@ Estas pasivas son ejemplos de dirección, no efectos aprobados ni exclusivos de 
 - El jugador podrá tomar la iniciativa: atacar, usar la habilidad o la definitiva antes de que el enemigo consiga golpearlo.
 - **Interrupción de enemigos normales:** si un enemigo normal recibe un golpe mientras prepara un ataque, ese impacto podrá interrumpirlo y cancelar el ataque. No se necesita una barra ni un sistema adicional para esta reacción.
 - **Jefes:** no serán interrumpidos por los golpes normales del jugador durante sus ataques. Sus movimientos deben poder ejecutarse sin que el jugador los cancele simplemente manteniendo el ataque.
-- **Enemigos especiales:** queda pendiente decidir si algunos de sus ataques pueden interrumpirse o si tendrán resistencia a la interrupción. No se añadirá una regla compleja sin necesidad.
+- **Enemigos especiales:** pueden interrumpirse al recibir un golpe durante la preparación de un ataque, igual que los normales. Si un movimiento concreto necesita protección para funcionar correctamente, podrá indicarse expresamente; no se les concede inmunidad general.
 - Esta interrupción por impacto es distinta de la barra de aturdimiento ya definida: la primera es una reacción puntual al recibir un golpe; la segunda se llena progresivamente y, al completarse, deja al enemigo quieto durante un intervalo.
 
 **Dificultad del mundo y las zonas:**
@@ -235,6 +235,48 @@ Estas pasivas son ejemplos de dirección, no efectos aprobados ni exclusivos de 
 - La variedad de encuentros debe surgir de combinar ataques, comportamientos y unas pocas mecánicas concretas, sin convertir a cada enemigo en un sistema complejo.
 
 - **Pendiente:** definir el repertorio exacto de comportamientos normales, las características de los especiales, los ataques y movimientos distintivos de los jefes, las señales visuales concretas y el diseño de las zonas difíciles. Los enemigos y jefes individuales se diseñarán más adelante.
+
+## Ciclo general de juego
+
+**Estado: PENDIENTE — propuesta de conexión entre sistemas.**
+
+El ciclo principal debería ser fácil de entender y repetible sin convertirse en una lista obligatoria de tareas:
+
+1. **Explorar:** recorrer el territorio, descubrir lugares, personajes, recursos, secretos y actividades.
+2. **Encontrar situaciones:** entrar en encuentros, misiones, desafíos, mazmorras o acontecimientos del mundo.
+3. **Superar el contenido:** combatir, resolver una mecánica, interactuar o cumplir el objetivo correspondiente.
+4. **Obtener resultados:** recibir experiencia, objetos, materiales, moneda, información o desbloqueos según la actividad.
+5. **Desarrollar la configuración:** revisar equipo, esencias y pasivas; mejorar al personaje si hay una mejora útil.
+6. **Continuar:** abrir nuevas zonas, afrontar contenidos más exigentes o avanzar a otra etapa del mundo.
+
+Criterios:
+- No todas las actividades deben pasar obligatoriamente por los seis pasos. Una exploración pequeña puede dar una recompensa inmediata; una misión puede enlazar varias actividades.
+- No se debe obligar al jugador a volver a una base después de cada encuentro para poder seguir jugando.
+- La gestión de inventario, equipo y configuración debe poder hacerse en momentos razonables y no interrumpir cada acción.
+- La progresión debe combinar avance del personaje, descubrimiento del mundo y dominio del combate. Ninguno debería reducirse a repetir una única actividad.
+- Este ciclo es una guía para conectar sistemas, no una estructura rígida que todas las zonas deban repetir de la misma manera.
+
+## Interacción con el mundo
+
+**Estado: PENDIENTE — propuesta inicial.**
+
+Las interacciones del entorno deben ser directas y reconocibles. No todo objeto necesita un minijuego ni toda acción debe convertirse en una misión.
+
+### Tipos de interacción
+- **Acceso y mecanismos:** puertas, palancas, interruptores, mecanismos y rutas que se abren al cumplir una condición.
+- **Recolección:** recursos visibles que el jugador puede recoger o activar.
+- **Contenedores:** cofres, depósitos y recompensas del entorno.
+- **Personajes y servicios:** hablar, aceptar o entregar misiones, comprar, vender y acceder a servicios cuando estén disponibles.
+- **Elementos de descubrimiento:** lugares, señales, documentos u objetos que revelen información o registren un hallazgo.
+
+### Criterios
+- La interacción debe indicar claramente cuándo el jugador puede actuar y qué acción se espera.
+- Priorizar una acción contextual sencilla antes que asignar un botón distinto a cada tipo de objeto.
+- Si una interacción exige una condición —una llave, un desbloqueo, una misión o una mecánica—, comunicarla con claridad.
+- No convertir cada puerta, recurso o elemento decorativo en una interacción obligatoria.
+- Las interacciones importantes deben ser visibles o tener pistas razonables; evitar que el progreso dependa de probar cada objeto del escenario al azar.
+
+**Pendiente:** alcance de las interacciones, controles, condiciones, animaciones y qué objetos pueden registrarse como descubrimientos.
 
 ## Inventario
 
@@ -325,10 +367,7 @@ El registro mostrará el porcentaje de exploración y el progreso de las categor
 
 ## Muerte y dificultad
 
-- **Confirmado como dirección:** diseñar primero pensando en Extremo.
-- **Provisional:** los modos podrían diferenciarse por las consecuencias de morir, incluida la posible pérdida de pasivas u otros avances.
-- **Pendiente:** reglas exactas de muerte, recuperación, persistencia y guardado.
-- Los demás modos deberán poder configurarse sin duplicar todos los sistemas.
+La dirección general es diseñar el juego pensando primero en el modo Extremo. Las consecuencias concretas de morir, la recuperación y las diferencias entre modos se desarrollan en el apartado **Dificultad, muerte y guardado**, que es la referencia única para este sistema.
 
 ## Equipo, botín y personalización de objetos
 
@@ -734,6 +773,25 @@ Para evitar que el proyecto se convierta en un MMO por acumulación de sistemas,
 
 Esto no significa que estén prohibidos para siempre. Significa que no se añadirán solo porque existan en AION 2 u otros juegos. Primero debe estar justificada su función dentro de nuestro proyecto.
 
+## Auditoría de coherencia entre sistemas
+
+**Estado: criterio de diseño propuesto; se utiliza para detectar contradicciones antes de aprobar cada sistema.**
+
+Estas reglas sirven para que las decisiones de un apartado no rompan las de otro:
+
+1. **Desbloqueos permanentes frente a muerte:** morir no debe borrar esencias o pasivas ya desbloqueadas. Cualquier penalización extrema debe afectar, si se aprueba, a recursos o progreso recuperable claramente delimitados.
+2. **Inventario frente a botín y recolección:** los objetos obtenidos deben tener una categoría y un uso identificables. No se deben crear materiales sin una función prevista ni recompensas que llenen la bolsa sin aportar valor.
+3. **Equipo frente a esencias y pasivas:** el equipo aporta principalmente estadísticas generales; no debe exigir una combinación concreta de esencias para funcionar ni duplicar todos sus efectos.
+4. **Mejoras frente a economía:** cada coste debe tener una fuente y un uso comprensible. No se añadirán monedas o materiales exclusivos solo para justificar una operación.
+5. **Exploración frente a misiones:** el registro puede ayudar a completar el territorio, pero no debe convertir cada descubrimiento en una misión ni exigir el 100% para avanzar.
+6. **Actividades repetibles frente a progresión:** repetir contenido puede ofrecer recursos o recompensas adicionales, pero los desbloqueos fundamentales no deben depender de una probabilidad extremadamente baja o de intentos diarios obligatorios.
+7. **Dificultad frente a combate:** aumentar la dificultad debe exigir mejores decisiones y lectura de patrones, no contradecir las defensas ya definidas ni convertir a los enemigos comunes en esponjas de vida.
+8. **Interfaz frente a complejidad:** cada indicador, pestaña, atributo o menú debe resolver una necesidad real. Si dos elementos cumplen la misma función, se priorizará unificarlos.
+9. **Guardado frente a recompensas:** los desbloqueos y recompensas importantes deben persistir en hitos razonables para evitar pérdidas accidentales.
+10. **Alcance del proyecto:** ninguna referencia a AION 2 o Diablo IV justifica incorporar automáticamente funciones multijugador, economía de MMO o capas de progresión que no necesita nuestro juego.
+
+Antes de aprobar un sistema se comprobará su compatibilidad con estas reglas y con las decisiones ya confirmadas. Si aparece un conflicto, se corregirá la propuesta nueva antes de alterar una decisión aprobada.
+
 ## Orden propuesto para revisar los pendientes
 
 **Estado: PENDIENTE — planificación de revisión, no aprobación de los sistemas.**
@@ -756,14 +814,14 @@ Para que la revisión sea ordenada y las decisiones de un sistema no contradigan
 
 Este orden es una guía de trabajo. Si una decisión depende de otra, se podrá ajustar el orden sin aprobar automáticamente ninguna propuesta.
 
-## Otros sistemas por diseñar
+## Elementos aplazados para una fase posterior
 
-- Inventario y almacenamiento.
-- Equipo, rarezas, atributos y botín.
-- Recursos, fabricación y comercio, si encajan con el diseño.
-- Misiones, eventos y actividades.
-- Progresión de enemigos y jefes.
-- Viaje rápido y regreso a territorios anteriores.
-- Guardado, carga y gestión de partidas.
+Los siguientes detalles no necesitan resolverse durante la revisión de los sistemas generales. Se abordarán cuando exista suficiente contexto de contenido o producción:
 
-No implementar ni dar por aprobadas reglas concretas hasta que se definan en el proceso de diseño.
+- Diseño individual de personajes, enemigos, jefes, misiones y territorios.
+- Catálogo definitivo de objetos, recetas, consumibles, recompensas y apariencias.
+- Valores numéricos, probabilidades, fórmulas, costes y balance.
+- Diseño visual final de menús, HUD, iconos, efectos, animaciones y controles.
+- Implementación técnica, arquitectura, rendimiento y adaptación de 2D a una posible versión 3D.
+
+Aplazar estos detalles no significa olvidarlos ni aprobarlos por adelantado. Se definirán cuando los sistemas generales que los condicionan estén revisados.
