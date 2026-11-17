@@ -56,11 +56,11 @@ Se mantienen tres conceptos separados:
 | **Flujo** | Usos adicionales de habilidad | Concede usos adicionales de la habilidad del personaje. No añade una habilidad nueva ni exige encadenamientos o activaciones manuales especiales. Puede potenciar las mecánicas propias de determinados personajes al permitirles utilizar su habilidad con mayor frecuencia. | **En definición; dirección aceptada provisionalmente.** |
 | **Vitalidad** | Vida y recuperación | Aumenta la vida máxima y recupera un 25% de la vida máxima cada vez que el personaje activa su habilidad, incluidos los usos consecutivos y los usos adicionales concedidos por Flujo. | **Efecto principal aprobado; valores y balance complementario pendientes.** |
 | **Ruina** | Marcas de deterioro | Acumular marcas al causar daño; cada marca aumenta el daño que recibe el enemigo. Las marcas disminuyen gradualmente si el jugador deja de atacar, pero se mantienen durante la presión constante y no se reinician por tiempo de forma abrupta. | **Dirección aceptada provisionalmente; valores y reglas de desgaste pendientes.** |
-| **Umbral** | Marca y precisión | Premiar la precisión, las oportunidades y los ataques contra objetivos señalados o vulnerables. | Pendiente de revisión. |
+| **Umbral** | Potencia de definitiva | Aumenta un 25% el daño causado por la definitiva del personaje. No modifica su enfriamiento ni requiere condiciones adicionales. | **Efecto provisional definido; pendiente de pruebas de balance.** |
 | **Arcanum** | Energía y proyección | Potenciar la energía, la proyección y la manifestación de las habilidades. | Pendiente de revisión. |
 | **Dominio** | Espacio y control | Influir en la posición de los enemigos y controlar áreas del campo de batalla. | Pendiente de revisión. |
 
-Los nombres y conceptos de las otras seis esencias se conservan únicamente como propuestas anteriores; no están aprobados y podrán cambiarse, sustituirse o descartarse. Ruptura es la primera esencia que se está definiendo en detalle. Sus efectos y valores finales también quedan sujetos a balance.
+Los nombres y conceptos de Arcanum y Dominio se conservan únicamente como propuestas anteriores; no están aprobados y podrán cambiarse, sustituirse o descartarse. Ruptura, Flujo, Vitalidad, Ruina y Umbral tienen ya una dirección de diseño definida, aunque sus valores y detalles de balance siguen sujetos a pruebas.
 
 ### Definición provisional de Flujo
 
@@ -112,6 +112,17 @@ Los nombres y conceptos de las otras seis esencias se conservan únicamente como
 
 **Pendiente de balance:** cuánto aumenta la vida máxima y cómo se comporta la curación en personajes con habilidades de múltiples usos, cargas o secuencias.
 
+### Definición provisional de Umbral
+
+**Identidad:** potenciar el daño concentrado de la definitiva del personaje.
+
+- **Daño de definitiva:** aumenta un 25% el daño causado por la definitiva.
+- **Sin cambios al enfriamiento:** Umbral no reduce ni modifica el tiempo de reutilización de la definitiva.
+- **Sin condiciones adicionales:** la bonificación se aplica al daño de la definitiva sin exigir esquivas, golpes recibidos, marcas, ventanas especiales ni acumulación de recursos.
+- **Función en el combate:** favorece a personajes cuya definitiva concentra una parte importante de su daño y a jugadores que prefieren potenciar ese momento de burst. No pretende ser la mejor opción para todos los personajes.
+
+**Pendiente de pruebas de balance:** comprobar cómo afecta el 25% al daño total de distintos personajes y si la bonificación debe aplicarse a todos los componentes de la definitiva o excluir efectos que no sean daño directo.
+
 ### Reglas de compatibilidad con el diseño de personajes
 
 - Al diseñar cada personaje se revisarán sus interacciones con las esencias, especialmente Flujo y Vitalidad.
@@ -149,7 +160,7 @@ Ejemplos iniciales para orientar el diseño:
 | **Flujo** | Velocidad de movimiento; velocidad de ataque; recuperación de enfriamientos. |
 | **Vitalidad** | Regeneración de vida; robo de vida; resistencia al daño. |
 | **Ruina** | Pendiente de revisión: las pasivas deberán complementar la acumulación o el mantenimiento de marcas, sin duplicar automáticamente la bonificación principal. |
-| **Umbral** | Probabilidad de crítico; daño crítico; daño adicional contra objetivos marcados o vulnerables. |
+| **Umbral** | Pendiente de revisión: las pasivas deberán complementar el daño de la definitiva sin duplicar automáticamente su bonificación principal. |
 | **Arcanum** | Generación de energía; daño de habilidades; reducción del coste de energía. |
 | **Dominio** | Alcance o área de efecto; daño contra enemigos agrupados; mayor eficacia de efectos de control. |
 
