@@ -374,81 +374,90 @@ La dirección general es diseñar el juego pensando primero en el modo Extremo. 
 
 ## Equipo, botín y personalización de objetos
 
-**Estado: PENDIENTE — propuesta inicial completa para revisar.**
+**Estado: APROBADO.** El equipamiento normal ofrece progresión mediante estadísticas generales, sin exigir conjuntos distintos para cada combinación de esencias. La pieza especial ocupa una ranura independiente y complementa la configuración.
 
-### Criterio general
+### Ranuras de equipo
 
-El equipo debe dar progreso tangible y permitir ajustar estadísticas, pero no convertirse en una segunda progresión tan complicada que opaque las esencias y pasivas. La estructura ya acordada se conserva: las esencias definen efectos de combate, las pasivas los modifican o complementan y el equipo aporta principalmente estadísticas generales.
+El personaje tendrá **siete ranuras de equipo normal**:
 
-La referencia útil de Diablo IV es la lectura rápida de atributos, la comparación de piezas y la posibilidad de mejorar un objeto que ya interesa. De AION 2 interesa estudiar la claridad de sus ranuras, equipo y rutas de obtención, no copiar sus capas de mejora o sus exigencias de MMO.
+1. Arma.
+2. Cabeza.
+3. Pecho.
+4. Manos.
+5. Piernas y botas (una sola ranura).
+6. Accesorio 1.
+7. Accesorio 2.
 
-### Ranuras propuestas
+Las piernas y las botas se agrupan para evitar dividir el equipo en demasiadas piezas. Los dos espacios de accesorios permiten cierta variedad sin multiplicar ranuras innecesariamente.
 
-Como punto de partida sencillo, se propone:
+### Estadísticas
 
-- Arma.
-- Cabeza.
-- Pecho.
-- Manos.
-- Piernas o botas (se deberá decidir si conviene separarlas en dos ranuras).
-- Dos ranuras de accesorios.
+El equipo utilizará cinco estadísticas generales como base:
 
-No se propone una ranura de objeto para cada parte imaginable del cuerpo. Tampoco se añade equipo secundario, talismanes, alas o piezas de apariencia con estadísticas hasta que exista una razón clara.
+- Ataque.
+- Defensa.
+- Vida.
+- Probabilidad de crítico.
+- Daño crítico.
 
-**Criterio:** cada ranura debe tener una función legible y aportar decisiones reales. Si separar dos piezas solo aumenta el inventario y el trabajo de balance sin ofrecer una elección interesante, se mantienen unidas.
+No se incorporan por ahora resistencias elementales, resistencias específicas contra enemigos ni otras capas de estadísticas. Se prioriza que las piezas sean fáciles de comparar y que funcionen con distintas configuraciones de esencias.
 
-### Estadísticas de las piezas
+### Rarezas
 
-- Cada pieza tendrá una o varias estadísticas principales adecuadas a su tipo.
-- Algunas piezas podrán incluir estadísticas secundarias para diferenciar objetos de la misma ranura.
-- Se priorizarán atributos ya contemplados en el sistema general: ataque, defensa, vida, crítico, daño crítico, velocidad y recuperación, entre otros que se aprueben.
-- Evitar que cada objeto tenga una lista enorme de atributos pequeños.
-- No introducir resistencias elementales o defensas específicas por enemigo como requisito de equipamiento.
-- El jugador deberá poder entender rápidamente si una pieza mejora daño, supervivencia o alguna característica concreta.
+Se establecen cuatro rarezas:
 
-**Pendiente:** lista de atributos por ranura, cantidad de atributos principales/secundarios y reglas para generar sus valores.
+- **Común:** equipo básico, con valores sencillos.
+- **Poco común:** mejores valores o alguna estadística adicional.
+- **Raro:** combinaciones de estadísticas más interesantes.
+- **Único:** pieza con una propiedad distintiva diseñada para ella.
 
-### Rarezas y calidad
-
-Se propone una escala corta de rarezas, inspirada en la lectura visual de los ARPG:
-
-1. Común: pieza sencilla, útil al inicio o como material de referencia.
-2. Poco común: mejores valores o una estadística secundaria.
-3. Rara: combinación más interesante de atributos.
-4. Especial: objeto con una propiedad distintiva o una combinación poco habitual.
-
-Los nombres, colores y cantidad definitiva de rarezas quedan pendientes. No se recomienda crear muchas categorías que solo cambien el color y el número.
-
-La rareza no debe ser el único criterio para elegir equipo. Una pieza de menor rareza podría seguir siendo útil si sus atributos encajan mejor con la configuración del jugador.
+La rareza orienta sobre el tipo de pieza, pero no garantiza que cualquier objeto de mayor rareza sea automáticamente mejor para todas las configuraciones. La utilidad depende de sus estadísticas y propiedades.
 
 ### Conjuntos y objetos únicos
 
-- **Conjuntos:** no se proponen como requisito inicial. Si se incorporan, sus bonificaciones deberán ser pequeñas y no obligar a usar piezas inferiores solo para completar un conjunto.
-- **Objetos únicos:** se podrán estudiar para recompensar jefes, desafíos o contenidos concretos. Deberán ofrecer una característica reconocible, no limitarse a tener números más altos.
-- No se crearán bonificaciones de conjunto o efectos únicos para cada esencia o combinación. Eso multiplicaría innecesariamente el trabajo de diseño y balance.
+- No habrá bonificaciones de conjunto en la primera versión del sistema.
+- Sí podrán existir objetos únicos, obtenidos de jefes, desafíos u otras actividades relevantes.
+- Cada objeto único podrá tener una propiedad especial reconocible, en lugar de limitarse a ofrecer números más altos.
+- Los objetos únicos no estarán ligados obligatoriamente a una esencia concreta ni exigirán conseguir una pieza diferente para cada configuración.
 
-### Comparación y gestión
+### Comparación y protección de objetos
 
-- Al seleccionar una pieza, mostrar la comparación directa con el objeto equipado en esa ranura.
-- La comparación debe presentar claramente qué estadísticas suben y cuáles bajan.
-- Se propone permitir bloquear o marcar como favorito un objeto para evitar venderlo, desmontarlo o descartarlo por error.
-- Se propone marcar como basura los objetos que el jugador ya decidió procesar, si posteriormente existe venta o desmontaje por lote.
-- Los objetos equipados no deberían poder descartarse accidentalmente mediante una acción rápida.
+- Al seleccionar una pieza nueva, la interfaz la comparará con la pieza equipada en esa ranura y mostrará claramente los aumentos y reducciones de estadísticas.
+- El jugador podrá marcar objetos como favoritos o bloquearlos para protegerlos.
+- Los objetos equipados estarán protegidos contra el descarte accidental.
+- Se podrá marcar equipo como basura para facilitar su gestión posterior en lote, si la operación correspondiente está disponible.
 
-### Conjuntos de equipo / configuraciones
+### Configuraciones guardadas
 
-Se propone permitir guardar varias configuraciones del personaje. Cada configuración podría recordar:
+Se podrán guardar **tres configuraciones** inicialmente. Cada una recordará:
 
-- Las tres esencias seleccionadas y cuál es la principal visual.
-- Las pasivas equipadas.
-- El equipo utilizado.
-- La pieza especial, si se conserva ese sistema.
+- Las tres esencias seleccionadas.
+- La esencia principal visual.
+- Las pasivas configuradas.
+- El equipo normal de las siete ranuras.
+- La pieza especial equipada.
 
-La intención es facilitar probar estilos distintos sin tener que reconstruir manualmente la configuración cada vez.
+Cambiar entre configuraciones estará permitido fuera del combate, pero no durante un combate. La cantidad inicial de tres espacios podrá revisarse durante pruebas si resulta insuficiente o excesiva.
 
-**Límite recomendado:** comenzar con una cantidad pequeña de espacios guardados y ampliarla solo si el juego realmente lo necesita. No copiar de entrada la cantidad de presets de un MMO.
+### Pieza especial
 
-**Pendiente:** número de configuraciones, si se puede cambiar en cualquier momento o solo fuera de combate, y qué elementos recuerda cada una.
+Además de las siete ranuras normales, habrá **una ranura independiente para una pieza especial**.
+
+- La pieza ofrecerá una mejora concreta y significativa, sin convertirse en otra capa de bonificaciones indiscriminadas.
+- Podrá utilizarse con distintas configuraciones; no será necesario conseguir una pieza diferente para cada build.
+- Podrá mejorarse mediante la progresión del personaje.
+- Su función será distinta de las pasivas y del equipo normal: aportará un modificador particular, mientras el equipo normal proporciona estadísticas generales y las pasivas complementan los efectos de combate.
+
+La variedad exacta de piezas, sus propiedades y los niveles de mejora se definirán al desarrollar el contenido y el sistema de mejoras.
+
+### Criterios de equilibrio
+
+- El equipo no debe invalidar las esencias ni las pasivas.
+- No habrá afinidades obligatorias que hagan inservible una pieza al cambiar de configuración.
+- No se incorporan conjuntos en la primera versión.
+- Se priorizan estadísticas y propiedades fáciles de entender y comparar.
+- Los valores numéricos y el balance se definirán más adelante.
+
 
 ## Botín y obtención de objetos
 
