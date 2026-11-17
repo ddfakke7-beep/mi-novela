@@ -558,26 +558,76 @@ No es necesario revelar todos los secretos del juego. Las recompensas ocultas po
 
 ## Mejoras de equipo
 
-**Estado: PENDIENTE — propuesta inicial.**
+**Estado: APROBADO.** El equipo podrá mejorarse individualmente mediante un sistema directo, predecible y sin probabilidades de fallo. La mejora aumentará las estadísticas de la pieza y tendrá un límite para evitar una progresión infinita.
 
-Se propone un sistema de mejora directo y comprensible:
+### Niveles de mejora
 
-- Mejorar una pieza aumenta sus estadísticas de forma controlada.
-- La mejora consume moneda y/o materiales obtenidos jugando.
-- La mejora no debería destruir el objeto ni reducir su nivel por fallar.
-- Evitar probabilidades de éxito, degradación, protección contra fallos y múltiples tipos de piedras en la primera versión.
-- Debe existir un límite razonable de mejora para que el equipo no se convierta en una progresión infinita difícil de equilibrar.
-- El jugador debe poder reconocer cuánto mejorará una pieza antes de confirmar el gasto.
+- Cada pieza de equipo podrá mejorarse individualmente.
+- Cada mejora aumentará sus estadísticas principales de forma predecible.
+- El jugador podrá consultar el resultado antes de confirmar.
+- Se establece un límite inicial de **+10 por pieza**.
+- Las mejoras no cambiarán las propiedades especiales ni la identidad de la pieza.
 
-Se recomienda separar tres operaciones que no deben confundirse:
+### Costes y materiales
 
-1. **Mejorar:** aumentar los valores de una pieza.
-2. **Modificar:** cambiar una estadística o propiedad, si se incorpora esa opción.
-3. **Fabricar:** crear un objeto a partir de recursos, si se incorpora la fabricación.
+- Mejorar equipo consumirá **moneda común** y **materiales de mejora**.
+- Se utilizará un tipo general de material de mejora, sin crear materiales distintos para cada ranura o tipo de equipo.
+- Los materiales podrán obtenerse principalmente de enemigos especiales, jefes, desafíos y actividades.
+- Los territorios más avanzados podrán proporcionar mejores materiales o mayores cantidades.
+- Los costes aumentarán progresivamente: bajos en los primeros niveles, medios en los intermedios y altos en los últimos, pero siempre razonables.
+- Las cantidades concretas y la curva de costes se definirán durante el balance.
 
-No se recomienda copiar de entrada el número de capas de templado, masterworking, rerolls, extracción y transferencia de Diablo IV. Primero debe funcionar bien la progresión básica.
+### Éxito y penalizaciones
 
-**Pendiente:** límite de mejora, costes, materiales, posibilidad de reiniciar mejoras y si realmente hace falta modificar atributos.
+- Todas las mejoras tendrán éxito garantizado.
+- No habrá probabilidades de fallo.
+- El equipo no podrá destruirse, degradarse ni perder niveles al mejorarlo.
+- No habrá costes de reparación asociados a las mejoras.
+
+### Reinicio de mejoras
+
+- El jugador podrá reiniciar las mejoras de una pieza.
+- El reinicio será gratuito.
+- Se devolverá el **100 % de la moneda y los materiales invertidos** en sus mejoras.
+- La pieza regresará a su nivel de mejora original, pero conservará sus estadísticas base y propiedades especiales.
+
+Esto permite cambiar de equipo y experimentar sin castigar al jugador por los recursos invertidos anteriormente.
+
+### Modificación de estadísticas
+
+Inicialmente no se incorporará un sistema para modificar o volver a generar las estadísticas de las piezas.
+
+- No habrá rerolls de atributos.
+- No se podrán transferir propiedades entre piezas.
+- No se extraerán estadísticas ni mejoras.
+- Si una pieza no tiene las estadísticas deseadas, el jugador podrá buscar otra que se ajuste mejor.
+
+Estas operaciones podrán reconsiderarse más adelante solo si aparece una necesidad clara.
+
+### Objetos únicos y pieza especial
+
+- Los objetos únicos que formen parte del equipo normal utilizarán el mismo sistema de mejora que las demás piezas.
+- Conservarán su propiedad distintiva al mejorarse.
+- No necesitarán materiales ni reglas de mejora exclusivas.
+- La pieza especial tendrá una progresión independiente, que se definirá al desarrollar ese sistema.
+
+### Interfaz de mejora
+
+La interfaz permitirá:
+
+- Seleccionar una pieza.
+- Consultar su nivel de mejora actual.
+- Comparar las estadísticas actuales con las que tendrá después de mejorarla.
+- Consultar la moneda y los materiales necesarios.
+- Confirmar la mejora.
+- Reiniciar las mejoras y recuperar todos los recursos invertidos.
+
+### Criterios generales
+
+- Mejorar equipo debe potenciar una pieza que el jugador quiera conservar, no convertirse en una apuesta.
+- Los costes y aumentos deben ser claros antes de confirmar cualquier operación.
+- Se prioriza un sistema sencillo, reutilizable y fácil de equilibrar.
+- El límite, las cantidades, los valores de aumento y la curva de costes podrán ajustarse durante el balance sin cambiar las reglas generales aprobadas.
 
 ## Materiales, recolección y fabricación
 
