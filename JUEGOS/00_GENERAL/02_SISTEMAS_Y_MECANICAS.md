@@ -52,8 +52,8 @@ Se mantienen tres conceptos separados:
 |---|---|---|
 | Esencia | Concepto central | Expresión en combate | Estado |
 |---|---|---|---|
-| **Ruptura** | Aturdimiento y vulnerabilidad | Acumular aturdimiento más rápido y aumentar el daño que recibe el enemigo durante la ventana de aturdimiento. También facilita interrumpir ataques que admitan interrupción, si la barra se completa antes de que comience la mecánica. | **En definición; dirección aceptada provisionalmente.** |
-| **Flujo** | Movimiento y continuidad | Favorecer la movilidad, la velocidad y la fluidez de las acciones. | Pendiente de revisión. |
+| **Ruptura** | Aturdimiento y vulnerabilidad | Acumular aturdimiento más rápido y aumentar el daño que recibe el enemigo durante la ventana de aturdimiento. También facilita interrumpir ataques que admitan interrupción, si la barra se completa antes de que comience la mecánica. | **Concepto aceptado provisionalmente; valores pendientes.** |
+| **Flujo** | Usos adicionales de habilidad | Concede usos adicionales de la habilidad del personaje. No añade una habilidad nueva ni exige encadenamientos o activaciones manuales especiales. Puede potenciar las mecánicas propias de determinados personajes al permitirles utilizar su habilidad con mayor frecuencia. | **En definición; dirección aceptada provisionalmente.** |
 | **Vitalidad** | Vida y resistencia | Mejorar la supervivencia, la recuperación y la capacidad de mantenerse en combate. | Pendiente de revisión. |
 | **Ruina** | Deterioro y desgaste | Debilitar al enemigo y causarle daño progresivo o efectos de desgaste. | Pendiente de revisión. |
 | **Umbral** | Marca y precisión | Premiar la precisión, las oportunidades y los ataques contra objetivos señalados o vulnerables. | Pendiente de revisión. |
@@ -61,6 +61,18 @@ Se mantienen tres conceptos separados:
 | **Dominio** | Espacio y control | Influir en la posición de los enemigos y controlar áreas del campo de batalla. | Pendiente de revisión. |
 
 Los nombres y conceptos de las otras seis esencias se conservan únicamente como propuestas anteriores; no están aprobados y podrán cambiarse, sustituirse o descartarse. Ruptura es la primera esencia que se está definiendo en detalle. Sus efectos y valores finales también quedan sujetos a balance.
+
+### Definición provisional de Flujo
+
+**Identidad:** conceder más usos de la habilidad del personaje. Flujo no crea una habilidad nueva ni exige que el jugador active manualmente condiciones especiales, ejecute cadenas concretas o esté pendiente de ventanas temporales.
+
+- **Usos adicionales:** la habilidad del personaje dispone de más usos de los habituales antes de entrar en su enfriamiento normal. La cantidad exacta de usos adicionales y la forma de recuperación quedan pendientes de balance.
+- **Kit del personaje:** Flujo reutiliza la habilidad que ya tiene el personaje; no requiere crear una animación o un movimiento nuevo por defecto.
+- **Interacción con mecánicas propias:** los usos adicionales pueden permitir aprovechar con mayor frecuencia recursos o mecánicas particulares de ciertos personajes. Esto se considera una posibilidad intencional de personalización y profundidad, no un problema automático de equilibrio.
+- **Límites y excepciones:** se revisarán al diseñar cada personaje para evitar interacciones claramente defectuosas, sin eliminar preventivamente las combinaciones potentes o interesantes.
+- **Función en el combate:** ofrece más oportunidades de utilizar la habilidad y experimentar con el kit del personaje. Es una ventaja opcional; el combate debe seguir siendo viable sin Flujo.
+
+**Pendiente de balance y diseño de personajes:** cantidad de usos adicionales, enfriamiento, reglas de recuperación e interacciones concretas con cada kit. No se fijan cifras ni excepciones generales por adelantado.
 
 ### Definición provisional de Ruptura
 
