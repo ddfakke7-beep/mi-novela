@@ -90,9 +90,13 @@ El 100% del registro normal no será obligatorio para desbloquear la salida ni p
 
 ## Dificultad general
 
-La primera referencia de diseño será el modo Extremo. Los modos menos exigentes se podrán construir mediante reglas configurables, pero no se ha cerrado todavía la tabla de penalizaciones.
+La primera referencia de diseño será el modo Extremo. Las consecuencias de morir ya están definidas como dirección aprobada para los tres modos:
 
-La muerte y sus consecuencias son una mecánica importante por definir. La pérdida de pasivas, habilidades u otros elementos se mantiene como propuesta, no como regla final.
+- **Normal:** la muerte devuelve al jugador a un punto seguro o al último control de guardado, conservando el progreso registrado.
+- **Difícil:** la muerte devuelve al último guardado y se pierde todo lo obtenido desde entonces que todavía no se haya guardado.
+- **Extremo:** la muerte elimina la partida/run completa y obliga a empezar de nuevo, incluso si se había guardado.
+
+Las reglas completas de guardado, persistencia y alcance de la pérdida están desarrolladas en `02_SISTEMAS_Y_MECANICAS.md`, apartado «Dificultad, muerte y guardado».
 
 ## Identidad propia
 
