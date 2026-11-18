@@ -209,7 +209,7 @@ Estas pasivas son ejemplos de dirección, no efectos aprobados ni exclusivos de 
 
 ### Decisiones pendientes
 
-- Revisar los nombres, conceptos y efectos de Ruina, Umbral, Arcanum y Dominio; sus descripciones actuales son provisionales y pueden modificarse o descartarse. Flujo y Vitalidad ya tienen una dirección de efecto aceptada, aunque sus valores y balance siguen pendientes.
+- Revisar los conceptos y efectos de las diez esencias vigentes, especialmente las condiciones, valores y balance de aquellas cuya dirección todavía es provisional. Los nombres de Arcanum y Dominio pertenecen a la propuesta antigua y no forman parte de la lista actual.
 - Terminar de definir y balancear Ruptura.
 - Diseñar los efectos característicos de las esencias restantes una por una, después de revisarlas.
 - Decidir más adelante si se incorporan sinergias entre esencias; son opcionales y no forman parte de los requisitos actuales.
