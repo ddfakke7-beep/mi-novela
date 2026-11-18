@@ -44,24 +44,25 @@ Se mantienen tres conceptos separados:
 - Se buscará que el jugador pueda perseguir directamente el contenido que desbloquea lo que le interesa, sin cadenas de requisitos irrelevantes.
 - La cantidad exacta de puntos, los costes y los límites de selección siguen pendientes.
 
-### Las siete esencias principales
+### Las diez esencias principales
 
-**Propuesta provisional:** el sistema parte de siete esencias base. No son clases tradicionales ni obligan a adoptar un rol fijo. Cada una representa una naturaleza de poder y una orientación de combate.
+**Base vigente:** el sistema contempla diez esencias. No son clases tradicionales ni obligan a adoptar un rol fijo. Cada una representa una orientación o mecánica de combate que el jugador puede combinar con otras.
 
-| Esencia | Concepto central | Expresión en combate |
+| Esencia | Concepto central | Dirección de su efecto |
 |---|---|---|
-| Esencia | Concepto central | Expresión en combate | Estado |
-|---|---|---|---|
-| **Ruptura** | Aturdimiento y vulnerabilidad | Acumular aturdimiento más rápido y aumentar el daño que recibe el enemigo durante la ventana de aturdimiento. También facilita interrumpir ataques que admitan interrupción, si la barra se completa antes de que comience la mecánica. | **Concepto aceptado provisionalmente; valores pendientes.** |
-| **Flujo** | Usos adicionales de habilidad | Concede usos adicionales de la habilidad del personaje. No añade una habilidad nueva ni exige encadenamientos o activaciones manuales especiales. Puede potenciar las mecánicas propias de determinados personajes al permitirles utilizar su habilidad con mayor frecuencia. | **En definición; dirección aceptada provisionalmente.** |
-| **Vitalidad** | Vida y recuperación | Aumenta la vida máxima y recupera un 25% de la vida máxima cada vez que el personaje activa su habilidad, incluidos los usos consecutivos y los usos adicionales concedidos por Flujo. | **Efecto principal aprobado; valores y balance complementario pendientes.** |
-| **Ruina** | Marcas de deterioro | Acumular marcas al causar daño; cada marca aumenta el daño que recibe el enemigo. Las marcas disminuyen gradualmente si el jugador deja de atacar, pero se mantienen durante la presión constante y no se reinician por tiempo de forma abrupta. | **Dirección aceptada provisionalmente; valores y reglas de desgaste pendientes.** |
-| **Umbral** | Potencia de definitiva | Aumenta un 25% el daño causado por la definitiva del personaje. No modifica su enfriamiento ni requiere condiciones adicionales. | **Efecto provisional definido; pendiente de pruebas de balance.** |
-| **Arcanum** | Energía y proyección | Potenciar la energía, la proyección y la manifestación de las habilidades. | Pendiente de revisión. |
-| **Dominio** | Espacio y control | Influir en la posición de los enemigos y controlar áreas del campo de batalla. | Pendiente de revisión. |
+| **Ruptura** | Aturdimiento y vulnerabilidad | Acelerar la acumulación de aturdimiento, aumentar el daño durante la ventana de vulnerabilidad y facilitar la interrupción de ataques que admitan interrupción. |
+| **Flujo** | Usos adicionales de habilidad | Conceder usos adicionales de la habilidad propia del personaje, sin añadir una habilidad nueva. |
+| **Vitalidad** | Vida y recuperación | Aumentar la vida máxima y recuperar un 25% de la vida máxima cada vez que se activa la habilidad, incluidos los usos consecutivos y adicionales. |
+| **Ruina** | Marcas de deterioro | Aplicar marcas que aumentan el daño recibido por el enemigo y que disminuyen gradualmente cuando el jugador deja de atacar. |
+| **Umbral** | Potencia de definitiva | Aumentar un 25% el daño de la definitiva, sin modificar su enfriamiento ni exigir condiciones adicionales. |
+| **Contraataque** | Respuesta defensiva automática | Evitar automáticamente un ataque normal del jefe con una frecuencia limitada y responder con un contraataque de área. Las mecánicas especiales quedan excluidas. |
+| **Reflejo** | Esquiva y velocidad | Obtener una mejora temporal de velocidad de ataque después de realizar una esquiva perfecta. |
+| **Argonaut** | Carga y liberación | Acumular carga mediante acciones de combate, especialmente habilidades y ataques cargados, para añadir daño al liberarla mediante una acción. |
+| **Parry** | Interrupción ofensiva | Facilitar el parry y la interrupción de ataques enemigos que admitan interrupción, sin cancelar mecánicas no interrumpibles. |
+| **Parálisis** | Acumulación de control | Acumular un medidor que, al completarse, inmoviliza brevemente al enemigo. Después, el objetivo obtiene resistencia temporal para evitar el control repetido. |
 
-Los nombres y conceptos de Arcanum y Dominio se conservan únicamente como propuestas anteriores; no están aprobados y podrán cambiarse, sustituirse o descartarse. Ruptura, Flujo, Vitalidad, Ruina y Umbral tienen ya una dirección de diseño definida, aunque sus valores y detalles de balance siguen sujetos a pruebas.
-
+Los diez nombres anteriores constituyen la lista vigente del proyecto. Las direcciones descritas recogen lo conversado hasta ahora; los valores, condiciones exactas, duración, frecuencia, límites y balance de cada esencia continúan sujetos a revisión. No se deben recuperar Arcanum ni Dominio como esencias vigentes: pertenecían a una propuesta anterior de siete y quedan descartadas como parte de esa lista.
+ 
 ### Definición provisional de Flujo
 
 **Identidad:** conceder más usos de la habilidad del personaje. Flujo no crea una habilidad nueva ni exige que el jugador active manualmente condiciones especiales, ejecute cadenas concretas o esté pendiente de ventanas temporales.
@@ -134,7 +135,7 @@ Los nombres y conceptos de Arcanum y Dominio se conservan únicamente como propu
 
 ### Selección y efectos de las esencias
 
-- Una configuración utilizará **tres esencias distintas** elegidas entre las siete disponibles.
+- Una configuración utilizará **tres esencias distintas** elegidas entre las diez disponibles.
 - Cada esencia tendrá un **efecto característico propio**, que se manifestará automáticamente durante el combate según las condiciones de la configuración. No será una habilidad adicional que el jugador tenga que activar con un botón.
 - Los efectos de las esencias no tienen por qué modificar directamente los ataques básicos, las habilidades o la definitiva. La dirección actual es que funcionen como efectos de combate propios (por ejemplo, impactos, descargas, marcas o zonas), independientes de la estructura de habilidades del personaje.
 - De las tres esencias elegidas, el jugador señalará una como **esencia principal visual**. Esta elección determinará la apariencia o manifestación visual de los ataques.
@@ -156,13 +157,16 @@ Ejemplos iniciales para orientar el diseño:
 
 | Esencia | Tres pasivas iniciales propuestas |
 |---|---|
-| **Ruptura** | Pendiente de revisión: las pasivas específicas de esta esencia deberán complementar la acumulación de aturdimiento o el daño durante la ventana de aturdimiento, sin duplicar automáticamente su efecto principal. |
-| **Flujo** | Velocidad de movimiento; velocidad de ataque; recuperación de enfriamientos. |
-| **Vitalidad** | Regeneración de vida; robo de vida; resistencia al daño. |
-| **Ruina** | Pendiente de revisión: las pasivas deberán complementar la acumulación o el mantenimiento de marcas, sin duplicar automáticamente la bonificación principal. |
-| **Umbral** | Pendiente de revisión: las pasivas deberán complementar el daño de la definitiva sin duplicar automáticamente su bonificación principal. |
-| **Arcanum** | Generación de energía; daño de habilidades; reducción del coste de energía. |
-| **Dominio** | Alcance o área de efecto; daño contra enemigos agrupados; mayor eficacia de efectos de control. |
+| **Ruptura** | Impacto contundente; Aprovechamiento; Quiebre oportuno. |
+| **Flujo** | Ejecución fluida; Ritmo constante; Dominio técnico. |
+| **Vitalidad** | Constitución; Resistencia natural; Recuperación. |
+| **Ruina** | Herida profunda; Explotación de debilidad; Presión constante. |
+| **Umbral** | Poder absoluto; Impacto definitivo; Remate. |
+| **Contraataque** | Respuesta violenta; Onda de choque; Apertura. |
+| **Reflejo** | Instinto; Reacción veloz; Movimiento ágil. |
+| **Argonaut** | Acumulación; Carga técnica; Liberación. |
+| **Parry** | Instinto de combate; Defensa ofensiva; Castigo preciso. |
+| **Parálisis** | Acumulación anómala; Inmovilización; Objetivo expuesto. |
 
 Estas pasivas son ejemplos de dirección, no efectos aprobados ni exclusivos de cada esencia. Se podrán explorar otras opciones y distribuirlas donde tengan más sentido. No todas las pasivas tienen que ser únicas de una sola esencia.
 
@@ -193,7 +197,7 @@ Estas pasivas son ejemplos de dirección, no efectos aprobados ni exclusivos de 
 
 ### Principios de equilibrio y simplicidad
 
-- Las siete esencias deben ofrecer identidades y posibilidades útiles, sin que una sea obligatoria o claramente superior en todos los casos.
+- Las diez esencias deben ofrecer identidades y posibilidades útiles, sin que una sea obligatoria o claramente superior en todos los casos.
 - Los efectos automáticos de las esencias deben aportar identidad y variedad al combate sin exigir botones adicionales ni alterar obligatoriamente cada ataque básico, habilidad o definitiva.
 - Las sinergias entre esencias son opcionales; no se debe añadir complejidad solo por completar todas las combinaciones posibles.
 - Las pasivas, el equipo y la pieza especial deben ampliar las opciones, no invalidar unas configuraciones para hacer obligatorias otras.
