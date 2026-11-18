@@ -361,3 +361,59 @@ No todos los reencuentros necesitan una variante completa. Un desafío puede reu
 Queda por decidir qué peso tendrá el combate repetible de jefes frente a otras actividades del mundo: exploración, obtención de equipo, secretos, desafíos y progresión. Esta decisión determinará cuánto contenido nuevo se necesita y cuánto se puede apoyar en variantes y encuentros reutilizables.
 
 **Estado:** toda esta sección es una dirección propuesta y permanece PENDIENTE. No se han aprobado duraciones objetivo, cantidad de variantes, modos de repetición ni escalados.
+
+
+## 13. Estructura común de acciones del personaje — decisiones aprobadas
+
+**Estado: APROBADO como dirección general.** Los detalles concretos de cada personaje, sus animaciones, valores y condiciones se definirán más adelante.
+
+### Acciones comunes
+
+La estructura general del personaje contempla:
+
+- **Ataques básicos:** permiten mantener la presión y generar daño durante el combate.
+- **Ataque cargado:** se ejecuta manteniendo pulsado el botón de ataque. El input es común, pero el resultado depende del personaje.
+- **Habilidad:** cada personaje dispone de una habilidad con funcionamiento y enfriamiento propios. Algunos podrán tener usos consecutivos u otras particularidades si su diseño lo requiere.
+- **Definitiva:** cada personaje dispone de una definitiva propia, normalmente disponible mediante enfriamiento y sin exigir una barra de energía acumulada.
+
+### Ataque cargado: input común, resultado individual
+
+Mantener pulsado el botón de ataque no tiene por qué producir el mismo tipo de golpe en todos los personajes. Según su diseño, puede:
+
+- ejecutar un ataque especial o una acción adicional;
+- llenar una barra o acumular potencia para liberar golpes fuertes;
+- activar un estado mejorado que modifique los ataques básicos y la habilidad, y posiblemente también la definitiva;
+- adoptar otras variaciones propias del personaje.
+
+No todos los personajes tienen que utilizar todas estas posibilidades. El ataque cargado debe formar parte de su identidad y no convertirse automáticamente en una acción que siempre haya que mantener para conseguir el daño óptimo.
+
+### Habilidades
+
+La dirección aprobada es que cada personaje tenga una habilidad con su propio funcionamiento y enfriamiento. Se permiten diferencias entre personajes: usos consecutivos, secuencias con una ventana para continuar, habilidades que cambian en estados mejorados u otras particularidades. No se exige que todos compartan la misma estructura interna.
+
+### Definitivas
+
+Cada personaje tendrá una definitiva propia. Su disponibilidad se basará en enfriamiento, sin una barra de energía obligatoria. La definitiva puede adoptar distintas formas según el personaje: ataque de gran daño, secuencia de golpes, transformación/estado especial, ataque de área o efecto de apoyo/mejora. No todas tienen que limitarse a causar daño directamente.
+
+La definitiva podrá utilizarse durante el combate normal y no deberá depender obligatoriamente de que el jefe esté aturdido. Si el personaje está en un estado mejorado, su definitiva podría modificarse, siempre que el diseño particular lo justifique.
+
+### Relación entre daño constante y daño explosivo
+
+El jugador debe poder generar daño de forma continua mediante sus acciones habituales. También puede decidir guardar una habilidad, carga o definitiva para una oportunidad posterior, pero reservar recursos no debe ser una obligación para conseguir un daño razonable.
+
+Se admiten distintas fuentes de daño explosivo:
+- potencia inmediata mediante una habilidad o definitiva;
+- acumulación y liberación voluntaria de cargas o efectos;
+- ataques cargados o estados mejorados;
+- castigo durante una apertura del enemigo.
+
+Ninguna de estas fuentes debe imponer una rotación fija ni depender obligatoriamente del aturdimiento.
+
+### Límites de esta aprobación
+
+Esta aprobación define la dirección y estructura general, no el kit de ningún personaje concreto. Quedan pendientes:
+- tiempos de enfriamiento y cantidades de usos;
+- reglas exactas para secuencias de habilidades;
+- duración, coste y condiciones de estados mejorados;
+- interacción concreta entre ataque cargado, habilidad y definitiva de cada personaje;
+- valores de daño, equilibrio y tiempos de ejecución.
