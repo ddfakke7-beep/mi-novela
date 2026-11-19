@@ -115,8 +115,8 @@ Estas funciones podrían solaparse. Deben revisarse antes de fijarlas; no se deb
 
 Se mantienen como conceptos conversados, pero su posición exacta dentro de las cinco diosas y sus funciones definitivas deben revisarse bajo este nuevo marco.
 
-- **Diosa de la luz:** vinculada a proteger y guiar. Está relacionada con el Héroe actual y también acompañó al héroe de hace 500 años.
-- **Diosa oscura:** vinculada a destrucción y muerte, sin que eso implique odio a los seres vivos ni maldad moral. Está relacionada con Player, aunque el vínculo exacto sigue pendiente.
+- **Diosa de la luz:** vinculada a proteger y guiar. Acompañó al héroe de hace 500 años y, siglos después, acompaña al Héroe actual. Es la misma diosa en ambos casos; no acompaña a Player.
+- **Diosa oscura:** vinculada a destrucción y muerte, sin que eso implique odio a los seres vivos ni maldad moral. Es otra diosa distinta de la de la luz y acompaña a Player, el protagonista jugable. El motivo y la naturaleza de ese vínculo siguen pendientes.
 - Luz no equivale automáticamente al bien y oscuridad no equivale automáticamente al mal.
 - Las diosas no tienen por qué ser enemigas. Sus elegidos, seguidores u organizaciones sí pueden entrar en conflicto.
 - La idea anterior de que la diosa oscura tiene seguidores perseguidos y casi desaparecidos se conserva como propuesta provisional, pendiente de revisar con el nuevo marco de las cinco diosas.
@@ -167,7 +167,7 @@ Se mantienen como conceptos conversados, pero su posición exacta dentro de las 
 - Las marcas pueden comenzar siendo poco llamativas y manifestar cambios, crecimiento o brillo especial conforme el Héroe desarrolla sus capacidades.
 - La semejanza con el fenómeno del héroe de hace 500 años es lo que llama la atención de ciertas personas poderosas. Para la población común puede ser simplemente alguien que quizá llegue a ser fuerte; para personas ambiciosas o informadas, su aparición puede significar algo mucho mayor.
 - Las reacciones posibles incluyen entusiasmo por presenciar el surgimiento de alguien semejante al héroe legendario, interés por estudiar el fenómeno, temor a que se convierta en una amenaza incontrolable y deseos de eliminarlo antes de que alcance su potencial.
-- La misma diosa de la luz que acompañó al héroe de hace 500 años acompaña al Héroe actual.
+- La misma diosa de la luz que acompañó al héroe de hace 500 años acompaña al Héroe actual. Su acompañamiento se limita a esos dos héroes.
 - La diosa lo sigue porque percibe en él una resonancia o sinergia semejante a la que encontró en el héroe anterior. No debe actuar como si desconociera que el fenómeno puede repetirse: conoció al héroe antiguo y esperaba o contemplaba la posibilidad de una nueva aparición.
 - La diosa funciona como guía, no como maestra que resuelve todo ni como protagonista que actúa en su lugar. Puede orientarlo para controlar y comprender sus capacidades, comunicarse con él y prestarle asistencia limitada, pero no hacer sus tareas ni decidir por él.
 - La diosa puede ocultarse dentro de él o permanecer vinculada de una forma espiritual; el mecanismo concreto sigue pendiente.
@@ -194,7 +194,7 @@ Se mantienen como conceptos conversados, pero su posición exacta dentro de las 
 
 - Es el protagonista jugable y un personaje distinto del Héroe.
 - Su personalidad todavía no está decidida.
-- Está vinculado a la diosa oscura, pero no conoce necesariamente esa relación.
+- Está vinculado a la diosa oscura, que es distinta de la diosa de la luz y lo acompaña a él. Player no es acompañado por la diosa de la luz; la naturaleza y el motivo del vínculo con la diosa oscura siguen pendientes.
 - Su tragedia es excepcional y no consiste simplemente en perder personas cercanas.
 - Vive desgracias sucesivas y aprende de ellas, pero las tragedias continúan ocurriendo.
 - A pesar de caminar entre pérdidas y cadáveres, no pierde su humanidad.
@@ -259,7 +259,7 @@ Estas conexiones pueden investigarse, pero necesitan una explicación causal y n
 5. ¿Qué descubrió exactamente el héroe de hace 500 años sobre la naturaleza y los límites de su poder?
 6. ¿Qué método dejó preparado para el futuro y por qué él mismo no podía completarlo?
 7. ¿Qué es el Estigma que comparten ambos héroes y por qué aparecen sin un pasado confirmable?
-8. ¿Qué sabe la diosa de la luz sobre la repetición del fenómeno y por qué reconoce la resonancia del Héroe actual?
+8. ¿Qué sabe la diosa de la luz sobre la repetición del fenómeno y por qué reconoce la resonancia del Héroe actual? ¿Por qué la diosa oscura acompaña a Player y qué busca con él?
 9. ¿Qué tragedia y qué papel tendrá el Héroe actual, sin repetir la historia del antiguo?
 10. ¿Qué relación tiene Player con la diosa oscura y con el destino del mundo?
 
