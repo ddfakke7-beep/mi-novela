@@ -367,3 +367,58 @@ Resolver estas preguntas por dependencias, no inventando respuestas simultáneas
 - Las diosas van reconociendo las anomalías progresivamente. Sus percepciones del destino no equivalen a conocer el futuro ni a saber de antemano si el método funcionará.
 
 **Pendiente de concretar:** por qué la invocación pudo atraer a dos existencias en épocas diferentes; qué condiciones quedaron establecidas para la llegada del segundo; cómo se manifiesta y se reconoce la afinidad; si el deterioro de afinidad es reversible; por qué la sacerdotisa no pudo repetir el ritual; el origen de Player y la posibilidad de que sea una reencarnación; y el mecanismo exacto para abrir y cortar la conexión.
+
+
+## 12. La fuerza que encontró y sirve al Reiniciador
+
+**Estado: DIRECCIÓN GENERAL DEFINIDA; estructura pública, método de búsqueda y límites de la absorción todavía en desarrollo. Esta sección corrige y amplía la descripción anterior de la organización en el apartado 7.**
+
+### 12.1 Qué clase de fuerza es
+
+- No es una secta improvisada, un grupo de fanáticos insignificantes ni una organización desconocida que opera únicamente desde escondites.
+- Se trata de una fuerza excepcional y reconocida en el mundo. Sus integrantes han acumulado poder real mediante experiencia, entrenamiento y combates a muerte. Algunos pueden ser figuras conocidas o respetadas por sus propios méritos.
+- Lo que permanece oculto es su verdadera estructura interna, la identidad de su cabeza y, sobre todo, su relación con el Reiniciador. La fuerza puede tener presencia, recursos y actividades conocidas sin revelar quién dirige realmente sus operaciones ni cuál es su propósito secreto.
+- Su cabeza es uno de los maestros más poderosos del mundo. Su identidad como líder de esta estructura no es pública.
+- Bajo su mando hay subordinados, discípulos, guerreros de élite, investigadores y agentes. No todos tienen por qué conocer el secreto completo ni participar en las mismas tareas.
+- La discreción es una decisión estratégica: necesitan conservar acceso a recursos, información, instalaciones, personas y oportunidades sin provocar prematuramente a otras grandes fuerzas ni revelar qué están preparando.
+- No son personas que confunden al Reiniciador con un aliado amistoso. Comprenden que tienen delante a un monstruo y que servirlo implica someterse a algo que no controlan.
+
+### 12.2 La búsqueda del líder
+
+- El líder no encuentra al Reiniciador por accidente: llevaba tiempo buscándolo deliberadamente.
+- Su investigación parte de anomalías históricas relacionadas con amenazas extraordinarias y con las personas o fuerzas que aparecían junto a ellas.
+- Al estudiar a los individuos más poderosos y los acontecimientos del pasado, detecta patrones extraños: presencias vinculadas a esas amenazas y episodios históricos cuya información parece haber quedado especialmente protegida, restringida u oculta por las grandes fuerzas del mundo.
+- La protección y el silencio alrededor de esos sucesos despiertan todavía más su interés. No interpreta la falta de información como prueba de que no ocurrió nada; la considera una señal de que alguien poderoso tuvo motivos para impedir que se conociera.
+- Continúa investigando hasta localizar al Reiniciador actual.
+- Los detalles de qué archivos, testimonios, ruinas o rastros le permitieron reconstruir ese patrón siguen pendientes. No debe descubrirlo mediante una pista conveniente ni por una revelación casual.
+
+### 12.3 Por qué aceptan servirlo
+
+- La organización está obsesionada con la fuerza. Sus integrantes consideran que el poder es una de las expresiones más altas de la existencia y que superar sus propios límites justifica sacrificios extremos.
+- No son novatos que buscan poder sin comprender sus consecuencias. Muchos ya son individuos extraordinarios y han llegado a ese nivel tras sobrevivir a enfrentamientos reales.
+- Precisamente por su experiencia saben que existe un límite que quizá nunca podrían superar por sus propios medios.
+- El Reiniciador les ofrece una vía para aumentar una fuerza que creían haber llevado tan lejos como podían. A cambio, quedan sometidos a él: reciben poder, pero pierden parte de su libertad y pasan a ser sus servidores o esclavos.
+- Conocen el precio y lo aceptan. No necesitan creer que pueden controlar al Reiniciador, manipularlo o ganarse su favor.
+- La ambición del líder puede expresarse así: si ya se encuentra entre los seres más poderosos del mundo, servir al Reiniciador podría situarlo en una posición en la que solo exista alguien por encima de él. No busca convertirse en dueño de la criatura, sino alcanzar una cima que por sí solo considera inalcanzable.
+- Esta motivación no vuelve al líder un subordinado ingenuo. Es una decisión consciente, calculada desde su propia filosofía y ambición. Aun así, que comprenda el riesgo no significa que conozca todas las consecuencias de someterse al Reiniciador.
+- La organización sirve al Reiniciador; no se ha establecido que pueda dirigir sus decisiones ni que el Reiniciador dependa de su aprobación.
+
+### 12.4 El Reiniciador y la absorción
+
+- El Reiniciador no es humano. Por su naturaleza, puede consumir o absorber personas y otros organismos, y aprovechar algo de aquello que incorpora.
+- La absorción no es automática ni ilimitada: no todo lo que toca queda absorbido, y no debe funcionar como una copia instantánea y perfecta de cualquier ser.
+- La dirección que se está explorando es que pueda obtener aspectos de los organismos absorbidos, posiblemente recuerdos, experiencias, información o características concretas. Qué aspectos puede extraer y conservar todavía debe definirse.
+- No obtiene necesariamente el dominio de las habilidades, el poder completo, la personalidad ni la voluntad de aquello que absorbe.
+- El Reiniciador actual es joven y todavía no sabe aplicar muchas de sus capacidades. El universo le transmite conocimientos y recuerdos acumulados, pero recibir esa información no significa comprenderla ni saber utilizarla de inmediato.
+- La absorción podría ampliar lo que tiene a su disposición, pero también requiere que aprenda a procesar, interpretar y aprovechar lo obtenido. Su desarrollo no debe convertirse en una acumulación infinita de poderes sin coste ni límite.
+- Todavía no está decidido si la organización le proporciona personas para que las absorba, si lo hace para obtener información concreta, si el Reiniciador necesita consumir organismos para desarrollarse o si sus motivos son distintos. No asumir que los sacrificios son una necesidad biológica confirmada.
+
+### 12.5 Límites narrativos
+
+- La organización no controla todas las fuerzas del mundo ni es responsable de cada conflicto, experimento o desgracia.
+- Su poder debe ser excepcional, pero no omnipresente. Puede tener agentes, recursos e influencia sin conocer todos los acontecimientos ni poder intervenir en cualquier lugar.
+- No todos sus integrantes tienen que compartir la misma interpretación del poder, el mismo grado de conocimiento o la misma disposición a aceptar la esclavitud.
+- El líder puede ser hábil, experimentado y consciente del peligro sin ser infalible. Su error, si llega a cometer uno, no debe consistir simplemente en creer que puede domesticar al Reiniciador.
+- La verdadera naturaleza del Reiniciador y su función en el reinicio del mundo no son necesariamente conocidas por la organización. Servirlo por el poder que concede no implica comprender el propósito para el que fue creado.
+
+**Pendiente:** definir el nombre y la fachada pública de esta fuerza; cómo se oculta la identidad del líder; qué anomalías históricas investigó y qué fuerzas protegieron esos rastros; qué obtiene exactamente el Reiniciador al absorber organismos y bajo qué condiciones; qué tareas concretas cumple la organización para él; y cuánto sabe cada nivel de sus subordinados.
