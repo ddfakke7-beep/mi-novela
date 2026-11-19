@@ -70,57 +70,81 @@ Separar el desarrollo de la historia y el trasfondo del diseño de sistemas y me
 
 ## 3. Las cinco diosas
 
-**Estado: NUEVA DIRECCIÓN EN DESARROLLO. Sustituye como marco principal la hipótesis anterior de que las dos diosas conocidas fueran supervivientes de un grupo de pioneras.**
+**Estado: DIRECCIÓN GENERAL DEFINIDA; funciones individuales y detalles de personalidad pendientes.**
 
 ### 3.1 Naturaleza y origen
 
 - El universo crea un mundo y de ese mundo nacen cinco diosas.
-- Las diosas son parte del mundo: nacen con él y desaparecen cuando este termina o es reiniciado. No son entidades externas que sobreviven al mundo.
-- Su existencia está ligada a funciones fundamentales del mundo. No son necesariamente todopoderosas ni están concebidas principalmente para combatir.
-- Pueden realizar cosas que un humano no podría, pero su papel principal consiste en cuidar, regular o proteger aspectos esenciales de la existencia del mundo.
-- En principio no debían intervenir directamente en los asuntos cotidianos del mundo, pero lo hacen de manera indirecta.
-- Las diosas aman su mundo y a los seres que viven en él. No necesitan temer su propia desaparición para querer proteger a sus habitantes.
-- Para ellas, que el universo reinicie el mundo puede ser algo natural, no una maldad. La tragedia está en lo que ese final significa para la humanidad y las demás formas de vida.
+- Las diosas forman parte del mundo: nacen con él y desaparecen cuando este termina o es reiniciado. No son entidades externas que sobreviven al mundo.
+- Cada una está vinculada a una función, virtud o aspecto fundamental de la existencia del mundo. La naturaleza exacta de esas cinco funciones todavía debe definirse.
+- No son necesariamente todopoderosas ni existen principalmente para combatir. Pueden hacer cosas que un humano no podría, pero su papel está relacionado con cuidar, mantener o proteger aspectos esenciales del mundo.
+- Las cinco aman a la humanidad, aunque cada una expresa ese afecto de una manera distinta y coherente con su propia naturaleza.
+- No necesitan temer su propia desaparición para querer proteger a los habitantes. Para ellas, el reinicio puede formar parte del funcionamiento natural del universo, aunque quieran evitar el sufrimiento y la desaparición de quienes viven en el mundo.
 
-### 3.2 Interacción con los habitantes
+### 3.2 Conocimiento y experiencia
 
-- Las diosas pueden elegir discípulos, personas favorecidas o recipientes y concederles bendiciones.
-- Las bendiciones no tienen por qué convertir a sus elegidos en guerreros. Pueden producir efectos útiles y concretos relacionados con la función de cada diosa.
-- Ejemplo provisional: una bendición de la diosa de la vida podría permitir que una persona favorezca el crecimiento de cultivos, recupere tierras estériles o ayude a que surjan nuevas formas de vida.
+- Su longevidad les ha permitido acumular experiencias extraordinarias, pero no las vuelve omniscientes ni expertas automáticamente en todos los asuntos.
+- Conocer un acontecimiento no significa comprender todas sus causas, consecuencias o significados.
+- La experiencia de cada diosa depende de aquello con lo que ha interactuado. Una diosa puede haber existido durante siglos sin tratar de cerca con los humanos ni comprender sus costumbres, contradicciones o vínculos.
+- Su manera de interpretar el mundo debe derivarse de su propia virtud, función o elemento, no de una inteligencia universal que les permita resolver cualquier problema.
+- La diosa que acompañó al héroe de hace 500 años y acompaña al Héroe actual es la que más experiencia directa tiene con la humanidad. Eso no significa que siempre tenga razón ni que pueda solucionar los problemas de los demás.
+- Las diosas pueden equivocarse, sorprenderse, aprender y cambiar a partir de sus experiencias con los habitantes del mundo.
+
+### 3.3 Las cinco hermanas
+
+- Las cinco diosas mantienen entre sí un vínculo semejante al de una familia o al de distintas partes de un mismo conjunto.
+- Son hermanas en sentido relacional: no tienen que pensar igual ni llevarse perfectamente, pero existe un vínculo profundo entre ellas.
+- Pueden discutir, competir, bromear, molestarse o discrepar sobre cómo actuar. No necesitan ser enemigas ni querer destruirse.
+- Aunque sus perspectivas sean distintas, comparten el afecto por el mundo y sus habitantes. Sus diferencias no deben convertirse automáticamente en una guerra entre facciones divinas.
+- Sus personalidades y relaciones concretas todavía deben desarrollarse. No deben reducirse a cinco consejeras sabias que aparecen para explicar el mundo o resolver los problemas de los protagonistas.
+
+### 3.4 Interacción con los habitantes
+
+- Las diosas pueden elegir discípulos, personas favorecidas o individuos con quienes establecen algún tipo de vínculo, y concederles bendiciones.
+- Las bendiciones deben guardar relación con la naturaleza de cada diosa. No tienen por qué convertir a sus elegidos en guerreros: pueden producir efectos útiles y concretos relacionados con su función.
+- Ejemplo provisional: una bendición vinculada a la vida podría favorecer el crecimiento de cultivos, recuperar tierras estériles o ayudar a que surjan nuevas formas de vida.
 - No necesitan poseer físicamente a sus elegidos ni actuar directamente a través de ellos.
 - Sus bendiciones pueden influir en la cultura, las tradiciones, las organizaciones y la vida cotidiana.
-- El grado en que la población conoce su existencia sigue sin decidirse. Una posibilidad es que sean conocidas mediante religiones, leyendas y relatos, mientras que el conocimiento real de ellas y de sus bendiciones sea desigual.
+- El grado en que la población conoce su existencia y la naturaleza real de sus intervenciones sigue pendiente.
 
-### 3.3 Las cinco funciones posibles
+### 3.5 Las cinco funciones posibles
 
 **Estado: PROPUESTAS PENDIENTES; no son nombres ni funciones aprobadas.**
 
-1. **Vida:** permite que nazcan y surjan nuevas formas de vida.
-2. **Ciclo:** se relaciona con la muerte, la descomposición y el retorno de los recursos.
-3. **Equilibrio:** mantiene condiciones que permiten la coexistencia de los ecosistemas.
-4. **Cambio:** permite la evolución, adaptación y transformación del mundo.
-5. **Continuidad:** mantiene la estabilidad y persistencia de los procesos y estructuras del mundo a través del tiempo.
+1. **Vida:** permitir que nazcan y surjan nuevas formas de vida.
+2. **Ciclo:** relacionarse con la muerte, la descomposición y el retorno de los recursos.
+3. **Equilibrio:** mantener condiciones que permitan la coexistencia de los ecosistemas.
+4. **Cambio:** permitir la evolución, adaptación y transformación del mundo.
+5. **Continuidad:** mantener la estabilidad y persistencia de los procesos y estructuras del mundo a través del tiempo.
 
 Estas funciones podrían solaparse. Deben revisarse antes de fijarlas; no se deben conservar solo para completar el número de cinco.
 
-### 3.4 Actitud ante el reinicio
+### 3.6 Diosa de la luz y diosa oscura
+
+- **Diosa de la luz:** está vinculada provisionalmente a proteger y guiar. Acompañó al héroe de hace 500 años y, siglos después, acompaña al Héroe actual. Es la misma diosa en ambos casos; su acompañamiento se limita a esos dos héroes. Es la que más experiencia directa tiene tratando con la humanidad.
+- **Diosa oscura:** está vinculada provisionalmente a la oscuridad, la muerte o la destrucción, sin que eso implique odio a los seres vivos ni maldad moral. Es distinta de la diosa de la luz y acompaña a Player.
+- Luz no equivale automáticamente al bien y oscuridad no equivale automáticamente al mal.
+- Las funciones definitivas de ambas diosas y su posición dentro de las cinco todavía deben precisarse.
+
+### 3.7 Vínculo entre la diosa oscura y Player
+
+**Estado: DIRECCIÓN RELACIONAL DEFINIDA; causa del vínculo y detalles concretos pendientes.**
+
+- La relación no comienza como una relación maternal ni Player acepta desde el principio a la diosa como una figura familiar.
+- Al inicio, la diosa se acerca a Player por curiosidad. Con el tiempo, esa curiosidad evoluciona hacia interés, diversión, preocupación y finalmente una afinidad profunda.
+- Player también cambia durante ese proceso. No se trata de que uno acepte pasivamente al otro: ambos se abren, se conocen y modifican su manera de comprender ciertas cosas.
+- La relación puede llegar a recordar a la de una madre y un hijo por la cercanía y el vínculo que construyen, pero no debe imponerse esa etiqueta ni asumir que ese afecto existe desde el primer encuentro.
+- La diosa puede acompañarlo, compartir su perspectiva, aconsejarlo y ofrecerle herramientas o bendiciones relacionadas con su naturaleza. No puede resolver todos sus problemas ni garantizar que sobreviva.
+- Aunque compartan un camino y desarrollen una afinidad profunda, cada uno debe recorrer su propia parte. La diosa no puede vivir las decisiones de Player por él, y Player no tiene que adoptar por completo la visión de ella.
+- Una de las perspectivas que la diosa puede transmitirle es que la muerte forma parte de la existencia y es inevitable. Player puede comenzar interpretándola como algo exclusivamente malo o trágico; ella le ofrece otra manera de comprenderla. Esto no significa que el dolor, el duelo o el deseo de proteger a alguien carezcan de valor.
+- La diosa no debe convertirse en una salvadora omnipotente ni en una figura que trata a Player como alguien indefenso. Su compañía y su presencia tienen valor incluso cuando no puede intervenir directamente.
+
+### 3.8 Actitud ante el reinicio
 
 - Las diosas no consideran necesariamente que el universo sea malvado por reiniciar el mundo.
-- La desaparición de ellas mismas junto con el mundo forma parte de su naturaleza y no tiene por qué ser algo que teman.
 - Aun así, pueden querer evitar el reinicio para proteger a la humanidad y a los demás habitantes.
-- No se ha decidido si las cinco comparten la misma estrategia, interpretación o postura. Pueden tener personalidades y opiniones distintas sin convertirse por ello en enemigas.
-- No se ha establecido que deban sacrificarse, morir antes de tiempo o enfrentarse físicamente al universo. Incluso podrían intentar cambiar el destino sin que eso garantice que lo consigan.
-
-### 3.5 Diosa de la luz y diosa oscura
-
-Se mantienen como conceptos conversados, pero su posición exacta dentro de las cinco diosas y sus funciones definitivas deben revisarse bajo este nuevo marco.
-
-- **Diosa de la luz:** vinculada a proteger y guiar. Acompañó al héroe de hace 500 años y, siglos después, acompaña al Héroe actual. Es la misma diosa en ambos casos; no acompaña a Player.
-- **Diosa oscura:** vinculada a destrucción y muerte, sin que eso implique odio a los seres vivos ni maldad moral. Es otra diosa distinta de la de la luz y acompaña a Player, el protagonista jugable. El motivo y la naturaleza de ese vínculo siguen pendientes.
-- Luz no equivale automáticamente al bien y oscuridad no equivale automáticamente al mal.
-- Las diosas no tienen por qué ser enemigas. Sus elegidos, seguidores u organizaciones sí pueden entrar en conflicto.
-- La idea anterior de que la diosa oscura tiene seguidores perseguidos y casi desaparecidos se conserva como propuesta provisional, pendiente de revisar con el nuevo marco de las cinco diosas.
-- La hipótesis anterior de que las diosas fueran pioneras supervivientes que se sacrificaron para otorgar poder a la humanidad queda desplazada y no debe tratarse como explicación vigente.
+- No se ha establecido que las cinco compartan la misma estrategia, interpretación o postura. Pueden tener opiniones distintas sin convertirse por ello en enemigas.
+- No se ha establecido que deban sacrificarse, morir antes de tiempo o enfrentarse físicamente al universo.
 
 ## 4. El héroe de hace 500 años
 
@@ -190,11 +214,16 @@ Se mantienen como conceptos conversados, pero su posición exacta dentro de las 
 
 ## 6. Player
 
-**Estado: DEFINIDO en su papel general; personalidad y destino detallado pendientes.**
+**Estado: DEFINIDO en su papel general y en la dirección de su vínculo con la diosa oscura; personalidad y destino detallado pendientes.**
 
 - Es el protagonista jugable y un personaje distinto del Héroe.
 - Su personalidad todavía no está decidida.
-- Está vinculado a la diosa oscura, que es distinta de la diosa de la luz y lo acompaña a él. Player no es acompañado por la diosa de la luz; la naturaleza y el motivo del vínculo con la diosa oscura siguen pendientes.
+- Está vinculado a la diosa oscura, que es distinta de la diosa de la luz. Player no es acompañado por la diosa de la luz.
+- La relación entre Player y la diosa oscura no comienza como un vínculo maternal ni como un afecto ya establecido. Al principio hay curiosidad por parte de ella; luego aparecen interés, diversión, preocupación y una afinidad cada vez más profunda.
+- Ambos cambian a medida que se conocen. La relación puede adquirir una cercanía comparable a la de una madre y un hijo, pero no debe imponerse esa etiqueta ni asumir que Player la acepta desde el principio.
+- La diosa puede acompañarlo, aconsejarlo y ofrecerle herramientas o bendiciones coherentes con su propia naturaleza, pero no es una solución para todo ni puede garantizar su seguridad.
+- Aunque ambos compartan un camino, cada uno debe recorrerlo por sí mismo. La diosa no puede tomar las decisiones de Player ni vivir sus experiencias en su lugar; Player tampoco tiene que adoptar por completo la visión de ella.
+- La diosa le ofrece otra manera de interpretar la muerte: no como algo exclusivamente malo o como un fracaso, sino como una parte natural e inevitable de la existencia. Esto no invalida el duelo, el dolor ni el deseo de proteger a otros.
 - Su tragedia es excepcional y no consiste simplemente en perder personas cercanas.
 - Vive desgracias sucesivas y aprende de ellas, pero las tragedias continúan ocurriendo.
 - A pesar de caminar entre pérdidas y cadáveres, no pierde su humanidad.
@@ -202,7 +231,7 @@ Se mantienen como conceptos conversados, pero su posición exacta dentro de las 
 - Player y el Héroe llegan a desarrollar una amistad. Player puede orientarlo o enseñarle desde su experiencia.
 - En algún momento Player es capturado y ambos quedan separados; no se ha establecido que Player muera.
 
-**Pendiente:** la naturaleza de su vínculo con la diosa oscura, el origen de su tragedia, qué papel tiene frente al deterioro y al reiniciador, y por qué su destino es distinto al del Héroe.
+**Pendiente:** la personalidad de Player, el motivo inicial por el que la diosa oscura se interesa en él, qué despierta el cambio en ambos, la naturaleza concreta de sus bendiciones, el origen de su tragedia y su papel frente al deterioro y al reiniciador.
 
 ## 7. Organizaciones y conflictos humanos
 
@@ -259,8 +288,8 @@ Estas conexiones pueden investigarse, pero necesitan una explicación causal y n
 5. ¿Qué descubrió exactamente el héroe de hace 500 años sobre la naturaleza y los límites de su poder?
 6. ¿Qué método dejó preparado para el futuro y por qué él mismo no podía completarlo?
 7. ¿Qué es el Estigma que comparten ambos héroes y por qué aparecen sin un pasado confirmable?
-8. ¿Qué sabe la diosa de la luz sobre la repetición del fenómeno y por qué reconoce la resonancia del Héroe actual? ¿Por qué la diosa oscura acompaña a Player y qué busca con él?
+8. ¿Qué sabe la diosa de la luz sobre la repetición del fenómeno y por qué reconoce la resonancia del Héroe actual? ¿Qué despierta la curiosidad inicial de la diosa oscura por Player y cómo evoluciona su vínculo?
 9. ¿Qué tragedia y qué papel tendrá el Héroe actual, sin repetir la historia del antiguo?
-10. ¿Qué relación tiene Player con la diosa oscura y con el destino del mundo?
+10. ¿Cuál es la tragedia de Player y qué relación tiene con el deterioro y el destino del mundo?
 
 Resolver estas preguntas por dependencias, no inventando respuestas simultáneas para todas.
