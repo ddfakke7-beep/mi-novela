@@ -10,6 +10,7 @@ Documentación compartida del proyecto. Lo definido aquí debe servir como base 
 - [03 — Mundo y contenido](03_MUNDO_Y_CONTENIDO.md)
 - [04 — Plan de desarrollo](04_PLAN_DE_DESARROLLO.md)
 - [05 — Combate, esencias y configuraciones (pendiente)](05_COMBATE_ESENCIAS_Y_CONFIGURACIONES_PENDIENTE.md)
+- [LORE — Historia y trasfondo](LORE/README.md): documentación narrativa independiente. No implica que las ideas estén aprobadas como contenido implementable.
 
 ## Regla de documentación
 
