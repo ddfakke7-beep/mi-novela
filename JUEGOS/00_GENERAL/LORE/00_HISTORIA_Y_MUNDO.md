@@ -109,15 +109,17 @@ Separar el desarrollo de la historia y el trasfondo del diseño de sistemas y me
 
 ### 3.5 Las cinco funciones posibles
 
-**Estado: PROPUESTAS PENDIENTES; no son nombres ni funciones aprobadas.**
+**Estado: PROPUESTA PREFERIDA, TODAVÍA PENDIENTE DE APROBACIÓN.**
 
-1. **Vida:** permitir que nazcan y surjan nuevas formas de vida.
-2. **Ciclo:** relacionarse con la muerte, la descomposición y el retorno de los recursos.
-3. **Equilibrio:** mantener condiciones que permitan la coexistencia de los ecosistemas.
-4. **Cambio:** permitir la evolución, adaptación y transformación del mundo.
-5. **Continuidad:** mantener la estabilidad y persistencia de los procesos y estructuras del mundo a través del tiempo.
+1. **Vida:** permite que nazcan y surjan nuevas formas de vida. No controla necesariamente cada ser vivo ni decide cómo debe vivir.
+2. **Final (diosa oscura):** representa el cierre de los procesos y la muerte como parte natural de la existencia. No equivale a maldad, destrucción indiscriminada ni a la capacidad de matar cualquier cosa a voluntad.
+3. **Equilibrio:** favorece las condiciones para que distintas fuerzas y formas de vida puedan coexistir. No significa que todo deba permanecer igual ni que cada conflicto tenga que acabar en igualdad.
+4. **Cambio:** permite la transformación, adaptación y evolución. No implica que todo cambio sea bueno ni que la diosa pueda controlar cada transformación.
+5. **Memoria:** conserva rastros del pasado: acontecimientos, conocimientos y recuerdos que de otro modo podrían desaparecer. No significa omnisciencia, conocimiento automático del presente ni comprensión perfecta de todo lo que recuerda.
 
-Estas funciones podrían solaparse. Deben revisarse antes de fijarlas; no se deben conservar solo para completar el número de cinco.
+**Alternativa todavía abierta:** Continuidad podría sustituir a Memoria si se considera más importante representar la persistencia de los procesos del mundo. La diferencia es que Memoria conserva lo ocurrido, mientras Continuidad permite que algo siga existiendo a través del tiempo.
+
+La propuesta de Memoria tiene una conexión narrativa especialmente útil con la sacerdotisa, los héroes y la transmisión de conocimientos entre generaciones. Aun así, las cinco funciones deben revisarse para evitar solapamientos y definir límites claros.
 
 ### 3.6 Diosa de la luz y diosa oscura
 
@@ -138,6 +140,21 @@ Estas funciones podrían solaparse. Deben revisarse antes de fijarlas; no se deb
 - Aunque compartan un camino y desarrollen una afinidad profunda, cada uno debe recorrer su propia parte. La diosa no puede vivir las decisiones de Player por él, y Player no tiene que adoptar por completo la visión de ella.
 - Una de las perspectivas que la diosa puede transmitirle es que la muerte forma parte de la existencia y es inevitable. Player puede comenzar interpretándola como algo exclusivamente malo o trágico; ella le ofrece otra manera de comprenderla. Esto no significa que el dolor, el duelo o el deseo de proteger a alguien carezcan de valor.
 - La diosa no debe convertirse en una salvadora omnipotente ni en una figura que trata a Player como alguien indefenso. Su compañía y su presencia tienen valor incluso cuando no puede intervenir directamente.
+
+### 3.9 Diosa de la Memoria y la sacerdotisa
+
+**Estado: PROPUESTA NARRATIVA ACEPTADA COMO DIRECCIÓN; detalles del vínculo e invocación pendientes.**
+
+- La diosa de la Memoria es la candidata preferida para ayudar a la sacerdotisa o invocadora que intentó traer a dos héroes.
+- Su función consiste en conservar rastros del pasado: acontecimientos, conocimientos y recuerdos que podrían perderse con el paso del tiempo o con la desaparición de quienes los vivieron.
+- Puede conocer fragmentos de antiguos enfrentamientos con los Reiniciadores y de las personas que participaron en ellos, pero eso no significa que posea una explicación completa y fiable de su naturaleza.
+- La sacerdotisa entra en contacto con ella y recibe acceso a ciertos rastros o conocimientos olvidados. La forma concreta de ese contacto todavía no está definida.
+- La diosa no le entrega una solución terminada ni le dicta cómo realizar la invocación. La sacerdotisa investiga, compara la información, formula hipótesis y desarrolla por mérito propio el método con el que intenta invocar dos existencias.
+- La diosa decide ayudar porque considera que vale la pena intentar una posibilidad distinta frente al problema de los Reiniciadores; no porque conozca de antemano el resultado ni pueda garantizar que la invocación funcione.
+- Recordar un acontecimiento no equivale a comprender por completo las motivaciones de quienes participaron, sus decisiones o las consecuencias futuras. La diosa puede conservar un recuerdo sin entenderlo del mismo modo que lo entendería un humano que lo vivió.
+- Esta relación permite que la memoria sea un puente entre generaciones: la diosa conserva rastros, pero son los humanos quienes deben interpretarlos y decidir qué hacer con ellos.
+
+**Pendiente:** cómo se conocen la diosa y la sacerdotisa, por qué la diosa decide ayudarla, qué recuerdos o conocimientos le permite consultar, qué límites tiene esa consulta y cómo la sacerdotisa convierte esos rastros en el método de invocación.
 
 ### 3.8 Actitud ante el reinicio
 
@@ -284,7 +301,7 @@ Estas conexiones pueden investigarse, pero necesitan una explicación causal y n
 1. ¿Qué se deteriora exactamente en el mundo y cómo empieza ese proceso?
 2. ¿Por qué el mundo produce al reiniciador y qué significa su reinicio?
 3. ¿Cuáles son las cinco funciones fundamentales de las diosas y cómo se relacionan con el mundo?
-4. ¿Cómo interactúan las diosas con sus elegidos y qué sabe la humanidad de ellas?
+4. ¿Cómo interactúan las diosas con sus elegidos y qué sabe la humanidad de ellas? ¿Qué límites tiene la memoria que conserva la diosa y cómo ayuda a la sacerdotisa sin resolver la invocación por ella?
 5. ¿Qué descubrió exactamente el héroe de hace 500 años sobre la naturaleza y los límites de su poder?
 6. ¿Qué método dejó preparado para el futuro y por qué él mismo no podía completarlo?
 7. ¿Qué es el Estigma que comparten ambos héroes y por qué aparecen sin un pasado confirmable?
