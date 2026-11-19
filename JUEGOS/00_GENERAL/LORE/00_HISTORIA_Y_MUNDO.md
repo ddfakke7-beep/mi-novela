@@ -30,17 +30,43 @@ Separar el desarrollo de la historia y el trasfondo del diseño de sistemas y me
 - No nace necesariamente siendo malvada. Su personalidad y comportamiento dependen de sus experiencias.
 - Algunas manifestaciones pudieron ser personas que no querían destruir y deseaban morir; otras pudieron volverse inhumanas y disfrutar matando.
 - Su existencia y su destino están vinculados al reinicio del mundo, pero la naturaleza exacta de ese vínculo no está explicada.
-- No es necesariamente invencible: personajes poderosos pueden derrotar o matar físicamente a una manifestación. Sin embargo, eliminar a una no resolvería el fenómeno; el mundo podría producir otra en otro momento y de otra manera.
+- No es invencible en combate: puede recibir heridas graves y ser derrotado físicamente. Sin embargo, su regeneración no depende del aura y una herida mortal no implica su muerte definitiva.
+- Su aura tiene una naturaleza contraria al aura habitual del mundo e interfiere con su funcionamiento. Los individuos excepcionales pueden resistir parte de esa interferencia, pero resistirla no equivale a anularla.
+- La interferencia puede dificultar el uso estable de técnicas y capacidades, obligando a los adversarios a gastar concentración y recursos para mantener su propio poder funcional. Detener o contener esa propagación es posible con preparación, pero resulta extremadamente difícil durante un combate a muerte.
+- La regeneración y la interferencia del aura son propiedades distintas. Neutralizar o debilitar su aura no elimina su capacidad regenerativa.
+- La regeneración no significa que cada fragmento separado pueda reconstruir por sí solo un Reiniciador completo. La separación de partes impide que el cuerpo recupere su integridad y complete la regeneración; por eso el sellado y la dispersión de los restos pueden detenerlo sin matarlo.
+- El universo puede crear un nuevo Reiniciador aunque uno anterior siga existiendo, por ejemplo si el anterior fue sellado antes de cumplir su función. El número total de Reiniciadores debe mantenerse muy reducido (como máximo tres o cuatro); no deben multiplicarse sin una razón narrativa concreta.
+- La dirección actual es que el Reiniciador de la época presente sea el definitivo: no se trata de otra amenaza que la humanidad simplemente volverá a sellar, sino de la manifestación destinada a llevar el reinicio hasta su conclusión.
 
 **Pendiente:**
 - Por qué el mundo produce a esta persona.
 - Qué significa exactamente «reiniciar el mundo».
 - Si el reinicio destruye la civilización, transforma el mundo, sustituye sus condiciones o produce otro resultado.
-- Qué desencadena una nueva aparición y si existe un intervalo reconocible.
+- Qué desencadena una nueva aparición y bajo qué circunstancias el universo crea otro aunque el anterior siga existiendo.
+- Cómo funciona exactamente la interferencia del aura y qué límites tiene.
+- Cómo funciona la regeneración independiente del aura y qué condiciones permiten impedir que un cuerpo separado vuelva a reunirse.
 - Qué relación causal tiene el reiniciador con el deterioro.
-- Si todas las manifestaciones comparten alguna característica aparte de su destino.
+- Qué conocimiento reciben del universo y qué parte de ese conocimiento comparten las distintas manifestaciones.
 
-**Cuidado de coherencia:** el reiniciador no debe tratarse como una bestia gigante ni como un villano malvado por definición. Es una persona cuya existencia está ligada a una función destructiva.
+**Cuidado de coherencia:** el reiniciador no debe tratarse como una bestia gigante ni como un villano malvado por definición. Es una existencia de apariencia humana cuya función está ligada al reinicio. Puede desarrollar afectos, enamorarse, formar una familia o querer proteger algo; esos vínculos no eliminan automáticamente el destino que lleva consigo.
+
+### 2.3 Naturaleza, conocimiento y voluntad de los Reiniciadores
+
+**Estado: PROVISIONAL — dirección nueva para desarrollar.**
+
+- Los Reiniciadores no son humanos, aunque tengan apariencia humana. Su aura y su regeneración manifiestan una naturaleza distinta y contraria a la habitual del mundo.
+- El aura del Reiniciador interfiere con el funcionamiento del aura común. La interferencia no tiene por qué afectar a todos por igual: individuos extraordinarios pueden resistirla parcialmente. Esa resistencia exige esfuerzo y no elimina la desventaja de mantener una pelea prolongada.
+- La regeneración es independiente del aura. El Reiniciador puede recuperarse de heridas mortales y reconstruir su cuerpo con el tiempo. No es invulnerable ni se cura necesariamente de inmediato.
+- La separación de sus partes puede impedir que complete la regeneración sin destruir su existencia. Los fragmentos no se convierten en Reiniciadores independientes ni reconstruyen por sí solos el cuerpo entero. El estado de conciencia de los restos separados sigue pendiente.
+- La dirección que se está explorando es que el universo establezca una conexión temporal con el Reiniciador durante su crecimiento y le transmita conocimiento a través de su aura. Una vez completada esa transmisión, la conexión termina y el universo no necesita seguir comunicándose con él.
+- Ese conocimiento podría incluir su naturaleza y propósito, además de información o experiencias acumuladas de Reiniciadores anteriores. No sería una unión de conciencias ni una memoria personal compartida: el nuevo Reiniciador recibe conocimiento, no las vidas ni las identidades de sus predecesores.
+- Recibir conocimiento no equivale a ser omnisciente ni a poder reproducir lo que otros hicieron. Cada época, adversario y circunstancia presenta dificultades distintas; saber que un método existió no garantiza poder ejecutarlo ni que vuelva a funcionar.
+- Los Reiniciadores pueden reconocer su naturaleza común y conocerse por sus encuentros o por el conocimiento recibido, sin que eso implique que estén conectados permanentemente entre sí o que se lleven bien.
+- La posibilidad de que el Reiniciador actual herede una cantidad mucho mayor —incluso todo el conocimiento acumulado de sus predecesores— está en exploración. Debe conservar límites: información incompleta sobre el presente, experiencias que no puede reproducir y aspectos que no comprende solo por haberlos recibido.
+- También se explora que el Reiniciador actual sea una existencia contradictoria: conoce su función y sabe que su destino implica acabar con la humanidad, pero desea proteger algo concreto. Puede amar, formar vínculos y llegar a ser insensible en otros aspectos; su deseo de preservar algo no cancela su misión ni lo convierte automáticamente en alguien capaz de abandonarla.
+- Esta contradicción debe tratarse como un conflicto auténtico, no como una excusa para posponer el reinicio indefinidamente. El objeto o ser que desea proteger todavía no está definido.
+
+**Pendiente:** precisar qué información transmite el universo, cuánto dura la conexión durante el crecimiento, qué límites tiene la herencia de conocimiento, qué significa exactamente que el Reiniciador actual sea el definitivo y qué desea proteger.
 
 ## 3. Las cinco diosas
 
@@ -108,8 +134,13 @@ Se mantienen como conceptos conversados, pero su posición exacta dentro de las 
 - Su aparición y sus características dieron lugar a la idea de un destino o fenómeno excepcional, aunque su significado todavía no está explicado.
 - Poseía marcas particulares. Al principio no parecían tener un significado extraordinario, pero evolucionaron junto con él y su desarrollo de poder.
 - El héroe llegó a descubrir y comprender plenamente la naturaleza de su propio poder. No debe escribirse como alguien que murió o desapareció sin entender qué era capaz de hacer.
-- Su tragedia no consistió en ignorar su poder: comprendió que, pese a todo lo que podía hacer, no era posible resolver definitivamente la amenaza en aquel momento.
-- En lugar de una solución final, consiguió darle más tiempo al mundo. Su decisión dejó abierta una oportunidad para que el futuro pudiera enfrentarse a aquello que en su época resultaba imposible resolver.
+- Su origen está relacionado con una invocación realizada por una sacerdotisa o investigadora. Ella pretendía invocar dos existencias, pero solo consiguió traer al héroe antiguo. Le contó su intención; ambos consideraron que algo había fallado e investigaron el resultado, sin llegar a resolverlo.
+- La sacerdotisa había estudiado relatos y anomalías relacionados con los Reiniciadores. No poseía necesariamente una comprensión completa de su naturaleza ni del resultado de la invocación.
+- El héroe antiguo no se limitó a aceptar la explicación de la sacerdotisa: desarrolló sus propias teorías e interpretó la posibilidad de una segunda invocación desde su experiencia y su análisis.
+- Llegó a descubrir que en el futuro podría aparecer otro héroe relacionado con aquella invocación. No conoce necesariamente todos los detalles de esa llegada ni puede garantizar qué hará el siguiente.
+- Su tragedia no consistió en ignorar su poder: comprendió sus capacidades, pero concluyó que él mismo no podía completar la salvación del mundo en su época.
+- No dejó una victoria asegurada ni un destino obligatorio. Encontró y preparó un método o posibilidad que el héroe futuro podría elegir seguir o rechazar. El método puede exigir decisiones extremas e incluso un sacrificio, pero el héroe antiguo no sabe con certeza si ese precio será necesario ni si el futuro elegirá pagarlo.
+- Su intervención debe ser indispensable para que la generación futura pueda intentar una solución definitiva; no debe reducirse a «comprar tiempo». Sin embargo, tampoco debe convertir al héroe actual en ejecutor automático de un plan perfecto.
 - Para la población común, es recordado principalmente como el héroe que salvó al mundo.
 - Para grandes organizaciones dominantes, gobernantes y personas con ambiciones de poder, su existencia era aterradora: no podían controlarlo, someterlo ni garantizar que no interviniera contra ellos.
 - Para quienes buscaban alcanzar la cima del poder, representaba un muro casi absoluto.
@@ -122,7 +153,7 @@ Se mantienen como conceptos conversados, pero su posición exacta dentro de las 
 - Fue una solución para ganar tiempo, no una solución definitiva.
 - La razón de que no resolvieran el fenómeno de raíz debe encajar con el descubrimiento que el héroe hizo sobre sus poderes y con la imposibilidad de solucionar la amenaza en aquella época.
 
-**Pendiente:** qué partes fueron separadas, qué significa quitarle sentidos o capacidades, cómo funcionan los sellos y cómo se relaciona el sellado con el tiempo que el héroe consiguió para el mundo. También debe aclararse si la amenaza que casi destruyó el mundo y el reiniciador son exactamente la misma entidad o fenómenos distintos.
+**Pendiente:** qué partes fueron separadas, qué significa quitarle sentidos o capacidades, cómo funcionan los sellos y qué método o conocimiento dejó el héroe antiguo para que el futuro pueda intentar algo que su época no podía. También debe aclararse si la amenaza que casi destruyó el mundo y el reiniciador son exactamente la misma entidad o fenómenos distintos.
 
 ## 5. El Héroe actual
 
@@ -141,6 +172,9 @@ Se mantienen como conceptos conversados, pero su posición exacta dentro de las 
 - La diosa funciona como guía, no como maestra que resuelve todo ni como protagonista que actúa en su lugar. Puede orientarlo para controlar y comprender sus capacidades, comunicarse con él y prestarle asistencia limitada, pero no hacer sus tareas ni decidir por él.
 - La diosa puede ocultarse dentro de él o permanecer vinculada de una forma espiritual; el mecanismo concreto sigue pendiente.
 - La razón exacta por la que la diosa percibe esa sinergia, qué sabe del Estigma y cuánto comprende del fenómeno deben definirse. Su acompañamiento no debe convertirla en una figura ingenua ni privarla del conocimiento adquirido junto al héroe antiguo.
+- El Héroe actual está relacionado con la segunda existencia que la sacerdotisa pretendía invocar, pero su llegada no debe convertirlo en una marioneta del héroe antiguo ni de la sacerdotisa.
+- El método preparado por el héroe antiguo es una posibilidad, no una obligación. El Héroe actual puede aceptarlo, modificarlo o rechazarlo. La confusión que siente al descubrir que fue invocado y que otros prepararon un camino para él no significa que odie ese camino ni que se deje manipular: su decisión final es propia.
+- Su creatividad no debe confundirse con la del héroe antiguo. Fue el héroe antiguo quien elaboró teorías sobre la invocación y buscó una vía a partir de lo que sabía; el actual decide qué hacer con el legado y con las circunstancias de su propia época.
 - Su historia incluye pérdidas, dudas y maduración.
 - Su trayectoria no debe ser una repetición automática de la del héroe antiguo. La tragedia del antiguo fue conseguir tiempo para el mundo; la del actual todavía debe definirse.
 
@@ -177,7 +211,10 @@ Se mantienen como conceptos conversados, pero su posición exacta dentro de las 
 - Existen organizaciones y grandes fuerzas humanas con ambiciones de poder y control.
 - Algunas buscan controlar o aprovechar el poder de la diosa de la luz.
 - Los seguidores de la oscuridad son perseguidos; las razones, responsables y alcance de esa persecución siguen pendientes.
-- Una organización podría intentar recuperar o reunir las partes selladas del reiniciador para hacerlo regresar. Esta idea todavía no está aprobada como hecho.
+- Una organización secreta podría haber encontrado a la nueva existencia del Reiniciador cuando todavía era muy joven y decidir criarla o protegerla para aprovechar su poder. Sus integrantes no tienen por qué saber que están criando al próximo Reiniciador ni conocer la verdad sobre su función.
+- La motivación de esa organización puede ser la veneración de la fuerza absoluta: sus miembros llegaron a un límite que no saben superar y aceptan recibir poder del Reiniciador aunque eso los someta a su voluntad. No intentan controlarlo; lo sirven porque el poder recibido los convierte en subordinados y pueden terminar siendo consumidos si dejan de ser útiles.
+- Los miembros pueden conocer el precio y aceptarlo voluntariamente porque creen que no existe otra vía para seguir creciendo. Su lealtad no tiene que ser afecto ni devoción inocente: puede ser una consecuencia del poder que recibieron y de la decisión que tomaron.
+- La organización no representa el conocimiento humano general sobre los Reiniciadores. Su conocimiento de la verdadera naturaleza de la criatura puede ser parcial o inexistente.
 - No se ha definido una raza demoníaca ni un único enemigo que represente todo el mal. No asumir que hace falta uno.
 - Las organizaciones y personas poderosas pueden reaccionar al Héroe actual por la semejanza entre su Estigma y el del héroe de hace 500 años, sin que la población general comprenda necesariamente su importancia.
 
@@ -186,6 +223,11 @@ Se mantienen como conceptos conversados, pero su posición exacta dentro de las 
 **Estado: DEFINIDO como criterio narrativo.**
 
 - La mayoría no conoce la verdad sobre el reiniciador ni sobre el ciclo de apariciones.
+- El conocimiento sobre Reiniciadores anteriores sobrevive principalmente en leyendas, relatos transmitidos de boca en boca y versiones fragmentarias. No existe necesariamente un grupo humano que haya conservado una explicación completa y fiable.
+- Las historias sobre seres imposibles de matar, que regresaban después de ser derrotados o que poseían capacidades extraordinarias suelen considerarse exageraciones, supersticiones o relatos de monstruos excepcionalmente poderosos. En ese mundo no es inconcebible que nazcan individuos extraordinarios, por lo que las leyendas no prueban por sí solas que exista una categoría común.
+- Los Reiniciadores son figuras históricas o legendarias destacables por sus actos y su poder, pero la mayoría de los humanos no logra relacionar las distintas historias. Muchos testigos mueren, y los supervivientes no necesariamente comprenden lo que vieron.
+- Quienes llegan a encontrarse personalmente con un Reiniciador pueden reconocer que las antiguas historias no eran una broma, aunque eso no significa que comprendan su naturaleza, su propósito o su relación con otros Reiniciadores.
+- Algunos Reiniciadores pueden reconocerse entre sí y conocer aspectos de su naturaleza compartida. Ese reconocimiento no implica que los humanos comunes puedan descubrir la conexión.
 - Para el público general, el relato conocido es que hace 500 años surgió una amenaza terrible y el héroe legendario salvó al mundo.
 - Las grandes fuerzas pueden tener interpretaciones, intereses y conocimientos diferentes.
 - No se debe escribir como si toda la población, todos los seguidores de las diosas o todas las organizaciones conocieran los secretos del mundo.
@@ -214,8 +256,8 @@ Estas conexiones pueden investigarse, pero necesitan una explicación causal y n
 2. ¿Por qué el mundo produce al reiniciador y qué significa su reinicio?
 3. ¿Cuáles son las cinco funciones fundamentales de las diosas y cómo se relacionan con el mundo?
 4. ¿Cómo interactúan las diosas con sus elegidos y qué sabe la humanidad de ellas?
-5. ¿Qué descubrió exactamente el héroe de hace 500 años sobre la naturaleza, los límites y el destino de su poder?
-6. ¿Qué amenaza no podía resolverse en su época y cómo consiguió darle más tiempo al mundo?
+5. ¿Qué descubrió exactamente el héroe de hace 500 años sobre la naturaleza y los límites de su poder?
+6. ¿Qué método dejó preparado para el futuro y por qué él mismo no podía completarlo?
 7. ¿Qué es el Estigma que comparten ambos héroes y por qué aparecen sin un pasado confirmable?
 8. ¿Qué sabe la diosa de la luz sobre la repetición del fenómeno y por qué reconoce la resonancia del Héroe actual?
 9. ¿Qué tragedia y qué papel tendrá el Héroe actual, sin repetir la historia del antiguo?
