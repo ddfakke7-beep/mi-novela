@@ -310,3 +310,60 @@ Estas conexiones pueden investigarse, pero necesitan una explicación causal y n
 10. ¿Cuál es la tragedia de Player y qué relación tiene con el deterioro y el destino del mundo?
 
 Resolver estas preguntas por dependencias, no inventando respuestas simultáneas para todas.
+
+
+## 11. Afinidad con el universo, invocación y la solución de dos individuos
+
+**Estado: DIRECCIÓN NARRATIVA MUY AVANZADA; algunos mecanismos concretos siguen pendientes. Esta sección aclara y prevalece sobre cualquier formulación anterior que la contradiga.**
+
+### 11.1 Afinidad con el universo
+
+- Todos los seres poseen cierta afinidad innata con el universo, pero el grado varía enormemente.
+- La afinidad no concede fuerza, poder, habilidades ni ventajas de combate. Por sí sola no convierte a nadie en alguien especial a ojos de los demás.
+- En la mayoría de los seres es tan baja o imperceptible que nunca se manifiesta de una forma que puedan reconocer.
+- Algunas personas poseen una afinidad extraordinaria. Pueden vivir y morir sin descubrirla; tenerla no garantiza que comprendan su naturaleza ni que logren hacer algo importante.
+- La afinidad no se fabrica, aprende ni transfiere. Es una característica innata.
+- Las diosas pueden percibir indicios o anomalías relacionadas con el destino y la afinidad, pero no medirla con exactitud ni identificar infaliblemente a todos los individuos compatibles.
+- La afinidad puede orientar a una persona hacia acontecimientos capaces de afectar al mundo, pero no predice el resultado. Las personas pueden tomar caminos distintos y la mayoría nunca sabe si los acontecimientos en los que participó cambiaron algo.
+- El destino, en este contexto, no equivale a ver el futuro ni a controlar las decisiones de una persona. Las diosas perciben posibilidades o la magnitud que podría alcanzar un camino, no una secuencia segura de acontecimientos.
+- Las desgracias no crean afinidad ni sirven como prueba suficiente de ella. La sacerdotisa y Player comparten una trayectoria excepcional vinculada a acontecimientos importantes del mundo, pero no son compatibles simplemente por haber sufrido pérdidas.
+
+### 11.2 La invocación de la sacerdotisa
+
+- La sacerdotisa investigó la conexión entre el mundo y el universo con ayuda de la Diosa de la Memoria. La diosa aportó rastros y conocimientos del pasado; la sacerdotisa interpretó esa información y desarrolló sus propias teorías.
+- La sacerdotisa concluyó que una posible solución necesitaba dos existencias excepcionales con funciones distintas: una capaz de abrir una conexión con el universo y otra capaz de intervenir sobre ella y cortarla.
+- Preparó una invocación con la intención de atraer a ambas existencias a su mundo.
+- La primera invocación fue un éxito, aunque la sacerdotisa no lo comprendió: consiguió atraer a las dos existencias, pero sus llegadas correspondían a épocas diferentes. El héroe antiguo apareció primero; la llegada del segundo héroe quedaría para otra época.
+- La sacerdotisa creyó que solo había conseguido traer a uno y que la invocación había quedado incompleta.
+- Intentó repetir el ritual para atraer al segundo, pero los intentos posteriores no funcionaron. La verdadera razón es que la primera invocación ya había puesto en marcha la llegada de ambas existencias; la sacerdotisa no sabía que el segundo ya había sido atraído para aparecer en otro tiempo.
+- La invocación extraordinaria consumió o deterioró una parte importante de la afinidad de la sacerdotisa. Ella no entendió de inmediato qué había perdido. Los intentos posteriores hicieron más evidente que su afinidad ya no era la misma.
+- Al investigar lo sucedido junto con la Diosa de la Memoria, la sacerdotisa formuló el concepto de afinidad con el universo. Al observar y probar con otras personas, encontró grados distintos, pero nadie mostraba una afinidad comparable a la suya. La medición no era sencilla ni completamente segura.
+- La sacerdotisa concluyó que podía utilizar su propia afinidad para convertirse en recipiente y abrir la conexión. Inicialmente había contemplado que uno de los individuos invocados asumiera ese sacrificio; después decidió ofrecerse ella misma.
+- La sacerdotisa no le reveló al héroe antiguo que el recipiente moriría inevitablemente al establecer la conexión. Antes de ejecutar el método, fue asesinada durante la guerra.
+- En sus últimos momentos, tras comprender lo ocurrido con la invocación, le revela al héroe: **«Yo no fallé la invocación… siempre fueron dos».** Muere antes de poder explicarle todo.
+- El héroe descubre posteriormente la verdad sobre el plan de la sacerdotisa y comprende que ella pretendía convertirse en el recipiente. Durante el resto de su vida intenta encontrar a otra persona compatible, pero no lo consigue.
+
+### 11.3 Las dos funciones de la solución
+
+- **El recipiente:** individuo con afinidad excepcional capaz de abrir un camino o establecer una conexión con el universo. El cuerpo no puede soportar la conexión completa; cuando esta se establece, el recipiente muere inevitablemente.
+- **Quien corta la conexión:** individuo de naturaleza anormal y excepcional, capaz de actuar sobre el camino abierto e interrumpir o cortar la conexión y, con ello, intervenir sobre la acción del universo.
+- Las dos funciones son diferentes y deben ser realizadas por dos personas. No basta con que una persona tenga mucho poder.
+- El héroe antiguo podía cumplir la función de quien corta. Aunque pudiera tener afinidad suficiente para intentar ser recipiente, no podía ocupar ambas funciones a la vez: si abría la conexión y moría, nadie quedaría para cortarla.
+- El héroe antiguo tampoco podía cortar una conexión que nadie hubiera abierto. Por eso necesitaba encontrar a otra persona compatible.
+- La sacerdotisa poseía la afinidad necesaria para abrir el camino, pero no la naturaleza excepcional requerida para cortarlo. El héroe antiguo poseía la segunda capacidad, no la primera.
+- El método todavía no está completamente definido: falta concretar qué hace exactamente quien corta, qué significa intervenir sobre el universo y qué consecuencias tendría conseguirlo.
+
+### 11.4 El Héroe actual y Player
+
+- El Héroe actual es la segunda existencia atraída por la invocación de la sacerdotisa. No es Player ni debe confundirse con él.
+- El héroe antiguo y el Héroe actual son las dos existencias invocadas, destinadas a aparecer en épocas diferentes.
+- El Héroe actual comparte la naturaleza anormal del héroe antiguo y podría ser quien cumpla la función de cortar la conexión.
+- Player no fue invocado por la sacerdotisa. Es un individuo nacido en ese mundo y posee una afinidad excepcional con el universo, semejante en ese aspecto a la de la sacerdotisa.
+- La posibilidad de que Player sea una reencarnación sigue abierta, pero no está definida. En cualquier caso, no es el segundo héroe invocado.
+- Player podría ser el recipiente que abra la conexión, mientras el Héroe actual podría cortarla. Esta correspondencia es una dirección narrativa preferida, pero debe conservarse como posibilidad hasta definir el método y sus límites.
+- Las diosas conocen la solución que la sacerdotisa intentó desarrollar y buscan individuos que puedan hacerla posible. Sin embargo, no saben con certeza qué persona posee la afinidad necesaria ni pueden identificarla de inmediato.
+- La Diosa de la Luz se interesa por el Héroe actual al reconocer las anomalías asociadas a su aparición y sus marcas, que recuerdan al héroe antiguo.
+- La diosa vinculada a la Muerte/Final se interesa por Player porque percibe que su camino o destino es inusual. No conoce automáticamente su función como posible recipiente.
+- Las diosas van reconociendo las anomalías progresivamente. Sus percepciones del destino no equivalen a conocer el futuro ni a saber de antemano si el método funcionará.
+
+**Pendiente de concretar:** por qué la invocación pudo atraer a dos existencias en épocas diferentes; qué condiciones quedaron establecidas para la llegada del segundo; cómo se manifiesta y se reconoce la afinidad; si el deterioro de afinidad es reversible; por qué la sacerdotisa no pudo repetir el ritual; el origen de Player y la posibilidad de que sea una reencarnación; y el mecanismo exacto para abrir y cortar la conexión.
