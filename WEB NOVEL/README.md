@@ -50,6 +50,7 @@ El desarrollo de estos principios está en los documentos siguientes.
 - [04 — Control de calidad y continuidad](04_CONTROL_DE_CALIDAD_Y_CONTINUIDAD.md): canon, causalidad, consecuencias, revisión y continuidad.
 - [05 — Banco de ideas rescatables](05_BANCO_DE_IDEAS_RESCATABLES.md): conceptos e ideas valiosas localizadas en los cuatro proyectos.
 - [06 — Plantilla por novela](06_PLANTILLA_POR_NOVELA.md): estructura inicial para separar cada futura obra.
+- [07 — Auditoría comparativa](07_AUDITORIA_COMPARATIVA_Y_PENDIENTES.md): aportes de cada proyecto, contradicciones, omisiones y límites de la revisión.
 
 ## 5. Cómo interpretar el estado de esta carpeta
 
