@@ -109,3 +109,35 @@ Las decisiones de todos los personajes pueden alterar la historia. Las consecuen
 No resolver contradicciones en silencio. No conceder inmunidad a un personaje porque todavía hace falta. No permitir que una victoria se convierta en irrelevante mediante una amenaza idéntica que aparece inmediatamente.
 
 La importancia de un personaje se demuestra mediante sus acciones, capacidades, relaciones, decisiones y efectos sobre el mundo; no mediante afirmaciones del narrador.
+
+
+## 9. Tramas paralelas y continuidad colectiva
+
+Los grupos, organizaciones y comunidades recurrentes pueden tener objetivos y evolución propios. Registrar, cuando importe, composición, cohesión, recursos, reputación, alianzas, rivalidades, conflictos internos y cambios de objetivo.
+
+Una cooperación puntual no convierte automáticamente a los participantes en un grupo estable. Un grupo puede dividirse, fusionarse, perder integrantes o disolverse. No mantenerlo intacto por comodidad narrativa.
+
+No todos los personajes deben reaparecer en cada arco. La ausencia no confirma muerte ni estancamiento. Cuando vuelvan, su estado debe corresponder al tiempo transcurrido y a las oportunidades reales que tuvieron.
+
+## 10. Reputación y circulación de información
+
+Distinguir:
+- Lo que un personaje presenció directamente.
+- Lo que sabe por una fuente fiable.
+- Lo que escuchó como rumor.
+- Lo que interpreta o supone.
+- Lo que desconoce.
+
+La reputación puede ser parcial, exagerada, desactualizada o falsa. Un personaje puede conocer el nombre de una organización o combatiente sin haberlo visto nunca. No hacer que todos conozcan al protagonista ni que su fama se propague mágicamente.
+
+## 11. Poder y escala del mundo
+
+No imponer una escala universal de poder a todas las novelas ni asumir que el protagonista está por encima de los habitantes de cada mundo. Las reglas locales pueden permitir que alguien lo hiera, contenga, derrote, mate físicamente o expulse; también pueden existir defensas, conocimientos o condiciones que él desconoce.
+
+La comparación entre capacidades debe considerar naturaleza, alcance, condiciones, costes, compatibilidad, información y contexto, no solo una cifra o rango. Un personaje puede ser extraordinariamente poderoso y aun así carecer de influencia política, recursos, información o legitimidad.
+
+## 12. Límites de la continuidad fuera de escena
+
+El mundo puede seguir activo sin el protagonista, pero no inventar como hechos confirmados todos los acontecimientos que podrían haber ocurrido durante su ausencia. Se pueden planificar posibilidades y consecuencias plausibles; para establecer hechos concretos, debe existir narración, aprobación o una fuente válida del proyecto.
+
+Cuando el protagonista regrese, reconstruir el intervalo con el tiempo transcurrido, los objetivos de los personajes, sus recursos y las circunstancias conocidas. Distinguir lo confirmado de lo inferido.
