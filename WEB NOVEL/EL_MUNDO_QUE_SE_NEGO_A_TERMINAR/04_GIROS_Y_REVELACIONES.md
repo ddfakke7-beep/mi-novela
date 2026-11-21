@@ -40,11 +40,13 @@ La afinidad de Player puede convertirlo en candidato para abrir la conexión. La
 
 **Preparación:** anomalías pequeñas, observaciones de la Diosa Oscura, investigaciones que no llegan a una conclusión inmediata. Debe existir margen para que la hipótesis se confirme, se refute o cambie.
 
-## Giro 7 — El Desastre actual puede querer proteger algo y aun así continuar siendo una amenaza
+## Giro 7 — El Desastre no interpreta su misión como lo haría un humano
 
-El lector descubre que el Desastre tiene un vínculo concreto que valora. Pero su misión no desaparece por ello. Su contradicción no es una máscara: ambas cosas son verdaderas y pueden conducirlo a decisiones terribles.
+El Desastre fue creado por el universo para ejecutar el reinicio y hereda recuerdos y conocimientos de Desastres anteriores. La revelación interesante no tiene que ser que se encariñó con alguien o que quiere proteger algo: puede ser descubrir cómo procesa esos recuerdos, qué entiende por su propia identidad y qué significado atribuye al mundo que debe reiniciar.
 
-**Preparación:** actos de protección que parecen menores, decisiones que retrasan una acción sin abandonarla, reacciones que revelan apego y luego muestran que no ha renunciado a su propósito.
+Puede aceptar su función sin conflicto sentimental, considerarla una continuidad natural o desarrollar una perspectiva inesperada a partir de sus experiencias. No se debe decidir de antemano que se rebelará, que renunciará a la misión o que tendrá un vínculo afectivo que lo frene.
+
+**Preparación:** mostrar gradualmente qué recuerdos reconoce como propios, cómo habla de los Desastres anteriores, qué observa de los habitantes y cómo responde a las preguntas de la organización. Sus decisiones deben revelar su lógica antes de que se explique por completo.
 
 ## Giro 8 — La organización no conoce la verdad que cree estar aprovechando
 
@@ -63,6 +65,8 @@ Aunque se consiga cortar el vínculo, no se revierten automáticamente las muert
 - Que todo haya sido planeado por el universo, la sacerdotisa o una diosa desde el principio.
 - Que una diosa revele de golpe toda la verdad porque «siempre lo supo».
 - Que el Desastre sea en realidad bueno y nunca haya querido cumplir su misión.
+- Que el Desastre necesite un ser querido, una víctima protegida o un apego emocional para resultar interesante.
+- Que su única profundidad posible sea rebelarse contra la función para la que fue creado.
 - Que Player sea el único ser posible sin haber establecido por qué.
 - Que el líder de la organización sea un subordinado fingido que en secreto controla al Desastre.
 - Que el héroe antiguo haya previsto cada decisión de la generación actual.
