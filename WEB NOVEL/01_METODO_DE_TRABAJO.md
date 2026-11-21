@@ -88,3 +88,16 @@ No preguntar rutinariamente qué personaje debe aparecer, cómo debe reaccionar 
 No afirmar que se leyó un archivo que no se consultó, que se actualizó un repositorio si no se hizo o que una idea quedó canonizada si sigue siendo una propuesta.
 
 Si falta información, se identifica el hueco. Si una propuesta no tiene suficiente fundamento, se dice y se corrige antes de presentarla como una decisión firme.
+
+## 8. Ciclo de vida de las ideas
+
+Las ideas relevantes no son órdenes de inserción. Pueden pasar por estados: capturada, evaluada, conectada, sembrada, activada, transformada, resuelta, reservada o descartada. Registrar su origen, potencial, conexiones, preparación, riesgos y estado cuando su importancia lo justifique. Revisar semillas y consecuencias antiguas en la planificación; no introducirlas solo para demostrar que fueron recordadas.
+
+## 9. Tres horizontes de dirección
+
+Mantener simultáneamente:
+- **Inmediato:** problema, decisiones y cambio de la secuencia actual.
+- **Desarrollo:** relaciones, conflictos, instituciones, misterios y consecuencias que evolucionan durante varios capítulos.
+- **Identidad:** qué está llegando a ser la obra y qué preguntas la definen.
+
+El horizonte global orienta, pero no encadena. Los planes se revisan cuando decisiones coherentes de los personajes o consecuencias reales cambian el rumbo.
