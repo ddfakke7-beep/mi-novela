@@ -63,7 +63,7 @@ Esta primera versión organiza lo acordado y el material identificado. No preten
 
 ## 6. Fuentes y límites
 
-La consolidación toma como referencia los cuatro proyectos originales, que se mantienen intactos en sus carpetas. La nueva carpeta no los reemplaza ni los modifica.
+La consolidación tomó como referencia FIN, DREAM, UMBRAL y NEXUS; sus carpetas se retiraron de la rama principal después de migrar la metodología y los conceptos recuperables. Sus versiones anteriores permanecen en el historial de GitHub. JUEGOS es un proyecto separado y no fue modificado.
 
 Las ideas argumentales se conservan como material creativo. Antes de utilizarlas en una novela concreta, se adaptarán a la identidad, las reglas y la lógica de ese mundo.
 
