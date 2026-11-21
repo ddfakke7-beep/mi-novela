@@ -39,7 +39,13 @@ El lore de JUEGOS establece como base:
 8. Si Player es compatible como recipiente y qué alternativas reales existen.
 9. Qué desencadena el deterioro y la guerra actual.
 10. Qué personajes secundarios sostendrán cada arco.
+11. Revisar nombres, poderes, motivaciones y relaciones del elenco de `05_PERSONAJES/ELENCO_PRINCIPAL.md`.
 
 ## Regla
 
 No tratar propuestas como hechos. Toda modificación de la continuidad debe quedar registrada con su justificación y efecto sobre los arcos futuros.
+
+
+## Nuevo material de elenco
+
+Se creó `05_PERSONAJES/ELENCO_PRINCIPAL.md` con doce talentos de la generación de Player y el Héroe, cuatro figuras de la cima adulta y cinco personajes cercanos a esa cima. Cada perfil incluye personalidad, estilo o poder, ventaja, límite, objetivo y relaciones. Todo el elenco es propuesta pendiente de revisión; no modifica el lore de JUEGOS.
