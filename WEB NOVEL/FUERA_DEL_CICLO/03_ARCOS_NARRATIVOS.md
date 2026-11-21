@@ -2,52 +2,56 @@
 
 **Estado: propuesta de estructura general. No es un orden inamovible ni canon aprobado.**
 
-La historia debe crecer desde conflictos humanos concretos hasta el problema cosmológico. No conviene comenzar con la explicación del reinicio ni convertir cada arco en una misión para conseguir una pieza del ritual.
+La historia debe crecer desde conflictos humanos concretos hasta el problema cosmológico. La guerra actual es un eje histórico importante, no un decorado ni una excusa para reunir a todos los personajes.
 
 ## Prólogo — La victoria incompleta (opcional)
 
-Mostrar un fragmento de la guerra de hace 500 años sin explicar todo. El héroe antiguo y sus compañeros derrotan y sellan al Desastre. El lector entiende que se ha ganado una batalla terrible, pero queda una imagen o decisión que no encaja con la versión heroica oficial.
+Mostrar un fragmento de la guerra de hace 500 años sin explicar todo. El héroe antiguo y sus compañeros derrotan y sellan al Desastre de aquella época. El lector entiende que se ha ganado una batalla terrible, pero queda una decisión o imagen que no encaja con la versión heroica oficial.
 
 **Función:** crear una pregunta histórica y establecer que la victoria no fue definitiva. Puede omitirse si el inicio contemporáneo funciona mejor.
 
-## Arco I — Una era que heredó la guerra
+## Arco I — Las cicatrices de una guerra antigua
 
-**Foco:** mundo actual, conflictos locales y presentación gradual de los protagonistas.
+**Foco:** presentar la época actual antes de que la guerra alcance su máxima escala.
 
-- Presentar una región que todavía vive las consecuencias de la guerra anterior.
-- Mostrar tensiones entre autoridades, órdenes, gremios, comunidades y grupos armados.
-- Introducir al Héroe actual en una situación donde su carácter y su competencia se vean antes de explicar su origen.
+- Mostrar cómo el mundo reconstruyó su orden después de la guerra de hace 500 años.
+- Presentar regiones, reinos, órdenes, tensiones religiosas, rutas, comercio y disputas que existan por razones propias.
+- Mostrar que la historia del héroe antiguo está convertida en leyenda, aunque ciertos grupos conserven versiones más completas.
+- Introducir al Héroe actual mediante sus acciones y su carácter, no mediante una explicación de su origen.
 - La Diosa de la Luz reconoce en él una resonancia familiar, pero no revela de inmediato todo lo que sabe.
-- Introducir a Player desde una línea propia, con problemas y relaciones que no dependan del Héroe.
-- La Diosa Oscura se interesa por Player por una razón que se desarrolla en escenas, no por una explicación profética.
-- Cerrar con las primeras señales de que las anomalías actuales no son simples problemas regionales.
+- Introducir a Player desde una situación distinta, con vínculos y problemas que no dependan del Héroe.
+- La Diosa Oscura se interesa por Player por curiosidad; el vínculo debe desarrollarse en escenas.
+- Hacer visibles tensiones políticas y sociales que puedan desembocar en la guerra actual. No atribuirlas automáticamente al Desastre.
 
-**Resultado:** el lector conoce a las personas y el mundo antes de conocer la solución global.
+**Resultado:** el lector conoce a las personas y el mundo antes de que la escala del conflicto se dispare.
 
-## Arco II — Las marcas del héroe
+## Arco II — La guerra de la nueva era
 
-**Foco:** el Estigma, las reacciones humanas y el precio de convertirse en símbolo.
+**Foco:** el conflicto devastador de la época actual y el cambio generacional que provoca.
 
-- Las marcas del Héroe actual empiezan a manifestar propiedades que recuerdan al héroe antiguo.
-- Personas informadas reaccionan de maneras distintas: admiración, temor, interés de investigación, deseo de control o intención preventiva de eliminarlo.
-- El Héroe descubre que ser reconocido como «el nuevo héroe» puede ser una carga política, no solo un honor.
-- La Diosa de la Luz lo guía, pero sus recuerdos del héroe antiguo no le dan respuestas para cada problema actual.
-- Player avanza por su propia línea. Su relación con la Diosa Oscura se vuelve más cercana, sin perder fricción ni diferencias de perspectiva.
-- Los dos protagonistas pueden conocerse y construir amistad por circunstancias concretas, no porque una fuerza los obligue a unirse.
+- La guerra estalla por causas humanas y geopolíticas que deben tener lógica propia. El Desastre no tiene que haberla provocado.
+- Los bandos deben perseguir objetivos comprensibles: territorio, seguridad, recursos, influencia, supervivencia, religión o control de capacidades excepcionales.
+- La guerra debe crecer por decisiones, alianzas, errores de cálculo y represalias, no porque todos los líderes se vuelvan irracionales.
+- El Héroe actual queda implicado por sus acciones y por la reacción que provoca su Estigma. No debe convertirse instantáneamente en comandante ni en salvador de todos.
+- Player atraviesa el conflicto desde una trayectoria propia. Puede coincidir con el Héroe y formar una amistad, pero no tiene que compartir cada batalla ni cada objetivo.
+- La Diosa de la Luz puede guiar al Héroe, pero su experiencia de la guerra antigua no garantiza que comprenda esta guerra.
+- La Diosa Oscura acompaña a Player y observa cómo responde al sufrimiento y a la muerte; no debe quitarle las consecuencias.
+- La guerra debe cobrar un precio enorme: la mayoría de los combatientes y de las grandes fuerzas de esa generación muere o desaparece, produciendo un relevo histórico comparable al de hace 500 años.
+- La victoria, derrota o armisticio no debe dejar el mundo como estaba. Fronteras, instituciones, jerarquías y relaciones cambian.
 
-**Resultado:** el lector entiende que el pasado se repite en ciertos patrones, pero no en las mismas personas ni circunstancias.
+**Resultado:** la guerra se convierte en un acontecimiento que define a la generación protagonista y cambia el tablero para el resto de la novela.
 
-## Arco III — La organización de la cima
+## Arco III — El precio de la cima
 
-**Foco:** antagonismo humano y el Desastre en crecimiento.
+**Foco:** la organización que sirve al Desastre y el mercado humano del poder.
 
-- Presentar una organización poderosa que encontró al nuevo Desastre cuando todavía era joven y decidió protegerlo/criarlo por lo que podía llegar a ser.
-- Su líder no es un fanático ni cree que pueda manipular al Desastre. Acepta servirlo porque el poder que recibe le permite superar su límite.
+- Presentar una organización poderosa que encontró al nuevo Desastre cuando todavía era joven y decidió protegerlo o criarlo por lo que podía llegar a ser.
+- El líder no es un fanático ni cree que pueda manipular al Desastre. Acepta servirlo porque el poder que recibe le permite superar su límite.
 - Si pudiera matar al Desastre y apropiarse de su poder, lo haría; no lo intenta porque entiende la diferencia de fuerzas.
 - La organización tiene objetivos, jerarquías, disputas y miembros que aceptaron el precio por motivos propios.
+- Puede aprovechar el caos de la guerra para reclutar, negociar o expandir influencia, pero no debe ser la causa secreta de todos los acontecimientos.
 - El lector puede conocer la ambición del líder antes de conocer toda la naturaleza de la criatura.
 - El Desastre debe mostrarse como individuo con voluntad y vínculos, sin revelar todavía toda su misión ni resolver su contradicción.
-- La organización no controla todos los acontecimientos del mundo ni es responsable de cada enemigo.
 
 **Resultado:** el conflicto humano tiene antagonistas con lógica propia y el Desastre deja de ser una amenaza abstracta.
 
@@ -78,7 +82,7 @@ Mostrar un fragmento de la guerra de hace 500 años sin explicar todo. El héroe
 
 **Resultado:** el conflicto cambia. Ya no basta con vencer al Desastre; hay que decidir si la solución heredada es viable y qué derecho tiene alguien a exigir su precio.
 
-## Arco VI — La separación
+## Arco VI — Dos caminos separados
 
 **Foco:** Player, la pérdida y las consecuencias de caminar sin el otro.
 
@@ -90,7 +94,7 @@ Mostrar un fragmento de la guerra de hace 500 años sin explicar todo. El héroe
 - El Héroe enfrenta las consecuencias de actuar sin su amigo y descubre que el método heredado no le ofrece una respuesta para todo.
 - La separación cambia a ambos y a sus relaciones con otros personajes.
 
-**Resultado:** los protagonistas dejan de ser un equipo que siempre puede apoyarse en el otro y demuestran que sus historias funcionan de manera independiente.
+**Resultado:** los protagonistas dejan de ser un equipo que siempre puede apoyarse en el otro y demuestran que sus historias funcionan por separado.
 
 ## Arco VII — El Desastre que conoce su destino
 
@@ -105,7 +109,7 @@ Mostrar un fragmento de la guerra de hace 500 años sin explicar todo. El héroe
 
 **Resultado:** el antagonista principal adquiere una tragedia y una voluntad propias sin perder la gravedad de lo que representa.
 
-## Arco VIII — El derecho a elegir
+## Arco VIII — Fuera del ciclo
 
 **Foco:** la decisión final sobre el mundo.
 
