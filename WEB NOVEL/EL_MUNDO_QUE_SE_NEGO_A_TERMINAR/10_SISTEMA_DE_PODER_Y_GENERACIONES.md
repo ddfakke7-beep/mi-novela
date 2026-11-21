@@ -32,13 +32,15 @@ La fuerza colectiva no equivale automáticamente a la fuerza individual. Un líd
 
 ### C. Talentos en ascenso
 
-Incluye a los prodigios de la generación de Player y el Héroe, así como a talentos de otras edades que todavía no alcanzan su máximo potencial.
+Incluye a los prodigios de la generación de Player y el Héroe, así como a talentos de otras edades que todavía no alcanzan su máximo potencial. Esta franja no equivale a poder alto desde el inicio: la mayoría de los jóvenes talentos empieza en una etapa temprana o intermedia de su desarrollo.
 
 No todos tienen que convertirse en los más fuertes. Algunos destacarán por combate, otros por magia, estrategia, curación, barreras, exploración, investigación, liderazgo o especialización contra anomalías.
 
 ## 3. La generación de Player y el Héroe
 
-Debe contener **como mínimo diez talentos destacados**, y puede contener más si la escala del mundo lo requiere. Los diez perfiles iniciales están descritos en el índice de personajes.
+Debe contener **como mínimo diez talentos destacados**, y puede contener más si la escala del mundo lo requiere. El primer elenco propuesto contiene doce talentos además de Player y el Héroe.
+
+Regla de punto de partida: los doce talentos del elenco no comienzan como figuras extraordinarias ya consolidadas. Sus perfiles describen capacidades, especialidades y potenciales que madurarán a lo largo de años. Al inicio habrá diferencias de talento, entrenamiento y experiencia, pero ninguno debe confundirse con los cuatro Peak adultos ni con las cinco figuras cercanas a la cima, que sí parten siendo fuerzas establecidas.
 
 Reglas para ese elenco:
 1. Player y el Héroe son dos integrantes de la generación, no sus propietarios narrativos.
