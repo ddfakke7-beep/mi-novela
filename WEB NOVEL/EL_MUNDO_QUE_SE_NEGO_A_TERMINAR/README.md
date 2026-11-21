@@ -33,6 +33,7 @@ La historia no trata solo de derrotar al Desastre. Trata de descubrir si el mund
 - [08 — Estado de continuidad](08_CONTINUIDAD/ESTADO_ACTUAL.md)
 - [08 — Historial](08_CONTINUIDAD/HISTORIAL.md)
 - [09 — Banco de ideas](09_BANCO_DE_IDEAS.md)
+- [10 — Sistema de poder y generaciones](10_SISTEMA_DE_PODER_Y_GENERACIONES.md)
 - [Capítulos](CAPITULOS/README.md)
 
 ## Principios de adaptación
@@ -45,6 +46,8 @@ La historia no trata solo de derrotar al Desastre. Trata de descubrir si el mund
 6. Las diosas no son omniscientes ni solucionan los conflictos en lugar de los personajes.
 7. El mundo no se detiene para esperar a los protagonistas. Las guerras, organizaciones y personajes tienen objetivos propios.
 8. Ningún personaje está obligado a aceptar un sacrificio por el simple hecho de que una profecía, un método o una generación anterior lo haya previsto.
+9. Player y el Héroe forman parte de una generación con al menos diez talentos destacados; no tienen protección narrativa ni superioridad automática.
+10. Las figuras cercanas a la cima pueden mantener fuerzas independientes, y las anomalías son una amenaza permanente de distintos niveles.
 
 ## Estado
 
