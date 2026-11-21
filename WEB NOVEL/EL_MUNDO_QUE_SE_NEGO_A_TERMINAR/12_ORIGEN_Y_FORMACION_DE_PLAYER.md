@@ -47,7 +47,7 @@ Garran no es el mejor maestro de espada ni un instructor universal. Su especiali
 5. Reconocer cuándo retirarse: sobrevivir no es cobardía y una retirada bien ejecutada puede salvar a todo un equipo.
 6. Pensar en el grupo: una decisión brillante que deja al resto sin salida no es necesariamente una buena decisión.
 
-Player recibe una base útil, no un atajo hacia la cima. Su estilo de combate posterior deberá desarrollarse con otros maestros, compañeros, rivales y experiencias propias. Garran puede seguir influyendo en él incluso cuando pasen años sin verse.
+Player recibe una base útil, no un atajo hacia la cima. Su estilo de combate posterior deberá desarrollarse con otros maestros, compañeros, rivales y experiencias propias. Daren Kross, talento de su misma generación, puede convertirse más adelante en compañero y guía circunstancial para el trabajo de campo; eso complementa la influencia temprana de Garran, no la reemplaza. Garran puede seguir influyendo en Player incluso cuando pasen años sin verse.
 
 ## 4. El primer quiebre: una evacuación que sale mal
 
