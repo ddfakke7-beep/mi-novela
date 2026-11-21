@@ -140,12 +140,18 @@ No tener protección narrativa no significa causar daño por obligación. Las de
 
 La primera versión sirve como base, pero todavía es una consolidación inicial, no un método final. Los documentos 02, 03 y 04 deben incorporar explícitamente los doce puntos anteriores. El banco de ideas debe mantener separados conceptos que comparten estética pero cumplen funciones dramáticas diferentes.
 
-## 9. Límites de esta auditoría
+## 9. Límites y estado real de la auditoría (actualizado 2026-11-20)
 
-Se revisaron los documentos maestros y de método de los cuatro proyectos, sus índices y registros de continuidad, el banco de ideas de FIN, la arquitectura y los sistemas principales de NEXUS, las reglas y método de UMBRAL, y capítulos narrativos seleccionados para contrastar cómo se aplicaban los criterios. También se inspeccionó la estructura completa del repositorio.
+Se revisaron los documentos de método de DREAM, incluidos su protocolo, motor de invención, ciclo de vida de ideas, dirección a largo plazo, control editorial, registro de repeticiones, transferencia y agencia/coherencia. También se revisaron la biblia, el estado y los tres capítulos de Primera Frontera. Por tanto, DREAM queda reconocido como el proyecto metodológico más reciente y como la referencia principal para el proceso creativo; FIN aporta semillas argumentales y principios complementarios.
 
-No se realizó una lectura línea por línea de cada archivo HTML de todos los pisos y escenarios ni de los 21 capítulos completos de FIN. Esos archivos son material narrativo extenso y requieren una auditoría por lotes si se quiere extraer cada idea secundaria y cada fallo concreto de ejecución. No se debe confundir esta revisión comparativa del método con una edición literaria integral de todo el corpus.
+También se consultaron las reglas maestras, método y continuidad de UMBRAL; arquitectura, protocolo, método, sistemas principales, fichas y registros de NEXUS; y documentos centrales de FIN. Se inspeccionó el árbol completo del repositorio (220 archivos en las cuatro carpetas). Se examinaron ejemplos narrativos de UMBRAL, NEXUS y DREAM, además de los capítulos de FIN seleccionados en la auditoría anterior.
 
-## 10. Próxima consolidación recomendada
+**No se ha completado una lectura integral de los 220 archivos.** En particular, quedan por revisar de forma completa los 21 capítulos de FIN y el conjunto de archivos HTML de pisos/escenarios de UMBRAL y NEXUS. La inspección de índices y documentos maestros permite comparar métodos, pero no basta para afirmar que se han rescatado todas las ideas narrativas o evaluado cada escena. No se debe presentar esta auditoría como edición literaria integral.
 
-La siguiente revisión de WEB NOVEL debe integrar los doce faltantes de la sección 7 en los documentos principales y no crear más reglas por crear. Después conviene realizar una segunda pasada sobre capítulos y diseños para extraer ideas argumentales no registradas, ejemplos de aciertos y errores repetidos. Los proyectos originales permanecen como archivo de consulta y no deben borrarse hasta cerrar esa extracción.
+## 10. Consolidación realizada y criterio de cierre
+
+Se actualizaron los documentos principales de WEB NOVEL para incorporar: ciclo de vida de ideas y tres horizontes; diseño de escenas y desafíos; gestión de grupos, reputación e información distribuida; auditoría de antagonistas; revisión editorial en cinco lecturas; evidencia de progresión; cierre legítimo; y transferencia entre sesiones. El banco de ideas también incorpora semillas recuperadas de DREAM / Primera Frontera, separadas de las ideas de FIN y marcadas como no canónicas.
+
+**Pendiente antes de borrar las carpetas originales:** lectura completa por lotes de los capítulos y escenarios narrativos aún no examinados, extracción de ideas o recursos que falten en WEB NOVEL, y verificación final de que el banco y la metodología los conservan. Hasta completar ese paso, FIN, DREAM, UMBRAL y NEXUS deben permanecer en el repositorio. Borrarlos ahora contradiría el objetivo de no perder material.
+
+La eliminación se hará en un único cambio después de esa verificación, conservando el historial de GitHub. `JUEGOS` queda excluido y no se modificará.
