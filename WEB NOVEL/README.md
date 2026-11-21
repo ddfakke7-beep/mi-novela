@@ -1,8 +1,8 @@
 # WEB NOVEL — Método general de creación narrativa
 
-**Estado:** primera consolidación de trabajo.  
+**Estado:** método consolidado y ampliado; auditoría del corpus narrativo todavía abierta.  
 **Alcance:** metodología general para desarrollar novelas y web novels nuevas.  
-**Fuentes revisadas:** FIN, DREAM, UMBRAL y NEXUS.
+**Fuentes:** FIN, DREAM, UMBRAL y NEXUS. DREAM es la referencia metodológica más reciente; FIN aporta ideas y principios complementarios.
 
 ## 1. Propósito
 
@@ -66,3 +66,12 @@ Esta primera versión organiza lo acordado y el material identificado. No preten
 La consolidación toma como referencia los cuatro proyectos originales, que se mantienen intactos en sus carpetas. La nueva carpeta no los reemplaza ni los modifica.
 
 Las ideas argumentales se conservan como material creativo. Antes de utilizarlas en una novela concreta, se adaptarán a la identidad, las reglas y la lógica de ese mundo.
+
+
+## 7. Estado de la migración de material
+
+La metodología general y el banco de ideas ya fueron ampliados con aportes de los cuatro proyectos y, en particular, con el ciclo creativo, la dirección a largo plazo, el control editorial y la transferencia de DREAM.
+
+La revisión comparativa de documentos maestros está hecha, pero todavía no se ha leído íntegramente el corpus narrativo de las cuatro carpetas. Por eso los originales se conservan temporalmente. No se eliminarán hasta terminar la extracción de capítulos y escenarios pendientes y verificar que lo valioso esté recogido aquí.
+
+Cuando se cierre esa auditoría, las carpetas FIN, DREAM, UMBRAL y NEXUS podrán retirarse de la rama principal; su historial seguirá disponible en Git. La carpeta JUEGOS no se modifica.
