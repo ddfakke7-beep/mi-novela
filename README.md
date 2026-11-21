@@ -1,18 +1,17 @@
-# Repositorio de proyectos narrativos
+# Repositorio de proyectos
 
-Este repositorio contiene tres novelas independientes y un sistema de dirección creativa:
+Este repositorio reúne los proyectos narrativos y de desarrollo que siguen activos, junto con la documentación general de trabajo.
 
-- **[UMBRAL/](UMBRAL/)**: proyecto narrativo original, con sus reglas, continuidad, personajes y diseños propios.
-- **[NEXUS/](NEXUS/)**: novela independiente en desarrollo, con reglas, personajes, progresión y pisos propios.
-- **[FIN/](FIN/)**: novela independiente en desarrollo, con su propia continuidad, personajes, capítulos e ideas.
-- **[DREAM/](DREAM/)**: sistema de dirección creativa y continuidad transferible. Contiene el protocolo de trabajo para desarrollar proyectos narrativos, mantener su evolución, evitar repeticiones y transferir el estado entre conversaciones o modelos. DREAM no es una novela ni sustituye el canon de los proyectos.
+## Contenido
 
-## Separación de proyectos
+- **[WEB NOVEL/](WEB%20NOVEL/)**: espacio central para desarrollar novelas. Contiene el método de trabajo, criterios de progresión dramática, construcción de mundos y personajes, control de calidad, plantillas, auditorías y un catálogo de conceptos narrativos recuperables. Los conceptos del catálogo son material de referencia, no canon automático.
+- **[JUEGOS/](JUEGOS/)**: proyecto y documentación relacionados con videojuegos. Se mantiene separado de los proyectos narrativos.
 
-Cada novela conserva su identidad, reglas, personajes, cronología y documentos. No se debe trasladar automáticamente contenido de una obra a otra ni convertir ideas de DREAM en canon sin la aprobación correspondiente.
+## Organización y criterios
 
-## Uso de DREAM
+- Cada proyecto conserva su identidad, reglas, continuidad y documentación.
+- Las ideas del catálogo de WEB NOVEL pueden servir como inspiración, pero no se incorporan automáticamente a una novela.
+- Las decisiones nuevas deben distinguirse de lo ya aprobado y revisarse antes de convertirse en parte estable del proyecto.
+- La documentación de WEB NOVEL funciona como metodología y referencia común; no sustituye el canon específico de cada obra.
 
-Antes de trabajar en una novela que utilice DREAM, se debe leer el protocolo obligatorio y seguir su ruta de lectura completa. La autorización para modificar DREAM no autoriza cambios en UMBRAL, NEXUS, FIN ni en otros proyectos.
-
-El `index.html` de la raíz se conserva en su ubicación para no alterar la página principal existente del repositorio.
+El archivo `index.html` de la raíz se conserva en su ubicación.
