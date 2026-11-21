@@ -33,7 +33,7 @@ La historia debe sostener varias preguntas simultáneas:
 - **Pregunta colectiva:** ¿puede el mundo liberarse del reinicio sin destruir aquello que intenta salvar?
 - **Pregunta personal de Player:** ¿qué camino construye alguien cuya vida parece acompañada por desgracias que no comprende?
 - **Pregunta personal del Héroe:** ¿quién puede llegar a ser alguien invocado para cumplir una expectativa que no eligió?
-- **Pregunta del Desastre:** ¿qué ocurre cuando una existencia desarrolla un deseo propio que contradice la función para la que fue creada?
+- **Pregunta del Desastre:** ¿cómo interpreta una existencia creada con una función concreta los recuerdos heredados, el mundo que observa y su propia individualidad? No está obligado a rebelarse contra su propósito ni a desarrollar un apego que lo contradiga.
 
 Las respuestas no deben estar predeterminadas. El pasado ofrece pistas y posibilidades, no órdenes incuestionables.
 
@@ -49,7 +49,7 @@ Es la segunda existencia invocada por el procedimiento de la Sacerdotisa y es di
 
 ### Desastre actual
 
-Es una existencia creada por el universo para ejecutar el reinicio. La organización lo encuentra y protege cuando todavía es joven. Crece, experimenta y desarrolla vínculos durante años. Puede desear proteger algo y aun así conservar su misión. Su desarrollo debe avanzar en paralelo al de Player y el Héroe, sin dominar la novela desde el comienzo.
+Es una existencia creada por el universo para ejecutar el reinicio. La organización lo encuentra y protege cuando todavía es joven. Crece y experimenta durante años bajo la protección de la organización. Su personalidad, sus criterios y la manera en que interpreta la misión deben surgir de su naturaleza, de los recuerdos heredados y de las experiencias que acumule. No necesita un deseo secreto de proteger algo ni una rebelión emocional contra su propósito. Su desarrollo avanza en paralelo al de Player y el Héroe, sin dominar la novela desde el comienzo.
 
 ## 5. El mundo como fuerza narrativa
 
