@@ -1,6 +1,6 @@
 # 05 — Índice de personajes
 
-**Estado: elenco y categorías en desarrollo. Los perfiles de esta página son espacios de diseño; todavía no fijan nombres ni canon definitivo.**
+**Estado: elenco en desarrollo. Los perfiles y nombres del elenco son propuestas narrativas pendientes de aprobación; no constituyen todavía canon literario definitivo.**
 
 ## Personajes centrales
 
@@ -13,12 +13,13 @@
 
 ## Las cinco diosas
 
-- Diosa de la Luz: acompañó al héroe antiguo y acompaña al Héroe actual.
-- Diosa Oscura / de Final: acompaña a Player.
-- Diosa de la Memoria: ayudó a la Sacerdotisa.
-- Diosa de la Vida.
-- Diosa del Equilibrio.
-- Diosa del Cambio.
+- **Diosa de la Vida**, también conocida en su manifestación luminosa como **Diosa de la Luz**: acompañó al héroe antiguo y acompaña al Héroe actual.
+- **Diosa del Final o de la Muerte**, también conocida en su manifestación oscura como **Diosa Oscura**: acompaña a Player.
+- **Diosa de la Memoria**: ayudó a la Sacerdotisa.
+- **Diosa del Equilibrio**.
+- **Diosa del Cambio**.
+
+Son cinco diosas. Luz y Oscuridad son manifestaciones o títulos de Vida y Final, no entidades separadas.
 
 Las funciones y direcciones generales se conservan como referencia; falta desarrollar personalidad, voz, manías, contradicciones, relaciones entre hermanas y límites de intervención.
 
