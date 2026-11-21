@@ -10,6 +10,19 @@ La fuerza no será una escalera en la que cada personaje solo existe para ser su
 
 Esta generación tendrá más de diez talentos relevantes. Los siguientes doce son el primer núcleo de personajes que pueden influir en su época. Player y el Héroe son parte de esta generación, pero no están incluidos en el conteo de los doce.
 
+**Importante: estos doce NO empiezan siendo combatientes de alto nivel.** Las técnicas, ventajas y proyecciones descritas en sus perfiles representan la dirección que podrían alcanzar con años de desarrollo, no el poder que poseen al aparecer por primera vez. Al inicio, sus técnicas serán parciales, menos eficientes y más limitadas; algunos apenas estarán formando una identidad de combate. Sus edades, formación y experiencias iniciales también serán distintas.
+
+La progresión tendrá diferencias reales:
+- Algunos serán prodigios y destacarán desde jóvenes, pero seguirán estando lejos de las figuras adultas de la cima.
+- Otros tendrán una buena base, aunque necesitarán experiencia de campo para convertirla en fuerza efectiva.
+- Algunos empezarán por debajo de sus compañeros y crecerán más tarde, incluso superando a quienes parecían aventajarlos.
+- Otros se especializarán en funciones concretas y nunca serán los mejores en un duelo directo.
+- No todos alcanzarán el mismo techo ni todos progresarán de forma constante.
+
+**Excepción deliberada:** los cuatro Peak adultos y las cinco figuras cercanas a la cima sí son personajes poderosos desde el comienzo de la historia. No necesitan pasar por un arco de aprendizaje básico; su desarrollo estará en sus decisiones, conflictos, límites y cambios de posición en el mundo.
+
+Por tanto, las secciones «Ventaja» y «Proyección» de los doce talentos describen potenciales y rasgos que se irán consolidando. No deben leerse como una ficha de poder inicial ni como una promesa de que todos llegarán a ese nivel.
+
 ## 1. Kael Vardhan — El heredero que no quiere heredar
 
 **Edad y origen:** de la misma franja generacional que Player. Hijo de una casa marcial antigua, conocida por custodiar una técnica de combate transmitida durante siglos.
