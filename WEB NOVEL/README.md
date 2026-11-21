@@ -25,7 +25,7 @@ Cada novela futura tendrá su propia carpeta y conservará de manera independien
 
 Este método no convierte en universales las reglas de FIN, DREAM, UMBRAL o NEXUS. Tampoco mezcla sus personajes, acontecimientos o universos.
 
-**JUEGOS queda fuera de este sistema y no forma parte de esta consolidación.**
+**JUEGOS no forma parte de esta consolidación ni comparte universo con las novelas de esta carpeta.** Su documentación de historia y lore puede consultarse como referencia creativa únicamente cuando se solicite de forma expresa. Cualquier obra nueva inspirada en esa lectura tendrá carpeta, canon, personajes y reglas independientes; JUEGOS no se modifica.
 
 ## 3. Principios generales ya acordados
 
@@ -77,6 +77,10 @@ Se revisaron los 21 capítulos de FIN, los tres capítulos disponibles de DREAM 
 Las carpetas FIN, DREAM, UMBRAL y NEXUS se retiraron de la rama principal después de la extracción. Su historial sigue disponible en GitHub. La carpeta JUEGOS no se modifica.
 
 
-## 8. Catálogo narrativo recuperado
+## 8. Novelas independientes
+
+- [LA DEUDA DEL MUNDO](LA_DEUDA_DEL_MUNDO/README.md): propuesta de fantasía sobre una red de instalaciones que mantiene regiones estables trasladando las alteraciones a otras zonas. Proyecto nuevo, independiente y todavía pendiente de aprobación.
+
+## 9. Catálogo narrativo recuperado
 
 Consulta [08 — Catálogo de conceptos narrativos](08_CATALOGO_DE_CONCEPTOS_NARRATIVOS.md) para las semillas de los 21 mundos de FIN, recursos de UMBRAL, formatos de desafío de NEXUS y conceptos adicionales de DREAM.
