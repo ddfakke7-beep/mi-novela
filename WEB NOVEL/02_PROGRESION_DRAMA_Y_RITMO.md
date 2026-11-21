@@ -163,3 +163,32 @@ Al cerrar una saga, evaluar:
 - Qué experiencia distinta puede ofrecer la siguiente etapa.
 
 No prolongar una saga si su promesa ya se cumplió. No abrir otra solo porque existe una estructura prevista. Cada nueva etapa debe surgir de oportunidades y consecuencias reales.
+
+
+## 11. Cierre de arcos y novelas
+
+No prolongar una saga porque todavía queden personajes, misterios o lugares por explorar. Evaluar si la promesa dramática de esa etapa ya se cumplió y si existe una experiencia distinta que justifique continuar.
+
+Una victoria puede cerrar un conflicto de forma definitiva. La historia puede pasar a reconstrucción, justicia, consecuencias políticas, relaciones o una nueva línea dramática; también puede terminar. No mantener vivo al antagonista mediante escapatorias artificiales ni introducir una amenaza idéntica solo para evitar un cierre.
+
+## 12. Progresión multidimensional
+
+El crecimiento no se reduce a poder o fuerza. Según la obra, puede abarcar:
+- Capacidad física y condición actual.
+- Técnica y dominio de disciplinas.
+- Conocimiento y comprensión del mundo.
+- Criterio, táctica y toma de decisiones.
+- Experiencia práctica bajo presión.
+- Recursos, equipo y posición.
+- Relaciones, confianza, cooperación y liderazgo.
+- Maduración emocional, valores y objetivos.
+
+Distinguir lo que el personaje sabe, lo que comprende pero aún no ejecuta, lo que está practicando y lo que puede aplicar con fiabilidad. Una oportunidad de aprendizaje no equivale a una habilidad dominada. Una victoria no concede dominio automáticamente y una derrota tampoco impide aprender.
+
+No todos progresan en las mismas áreas ni al mismo ritmo. Algunos pueden estancarse, retroceder, negarse a aprender o especializarse a costa de otras capacidades.
+
+## 13. Elipsis y densidad
+
+No narrar cada paso de una evolución. El entrenamiento, los viajes, la recuperación y las tareas rutinarias pueden comprimirse cuando no contengan decisiones o cambios interesantes. La elipsis no debe ocultar el fundamento de una mejora importante: debe quedar claro qué práctica, experiencia, tiempo o recurso la hizo posible.
+
+Un capítulo no necesita una cuota de acción, giro, muerte o revelación. Necesita justificar su extensión con cambios, tensión, experiencia, relaciones o consecuencias.
