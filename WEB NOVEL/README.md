@@ -1,6 +1,6 @@
 # WEB NOVEL — Método general de creación narrativa
 
-**Estado:** método consolidado y ampliado; auditoría del corpus narrativo todavía abierta.  
+**Estado:** migración de metodología y conceptos completada; carpetas antiguas retiradas de la rama principal.  
 **Alcance:** metodología general para desarrollar novelas y web novels nuevas.  
 **Fuentes:** FIN, DREAM, UMBRAL y NEXUS. DREAM es la referencia metodológica más reciente; FIN aporta ideas y principios complementarios.
 
@@ -72,6 +72,11 @@ Las ideas argumentales se conservan como material creativo. Antes de utilizarlas
 
 La metodología general y el banco de ideas ya fueron ampliados con aportes de los cuatro proyectos y, en particular, con el ciclo creativo, la dirección a largo plazo, el control editorial y la transferencia de DREAM.
 
-La revisión comparativa de documentos maestros está hecha, pero todavía no se ha leído íntegramente el corpus narrativo de las cuatro carpetas. Por eso los originales se conservan temporalmente. No se eliminarán hasta terminar la extracción de capítulos y escenarios pendientes y verificar que lo valioso esté recogido aquí.
+Se revisaron los 21 capítulos de FIN, los tres capítulos disponibles de DREAM / Primera Frontera, las páginas narrativas y de diseño disponibles de UMBRAL (pisos 1–10) y las páginas disponibles de NEXUS (pisos 1–7), distinguiendo capítulos escritos de diseños y marcadores pendientes. El catálogo 08 recoge los conceptos y recursos que faltaban. La auditoría describe sus límites: no fue una corrección literaria línea por línea.
 
-Cuando se cierre esa auditoría, las carpetas FIN, DREAM, UMBRAL y NEXUS podrán retirarse de la rama principal; su historial seguirá disponible en Git. La carpeta JUEGOS no se modifica.
+Las carpetas FIN, DREAM, UMBRAL y NEXUS se retiraron de la rama principal después de la extracción. Su historial sigue disponible en GitHub. La carpeta JUEGOS no se modifica.
+
+
+## 8. Catálogo narrativo recuperado
+
+Consulta [08 — Catálogo de conceptos narrativos](08_CATALOGO_DE_CONCEPTOS_NARRATIVOS.md) para las semillas de los 21 mundos de FIN, recursos de UMBRAL, formatos de desafío de NEXUS y conceptos adicionales de DREAM.
