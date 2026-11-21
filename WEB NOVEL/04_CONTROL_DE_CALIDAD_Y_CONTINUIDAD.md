@@ -1,0 +1,129 @@
+# 04 — Control de calidad y continuidad
+
+## 1. La documentación es la memoria persistente
+
+La conversación sirve como contexto temporal. Los documentos vigentes de cada novela son la referencia para recuperar su identidad, canon, reglas, personajes, continuidad y planes.
+
+No depender de recuerdos vagos ni asumir que una conversación anterior será visible en otra sesión. Si un archivo necesario no puede consultarse, decirlo y no fingir que se verificó.
+
+## 2. Separar hechos, planes e interpretaciones
+
+Mantener claramente diferenciados:
+- **Canon confirmado:** acontecimiento narrado y establecido según el procedimiento del proyecto.
+- **Plan:** posible desarrollo futuro que todavía no ha ocurrido.
+- **Hipótesis:** interpretación de un personaje o del autor que puede ser errónea.
+- **Pendiente:** información que falta comprobar o una decisión que todavía no se ha tomado.
+- **Descartado:** idea que se decidió no utilizar, conservando el motivo si puede evitar repetir el problema.
+
+Una idea guardada no es un hecho. Un plan aprobado no significa que el acontecimiento ya ocurrió. Una sospecha de un personaje no es conocimiento objetivo.
+
+## 3. Continuidad de personajes
+
+Para personajes relevantes, conservar según la necesidad de la novela:
+- Estado físico y mental.
+- Heridas, secuelas, recuperación y limitaciones.
+- Capacidades, habilidades y límites demostrados.
+- Conocimientos: qué sabe, qué cree y qué desconoce.
+- Objetivos, motivaciones y prioridades.
+- Relaciones, confianza, deudas, resentimientos y promesas.
+- Recursos, equipo y posesiones importantes.
+- Evolución acumulada y experiencias que la provocaron.
+- Ubicación y situación conocida.
+
+No es necesario crear una ficha extensa para cada persona pasajera. El seguimiento debe ser proporcional a su importancia y a la posibilidad de que reaparezca.
+
+## 4. Continuidad del mundo fuera de escena
+
+Los personajes y organizaciones pueden actuar mientras el protagonista no está presente, pero no inventar acontecimientos fuera de escena como hechos confirmados sin una base narrativa válida.
+
+Cuando la historia vuelva a un personaje ausente, considerar el tiempo transcurrido, sus objetivos, los recursos que tenía y los acontecimientos que podían afectarlo. Su ausencia no significa que haya quedado congelado, pero tampoco autoriza a inventar cualquier cambio.
+
+## 5. Auditoría editorial antes de entregar
+
+Realizar lecturas separadas:
+
+### A. Continuidad
+- ¿Se respetan cronología, ubicación, reglas y hechos?
+- ¿Cada personaje sabe solo lo que pudo conocer?
+- ¿Se conservan heridas, pérdidas, objetos y consecuencias?
+- ¿Se distingue canon de hipótesis y planes?
+
+### B. Causalidad
+- ¿Los acontecimientos nacen de decisiones y condiciones comprensibles?
+- ¿Hay soluciones por conveniencia?
+- ¿Las reacciones son proporcionales?
+- ¿Una limitación existe realmente o apareció para impedir una solución obvia?
+- ¿El resultado habría ocurrido de forma similar sin la decisión que lo provoca?
+
+### C. Personajes y agencia
+- ¿Cada personaje importante quiere algo concreto?
+- ¿Sus decisiones reflejan su personalidad y la información disponible?
+- ¿Los personajes poderosos conservan iniciativa?
+- ¿Los antagonistas tienen objetivos y estrategias?
+- ¿Algún personaje se volvió torpe o cobarde solo para prolongar el conflicto?
+- ¿El protagonista conserva sus capacidades y aprendizajes?
+
+### D. Invención y variedad
+- ¿La secuencia repite un mecanismo ya utilizado?
+- ¿La escalada transforma el conflicto o solo lo hace más grande?
+- ¿Se aprovechan ideas y consecuencias ya sembradas?
+- ¿El giro sorprende antes y tiene sentido después?
+- ¿La historia abre posibilidades nuevas sin saturarse?
+
+### E. Experiencia de lectura
+- ¿Qué escena genera interés real?
+- ¿Dónde se pierde la curiosidad?
+- ¿Qué escena podría eliminarse sin que nada cambiara?
+- ¿Qué emoción produce el desenlace?
+- ¿El sufrimiento está construido mediante decisiones y consecuencias o solo se describe?
+- ¿El capítulo deja un cambio que justifica su extensión?
+
+Si se detecta un defecto importante, corregirlo antes de presentar el texto. No trasladar rutinariamente al usuario el trabajo de encontrar los problemas.
+
+## 6. Control de repetición
+
+Registrar, cuando sea útil:
+- Quién impulsó el conflicto.
+- Qué quería cada parte.
+- Qué mecanismo produjo tensión.
+- Qué decisión cambió la situación.
+- Cómo se resolvió o quedó irresuelto.
+- Qué precio se pagó.
+- Qué consecuencia persiste.
+- Qué experiencia narrativa ofreció.
+- Qué conviene no repetir inmediatamente.
+
+Cambiar el nombre del enemigo, el escenario o el nivel de poder no convierte una secuencia repetida en una secuencia nueva.
+
+## 7. Control de ideas y semillas
+
+Las ideas pueden pasar por este ciclo:
+1. Capturada.
+2. Evaluada.
+3. Conectada con elementos existentes.
+4. Preparada o sembrada.
+5. Activada.
+6. Transformada.
+7. Resuelta, reservada o descartada.
+
+No es obligatorio recorrer cada estado de forma rígida. El propósito es no olvidar ideas valiosas, no forzar su aparición y no convertir el banco en una lista de tareas que la historia deba cumplir.
+
+## 8. Control de consecuencias
+
+Una consecuencia debe mantenerse mientras siga teniendo efecto. No borrar una lesión, una pérdida, una deuda, una ruptura, un cambio político o una decisión difícil solo porque el siguiente capítulo necesita empezar limpio.
+
+Las consecuencias pueden transformarse o resolverse, pero deben hacerlo mediante una causa y un acontecimiento coherentes.
+
+## 9. Actualización documental
+
+Después de un capítulo, arco o etapa aprobada —según el procedimiento de la novela—:
+- Actualizar el estado actual.
+- Registrar hechos confirmados.
+- Actualizar fichas de personajes relevantes.
+- Registrar cambios de relaciones y grupos.
+- Actualizar ideas sembradas, activadas o descartadas.
+- Anotar mecanismos narrativos usados para evitar repeticiones.
+- Mantener planes separados del canon.
+- Verificar los archivos realmente modificados.
+
+No duplicar la misma información en varios documentos si puede mantenerse en una fuente propietaria y resumirse desde allí.
