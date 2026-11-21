@@ -210,3 +210,50 @@ No fusionar estos conceptos por compartir motivos de prisión, poder o catástro
 ## 9. Inspiración de géneros sin copiar obras
 
 Conservar como familias de mundos posibles: sociedades de héroes y villanos, cazadores y portales, gremios y mazmorras, superhumanos, linajes, academias, poderes individuales y organizaciones ocultas. Son puntos de partida de género, no plantillas. Cada mundo debe tener instituciones, historia, reglas, personajes y conflictos originales.
+
+
+## 10. Ideas adicionales recuperadas de DREAM / Primera Frontera
+
+Estas semillas proceden de la biblia, el estado de continuidad y los tres primeros capítulos. Se conservan como conceptos posibles, no como reglas de WEB NOVEL ni como canon de una obra futura.
+
+### 10.1. Acompañante experto que informa sin dirigir
+Una IA, archivo o entidad vinculada al protagonista posee conocimientos amplios y puede enseñar, analizar y comparar información, pero tiene límites claros: no conoce automáticamente la ubicación, el origen del protagonista, los secretos del mundo ni los lugares que nunca han sido documentados.
+
+**Potencial:** evitar el compañero inútil que oculta información para fabricar descubrimientos, sin convertirlo en una solución omnisciente.
+
+**Límite:** separar conocimiento confirmado, inferencia e incógnita. Saber cómo funciona algo no implica saber dónde encontrarlo.
+
+### 10.2. Ecología legible mediante observación
+Un entorno desconocido contiene especies y fenómenos con patrones propios: migración, zonas evitadas, métodos de caza, fuentes de alimento, refugios y señales ambientales.
+
+**Potencial:** hacer que explorar sea interpretar un ecosistema y tomar decisiones, no recorrer un mapa hasta activar encuentros.
+
+**Límite:** una observación no demuestra por sí sola una explicación. Mantener hipótesis abiertas hasta contar con evidencia suficiente.
+
+### 10.3. Fronteras físicas como motor de progresión
+El protagonista descubre pasos físicos que conducen a territorios con condiciones distintas. Avanzar no depende de una misión impuesta, sino de necesidades, cambios del entorno, recursos, oportunidades y decisiones.
+
+**Potencial:** dar estructura de largo recorrido a una historia de exploración y crecimiento sin fijar desde el principio una cosmología cerrada.
+
+**Límite:** no convertir cada frontera en un nivel idéntico ni expulsar al protagonista con una cuenta regresiva o un enemigo convenientemente superior.
+
+### 10.4. El entorno obliga a crecer sin decidir por el protagonista
+Las condiciones del mundo pueden volver inviable permanecer en un lugar, reducir recursos o abrir rutas nuevas. Esa presión exige adaptación, pero el protagonista conserva la decisión de qué hacer y cómo hacerlo.
+
+**Potencial:** conectar progresión personal y cambio del mundo sin recurrir a encargos artificiales.
+
+**Límite:** cada presión debe tener una causa establecida y alternativas reales; no usar el entorno como narrador invisible que ordena la trama.
+
+### 10.5. Supervivencia inicial que deja de ser rutina
+Las primeras necesidades básicas pueden establecer vulnerabilidad y enseñar a leer el entorno, pero no deben convertirse en una sucesión interminable de capítulos dedicados por separado a agua, comida, refugio y fuego.
+
+**Potencial:** usar elipsis y secuencias densas para que la supervivencia evolucione hacia descubrimientos, relaciones, riesgos y objetivos de mayor alcance.
+
+**Límite:** acelerar no significa regalar capacidades ni saltarse causas, preparación o consecuencias.
+
+### 10.6. Crecimiento práctico, recuperación y dominio son cosas distintas
+Un personaje puede recuperarse de una lesión sin mejorar, adaptarse a una situación sin dominarla o adquirir conocimiento sin poder ejecutarlo bajo presión.
+
+**Potencial:** mostrar progresión acumulativa sin convertir cada capítulo en una subida de nivel.
+
+**Límite:** los avances importantes requieren práctica, experiencia o evidencia; no imponer una mejora visible en cada capítulo.
