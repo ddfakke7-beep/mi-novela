@@ -1,16 +1,18 @@
 # 01 — Base narrativa y premisa
 
-**Estado: propuesta de adaptación; pendiente de revisión.**
+**Estado: propuesta de adaptación revisada; pendiente de revisión.**
 
 ## 1. Qué historia quiero contar
 
 Una fantasía épica sobre un mundo que intenta escapar de un destino impuesto desde fuera, pero cuya salvación depende de personas que no fueron creadas para obedecer un plan perfecto.
 
 La historia combina:
-- Aventura y exploración de un mundo amplio.
-- Conflictos entre reinos, órdenes, organizaciones y grupos con intereses incompatibles.
+- La vida y el crecimiento de Player, que nace en este mundo mucho antes de la invocación del Héroe actual.
+- Aventura y exploración en un mundo peligroso, donde anomalías y monstruos de distintos niveles amenazan incluso a comunidades protegidas.
+- Conflictos entre reinos, grandes organizaciones, fuerzas independientes y personajes con intereses incompatibles.
+- Una generación amplia de talentos: Player y el Héroe son dos entre muchos, no los únicos prodigios ni los más fuertes por decreto.
+- Personajes adultos que ocupan la cima o se acercan a ella, algunos con escuelas, compañías, territorios y redes propias.
 - Misterios históricos que se descubren mediante pruebas, testimonios y consecuencias.
-- Relaciones entre personajes que evolucionan por convivencia, desacuerdo, pérdida y decisiones.
 - Una amenaza cósmica cuya naturaleza no equivale a maldad humana.
 - Una pregunta moral: ¿quién puede decidir que una persona debe desaparecer para que los demás tengan futuro?
 
@@ -22,38 +24,51 @@ Hace 500 años, el mundo estuvo cerca de ser destruido. Un héroe invocado derro
 
 En paralelo, una sacerdotisa había descubierto junto a la Diosa de la Memoria que quizá era posible cortar la conexión entre el mundo y el universo. El procedimiento requería dos funciones diferentes: abrir la conexión y después cortarla. La sacerdotisa no llegó a ejecutarlo. El héroe antiguo acabó comprendiendo el método, pero no encontró a alguien capaz de cumplir la primera función sin desaparecer.
 
-Quinientos años después, la nueva generación vive sobre las consecuencias de aquella victoria incompleta. El Héroe actual llega con una anomalía semejante a la del héroe antiguo. Player, que no es uno de los héroes invocados, sigue su propia trayectoria y desarrolla un vínculo con la Diosa Oscura. El nuevo Desastre también existe en esta época, todavía en desarrollo, mientras una organización decide servirlo por el poder que puede conceder.
+Quinientos años después, una nueva generación vive sobre las consecuencias de aquella victoria incompleta. Player nace en ese mundo como reencarnado y construye su propia vida mucho antes de la llegada del Héroe actual. El Héroe aparece mediante la invocación y debe ganarse un lugar entre talentos que ya existen. El nuevo Desastre también crece durante años bajo la protección de una organización poderosa, antes de alcanzar capacidad para influir directamente en acontecimientos de gran escala.
 
 ## 3. Centro emocional
 
-La historia debe sostener dos preguntas simultáneas:
+La historia debe sostener varias preguntas simultáneas:
 
 - **Pregunta colectiva:** ¿puede el mundo liberarse del reinicio sin destruir aquello que intenta salvar?
-- **Pregunta personal:** ¿pueden los protagonistas elegir quiénes quieren ser cuando descubren que otros han preparado un camino para ellos?
+- **Pregunta personal de Player:** ¿qué camino construye alguien cuya vida parece acompañada por desgracias que no comprende?
+- **Pregunta personal del Héroe:** ¿quién puede llegar a ser alguien invocado para cumplir una expectativa que no eligió?
+- **Pregunta del Desastre:** ¿qué ocurre cuando una existencia desarrolla un deseo propio que contradice la función para la que fue creada?
 
-La respuesta no debe ser «el destino tenía razón». El legado del pasado puede ofrecer una posibilidad, nunca una orden incuestionable.
+Las respuestas no deben estar predeterminadas. El pasado ofrece pistas y posibilidades, no órdenes incuestionables.
 
 ## 4. Los tres ejes protagonistas
 
-### El Héroe actual
-Su aparición despierta expectativas, temor y ambición en quienes recuerdan o investigan al héroe de hace 500 años. Su camino trata sobre descubrir su naturaleza, crecer sin repetir exactamente al antiguo y decidir qué hacer con el método que heredó.
-
 ### Player
-Su historia debe tener identidad propia, no ser un apéndice del Héroe ni existir únicamente para convertirse en recipiente. Su relación con la Diosa Oscura, sus vínculos humanos y las tragedias que atraviesa deben sostener una línea emocional completa incluso cuando está separado del Héroe.
 
-### El Desastre actual
-Es una existencia creada para cumplir el reinicio, pero puede desarrollar deseos y vínculos que entren en conflicto con esa función. No debe suavizarse su misión ni convertirse en un villano convencional. Su contradicción debe tener consecuencias reales.
+Es una persona reencarnada que nace en el mundo mucho antes de la invocación del Héroe actual. Su historia empieza con una vida concreta y una motivación propia; no se define únicamente por su relación con el universo ni por una posible compatibilidad como recipiente. Construye fuerza, vínculos y reputación dentro de un mundo que ya tiene sus propios conflictos. La desgracia lo acompaña sin que comprenda inicialmente el patrón, pero no todo acontecimiento adverso debe ser causado por su conexión con el universo.
 
-## 5. El papel del pasado
+### Héroe actual
+
+Es la segunda existencia invocada por el procedimiento de la Sacerdotisa y es distinto de Player. Llega a un mundo con organizaciones, leyendas y talentos que ya se desarrollaban antes de su aparición. Su Estigma debe descubrirse y desarrollarse; ser el Héroe no le concede superioridad automática, reconocimiento universal ni protección narrativa.
+
+### Desastre actual
+
+Es una existencia creada por el universo para ejecutar el reinicio. La organización lo encuentra y protege cuando todavía es joven. Crece, experimenta y desarrolla vínculos durante años. Puede desear proteger algo y aun así conservar su misión. Su desarrollo debe avanzar en paralelo al de Player y el Héroe, sin dominar la novela desde el comienzo.
+
+## 5. El mundo como fuerza narrativa
+
+El mundo no existe para los protagonistas. Las grandes organizaciones tienen intereses y recursos propios; las figuras cercanas a la cima pueden movilizar fuerzas independientes; cada generación produce varios talentos destacados; las anomalías y los monstruos mantienen una amenaza constante.
+
+La seguridad es relativa. Una ciudad puede estar protegida y aun así sufrir una brecha; una expedición bien preparada puede fracasar; una criatura puede superar su clasificación; una organización poderosa puede perder a sus mejores miembros.
+
+Los conflictos humanos no deben ser siempre consecuencias de la trama cosmológica. El mundo tiene guerras, rivalidades, ambiciones y tragedias que existirían incluso si el Desastre no estuviera presente.
+
+## 6. El papel del pasado
 
 El héroe antiguo y la sacerdotisa no deben ocupar la novela como simples leyendas que explican el argumento. Sus decisiones dejaron consecuencias concretas: sellos, conocimientos incompletos, instituciones, versiones históricas y personas que heredaron problemas que no comprenden.
 
 El pasado se revela cuando el presente tropieza con sus rastros.
 
-## 6. Apertura que propongo
+## 7. Apertura que propongo
 
-No empezaría con una explicación del universo ni con una escena del héroe antiguo.
+No empezaría con una explicación del universo ni con una escena del héroe antiguo. Abriría con Player y un conflicto local que muestre cómo vive la gente, qué fuerzas compiten y qué peligros existen. El Héroe actual aparecerá mucho después, cuando el lector ya conozca una parte del mundo y haya visto crecer a Player.
 
-Abriría en la época actual con un conflicto local que muestre cómo vive la gente, qué fuerzas compiten y qué peligros existen. El Héroe y Player entrarían en la narración desde situaciones distintas. Sus anomalías se notarían primero por las reacciones de otros y por consecuencias observables, no por una exposición inmediata.
+El Desastre tendrá su propia línea de desarrollo, inicialmente discreta. La organización que lo protege no debe presentarse de inmediato como el enemigo final.
 
-La historia debe conseguir que el lector se interese por las personas antes de pedirle que se preocupe por el destino del mundo.
+La historia debe conseguir que el lector se interese por las personas y el mundo antes de pedirle que se preocupe por el destino de la realidad.
