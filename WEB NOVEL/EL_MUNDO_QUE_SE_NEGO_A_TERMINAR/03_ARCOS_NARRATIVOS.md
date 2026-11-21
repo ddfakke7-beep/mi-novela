@@ -73,7 +73,7 @@ La propuesta de infancia y mentoría está desarrollada en [12 — Origen y form
 - Los personajes cercanos a la cima no son cuatro nombres aislados: varios mantienen fuerzas propias y pueden alterar conflictos regionales.
 - El Héroe descubre gradualmente su Estigma. Su evolución no copia la del héroe antiguo.
 - Player desarrolla una identidad y una forma de combatir que no dependen del Héroe.
-- El Desastre crece bajo la protección de la organización. Aprende, experimenta y desarrolla vínculos; todavía no debe intervenir como una fuerza capaz de dominar la historia.
+- El Desastre crece bajo la protección de la organización. Aprende, experimenta y forma una personalidad propia; la manera en que interpreta los recuerdos heredados y su misión se desarrolla sin presuponer apego, rebeldía ni deseo de proteger algo. Todavía no debe intervenir como una fuerza capaz de dominar la historia.
 - La organización final permanece en segundo plano. Sus movimientos pueden aparecer como señales indirectas, sin revelar prematuramente su alcance.
 
 **Resultado:** los tres ejes han crecido, pero ninguno recibe una victoria automática ni domina todavía todos los acontecimientos.
@@ -112,7 +112,7 @@ La propuesta de infancia y mentoría está desarrollada en [12 — Origen y form
 - El vínculo entre Player y la Diosa Oscura se profundiza sin convertirlo en una relación maternal ni quitarle agencia.
 - La organización final empieza a mostrarse con mayor claridad, pero conserva miembros, objetivos y secretos que no se revelan de golpe.
 - El líder mantiene una obediencia calculada al Desastre: entiende la diferencia de poder y busca superar su propio límite.
-- El Desastre ya puede intervenir directamente. Su deseo de proteger algo entra en conflicto con su misión de reinicio, pero no la cancela.
+- El Desastre ya puede intervenir directamente. Para entonces el lector debe comprender cómo interpreta su función, qué piensa de los recuerdos heredados y qué relación mantiene con la organización que lo crió. Puede cumplir su misión sin conflicto sentimental; cualquier contradicción personal deberá surgir de su carácter y de los hechos, no imponerse como requisito.
 
 **Resultado:** las líneas personales, políticas e históricas comienzan a converger por consecuencias acumuladas.
 
