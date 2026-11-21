@@ -13,14 +13,14 @@ El lore de JUEGOS establece como base:
 - Sacerdotisa y Diosa de la Memoria investigan cómo cortar la conexión.
 - Héroe antiguo invocado hace 500 años derrota y sella al Desastre de su época.
 - Héroe actual es la segunda existencia invocada, distinta de Player.
-- Player es una persona reencarnada según la dirección provisional y desarrolla un vínculo con la Diosa Oscura.
+- Player es una persona reencarnada que nace en este mundo mucho antes de la invocación del Héroe actual y desarrolla un vínculo con la Diosa Oscura, manifestación de la Diosa del Final.
 - El Desastre actual es la manifestación destinada a completar el reinicio.
 - Una organización sirve al Desastre por el poder que recibe; su líder conoce su subordinación y la acepta de forma calculada.
 
 ## Propuestas narrativas añadidas aquí
 
 - Título literario de trabajo: EL MUNDO QUE SE NEGÓ A TERMINAR.
-- Estructura de ocho arcos más un prólogo opcional.
+- Estructura de nueve sagas más un prólogo opcional.
 - Apertura en la época actual con un conflicto local, no con una explicación cosmológica.
 - Desarrollo paralelo de las líneas del Héroe y Player.
 - Revelaciones graduales sobre la sacerdotisa, el método, la organización y el Desastre actual.
@@ -38,7 +38,8 @@ El lore de JUEGOS establece como base:
 7. Qué reglas permiten abrir y cortar la conexión.
 8. Si Player es compatible como recipiente y qué alternativas reales existen.
 9. Qué desencadena el deterioro y la guerra actual.
-10. Qué personajes secundarios sostendrán cada arco.
+10. Qué personajes secundarios sostendrán cada saga.
+11. Desarrollo definitivo de la infancia, mentoría y primer quiebre de Player; existe una propuesta inicial en `12_ORIGEN_Y_FORMACION_DE_PLAYER.md`.
 11. Revisar nombres, poderes, motivaciones y relaciones del elenco de `05_PERSONAJES/ELENCO_PRINCIPAL.md`.
 
 ## Regla
