@@ -28,6 +28,7 @@ La historia no trata solo de derrotar al Desastre. Trata de descubrir si el mund
 - [03 — Arcos narrativos](03_ARCOS_NARRATIVOS.md)
 - [04 — Giros y revelaciones](04_GIROS_Y_REVELACIONES.md)
 - [05 — Personajes y relaciones](05_PERSONAJES/INDICE.md)
+  - [Elenco principal: talentos y figuras de poder](05_PERSONAJES/ELENCO_PRINCIPAL.md)
 - [06 — Organizaciones y conflictos](06_ORGANIZACIONES.md)
 - [07 — Estructura de narración y ritmo](07_NARRACION_Y_RITMO.md)
 - [08 — Estado de continuidad](08_CONTINUIDAD/ESTADO_ACTUAL.md)
