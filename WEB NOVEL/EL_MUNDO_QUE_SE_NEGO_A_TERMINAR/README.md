@@ -35,6 +35,8 @@ La historia no trata solo de derrotar al Desastre. Trata de descubrir si el mund
 - [08 — Historial](08_CONTINUIDAD/HISTORIAL.md)
 - [09 — Banco de ideas](09_BANCO_DE_IDEAS.md)
 - [10 — Sistema de poder y generaciones](10_SISTEMA_DE_PODER_Y_GENERACIONES.md)
+- [11 — Trasfondo de las figuras de la cima](11_TRASFONDO_FIGURAS_CIMA.md)
+- [12 — Origen y formación de Player](12_ORIGEN_Y_FORMACION_DE_PLAYER.md)
 - [Capítulos](CAPITULOS/README.md)
 
 ## Principios de adaptación
