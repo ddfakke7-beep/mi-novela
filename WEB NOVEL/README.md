@@ -25,7 +25,7 @@ Cada novela futura tendrá su propia carpeta y conservará de manera independien
 
 Este método no convierte en universales las reglas de FIN, DREAM, UMBRAL o NEXUS. Tampoco mezcla sus personajes, acontecimientos o universos.
 
-**JUEGOS no forma parte de esta consolidación ni comparte universo con las novelas de esta carpeta.** Su documentación de historia y lore puede consultarse como referencia creativa únicamente cuando se solicite de forma expresa. Cualquier obra nueva inspirada en esa lectura tendrá carpeta, canon, personajes y reglas independientes; JUEGOS no se modifica.
+**JUEGOS se mantiene intacto y separado como proyecto.** Cuando se solicite desarrollar una novela a partir de su historia y lore, esa adaptación tendrá una carpeta literaria propia dentro de WEB NOVEL, con estructura, continuidad y desarrollo narrativo independientes. La referencia no autoriza a modificar los archivos de JUEGOS.
 
 ## 3. Principios generales ya acordados
 
@@ -79,7 +79,7 @@ Las carpetas FIN, DREAM, UMBRAL y NEXUS se retiraron de la rama principal despu�
 
 ## 8. Novelas independientes
 
-- [LA DEUDA DEL MUNDO](LA_DEUDA_DEL_MUNDO/README.md): propuesta de fantasía sobre una red de instalaciones que mantiene regiones estables trasladando las alteraciones a otras zonas. Proyecto nuevo, independiente y todavía pendiente de aprobación.
+- [FUERA DEL CICLO](FUERA_DEL_CICLO/README.md): desarrollo literario independiente basado en la historia y el lore de JUEGOS. JUEGOS permanece intacto; esta carpeta desarrolla la novela, sus arcos, giros y continuidad.
 
 ## 9. Catálogo narrativo recuperado
 
