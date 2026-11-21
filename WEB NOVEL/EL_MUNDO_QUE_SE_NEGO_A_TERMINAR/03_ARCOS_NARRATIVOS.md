@@ -135,3 +135,17 @@ Un fragmento de la guerra de hace 500 años: el héroe antiguo y sus compañeros
 5. Player, el Héroe y el Desastre no son los únicos talentos ni las únicas fuerzas capaces de cambiar la historia.
 6. Los personajes secundarios y las organizaciones mantienen objetivos propios incluso cuando los protagonistas no están presentes.
 7. Las sagas pueden alternar puntos de vista y contener subarcos; no es obligatorio que todos los personajes participen en todos los acontecimientos.
+
+
+## Enfoque narrativo de los talentos secundarios
+
+Player y el Héroe son los dos focos protagonistas principales, pero no son el centro permanente de la vida del mundo. Los doce talentos y las demás figuras mantienen sus propios caminos, incluso cuando la narración no los acompaña.
+
+- Los personajes que compartan una etapa, misión o conflicto con Player o el Héroe podrán mostrar su crecimiento directamente mediante esas experiencias.
+- Los que sigan caminos independientes avanzarán fuera de escena. Sus cambios se harán visibles cuando vuelvan a aparecer: nuevas capacidades, heridas, reputación, responsabilidades, alianzas, derrotas o cambios de objetivos.
+- No se narrará de forma rutinaria cada entrenamiento, misión o año de cada talento. Se mostrarán solo los momentos que tengan peso dramático o cambien cómo entendemos su situación.
+- Algunos podrán aparecer en escenas o capítulos breves desde su perspectiva cuando sea necesario mostrar un acontecimiento que los protagonistas no presencian y que tenga consecuencias relevantes.
+- No todos tendrán la misma frecuencia de aparición. Algunos serán recurrentes; otros aparecerán pocas veces, pero sus acciones fuera de cámara seguirán teniendo efectos reales.
+- El mundo no se detiene cuando Player o el Héroe no miran: otros pueden progresar, estancarse, superar a los protagonistas, fracasar, cambiar de bando o morir sin que ellos estén presentes.
+
+Esta regla no convierte a los doce talentos en doce protagonistas secundarios. Su autonomía sirve para que el mundo se sienta vivo; el espacio narrativo que reciban dependerá de lo que aporten a la historia.
