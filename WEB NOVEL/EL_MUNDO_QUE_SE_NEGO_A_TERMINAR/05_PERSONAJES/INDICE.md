@@ -22,51 +22,16 @@
 
 Las funciones y direcciones generales se conservan como referencia; falta desarrollar personalidad, voz, manías, contradicciones, relaciones entre hermanas y límites de intervención.
 
-## La generación de Player y el Héroe
+## Elenco desarrollado
 
-**Regla de diseño:** habrá como mínimo diez talentos destacados de esta generación. No todos serán amigos, rivales directos o combatientes. Algunos serán más fuertes que Player y el Héroe durante años; otros tendrán habilidades especializadas capaces de cambiar enfrentamientos contra rivales superiores. No todos sobrevivirán ni alcanzarán la cima.
+Los perfiles detallados, habilidades, objetivos, límites y relaciones están en [ELENCO_PRINCIPAL.md](ELENCO_PRINCIPAL.md).
 
-Espacios iniciales para construir un elenco diverso:
+- **Generación de Player y el Héroe:** doce talentos diseñados además de los dos protagonistas. Incluye combatientes, estrategas, exploradores, especialistas en anomalías, apoyo y personajes de influencia política.
+- **Cima adulta:** cuatro figuras de referencia, cada una con poder individual y una organización propia.
+- **Cercanos a la cima:** cinco figuras adicionales que pueden competir con la cúspide en condiciones concretas y poseen fuerzas independientes.
+- **Relaciones:** rivalidades, alianzas y tensiones iniciales para que el elenco no sea una colección de fichas aisladas.
 
-1. **El heredero marcial:** criado dentro de una tradición de combate excepcional. Parte con ventaja técnica y recursos que Player y el Héroe no poseen.
-2. **La prodigio arcana:** talento extraordinario para comprender y combinar magia; su mayor peligro está en la preparación y el control del campo.
-3. **El cazador precoz:** ha sobrevivido a expediciones y anomalías desde joven. Tiene experiencia práctica superior a la de muchos adultos.
-4. **La estratega de campo:** no necesita ser la más fuerte en duelo; puede coordinar unidades y convertir una fuerza inferior en una amenaza.
-5. **El duelista de academia:** especialista en enfrentamientos individuales, orgulloso de su disciplina y con una rivalidad competitiva que puede cambiar.
-6. **La afinidad excepcional:** posee una relación poco común con un tipo de aura o fenómeno. Su potencial es enorme, pero difícil de controlar.
-7. **El superviviente fronterizo:** creció en una zona donde las amenazas son habituales. Su estilo es pragmático y poco ortodoxo.
-8. **El talento de apoyo:** curación, barreras, alquimia o protección. Su contribución puede decidir una batalla sin ser el mayor atacante.
-9. **El explorador prodigioso:** destaca en rastreo, movilidad, reconocimiento y supervivencia en territorios anómalos.
-10. **El talento peligroso:** gran capacidad de combate y ambición, pero métodos y decisiones que lo pueden convertir en aliado incómodo o antagonista de una etapa.
-
-Estos diez son arquetipos de diseño, no diez fichas cerradas. Se deben diferenciar por personalidad, procedencia, objetivos, límites, relaciones y evolución. Se pueden añadir más talentos si el mundo y la escala de la generación lo justifican.
-
-## La cima de la generación adulta actual
-
-Los cuatro conceptos iniciales son ejemplos de figuras de referencia, no un límite de cuatro personajes poderosos ni una clasificación oficial:
-
-- **El Espadachín Supremo:** dominio técnico excepcional y experiencia.
-- **La Gran Maga:** control mágico y capacidad de alterar el campo de batalla.
-- **El Cazador de Anomalías:** experiencia y especialización contra amenazas no humanas.
-- **La Comandante Independiente:** fuerza personal, autoridad y capacidad de movilizar recursos.
-
-Pueden existir otras figuras comparables o superiores en aspectos concretos. No se presupone que estos cuatro sean los cuatro individuos más fuertes en todo criterio.
-
-## Figuras cercanas a la cima
-
-Debe existir un grupo más amplio de personajes que puedan competir con la cúspide bajo ciertas condiciones. Algunos tendrán fuerzas propias: escuelas, órdenes, compañías, equipos de cazadores, territorios, redes de información o seguidores. No serán meros subordinados de los cuatro referentes.
-
-Sus diferencias deben ser reales: poder destructivo, técnica, control del aura, preparación, resistencia, habilidades especializadas, experiencia contra anomalías o capacidad estratégica.
-
-## Otras generaciones y personajes
-
-- Compañeros del héroe antiguo.
-- Talentos de generaciones anteriores que todavía viven o dejaron discípulos.
-- Miembros jóvenes de las organizaciones principales.
-- Personas cercanas a Player antes y después de su separación del Héroe.
-- Miembros y rivales internos de la organización del Desastre.
-- Autoridades, líderes militares, investigadores y representantes religiosos.
-- Personas comunes que viven las consecuencias de guerras y anomalías.
+Los nombres y diseños son propuestas de autor pendientes de revisión, no canon aprobado. No todos aparecerán al principio ni todos tendrán una relación directa con Player o el Héroe.
 
 ## Regla de elenco
 
