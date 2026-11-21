@@ -162,3 +162,26 @@ No confundir humanidad con indecisión perpetua. La madurez puede permitir actua
 Al evaluar una saga, determinar si su objetivo central se cumplió, cambió o sigue pendiente. Revisar qué conflictos recibieron cierre suficiente, qué consecuencias permanecen, qué personajes cambiaron y qué experiencia nueva justificaría continuar.
 
 Una novela puede terminar aunque el mundo conserve misterios. Una secuela o un spin-off son posibilidades, no obligaciones. No mantener la historia viva por cuota ni por miedo a cerrar un conflicto.
+
+## 8. Ciclo editorial de cinco lecturas
+
+Antes de entregar una secuencia sustancial, revisar por separado:
+1. **Continuidad:** hechos, cronología, reglas y conocimiento de cada personaje.
+2. **Causalidad:** decisiones, condiciones, alternativas y consecuencias.
+3. **Personajes:** objetivos, trayectoria, emociones, agencia y cambios demostrados.
+4. **Invención:** mecanismos repetidos, consecuencias indirectas, semillas y nuevas posibilidades.
+5. **Experiencia de lectura:** interés, tensión, emoción, densidad y deseo de continuar.
+
+Reescribir la arquitectura si el problema es estructural; no maquillar frases cuando el conflicto depende de conductas absurdas.
+
+## 9. Evidencia de progresión
+
+Distinguir indicio, práctica, repetición, adaptación y dominio fiable. La recuperación no equivale a crecimiento; conocer una técnica no equivale a ejecutarla; una victoria aislada no demuestra maestría. Registrar la causa y la evidencia de cada avance importante. La progresión puede ser desigual entre dimensiones y personajes.
+
+## 10. Cierre legítimo
+
+Una novela, saga o conflicto puede terminar cuando cumple su promesa dramática. No prolongar por cuota, no resucitar artificialmente a un antagonista derrotado y no abrir otra amenaza idéntica solo para impedir el cierre. Los misterios que permanezcan abiertos deben ser compatibles con una conclusión satisfactoria.
+
+## 11. Transferencia entre sesiones
+
+El repositorio del proyecto es la memoria persistente. El cierre debe permitir que otro escritor responda dónde retomar, qué ocurrió, qué cambió y por qué, qué consecuencias siguen activas, qué ideas están vivas, qué mecanismos se han repetido y qué es canon frente a plan o hipótesis. Registrar fuentes consultadas, archivos actualizados y dudas no resueltas. Nunca afirmar que se leyó o actualizó lo que no se verificó.
