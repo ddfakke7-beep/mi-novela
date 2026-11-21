@@ -47,3 +47,25 @@ Cada arco debe tener:
 - Espacio para momentos cotidianos, humor, descanso y relaciones.
 
 No convertir cada arco en «aparece un monstruo más fuerte». La guerra, las organizaciones, las relaciones y los secretos históricos deben mover la trama tanto como el combate.
+
+
+## 7. Jerarquía de focos narrativos
+
+**Player y el Héroe son los dos focos protagonistas principales.** La novela puede seguir a ambos, alternar sus líneas y dedicarles capítulos separados cuando sus caminos no coincidan. No es obligatorio que estén juntos ni que sus avances se narren en paralelo.
+
+El resto del elenco tiene autonomía, pero no recibe automáticamente el mismo espacio narrativo:
+
+- **Personajes cercanos a los protagonistas:** su crecimiento se muestra dentro de las escenas compartidas, misiones, conflictos y relaciones que justifiquen seguirlos.
+- **Talentos recurrentes que avanzan por su cuenta:** pueden desaparecer durante periodos largos y reaparecer con cambios importantes. No hace falta narrar todo lo que hicieron entre encuentros.
+- **Figuras independientes y fuerzas del mundo:** sus acciones pueden conocerse por consecuencias, rumores, informes, reputación, cambios políticos o encuentros ocasionales.
+- **Escenas breves desde otros puntos de vista:** se permiten cuando revelen un avance, una decisión o un acontecimiento importante que Player y el Héroe no podrían presenciar. Deben tener una función clara y no convertirse en una obligación periódica.
+
+## 8. El mundo avanza fuera de cámara
+
+El tiempo y los acontecimientos no quedan suspendidos cuando la narración sigue a uno de los protagonistas. Los talentos secundarios entrenan, trabajan, viajan, forman alianzas, pierden oportunidades y afrontan consecuencias por su cuenta. Algunos avanzarán más rápido que Player o el Héroe; otros se quedarán atrás o tomarán caminos que ya no sean de combate.
+
+No se mostrarán esos procesos como informes de progreso ni como una lista de niveles. El lector percibirá el cambio cuando tenga relevancia: un personaje que antes necesitaba ayuda ahora dirige una operación; alguien que parecía prodigioso vuelve derrotado; una figura ausente ha fundado una fuerza propia; un antiguo rival ya no persigue el mismo objetivo.
+
+**Criterio de aparición:** cada escena secundaria debe justificar su espacio por al menos una razón narrativa: desarrollar una relación, cambiar el estado del mundo, mostrar una consecuencia, preparar un conflicto o revelar un cambio significativo. Si solo informa que alguien entrenó y se volvió más fuerte, normalmente basta con mostrar el resultado cuando reaparezca.
+
+La contrapartida es importante: demasiadas apariciones breves pueden fragmentar la lectura y debilitar el vínculo con Player y el Héroe. Por eso, los cambios fuera de cámara deben sentirse en la historia principal sin exigir que el lector siga simultáneamente doce trayectorias completas.
