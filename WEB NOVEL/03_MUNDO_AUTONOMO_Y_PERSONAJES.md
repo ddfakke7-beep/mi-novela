@@ -141,3 +141,15 @@ La comparación entre capacidades debe considerar naturaleza, alcance, condicion
 El mundo puede seguir activo sin el protagonista, pero no inventar como hechos confirmados todos los acontecimientos que podrían haber ocurrido durante su ausencia. Se pueden planificar posibilidades y consecuencias plausibles; para establecer hechos concretos, debe existir narración, aprobación o una fuente válida del proyecto.
 
 Cuando el protagonista regrese, reconstruir el intervalo con el tiempo transcurrido, los objetivos de los personajes, sus recursos y las circunstancias conocidas. Distinguir lo confirmado de lo inferido.
+
+## 8. Agencias colectivas, reputación e información
+
+Los grupos recurrentes pueden tener identidad y objetivos colectivos sin borrar la individualidad de sus miembros. Registrar su composición, cohesión, recursos, alianzas, rupturas y cambios solo en la medida en que afecten la historia. Una cooperación puntual no crea automáticamente una organización estable.
+
+La reputación no equivale a conocimiento directo. Distinguir entre haber visto actuar a alguien, conocer su nombre, recibir información fiable, escuchar rumores, sostener una hipótesis y no saber nada. El conocimiento debe tener una fuente y distribuirse de manera desigual.
+
+## 9. Conflictos con antagonistas competentes
+
+Para una estrategia antagonista importante, comprobar objetivo, información disponible, recursos, alternativas conocidas, coste del fracaso y adaptación cuando el plan falla. Un antagonista puede actuar por orgullo, fanatismo o desesperación, pero no presentar una decisión irracional como genialidad estratégica sin fundamento.
+
+No mantener una amenaza viva mediante escapatorias repetidas o restricciones artificiales al protagonista. Si la solución directa está a su alcance, permitirla o justificar con precisión el coste, límite o decisión que la impide.
