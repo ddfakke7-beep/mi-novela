@@ -24,7 +24,7 @@
 - La organización del Desastre puede creer que está criando a un ser excepcional, sin comprender su función universal.
 - La compatibilidad de Player puede ser una conclusión errónea de investigadores que confunden afinidad con capacidad para soportar la conexión.
 - El método del héroe antiguo puede ser correcto en teoría, pero incompleto para las condiciones de la época actual.
-- El Desastre puede proteger algo que el lector ya conoce, pero su protección puede entrar en conflicto con su misión.
+- El Desastre puede desarrollar un criterio inesperado sobre su misión a partir de los recuerdos heredados y de sus experiencias, sin que eso implique proteger a alguien ni abandonar el reinicio.
 - Una de las diosas puede oponerse a una estrategia de salvación sin dejar de amar a la humanidad: su desacuerdo nace de cómo interpreta el precio y las consecuencias.
 
 ## Ideas que no deben asumirse
@@ -32,6 +32,7 @@
 - Que el universo sea consciente como una persona.
 - Que todas las diosas estén de acuerdo.
 - Que el Desastre actual vaya a renunciar a su misión.
+- Que el Desastre necesite desarrollar un apego afectivo o proteger a alguien para tener profundidad: esa ruta solo se considerará si surge una justificación orgánica y resulta más interesante que otras opciones.
 - Que Player sea necesariamente el recipiente.
 - Que la organización controle el mundo.
 - Que el héroe antiguo haya previsto todo.
