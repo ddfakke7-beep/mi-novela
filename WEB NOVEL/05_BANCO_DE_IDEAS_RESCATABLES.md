@@ -153,3 +153,60 @@ Estos son conceptos reutilizables, no reglas generales. La soledad, la IA, las p
 ## 6. Estado de este banco
 
 Las ideas anteriores se conservan para evitar perderlas. No se asignan automáticamente a futuras novelas ni se consideran canon. Antes de utilizar cualquiera, revisar su potencial, originalidad, preparación, riesgos de repetición y compatibilidad con la obra concreta.
+
+## 7. Ideas adicionales recuperadas de FIN
+
+### 7.1. El protagonista puede decidir destruir, sin que la historia lo absuelva
+No encasillar al protagonista como héroe o salvador. Puede llegar a una conclusión moral propia y decidir que un sistema, civilización o mundo no debe continuar. La decisión puede ser acertada, equivocada, parcial o emocional; la narración debe construir cómo llegó a ella y permitir que los habitantes se resistan legítimamente.
+
+**Potencial:** conflicto moral serio donde el protagonista no es automáticamente la parte justa. Puede querer a personas concretas y aun así enfrentarse a la estructura que sostiene su mundo.
+
+**Límite:** no convertir la destrucción deliberada en una pose oscura ni en un recurso frecuente. Debe existir un motivo desarrollado, información suficiente o una equivocación significativa, y consecuencias que no se borren.
+
+### 7.2. El protagonista reconoce que su naturaleza es peligrosa
+No basta con lamentar accidentes. Puede llegar a comprender que él mismo constituye una amenaza, aunque no sea malvado y aunque no controle por completo sus efectos.
+
+**Potencial:** evolución de identidad y responsabilidad que distingue intención, control, participación y responsabilidad. Puede aceptar su naturaleza sin odiarse ni renunciar a vivir o vincularse con otros.
+
+**Límite:** no resolverlo con un monólogo o una frase repetida. Debe afectar sus decisiones, relaciones y forma de interpretar los conflictos.
+
+### 7.3. La imposibilidad de coexistir puede ser distinta para cada ser
+Entidades extraordinarias pueden ayudar, proteger o querer genuinamente a otros, pero su naturaleza, efectos, necesidades o escala pueden volver peligrosa la convivencia. El afecto no garantiza seguridad ni aceptación.
+
+**Potencial:** relaciones donde cariño y temor coexisten; personajes que protegen algo y aun así deben marcharse; mundos que agradecen una ayuda pero no pueden permitir que el benefactor permanezca.
+
+**Límite:** no convertir el aislamiento en destino obligatorio de todo ser poderoso. Cada incompatibilidad necesita una causa propia.
+
+### 7.4. Clasificar amenazas por naturaleza y comportamiento, no por una escala universal
+Un registro de amenazas puede describir si el daño es involuntario, consciente, condicional, reactivo o todavía indeterminado; y registrar conducta observada, alcance, persistencia, tipo de daño y dificultad de gestión.
+
+**Potencial:** investigación, desacuerdos entre especialistas, clasificaciones incompletas y decisiones institucionales basadas en información imperfecta.
+
+**Límite:** una clasificación no debe predecir automáticamente quién vencería a quién ni convertirse en un sistema universal de niveles.
+
+### 7.5. Recursos que amortiguan efectos sin resolver el poder
+Artefactos, técnicas, lugares, materiales o intervenciones pueden reducir temporalmente ciertos efectos destructivos o contaminantes sin otorgar control total sobre la fuente.
+
+**Potencial:** objetivos de expedición, dilemas sobre protección limitada, recursos raros y soluciones parciales.
+
+**Límite:** definir alcance, duración, condiciones, coste y efectos secundarios. No crear una cura universal o un botón que elimine la premisa del poder.
+
+### 7.6. Guerra entre dos bandos cuya destrucción puede ser consecuencia del protagonista
+Dos facciones con historia, objetivos y recursos propios pueden estar en guerra antes de que llegue el protagonista. Sus decisiones y su intervención pueden acabar destruyendo las estructuras de ambos bandos.
+
+**Potencial:** responsabilidad ambigua, consecuencias para supervivientes de ambos lados y un protagonista que no resuelve un conflicto mediante una victoria limpia.
+
+**Límite:** no hacer que los bandos existan solo para ser destruidos. Deben tener objetivos, líderes, población, resistencia y razones para luchar; la intervención debe tener una cadena causal comprensible.
+
+## 8. Ideas que deben conservarse como conceptos separados
+
+- **Prisión construida alrededor de un dios:** el mundo y su cultura se organizan alrededor de mantener encerrada a una entidad; facciones discrepan sobre liberarla, conservarla o apropiarse de ella. La prisión misma puede tener un coste.
+- **Realidad-prisión multiversal:** una estructura para contener viajeros y amenazas de distintas naturalezas, con territorios, sociedades de prisioneros, autoridades, sistemas de contención y conflictos internos. No es simplemente una prisión subterránea para un dios.
+- **Ser sellado que viaja con el protagonista:** vínculo de proximidad con voluntad independiente, conocimiento parcial y riesgos propios. No es automáticamente el dios de la prisión ni un compañero que resuelve problemas.
+- **Restaurador de mundos:** puede reparar condiciones físicas/ecológicas de una realidad, pero no devolver muertos ni borrar memoria, pérdidas o consecuencias.
+
+No fusionar estos conceptos por compartir motivos de prisión, poder o catástrofe. Sus funciones dramáticas son diferentes.
+
+## 9. Inspiración de géneros sin copiar obras
+
+Conservar como familias de mundos posibles: sociedades de héroes y villanos, cazadores y portales, gremios y mazmorras, superhumanos, linajes, academias, poderes individuales y organizaciones ocultas. Son puntos de partida de género, no plantillas. Cada mundo debe tener instituciones, historia, reglas, personajes y conflictos originales.
