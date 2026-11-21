@@ -1,128 +1,137 @@
 # 03 — Arcos narrativos
 
-**Estado: propuesta de estructura general. No es un orden inamovible ni canon aprobado.**
+**Estado: arquitectura provisional revisada.** La estructura fija el orden dramático general, no una cronología cerrada ni capítulos definitivos.
 
-La historia debe crecer desde conflictos humanos concretos hasta el problema cosmológico. La guerra actual es un eje histórico importante, no un decorado ni una excusa para reunir a todos los personajes.
+La novela no empieza con el Héroe, el Desastre ni la organización final. Empieza con un mundo que ya funciona, tiene peligros, instituciones, conflictos y personas extraordinarias. Player nace allí y construye su camino antes de que el Héroe actual sea invocado. El Héroe y el Desastre crecen durante años antes de alcanzar influencia a gran escala.
 
-## Prólogo — La victoria incompleta (opcional)
+## Prólogo opcional — La victoria incompleta
 
-Mostrar un fragmento de la guerra de hace 500 años sin explicar todo. El héroe antiguo y sus compañeros derrotan y sellan al Desastre de aquella época. El lector entiende que se ha ganado una batalla terrible, pero queda una decisión o imagen que no encaja con la versión heroica oficial.
+Un fragmento de la guerra de hace 500 años: el héroe antiguo y sus compañeros derrotan y sellan al Desastre anterior. La escena deja una contradicción con la versión histórica oficial, pero no explica todavía el método de la Sacerdotisa.
 
-**Función:** crear una pregunta histórica y establecer que la victoria no fue definitiva. Puede omitirse si el inicio contemporáneo funciona mejor.
+**Función:** sembrar una pregunta histórica sin convertir el prólogo en una explicación cosmológica.
 
-## Arco I — Las cicatrices de una guerra antigua
+## Saga I — Una vida en un mundo peligroso
 
-**Foco:** presentar la época actual antes de que la guerra alcance su máxima escala.
+**Foco:** nacimiento, infancia y primer quiebre en la vida de Player.
 
-- Mostrar cómo el mundo reconstruyó su orden después de la guerra de hace 500 años.
-- Presentar regiones, reinos, órdenes, tensiones religiosas, rutas, comercio y disputas que existan por razones propias.
-- Mostrar que la historia del héroe antiguo está convertida en leyenda, aunque ciertos grupos conserven versiones más completas.
-- Introducir al Héroe actual mediante sus acciones y su carácter, no mediante una explicación de su origen.
-- La Diosa de la Luz reconoce en él una resonancia familiar, pero no revela de inmediato todo lo que sabe.
-- Introducir a Player desde una situación distinta, con vínculos y problemas que no dependan del Héroe.
-- La Diosa Oscura se interesa por Player por curiosidad; el vínculo debe desarrollarse en escenas.
-- Hacer visibles tensiones políticas y sociales que puedan desembocar en la guerra actual. No atribuirlas automáticamente al Desastre.
+- Player nace en el mundo como reencarnado; no llega mediante la invocación del Héroe.
+- Su vida inicial debe tener vínculos, rutinas, problemas y deseos concretos. No recordará necesariamente todo ni comprenderá de inmediato qué significa su reencarnación.
+- La región donde crece tiene una relación cotidiana con anomalías y monstruos: rutas que se cierran, patrullas, refugios, rumores y medidas de protección.
+- Un incidente grave altera su vida. Puede destruir su hogar, separarlo de alguien o revelar que el lugar donde vivía era más frágil de lo que creía. No debe ser una tragedia gratuita elegida solo para darle motivación.
+- La desgracia empieza a acompañarlo mediante coincidencias y patrones que él no sabe interpretar. No todo lo malo que ocurre cerca de él será causado por el universo.
+- Player toma una decisión que lo pone en movimiento y define su primera meta personal.
 
-**Resultado:** el lector conoce a las personas y el mundo antes de que la escala del conflicto se dispare.
+**Resultado:** el lector se interesa por Player y por el mundo antes de conocer la trama del Héroe.
 
-## Arco II — La guerra de la nueva era
+## Saga II — Aprender a sobrevivir
 
-**Foco:** el conflicto devastador de la época actual y el cambio generacional que provoca.
+**Foco:** el primer camino propio de Player y el contacto con el mundo organizado.
 
-- La guerra estalla por causas humanas y geopolíticas que deben tener lógica propia. El Desastre no tiene que haberla provocado.
-- Los bandos deben perseguir objetivos comprensibles: territorio, seguridad, recursos, influencia, supervivencia, religión o control de capacidades excepcionales.
-- La guerra debe crecer por decisiones, alianzas, errores de cálculo y represalias, no porque todos los líderes se vuelvan irracionales.
-- El Héroe actual queda implicado por sus acciones y por la reacción que provoca su Estigma. No debe convertirse instantáneamente en comandante ni en salvador de todos.
-- Player atraviesa el conflicto desde una trayectoria propia. Puede coincidir con el Héroe y formar una amistad, pero no tiene que compartir cada batalla ni cada objetivo.
-- La Diosa de la Luz puede guiar al Héroe, pero su experiencia de la guerra antigua no garantiza que comprenda esta guerra.
-- La Diosa Oscura acompaña a Player y observa cómo responde al sufrimiento y a la muerte; no debe quitarle las consecuencias.
-- La guerra debe cobrar un precio enorme: la mayoría de los combatientes y de las grandes fuerzas de esa generación muere o desaparece, produciendo un relevo histórico comparable al de hace 500 años.
-- La victoria, derrota o armisticio no debe dejar el mundo como estaba. Fronteras, instituciones, jerarquías y relaciones cambian.
+- Player encuentra una vía para conseguir recursos, entrenamiento y protección: puede entrar en una organización, trabajar con una expedición, ser acogido por un grupo o combinar varias experiencias.
+- Se presenta una organización desde dentro: sus rangos, obligaciones, rivalidades, beneficios y límites.
+- Las amenazas no son encargos rutinarios sin consecuencias. Una expedición puede salir mal, una criatura puede superar la clasificación conocida y una decisión institucional puede dejar desprotegida a una comunidad.
+- Player conoce compañeros y rivales que no existen únicamente para acompañarlo. Cada uno persigue algo propio.
+- Su progreso es gradual. Sobrevivir a una amenaza no significa dominarla ni quedar preparado para la siguiente.
 
-**Resultado:** la guerra se convierte en un acontecimiento que define a la generación protagonista y cambia el tablero para el resto de la novela.
+**Resultado:** Player obtiene un lugar inicial en el mundo, pero entiende que su fuerza y su libertad tienen un precio.
 
-## Arco III — El precio de la cima
+## Saga III — Una generación de talentos
 
-**Foco:** la organización que sirve al Desastre y el mercado humano del poder.
+**Foco:** ampliar el mundo y presentar a quienes definirán la época.
 
-- Presentar una organización poderosa que encontró al nuevo Desastre cuando todavía era joven y decidió protegerlo o criarlo por lo que podía llegar a ser.
-- El líder no es un fanático ni cree que pueda manipular al Desastre. Acepta servirlo porque el poder que recibe le permite superar su límite.
-- Si pudiera matar al Desastre y apropiarse de su poder, lo haría; no lo intenta porque entiende la diferencia de fuerzas.
-- La organización tiene objetivos, jerarquías, disputas y miembros que aceptaron el precio por motivos propios.
-- Puede aprovechar el caos de la guerra para reclutar, negociar o expandir influencia, pero no debe ser la causa secreta de todos los acontecimientos.
-- El lector puede conocer la ambición del líder antes de conocer toda la naturaleza de la criatura.
-- El Desastre debe mostrarse como individuo con voluntad y vínculos, sin revelar todavía toda su misión ni resolver su contradicción.
+- Se muestran las grandes organizaciones, sus dirigentes, sus intereses y sus rivalidades. Ninguna es un simple proveedor de misiones.
+- Aparecen al menos diez talentos destacados de la generación de Player y el Héroe. No todos serán amigos, rivales directos ni combatientes; tendrán especialidades, orígenes y objetivos diferentes.
+- Algunos talentos ya superan a Player por mucho. Otros poseen capacidades situacionales que pueden vencer a rivales aparentemente superiores.
+- Se presentan figuras adultas cercanas a la cima, cada una con su propia fuerza, escuela, compañía, territorio, red o influencia. No todas responden a una autoridad común.
+- Las anomalías de alto nivel demuestran que ni siquiera las grandes organizaciones pueden garantizar seguridad absoluta.
+- Player empieza a hacerse conocido por sus propias acciones, pero no es todavía una figura central del mundo.
 
-**Resultado:** el conflicto humano tiene antagonistas con lógica propia y el Desastre deja de ser una amenaza abstracta.
+**Resultado:** el lector percibe que Player pertenece a una generación competitiva y que el mundo no está esperando a que él o el futuro Héroe lo salven.
 
-## Arco IV — Los restos de la guerra antigua
+## Saga IV — La llegada del Héroe
 
-**Foco:** sellos, reliquias, memoria histórica y consecuencias de la victoria del héroe antiguo.
+**Foco:** la aparición del Héroe actual en un mundo ya establecido.
+
+- El Héroe es invocado mucho después del nacimiento de Player. Player ya ha vivido experiencias y construido relaciones antes de conocerlo.
+- La llegada del Héroe genera reacciones distintas: interés, sospecha, oportunismo, rechazo y expectativas.
+- La Diosa de la Luz reconoce una resonancia vinculada al héroe antiguo, pero no convierte al recién llegado en un combatiente consumado.
+- El Héroe debe adaptarse al idioma, las costumbres, la política, las organizaciones y los peligros reales.
+- Conoce talentos de su generación que pueden superarlo. Su condición de Héroe no le concede superioridad automática ni protección narrativa.
+- Player y el Héroe pueden cruzarse y desarrollar una amistad, pero sus objetivos y sus caminos no se fusionan de inmediato.
+
+**Resultado:** el Héroe entra en una historia que ya estaba en marcha y empieza desde una posición que debe ganarse.
+
+## Saga V — Los que aspiran a la cima
+
+**Foco:** crecimiento prolongado y competencia entre talentos.
+
+- Pasan años narrativos, no unas pocas semanas. Player, el Héroe y el Desastre desarrollan sus capacidades en circunstancias diferentes.
+- La generación compite, coopera, forma alianzas, se separa y construye reputaciones. Algunos talentos progresan más rápido que los protagonistas; otros se estancan, cambian de objetivo o mueren.
+- Los personajes cercanos a la cima no son cuatro nombres aislados: varios mantienen fuerzas propias y pueden alterar conflictos regionales.
+- El Héroe descubre gradualmente su Estigma. Su evolución no copia la del héroe antiguo.
+- Player desarrolla una identidad y una forma de combatir que no dependen del Héroe.
+- El Desastre crece bajo la protección de la organización. Aprende, experimenta y desarrolla vínculos; todavía no debe intervenir como una fuerza capaz de dominar la historia.
+- La organización final permanece en segundo plano. Sus movimientos pueden aparecer como señales indirectas, sin revelar prematuramente su alcance.
+
+**Resultado:** los tres ejes han crecido, pero ninguno recibe una victoria automática ni domina todavía todos los acontecimientos.
+
+## Saga VI — La guerra que cambia una generación
+
+**Foco:** guerra humana de gran escala y consecuencias históricas.
+
+- La guerra surge de causas políticas, territoriales, económicas, religiosas o estratégicas comprensibles. No debe ser una maniobra secreta del Desastre ni de la organización final.
+- Las grandes organizaciones y las fuerzas independientes deben tomar decisiones propias.
+- Los talentos de la generación se ven obligados a elegir alianzas y afrontar consecuencias. Algunos se convierten en figuras decisivas; otros descubren que su talento no basta.
+- El Héroe y el Desastre ya han alcanzado suficiente desarrollo para influir en determinados frentes, pero no son los únicos capaces de hacerlo.
+- Player vive la guerra desde su propio recorrido y puede tener objetivos que no coincidan con los del Héroe.
+- La guerra deja pérdidas masivas, cambios de fronteras, instituciones debilitadas y un relevo generacional. No debe resolverse con un único duelo entre protagonistas.
+
+**Resultado:** el mundo cambia de forma irreversible y la generación queda marcada por lo que hizo, perdió y permitió.
+
+## Saga VII — Los restos de la guerra antigua
+
+**Foco:** sellos, memoria histórica y consecuencias de la victoria de hace 500 años.
 
 - Los sellos que contienen partes del Desastre anterior se vuelven relevantes por una causa concreta.
 - Diferentes grupos quieren protegerlos, estudiarlos, utilizarlos o destruirlos.
-- La búsqueda obliga a viajar y permite mostrar culturas y regiones distintas.
-- Los restos no deben funcionar como una colección de objetos mágicos intercambiables: cada sello tiene historia, función y consecuencias.
-- La Diosa de la Memoria y los rastros conservados permiten contrastar leyendas con testimonios incompletos.
-- Se descubre que el héroe antiguo dejó algo más importante que un arma o una profecía: una comprensión incompleta del procedimiento para cortar la conexión.
+- La exploración de ruinas y territorios peligrosos conecta la historia antigua con el presente.
+- La Diosa de la Memoria y los rastros conservados permiten contrastar leyendas con testimonios incompletos; no ofrecen omnisciencia.
+- Se descubre que el héroe antiguo dejó una comprensión incompleta del procedimiento para cortar la conexión entre el mundo y el universo.
 
-**Resultado:** la historia del héroe antiguo deja de ser una leyenda decorativa y se convierte en una herencia que puede ayudar o perjudicar.
+**Resultado:** la guerra antigua deja de ser leyenda y se convierte en un problema presente.
 
-## Arco V — La verdad de la sacerdotisa
+## Saga VIII — La verdad y los caminos separados
 
-**Foco:** el método de desconexión y la responsabilidad de quienes lo conocen.
+**Foco:** la Sacerdotisa, la organización y la convergencia gradual de las trayectorias.
 
-- Reconstruir cómo la sacerdotisa conoció a la Diosa de la Memoria y desarrolló su investigación.
-- Revelar que la sacerdotisa planeaba convertirse ella misma en recipiente.
-- Mostrar que murió asesinada antes de ejecutar el método, no como consecuencia del sacrificio.
-- El héroe antiguo descubrió después el plan y pasó años buscando a alguien compatible.
-- Explicar las dos funciones del procedimiento: abrir la conexión y cortarla.
-- Revelar el precio de abrirla: el recipiente desaparece como individuo separado.
-- El método no debe aparecer completo como un manual listo para ejecutar. Deben quedar límites, incertidumbres y riesgos que el héroe antiguo tampoco pudo resolver.
+- Se reconstruye la investigación de la Sacerdotisa, su asesinato y las dos funciones del método: abrir la conexión y cortarla.
+- Player es capturado o separado del Héroe por intereses concretos. No queda reducido a esperar rescate: su línea avanza con decisiones propias.
+- El vínculo entre Player y la Diosa Oscura se profundiza sin convertirlo en una relación maternal ni quitarle agencia.
+- La organización final empieza a mostrarse con mayor claridad, pero conserva miembros, objetivos y secretos que no se revelan de golpe.
+- El líder mantiene una obediencia calculada al Desastre: entiende la diferencia de poder y busca superar su propio límite.
+- El Desastre ya puede intervenir directamente. Su deseo de proteger algo entra en conflicto con su misión de reinicio, pero no la cancela.
 
-**Resultado:** el conflicto cambia. Ya no basta con vencer al Desastre; hay que decidir si la solución heredada es viable y qué derecho tiene alguien a exigir su precio.
+**Resultado:** las líneas personales, políticas e históricas comienzan a converger por consecuencias acumuladas.
 
-## Arco VI — Dos caminos separados
+## Saga IX — El mundo que se negó a terminar
 
-**Foco:** Player, la pérdida y las consecuencias de caminar sin el otro.
+**Foco:** confrontación final y decisión sobre el ciclo.
 
-- Player es capturado y separado del Héroe.
-- La captura debe responder a intereses y acciones concretas de quienes lo capturan; no ser un secuestro casual para fabricar drama.
-- Las dos líneas avanzan por separado. El Héroe no puede resolver inmediatamente la situación y Player no debe quedar reducido a esperar rescate.
-- Player atraviesa tragedias sucesivas, pero conserva su humanidad y capacidad de decidir.
-- La Diosa Oscura profundiza su vínculo con él. Su comprensión de la muerte puede cambiar, pero no debe volverlo indiferente al sufrimiento.
-- El Héroe enfrenta las consecuencias de actuar sin su amigo y descubre que el método heredado no le ofrece una respuesta para todo.
-- La separación cambia a ambos y a sus relaciones con otros personajes.
+- La organización alcanza su verdadero protagonismo como antagonista de largo recorrido, sin que eso signifique que haya controlado cada desgracia anterior.
+- Las trayectorias de Player, el Héroe, el Desastre, las diosas y los demás personajes convergen por decisiones previas.
+- La posible compatibilidad de Player como recipiente se confirma, descarta o transforma mediante pruebas y reglas establecidas; no se da por predestinada.
+- El Héroe decide qué hacer con el método heredado. No es un ejecutor automático de la voluntad del héroe antiguo.
+- Player no es sacrificado por decisión ajena ni existe únicamente para cumplir el método.
+- La desconexión, si se logra, no revierte muertes ni crea una utopía. Libera al mundo del mecanismo de reinicio, pero deja a sus habitantes la responsabilidad de construir su futuro.
 
-**Resultado:** los protagonistas dejan de ser un equipo que siempre puede apoyarse en el otro y demuestran que sus historias funcionan por separado.
+**Resultado:** el desenlace resuelve el conflicto cosmológico y los conflictos personales, con un coste real.
 
-## Arco VII — El Desastre que conoce su destino
+## Reglas de ritmo y continuidad
 
-**Foco:** la contradicción del Desastre actual.
-
-- Revelar progresivamente qué sabe el Desastre sobre su naturaleza y misión.
-- Desarrollar qué desea proteger y por qué ese vínculo importa para él.
-- Mostrar que su deseo no cancela su función de reiniciar el mundo.
-- Su relación con el líder de la organización debe conservar la desigualdad real: el líder obedece porque no puede imponerse, no porque haya sido engañado para adorarlo.
-- El Desastre puede tomar decisiones que afecten directamente a los protagonistas y a regiones enteras.
-- No debe convertirse en un villano que solo espera el combate final, ni en alguien que abandona su misión por una conversación emotiva.
-
-**Resultado:** el antagonista principal adquiere una tragedia y una voluntad propias sin perder la gravedad de lo que representa.
-
-## Arco VIII — Fuera del ciclo
-
-**Foco:** la decisión final sobre el mundo.
-
-- Las líneas del Héroe, Player, el Desastre, las diosas y las organizaciones convergen por consecuencias acumuladas, no por coincidencia.
-- La posible compatibilidad de Player como recipiente se confirma, se descarta o se transforma mediante pruebas y reglas ya establecidas.
-- El Héroe debe decidir qué hacer con el método del héroe antiguo; no es su ejecutor automático.
-- Player no debe ser sacrificado por una decisión ajena ni aceptar el papel solo porque la historia lo preparó para ello.
-- El Desastre debe actuar según su misión y su deseo contradictorio.
-- La desconexión, si se logra, no debe equivaler a inmortalidad ni a un mundo sin sufrimiento. Significaría que el mundo deja de estar sujeto a ese mecanismo de reinicio; sus habitantes todavía tendrían que construir su futuro y afrontar sus propios problemas.
-- El desenlace debe tener un coste real y cerrar los conflictos personales, no solo el problema cosmológico.
-
-**Resultado:** la resolución nace de las decisiones de esta generación, no de obedecer ciegamente a la anterior.
-
-## Nota de estructura
-
-Los arcos pueden dividirse, fusionarse o cambiar de orden. La línea de Player y la del Héroe pueden alternarse; no es necesario que cada arco esté protagonizado por ambos. El Desastre puede aparecer antes en escenas breves sin revelar su identidad completa.
+1. Player nace y vive en el mundo mucho antes de la invocación del Héroe actual.
+2. El Héroe y el Desastre necesitan años de desarrollo antes de influir en guerras o crisis de gran escala.
+3. La organización final se construye como amenaza de largo recorrido; no domina las primeras sagas.
+4. Las anomalías y los monstruos son peligros permanentes, con distintos niveles y efectos; no son simples enemigos de relleno.
+5. Player, el Héroe y el Desastre no son los únicos talentos ni las únicas fuerzas capaces de cambiar la historia.
+6. Los personajes secundarios y las organizaciones mantienen objetivos propios incluso cuando los protagonistas no están presentes.
+7. Las sagas pueden alternar puntos de vista y contener subarcos; no es obligatorio que todos los personajes participen en todos los acontecimientos.
