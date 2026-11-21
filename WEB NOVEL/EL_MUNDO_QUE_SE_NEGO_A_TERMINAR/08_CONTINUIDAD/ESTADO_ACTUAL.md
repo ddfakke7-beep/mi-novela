@@ -33,14 +33,14 @@ El lore de JUEGOS establece como base:
 2. Momento y lugar exactos de apertura.
 3. Orden y extensión de los arcos.
 4. Cómo se cruzan por primera vez las líneas de Player y el Héroe.
-5. Qué desea proteger el Desastre actual.
+5. Qué personalidad desarrolla el Desastre actual, cómo interpreta los recuerdos heredados y qué relación tiene con su misión.
 6. Cómo funciona la organización y qué sabe de su protegido.
 7. Qué reglas permiten abrir y cortar la conexión.
 8. Si Player es compatible como recipiente y qué alternativas reales existen.
 9. Qué desencadena el deterioro y la guerra actual.
 10. Qué personajes secundarios sostendrán cada saga.
 11. Desarrollo definitivo de la infancia, mentoría y primer quiebre de Player; existe una propuesta inicial en `12_ORIGEN_Y_FORMACION_DE_PLAYER.md`.
-11. Revisar nombres, poderes, motivaciones y relaciones del elenco de `05_PERSONAJES/ELENCO_PRINCIPAL.md`.
+12. Revisar nombres, poderes, motivaciones y relaciones del elenco de `05_PERSONAJES/ELENCO_PRINCIPAL.md`.
 
 ## Auditoría de consistencia realizada
 
@@ -49,6 +49,7 @@ El lore de JUEGOS establece como base:
 - Se alineó la apertura: los primeros capítulos siguen a Player; el Héroe aparece años después, tras su invocación.
 - Se corrigió la estructura para hablar de nueve sagas y un prólogo opcional, no ocho arcos.
 - Se añadió una propuesta concreta de infancia, mentoría y primer quiebre de Player en `12_ORIGEN_Y_FORMACION_DE_PLAYER.md`.
+- Se retiró como requisito narrativo que el Desastre quiera proteger algo. Su personalidad y su relación con la misión quedan abiertas; no se le impondrá una rebelión emocional ni un apego sin justificación.
 
 ## Regla
 
