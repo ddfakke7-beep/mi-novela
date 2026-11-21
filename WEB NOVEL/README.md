@@ -79,7 +79,7 @@ Las carpetas FIN, DREAM, UMBRAL y NEXUS se retiraron de la rama principal despu�
 
 ## 8. Novelas independientes
 
-- [FUERA DEL CICLO](FUERA_DEL_CICLO/README.md): desarrollo literario independiente basado en la historia y el lore de JUEGOS. JUEGOS permanece intacto; esta carpeta desarrolla la novela, sus arcos, giros y continuidad.
+- [EL MUNDO QUE SE NEGÓ A TERMINAR](EL_MUNDO_QUE_SE_NEGO_A_TERMINAR/README.md): desarrollo literario independiente basado en la historia y el lore de JUEGOS. JUEGOS permanece intacto; esta carpeta desarrolla la novela, sus arcos, giros y continuidad.
 
 ## 9. Catálogo narrativo recuperado
 
