@@ -24,7 +24,7 @@ Hace 500 años, el mundo estuvo cerca de ser destruido. Un héroe invocado derro
 
 En paralelo, una sacerdotisa había descubierto junto a la Diosa de la Memoria que quizá era posible cortar la conexión entre el mundo y el universo. El procedimiento requería dos funciones diferentes: abrir la conexión y después cortarla. La sacerdotisa no llegó a ejecutarlo. El héroe antiguo acabó comprendiendo el método, pero no encontró a alguien capaz de cumplir la primera función sin desaparecer.
 
-Quinientos años después, una nueva generación vive sobre las consecuencias de aquella victoria incompleta. Player nace en ese mundo como reencarnado y construye su propia vida mucho antes de la llegada del Héroe actual. El Héroe aparece mediante la invocación y debe ganarse un lugar entre talentos que ya existen. El nuevo Desastre también crece durante años bajo la protección de una organización poderosa, antes de alcanzar capacidad para influir directamente en acontecimientos de gran escala.
+Quinientos años después, una nueva generación vive sobre las consecuencias de aquella victoria incompleta. Player nace en ese mundo como reencarnado y construye su propia vida mucho antes de la llegada del Héroe actual. La reencarnación no le entrega conocimientos útiles del futuro ni una ventaja automática: su infancia, sus vínculos y sus decisiones deben sostenerse por sí mismos. El Héroe aparece mediante la invocación y debe ganarse un lugar entre talentos que ya existen. El nuevo Desastre también crece durante años bajo la protección de una organización poderosa, antes de alcanzar capacidad para influir directamente en acontecimientos de gran escala.
 
 ## 3. Centro emocional
 
@@ -41,7 +41,7 @@ Las respuestas no deben estar predeterminadas. El pasado ofrece pistas y posibil
 
 ### Player
 
-Es una persona reencarnada que nace en el mundo mucho antes de la invocación del Héroe actual. Su historia empieza con una vida concreta y una motivación propia; no se define únicamente por su relación con el universo ni por una posible compatibilidad como recipiente. Construye fuerza, vínculos y reputación dentro de un mundo que ya tiene sus propios conflictos. La desgracia lo acompaña sin que comprenda inicialmente el patrón, pero no todo acontecimiento adverso debe ser causado por su conexión con el universo.
+Es una persona reencarnada que nace en el mundo mucho antes de la invocación del Héroe actual. Su historia empieza con una vida concreta, vínculos previos y una formación gradual. Su primer impulso para buscar fuerza nace de una pérdida y de la impotencia vivida durante una evacuación, no de una profecía ni de una orden del universo. La propuesta de mentoría y el desarrollo de ese primer quiebre están en `12_ORIGEN_Y_FORMACION_DE_PLAYER.md`. No se define únicamente por su relación con el universo ni por una posible compatibilidad como recipiente. Construye fuerza, vínculos y reputación dentro de un mundo que ya tiene sus propios conflictos. La desgracia lo acompaña sin que comprenda inicialmente el patrón, pero no todo acontecimiento adverso debe ser causado por su conexión con el universo.
 
 ### Héroe actual
 
