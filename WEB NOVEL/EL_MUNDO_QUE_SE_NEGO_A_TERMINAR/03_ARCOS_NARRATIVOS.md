@@ -14,6 +14,8 @@ Un fragmento de la guerra de hace 500 años: el héroe antiguo y sus compañeros
 
 **Foco:** nacimiento, infancia y primer quiebre en la vida de Player.
 
+La propuesta de infancia y mentoría está desarrollada en [12 — Origen y formación de Player](12_ORIGEN_Y_FORMACION_DE_PLAYER.md). La opción recomendada es que Garran Voss sea una influencia intermitente desde la niñez: un guía exigente que enseña supervivencia y criterio, no un tutor omnipresente que le regala poder.
+
 - Player nace en el mundo como reencarnado; no llega mediante la invocación del Héroe.
 - Su vida inicial debe tener vínculos, rutinas, problemas y deseos concretos. No recordará necesariamente todo ni comprenderá de inmediato qué significa su reencarnación.
 - La región donde crece tiene una relación cotidiana con anomalías y monstruos: rutas que se cierran, patrullas, refugios, rumores y medidas de protección.
@@ -27,7 +29,8 @@ Un fragmento de la guerra de hace 500 años: el héroe antiguo y sus compañeros
 
 **Foco:** el primer camino propio de Player y el contacto con el mundo organizado.
 
-- Player encuentra una vía para conseguir recursos, entrenamiento y protección: puede entrar en una organización, trabajar con una expedición, ser acogido por un grupo o combinar varias experiencias.
+- Tras el primer quiebre, Player busca una vía para conseguir recursos, entrenamiento y protección. La propuesta inicial es que intente incorporarse al entorno de la Compañía del Último Rastro, pero deberá ganarse el acceso a las expediciones peligrosas.
+- Garran no será su único maestro ni estará siempre presente. Player desarrollará su capacidad de combate y su criterio con otras personas, rivales y experiencias.
 - Se presenta una organización desde dentro: sus rangos, obligaciones, rivalidades, beneficios y límites.
 - Las amenazas no son encargos rutinarios sin consecuencias. Una expedición puede salir mal, una criatura puede superar la clasificación conocida y una decisión institucional puede dejar desprotegida a una comunidad.
 - Player conoce compañeros y rivales que no existen únicamente para acompañarlo. Cada uno persigue algo propio.
