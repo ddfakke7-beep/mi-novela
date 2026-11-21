@@ -127,3 +127,38 @@ Después de un capítulo, arco o etapa aprobada —según el procedimiento de la
 - Verificar los archivos realmente modificados.
 
 No duplicar la misma información en varios documentos si puede mantenerse en una fuente propietaria y resumirse desde allí.
+
+
+## 10. Progresión demostrable
+
+Cuando un personaje mejora, comprobar qué evidencia lo respalda. Una acción aislada puede ser suerte, adrenalina o una condición favorable. Una mejora repetida en circunstancias comparables puede indicar adaptación; una capacidad estable y demostrada en contextos variados puede justificar un cambio confirmado.
+
+Separar:
+- Capacidad habitual.
+- Condición temporal (heridas, fatiga, hambre, sed, falta de sueño, enfermedad).
+- Conocimiento.
+- Ejecución técnica.
+- Experiencia y criterio.
+- Dominio fiable.
+
+No conceder dominio por recibir una guía, conocer una explicación o ganar un combate. Tampoco ignorar una mejora sostenida solo porque todavía no se ha llegado al hito de progresión planeado.
+
+## 11. Auditoría de antagonistas y decisiones
+
+Para un plan importante, verificar objetivo, información disponible, recursos, alternativas, riesgos, coste del fracaso y adaptación ante imprevistos. Un antagonista puede ser arrogante, fanático o impulsivo, pero la narración debe entender esa motivación y mostrar su precio.
+
+Si el protagonista no utiliza una solución que ya tiene a su alcance, debe existir una limitación real, circunstancial o moral. Si no hay una razón suficiente, no prolongar artificialmente el conflicto.
+
+No conceder a un enemigo escapatorias repetidas, inmunidad conveniente ni cambios de reglas para mantenerlo vivo. Una amenaza derrotada puede quedar derrotada. Si regresa, debe existir una causa y una situación nueva.
+
+## 12. Decisiones humanas, no decisiones convenientes
+
+Los personajes no son calculadoras. Orgullo, miedo, afecto, lealtad, ambición, vergüenza, confianza, desesperación y prejuicios pueden llevarlos a decisiones imperfectas. Eso no autoriza a hacerlos olvidar lo que saben ni a repetir una conducta ya superada sin una causa concreta.
+
+No confundir humanidad con indecisión perpetua. La madurez puede permitir actuar con miedo o culpa presentes. Una persona puede comprender una situación y aun así elegir algo que otros consideran equivocado.
+
+## 13. Cierre narrativo
+
+Al evaluar una saga, determinar si su objetivo central se cumplió, cambió o sigue pendiente. Revisar qué conflictos recibieron cierre suficiente, qué consecuencias permanecen, qué personajes cambiaron y qué experiencia nueva justificaría continuar.
+
+Una novela puede terminar aunque el mundo conserve misterios. Una secuela o un spin-off son posibilidades, no obligaciones. No mantener la historia viva por cuota ni por miedo a cerrar un conflicto.
