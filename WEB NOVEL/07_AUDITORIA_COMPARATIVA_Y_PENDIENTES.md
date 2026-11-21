@@ -140,18 +140,30 @@ No tener protección narrativa no significa causar daño por obligación. Las de
 
 La primera versión sirve como base, pero todavía es una consolidación inicial, no un método final. Los documentos 02, 03 y 04 deben incorporar explícitamente los doce puntos anteriores. El banco de ideas debe mantener separados conceptos que comparten estética pero cumplen funciones dramáticas diferentes.
 
-## 9. Límites y estado real de la auditoría (actualizado 2026-11-20)
+## 9. Auditoría del corpus narrativo y estado de cierre (2026-11-20)
 
-Se revisaron los documentos de método de DREAM, incluidos su protocolo, motor de invención, ciclo de vida de ideas, dirección a largo plazo, control editorial, registro de repeticiones, transferencia y agencia/coherencia. También se revisaron la biblia, el estado y los tres capítulos de Primera Frontera. Por tanto, DREAM queda reconocido como el proyecto metodológico más reciente y como la referencia principal para el proceso creativo; FIN aporta semillas argumentales y principios complementarios.
+Se completó una pasada sobre el corpus narrativo disponible de las cuatro carpetas, además de los documentos maestros y de método:
 
-También se consultaron las reglas maestras, método y continuidad de UMBRAL; arquitectura, protocolo, método, sistemas principales, fichas y registros de NEXUS; y documentos centrales de FIN. Se inspeccionó el árbol completo del repositorio (220 archivos en las cuatro carpetas). Se examinaron ejemplos narrativos de UMBRAL, NEXUS y DREAM, además de los capítulos de FIN seleccionados en la auditoría anterior.
+- **FIN:** se revisaron los 21 capítulos completos, junto con premisa, reglas, estilo, protagonista, mundos, personajes, continuidad y banco de ideas. La lectura de los capítulos confirmó que había conceptos narrativos importantes que no estaban en el banco antiguo; quedaron reunidos en `08_CATALOGO_DE_CONCEPTOS_NARRATIVOS.md`.
+- **DREAM:** se revisaron los documentos del protocolo, problema creativo, motor de invención, vida de las ideas, dirección a largo plazo, control editorial, repeticiones, transferencia y agencia/coherencia. También la biblia, estado y los tres capítulos disponibles de Primera Frontera. DREAM queda identificado como el método más reciente.
+- **UMBRAL:** se inspeccionaron las páginas narrativas y de diseño de los pisos 1–8, además de los índices y páginas preparadas de los pisos 9–10. El material escrito aporta supervivencia, lectura de amenazas y terreno, heridas persistentes, cooperación, integración y especialización. Los pisos 9–10 están en gran medida en fase de diseño o marcador; no son capítulos completos.
+- **NEXUS:** se revisaron los documentos de arquitectura, protocolo, método, continuidad, elenco y sistemas, además de las páginas de los pisos 1–7. La narración disponible se concentra en los pisos 1–3; buena parte de los pisos 4–7 son páginas de estructura o marcadores de posición, no capítulos escritos. Se rescataron formatos de desafío y organización que no estaban recogidos en el método general.
 
-**No se ha completado una lectura integral de los 220 archivos.** En particular, quedan por revisar de forma completa los 21 capítulos de FIN y el conjunto de archivos HTML de pisos/escenarios de UMBRAL y NEXUS. La inspección de índices y documentos maestros permite comparar métodos, pero no basta para afirmar que se han rescatado todas las ideas narrativas o evaluado cada escena. No se debe presentar esta auditoría como edición literaria integral.
+La inspección incluyó el contenido de los archivos y sus secciones, no solo los nombres del árbol. No fue una corrección literaria línea por línea ni una evaluación frase por frase de cada capítulo. El objetivo de esta migración era recuperar metodología, conceptos y recursos reutilizables, y distinguir texto escrito de diseños pendientes; ese objetivo queda cubierto. No afirmo que cada frase de las novelas antiguas haya sido editada o que cada detalle de continuidad se deba trasladar.
 
-## 10. Consolidación realizada y criterio de cierre
+## 10. Material añadido a WEB NOVEL
 
-Se actualizaron los documentos principales de WEB NOVEL para incorporar: ciclo de vida de ideas y tres horizontes; diseño de escenas y desafíos; gestión de grupos, reputación e información distribuida; auditoría de antagonistas; revisión editorial en cinco lecturas; evidencia de progresión; cierre legítimo; y transferencia entre sesiones. El banco de ideas también incorpora semillas recuperadas de DREAM / Primera Frontera, separadas de las ideas de FIN y marcadas como no canónicas.
+Se creó `08_CATALOGO_DE_CONCEPTOS_NARRATIVOS.md`, que amplía el banco con:
+- 21 conceptos de mundo extraídos de los capítulos de FIN, diferenciados entre sí;
+- recursos narrativos y de diseño recuperados de UMBRAL;
+- formatos de desafío y organización colectiva recuperados de NEXUS;
+- semillas adicionales de DREAM / Primera Frontera;
+- límites explícitos para no copiar sistemas, reglas, personajes o continuidades de las obras antiguas.
 
-**Pendiente antes de borrar las carpetas originales:** lectura completa por lotes de los capítulos y escenarios narrativos aún no examinados, extracción de ideas o recursos que falten en WEB NOVEL, y verificación final de que el banco y la metodología los conservan. Hasta completar ese paso, FIN, DREAM, UMBRAL y NEXUS deben permanecer en el repositorio. Borrarlos ahora contradiría el objetivo de no perder material.
+Los documentos 01–04 ya incorporan el ciclo de vida de ideas, horizontes narrativos, diseño de escenas, gestión de grupos e información, auditoría de antagonistas, control editorial, progresión demostrable, cierres legítimos y transferencia entre sesiones.
 
-La eliminación se hará en un único cambio después de esa verificación, conservando el historial de GitHub. `JUEGOS` queda excluido y no se modificará.
+## 11. Cierre de migración y eliminación de originales
+
+La extracción de metodología y conceptos reutilizables está completada. Las carpetas originales FIN, DREAM, UMBRAL y NEXUS pueden retirarse de la rama principal sin perder su historial de GitHub. La información rescatada permanece en WEB NOVEL; las continuidades específicas y los textos completos de las novelas antiguas no se copian porque no son metodología general.
+
+`JUEGOS` queda expresamente excluido. La eliminación de las cuatro carpetas debe hacerse en un único commit y después comprobar el árbol final del repositorio.
