@@ -69,3 +69,34 @@ No se mostrarán esos procesos como informes de progreso ni como una lista de ni
 **Criterio de aparición:** cada escena secundaria debe justificar su espacio por al menos una razón narrativa: desarrollar una relación, cambiar el estado del mundo, mostrar una consecuencia, preparar un conflicto o revelar un cambio significativo. Si solo informa que alguien entrenó y se volvió más fuerte, normalmente basta con mostrar el resultado cuando reaparezca.
 
 La contrapartida es importante: demasiadas apariciones breves pueden fragmentar la lectura y debilitar el vínculo con Player y el Héroe. Por eso, los cambios fuera de cámara deben sentirse en la historia principal sin exigir que el lector siga simultáneamente doce trayectorias completas.
+
+
+## 9. Vida cotidiana, humor y drama humano
+
+La historia no debe vivir permanentemente en modo solemne. Entre expediciones, guerras y amenazas habrá comidas, viajes, descansos, discusiones de trabajo, celebraciones, entrenamientos, favores, rivalidades pequeñas y momentos de intimidad. Estos espacios permiten que el lector conozca a las personas antes de que el peligro las ponga a prueba.
+
+- El humor nacerá de temperamentos, confianza, diferencias culturales, ironías y situaciones concretas. No dependerá de que los personajes se comporten como tontos.
+- Los personajes competentes también pueden bromear, ser orgullosos, distraerse con asuntos menores, tener gustos extraños o discutir por cosas domésticas. Eso no elimina su criterio cuando hay vidas en juego.
+- El drama cotidiano no tiene que ser tragedia: puede surgir de una deuda, una promesa incumplida, celos, una relación deteriorada, el miedo a quedarse atrás, diferencias de clase o el cansancio de vivir en una frontera peligrosa.
+- Las relaciones no avanzan solo mediante declaraciones. Se muestran en hábitos, confianza, desacuerdos, pequeños cuidados y decisiones cuando el otro necesita ayuda.
+- No todos los vínculos serán románticos. Habrá amistad, rivalidad, compañerismo, familia elegida, respeto profesional, resentimiento y relaciones que se enfrían.
+- El humor debe ceder cuando la situación lo exige. No se harán bromas constantes durante una masacre, una evacuación o una amenaza que los personajes saben que puede matarlos.
+
+## 10. Competencia bajo peligro
+
+Este mundo castiga los errores, por lo que sus habitantes no pueden actuar como si las anomalías fueran juegos.
+
+- Los equipos experimentados comprueban rutas, señales, equipo, retirada y distribución de funciones antes de entrar en zonas peligrosas.
+- Un error sigue siendo posible, pero debe tener una causa humana reconocible: información falsa, exceso de confianza, presión política, agotamiento, miedo, una habilidad desconocida o una decisión tomada con poco tiempo.
+- Los novatos pueden equivocarse por desconocimiento; los veteranos no repetirán torpezas básicas sin una razón concreta.
+- La valentía no equivale a lanzarse de frente. Retirarse, pedir refuerzos, abandonar equipo o salvar información puede ser la decisión correcta.
+- Las anomalías no son todas bestias que esperan a ser golpeadas. Algunas engañan, alteran el terreno, contaminan recursos, cambian patrones o requieren observación, contención y evacuación.
+- Cuando alguien comete una imprudencia, la historia debe reconocer su coste. No se borrará con una broma ni se premiará automáticamente con una victoria espectacular.
+
+## 11. Variedad del elenco
+
+El elenco debe tener presencia significativa de mujeres y hombres, con diversidad de edades, temperamentos, procedencias y funciones. La variedad no se resuelve contando géneros: cada personaje necesita deseos, límites, relaciones y decisiones propias.
+
+No se asignarán personalidades, profesiones o estilos de combate por estereotipos. Una mujer puede ser comandante, investigadora, combatiente, política o alguien que no quiera vivir para luchar; un hombre puede ser sanador, diplomático, cuidador o combatiente. Lo importante es que cada papel nazca de su historia y no de una cuota.
+
+Los personajes secundarios no serán decorado, pero tampoco se forzará a todos a tener el mismo peso. Su importancia dependerá de lo que hagan y de las consecuencias de sus decisiones.
