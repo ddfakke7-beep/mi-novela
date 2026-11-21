@@ -26,12 +26,14 @@
 
 ## 3. Las cinco diosas
 
-La dirección preferida de sus funciones es:
-- Vida.
-- Final o Muerte.
-- Equilibrio.
-- Cambio.
-- Memoria.
+Las cinco diosas son:
+- **Vida**, cuya manifestación luminosa también es conocida como la Diosa de la Luz.
+- **Final o Muerte**, cuya manifestación oscura también es conocida como la Diosa Oscura.
+- **Equilibrio**.
+- **Cambio**.
+- **Memoria**.
+
+La Luz y la Oscuridad no son diosas adicionales ni dominios sexto y séptimo: son nombres o manifestaciones de Vida y Final, respectivamente.
 
 Son parte del mundo y desaparecen cuando este termina o es reiniciado. Son hermanas, aman a sus habitantes y pueden discrepar sin convertirse automáticamente en enemigas.
 
@@ -44,8 +46,8 @@ Límites narrativos:
 
 ### Vínculos relevantes
 - La Diosa de la Memoria ayuda a la sacerdotisa aportando rastros y recuerdos; la sacerdotisa desarrolla sus propias conclusiones.
-- La Diosa de la Luz acompañó al héroe antiguo y acompaña al Héroe actual. Es la misma diosa y su experiencia debe notarse.
-- La Diosa Oscura acompaña a Player. Su relación evoluciona desde la curiosidad hasta una afinidad profunda; no empieza como relación maternal.
+- La Diosa de la Vida, en su manifestación luminosa conocida como Diosa de la Luz, acompañó al héroe antiguo y acompaña al Héroe actual. Es la misma diosa y su experiencia debe notarse.
+- La Diosa del Final, en su manifestación oscura conocida como Diosa Oscura, acompaña a Player. Su relación evoluciona desde la curiosidad hasta una afinidad profunda; no empieza como relación maternal.
 
 ## 4. La sacerdotisa y el método
 
@@ -70,7 +72,7 @@ Límites narrativos:
 
 ## 6. Player
 
-- Player es una persona reencarnada según la dirección actual, todavía provisional.
+- Player es una persona reencarnada que nace en este mundo. Esta condición forma parte de la base de la adaptación; no implica que conserve todos los recuerdos de su vida anterior ni que obtenga ventajas automáticas.
 - Su afinidad excepcional con el universo no le concede automáticamente fuerza, habilidades ni destino.
 - No es el Héroe actual ni el segundo héroe invocado.
 - Su posible compatibilidad como recipiente debe permanecer como hipótesis hasta que la historia reúna pruebas suficientes.
