@@ -42,6 +42,14 @@ El lore de JUEGOS establece como base:
 11. Desarrollo definitivo de la infancia, mentoría y primer quiebre de Player; existe una propuesta inicial en `12_ORIGEN_Y_FORMACION_DE_PLAYER.md`.
 11. Revisar nombres, poderes, motivaciones y relaciones del elenco de `05_PERSONAJES/ELENCO_PRINCIPAL.md`.
 
+## Auditoría de consistencia realizada
+
+- Se corrigió el índice de diosas: son cinco. Luz es la manifestación luminosa de Vida y Oscuridad la manifestación oscura de Final/Muerte; no son entidades adicionales.
+- Se aclaró que la reencarnación de Player forma parte de la base de la adaptación y no debe seguir marcada como una hipótesis provisional.
+- Se alineó la apertura: los primeros capítulos siguen a Player; el Héroe aparece años después, tras su invocación.
+- Se corrigió la estructura para hablar de nueve sagas y un prólogo opcional, no ocho arcos.
+- Se añadió una propuesta concreta de infancia, mentoría y primer quiebre de Player en `12_ORIGEN_Y_FORMACION_DE_PLAYER.md`.
+
 ## Regla
 
 No tratar propuestas como hechos. Toda modificación de la continuidad debe quedar registrada con su justificación y efecto sobre los arcos futuros.
