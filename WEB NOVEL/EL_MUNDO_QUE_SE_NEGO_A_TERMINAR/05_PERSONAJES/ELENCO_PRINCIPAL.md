@@ -245,7 +245,7 @@ Por tanto, las secciones «Ventaja» y «Proyección» de los doce talentos desc
 
 ## Player
 
-No se define todavía su estilo definitivo porque debe nacer de la historia que vivirá, de la organización o grupo al que llegue y de las pérdidas y decisiones que lo formen. No se le asigna una habilidad especial gratuita por ser reencarnado.
+No se define todavía su estilo definitivo porque debe nacer de la historia que vivirá, de la organización o grupo al que llegue y de las pérdidas y decisiones que lo formen. La premisa de su reencarnación sigue pendiente de aprobación literaria en esta adaptación; en cualquier caso, no se le asignará una habilidad especial gratuita por esa condición.
 
 Su ventaja narrativa no es ser el más fuerte, sino que su recorrido está conectado con una desgracia que camina junto a él sin que conozca su naturaleza. Debe poder construir vínculos, cometer errores, desarrollar una forma propia de combatir y alcanzar reconocimiento por acciones concretas.
 
@@ -343,7 +343,7 @@ No son simples segundos puestos. Cada uno puede competir con una figura de la ci
 
 **Personalidad:** negociador paciente, pragmático y desconfiado. No se considera héroe. Cree que contener una amenaza y cobrar por ello es más útil que pronunciar discursos.
 
-**Poder — Cadena de Restricción:** genera vínculos de aura que fijan movimiento, limitan regeneración o inmovilizan partes de un objetivo. Cuanto más comprende el patrón de la criatura, más eficaces se vuelven sus cadenas.
+**Poder — Cadena de Restricción:** genera vínculos de aura que fijan movimiento, limitan la regeneración de criaturas cuyas reglas sean compatibles o inmovilizan partes de un objetivo. Cuanto más comprende el patrón de la criatura, más eficaces se vuelven sus cadenas. No se presume que pueda neutralizar por sí solo la regeneración excepcional del Desastre.
 
 **Ventaja:** es capaz de contener enemigos que superarían su fuerza individual.
 
