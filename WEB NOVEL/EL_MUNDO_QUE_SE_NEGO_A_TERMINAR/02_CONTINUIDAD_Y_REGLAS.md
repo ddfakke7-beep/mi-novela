@@ -20,7 +20,7 @@
 - La regeneración y la interferencia son propiedades separadas.
 - Separar y dispersar partes del cuerpo puede impedir que la regeneración complete la reconstrucción; los fragmentos no se convierten en nuevos Desastres.
 - El universo puede crear otro Desastre aunque uno anterior siga sellado. El número total debe permanecer muy reducido.
-- El Desastre actual es la manifestación destinada a llevar el reinicio hasta su conclusión, pero su personalidad, deseos y contradicción interna deben desarrollarse en la novela.
+- El Desastre actual es la manifestación destinada a llevar el reinicio hasta su conclusión. Su personalidad, criterios, conflictos y posibles contradicciones deben surgir de su naturaleza y experiencias; no se presupone que tenga un deseo secreto de proteger algo, que se rebele contra su función ni que deba vivir una contradicción emocional concreta.
 - Puede recibir conocimiento de Desastres anteriores, pero conocimiento no equivale a omnisciencia, comprensión ni capacidad automática de reproducir sus acciones.
 - La absorción de organismos es una capacidad en desarrollo. No debe copiar instantáneamente poderes, recuerdos o identidades sin límites y costes definidos.
 
