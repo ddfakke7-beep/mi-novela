@@ -152,3 +152,35 @@ Player y el Héroe son los dos focos protagonistas principales, pero no son el c
 - El mundo no se detiene cuando Player o el Héroe no miran: otros pueden progresar, estancarse, superar a los protagonistas, fracasar, cambiar de bando o morir sin que ellos estén presentes.
 
 Esta regla no convierte a los doce talentos en doce protagonistas secundarios. Su autonomía sirve para que el mundo se sienta vivo; el espacio narrativo que reciban dependerá de lo que aporten a la historia.
+
+
+## Línea protagonista del Héroe: desarrollo transversal
+
+La división en sagas anterior describe el orden general de los grandes acontecimientos, pero no debe interpretarse como si la historia del Héroe empezara narrativamente solo cuando Player lo conoce. La invocación ocurre después de que Player haya nacido y construido parte de su vida; desde ese momento, el Héroe debe tener una línea protagonista propia, no una subtrama subordinada.
+
+Esta línea se desarrollará en paralelo a las sagas que correspondan y podrá ocupar capítulos completos, interludios extensos o bloques narrativos propios cuando su conflicto lo justifique.
+
+### Antes y después de la invocación
+
+- **Antes de la invocación:** el mundo ya tiene héroes potenciales, talentos, organizaciones, conflictos y personas capaces de actuar. No se inventará una vida previa del Héroe actual si todavía no ha llegado; el protagonismo independiente en esta etapa corresponde a los personajes y fuerzas existentes, incluida la vida de Player.
+- **Llegada:** la invocación debe ser un acontecimiento con consecuencias para el Héroe y para el mundo. No basta con presentarlo como una herramienta enviada para resolver la crisis.
+- **Adaptación:** el Héroe debe construir vínculos, aprender a vivir en ese mundo, enfrentarse a expectativas ajenas y decidir qué clase de persona quiere ser. Sus problemas no se resuelven automáticamente al conocer a Player.
+- **Construcción de su propio círculo:** tendrá aliados, rivales y responsabilidades que no dependan de compartir grupo con Player. Algunos de esos vínculos pueden entrar en conflicto con los de Player sin que uno tenga que ser el antagonista del otro.
+- **Ascenso y responsabilidad:** cuando gane influencia, deberá tomar decisiones que afecten a personas y organizaciones. Su título no le concede autoridad universal: tendrá que negociar, convencer, asumir errores y responder por sus resultados.
+- **Crisis y consecuencias:** su línea puede avanzar durante guerras, investigaciones y conflictos históricos sin que Player esté presente. Puede llegar a una situación que Player desconozca, y viceversa.
+- **Convergencia:** cuando sus caminos se crucen, ambos llegarán con experiencias, información, heridas, compromisos y objetivos que el otro no comparte. El reencuentro debe revelar ese cambio, no borrar las trayectorias separadas.
+
+### Obligaciones de diseño por saga
+
+Al planificar cada saga posterior a la invocación, incluir una respuesta concreta a estas preguntas:
+1. ¿Qué conflicto propio atraviesa el Héroe en esta etapa?
+2. ¿Qué quiere conseguir que no sea simplemente ayudar a Player?
+3. ¿Qué decisión importante toma sin que Player la dirija?
+4. ¿Qué consecuencias deja esa decisión en el mundo?
+5. ¿Cómo cambia su posición, sus relaciones o su visión de sí mismo?
+
+No es obligatorio que todas las respuestas produzcan un capítulo desde su punto de vista. Sí es obligatorio que los acontecimientos existan en la continuidad y que el lector conozca los que sean relevantes para comprender la historia.
+
+### Regla de protagonismo compartido
+
+Player puede ser el hilo de entrada, el personaje más seguido o quien conecte regiones y misterios; el Héroe no queda por ello reducido a coprotagonista nominal. Ambos deben poder sostener arcos propios, tomar decisiones decisivas, fracasar, cambiar y dejar consecuencias. Ninguno debe necesitar la presencia del otro para justificar su importancia.
