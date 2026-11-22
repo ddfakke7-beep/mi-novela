@@ -100,3 +100,21 @@ El elenco debe tener presencia significativa de mujeres y hombres, con diversida
 No se asignarán personalidades, profesiones o estilos de combate por estereotipos. Una mujer puede ser comandante, investigadora, combatiente, política o alguien que no quiera vivir para luchar; un hombre puede ser sanador, diplomático, cuidador o combatiente. Lo importante es que cada papel nazca de su historia y no de una cuota.
 
 Los personajes secundarios no serán decorado, pero tampoco se forzará a todos a tener el mismo peso. Su importancia dependerá de lo que hagan y de las consecuencias de sus decisiones.
+
+
+## 12. Referencia de experiencia narrativa: Re:Life Player
+
+**Referencia indicada por el usuario.** Se toma como orientación de experiencia, no como plantilla argumental ni como permiso para copiar elementos concretos de la obra.
+
+Lo que queremos incorporar a esta novela:
+
+- **Un mundo peligroso de forma estructural:** las anomalías, monstruos y crisis no son sucesos aislados que aparecen solo cuando la trama necesita acción. Condicionan rutas, asentamientos, trabajo, comercio, defensa, migraciones, política y decisiones cotidianas.
+- **Una normalidad que convive con el peligro:** no todo lugar está en ruinas ni toda escena es una catástrofe. La gente desarrolla costumbres, protocolos, mercados, celebraciones, refugios, rutas relativamente seguras y formas de ayudarse. Esa vida concreta es lo que vuelve dolorosa una pérdida.
+- **Drama acumulativo:** las relaciones y los vínculos se construyen antes de ponerlos a prueba. Las pérdidas, traiciones y revelaciones deben cambiar conductas, alianzas, objetivos o la interpretación de hechos anteriores.
+- **Giros preparados:** una revelación debe sorprender primero y resultar coherente al mirar atrás. No se inventarán secretos retroactivos para producir impacto.
+- **Crecimiento con tiempo:** la infancia, la formación, las amistades, las rivalidades y las organizaciones necesitan espacio para desarrollarse. No saltar directamente de una amenaza local al conflicto cosmológico.
+- **Oscuridad con contraste:** el mundo puede ser cruel sin que todos sus habitantes sean miserables, traumatizados o crueles. La convivencia, el humor y los momentos de seguridad no son relleno; construyen aquello que el drama pone en riesgo.
+
+No se trasladarán la regresión, el escenario coreano, las academias, los sistemas, los personajes, las relaciones ni la trama de Re:Life Player. La novela conservará su propia fantasía, cosmología, protagonistas y estructura.
+
+**Regla práctica:** antes de escribir una saga, definir qué amenaza concreta existe, cómo afecta a la vida ordinaria, qué instituciones o comunidades han surgido para responder a ella y qué costes o desigualdades produce. Si el mundo solo se siente peligroso durante las escenas de combate, todavía no está suficientemente construido.
