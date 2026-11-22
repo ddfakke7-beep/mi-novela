@@ -7,7 +7,7 @@
 1. **Héroe antiguo:** figura histórica que derrotó y selló al Desastre de hace 500 años, descubrió el método de desconexión y no logró completarlo.
 2. **Héroe actual:** segunda existencia invocada por la Sacerdotisa, distinto de Player. Sincero, bromista y sociable, sin ser ingenuo ni pusilánime. Debe ganarse su lugar entre talentos que ya existían antes de su llegada.
 3. **Player:** persona reencarnada que nace en este mundo mucho antes de la invocación del Héroe actual. Tiene una trayectoria, vínculos y objetivos propios; la desgracia lo acompaña sin que comprenda inicialmente el patrón.
-4. **Desastre actual:** entidad creada por el universo, portadora de la misión de reinicio, con voluntad y un deseo particular todavía por definir. Crece durante años antes de convertirse en una fuerza de intervención directa.
+4. **Desastre actual:** entidad creada por el universo y portadora de la misión de reinicio. Su personalidad, deseos y relación con esa misión permanecen abiertos; crece durante años antes de convertirse en una fuerza de intervención directa.
 5. **Sacerdotisa:** investigadora extraordinaria que, con ayuda de la Diosa de la Memoria, desarrolló la teoría del recipiente y la desconexión. Fue asesinada antes de ejecutar el método.
 6. **Líder de la organización:** individuo de poder excepcional que acepta servir al Desastre para superar su propio límite.
 
