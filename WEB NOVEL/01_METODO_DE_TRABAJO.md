@@ -101,3 +101,17 @@ Mantener simultáneamente:
 - **Identidad:** qué está llegando a ser la obra y qué preguntas la definen.
 
 El horizonte global orienta, pero no encadena. Los planes se revisan cuando decisiones coherentes de los personajes o consecuencias reales cambian el rumbo.
+
+
+## 10. Líneas protagonistas y continuidad del mundo
+
+Cuando una novela tenga más de un protagonista, no basta con declararlos importantes en el índice: la planificación y la continuidad deben demostrarlo.
+
+- Cada protagonista principal tendrá objetivos, conflictos, relaciones, decisiones y consecuencias que puedan sostenerse sin depender de otro protagonista.
+- No se exige el mismo número de capítulos ni una alternancia matemática. La atención narrativa seguirá al conflicto más relevante, pero ninguna línea principal debe quedar olvidada o reducida a una función auxiliar.
+- Mantener una cronología compartida: qué ocurrió, cuándo, dónde, quién lo sabe y qué consecuencias siguen activas.
+- Registrar los acontecimientos relevantes que suceden fuera de la perspectiva actual. No inventar retrospectivamente acciones solo para justificar un cambio de poder, una alianza o una nueva situación.
+- Los personajes y organizaciones deben reaccionar a lo que conocen, no a la información que solo posee el lector o el autor.
+- Los cruces entre protagonistas deben producir consecuencias para ambos, pero no absorber sus objetivos individuales ni convertir sus historias en una sola trayectoria.
+
+**Prueba de salud narrativa:** si se retiran temporalmente las escenas de uno de los protagonistas, la línea del otro debe seguir teniendo conflictos y decisiones; si se retiran las escenas de ambos, el mundo debe seguir generando acontecimientos coherentes. Si cualquiera de esas pruebas falla, la historia está dependiendo demasiado de una sola figura o de la presencia constante de los protagonistas.
