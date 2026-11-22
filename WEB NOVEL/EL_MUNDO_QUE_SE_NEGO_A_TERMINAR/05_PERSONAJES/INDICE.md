@@ -37,3 +37,8 @@ Los nombres y diseños son propuestas de autor pendientes de revisión, no canon
 ## Regla de elenco
 
 Ningún personaje existe solo para explicar lore, entregar una misión, demostrar la fuerza del protagonista o morir para motivarlo. Debe tener deseos, relaciones, recursos, contradicciones y decisiones propias. Player y el Héroe no tienen protección narrativa: pueden ser superados, equivocarse, perder reconocimiento o quedar fuera de acontecimientos que otros talentos resuelven.
+
+
+## Estado de las fichas individuales
+
+Los perfiles del elenco se encuentran actualmente reunidos en ELENCO_PRINCIPAL.md. Todavía no existen archivos individuales para Player, el Héroe actual, el Desastre, la Sacerdotisa, las diosas, los doce talentos ni las figuras de cima. No se debe confundir el perfil colectivo con fichas individuales completas. Se crearán fichas separadas a medida que cada personaje tenga información suficiente y decisiones de diseño que registrar; no se inventarán datos para completar una plantilla.
