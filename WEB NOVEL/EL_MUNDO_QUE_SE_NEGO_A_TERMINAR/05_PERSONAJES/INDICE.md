@@ -42,3 +42,8 @@ Ningún personaje existe solo para explicar lore, entregar una misión, demostra
 ## Estado de las fichas individuales
 
 Los perfiles del elenco se encuentran actualmente reunidos en ELENCO_PRINCIPAL.md. Todavía no existen archivos individuales para Player, el Héroe actual, el Desastre, la Sacerdotisa, las diosas, los doce talentos ni las figuras de cima. No se debe confundir el perfil colectivo con fichas individuales completas. Se crearán fichas separadas a medida que cada personaje tenga información suficiente y decisiones de diseño que registrar; no se inventarán datos para completar una plantilla.
+
+
+## Auditoría del elenco
+
+- [16 — Auditoría del elenco y las fuerzas](../16_AUDITORIA_DE_ELENCO_Y_FUERZAS.md): revisión de solapamientos, relaciones institucionales y datos que faltan antes de abrir fichas individuales.
