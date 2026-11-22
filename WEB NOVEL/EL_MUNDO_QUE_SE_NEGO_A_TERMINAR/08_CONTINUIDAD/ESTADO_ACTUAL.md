@@ -67,3 +67,12 @@ No tratar propuestas como hechos. Toda modificación de la continuidad debe qued
 ## Nuevo material de elenco
 
 Se creó `05_PERSONAJES/ELENCO_PRINCIPAL.md` con doce talentos de la generación de Player y el Héroe, cuatro figuras de la cima adulta y cinco personajes cercanos a esa cima. Cada perfil incluye personalidad, estilo o poder, ventaja, límite, objetivo y relaciones. Todo el elenco es propuesta pendiente de revisión; no modifica el lore de JUEGOS.
+
+
+## Revisión del doble protagonismo
+
+- La arquitectura ya establece a Player y al Héroe actual como los dos focos protagonistas principales; no se exige alternancia mecánica ni igualdad de capítulos. La regla completa está en la sección 13 de `07_NARRACION_Y_RITMO.md` y la línea transversal del Héroe está desarrollada en `03_ARCOS_NARRATIVOS.md`.
+- La revisión del elenco detectó que el perfil del Héroe era demasiado breve para sostener esa obligación: solo fijaba una personalidad general y el desarrollo gradual del Estigma.
+- Se amplió `05_PERSONAJES/ELENCO_PRINCIPAL.md` con los aspectos que deben definirse antes de narrar su llegada y sus arcos: identidad previa, deseo inicial, conflicto interno, relación con el título, objetivo independiente, círculo propio, capacidades y límites iniciales, y decisiones con consecuencias.
+- Esos puntos siguen pendientes de diseño. La ampliación es un protocolo de desarrollo, no una invención de datos biográficos ni una aprobación de canon.
+- **Criterio de continuidad:** cuando la narración siga a Player, los acontecimientos de la línea del Héroe y del resto del mundo deben continuar en una cronología causal. Al reencontrarse, los personajes deben traer cambios verificables —decisiones, relaciones, información, heridas, compromisos y consecuencias— y no una actualización improvisada para sorprender.
