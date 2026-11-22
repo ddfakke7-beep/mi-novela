@@ -41,7 +41,14 @@ El lore de JUEGOS establece como base:
 10. Qué personajes secundarios sostendrán cada saga.
 11. Desarrollo definitivo de la infancia, mentoría y primer quiebre de Player; existe una propuesta inicial en `12_ORIGEN_Y_FORMACION_DE_PLAYER.md`.
 12. Revisar nombres, poderes, motivaciones y relaciones del elenco de `05_PERSONAJES/ELENCO_PRINCIPAL.md`.
-13. Diseñar la estructura concreta del mundo: regiones, estados, rutas, asentamientos, economía, defensa, ecología de anomalías, niveles de seguridad y efectos sobre la vida cotidiana.
+13. Revisar y aprobar la propuesta de mundo, geografía y vida cotidiana de `13_MUNDO_Y_GEOGRAFIA.md`; quedan abiertos el mapa definitivo, las fronteras, el calendario y la ubicación final de los sellos antiguos.
+
+## Nueva arquitectura del mundo
+
+- Se creó `13_MUNDO_Y_GEOGRAFIA.md` con una propuesta funcional de cinco regiones, cuatro poderes políticos principales, rutas comerciales, protocolos de seguridad, economía, ecología de anomalías y conflictos humanos autónomos.
+- Se propone Eldara como continente principal de la primera etapa, con la Cuenca de Ordel, la Marca Septentrional, las Altas Cadenas, la Costa de Liria y las Llanuras de Serevan.
+- Se propone Risco de Linde, en la Marca Septentrional, como lugar de infancia y apertura de Player. La propuesta del incidente de evacuación puede desarrollarse allí, pero no queda aprobada automáticamente.
+- Esta arquitectura es una propuesta de adaptación y no modifica el lore de JUEGOS ni fija la ubicación de los restos del Desastre antiguo.
 
 ## Auditoría de consistencia realizada
 
