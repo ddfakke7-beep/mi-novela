@@ -96,3 +96,12 @@ Se corrigió además `02_CONTINUIDAD_Y_REGLAS.md`: el Desastre no está obligado
 - La creación y el hallazgo del Desastre actual todavía no están ubicados respecto al nacimiento de Player y la llegada del Héroe.
 - La secuencia fina de la Sacerdotisa, la invocación del héroe antiguo, la guerra y el sellado tampoco está cerrada.
 - La carpeta 05_PERSONAJES contiene actualmente un índice y un documento colectivo de elenco; todavía no hay fichas individuales. Por eso la revisión temporal de personajes es colectiva y parcial, no una auditoría de fichas inexistentes.
+
+
+## Auditoría del elenco y las fuerzas
+
+- Se creó 16_AUDITORIA_DE_ELENCO_Y_FUERZAS.md tras revisar los doce talentos, las cuatro figuras adultas, las cinco figuras cercanas a la cima, los trasfondos y las cinco instituciones propuestas.
+- No se detectó una contradicción mecánica directa que obligue a descartar a alguno de los doce talentos. Sí hay solapamientos funcionales que deben delimitarse: Daren/Garran, Seris/Ysara, Naira como posible detector de Player, Daren/Saira y varias relaciones entre compañías e instituciones.
+- La Asociación de Exploradores, la Compañía del Último Rastro y la red de Nemea necesitan jurisdicciones distintas. También falta definir la relación de la Orden de los Bastiones con Ysara y Seris.
+- El Héroe actual continúa sin identidad previa, edad de invocación, deseo inicial y círculo propio. El Desastre, la Sacerdotisa, el héroe antiguo, las diosas y el líder de la organización también requieren desarrollo individual.
+- No se crearán fichas vacías ni se duplicará automáticamente el elenco colectivo. Las fichas individuales se abrirán cuando cada personaje tenga diseño suficiente y vaya a sostener arcos recurrentes.
