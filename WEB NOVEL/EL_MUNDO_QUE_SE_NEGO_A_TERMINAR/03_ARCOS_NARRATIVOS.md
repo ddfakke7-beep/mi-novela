@@ -18,7 +18,7 @@ La propuesta de infancia y mentoría está desarrollada en [12 — Origen y form
 
 - Player nace en el mundo como reencarnado; no llega mediante la invocación del Héroe.
 - Su vida inicial debe tener vínculos, rutinas, problemas y deseos concretos. No recordará necesariamente todo ni comprenderá de inmediato qué significa su reencarnación.
-- La región donde crece tiene una relación cotidiana con anomalías y monstruos: rutas que se cierran, patrullas, refugios, rumores y medidas de protección.
+- La propuesta de geografía sitúa su infancia en Risco de Linde, en la Marca Septentrional; el lugar y su relación cotidiana con anomalías, rutas, patrullas y refugios se detallan en `13_MUNDO_Y_GEOGRAFIA.md`. Sigue siendo una propuesta hasta aprobar el origen de Player.
 - Un incidente grave altera su vida. Puede destruir su hogar, separarlo de alguien o revelar que el lugar donde vivía era más frágil de lo que creía. No debe ser una tragedia gratuita elegida solo para darle motivación.
 - La desgracia empieza a acompañarlo mediante coincidencias y patrones que él no sabe interpretar. No todo lo malo que ocurre cerca de él será causado por el universo.
 - Player toma una decisión que lo pone en movimiento y define su primera meta personal.
