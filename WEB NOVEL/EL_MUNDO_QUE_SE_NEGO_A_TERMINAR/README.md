@@ -59,3 +59,4 @@ La arquitectura y las direcciones propuestas todavía no constituyen canon liter
 
 - [14 — Auditoría de coherencia](14_AUDITORIA_DE_COHERENCIA.md): contraste de la adaptación con el lore de JUEGOS, decisiones propias y riesgos de continuidad.
 - [15 — Cronología maestra](15_CRONOLOGIA_MAESTRA.md): orden relativo de acontecimientos, auditoría temporal del elenco y datos aún pendientes.
+- [16 — Auditoría del elenco y las fuerzas](16_AUDITORIA_DE_ELENCO_Y_FUERZAS.md): solapamientos de personajes, límites de organizaciones y huecos de diseño.
