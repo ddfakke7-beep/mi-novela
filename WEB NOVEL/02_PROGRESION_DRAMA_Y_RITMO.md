@@ -193,12 +193,12 @@ No narrar cada paso de una evolución. El entrenamiento, los viajes, la recupera
 
 Un capítulo no necesita una cuota de acción, giro, muerte o revelación. Necesita justificar su extensión con cambios, tensión, experiencia, relaciones o consecuencias.
 
-## 8. Escenas y conflictos con función verificable
+## 14. Escenas y conflictos con función verificable
 
 Antes de conservar una escena importante, identificar qué quiere cada participante, qué lo impide, qué cambia, qué información o relación se altera y qué consecuencia deja. Una escena no necesita pelea, giro o revelación, pero sí una función narrativa reconocible.
 
 Diseñar primero el desafío o arco como experiencia completa: propósito, objetivo, riesgo, aprendizaje, relación con la progresión y transición. Solo después dividirlo en etapas si la experiencia lo necesita. No crear fases, pruebas o capítulos para llenar una estructura prefijada.
 
-## 9. Ritmo y densidad
+## 15. Ritmo y densidad
 
 No narrar cada tarea rutinaria como un capítulo independiente. Usar elipsis para periodos sin cambios relevantes y agrupar acontecimientos conectados cuando produzcan una experiencia más rica. Acelerar no significa precipitar: los avances, descubrimientos y soluciones necesitan causas y preparación. No imponer una longitud universal; cada novela define su escala y densidad.
