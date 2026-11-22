@@ -4,11 +4,11 @@
 **Estado:** arquitectura inicial; propuesta pendiente de revisión.  
 **Canon literario aprobado en esta carpeta:** ninguno todavía.
 
-## Base de referencia
+## Jerarquía de continuidad
 
-El lore de JUEGOS establece como base:
-- Universo que crea mundos y puede reiniciarlos.
-- Desastres creados para ejecutar el reinicio.
+JUEGOS es el antecedente del material, pero la cosmología de la web novel se define en esta carpeta y prevalece para la adaptación:
+- El universo crea los mundos y crea/envía a los Desastres para ejecutar el reinicio.
+- La formulación del lore original sobre el Reiniciador no obliga a la novela ni debe reconciliarse artificialmente con su cosmología.
 - Cinco diosas nacidas del mundo.
 - Sacerdotisa y Diosa de la Memoria investigan cómo cortar la conexión.
 - Héroe antiguo invocado hace 500 años derrota y sella al Desastre de su época.
