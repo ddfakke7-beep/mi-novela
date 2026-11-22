@@ -57,4 +57,5 @@ La historia no trata solo de derrotar al Desastre. Trata de descubrir si el mund
 
 La arquitectura y las direcciones propuestas todavía no constituyen canon literario aprobado. JUEGOS es el antecedente del material, pero la continuidad y las decisiones cosmológicas de la web novel se rigen por los documentos de esta carpeta. Las divergencias deliberadas se documentan aquí.
 
-- [14 — Auditoría de coherencia](14_AUDITORIA_DE_COHERENCIA.md): contraste de la adaptación con el lore de JUEGOS, decisiones propias y riesgos de continuidad.\n- [15 — Cronología maestra](15_CRONOLOGIA_MAESTRA.md): orden relativo de acontecimientos, auditoría temporal del elenco y datos aún pendientes.
+- [14 — Auditoría de coherencia](14_AUDITORIA_DE_COHERENCIA.md): contraste de la adaptación con el lore de JUEGOS, decisiones propias y riesgos de continuidad.
+- [15 — Cronología maestra](15_CRONOLOGIA_MAESTRA.md): orden relativo de acontecimientos, auditoría temporal del elenco y datos aún pendientes.
