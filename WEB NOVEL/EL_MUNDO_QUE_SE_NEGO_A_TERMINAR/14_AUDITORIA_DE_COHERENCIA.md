@@ -20,18 +20,18 @@ La revisión no equivale todavía a una auditoría línea por línea de todas la
 
 ## 2. Contradicciones y decisiones de adaptación que deben resolverse
 
-### A. Origen del Reiniciador / Desastre — prioridad crítica
+### A. Origen del Reiniciador / Desastre — decisión de adaptación confirmada
 
-Hay dos formulaciones diferentes:
+Las fuentes describen el origen de manera distinta:
 
-- En el lore de JUEGOS, el mundo produce periódicamente a una persona destinada a provocar el reinicio. La causa y el mecanismo siguen abiertos.
-- En la base actual de la web novel, el universo crea mundos y envía un Desastre para ejecutar el reinicio; `02_CONTINUIDAD_Y_REGLAS.md` afirma también que los Desastres son creados por el universo.
+- En el lore de JUEGOS, el mundo produce periódicamente a una persona destinada a provocar el reinicio. La causa y el mecanismo siguen abiertos en ese proyecto.
+- En la web novel, el universo crea mundos y origina/envía un Desastre para ejecutar el reinicio. Esta es la cosmología que rige la adaptación.
 
-No son formulaciones equivalentes. Una atribuye la producción al mundo y la otra al universo. Puede ser una modificación deliberada de la adaptación, pero no debe tratarse como si ya estuviera resuelta por el lore original.
+**Decisión confirmada por el autor de la web novel:** prevalece la versión de la adaptación. El universo es la instancia que crea los mundos y crea/envía a los Desastres. La formulación de JUEGOS queda como antecedente del material original, no como una regla que la novela deba conservar ni como una contradicción pendiente de reconciliar.
 
-**Tratamiento provisional:** conservar ambas como versiones distintas y no inventar un mecanismo que las reconcilie. Antes de cerrar la cosmología de la novela habrá que decidir si la adaptación cambia el origen, si «el mundo produce» es una forma de describir un proceso iniciado por el universo o si existe otra explicación.
+Por tanto, no se debe introducir una explicación para hacer que «el mundo produce» y «el universo crea/envía» sean el mismo mecanismo. Tampoco se debe corregir la cosmología de la novela para ajustarla al videojuego.
 
-También debe confirmarse si «Desastre» y «Reiniciador» son exactamente el mismo concepto y si uno será el término narrativo de la adaptación. La documentación actual los trata como equivalentes en la práctica, pero conviene fijar la nomenclatura.
+**Pendiente separado:** confirmar si «Desastre» y «Reiniciador» designan exactamente la misma entidad/concepto o si «Reiniciador» pertenece a la terminología del lore original y «Desastre» es el término propio de la adaptación. Hasta resolverlo, usar «Desastre» en la documentación narrativa de la web novel.
 
 ### B. Las cinco diosas y sus manifestaciones — prioridad alta
 
@@ -101,7 +101,7 @@ Se ajustó `02_CONTINUIDAD_Y_REGLAS.md` para que el Desastre no tenga que poseer
 2. Desarrollar la ficha autónoma del Héroe sin fijar todavía datos biográficos arbitrarios: deseo, objetivo, relaciones, límites, defectos y decisiones irreversibles.
 3. Revisar las fichas individuales del elenco para comprobar que sus edades, afiliaciones, técnicas, objetivos y relaciones no se contradigan.
 4. Precisar la frontera entre las cinco grandes instituciones y las fuerzas propias de los personajes.
-5. Resolver la diferencia entre «el mundo produce» y «el universo crea/envía» al definir la cosmología específica de la adaptación.
+5. Fijar la nomenclatura: determinar si «Reiniciador» y «Desastre» son equivalentes o si el primer término queda restringido al lore original de JUEGOS.
 6. Revisar los primeros arcos propuestos contra la cronología y los recursos geográficos antes de escribir capítulos.
 
-**Regla final:** cuando una diferencia entre JUEGOS y la web novel sea deliberada, debe registrarse como decisión de adaptación. Cuando sea una incógnita, debe seguir marcada como pendiente. Nunca se debe borrar una diferencia inventando una explicación sin fundamento.
+**Regla final:** cuando una diferencia entre JUEGOS y la web novel sea deliberada, debe registrarse como decisión de adaptación. La cosmología del universo que crea/envía Desastres ya está confirmada para la novela. Las incógnitas restantes deben seguir marcadas como pendientes. Nunca se debe borrar una diferencia inventando una explicación sin fundamento.
