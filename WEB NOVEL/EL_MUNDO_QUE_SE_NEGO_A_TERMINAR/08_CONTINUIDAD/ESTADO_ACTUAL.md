@@ -13,7 +13,7 @@ El lore de JUEGOS establece como base:
 - Sacerdotisa y Diosa de la Memoria investigan cómo cortar la conexión.
 - Héroe antiguo invocado hace 500 años derrota y sella al Desastre de su época.
 - Héroe actual es la segunda existencia invocada, distinta de Player.
-- Player es una persona reencarnada que nace en este mundo mucho antes de la invocación del Héroe actual y desarrolla un vínculo con la Diosa Oscura, manifestación de la Diosa del Final.
+- El lore actualizado de JUEGOS deja provisional la reencarnación de Player; esta adaptación la adopta como premisa de trabajo, todavía pendiente de aprobación literaria. Player nace mucho antes de la invocación del Héroe actual y desarrolla un vínculo con la Diosa Oscura, manifestación de la Diosa del Final.
 - El Desastre actual es la manifestación destinada a completar el reinicio.
 - Una organización sirve al Desastre por el poder que recibe; su líder conoce su subordinación y la acepta de forma calculada.
 
@@ -41,11 +41,12 @@ El lore de JUEGOS establece como base:
 10. Qué personajes secundarios sostendrán cada saga.
 11. Desarrollo definitivo de la infancia, mentoría y primer quiebre de Player; existe una propuesta inicial en `12_ORIGEN_Y_FORMACION_DE_PLAYER.md`.
 12. Revisar nombres, poderes, motivaciones y relaciones del elenco de `05_PERSONAJES/ELENCO_PRINCIPAL.md`.
+13. Diseñar la estructura concreta del mundo: regiones, estados, rutas, asentamientos, economía, defensa, ecología de anomalías, niveles de seguridad y efectos sobre la vida cotidiana.
 
 ## Auditoría de consistencia realizada
 
 - Se corrigió el índice de diosas: son cinco. Luz es la manifestación luminosa de Vida y Oscuridad la manifestación oscura de Final/Muerte; no son entidades adicionales.
-- Se aclaró que la reencarnación de Player forma parte de la base de la adaptación y no debe seguir marcada como una hipótesis provisional.
+- Se decidió utilizar la reencarnación de Player como premisa de esta adaptación, distinguiéndola del lore de JUEGOS, donde aún permanece provisional; no es canon literario aprobado.
 - Se alineó la apertura: los primeros capítulos siguen a Player; el Héroe aparece años después, tras su invocación.
 - Se corrigió la estructura para hablar de nueve sagas y un prólogo opcional, no ocho arcos.
 - Se añadió una propuesta concreta de infancia, mentoría y primer quiebre de Player en `12_ORIGEN_Y_FORMACION_DE_PLAYER.md`.
