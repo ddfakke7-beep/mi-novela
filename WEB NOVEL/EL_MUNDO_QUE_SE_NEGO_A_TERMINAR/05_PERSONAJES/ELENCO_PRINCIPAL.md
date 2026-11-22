@@ -257,6 +257,23 @@ Su personalidad sincera, sociable y bromista le permitirá conectar con personas
 
 **Regla:** su condición de Héroe atraerá atención y expectativas, no victorias. Los talentos de su generación pueden rechazarlo, desafiarlo, ignorarlo o superarlo.
 
+### Desarrollo protagonista pendiente de concretar
+
+La personalidad indicada arriba es solo un punto de partida, no una ficha suficiente para sostener su propia línea narrativa. Antes de escribir su llegada o sus primeros arcos extensos, habrá que definir sin convertirlo en una copia de Player:
+
+- **Identidad previa:** nombre, edad al ser invocado, procedencia y circunstancias de su vida anterior. No se inventarán datos hasta decidir qué función cumplen.
+- **Deseo inicial:** qué quiere él, antes de comprender qué espera el mundo de un Héroe.
+- **Conflicto interno:** qué rasgo suyo le ayuda a conectar con otros y qué defecto puede llevarlo a tomar malas decisiones.
+- **Relación con el título:** cómo interpreta que lo llamen Héroe y qué parte de esa expectativa acepta, rechaza o transforma.
+- **Objetivo independiente:** una meta que perseguiría aunque nunca conociera a Player y que pueda entrar en tensión con las necesidades de otros.
+- **Círculo propio:** al menos un vínculo de confianza, una relación conflictiva y una figura que cuestione sus decisiones. No tienen que pertenecer a la misma organización.
+- **Competencias y límites iniciales:** qué sabe hacer al llegar, qué desconoce y qué no puede resolver con su Estigma.
+- **Decisiones irreversibles:** elecciones que produzcan consecuencias fuera de su relación con Player y que no puedan borrarse con una victoria posterior.
+
+**Regla de escritura:** no basta con mostrar al Héroe entrenando, ganando combates o recibiendo explicaciones. Cada etapa importante debe obligarlo a elegir entre opciones con costes distintos. Sus victorias deben resolver problemas de su línea; sus errores deben generar consecuencias que no sean simples obstáculos para que Player lo rescate.
+
+**Estado:** estos puntos son trabajo de diseño pendiente. No se rellenarán con detalles improvisados ni se considerarán canon por aparecer en una escena de prueba.
+
 ---
 
 # III. Cima de la generación adulta actual
