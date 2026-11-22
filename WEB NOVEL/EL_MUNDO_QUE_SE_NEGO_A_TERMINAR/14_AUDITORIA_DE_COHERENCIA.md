@@ -99,8 +99,8 @@ Se ajustó `02_CONTINUIDAD_Y_REGLAS.md` para que el Desastre no tenga que poseer
 
 1. **Completado:** crear una cronología maestra con hitos relativos para Player, Héroe, Desastre, organización, héroe antiguo y Sacerdotisa. Ver `15_CRONOLOGIA_MAESTRA.md`.
 2. Desarrollar la ficha autónoma del Héroe sin fijar todavía datos biográficos arbitrarios: deseo, objetivo, relaciones, límites, defectos y decisiones irreversibles.
-3. Revisar y crear fichas individuales del elenco. Actualmente los perfiles están agrupados en `05_PERSONAJES/ELENCO_PRINCIPAL.md`; todavía no hay fichas individuales que puedan auditarse por separado.
-4. Precisar la frontera entre las cinco grandes instituciones y las fuerzas propias de los personajes.
+3. **Completado parcialmente:** auditar los perfiles colectivos y las fronteras organizativas. Ver `16_AUDITORIA_DE_ELENCO_Y_FUERZAS.md`. Las fichas individuales aún no existen y se crearán cuando el diseño de cada personaje esté suficientemente definido.
+4. **Completado como diagnóstico:** identificar los solapamientos entre las cinco instituciones y las fuerzas independientes. Falta decidir las jurisdicciones concretas; ver `16_AUDITORIA_DE_ELENCO_Y_FUERZAS.md`.
 5. Fijar la nomenclatura: determinar si «Reiniciador» y «Desastre» son equivalentes o si el primer término queda restringido al lore original de JUEGOS.
 6. Revisar los primeros arcos propuestos contra la cronología y los recursos geográficos antes de escribir capítulos.
 
@@ -114,3 +114,10 @@ La cronología maestra ya está creada en 15_CRONOLOGIA_MAESTRA.md. El análisis
 La revisión de personajes también confirmó que el directorio 05_PERSONAJES solo contiene INDICE.md y ELENCO_PRINCIPAL.md. Los doce talentos, las cuatro figuras adultas y las cinco figuras cercanas a la cima están descritos colectivamente; no existen fichas individuales separadas. Por tanto, no se puede afirmar que sus historias personales hayan sido auditadas una por una.
 
 **Criterio:** no inventar edades ni fichas biográficas para dar apariencia de cierre. La siguiente revisión debe definir primero los hitos de Player y del Héroe y, después, individualizar los personajes recurrentes cuando exista diseño suficiente.
+
+
+## 8. Segunda revisión: elenco y organizaciones
+
+Se revisaron los doce talentos, las cuatro figuras adultas y las cinco figuras cercanas a la cima en sus perfiles colectivos, junto con los trasfondos y el marco institucional. No apareció una contradicción mecánica directa que obligue a descartar personajes. Sí se detectaron solapamientos de función: Daren/Garran, Seris/Ysara, Daren/Saira y las relaciones entre la Asociación de Exploradores, la Compañía del Último Rastro, Nemea, la Orden de los Bastiones y las fuerzas de respuesta.
+
+El diagnóstico y las fronteras que faltan definir están en `16_AUDITORIA_DE_ELENCO_Y_FUERZAS.md`. No se han inventado afiliaciones, parentescos ni edades para cerrar esos huecos. Tampoco se afirma que existan fichas individuales: el elenco sigue reunido en un documento colectivo.
