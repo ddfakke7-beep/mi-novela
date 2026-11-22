@@ -17,7 +17,7 @@ Un mundo está destinado a ser reiniciado por el universo. Hace 500 años, un h�
 
 Una sacerdotisa, con ayuda de la Diosa de la Memoria, había investigado una posibilidad: cortar el vínculo que permite al universo ejecutar el reinicio. La solución exige dos funciones distintas y un precio que ella no llegó a afrontar. El héroe antiguo terminó comprendiendo el método, pero no encontró cómo completarlo.
 
-Quinientos años después, una nueva generación hereda las consecuencias de aquella guerra. El Héroe actual aparece con marcas semejantes a las del antiguo. Player, cuya existencia sigue una trayectoria distinta, entra en contacto con la Diosa Oscura y desarrolla su propia historia. Mientras tanto, el nuevo Desastre crece en el mundo y una organización poderosa decide servirlo para alcanzar una fuerza que considera inalcanzable por otros medios.
+Quinientos años después, una nueva generación hereda las consecuencias de aquella guerra. El Héroe actual posee un Estigma propio; puede presentar resonancias con el antiguo, pero no tiene por qué repetir su desarrollo ni sus capacidades. Player, cuya existencia sigue una trayectoria distinta, entra en contacto con la Diosa Oscura y desarrolla su propia historia. Mientras tanto, el nuevo Desastre crece en el mundo y una organización poderosa decide servirlo para alcanzar una fuerza que considera inalcanzable por otros medios.
 
 La historia no trata solo de derrotar al Desastre. Trata de descubrir si el mundo puede decidir su propio futuro y de quién tiene derecho a decidir qué precio debe pagarse.
 
@@ -45,7 +45,7 @@ La historia no trata solo de derrotar al Desastre. Trata de descubrir si el mund
 2. Los elementos establecidos se respetan; los puntos abiertos no se convierten en hechos por conveniencia.
 3. Los giros deben nacer de pistas, decisiones y consecuencias ya presentes.
 4. El Héroe y Player son personajes distintos. Player no es uno de los dos héroes invocados.
-5. El Desastre actual no es malvado por definición, pero su misión y sus deseos contradictorios deben conservar su gravedad.
+5. El Desastre actual no es malvado por definición. Su misión y sus consecuencias conservan gravedad; su personalidad, deseos y relación con esa misión permanecen abiertos, sin imponer contradicción o rebelión.
 6. Las diosas no son omniscientes ni solucionan los conflictos en lugar de los personajes.
 7. El mundo no se detiene para esperar a los protagonistas. Las guerras, organizaciones y personajes tienen objetivos propios.
 8. Ningún personaje está obligado a aceptar un sacrificio por el simple hecho de que una profecía, un método o una generación anterior lo haya previsto.
