@@ -105,3 +105,20 @@ Se corrigió además `02_CONTINUIDAD_Y_REGLAS.md`: el Desastre no está obligado
 - La Asociación de Exploradores, la Compañía del Último Rastro y la red de Nemea necesitan jurisdicciones distintas. También falta definir la relación de la Orden de los Bastiones con Ysara y Seris.
 - El Héroe actual continúa sin identidad previa, edad de invocación, deseo inicial y círculo propio. El Desastre, la Sacerdotisa, el héroe antiguo, las diosas y el líder de la organización también requieren desarrollo individual.
 - No se crearán fichas vacías ni se duplicará automáticamente el elenco colectivo. Las fichas individuales se abrirán cuando cada personaje tenga diseño suficiente y vaya a sostener arcos recurrentes.
+
+## Responsabilidad autoral y tratamiento de los pendientes
+
+Los pendientes enumerados en esta documentación son un registro de asuntos todavía no desarrollados o fijados; **no constituyen una lista de tareas que el usuario deba completar**. Según el método general de WEB NOVEL, ChatGPT asume la autoría principal y debe resolverlos con autonomía creativa cuando sean necesarios para la historia.
+
+Esto incluye, entre otras responsabilidades:
+
+- Desarrollar la identidad, el pasado, los deseos, los conflictos, las relaciones, las capacidades y los límites del Héroe, sosteniendo una línea protagonista autónoma junto a Player.
+- Completar de forma coherente los antecedentes, motivaciones, vínculos y límites de Player, el Desastre, las figuras históricas y los personajes secundarios cuando vayan a intervenir de manera relevante.
+- Definir las funciones, jurisdicciones, recursos, jerarquías y conflictos entre organizaciones antes de que esas relaciones sean decisivas en la trama.
+- Resolver edades, intervalos y simultaneidad en la cronología cuando los acontecimientos los requieran.
+- Mantener activas las líneas de los protagonistas y los acontecimientos del mundo fuera de cámara, sin inventar retrospectivamente sucesos para justificar resultados.
+- Registrar en los documentos correspondientes las decisiones narrativas importantes y sus efectos sobre continuidad, personajes, organizaciones y arcos.
+
+No es necesario cerrar todos los detalles antes de comenzar a narrar. Un pendiente puede seguir abierto mientras no afecte la escena o el arco actual. ChatGPT debe prepararlo antes de que se vuelva estructuralmente necesario, no improvisarlo después de que la historia dependa de ello.
+
+El usuario solo debe intervenir en decisiones que cambien de forma sustancial la identidad o dirección de la obra, en contradicciones de canon que no puedan resolverse con las fuentes disponibles o en aprobaciones que el proyecto exija expresamente. **La falta de una ficha completa o de un dato menor no debe utilizarse como excusa para paralizar el avance narrativo.**
