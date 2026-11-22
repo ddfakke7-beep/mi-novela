@@ -115,3 +115,22 @@ Cuando una novela tenga más de un protagonista, no basta con declararlos import
 - Los cruces entre protagonistas deben producir consecuencias para ambos, pero no absorber sus objetivos individuales ni convertir sus historias en una sola trayectoria.
 
 **Prueba de salud narrativa:** si se retiran temporalmente las escenas de uno de los protagonistas, la línea del otro debe seguir teniendo conflictos y decisiones; si se retiran las escenas de ambos, el mundo debe seguir generando acontecimientos coherentes. Si cualquiera de esas pruebas falla, la historia está dependiendo demasiado de una sola figura o de la presencia constante de los protagonistas.
+
+## 11. Responsabilidad sobre los huecos de desarrollo
+
+Los pendientes documentales no son, por defecto, tareas que deban delegarse al usuario ni bloqueos que obliguen a detener la narración. **Resolverlos forma parte del trabajo de autoría de ChatGPT.**
+
+Cuando un dato todavía no esté fijado, ChatGPT debe:
+
+- Determinar si el dato es necesario ahora o puede permanecer abierto sin perjudicar la historia.
+- Si es necesario, desarrollar una solución coherente con el canon, la continuidad, la personalidad de los implicados y las consecuencias ya establecidas.
+- Resolver por iniciativa propia los detalles ordinarios: edades e intervalos cuando sean necesarios, antecedentes, motivaciones, relaciones, límites, funcionamiento institucional y causas de acontecimientos.
+- Preparar con antelación los elementos estructurales antes de que sostengan un arco o una revelación. No improvisar retrospectivamente datos esenciales para justificar una escena ya escrita.
+- Registrar las decisiones relevantes en los documentos correspondientes, distinguiendo hechos establecidos, decisiones de adaptación, propuestas y posibilidades todavía abiertas.
+- Revisar las consecuencias de cada decisión en la cronología, los personajes, las organizaciones y los arcos relacionados.
+
+En particular, si Player y el Héroe son coprotagonistas, ChatGPT debe construir y sostener la trayectoria autónoma de ambos. El Héroe necesita identidad, deseo, conflictos, relaciones, capacidades, límites, decisiones y consecuencias propias; no basta con reservarle escenas de acción ni con declararlo coprotagonista. El Desastre, las organizaciones y los personajes secundarios también deben recibir el desarrollo que exija su función real en la historia.
+
+**Límite de autonomía:** consultar al usuario solo cuando una decisión cambie sustancialmente la identidad, el sentido o la dirección de la obra, cuando haya una contradicción de canon irresoluble o cuando el proyecto exija aprobación expresa. No trasladarle decisiones creativas rutinarias ni pedirle que complete fichas para que el autor pueda avanzar.
+
+**Regla contra la improvisación dañina:** autonomía no significa inventar cualquier dato sobre la marcha. Los huecos pueden permanecer abiertos mientras no sean necesarios; cuando pasen a ser relevantes, deben resolverse con fundamento, comprobarse contra el resto del proyecto y documentarse. Una decisión nueva no se presentará como un hecho previamente establecido.
