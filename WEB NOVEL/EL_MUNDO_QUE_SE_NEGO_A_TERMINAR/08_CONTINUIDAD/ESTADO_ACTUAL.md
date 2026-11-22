@@ -2,7 +2,7 @@
 
 **Proyecto:** EL MUNDO QUE SE NEGÓ A TERMINAR  
 **Estado:** arquitectura inicial; propuesta pendiente de revisión.  
-**Canon literario aprobado en esta carpeta:** ninguno todavía.
+**Decisión de adaptación confirmada:** la cosmología de la web novel establece que el universo crea los mundos y crea/envía a los Desastres. **Canon literario de personajes, lugares y arcos:** continúa pendiente de aprobación.
 
 ## Jerarquía de continuidad
 
