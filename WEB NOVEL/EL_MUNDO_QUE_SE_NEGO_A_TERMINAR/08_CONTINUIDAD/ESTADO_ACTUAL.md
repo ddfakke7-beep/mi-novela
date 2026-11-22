@@ -81,8 +81,18 @@ Se creó `05_PERSONAJES/ELENCO_PRINCIPAL.md` con doce talentos de la generación
 
 Se creó `14_AUDITORIA_DE_COHERENCIA.md` tras contrastar la base narrativa, continuidad, organizaciones, ritmo, sistema de poder, figuras de cima, origen de Player y geografía con `JUEGOS/00_GENERAL/LORE/00_HISTORIA_Y_MUNDO.md`.
 
-Hallazgo prioritario: el lore de JUEGOS dice que el mundo produce al Reiniciador, mientras que la base de la web novel dice que el universo crea mundos y envía al Desastre. No son formulaciones equivalentes y no se deben reconciliar mediante una explicación inventada. También queda pendiente confirmar la nomenclatura Desastre/Reiniciador y el estatus definitivo de las manifestaciones Vida/Luz y Final/Oscuridad en la adaptación.
+Decisión confirmada por el autor: para la web novel prevalece su propia cosmología; el universo crea los mundos y crea/envía a los Desastres. La formulación del Reiniciador en JUEGOS queda como antecedente del material original, no como una contradicción que la novela deba resolver. Sigue pendiente precisar si «Reiniciador» y «Desastre» son términos equivalentes o si el primero queda reservado al lore original.
 
 Se registró que Player reencarnado y el Héroe como coprotagonista son decisiones propias de la adaptación, no hechos cerrados del lore base de JUEGOS. La identidad del líder de la organización del Desastre continúa abierta y no se asigna a ninguna de las nueve figuras de cima. Falta construir una cronología relativa que permita comprobar edades, intervalos y acontecimientos paralelos.
 
 Se corrigió además `02_CONTINUIDAD_Y_REGLAS.md`: el Desastre no está obligado a tener una contradicción emocional, deseo secreto de proteger algo o rebelión contra su función.
+
+
+## Cronología maestra y revisión temporal
+
+- Se creó 15_CRONOLOGIA_MAESTRA.md para ordenar la crisis de hace unos 500 años, la línea de Player, la invocación del Héroe actual y el crecimiento del Desastre actual.
+- La cronología separa hechos establecidos de propuestas y huecos. No asigna edades, fechas ni duraciones que los documentos no respaldan.
+- Se detectó una ambigüedad importante en «generación»: Player nace antes de la invocación del Héroe, pero ambos se agrupan con doce talentos. Falta definir si la expresión describe una cohorte histórica o una franja de edad.
+- La creación y el hallazgo del Desastre actual todavía no están ubicados respecto al nacimiento de Player y la llegada del Héroe.
+- La secuencia fina de la Sacerdotisa, la invocación del héroe antiguo, la guerra y el sellado tampoco está cerrada.
+- La carpeta 05_PERSONAJES contiene actualmente un índice y un documento colectivo de elenco; todavía no hay fichas individuales. Por eso la revisión temporal de personajes es colectiva y parcial, no una auditoría de fichas inexistentes.
