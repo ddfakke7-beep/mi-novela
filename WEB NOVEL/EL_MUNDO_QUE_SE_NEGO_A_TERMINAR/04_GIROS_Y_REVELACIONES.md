@@ -50,7 +50,7 @@ Puede aceptar su función sin conflicto sentimental, considerarla una continuida
 
 ## Giro 8 — La organización no conoce la verdad que cree estar aprovechando
 
- La organización sirve al Desastre por la fuerza que concede, pero eso no significa que todos conozcan su origen ni su misión universal. El líder sabe que está subordinado a una entidad que lo supera y acepta ese precio para obtener poder; todavía no está establecido cuánto comprende sobre el reinicio. La mayoría de los miembros puede ignorar incluso esa dimensión de la relación. Así se separan tres niveles de conocimiento: lo que el líder sabe sobre la jerarquía, lo que la organización cree sobre su benefactor y la verdad cosmológica que el lector descubrirá gradualmente.
+La organización sirve al Desastre por la fuerza que concede, pero eso no significa que todos conozcan su origen ni su misión universal. El líder sabe que está subordinado a una entidad que lo supera y acepta ese precio para obtener poder; todavía no está establecido cuánto comprende sobre el reinicio. La mayoría de los miembros puede ignorar incluso esa dimensión de la relación. Así se separan tres niveles de conocimiento: lo que el líder sabe sobre la jerarquía, lo que la organización cree sobre su benefactor y la verdad cosmológica que el lector descubrirá gradualmente.
 
 **Preparación:** documentos incompletos, doctrinas internas centradas en el poder, órdenes que el líder acepta sin explicar su significado último.
 
