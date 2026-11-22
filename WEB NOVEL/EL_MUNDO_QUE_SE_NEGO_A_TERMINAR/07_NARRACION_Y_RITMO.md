@@ -10,7 +10,7 @@ Fantasía épica con aventura, acción, drama, misterio y conflictos humanos. La
 
 La novela puede alternar entre la línea del Héroe, la de Player y escenas puntuales de otros personajes cuando aporten información dramática que los protagonistas no podrían conocer.
 
-No conviene narrar desde el punto de vista del Desastre demasiado pronto. Su interioridad debe revelarse cuando el lector tenga contexto para comprender su contradicción.
+No conviene narrar desde el punto de vista del Desastre demasiado pronto. Su perspectiva y su lógica propia deben revelarse cuando el lector tenga contexto para comprenderlas.
 
 Las escenas de otras épocas deben ser breves y justificadas por una revelación o consecuencia presente, no interrumpir constantemente la historia actual.
 
@@ -35,7 +35,7 @@ Las escenas de otras épocas deben ser breves y justificadas por una revelación
 
 La tragedia de Player debe ser acumulativa, pero no una cadena mecánica de muertes para provocar tristeza. Cada pérdida debe alterar su visión, sus vínculos o sus decisiones. Que conserve su humanidad debe verse en acciones concretas, incluso cuando esté agotado o enfadado.
 
-La contradicción del Desastre debe ser igualmente seria: querer proteger algo no lo absuelve de lo que está destinado a hacer.
+La gravedad del Desastre no depende de que quiera proteger algo ni de que se rebele: depende de su misión, de sus consecuencias y de la lógica propia con la que interpreta su existencia.
 
 ## 6. Ritmo de arcos
 
