@@ -97,11 +97,20 @@ Se ajustó `02_CONTINUIDAD_Y_REGLAS.md` para que el Desastre no tenga que poseer
 
 ## 6. Próximas tareas de auditoría
 
-1. Crear una cronología maestra de Player, Héroe, Desastre, organización, héroe antiguo y sacerdotisa, primero con hitos relativos.
+1. **Completado:** crear una cronología maestra con hitos relativos para Player, Héroe, Desastre, organización, héroe antiguo y Sacerdotisa. Ver `15_CRONOLOGIA_MAESTRA.md`.
 2. Desarrollar la ficha autónoma del Héroe sin fijar todavía datos biográficos arbitrarios: deseo, objetivo, relaciones, límites, defectos y decisiones irreversibles.
-3. Revisar las fichas individuales del elenco para comprobar que sus edades, afiliaciones, técnicas, objetivos y relaciones no se contradigan.
+3. Revisar y crear fichas individuales del elenco. Actualmente los perfiles están agrupados en `05_PERSONAJES/ELENCO_PRINCIPAL.md`; todavía no hay fichas individuales que puedan auditarse por separado.
 4. Precisar la frontera entre las cinco grandes instituciones y las fuerzas propias de los personajes.
 5. Fijar la nomenclatura: determinar si «Reiniciador» y «Desastre» son equivalentes o si el primer término queda restringido al lore original de JUEGOS.
 6. Revisar los primeros arcos propuestos contra la cronología y los recursos geográficos antes de escribir capítulos.
 
 **Regla final:** cuando una diferencia entre JUEGOS y la web novel sea deliberada, debe registrarse como decisión de adaptación. La cosmología del universo que crea/envía Desastres ya está confirmada para la novela. Las incógnitas restantes deben seguir marcadas como pendientes. Nunca se debe borrar una diferencia inventando una explicación sin fundamento.
+
+
+## 7. Resultado de la auditoría temporal
+
+La cronología maestra ya está creada en 15_CRONOLOGIA_MAESTRA.md. El análisis confirma el orden general de las líneas, pero no permite calcular edades ni simultaneidad. Los principales vacíos son la edad de Player al conocer al Héroe, la edad/procedencia del Héroe al ser invocado, el momento de creación y hallazgo del Desastre actual, y la secuencia exacta de los acontecimientos de la crisis antigua.
+
+La revisión de personajes también confirmó que el directorio 05_PERSONAJES solo contiene INDICE.md y ELENCO_PRINCIPAL.md. Los doce talentos, las cuatro figuras adultas y las cinco figuras cercanas a la cima están descritos colectivamente; no existen fichas individuales separadas. Por tanto, no se puede afirmar que sus historias personales hayan sido auditadas una por una.
+
+**Criterio:** no inventar edades ni fichas biográficas para dar apariencia de cierre. La siguiente revisión debe definir primero los hitos de Player y del Héroe y, después, individualizar los personajes recurrentes cuando exista diseño suficiente.
