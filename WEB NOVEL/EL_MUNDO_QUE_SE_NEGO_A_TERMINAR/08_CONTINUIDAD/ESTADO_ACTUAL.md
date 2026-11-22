@@ -76,3 +76,13 @@ Se creó `05_PERSONAJES/ELENCO_PRINCIPAL.md` con doce talentos de la generación
 - Se amplió `05_PERSONAJES/ELENCO_PRINCIPAL.md` con los aspectos que deben definirse antes de narrar su llegada y sus arcos: identidad previa, deseo inicial, conflicto interno, relación con el título, objetivo independiente, círculo propio, capacidades y límites iniciales, y decisiones con consecuencias.
 - Esos puntos siguen pendientes de diseño. La ampliación es un protocolo de desarrollo, no una invención de datos biográficos ni una aprobación de canon.
 - **Criterio de continuidad:** cuando la narración siga a Player, los acontecimientos de la línea del Héroe y del resto del mundo deben continuar en una cronología causal. Al reencontrarse, los personajes deben traer cambios verificables —decisiones, relaciones, información, heridas, compromisos y consecuencias— y no una actualización improvisada para sorprender.
+
+## Auditoría de coherencia con JUEGOS
+
+Se creó `14_AUDITORIA_DE_COHERENCIA.md` tras contrastar la base narrativa, continuidad, organizaciones, ritmo, sistema de poder, figuras de cima, origen de Player y geografía con `JUEGOS/00_GENERAL/LORE/00_HISTORIA_Y_MUNDO.md`.
+
+Hallazgo prioritario: el lore de JUEGOS dice que el mundo produce al Reiniciador, mientras que la base de la web novel dice que el universo crea mundos y envía al Desastre. No son formulaciones equivalentes y no se deben reconciliar mediante una explicación inventada. También queda pendiente confirmar la nomenclatura Desastre/Reiniciador y el estatus definitivo de las manifestaciones Vida/Luz y Final/Oscuridad en la adaptación.
+
+Se registró que Player reencarnado y el Héroe como coprotagonista son decisiones propias de la adaptación, no hechos cerrados del lore base de JUEGOS. La identidad del líder de la organización del Desastre continúa abierta y no se asigna a ninguna de las nueve figuras de cima. Falta construir una cronología relativa que permita comprobar edades, intervalos y acontecimientos paralelos.
+
+Se corrigió además `02_CONTINUIDAD_Y_REGLAS.md`: el Desastre no está obligado a tener una contradicción emocional, deseo secreto de proteger algo o rebelión contra su función.
