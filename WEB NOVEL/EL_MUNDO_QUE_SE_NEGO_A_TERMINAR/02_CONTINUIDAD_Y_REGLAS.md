@@ -72,7 +72,7 @@ Límites narrativos:
 
 ## 6. Player
 
-- Player es una persona reencarnada que nace en este mundo. Esta condición forma parte de la base de la adaptación; no implica que conserve todos los recuerdos de su vida anterior ni que obtenga ventajas automáticas.
+- Para esta adaptación, la novela adopta provisionalmente que Player es una persona reencarnada que nace en este mundo. El lore actualizado de JUEGOS todavía presenta esa condición como una dirección provisional; no atribuirla como hecho cerrado al lore base. En la novela tampoco implica que conserve todos los recuerdos de su vida anterior ni que obtenga ventajas automáticas.
 - Su afinidad excepcional con el universo no le concede automáticamente fuerza, habilidades ni destino.
 - No es el Héroe actual ni el segundo héroe invocado.
 - Su posible compatibilidad como recipiente debe permanecer como hipótesis hasta que la historia reúna pruebas suficientes.
