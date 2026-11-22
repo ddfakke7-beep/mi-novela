@@ -37,6 +37,7 @@ La historia no trata solo de derrotar al Desastre. Trata de descubrir si el mund
 - [10 — Sistema de poder y generaciones](10_SISTEMA_DE_PODER_Y_GENERACIONES.md)
 - [11 — Trasfondo de las figuras de la cima](11_TRASFONDO_FIGURAS_CIMA.md)
 - [12 — Origen y formación de Player](12_ORIGEN_Y_FORMACION_DE_PLAYER.md)
+- [13 — Mundo, geografía y vida cotidiana](13_MUNDO_Y_GEOGRAFIA.md)
 - [Capítulos](CAPITULOS/README.md)
 
 ## Principios de adaptación
