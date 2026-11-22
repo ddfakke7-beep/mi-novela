@@ -6,6 +6,8 @@
 
 Ser poderoso no basta para ser interesante. Cada figura debe tener una vida anterior a la llegada de los protagonistas, responsabilidades que no pueda abandonar, relaciones que no dependan de ellos y algo que pueda perder. Sus fuerzas propias tampoco son decorado: tienen miembros, familias, aprendices, rivales, deudas y problemas logísticos.
 
+El trauma no es un requisito para que una figura resulte profunda. En estos perfiles se repiten varias heridas antiguas y eso debe revisarse antes de aprobar el elenco: no todos necesitan una pérdida devastadora. También sostendrán personajes la ambición, la vocación, la curiosidad, los vínculos felices, los desacuerdos ideológicos, los errores profesionales y los objetivos cotidianos. El mundo puede ser peligroso sin convertir a todos sus habitantes en personas rotas.
+
 Los vínculos con las diosas se reservarán para situaciones en las que exista una razón temática o histórica. No todos los personajes importantes necesitan conocerlas personalmente. Un encuentro con una diosa debe tener peso y no convertirse en una visita rutinaria que resuelva problemas.
 
 ---
