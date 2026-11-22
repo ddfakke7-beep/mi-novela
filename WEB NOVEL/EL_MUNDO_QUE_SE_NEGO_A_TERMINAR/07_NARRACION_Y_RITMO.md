@@ -118,3 +118,40 @@ Lo que queremos incorporar a esta novela:
 No se trasladarán la regresión, el escenario coreano, las academias, los sistemas, los personajes, las relaciones ni la trama de Re:Life Player. La novela conservará su propia fantasía, cosmología, protagonistas y estructura.
 
 **Regla práctica:** antes de escribir una saga, definir qué amenaza concreta existe, cómo afecta a la vida ordinaria, qué instituciones o comunidades han surgido para responder a ella y qué costes o desigualdades produce. Si el mundo solo se siente peligroso durante las escenas de combate, todavía no está suficientemente construido.
+
+## 13. Protagonismo autónomo del Héroe y doble línea principal
+
+Que Player sea el punto de entrada o el foco más frecuente no convierte al Héroe en un acompañante. **Player y el Héroe son protagonistas principales con trayectorias dramáticas propias.** La novela debe sostener ambas líneas a lo largo de su desarrollo, aunque no tengan idéntica extensión ni avancen al mismo ritmo.
+
+### Reglas obligatorias
+
+- **El Héroe tiene objetivos propios:** no puede limitarse a reaccionar a lo que Player descubre o necesita. Debe perseguir metas que existirían aunque Player no estuviera en su vida.
+- **Tiene conflictos que no son derivados de Player:** problemas políticos, personales, sociales, morales, de identidad, de liderazgo, de confianza o relacionados con su condición de Héroe. No todo debe girar alrededor de su título o de su poder.
+- **Toma decisiones con consecuencias:** sus elecciones deben alterar relaciones, instituciones, alianzas, territorios o el curso de acontecimientos. No basta con que participe en batallas importantes.
+- **Puede protagonizar victorias y fracasos propios:** debe resolver problemas que Player no podría resolver por él, y también cometer errores que no sean culpa de Player.
+- **Su elenco cercano tiene vida propia:** aliados, rivales, mentores y personas a las que protege o con las que discrepa no deben existir únicamente para hablar de Player.
+- **Su evolución no depende de compararlo constantemente con Player:** tendrá criterios de éxito, límites, habilidades y cambios personales propios.
+- **Puede estar ausente de la línea de Player sin desaparecer de la historia:** cuando sus acciones tengan peso, se mostrarán directamente o mediante consecuencias verificables.
+
+### Alternancia sin simetría artificial
+
+No se exige alternar capítulos de manera mecánica ni dar a ambos el mismo número de páginas. La distribución depende de dónde esté el conflicto más fértil. Pero una línea no puede quedar abandonada durante tanto tiempo que el protagonista parezca olvidado o reducido a una promesa futura.
+
+Cuando Player y el Héroe estén separados, cada línea debe poder sostener escenas y decisiones completas por sí misma. Cuando se encuentren, el cruce debe producir cambios para ambos; no convertir al Héroe en guía, premio, rival temporal o recurso de rescate de Player.
+
+### Prueba de autonomía
+
+Antes de cerrar un arco importante, comprobar:
+1. ¿Qué quería conseguir el Héroe al comenzar, independientemente de Player?
+2. ¿Qué decisión tomó por iniciativa propia?
+3. ¿Qué cambió en el mundo o en su entorno por esa decisión?
+4. ¿Qué consecuencia deberá afrontar después?
+5. ¿Qué parte de su evolución no puede atribuirse al recorrido de Player?
+
+Si las respuestas son vacías, el Héroe está siendo usado como personaje funcional y hay que reforzar su línea.
+
+### El mundo no espera a ninguno
+
+Los acontecimientos deben continuar mientras la narración sigue a Player, al Héroe o a cualquier otro personaje. Las organizaciones ejecutan planes, los rivales aprovechan oportunidades, los gobiernos responden a crisis y los secundarios toman decisiones con información limitada. No se debe fingir que todo ocurrió simultáneamente solo para sorprender al lector: mantener una cronología causal y mostrar después las consecuencias.
+
+El equilibrio buscado no es «dos protagonistas hacen lo mismo en lugares distintos». Es que **dos personas con vidas y objetivos distintos habitan el mismo mundo, se influyen mutuamente y, a la vez, pueden cambiarlo por separado**.
