@@ -97,7 +97,7 @@ La identidad del líder sigue abierta. No asignarlo a ninguna de las nueve figur
 
 ### Personajes centrales
 
-- **Player:** la trayectoria general es coherente, pero no tiene edades ni intervalos. La propuesta de infancia y mentoría es compatible con la llegada posterior del Héroe.
+- **Player:** la trayectoria general es coherente, pero no tiene edades ni intervalos. La propuesta actual de infancia, entrenamiento autónomo e investigación de Voss es compatible con la llegada posterior del Héroe; no establece una mentoría.
 - **Héroe actual:** el mayor hueco temporal. Sin edad de invocación y edad de Player al encuentro, no se puede comprobar la distancia entre ambos ni la pertenencia a una misma generación de edad.
 - **Desastre actual:** se sabe que fue encontrado joven y creció durante años, pero no se sabe si su creación precede al nacimiento de Player, coincide con su infancia o sucede después. No hay contradicción confirmada, pero sí un vacío que puede provocar una.
 - **Héroe antiguo:** el ancla histórica de hace unos 500 años está establecida; faltan edad de invocación, duración de la guerra, vida posterior y momento de sus descubrimientos.
