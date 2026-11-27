@@ -6,7 +6,7 @@
 
 1. **Héroe antiguo:** figura histórica que derrotó y selló al Desastre de hace 500 años, descubrió el método de desconexión y no logró completarlo.
 2. **Héroe actual:** segunda existencia invocada por la Sacerdotisa, distinto de Player. Sincero, bromista y sociable, sin ser ingenuo ni pusilánime. Debe ganarse su lugar entre talentos que ya existían antes de su llegada.
-3. **Player:** personaje que esta adaptación plantea como reencarnado y que nace en el mundo mucho antes de la invocación del Héroe actual. La premisa sigue pendiente de aprobación literaria. Tiene una trayectoria, vínculos y objetivos propios; la desgracia lo acompaña sin que comprenda inicialmente el patrón.
+3. **Player:** personaje que esta adaptación plantea como reencarnado y que nace en el mundo mucho antes de la invocación del Héroe actual. La premisa sigue pendiente de aprobación literaria. Tiene una trayectoria, vínculos y objetivos propios; la desgracia lo acompaña sin que comprenda inicialmente el patrón. Su personalidad, mentalidad, defectos y contradicción central están registrados en la [ficha individual de Player](PLAYER.md).
 4. **Desastre actual:** entidad creada por el universo y portadora de la misión de reinicio. Su personalidad, deseos y relación con esa misión permanecen abiertos; crece durante años antes de convertirse en una fuerza de intervención directa.
 5. **Sacerdotisa:** investigadora extraordinaria que, con ayuda de la Diosa de la Memoria, desarrolló la teoría del recipiente y la desconexión. Fue asesinada antes de ejecutar el método.
 6. **Líder de la organización:** individuo de poder excepcional que acepta servir al Desastre para superar su propio límite.
@@ -41,7 +41,7 @@ Ningún personaje existe solo para explicar lore, entregar una misión, demostra
 
 ## Estado de las fichas individuales
 
-Los perfiles del elenco se encuentran actualmente reunidos en ELENCO_PRINCIPAL.md. Todavía no existen archivos individuales para Player, el Héroe actual, el Desastre, la Sacerdotisa, las diosas, los doce talentos ni las figuras de cima. No se debe confundir el perfil colectivo con fichas individuales completas. Se crearán fichas separadas a medida que cada personaje tenga información suficiente y decisiones de diseño que registrar; no se inventarán datos para completar una plantilla.
+Los perfiles del elenco se encuentran principalmente reunidos en ELENCO_PRINCIPAL.md. Player ya cuenta con una ficha individual: [PLAYER.md](PLAYER.md). Todavía no existen archivos individuales para el Héroe actual, el Desastre, la Sacerdotisa, las diosas, los doce talentos ni las figuras de cima. No se debe confundir el perfil colectivo con fichas individuales completas. Se crearán fichas separadas a medida que cada personaje tenga información suficiente y decisiones de diseño que registrar; no se inventarán datos para completar una plantilla.
 
 
 ## Auditoría del elenco
