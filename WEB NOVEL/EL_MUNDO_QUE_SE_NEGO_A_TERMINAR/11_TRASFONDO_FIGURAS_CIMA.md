@@ -46,7 +46,7 @@ Los vínculos con las diosas se reservarán para situaciones en las que exista u
 
 **Conflicto presente:** una autoridad quiere declarar segura una ruta comercial antes de que termine la observación de una anomalía. Garran debe elegir entre perder el contrato y denunciar el riesgo, o aceptar una decisión que podría matar a viajeros.
 
-**Cruce con los protagonistas:** puede ser uno de los primeros adultos que enseñe a Player que sobrevivir no es lo mismo que vencer. El Héroe puede acompañar una expedición y descubrir que su título no le da derecho a ignorar protocolos. Garran no será un mentor cálido: ayudará si ve que escuchan y trabajan.
+**Cruce con los protagonistas:** puede ser uno de los primeros adultos cuya forma de trabajar le muestre a Player que sobrevivir no es lo mismo que vencer. El Héroe puede acompañar una expedición y descubrir que su título no le da derecho a ignorar protocolos. Garran no será mentor de Player. Puede colaborar con él cuando las responsabilidades de la compañía lo justifiquen, pero cualquier aprendizaje de Player será incidental y no una relación de tutela.
 
 **Vínculo con las diosas:** la Diosa de la Vida podría aparecer durante una evacuación donde Garran deba decidir a quién puede sacar primero. No le dará una solución; su presencia hará más difícil fingir que las cifras son solo cifras.
 
