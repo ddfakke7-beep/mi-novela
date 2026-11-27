@@ -42,10 +42,12 @@ No hay datos suficientes para narrar acontecimientos concretos en cada siglo. Es
 1. **Nacimiento:** Player nace en el mundo como reencarnado, según la premisa de adaptación actualmente propuesta. No llega mediante la invocación del Héroe.
 2. **Infancia:** desarrolla una vida propia, con familia, vínculos, rutinas y deseos. La reencarnación no implica recuerdos completos ni conocimiento del futuro.
 3. **Lugar de infancia propuesto:** Risco de Linde, en la Marca Septentrional. Sigue siendo una propuesta geográfica y no un hecho aprobado.
-4. **Contacto con Garran:** la propuesta de 12_ORIGEN_Y_FORMACION_DE_PLAYER.md establece encuentros intermitentes durante varios años. Garran enseña observación, preparación, protocolos, herramientas, criterio y retirada; no es tutor permanente.
-5. **Primer quiebre:** la propuesta plantea una evacuación fallida, una decisión humana que mantuvo abierta una ruta pese a señales incompletas y la muerte de un amigo de infancia. Player sobrevive y la pérdida alimenta su deseo inicial de adquirir capacidad para actuar.
-6. **Formación posterior:** Player busca entrenamiento y un lugar en el mundo organizado. Su acceso a expediciones peligrosas debe ganarse; Garran no le regala rango ni poder.
-7. **Relación con la Diosa Oscura:** se desarrolla mediante encuentros y experiencias propias. No se fija una edad exacta para su comienzo.
+4. **Investigación de Voss:** Garran llega siguiendo a una anomalía que escapó de una cacería anterior. Organiza a los guardias locales para ampliar la investigación; Player participa como uno más y observa sus métodos. No existe una mentoría permanente.
+5. **Primer encuentro con la anomalía:** Player intenta sobrevivir y escapar, pero puede verse obligado a defenderse y luchar al límite de su preparación. Voss interviene porque sigue el rastro de su presa, no porque Player sea especial.
+6. **Técnica propia:** después de observar una demostración de Voss, Player experimenta y desarrolla una técnica incompleta propia. No reproduce ni aprende la técnica de Voss.
+7. **Rescate de la caravana:** acontecimiento humano posterior e independiente. Player participa por la recompensa y la experiencia; el equipo adulto lleva el peso del rescate y Player contribuye dentro de sus capacidades.
+8. **Salida del asentamiento:** el comerciante puede darle información sobre oportunidades fuera de la región. Player decide marcharse por iniciativa propia; no se marcha por una tragedia ni por una pérdida impuesta.
+9. **Relación con la Diosa del Final:** durante la infancia puede oír fragmentos indistinguibles de una voz. La percepción se vuelve algo más clara en Saga II, con palabras o frases cortas, sin sueños, visión directa ni conversaciones completas.
 8. **Cruce con el Héroe actual:** sucede después de que Player haya nacido y construido parte de su vida. La edad de Player en ese momento y el tiempo transcurrido desde su nacimiento no están definidos.
 
 **Pendiente:** edad de Player en cada hito, duración de infancia y formación, fecha del incidente, edad en el primer encuentro con Garran, inicio del vínculo con la Diosa Oscura y edad al conocer al Héroe.
