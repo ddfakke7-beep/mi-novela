@@ -59,6 +59,14 @@ JUEGOS es el antecedente del material, pero la cosmología de la web novel se de
 - Se añadió una propuesta concreta de infancia, mentoría y primer quiebre de Player en `12_ORIGEN_Y_FORMACION_DE_PLAYER.md`.
 - Se retiró como requisito narrativo que el Desastre quiera proteger algo. Su personalidad y su relación con la misión quedan abiertas; no se le impondrá una rebelión emocional ni un apego sin justificación.
 
+## Conexión con el mundo, percepción divina y recipiente
+
+Se establece como dirección acordada que la percepción de las diosas y la posibilidad de convertirse en recipiente proceden de una misma propiedad: la conexión que todos los seres vivos mantienen con el mundo, del que nacieron las diosas.
+
+Una conexión suficientemente profunda permite percibir a las diosas y constituye el requisito fundamental para poder servir como recipiente. No se manejarán como dos capacidades independientes ni se añadirá una estadística separada de compatibilidad. La percepción puede manifestarse gradualmente y no concede poderes por sí sola. Los umbrales y condiciones exactas siguen pendientes.
+
+Para Player, la manifestación inicial será auditiva: en Saga I oye fragmentos indistinguibles; en Saga II puede reconocer palabras o frases cortas, todavía sin ver a la Diosa del Final ni conversar plenamente con ella. No se utilizarán sueños como medio principal. La Diosa no será una protectora constante, no resolverá problemas ni aparecerá automáticamente cuando Player esté en peligro. La razón exacta por la que la conexión de Player destaca sigue abierta.
+
 ## Regla
 
 No tratar propuestas como hechos. Toda modificación de la continuidad debe quedar registrada con su justificación y efecto sobre los arcos futuros.
