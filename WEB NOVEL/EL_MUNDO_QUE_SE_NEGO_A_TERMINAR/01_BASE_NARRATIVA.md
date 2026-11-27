@@ -31,7 +31,7 @@ Quinientos años después, una nueva generación vive sobre las consecuencias de
 La historia debe sostener varias preguntas simultáneas:
 
 - **Pregunta colectiva:** ¿puede el mundo liberarse del reinicio sin destruir aquello que intenta salvar?
-- **Pregunta personal de Player:** ¿qué camino construye alguien cuya vida parece acompañada por desgracias que no comprende?
+- **Pregunta personal de Player:** ¿qué significa vivir una vida propia cuando una conexión con el mundo que todavía no comprende permite que una de sus diosas llegue a percibirlo?
 - **Pregunta personal del Héroe:** ¿quién puede llegar a ser alguien invocado para cumplir una expectativa que no eligió?
 - **Pregunta del Desastre:** ¿cómo interpreta una existencia creada con una función concreta los recuerdos heredados, el mundo que observa y su propia individualidad? No está obligado a rebelarse contra su propósito ni a desarrollar un apego que lo contradiga.
 
@@ -41,7 +41,7 @@ Las respuestas no deben estar predeterminadas. El pasado ofrece pistas y posibil
 
 ### Player
 
-Es una persona reencarnada que nace en el mundo mucho antes de la invocación del Héroe actual. Su historia empieza con una vida concreta, vínculos previos y una formación gradual. Desde su infancia muestra iniciativa para aprender, entrenar y aprovechar las posibilidades de esta vida. Su reencarnación influye en su perspectiva, pero no le concede talento extraordinario ni una comprensión infalible del mundo. Su primer recorrido y el encuentro circunstancial con Garran Voss se desarrollan en `12_ORIGEN_Y_FORMACION_DE_PLAYER.md`; no se presupone una tragedia como detonante ni una mentoría automática. No se define únicamente por su relación con el universo ni por una posible compatibilidad como recipiente. Construye fuerza, vínculos y reputación dentro de un mundo que ya tiene sus propios conflictos. La desgracia lo acompaña sin que comprenda inicialmente el patrón, pero no todo acontecimiento adverso debe ser causado por su conexión con el universo.
+Es una persona reencarnada que nace en el mundo mucho antes de la invocación del Héroe actual. Su historia empieza con una vida concreta, vínculos previos y una formación gradual. Desde su infancia muestra iniciativa para aprender, entrenar y aprovechar las posibilidades de esta vida. Su reencarnación influye en su perspectiva, pero no le concede talento extraordinario ni una comprensión infalible del mundo. Su primer recorrido y el encuentro circunstancial con Garran Voss se desarrollan en `12_ORIGEN_Y_FORMACION_DE_PLAYER.md`; no se presupone una tragedia como detonante ni una mentoría automática. Su conexión con el mundo tiene una particularidad que todavía no está explicada. Esa conexión permite que la Diosa del Final llegue a percibirlo y, en el futuro, podría hacer posible que sirva como recipiente. No es una maldición ni una fuente automática de desgracias, poder o destino. Player construye fuerza, vínculos y reputación dentro de un mundo que ya tiene sus propios conflictos.
 
 ### Héroe actual
 
