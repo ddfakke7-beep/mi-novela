@@ -53,12 +53,12 @@ Límites narrativos:
 
 La percepción de las diosas y la posibilidad de convertirse en recipiente proceden de una misma propiedad: la conexión que cada ser vivo mantiene con el mundo. Las diosas nacieron del mundo y forman parte de él; por eso, percibirlas supone que un individuo tiene una conexión con el mundo más profunda o perceptible que la habitual.
 
-- Todos los seres vivos mantienen una conexión con el mundo, aunque su intensidad y naturaleza pueden variar.
+- Todos los seres vivos mantienen una conexión con el mundo, aunque su intensidad y naturaleza pueden variar. Player y el Héroe actual son posibles excepciones capaces de establecer vínculos especialmente profundos con las diosas, pero no se presupone que sus conexiones sean idénticas ni que ambos puedan ser recipientes.
 - En la mayoría esa conexión no permite percibir directamente a las diosas.
 - Cuando alcanza determinadas condiciones, puede manifestarse como sensaciones, presencias, sonidos o palabras fragmentarias. Una conexión excepcionalmente profunda podría permitir una percepción más clara y, en circunstancias extraordinarias, una manifestación visual.
 - Esta percepción no es maná, aura, una técnica de combate ni una habilidad que pueda entrenarse directamente. Tampoco concede fuerza o conocimientos por sí sola.
 - La conexión suficientemente profunda es el requisito fundamental para que un ser pueda convertirse en recipiente. No se trata de una segunda capacidad independiente ni de una compatibilidad separada añadida por conveniencia: la posibilidad de percibir a las diosas y la posibilidad de servir como recipiente son manifestaciones de esa misma conexión, llevada a distintos grados.
-- Percibir una voz no significa que la persona ya pueda albergar a una diosa ni que el procedimiento del recipiente pueda ejecutarse automáticamente. El umbral necesario y las condiciones exactas del procedimiento siguen pendientes.
+- Percibir a una diosa es una manifestación de esa conexión y un indicio de que es más profunda que la habitual. Para servir como recipiente se requiere que la misma conexión alcance un grado todavía mayor y que se cumplan las condiciones del procedimiento. No son dos capacidades distintas, sino distintos grados y manifestaciones de una sola propiedad. Los umbrales exactos siguen pendientes.
 - Las diosas normalmente no pueden conversar de forma directa con los habitantes. Pueden transmitir bendiciones o comunicaciones parciales; una percepción directa como la descrita es excepcional.
 - No se establece todavía por qué la conexión de Player destaca ni por qué la Diosa del Final se interesa en él. Esa razón debe descubrirse mediante el desarrollo del lore, no atribuirse a su reencarnación sin fundamento.
 
