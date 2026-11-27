@@ -121,3 +121,12 @@ La revisión de personajes también confirmó que el directorio 05_PERSONAJES so
 Se revisaron los doce talentos, las cuatro figuras adultas y las cinco figuras cercanas a la cima en sus perfiles colectivos, junto con los trasfondos y el marco institucional. No apareció una contradicción mecánica directa que obligue a descartar personajes. Sí se detectaron solapamientos de función: Daren/Garran, Seris/Ysara, Daren/Saira y las relaciones entre la Asociación de Exploradores, la Compañía del Último Rastro, Nemea, la Orden de los Bastiones y las fuerzas de respuesta.
 
 El diagnóstico y las fronteras que faltan definir están en `16_AUDITORIA_DE_ELENCO_Y_FUERZAS.md`. No se han inventado afiliaciones, parentescos ni edades para cerrar esos huecos. Tampoco se afirma que existan fichas individuales: el elenco sigue reunido en un documento colectivo.
+
+
+## G. Conexión con el mundo, percepción de las diosas y recipiente
+
+La percepción de las diosas y la posibilidad de convertirse en recipiente se explican mediante una misma propiedad: la conexión que todos los seres vivos mantienen con el mundo, del que nacieron las diosas. Una conexión suficientemente profunda permite percibirlas y constituye el requisito fundamental para servir como recipiente. No se introduce una capacidad de percepción y otra de compatibilidad como sistemas separados.
+
+La percepción puede manifestarse de forma gradual y no concede poderes por sí sola. La mayoría de los habitantes no percibe directamente a las diosas; la comunicación directa es excepcional y las bendiciones solo permiten una transmisión parcial. Los umbrales y las condiciones exactas del procedimiento del recipiente siguen abiertos.
+
+En Player, la manifestación inicial será auditiva y fragmentaria durante Saga I, y podrá volverse algo más comprensible en Saga II. No se utilizarán sueños como medio principal, ni la Diosa del Final será una protectora constante. La razón concreta por la que la conexión de Player destaca permanece pendiente y no debe atribuirse automáticamente a su reencarnación.
