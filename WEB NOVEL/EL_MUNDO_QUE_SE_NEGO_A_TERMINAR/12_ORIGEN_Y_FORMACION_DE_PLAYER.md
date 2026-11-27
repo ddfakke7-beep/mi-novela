@@ -83,7 +83,52 @@ El encuentro debe respetar las capacidades reales de Player y de la anomalía. S
 
 Voss interviene porque persigue a esa anomalía y está siguiendo la investigación. No porque Player sea su objetivo ni porque el muchacho haya activado un interés oculto.
 
-## 7. El desenlace de la investigación
+## 7. La técnica propia que Player desarrolla después de observar a Voss
+
+Player no aprende ni reproduce la técnica que Voss demuestra. La diferencia de nivel y de comprensión hace imposible que la copie. La demostración solo le deja una impresión y algunas ideas incompletas sobre lo que podría hacerse con el poder.
+
+- Player interpreta lo que vio desde sus conocimientos limitados y experimenta por su cuenta.
+- A través de intentos fallidos, práctica y adaptación, desarrolla una técnica propia. No es una versión inferior de la técnica de Voss ni una herencia transmitida por él.
+- La técnica funciona, pero es imperfecta. Tiene condiciones, límites y defectos que deben mantenerse consistentes. No resuelve cualquier enfrentamiento ni permite neutralizar rivales superiores sin más.
+- Su utilidad inicial puede estar en crear aperturas, interrumpir momentáneamente una acción, alterar una posición o distraer a un adversario, siempre de acuerdo con las reglas que se establezcan para el sistema de poder.
+- La técnica evoluciona por las necesidades y experiencias de Player, no mediante una enseñanza secreta de Voss.
+
+## 8. El rescate contra los bandidos
+
+Después del desenlace de la investigación de la anomalía, se desarrolla un conflicto humano independiente. Un grupo de bandidos secuestra a una persona vinculada a un comerciante o una caravana. El rescate se organiza por intereses concretos: recuperar a los cautivos, proteger mercancías y rutas y obtener la recompensa ofrecida.
+
+Player decide incorporarse porque la recompensa le interesa y considera que la operación ofrece experiencia real. La información disponible hace pensar que los bandidos no son especialmente numerosos ni peligrosos. No se une por honor, justicia ni porque crea que debe convertirse en el salvador de nadie.
+
+El equipo de rescate cuenta con guerreros experimentados y funciones complementarias. Deben ser personajes competentes, con criterio y experiencia, no figurantes que cometen errores para que Player los supere. Aun así, no conocen todos los detalles del escondite ni las capacidades de cada enemigo.
+
+La operación se complica porque la información era incompleta: la mayoría de los bandidos son combatientes corrientes, pero hay algunos individuos bastante más peligrosos de lo previsto. El terreno favorece a quienes conocen el escondite, los cautivos limitan las opciones de ataque y los enemigos pueden organizarse, cubrirse y responder a las maniobras del grupo. El cambio de situación debe surgir de esas condiciones, no de una estupidez repentina de los guerreros.
+
+### La manera peculiar de combatir de Player
+
+Player es consciente de que no debe ocupar la primera línea. Su prioridad es sobrevivir y aprovechar las capacidades de los demás. No busca molestar al equipo ni hacer que sus compañeros reciban golpes por diversión; sencillamente, cuando un enemigo lo presiona, intenta colocarse detrás de alguien que pueda detenerlo.
+
+- Puede retroceder y terminar detrás de un compañero más fuerte.
+- Cuando el enemigo cambia de objetivo, el alivio se le nota involuntariamente en el rostro y en la postura. No necesita decir que ahora le toca a otro: su expresión lo delata.
+- Una vez que está fuera del peligro inmediato, vuelve a observar el combate y puede intervenir como si acabara de encontrar una solución brillante, aunque parte de la situación la haya provocado su propia retirada.
+- Puede distraer, interrumpir, crear una apertura o usar su técnica incompleta para facilitar el ataque de un combatiente más fuerte.
+- Los enemigos no son tontos: pueden detectar el patrón, presionarlo, rodearlo o atacar al compañero que le sirve de cobertura.
+- Los compañeros pueden irritarse porque tienen que protegerlo, reajustar su posición o lidiar con el enemigo que Player ha conducido hacia ellos. Esa molestia nace de la presión real del combate, no de que Player los insulte o declare que los está usando como escudos.
+
+Player no es un estratega infalible. Puede calcular mal una distancia, quedarse sin una salida, fallar la técnica o confiar demasiado en que alguien podrá cubrirlo. Su estilo oportunista es una adaptación a sus capacidades actuales, no una garantía de seguridad.
+
+### Comunicación, fanfarronería y malentendidos
+
+La dinámica del equipo también puede tener humor fuera del combate. Cuando los compañeros comentan sus capacidades, presumen de una maniobra o exageran lo que pueden hacer, Player puede interpretar sus palabras de manera demasiado literal. Si alguien afirma que puede encargarse fácilmente de cierto enemigo, Player puede tomarlo como un dato real y ajustar su comportamiento a esa afirmación.
+
+Cuando después el compañero se enfada porque Player le ha dejado una tarea más difícil de lo que esperaba, el chico puede no comprender del todo el motivo: él creyó que estaba aceptando información fiable, no una fanfarronada. Es una mezcla de pragmatismo, literalidad y falta de madurez social; no una provocación deliberada.
+
+### Aprender a matar y a enfrentarse a humanos
+
+El rescate puede ser una de las primeras situaciones en las que Player tenga que matar o afrontar seriamente la posibilidad de hacerlo. No debe transformarse de inmediato en un asesino experimentado ni reaccionar de una única manera predeterminada. La experiencia le enseña que un humano puede engañar, retirarse, pedir ayuda, fingir una debilidad o cambiar de táctica; además, el peligro puede aumentar en un instante.
+
+La victoria pertenece al grupo y depende principalmente de los combatientes adultos. Player contribuye de manera limitada pero real. El rescate puede tener heridos, pérdidas, cautivos afectados, enemigos huidos y consecuencias posteriores. La persona rescatada puede volver a aparecer si tiene una vida y unos objetivos que justifiquen ese regreso, pero no se convierte automáticamente en una compañera o vínculo central.
+
+## 9. El desenlace de la investigación y el cierre de la primera etapa
 
 La persecución llega a un desenlace provisional. Voss puede abatir a la anomalía, neutralizarla mediante el método adecuado, perder su rastro o descubrir información que cambie sus siguientes pasos. La solución dependerá de la naturaleza concreta de la amenaza.
 
@@ -91,7 +136,7 @@ El incidente que investigaba el asentamiento puede estar relacionado con la pres
 
 La estancia de Voss termina o continúa por razones ligadas a su trabajo, no por Player. No se fijará una duración arbitraria antes de saber cuánto requiere la investigación.
 
-## 8. Qué obtiene Player de este periodo
+## 10. Qué obtiene Player de este periodo
 
 Player no sale convertido en discípulo de Voss ni en un talento reconocido por una figura de la cima.
 
@@ -99,7 +144,7 @@ Obtiene experiencia en una investigación organizada, conoce procedimientos que 
 
 La técnica que Voss pueda mostrarle queda como una imagen difícil de comprender que Player intentará descifrar por su cuenta. La relación puede continuar mediante encuentros posteriores si las circunstancias y las personalidades lo permiten, pero no se presupone una mentoría.
 
-## 9. Límites de continuidad
+## 11. Límites de continuidad
 
 - No destruir la aldea como requisito para que el arco tenga peso.
 - No introducir la muerte de un amigo como motivación automática.
@@ -111,7 +156,7 @@ La técnica que Voss pueda mostrarle queda como una imagen difícil de comprende
 - No fijar la duración de la estancia de Voss hasta conocer las necesidades reales de la investigación.
 - No añadir rasgos a Voss —como paciencia, humor paternal o deseo de enseñar— solo para facilitar la relación con Player.
 
-## 10. Estado de la propuesta
+## 12. Estado de la propuesta
 
 La dirección acordada presenta a Player como un joven que ya entrena y aprende por iniciativa propia; a Voss como un cazador con una investigación independiente que organiza colaboradores locales por pragmatismo; y a la anomalía como el objetivo central de su persecución.
 
