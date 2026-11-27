@@ -6,7 +6,7 @@
 
 1. **Héroe antiguo:** figura histórica que derrotó y selló al Desastre de hace 500 años, descubrió el método de desconexión y no logró completarlo.
 2. **Héroe actual:** segunda existencia invocada por la Sacerdotisa, distinto de Player. Sincero, bromista y sociable, sin ser ingenuo ni pusilánime. Debe ganarse su lugar entre talentos que ya existían antes de su llegada.
-3. **Player:** personaje que esta adaptación plantea como reencarnado y que nace en el mundo mucho antes de la invocación del Héroe actual. La premisa sigue pendiente de aprobación literaria. Tiene una trayectoria, vínculos y objetivos propios; la desgracia lo acompaña sin que comprenda inicialmente el patrón. Su personalidad, mentalidad, defectos y contradicción central están registrados en la [ficha individual de Player](PLAYER.md).
+3. **Player:** personaje que esta adaptación plantea como reencarnado y que nace en el mundo mucho antes de la invocación del Héroe actual. La premisa sigue pendiente de aprobación literaria. Tiene una trayectoria, vínculos y objetivos propios. Su conexión con el mundo permite que la Diosa del Final llegue a percibirlo, aunque la razón concreta todavía no está definida. Su personalidad, mentalidad, defectos y contradicción central están registrados en la [ficha individual de Player](PLAYER.md).
 4. **Desastre actual:** entidad creada por el universo y portadora de la misión de reinicio. Su personalidad, deseos y relación con esa misión permanecen abiertos; crece durante años antes de convertirse en una fuerza de intervención directa.
 5. **Sacerdotisa:** investigadora extraordinaria que, con ayuda de la Diosa de la Memoria, desarrolló la teoría del recipiente y la desconexión. Fue asesinada antes de ejecutar el método.
 6. **Líder de la organización:** individuo de poder excepcional que acepta servir al Desastre para superar su propio límite.
@@ -14,7 +14,7 @@
 ## Las cinco diosas
 
 - **Diosa de la Vida**, también conocida en su manifestación luminosa como **Diosa de la Luz**: acompañó al héroe antiguo y acompaña al Héroe actual.
-- **Diosa del Final o de la Muerte**, también conocida en su manifestación oscura como **Diosa Oscura**: acompaña a Player.
+- **Diosa del Final o de la Muerte**, también conocida en su manifestación oscura como **Diosa Oscura**: observa a Player y puede comunicarse con él de forma excepcional y gradual.
 - **Diosa de la Memoria**: ayudó a la Sacerdotisa.
 - **Diosa del Equilibrio**.
 - **Diosa del Cambio**.
