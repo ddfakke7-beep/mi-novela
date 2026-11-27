@@ -1,112 +1,120 @@
 # 12 — Origen y formación de Player
 
-**Estado: propuesta narrativa del autor; pendiente de aprobación.** Este documento desarrolla una posible ruta para la infancia de Player, su primer mentor y la razón inicial por la que decide buscar fuerza. No modifica el lore de JUEGOS.
+**Estado: arquitectura revisada en desarrollo; los acontecimientos y detalles concretos siguen pendientes de aprobación.** Este documento establece una dirección para la infancia de Player y su primer encuentro con Garran Voss. No convierte las propuestas de geografía ni los incidentes todavía indefinidos en canon.
 
 ## 1. Criterio de construcción
 
-Player no debe empezar siendo un niño solitario cuya única característica sea sufrir. Antes de la tragedia necesita una vida que el lector pueda echar de menos: familia, amistades, costumbres, pequeñas responsabilidades, humor, errores propios y deseos que no tengan relación con salvar el mundo.
+Player no necesita una tragedia para tener iniciativa ni una motivación externa para aprender. Como reencarnado, tiene razones propias para aprovechar esta vida, conocer el mundo y desarrollar capacidades que antes no tuvo oportunidad de explorar.
 
-Tampoco debe convertirse en alguien poderoso porque un adulto excepcional lo adopta y le entrega años de ventaja. Su formación debe combinar enseñanza, práctica, errores, decisiones y experiencias que no pueda delegar en un maestro.
+Su mentalidad adulta puede hacerlo actuar de forma algo inusual para un chico de su edad, pero eso no equivale a genialidad, talento sobrenatural ni una comprensión perfecta del mundo. Puede observar, comparar, imitar, equivocarse y sacar conclusiones incorrectas.
 
-La reencarnación forma parte de su origen, pero no le concede recuerdos completos, conocimiento del futuro ni una comprensión precoz del universo. Puede conservar impresiones de otra vida, aunque su identidad se forma en este mundo.
+No debe ser excepcional solo para justificar que personajes poderosos reparen en él. Su progreso se construye mediante práctica, experiencias, errores, recursos disponibles y tiempo.
 
-## 2. La propuesta principal: Garran Voss como guía intermitente
+## 2. La vida inicial y el entrenamiento de Player
 
-Propongo que **Garran Voss**, el Cazador de Anomalías y una de las figuras adultas de la cima, sea la primera influencia importante en la formación de Player.
+Player crece en un asentamiento cuya ubicación y nombre se concretarán al cerrar la geografía de su infancia. Tiene una vida cotidiana, vínculos y responsabilidades; el peligro de las anomalías forma parte del mundo, pero no convierte cada día en una emergencia.
 
-No lo convertiría en su padre adoptivo ni en un maestro que lo acompaña todos los días. Garran dirige una compañía, tiene contratos, responsabilidades y una vida propia. Sus encuentros con Player serían intermitentes durante varios años.
+Antes de conocer a Voss, Player ya siente curiosidad por las capacidades de los habitantes y empieza a entrenar por iniciativa propia.
 
-### Cómo se conocen
+- Aprende fundamentos con los guardias o guerreros del asentamiento.
+- Practica por su cuenta y trata de corregir lo que no le sale.
+- Observa cómo se preparan quienes tienen experiencia.
+- Se interesa por las anomalías, el entorno y las formas de sobrevivir.
+- Si el sistema de poder lo permite, experimenta con el maná y trata de comprender sus usos, sin asumir que lo domina ni que posee una afinidad excepcional.
+- Puede exigirse más de lo razonable. Su deseo de aprovechar esta vida puede llevarlo a confundir esfuerzo con progreso y a probar cosas para las que todavía no está preparado.
 
-Player crece en un asentamiento de frontera que depende de una ruta de abastecimiento y de las patrullas que mantienen a raya las anomalías. Su familia lleva una vida trabajadora y relativamente estable. La amenaza existe, pero no convierte cada día en una escena de supervivencia: la gente trabaja, comercia, discute, celebra y se acostumbra a ciertas precauciones.
+Su entrenamiento inicial no lo convierte en un combatiente destacado. Es un joven que está construyendo fundamentos.
 
-La Compañía del Último Rastro llega para investigar una anomalía cercana y revisar la seguridad de la ruta. Player se interesa por el equipo, los mapas y la manera en que los cazadores preparan sus expediciones. No impresiona a Garran por tener un poder oculto, sino porque observa, pregunta y recuerda detalles que otros niños pasan por alto.
+## 3. La llegada de Garran Voss
 
-Al principio Garran no acepta un discípulo. Le encarga tareas sencillas para quitárselo de encima: ordenar material, limpiar herramientas, revisar inventarios y repetir protocolos. Player vuelve a hacerlo, pregunta por qué se hace cada cosa y termina siendo útil. Garran empieza a enseñarle porque reconoce curiosidad y constancia, no porque haya detectado una profecía.
+Garran Voss, cazador de anomalías y una de las figuras adultas de la cima, llega a la región siguiendo el rastro de una anomalía que logró escapar de una cacería anterior.
 
-### La relación
+Su presencia debe justificarse por la presa y por el trabajo que exige localizarla. No llega buscando a Player, reclutando un discípulo ni respondiendo a una conexión especial con el asentamiento.
 
-Su vínculo debe tener cariño disfrazado de una relación desastrosa:
+Durante la investigación descubre que los habitantes están tratando de esclarecer desapariciones, ataques u otro incidente extraño. No da por sentado que el suceso esté relacionado con la anomalía que persigue. La información local puede ser útil para su búsqueda, pero su interés principal es averiguar si su presa pasó por allí.
 
-- Garran es seco, irónico y poco dado a elogiar. Puede llamarlo «problema», «aprendiz de desastre» o inventar encargos absurdamente minuciosos.
-- Player no es un niño obediente sin personalidad. Le responde, discute cuando cree que Garran se equivoca y a veces intenta demostrar más de lo que sabe.
-- Garran lo hace repetir tareas aburridas hasta que entiende que la preparación salva vidas. Si lo ve agotado o realmente asustado, deja las bromas y se ocupa de él.
-- Los pequeños gestos revelan el afecto: guarda para él una herramienta adecuada, recuerda qué comida detesta, le deja una tarea menos pesada cuando está herido o vuelve a comprobar algo que Player ya revisó.
-- Garran no lo expone deliberadamente a peligros letales para «hacerlo fuerte». La dureza está en la exigencia, la disciplina y la honestidad, no en maltratar a un niño.
+La naturaleza de la anomalía, su inteligencia, su comportamiento y la razón por la que escapó deben definirse de acuerdo con las reglas del mundo y con la clasificación que le corresponda. No se asumirá que todas las anomalías son capturables, inteligentes o que se comportan como criaturas equivalentes.
 
-Player puede considerar que Garran es un viejo insoportable. Garran puede fingir que lo soporta por lástima, aunque vuelve a buscarlo cuando su compañía regresa a la zona.
+## 4. Voss organiza una red de investigación local
 
-## 3. Qué aprende de Garran
+Después de reconocer la extensión de la zona y el tiempo que le tomaría rastrearla por sí solo, Voss decide aprovechar la ayuda de los guardias y guerreros locales.
 
-Garran no es el mejor maestro de espada ni un instructor universal. Su especialidad es sobrevivir y dirigir operaciones contra anomalías. Por eso, su primera enseñanza no consiste en darle una técnica definitiva:
+No los convierte en combatientes capaces de enfrentarse a su presa. Les enseña procedimientos para investigar y transmitir información de manera fiable:
 
-1. Observar antes de actuar: rastros, cambios del entorno, comportamiento de criaturas y señales que otros pasan por alto.
-2. Prepararse: equipo, suministros, rutas alternativas, señales y planes de retirada.
-3. Entender herramientas y armas: conocer su función, mantenimiento y límites antes de depender de ellas.
-4. Combatir con propósito: crear una oportunidad, proteger una retirada, ganar tiempo o neutralizar un riesgo; no pelear para demostrar valor.
-5. Reconocer cuándo retirarse: sobrevivir no es cobardía y una retirada bien ejecutada puede salvar a todo un equipo.
-6. Pensar en el grupo: una decisión brillante que deja al resto sin salida no es necesariamente una buena decisión.
+1. Dividir la región en sectores y asignar responsabilidades claras.
+2. Registrar lugares, horarios, testimonios, rastros y cambios observados.
+3. Establecer señales, mensajeros, puntos de reunión y protocolos de comunicación.
+4. Evitar que una persona investigue sola o persiga indicios sin informar al resto.
+5. Definir cuándo interrumpir una búsqueda, retirarse y pedir apoyo.
+6. Transmitir datos concretos y separar observaciones de rumores o suposiciones.
 
-Player recibe una base útil, no un atajo hacia la cima. Su estilo de combate posterior deberá desarrollarse con otros maestros, compañeros, rivales y experiencias propias. Daren Kross, talento de su misma generación, puede convertirse más adelante en compañero y guía circunstancial para el trabajo de campo; eso complementa la influencia temprana de Garran, no la reemplaza. Garran puede seguir influyendo en Player incluso cuando pasen años sin verse.
+La organización responde a una necesidad práctica: Voss puede cubrir más terreno y reducir el riesgo de que los colaboradores desaparezcan sin que nadie sepa dónde estuvieron. Los habitantes también obtienen mejores procedimientos para investigar futuros incidentes.
 
-## 4. El primer quiebre: una evacuación que sale mal
+Voss no actúa necesariamente por altruismo. Su decisión puede ser pragmática y coherente con alguien que sabe delegar tareas para alcanzar un objetivo.
 
-La tragedia que pone en marcha su búsqueda de fuerza no debería ser una masacre aleatoria ni una desgracia provocada automáticamente por su afinidad con el universo.
+## 5. Player y la curiosidad por Voss
 
-La propuesta es que, durante una etapa posterior de su infancia, las autoridades locales mantengan abierta la ruta de abastecimiento pese a señales incompletas de una anomalía. Hay presión económica y política: cerrar la ruta perjudicaría a varios asentamientos y nadie quiere asumir el coste. Los informes no son necesariamente falsos en su totalidad; el problema es que se minimiza información que debería haber obligado a investigar más.
+Player participa en la investigación junto con los demás guardias y colaboradores. No ocupa un puesto especial ni es escogido como ayudante personal.
 
-Cuando la anomalía altera el paso y amenaza el asentamiento, se organiza una evacuación. Player ayuda siguiendo los protocolos que aprendió, pero vuelve por un amigo de infancia que ha quedado aislado. La situación empeora y Garran, que participa en la respuesta con su compañía, debe cerrar un acceso para impedir que la amenaza alcance a los evacuados. Player es sacado de la zona; su amigo no logra salir y su muerte termina confirmándose.
+La presencia de Voss le resulta llamativa porque observa a alguien que opera a un nivel muy superior al que conoce. Player intenta copiar algunos de sus hábitos, preparativos, movimientos, decisiones o usos del poder, si corresponden al sistema establecido.
 
-Garran no debe ser convertido en un cobarde ni en un villano por esa decisión. Con la información y el tiempo disponibles, cerrar el acceso era la opción que ofrecía más posibilidades de salvar al resto. Pero eso no vuelve menos real la pérdida ni obliga a Player a comprenderlo de inmediato.
+No todo lo que imita tiene que salir bien. Puede no comprender la razón de un procedimiento, reproducir solo la parte visible o sacar una conclusión equivocada.
 
-La tragedia tiene tres causas que se refuerzan: una amenaza que no se entendía por completo, una decisión humana que priorizó mantener la ruta y una situación límite en la que ya no había una salida que salvara a todos. No fue una prueba diseñada para Player ni una maniobra de la organización final.
+Voss puede notar que el muchacho lo observa e intenta imitarlo. Eso le puede resultar inusual o divertido, pero no demuestra que Player sea extraordinario. La reacción concreta depende de la personalidad que ya tenga Voss; no se le añadirá una disposición paternal, paciente o bromista únicamente para facilitar esta interacción.
 
-**Importante:** el amigo debe tener personalidad, familia, objetivos y presencia durante la vida cotidiana anterior al incidente. No será creado dos capítulos antes para morir y motivar al protagonista.
+Si su carácter lo permite, Voss puede provocarlo ocasionalmente o jugar con su curiosidad. Tras derrotar a la anomalía, podría decirle «Mira bien, chico. Esto es el pináculo» y ejecutar una técnica que Player no está en condiciones de comprender. El gesto funciona como una demostración y una pequeña provocación, no como una clase formal, una promesa de mentoría ni el inicio automático de una relación maestro-discípulo.
 
-## 5. Qué impulsa a Player a buscar poder
+Player puede quedarse pensando en lo que vio e intentar reproducirlo o entender sus principios por su cuenta. La importancia del momento reside en la impresión que deja en Player, no en que Voss haya decidido invertir en él.
 
-Su primera reacción es sencilla y emocional: no quiere volver a quedarse sin capacidad de actuar mientras otros deciden quién puede ser salvado.
+## 6. El encuentro de Player con la anomalía
 
-Al principio puede interpretar la fuerza como la manera de impedir que alguien vuelva a quedar atrás. Esa motivación es comprensible, pero incompleta. Con el tiempo debe aprender que ningún individuo puede garantizar que todos sobrevivan y que intentar cargar solo con esa responsabilidad puede volverlo imprudente o controlador.
+Durante la investigación, Player puede encontrarse con la anomalía antes de que Voss llegue a intervenir.
 
-Su objetivo maduro no será «ser tan fuerte que nunca pierda a nadie», sino aumentar de verdad las posibilidades de proteger a otros: prepararse, elegir bien, construir confianza, reunir recursos y aceptar que la fuerza individual tiene límites.
+Su prioridad es sobrevivir. No piensa que pueda derrotar a una amenaza que está claramente por encima de sus capacidades.
 
-La pérdida tampoco debe convertirlo en alguien permanentemente sombrío. Puede seguir riéndose, hacer amigos, disfrutar de cosas simples y equivocarse en asuntos cotidianos. Su dolor aparece en decisiones y reacciones concretas, no en una tristeza constante.
+- Si existe una ruta de escape razonable, corre.
+- Si no puede escapar inmediatamente, busca mantener distancia, obstáculos y oportunidades para retirarse.
+- Puede intentar calcular cuánto tardaría en llegar la ayuda según la ubicación y las comunicaciones disponibles, pero no es un estratega infalible.
+- Si debe combatir para protegerse, lo hace con el objetivo de ganar tiempo o abrir una vía de salida.
+- Puede equivocarse al evaluar la velocidad, alcance o comportamiento de la anomalía.
+- No se queda a luchar para demostrar valor ni espera que Voss llegue en el último segundo por una coincidencia diseñada para salvarlo.
 
-## 6. Cómo continúa su formación
+El encuentro debe respetar las capacidades reales de Player y de la anomalía. Si sobrevive, debe existir una cadena comprensible de decisiones, circunstancias y límites del enemigo.
 
-Después del incidente, Player busca entrar en un camino formal relacionado con expediciones y respuesta a anomalías. Garran no lo acepta de inmediato en las misiones peligrosas. Primero debe demostrar disciplina, capacidad física, criterio y fiabilidad en tareas de apoyo.
+Voss interviene porque persigue a esa anomalía y está siguiendo la investigación. No porque Player sea su objetivo ni porque el muchacho haya activado un interés oculto.
 
-La relación atraviesa una etapa difícil: Player puede culpar a Garran por haber cerrado el acceso, mientras Garran se niega a mentirle diciendo que había una solución segura. No tienen que reconciliarse con una conversación sentimental rápida. El respeto se reconstruye mediante decisiones y tiempo.
+## 7. El desenlace de la investigación
 
-Más adelante, Player deberá aprender de personas distintas y afrontar situaciones en las que las enseñanzas de Garran no basten. Una figura de la cima como Arcturus podría enseñarle una técnica concreta si existe una razón ganada para ello, pero no propongo convertir a todos los personajes poderosos en sus maestros. Cada encuentro debe surgir de su recorrido.
+La persecución llega a un desenlace provisional. Voss puede abatir a la anomalía, neutralizarla mediante el método adecuado, perder su rastro o descubrir información que cambie sus siguientes pasos. La solución dependerá de la naturaleza concreta de la amenaza.
 
-Garran tampoco estará disponible siempre. Su compañía seguirá aceptando contratos, investigando amenazas y tomando decisiones lejos de Player. En algunos periodos solo conoceremos sus avances por informes, rumores o las consecuencias de sus operaciones.
+El incidente que investigaba el asentamiento puede estar relacionado con la presa o resultar independiente. La conexión solo se establecerá si las pruebas la sostienen.
 
-## 7. Relación con la Diosa Oscura y la afinidad de Player
+La estancia de Voss termina o continúa por razones ligadas a su trabajo, no por Player. No se fijará una duración arbitraria antes de saber cuánto requiere la investigación.
 
-La Diosa Oscura —manifestación de la Diosa del Final— no debe aparecer para explicarle su destino durante la infancia ni para sustituir a Garran como guía.
+## 8. Qué obtiene Player de este periodo
 
-Su curiosidad puede comenzar al observar cómo Player reacciona ante una pérdida y ante la idea de que algo termine. No comprende automáticamente sus emociones ni conoce la respuesta a su posible compatibilidad. La relación debe crecer a partir de encuentros propios, con desacuerdos y momentos en los que ambos no se entiendan.
+Player no sale convertido en discípulo de Voss ni en un talento reconocido por una figura de la cima.
 
-La afinidad de Player con el universo permanece separada de la tragedia de la evacuación. No se debe insinuar que el universo provocó la muerte de su amigo salvo que más adelante existan pruebas reales. Así evitamos convertir cada desgracia de Player en una conspiración cósmica.
+Obtiene experiencia en una investigación organizada, conoce procedimientos que no había aprendido en el entrenamiento ordinario y presencia la diferencia entre sus capacidades y las de un cazador extraordinario.
 
-## 8. Riesgos de esta propuesta y límites
+La técnica que Voss pueda mostrarle queda como una imagen difícil de comprender que Player intentará descifrar por su cuenta. La relación puede continuar mediante encuentros posteriores si las circunstancias y las personalidades lo permiten, pero no se presupone una mentoría.
 
-**Riesgo:** que Garran, por ser una figura de la cima, haga que Player parezca especial desde niño o resuelva todos sus problemas.
+## 9. Límites de continuidad
 
-**Límite:** Garran es un guía intermitente, no su tutor permanente. Enseña supervivencia, criterio y fundamentos; no le entrega poder ni lo vuelve invencible. Su compañía y sus responsabilidades limitan su disponibilidad.
+- No destruir la aldea como requisito para que el arco tenga peso.
+- No introducir la muerte de un amigo como motivación automática.
+- No convertir a Player en un prodigio para justificar que Voss lo observe.
+- No hacer que Voss busque discípulos salvo que su caracterización establecida lo indique.
+- No convertir la colaboración con los guardias en entrenamiento de combate: el propósito inicial es investigar, comunicar y reducir desapariciones durante las búsquedas.
+- No asumir que el incidente local y la anomalía perseguida están conectados sin indicios.
+- No definir la inteligencia, capacidades o método de neutralización de la anomalía antes de concretar qué tipo de amenaza es.
+- No fijar la duración de la estancia de Voss hasta conocer las necesidades reales de la investigación.
+- No añadir rasgos a Voss —como paciencia, humor paternal o deseo de enseñar— solo para facilitar la relación con Player.
 
-**Riesgo:** que la muerte del amigo sea una tragedia demasiado convencional.
+## 10. Estado de la propuesta
 
-**Límite:** el peso no debe venir solo de la muerte, sino de la vida compartida antes, la negligencia institucional, la decisión táctica difícil y las consecuencias duraderas para Player, Garran y el asentamiento. Si la escena no desarrolla esos elementos, habrá que cambiarla.
+La dirección acordada presenta a Player como un joven que ya entrena y aprende por iniciativa propia; a Voss como un cazador con una investigación independiente que organiza colaboradores locales por pragmatismo; y a la anomalía como el objetivo central de su persecución.
 
-**Riesgo:** que Player busque fuerza por una sola pérdida y quede definido por ella.
+El encuentro entre Player y Voss es circunstancial. La curiosidad de Voss, si aparece, es ligera y no implica que Player sea especial. Una demostración técnica puede servir como provocación y referencia para Player, sin convertir a Voss en su maestro.
 
-**Límite:** su vida anterior y posterior debe contener objetivos, afectos, humor, curiosidad, errores y relaciones que no giren alrededor de la tragedia.
-
-## 9. Estado de la propuesta
-
-Esta es la ruta que recomiendo para empezar a construir a Player: infancia con vida propia, Garran como mentor irregular y exigente, un quiebre causado por una amenaza y decisiones humanas, y una búsqueda de fuerza que evoluciona con los años.
-
-Los nombres del asentamiento y del amigo, los detalles de la familia y la edad exacta del incidente se concretarán al diseñar los primeros capítulos. La estructura emocional y la función de Garran quedan propuestas, no canon aprobado.
+Los detalles del asentamiento, el incidente, la anomalía, la cronología y el resultado de la cacería siguen pendientes de desarrollo.
