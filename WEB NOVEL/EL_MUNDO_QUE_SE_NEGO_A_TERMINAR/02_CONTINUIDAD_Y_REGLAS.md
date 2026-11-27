@@ -47,7 +47,22 @@ Límites narrativos:
 ### Vínculos relevantes
 - La Diosa de la Memoria ayuda a la sacerdotisa aportando rastros y recuerdos; la sacerdotisa desarrolla sus propias conclusiones.
 - La Diosa de la Vida, en su manifestación luminosa conocida como Diosa de la Luz, acompañó al héroe antiguo y acompaña al Héroe actual. Es la misma diosa y su experiencia debe notarse.
-- La Diosa del Final, en su manifestación oscura conocida como Diosa Oscura, acompaña a Player. Su relación evoluciona desde la curiosidad hasta una afinidad profunda; no empieza como relación maternal.
+- La Diosa del Final, en su manifestación oscura conocida como Diosa Oscura, observa a Player y puede comunicarse con él de manera excepcional y gradual. No lo acompaña constantemente, no interviene cada vez que está en peligro y no empieza como una figura maternal.
+
+### Conexión con el mundo y percepción de las diosas
+
+La percepción de las diosas y la posibilidad de convertirse en recipiente proceden de una misma propiedad: la conexión que cada ser vivo mantiene con el mundo. Las diosas nacieron del mundo y forman parte de él; por eso, percibirlas supone que un individuo tiene una conexión con el mundo más profunda o perceptible que la habitual.
+
+- Todos los seres vivos mantienen una conexión con el mundo, aunque su intensidad y naturaleza pueden variar.
+- En la mayoría esa conexión no permite percibir directamente a las diosas.
+- Cuando alcanza determinadas condiciones, puede manifestarse como sensaciones, presencias, sonidos o palabras fragmentarias. Una conexión excepcionalmente profunda podría permitir una percepción más clara y, en circunstancias extraordinarias, una manifestación visual.
+- Esta percepción no es maná, aura, una técnica de combate ni una habilidad que pueda entrenarse directamente. Tampoco concede fuerza o conocimientos por sí sola.
+- La conexión suficientemente profunda es el requisito fundamental para que un ser pueda convertirse en recipiente. No se trata de una segunda capacidad independiente ni de una compatibilidad separada añadida por conveniencia: la posibilidad de percibir a las diosas y la posibilidad de servir como recipiente son manifestaciones de esa misma conexión, llevada a distintos grados.
+- Percibir una voz no significa que la persona ya pueda albergar a una diosa ni que el procedimiento del recipiente pueda ejecutarse automáticamente. El umbral necesario y las condiciones exactas del procedimiento siguen pendientes.
+- Las diosas normalmente no pueden conversar de forma directa con los habitantes. Pueden transmitir bendiciones o comunicaciones parciales; una percepción directa como la descrita es excepcional.
+- No se establece todavía por qué la conexión de Player destaca ni por qué la Diosa del Final se interesa en él. Esa razón debe descubrirse mediante el desarrollo del lore, no atribuirse a su reencarnación sin fundamento.
+
+La evolución de la percepción no debe funcionar como una escala pública de niveles ni aumentar automáticamente por entrenar, luchar o sufrir. Su progresión requiere una causa propia que todavía debe desarrollarse.
 
 ## 4. La sacerdotisa y el método
 
@@ -73,7 +88,7 @@ Límites narrativos:
 ## 6. Player
 
 - Para esta adaptación, la novela adopta provisionalmente que Player es una persona reencarnada que nace en este mundo. El lore actualizado de JUEGOS todavía presenta esa condición como una dirección provisional; no atribuirla como hecho cerrado al lore base. En la novela tampoco implica que conserve todos los recuerdos de su vida anterior ni que obtenga ventajas automáticas.
-- Su afinidad excepcional con el universo no le concede automáticamente fuerza, habilidades ni destino.
+- Su conexión con el mundo es excepcional en algún aspecto todavía no explicado. Esa misma propiedad permite que, gradualmente, perciba a la Diosa del Final y constituye el requisito fundamental para que pueda llegar a ser recipiente. No le concede automáticamente fuerza, habilidades ni destino.
 - No es el Héroe actual ni el segundo héroe invocado.
 - Su posible compatibilidad como recipiente debe permanecer como hipótesis hasta que la historia reúna pruebas suficientes.
 - No reducir su tragedia a la posibilidad de sacrificarse.
