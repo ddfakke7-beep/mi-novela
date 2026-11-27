@@ -90,9 +90,9 @@ La evolución de la percepción no debe funcionar como una escala pública de ni
 - Para esta adaptación, la novela adopta provisionalmente que Player es una persona reencarnada que nace en este mundo. El lore actualizado de JUEGOS todavía presenta esa condición como una dirección provisional; no atribuirla como hecho cerrado al lore base. En la novela tampoco implica que conserve todos los recuerdos de su vida anterior ni que obtenga ventajas automáticas.
 - Su conexión con el mundo es excepcional en algún aspecto todavía no explicado. Esa misma propiedad permite que, gradualmente, perciba a la Diosa del Final y constituye el requisito fundamental para que pueda llegar a ser recipiente. No le concede automáticamente fuerza, habilidades ni destino.
 - No es el Héroe actual ni el segundo héroe invocado.
-- Su posible compatibilidad como recipiente debe permanecer como hipótesis hasta que la historia reúna pruebas suficientes.
-- No reducir su tragedia a la posibilidad de sacrificarse.
-- La Diosa Oscura lo acompaña y desarrolla con él una relación propia.
+- La posibilidad de que llegue a ser recipiente permanece como hipótesis hasta que la historia reúna pruebas suficientes sobre el grado de su conexión y las condiciones del procedimiento.
+- No reducir su arco a la posibilidad de sacrificarse ni convertirlo en un personaje definido únicamente por su función potencial como recipiente.
+- La Diosa Oscura lo observa y puede desarrollar con él una relación propia mediante comunicaciones excepcionales y graduales; no lo protege ni lo guía constantemente.
 - Player y el Héroe pueden construir una amistad, pero sus trayectorias deben tener autonomía.
 - La separación por captura de Player es una posibilidad establecida para desarrollar; no debe convertirse automáticamente en una muerte ni resolverse enseguida.
 
