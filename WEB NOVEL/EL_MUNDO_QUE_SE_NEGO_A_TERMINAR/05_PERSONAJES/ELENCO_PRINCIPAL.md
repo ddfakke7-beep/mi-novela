@@ -73,7 +73,7 @@ Por tanto, las secciones «Ventaja» y «Proyección» de los doce talentos desc
 
 **Objetivo:** descubrir por qué su expedición fue enviada a una zona cuya clasificación oficial no correspondía con el peligro real. Busca responsables, no venganza ciega.
 
-**Relación con Player y el Héroe:** puede convertirse en mentor circunstancial de Player, pero no será un maestro permanente. Al Héroe lo juzgará por su conducta en una expedición, no por su título.
+**Relación con Player y el Héroe:** puede ser un referente profesional circunstancial para Player, pero no será su maestro ni un mentor permanente. Al Héroe lo juzgará por su conducta en una expedición, no por su título.
 
 **Proyección:** especialista de referencia contra anomalías. Su conocimiento puede salvar a grupos mucho más fuertes que él.
 
