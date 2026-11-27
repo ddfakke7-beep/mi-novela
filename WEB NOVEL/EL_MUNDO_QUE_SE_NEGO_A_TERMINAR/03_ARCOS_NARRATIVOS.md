@@ -73,21 +73,68 @@ Esta saga no es únicamente la cacería de Voss. La investigación de la anomal�
 
 **Resultado:** Player crece dentro de un mundo que sigue funcionando sin él. Voss persigue sus propios objetivos; los guerreros locales tienen capacidades, responsabilidades y opiniones propias; los bandidos actúan por intereses humanos; y Player participa en esos acontecimientos como alguien todavía joven, útil en ciertas circunstancias, limitado en otras y con una forma de combatir que puede resultar tan eficaz como irritante.
 
+- Al terminar el rescate, el comerciante o representante de la caravana recuperada puede compartir información sobre ciudades, rutas y oportunidades fuera de la región. No debe convertirse en un folleto explicativo: sus intereses comerciales y la experiencia del secuestro determinan qué cuenta y por qué. Puede mencionar que existen compañías especializadas que aceptan contratos de rastreo, escolta, investigación y neutralización de anomalías.
+- Ese contacto abre una posibilidad concreta para Player: descubrir que fuera de su asentamiento hay maneras de ganar dinero, adquirir experiencia y acceder a conocimientos que no están disponibles localmente. El comerciante puede ofrecer una presentación, una recomendación o simplemente información verificable; no garantiza un puesto ni organiza el futuro del muchacho.
+
 **Pendientes que no deben fijarse por conveniencia:** naturaleza y reglas de la anomalía; incidente investigado por el asentamiento y su relación —o falta de relación— con la cacería; personalidad concreta de Voss; detalles del asentamiento y cronología; estructura y motivaciones del grupo de bandidos; identidad y función de los cautivos; composición definitiva del equipo de rescate; reglas exactas, costes y limitaciones de la técnica propia de Player; consecuencias finales del rescate y momento del salto temporal.
 
 ## Saga II — Aprender a sobrevivir
 
-**Foco:** el primer camino propio de Player y el contacto con el mundo organizado.
+**Foco:** ampliar el mundo de Player, mostrar cómo funcionan las organizaciones profesionales y obligarlo a ganarse un lugar sin convertirlo en el centro de sus actividades.
 
-- Tras el primer quiebre, Player busca una vía para conseguir recursos, entrenamiento y protección. La propuesta inicial es que intente incorporarse al entorno de la Compañía del Último Rastro, pero deberá ganarse el acceso a las expediciones peligrosas.
-- Garran no será su único maestro ni estará siempre presente. Player desarrollará su capacidad de combate y su criterio con otras personas, rivales y experiencias.
-- Se presenta una organización desde dentro: sus rangos, obligaciones, rivalidades, beneficios y límites.
-- Las amenazas no son encargos rutinarios sin consecuencias. Una expedición puede salir mal, una criatura puede superar la clasificación conocida y una decisión institucional puede dejar desprotegida a una comunidad.
-- Player conoce compañeros y rivales que no existen únicamente para acompañarlo. Cada uno persigue algo propio.
-- Su progreso es gradual. Sobrevivir a una amenaza no significa dominarla ni quedar preparado para la siguiente.
+### A. La posibilidad de salir
 
-**Resultado:** Player obtiene un lugar inicial en el mundo, pero entiende que su fuerza y su libertad tienen un precio.
+- El comerciante relacionado con el rescate introduce de manera orgánica la existencia de ciudades, rutas y compañías especializadas. Habla desde su experiencia e intereses: contratos, escoltas, mercancías, seguros, riesgos y lugares donde se paga por información fiable.
+- Player descubre que hay oportunidades fuera del asentamiento: ganar dinero, conocer otras regiones, aprender de especialistas y enfrentarse a desafíos que no existen en su entorno habitual. La fama puede resultarle atractiva, pero no debe ser su única motivación ni una ambición repentina.
+- La decisión de marcharse debe ser de Player. El comerciante puede facilitar información o una recomendación, pero no resolverle el ingreso ni garantizarle seguridad.
+- El viaje ya amplía su mundo: rutas con distintos niveles de protección, pueblos que dependen del comercio, puestos de vigilancia, compañías rivales y peligros que requieren preparación. No convertir el trayecto en una cadena de ataques aleatorios.
 
+### B. Qué es la Compañía del Último Rastro
+
+- No es un gremio generalista donde cualquier aventurero recoge una misión del tablón y sale a matar monstruos. Es una compañía profesional, móvil y especializada, dirigida por Garran Voss, que acepta contratos relacionados con anomalías y amenazas no ordinarias.
+- Sus trabajos pueden incluir rastrear y clasificar una anomalía, verificar informes, estudiar su comportamiento, preparar una neutralización, contener un área, evacuar personas, recuperar desaparecidos o asegurar una ruta. El combate es solo una parte de su actividad.
+- La compañía cobra por contratos y servicios; negocia alcance, riesgos, plazos, recursos y responsabilidades con comerciantes, asentamientos, autoridades y otras organizaciones. No acepta cualquier encargo ni promete resolver lo que no puede controlar.
+- Mantiene personal permanente y colaboradores contratados según la operación: rastreadores, exploradores, combatientes, especialistas en anomalías, sanadores, cartógrafos, encargados de logística y enlaces locales. No todos son guerreros ni todos participan en cada expedición.
+- Su reputación depende de informes fiables, resultados y supervivencia del equipo. Ocultar un riesgo o falsificar un registro puede costar vidas y destruir contratos futuros. También existen tensiones: pagos atrasados, disputas por atribución de resultados, presión de clientes, competencia con otras compañías y decisiones sobre cuándo abandonar una operación.
+- La compañía no monopoliza la caza de monstruos. La Orden de los Bastiones, la Asociación de Exploradores, autoridades locales, cazadores independientes y fuerzas privadas pueden realizar tareas parecidas desde intereses y capacidades diferentes. El Último Rastro destaca por su especialización y por el criterio de Voss, no por ser la única organización existente.
+
+### C. Ganarse un lugar
+
+- Player busca una oportunidad de incorporarse, posiblemente usando la recomendación o información del comerciante. La compañía evalúa qué puede hacer realmente un muchacho de su edad y qué responsabilidades sería razonable confiarle.
+- No recibe permiso automático para participar en cacerías peligrosas. Puede comenzar como ayudante, aprendiz auxiliar o colaborador en tareas de bajo riesgo: inventario, preparación de equipo, registro, observación, apoyo logístico y prácticas supervisadas.
+- Su experiencia en el asentamiento y el rescate cuenta, pero no equivale a formación profesional. Debe aprender protocolos, jerarquías operativas, señales de retirada, registro de indicios, lectura de mapas, seguridad de campamento y comunicación en terreno.
+- La compañía no adapta todo su funcionamiento para educarlo. Si quiere quedarse, Player debe ser útil, fiable y capaz de aceptar límites. Su descaro y sus provocaciones pueden llamar la atención de algunos miembros, pero también perjudicarlo si no distingue cuándo alguien está dispuesto a bromear y cuándo está trabajando.
+- Garran no se convierte en su tutor permanente. Puede cruzarse con Player, evaluar su comportamiento o responder a alguna provocación, pero tiene contratos, personal y decisiones propias. La formación cotidiana debe venir de varios integrantes y de la experiencia.
+
+### D. Primeras operaciones y ampliación del mundo
+
+- Player empieza participando en tareas de apoyo y después en operaciones de campo proporcionadas a sus capacidades. No todas son combates: algunas requieren seguir rastros, transportar instrumentos, vigilar un perímetro, comprobar una ruta o documentar un fenómeno.
+- Cada operación introduce una clase distinta de problema y una región o comunidad con intereses propios. Una anomalía puede ser territorial, móvil, instintiva, táctica o inteligente; sus capacidades deben definirse antes de la operación y no ajustarse para salvar el plan.
+- Algunas operaciones terminan sin combate porque la información permite evitarlo. Otras requieren retirada, negociación con autoridades, evacuación o contención. La compañía puede decidir no perseguir una amenaza si el riesgo supera el contrato y la capacidad disponible.
+- Al menos una expedición debe poner a prueba la diferencia entre la información contratada y la realidad del terreno. El error no debe surgir porque todos sean incompetentes: puede haber datos desactualizados, un cambio reciente en el comportamiento de la anomalía, información retenida por el cliente o una variable que nadie podía conocer.
+- Player no resuelve la operación. Su aportación debe derivarse de lo que sabe hacer en ese momento y puede ser pequeña pero decisiva para una tarea concreta: detectar una señal, advertir una ruta insegura, mantener una comunicación, ayudar a evacuar o crear una oportunidad para un especialista.
+- Las consecuencias alcanzan a la compañía y a la comunidad afectada: reputación, costes, lesiones, contratos perdidos, nuevas obligaciones o información que cambia la evaluación de una zona.
+
+### E. Personas fuertes y talentos de su generación
+
+- Player empieza a cruzarse con combatientes y talentos de otras organizaciones durante operaciones, reuniones, entrenamientos, inspecciones o incidentes coincidentes. No se organizan encuentros para presentarlos como rivales de Player.
+- Puede ver a alguien extraordinario combatir sin conocer su nombre, presenciar las consecuencias de una técnica o enterarse después de quién intervino. Esos cruces amplían su comprensión de lo que existe en el mundo.
+- Algunos talentos pueden colaborar en una misión porque sus objetivos coinciden temporalmente; otros compiten por un contrato, discrepan sobre el método o se niegan a compartir información. No todos se hacen amigos ni enemigos.
+- Player puede utilizar su descaro y su lectura de personalidades para llamar la atención de personas excéntricas o poderosas. A veces exagera, presume o provoca para conseguir una reacción, tantear el carácter de alguien o divertirse. No debe hacerlo siempre ni sin medir el peligro: distingue, aunque no perfectamente, entre una provocación tolerable y una que puede costarle caro.
+- Su humor puede consistir en presentar como verdad una historia evidentemente adornada, atribuir su técnica a un maestro legendario con un destino absurdo o exagerar el alcance de sus logros. La gracia está en la reacción ajena y en que Player a veces mantiene la compostura con descaro; no convertirlo en un bufón que rompe el tono de cada escena.
+- Si vuelve a encontrarse con Voss, puede bromear sobre haber heredado una técnica o un legado que Garran sabe que nunca le enseñó. Voss responde según su personalidad y su situación, no como un mentor obligado a seguirle el juego.
+
+### F. Desarrollo y cierre de la saga
+
+- Player mejora físicamente mediante entrenamiento constante, crecimiento, descanso y adaptación a las exigencias de las expediciones. La experiencia le enseña qué entrenar, pero no sustituye el trabajo físico.
+- Su técnica incompleta evoluciona a través de usos reales, observación, errores y experimentación. Puede ganar consistencia, eficiencia o nuevas aplicaciones, pero conserva límites y no se convierte en una solución universal.
+- Aprende a distinguir entre una operación que puede afrontar, una que requiere apoyo y otra de la que debe retirarse. También descubre que una organización puede protegerlo y, al mismo tiempo, imponerle obligaciones y restringir sus decisiones.
+- Sus relaciones se desarrollan con personas que tienen agendas, vínculos y problemas fuera de él. Algunos pueden abandonarlo, ascender, cambiar de compañía, competir por contratos o tomar decisiones que Player no comparte.
+- El cierre no requiere que Player alcance un rango alto ni derrote una anomalía excepcional. Debe producirse cuando haya cambiado su posición en el mundo: ya no es solo un chico que salió de su asentamiento, sino alguien que conoce el trabajo profesional, ha ganado cierta confianza y reputación limitada, y tiene razones propias para elegir su siguiente camino.
+
+**Resultado:** Player amplía su mundo y consigue una primera posición dentro de una red profesional sin convertirse en su centro. Conoce amenazas, regiones, organizaciones y talentos que superan su experiencia; aprende que la fama y el poder no se obtienen por acumular encargos, sino por decisiones, resultados y consecuencias.
+
+**Pendientes de desarrollo:** edad y duración de esta etapa; condiciones concretas de admisión de Player; primer contrato en el que participa; integrantes recurrentes de la compañía; clientes y compañías competidoras; primera operación que sale mal; talentos que aparecen de forma circunstancial; y acontecimiento que cierre la saga y abra la siguiente etapa.
 ## Saga III — Una generación de talentos
 
 **Foco:** ampliar el mundo y presentar a quienes definirán la época.
