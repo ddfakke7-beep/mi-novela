@@ -23,7 +23,9 @@ Antes de conocer a Voss, Player ya siente curiosidad por las capacidades de los 
 - Si el sistema de poder lo permite, experimenta con el maná y trata de comprender sus usos, sin asumir que lo domina ni que posee una afinidad excepcional.
 - Puede exigirse más de lo razonable. Su deseo de aprovechar esta vida puede llevarlo a confundir esfuerzo con progreso y a probar cosas para las que todavía no está preparado.
 
-Su entrenamiento inicial no lo convierte en un combatiente destacado. Es un joven que está construyendo fundamentos.
+Antes del encuentro con la anomalía, Player ya tiene una base funcional para defenderse: conoce fundamentos de combate, ha practicado contra otros y tiene una condición física razonable para su edad. No es un novato indefenso, pero tampoco un combatiente adulto. Su preparación justifica que pueda intentar sobrevivir a un peligro real; no garantiza que salga ileso ni que pueda vencerlo.
+- La mentalidad adulta le permite evaluar que un compañero más fuerte puede cumplir mejor una función de primera línea. No confunde valentía con ponerse en peligro innecesariamente. Su cuerpo, sin embargo, sigue siendo el de un niño: no puede compensar con voluntad la diferencia de fuerza, alcance o resistencia.
+- El progreso físico procede del entrenamiento sostenido, la práctica apropiada para su edad, el descanso, la alimentación y el crecimiento natural. Las experiencias peligrosas no aumentan sus atributos por sí solas. Pueden mostrarle qué debe mejorar y darle criterio para entrenar con más sentido; también pueden dejarle lesiones o agotamiento.
 
 ## 3. La llegada de Garran Voss
 
@@ -70,22 +72,23 @@ Player puede quedarse pensando en lo que vio e intentar reproducirlo o entender 
 
 Durante la investigación, Player puede encontrarse con la anomalía antes de que Voss llegue a intervenir.
 
-Su prioridad es sobrevivir. No piensa que pueda derrotar a una amenaza que está claramente por encima de sus capacidades.
+Su prioridad es sobrevivir. No piensa que pueda derrotar a una amenaza que está claramente por encima de sus capacidades, pero eso no significa que pueda limitarse a esconderse y esperar a Voss. El encuentro debe exigirle utilizar de verdad la base de combate que ya construyó.
 
-- Si existe una ruta de escape razonable, corre.
-- Si no puede escapar inmediatamente, busca mantener distancia, obstáculos y oportunidades para retirarse.
-- Puede intentar calcular cuánto tardaría en llegar la ayuda según la ubicación y las comunicaciones disponibles, pero no es un estratega infalible.
-- Si debe combatir para protegerse, lo hace con el objetivo de ganar tiempo o abrir una vía de salida.
-- Puede equivocarse al evaluar la velocidad, alcance o comportamiento de la anomalía.
-- No se queda a luchar para demostrar valor ni espera que Voss llegue en el último segundo por una coincidencia diseñada para salvarlo.
+- Su primer impulso puede ser escapar. Si existe una ruta razonable, la toma sin vergüenza ni necesidad de demostrar valor.
+- Si la anomalía lo detecta, bloquea la salida o lo alcanza, Player debe defenderse: mantener distancia, esquivar, bloquear cuando no tenga alternativa, usar obstáculos, atacar si surge una oportunidad y buscar otra ruta.
+- Puede terminar peleando al límite de sus capacidades. No intenta ganar un duelo imposible: busca sobrevivir, abrir una vía de escape o impedir que la amenaza alcance a otra persona.
+- Puede intentar ganar tiempo si tiene motivos concretos para creer que la ayuda está cerca o que su ausencia será detectada. Si no existe esa expectativa razonable, no debe quedarse esperando un rescate improbable.
+- Si acepta actuar como señuelo o retener la atención de la anomalía, la decisión debe responder a una necesidad inmediata y a un cálculo comprensible: quizá sea la única manera de abrir una salida o proteger a alguien. Sabe que puede morir; no es un sacrificio automático ni una pose heroica.
+- Puede calcular mal la velocidad, el alcance o el comportamiento de la anomalía, agotar sus fuerzas, recibir heridas o descubrir que sus fundamentos no bastan.
+- Voss no debe aparecer porque Player sea especial ni por una coincidencia construida alrededor de él. Si interviene, es porque sigue el rastro de su presa y la investigación lo conduce hasta allí.
 
-El encuentro debe respetar las capacidades reales de Player y de la anomalía. Si sobrevive, debe existir una cadena comprensible de decisiones, circunstancias y límites del enemigo.
+El encuentro debe respetar las capacidades reales de Player y de la anomalía. Si sobrevive, debe existir una cadena comprensible de decisiones, preparación previa, circunstancias, límites del enemigo y, si corresponde, ayuda externa.
 
 Voss interviene porque persigue a esa anomalía y está siguiendo la investigación. No porque Player sea su objetivo ni porque el muchacho haya activado un interés oculto.
 
 ## 7. La técnica propia que Player desarrolla después de observar a Voss
 
-Player no aprende ni reproduce la técnica que Voss demuestra. La diferencia de nivel y de comprensión hace imposible que la copie. La demostración solo le deja una impresión y algunas ideas incompletas sobre lo que podría hacerse con el poder.
+Player no aprende ni reproduce la técnica que Voss demuestra. La diferencia de nivel y de comprensión hace imposible que la copie. La demostración solo le deja una impresión y algunas ideas incompletas sobre lo que podría hacerse con el poder. La técnica propia no aparece completa inmediatamente después de verla: Player experimenta durante un periodo posterior, prueba interpretaciones equivocadas y adapta los resultados a su cuerpo, conocimientos y recursos.
 
 - Player interpreta lo que vio desde sus conocimientos limitados y experimenta por su cuenta.
 - A través de intentos fallidos, práctica y adaptación, desarrolla una técnica propia. No es una versión inferior de la técnica de Voss ni una herencia transmitida por él.
@@ -105,7 +108,7 @@ La operación se complica porque la información era incompleta: la mayoría de 
 
 ### La manera peculiar de combatir de Player
 
-Player es consciente de que no debe ocupar la primera línea. Su prioridad es sobrevivir y aprovechar las capacidades de los demás. No busca molestar al equipo ni hacer que sus compañeros reciban golpes por diversión; sencillamente, cuando un enemigo lo presiona, intenta colocarse detrás de alguien que pueda detenerlo.
+Player es consciente de que no debe ocupar la primera línea. Su prioridad es sobrevivir y aprovechar las capacidades de los demás. Su mentalidad adulta le permite entender que no tiene sentido fingir que puede hacer el trabajo de un guerrero más fuerte: si un compañero está mejor preparado para contener al enemigo, Player considera lógico dejarle esa función y buscar otra manera de contribuir. No busca molestar al equipo ni hacer que sus compañeros reciban golpes por diversión; sencillamente, cuando un enemigo lo presiona, intenta colocarse detrás de alguien que pueda detenerlo.
 
 - Puede retroceder y terminar detrás de un compañero más fuerte.
 - Cuando el enemigo cambia de objetivo, el alivio se le nota involuntariamente en el rostro y en la postura. No necesita decir que ahora le toca a otro: su expresión lo delata.
@@ -126,7 +129,7 @@ Cuando después el compañero se enfada porque Player le ha dejado una tarea má
 
 El rescate puede ser una de las primeras situaciones en las que Player tenga que matar o afrontar seriamente la posibilidad de hacerlo. No debe transformarse de inmediato en un asesino experimentado ni reaccionar de una única manera predeterminada. La experiencia le enseña que un humano puede engañar, retirarse, pedir ayuda, fingir una debilidad o cambiar de táctica; además, el peligro puede aumentar en un instante.
 
-La victoria pertenece al grupo y depende principalmente de los combatientes adultos. Player contribuye de manera limitada pero real. El rescate puede tener heridos, pérdidas, cautivos afectados, enemigos huidos y consecuencias posteriores. La persona rescatada puede volver a aparecer si tiene una vida y unos objetivos que justifiquen ese regreso, pero no se convierte automáticamente en una compañera o vínculo central.
+La victoria pertenece al grupo y depende principalmente de los combatientes adultos. Player contribuye de manera limitada pero real. La experiencia le enseña a leer mejor a los humanos, coordinarse, aprovechar aperturas y reconocer los defectos de su técnica; no lo vuelve físicamente mucho más fuerte de golpe. La mejora de fuerza, resistencia y control seguirá dependiendo de entrenamiento sostenido, recuperación y crecimiento natural. El rescate puede tener heridos, pérdidas, cautivos afectados, enemigos huidos y consecuencias posteriores. La persona rescatada puede volver a aparecer si tiene una vida y unos objetivos que justifiquen ese regreso, pero no se convierte automáticamente en una compañera o vínculo central.
 
 ## 9. El desenlace de la investigación y el cierre de la primera etapa
 
