@@ -22,7 +22,7 @@ Observador, independiente, pragmático, sarcástico y relativamente tranquilo. N
 
 ## Habilidades
 
-Debido a las desgracias que ha vivido, aprende combate, supervivencia, adaptación y lectura de situaciones peligrosas. No es un genio natural: mejora mediante experiencia, errores y esfuerzo.
+Aprende combate, supervivencia, adaptación y lectura de situaciones peligrosas mediante entrenamiento, experiencia, errores y esfuerzo. No necesita una tragedia como detonante ni es un genio natural.
 
 Su competencia debe mostrarse como algo adquirido. Puede interpretar mal una situación, calcular mal sus capacidades, necesitar ayuda o descubrir que una experiencia anterior no le sirve ante un problema nuevo.
 
@@ -66,4 +66,4 @@ Su desarrollo no consiste en transformarse en un salvador universal ni en renunc
 
 ## Relación con el origen y la formación
 
-Esta ficha define cómo es Player y cómo debe comportarse. No aprueba por sí sola todos los elementos de la propuesta biográfica de `12_ORIGEN_Y_FORMACION_DE_PLAYER.md`: la familia, el asentamiento, el amigo de infancia, el incidente de evacuación y los detalles cronológicos siguen sujetos al estado de continuidad de ese documento.
+Esta ficha define cómo es Player y cómo debe comportarse. No aprueba por sí sola todos los elementos de la propuesta biográfica de `12_ORIGEN_Y_FORMACION_DE_PLAYER.md`: la familia, el asentamiento y los detalles cronológicos siguen sujetos al estado de continuidad de ese documento.
