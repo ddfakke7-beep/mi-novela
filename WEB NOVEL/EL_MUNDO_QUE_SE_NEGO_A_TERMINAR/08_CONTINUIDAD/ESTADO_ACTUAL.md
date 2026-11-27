@@ -24,7 +24,7 @@ JUEGOS es el antecedente del material, pero la cosmología de la web novel se de
 - Apertura en la época actual con un conflicto local, no con una explicación cosmológica.
 - Desarrollo paralelo de las líneas del Héroe y Player.
 - Revelaciones graduales sobre la sacerdotisa, el método, la organización y el Desastre actual.
-- Posible compatibilidad de Player como recipiente, tratada como hipótesis hasta confirmarse.
+- La conexión de Player con el mundo destaca por una particularidad todavía no explicada. Esa misma propiedad permite percibir a las diosas y constituye el requisito fundamental para servir como recipiente; no se trata de una segunda compatibilidad independiente.
 - Desconexión como libertad frente al reinicio, no como inmortalidad o solución de todos los problemas.
 
 ## Decisiones que requieren revisión
@@ -36,10 +36,10 @@ JUEGOS es el antecedente del material, pero la cosmología de la web novel se de
 5. Qué personalidad desarrolla el Desastre actual, cómo interpreta los recuerdos heredados y qué relación tiene con su misión.
 6. Cómo funciona la organización y qué sabe de su protegido.
 7. Qué reglas permiten abrir y cortar la conexión.
-8. Si Player es compatible como recipiente y qué alternativas reales existen.
+8. Por qué la conexión de Player con el mundo destaca, cuál es el umbral de percepción y qué condiciones concretas exige el procedimiento del recipiente.
 9. Qué desencadena el deterioro y la guerra actual.
 10. Qué personajes secundarios sostendrán cada saga.
-11. Desarrollo definitivo de la infancia, mentoría y primer quiebre de Player; existe una propuesta inicial en `12_ORIGEN_Y_FORMACION_DE_PLAYER.md`.
+11. Desarrollo definitivo de la infancia, los vínculos iniciales y la cronología de Player; la dirección actual de su formación está en `12_ORIGEN_Y_FORMACION_DE_PLAYER.md`.
 12. Revisar nombres, poderes, motivaciones y relaciones del elenco de `05_PERSONAJES/ELENCO_PRINCIPAL.md`.
 13. Revisar y aprobar la propuesta de mundo, geografía y vida cotidiana de `13_MUNDO_Y_GEOGRAFIA.md`; quedan abiertos el mapa definitivo, las fronteras, el calendario y la ubicación final de los sellos antiguos.
 
@@ -56,7 +56,7 @@ JUEGOS es el antecedente del material, pero la cosmología de la web novel se de
 - Se decidió utilizar la reencarnación de Player como premisa de esta adaptación, distinguiéndola del lore de JUEGOS, donde aún permanece provisional; no es canon literario aprobado.
 - Se alineó la apertura: los primeros capítulos siguen a Player; el Héroe aparece años después, tras su invocación.
 - Se corrigió la estructura para hablar de nueve sagas y un prólogo opcional, no ocho arcos.
-- Se añadió una propuesta concreta de infancia, mentoría y primer quiebre de Player en `12_ORIGEN_Y_FORMACION_DE_PLAYER.md`.
+- Se revisó la propuesta de infancia de Player: entrena por iniciativa propia, participa en la investigación de Voss sin convertirse en su discípulo y no necesita una tragedia como detonante.
 - Se retiró como requisito narrativo que el Desastre quiera proteger algo. Su personalidad y su relación con la misión quedan abiertas; no se le impondrá una rebelión emocional ni un apego sin justificación.
 
 ## Conexión con el mundo, percepción divina y recipiente
