@@ -131,7 +131,7 @@ La prioridad es separar responsabilidades, recursos y autoridad antes de introdu
 
 El directorio 05_PERSONAJES contiene únicamente INDICE.md y ELENCO_PRINCIPAL.md. No existen archivos individuales que puedan auditarse por separado. Esta auditoría se realizó sobre los perfiles colectivos y los trasfondos disponibles.
 
-No se crearán diecinueve fichas vacías ni se duplicará el texto actual por comodidad. La individualización debe comenzar por los personajes que sostienen los primeros arcos: Player, su familia y amigo de infancia, Garran, el Héroe cuando su diseño esté definido, y los personajes recurrentes que intervengan en la apertura.
+No se crearán diecinueve fichas vacías ni se duplicará el texto actual por comodidad. La individualización debe comenzar por los personajes que sostienen los primeros arcos: Player, su familia y sus vínculos cercanos, Garran, el Héroe cuando su diseño esté definido, y los personajes recurrentes que intervengan en la apertura.
 
 ## 8. Orden de corrección recomendado
 
@@ -143,3 +143,10 @@ No se crearán diecinueve fichas vacías ni se duplicará el texto actual por co
 6. Crear fichas individuales a medida que se cierre el diseño de cada personaje recurrente.
 
 **Regla:** un solapamiento no es automáticamente un error. Se vuelve un problema cuando dos personajes u organizaciones hacen el mismo trabajo, tienen la misma autoridad y cumplen la misma función dramática sin una diferencia significativa.
+
+
+## 9. Aclaración sobre la conexión de Player con el mundo
+
+La percepción de las diosas y la posibilidad de convertirse en recipiente no son dos capacidades independientes. Proceden de una misma propiedad: la conexión de los seres vivos con el mundo. Una conexión suficientemente profunda permite percibir a las diosas y constituye el requisito fundamental para servir como recipiente. La razón por la que la conexión de Player destaca sigue pendiente; no debe convertirse a Naira en un detector automático de esa propiedad ni de la presencia de las diosas.
+
+La técnica llamada Resonancia Variable de Naira es una técnica de aura y no guarda relación con la conexión con el mundo. El uso compartido de la palabra «resonancia» no implica que ambos fenómenos pertenezcan al mismo sistema.
