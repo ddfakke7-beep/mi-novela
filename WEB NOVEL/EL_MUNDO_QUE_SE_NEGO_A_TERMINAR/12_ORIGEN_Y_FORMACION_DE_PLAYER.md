@@ -147,7 +147,22 @@ Obtiene experiencia en una investigación organizada, conoce procedimientos que 
 
 La técnica que Voss pueda mostrarle queda como una imagen difícil de comprender que Player intentará descifrar por su cuenta. La relación puede continuar mediante encuentros posteriores si las circunstancias y las personalidades lo permiten, pero no se presupone una mentoría.
 
-## 11. Límites de continuidad
+## 11. La conexión con el mundo y la Diosa del Final
+
+La relación de Player con la Diosa del Final nace de una particularidad de su conexión con el mundo. No es una bendición de combate, una habilidad que Player active ni una recompensa por sus experiencias. Todos los seres vivos mantienen una conexión con el mundo, pero la de Player tiene algo que la Diosa percibe y que todavía no se ha explicado.
+
+- Durante esta etapa, Player puede escuchar sonidos o fragmentos de una voz que no consigue distinguir con claridad. No debe comprender de inmediato que se trata de una diosa ni recibir explicaciones cosmológicas.
+- La manifestación no se basa en sueños. Se presenta como una voz o percepción auditiva confusa, que puede hacer que Player dude de si realmente ha oído algo.
+- La Diosa del Final no aparece a voluntad como una herramienta narrativa. Observa y solo intenta llamar su atención cuando algo de él o de lo que sucede le resulta interesante.
+- No lo protege automáticamente, no evita que corra peligro, no le resuelve problemas y no tiene por qué conocer todo lo que ocurre. Su presencia no sustituye decisiones, investigación ni consecuencias.
+- La Diosa puede llamarlo «hijo», pero no en sentido biológico ni como una relación maternal exclusiva: desde su perspectiva, los seres vivos que algún día regresan al Final son sus hijos.
+- No le enseña técnicas ni le entrega poderes. Puede hacer observaciones, comentarios o señalar algo desde una perspectiva que Player no comprende; sus intervenciones no tienen que ser siempre útiles ni infalibles.
+- La conexión con el mundo es la misma propiedad que permite percibir a las diosas y constituye el requisito fundamental para poder servir como recipiente. No se añadirá una segunda estadística de compatibilidad. Player no es un recipiente activo al inicio y no obtiene poder de la Diosa por escucharla.
+- La razón concreta por la que la conexión de Player destaca, el umbral necesario para percibir a la Diosa y las condiciones exactas para convertirse en recipiente siguen pendientes de desarrollo.
+
+La progresión debe ser gradual: en Saga I predominan sonidos o fragmentos indistinguibles; en Saga II puede llegar a reconocer algunas palabras o frases cortas, todavía sin ver a la Diosa ni mantener conversaciones completas. La evolución no será automática por entrenar, sufrir o luchar y no debe convertirse en un sistema de pistas que resuelva la trama.
+
+## 12. Límites de continuidad
 
 - No destruir la aldea como requisito para que el arco tenga peso.
 - No introducir la muerte de un amigo como motivación automática.
@@ -159,7 +174,7 @@ La técnica que Voss pueda mostrarle queda como una imagen difícil de comprende
 - No fijar la duración de la estancia de Voss hasta conocer las necesidades reales de la investigación.
 - No añadir rasgos a Voss —como paciencia, humor paternal o deseo de enseñar— solo para facilitar la relación con Player.
 
-## 12. Estado de la propuesta
+## 13. Estado de la propuesta
 
 La dirección acordada presenta a Player como un joven que ya entrena y aprende por iniciativa propia; a Voss como un cazador con una investigación independiente que organiza colaboradores locales por pragmatismo; y a la anomalía como el objetivo central de su persecución.
 
