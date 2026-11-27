@@ -22,7 +22,7 @@
 
 - Un sello antiguo no se rompe: alguien lo abre deliberadamente porque cree que el Desastre anterior guarda una respuesta sobre el reinicio.
 - La organización del Desastre puede creer que está criando a un ser excepcional, sin comprender su función universal.
-- La compatibilidad de Player puede ser una conclusión errónea de investigadores que confunden afinidad con capacidad para soportar la conexión.
+- Los investigadores pueden interpretar mal la conexión de Player con el mundo: percibir a una diosa no demuestra por sí solo que el procedimiento del recipiente pueda ejecutarse, aunque esa conexión profunda sea el requisito fundamental para llegar a serlo.
 - El método del héroe antiguo puede ser correcto en teoría, pero incompleto para las condiciones de la época actual.
 - El Desastre puede desarrollar un criterio inesperado sobre su misión a partir de los recuerdos heredados y de sus experiencias, sin que eso implique proteger a alguien ni abandonar el reinicio.
 - Una de las diosas puede oponerse a una estrategia de salvación sin dejar de amar a la humanidad: su desacuerdo nace de cómo interpreta el precio y las consecuencias.
