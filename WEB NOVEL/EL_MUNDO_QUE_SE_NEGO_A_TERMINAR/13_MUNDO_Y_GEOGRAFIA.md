@@ -286,7 +286,7 @@ La apertura debe mostrar, mediante acciones y detalles concretos:
 - La forma en que Garran Voss observa el asentamiento y trabaja, antes de convertirse en mentor.
 - Una anomalía o incidente menor que muestre el peligro sin convertir el primer capítulo en una catástrofe.
 
-La evacuación que podría convertirse en el primer quiebre debe estar preparada por decisiones económicas, informes discutidos y vínculos construidos. No se ejecutará en la apertura solo para enganchar al lector.
+No se establece una evacuación fallida como primer quiebre ni como detonante obligatorio de Player. Los incidentes locales que puedan afectar al asentamiento deben surgir de la geografía, las anomalías y las decisiones de sus habitantes; no se utilizarán para imponer una tragedia personal al protagonista.
 
 ## 12. Riesgos y límites de esta propuesta
 
