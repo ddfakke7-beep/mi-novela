@@ -64,6 +64,20 @@ No todos los individuos excepcionales pertenecen a una de las cinco institucione
 
 Una figura cercana a la cima debe tener razones para conservar esa fuerza y límites para movilizarla. No todos sus seguidores tienen que ser poderosos; la logística, lealtad, recursos y reputación también cuentan.
 
+### Compañía del Último Rastro — Garran Voss
+
+Compañía móvil especializada en rastreo, investigación, preparación y neutralización de anomalías. Es una fuerza profesional independiente, no un gremio abierto de aventureros ni una institución que monopolice todos los contratos de monstruos.
+
+- **Dirección:** Garran Voss. Su autoridad procede de su capacidad, experiencia, reputación y responsabilidad sobre el personal y los contratos. No puede estar presente en todas las operaciones.
+- **Servicios:** rastreo y clasificación de anomalías; verificación de informes; investigación de rastros y patrones; preparación de métodos de neutralización; contención; evacuación y rescate; recuperación de desaparecidos; y evaluación o aseguramiento temporal de rutas.
+- **Contratación:** trabaja con asentamientos, comerciantes, autoridades, casas mercantiles y otras organizaciones. Cada contrato delimita el objetivo, los recursos disponibles, el pago, los riesgos conocidos y las responsabilidades. La compañía puede rechazarlo, renegociarlo o retirarse si la situación supera lo acordado o sus capacidades.
+- **Personal:** combina rastreadores, exploradores, combatientes, especialistas, sanadores, cartógrafos, técnicos y logística. Una operación se arma según la naturaleza de la amenaza; no todos los integrantes son combatientes ni todos los equipos tienen la misma composición.
+- **Estructura:** mantiene un núcleo estable que administra equipo, registros, entrenamiento y planificación, junto con equipos de campo y colaboradores locales o temporales. La compañía se desplaza según los contratos y las zonas de actividad, con bases o puntos de apoyo temporales.
+- **Método:** prioriza información fiable, preparación y supervivencia. Eliminar una anomalía no siempre es la mejor solución: puede ser necesario contenerla, desviar una ruta, evacuar una población o esperar mejores condiciones. Los informes posteriores son parte del trabajo.
+- **Conflictos internos y externos:** presión de clientes para declarar segura una ruta, pagos insuficientes, competencia por contratos, disputas sobre quién recibe crédito, pérdida de equipo, lesiones, desacuerdos sobre retiradas y tensión entre el deber profesional y la supervivencia del personal.
+- **Límites:** no posee recursos infinitos, no puede cubrir todas las regiones y no siempre dispone del especialista adecuado. Su reputación no impide errores, derrotas ni decisiones discutibles.
+- **Relación con Player:** su incorporación no es automática ni constituye una adopción personal de Voss. Player debe demostrar utilidad y fiabilidad; puede empezar en funciones auxiliares y aprender de varios miembros. Garran conserva sus propios objetivos y solo interviene cuando sus responsabilidades lo justifican.
+
 ## 3. La generación de Player y el Héroe
 
 Debe haber como mínimo diez talentos destacados de esa generación, con orígenes y especialidades diferentes. Algunos estarán vinculados a las grandes organizaciones; otros pertenecerán a escuelas, familias, grupos independientes o no tendrán afiliación estable.
