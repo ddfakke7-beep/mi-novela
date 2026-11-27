@@ -34,11 +34,11 @@ El método no consiste en que un héroe acumule suficiente poder para romper el 
 
 **Preparación:** notas incompletas, pruebas fallidas, lenguaje técnico que distingue abrir de cortar y decisiones del héroe antiguo que parecen inexplicables.
 
-## Giro 6 — Player podría ser compatible, pero eso no lo convierte en sacrificio predestinado
+## Giro 6 — La conexión de Player podría convertirlo en recipiente, pero no lo condena a serlo
 
-La afinidad de Player puede convertirlo en candidato para abrir la conexión. La revelación debe ser una posibilidad aterradora, no una sentencia. La afinidad no le concede poderes automáticos ni demuestra que sea el único candidato.
+La conexión que todos los seres vivos mantienen con el mundo puede alcanzar distintos grados. Cuando es suficientemente profunda, permite percibir a las diosas; llevada al grado y las condiciones necesarias, constituye el requisito fundamental para servir como recipiente. Player destaca por una particularidad de esa misma conexión, todavía no explicada. La revelación debe ser una posibilidad aterradora, no una sentencia: no le concede poderes automáticos, no demuestra que sea el único candidato y no significa que la Diosa del Final pueda utilizarlo sin un procedimiento.
 
-**Preparación:** anomalías pequeñas, observaciones de la Diosa Oscura, investigaciones que no llegan a una conclusión inmediata. Debe existir margen para que la hipótesis se confirme, se refute o cambie.
+**Preparación:** fragmentos de voz que Player no comprende al principio, observaciones ocasionales de la Diosa Oscura y descubrimientos que permiten reinterpretar esa percepción. La explicación no debe aparecer de golpe ni convertir cada experiencia peligrosa en una pista divina.
 
 ## Giro 7 — El Desastre no interpreta su misión como lo haría un humano
 
