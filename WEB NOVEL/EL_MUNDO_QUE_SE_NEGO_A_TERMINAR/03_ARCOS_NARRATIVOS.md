@@ -16,6 +16,8 @@ Un fragmento de la guerra de hace 500 años: el héroe antiguo y sus compañeros
 
 Esta saga no es únicamente la cacería de Voss. La investigación de la anomalía es el primer gran acontecimiento que altera la rutina de Player; el rescate posterior permite explorar otro tipo de peligro, sus primeras experiencias serias contra humanos y su manera poco convencional de colaborar en combate. Ambos sucesos forman parte de una etapa de infancia y formación, sin convertir cada problema regional en una trama secreta conectada.
 
+En paralelo, Player puede experimentar los primeros indicios de la Diosa del Final a través de su conexión con el mundo. En esta saga solo percibe sonidos o fragmentos de una voz que no logra distinguir ni comprender. No lo interpreta como una comunicación divina y no recibe ayuda práctica ni poderes. La voz no aparece necesariamente durante el peligro y no altera el resultado de la cacería o del rescate.
+
 ### A. Vida inicial y formación cotidiana
 
 - Player nace y crece en el mundo como reencarnado, mucho antes de la invocación del Héroe actual. Su condición influye en su manera de pensar y aprovechar esta vida, pero no le concede poder, talento extraordinario ni conocimientos infalibles.
@@ -83,6 +85,8 @@ Esta saga no es únicamente la cacería de Voss. La investigación de la anomal�
 **Foco:** ampliar el mundo de Player, mostrar cómo funcionan las organizaciones profesionales y obligarlo a ganarse un lugar sin convertirlo en el centro de sus actividades.
 
 ### A. La posibilidad de salir
+
+La percepción de Player puede volverse algo más clara durante esta etapa. Tras experiencias y cambios acumulados, empieza a reconocer algunas palabras o frases cortas de la voz que antes eran indistinguibles. No ve a la Diosa ni mantiene todavía conversaciones completas. Puede dudar de lo que oye y pensar que su propia percepción le está jugando una mala pasada. La Diosa interviene de forma ocasional, por interés propio, no como guía constante ni como fuente fiable de soluciones.
 
 - El comerciante relacionado con el rescate introduce de manera orgánica la existencia de ciudades, rutas y compañías especializadas. Habla desde su experiencia e intereses: contratos, escoltas, mercancías, seguros, riesgos y lugares donde se paga por información fiable.
 - Player descubre que hay oportunidades fuera del asentamiento: ganar dinero, conocer otras regiones, aprender de especialistas y enfrentarse a desafíos que no existen en su entorno habitual. La fama puede resultarle atractiva, pero no debe ser su única motivación ni una ambición repentina.
