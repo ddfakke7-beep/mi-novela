@@ -119,7 +119,7 @@ Por tanto, las secciones «Ventaja» y «Proyección» de los doce talentos desc
 
 **Personalidad:** tranquila, sensible a los cambios del entorno y difícil de leer. No es tímida: simplemente procesa demasiado antes de hablar. Puede parecer distante cuando en realidad está saturada.
 
-**Combate — Resonancia Variable:** adapta su aura a propiedades del entorno y puede interferir con técnicas que dependan de patrones estables. No copia habilidades; altera sus condiciones de funcionamiento.
+**Combate — Resonancia Variable:** adapta su aura a propiedades del entorno y puede interferir con técnicas que dependan de patrones estables. No copia habilidades; altera sus condiciones de funcionamiento. Este nombre describe exclusivamente su técnica de aura y no tiene relación con la conexión con el mundo que permite percibir a las diosas.
 
 **Ventaja:** es una combatiente muy incómoda para usuarios especializados. Puede desestabilizar técnicas que serían decisivas contra otros rivales.
 
@@ -127,7 +127,7 @@ Por tanto, las secciones «Ventaja» y «Proyección» de los doce talentos desc
 
 **Objetivo:** entender si su afinidad es una condición natural, una consecuencia de la región donde nació o una señal de algo que todavía no comprende.
 
-**Relación con Player y el Héroe:** su sensibilidad puede hacer que note fenómenos extraños alrededor de Player, pero no sabrá explicar qué significan. No será una detectora infalible del destino.
+**Relación con Player y el Héroe:** su técnica y sensibilidad pueden hacer que note alguna irregularidad alrededor de Player, pero no le permiten percibir a las diosas ni identificar la conexión de Player. No sabrá explicar automáticamente qué significan esos fenómenos y no será una detectora infalible del destino.
 
 **Proyección:** potencial excepcional y difícil de clasificar. Puede convertirse en una especialista decisiva contra ciertos fenómenos.
 
