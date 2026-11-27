@@ -33,7 +33,7 @@ Las escenas de otras épocas deben ser breves y justificadas por una revelación
 
 ## 5. Tragedia
 
-La tragedia de Player debe ser acumulativa, pero no una cadena mecánica de muertes para provocar tristeza. Cada pérdida debe alterar su visión, sus vínculos o sus decisiones. Que conserve su humanidad debe verse en acciones concretas, incluso cuando esté agotado o enfadado.
+El mundo puede producir tragedias acumulativas y consecuencias duraderas, pero la historia de Player no necesita una cadena de pérdidas personales para tener peso. Sus conflictos también pueden nacer de curiosidad, ambición, decisiones, vínculos, errores, oportunidades y objetivos propios. Cuando sufra una pérdida, esta debe alterar de forma concreta su visión, sus vínculos o sus decisiones; no se introducirán muertes cercanas como detonante automático. Que conserve su humanidad debe verse en acciones concretas, incluso cuando esté agotado o enfadado.
 
 La gravedad del Desastre no depende de que quiera proteger algo ni de que se rebele: depende de su misión, de sus consecuencias y de la lógica propia con la que interpreta su existencia.
 
