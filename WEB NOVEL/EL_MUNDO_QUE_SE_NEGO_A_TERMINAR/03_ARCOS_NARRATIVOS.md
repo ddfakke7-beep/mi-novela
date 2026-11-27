@@ -223,7 +223,7 @@ La percepción de Player puede volverse algo más clara durante esta etapa. Tras
 
 - La organización alcanza su verdadero protagonismo como antagonista de largo recorrido, sin que eso signifique que haya controlado cada desgracia anterior.
 - Las trayectorias de Player, el Héroe, el Desastre, las diosas y los demás personajes convergen por decisiones previas.
-- La posible compatibilidad de Player como recipiente se confirma, descarta o transforma mediante pruebas y reglas establecidas; no se da por predestinada.
+- La posibilidad de que Player llegue a servir como recipiente se confirma, descarta o transforma mediante pruebas y reglas establecidas. Depende de la misma conexión con el mundo que permite percibir a las diosas; no se introduce una capacidad independiente de compatibilidad ni se da por predestinada.
 - El Héroe decide qué hacer con el método heredado. No es un ejecutor automático de la voluntad del héroe antiguo.
 - Player no es sacrificado por decisión ajena ni existe únicamente para cumplir el método.
 - La desconexión, si se logra, no revierte muertes ni crea una utopía. Libera al mundo del mecanismo de reinicio, pero deja a sus habitantes la responsabilidad de construir su futuro.
